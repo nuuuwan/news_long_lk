@@ -32,7 +32,7 @@ jobs:
       - name: STEP 1) scrape
         run: |
           export PYTHONPATH="$PYTHONPATH:./src"
-          python workflows/scrape.py
+          python workflows/scrape.py  "${{ secrets.OPENAI_API_KEY }}"
 
       - name: Push to github repo
         run: |
