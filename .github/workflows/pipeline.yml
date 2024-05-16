@@ -2,8 +2,8 @@ name: pipeline
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "44 * * * *"
+  # schedule:
+  #   - cron: "44 * * * *"
 
 jobs:
   pipeline:
