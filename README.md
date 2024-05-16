@@ -12,3 +12,8 @@
 * 2024-05-14 [Untangling Sri Lanka’s messy government structure](data/articles/20240514-untangling-sri-lanka-s-messy-gov-bd7b67b11590a182f5e694391489c3ae)
 * 2024-05-14 [Foreigner, Freeman forced out of Parliament 90 years ago First British passport holder elected to Parliament in 1924](data/articles/20240514-foreigner-freeman-forced-out-of--0867cd1f3f3be0e58f64ede8b4c8c975)
 * 2024-05-13 [Tamil and Muslim voting trends in Presidential Elections](data/articles/20240513-tamil-and-muslim-voting-trends-i-62ab96fc6d2bedc5087486f47b594993)
+* 2024-05-13 [Israel has lost its moral compass and conscience](data/articles/20240513-israel-has-lost-its-moral-compas-1eacc0a14efac601719f1a6180683cb8)
+* 2024-05-13 [Who’s to blame for Ms. Diana’s flaws - EDITORIAL](data/articles/20240513-who-s-to-blame-for-ms-diana-s-fl-0537e9e59c66ec907b253285fc89f193)
+* 2024-05-13 [Indo-Lanka land connectivity most ambitious  move- Indian High Commissioner](data/articles/20240513-indo-lanka-land-connectivity-mos-74cb8c1ce2dad96c82ec569409c04c7e)
+* 2024-05-11 [‘The best time to plant a tree was 25 years ago, the second best is today’](data/articles/20240511--the-best-time-to-plant-a-tree-w-bae58d359ae399e0829a30edaded60b4)
+* 2024-05-11 [Effectiveness Of Lanka’s Legal System And Challenges That Lie Ahead](data/articles/20240511-effectiveness-of-lanka-s-legal-s-0ee4b0808679654be06fbddd8db33396)
