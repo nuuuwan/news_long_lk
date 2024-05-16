@@ -102,14 +102,13 @@ class Article(ArticleHead):
         assert self.ai_summary
         assert self.ai_image_path
 
-        ai_image_path_unix = self.ai_image_path.path.replace('\\', '/')
         
         readme_file = JSONFile(os.path.join(self.dir_path, 'README.md'))
         lines = (
             [
                 f'# {self.title}',
                 '',
-                f'![AI Image]({ai_image_path_unix})',
+                f'![AI Image]({ai_image.png})',
                 '',
                 '*(AI Generated Summary)*',
                 '',
