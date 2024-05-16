@@ -4,47 +4,19 @@
 
 ## AI Generated Summary
 
-- **Proceeds of Crime Act (POCA) in Sri Lanka:**
-  - Agreement between GoSL and IMF includes a benchmark to enact a POCA by April 2024.
-  - Framework report for POCA was released in April 2023.
-
-- **Proposed Changes and Issues:**
-  - Current framework aims to recover stolen assets but needs strengthening to prevent re-theft.
-  - Risks of abuse of power and lack of public participation are major concerns.
-  
-- **Key Concerns:**
-  - Risk of re-stealing in asset recovery processes.
-  - Need for proper management and safeguarding of funds like PCMA and VCRTF.
-  - High international examples of re-corruption emphasize the need for robust safeguards.
-  
-- **Safeguarding Due-Process:**
-  - Proposed law needs a balance between swift recovery and protection of individuals' rights.
-  - Concerns over procedural overreach and the potential for abuse by Sri Lankan officials.
-  - More safeguards required, such as judicial sanctions for investigative actions.
-  
-- **Public Participation and Transparency:**
-  - Enhancing public participation and legal standing in the asset recovery process is critical.
-  - Framework should comply with UNCAC and GFAR principles to engage civil society.
-  - Current framework limits public involvement and lacks transparency regarding information sharing.
-
-- **Transparency Measures:**
-  - Framework should align with Sri Lanka’s existing Right to Information Act.
-  - Encourage public monitoring to prevent re-corruption.
-  
-- **Need for Public Consultation:**
-  - Lack of public consultation in creating the framework is a significant oversight.
-  - Addressing grand corruption requires dismantling entrenched networks, requiring political will.
-  
-- **Overall Recommendations:**
-  - Four key improvements include stronger safeguards, public legal standing, enhanced transparency, and thorough public consultation.
-  - Effective implementation needs overcoming resistance from powerful, politically connected individuals.
-  
-- **Conclusion:**
-  - Solid start, but significant improvements needed for effective recovery and prevention of asset re-theft.
-  - Important to not rush the process and guarantee the framework's robustness and public support.
-
-- **Authors:**
-  - Article by the Head of Governance and Anti-Corruption division at Verité Research, with assistance from a Research Analyst at Verité Research.
+- Protests in 2022 highlighted the call for recovering stolen assets, similar to the Abacha loot returned to Nigeria by Switzerland.
+- Sri Lanka's government committed to enact a Proceeds of Crime Act (POCA) by April 2024, as per an IMF agreement.
+- A committee chaired by Supreme Court Justice Yasantha Kodagoda produced a 182-page report on the POCA framework.
+- The proposed framework needs significant improvements to prevent re-stealing of recovered assets and curb abuse of power.
+- The Proceeds of Crime Management Authority (PCMA) and the Victims of Crime Reparation Trust Fund (VCRTF) need robust safeguards against fraud and corruption.
+- Past international experiences, like Nigeria and Ukraine, show high risks of re-corruption.
+- The proposed law should ensure due process, protecting individual rights and requiring judicial orders for asset investigation notices.
+- Public participation is crucial in asset recovery, enhancing legal standing and right to information according to UNCAC and GFAR Principles.
+- The current framework offers limited public consultation and lacks a solid provision for information transparency.
+- Wider public consultation and proactive measures for transparency and accountability are necessary to mitigate re-corruption risks.
+- Addressing grand corruption requires dismantling entrenched political structures and implementing laws with political will.
+- The proposed improvements include better safeguarding against asset disappearance, ensuring due process, providing legal standing to citizens, and maintaining transparency and right to information.
+- The law-making process should be thorough and not rushed to ensure its effectiveness and public trust.
 
 ## Original Text
 

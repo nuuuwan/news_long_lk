@@ -1,3 +1,4 @@
+from functools import cached_property
 import os
 import sys
 from dataclasses import dataclass
@@ -29,6 +30,9 @@ class Article(ArticleHead):
             body_paragraphs=self.body_paragraphs,
         )
     
+    @property
+    def dir_path_unix(self):
+        return self.dir_path.replace('\\', '/')
 
     @staticmethod
     def from_dict(d):
@@ -46,7 +50,17 @@ class Article(ArticleHead):
     def from_file(article_file):
         d = article_file.read()
         return Article.from_dict(d)
-
+    
+    @staticmethod
+    def list_all():
+        articles = []
+        for child_dir in os.listdir(Article.DIR_DATA):
+            article_file = JSONFile(os.path.join(Article.DIR_DATA, child_dir, 'article.json'))
+            if article_file.exists:
+                article =  Article.from_file(article_file)
+                articles.append(article)
+        log.debug(f'Found {len(articles)} articles')
+        return articles
 
     def save(self):
         if not os.path.exists(self.dir_path):
@@ -54,16 +68,13 @@ class Article(ArticleHead):
         self.article_file.write(self.todict())
         log.info(f'Wrote {self.article_file.path}')
 
-
-
-    def save_ai_summary(self):
+    @cached_property 
+    def ai_summary(self):
         ai_summary_file = File(
             os.path.join(self.dir_path, 'ai_summary.txt')
         )
         if ai_summary_file.exists:
-            log.debug(f'{ai_summary_file.path} exists')
-            self.ai_summary = ai_summary_file.read()
-            return
+            return ai_summary_file.read()
 
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
@@ -83,18 +94,15 @@ class Article(ArticleHead):
         ai_summary = response.choices[0].message.content
         ai_summary_file.write(ai_summary)
         log.info(f'Wrote {ai_summary_file.path}')
-        self.ai_summary = ai_summary
+        return ai_summary
 
-
-    def save_ai_image(self):
-        assert self.ai_summary
+    @cached_property
+    def ai_image_path(self):
         ai_image_path = JSONFile(
             os.path.join(self.dir_path, 'ai_image.png')
         )
         if os.path.exists(ai_image_path.path):
-            log.debug(f'{ai_image_path.path} exists')
-            self.ai_image_path = ai_image_path
-            return
+            return ai_image_path
 
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
@@ -114,7 +122,7 @@ class Article(ArticleHead):
         
         WWW.download_binary(image_url, ai_image_path.path)
         log.info(f'Wrote {ai_image_path.path}')
-        self.ai_image_path = ai_image_path
+        return ai_image_path
 
     def save_readme(self):
         assert self.ai_summary
@@ -147,7 +155,18 @@ class Article(ArticleHead):
 
     def save_all(self):
         self.save()
-        self.save_ai_summary()
-        self.save_ai_image()
+        self.ai_summary
+        self.ai_image_path
         self.save_readme()
-        
+
+
+    @staticmethod
+    def build_readme():
+        articles = Article.list_all()
+        lines = ['# Sri Lankan News :sri_lanka:', '', '*Long-Form Articles & Opinions*', '']
+        for article in articles:
+            lines.append(f'* {article.date_id} [{article.title}]({article.dir_path_unix})')
+
+        readme_path = 'README.md'
+        File(readme_path).write_lines(lines)
+        log.info(f'Wrote {readme_path}')
