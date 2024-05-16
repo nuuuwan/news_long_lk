@@ -121,7 +121,6 @@ class Article(ArticleHead):
 
         prompt = f'Generate a painting titled "{self.title} in Sri Lanka"' 
 
-
         try:
             response = client.images.generate(
                 model="dall-e-3",
@@ -142,10 +141,6 @@ class Article(ArticleHead):
         return ai_image_path
 
     def save_readme(self):
-        assert self.ai_summary
-        assert self.ai_image_path
-
-        
         readme_file = JSONFile(os.path.join(self.dir_path, 'README.md'))
         lines = (
             [
