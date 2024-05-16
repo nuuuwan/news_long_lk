@@ -87,7 +87,7 @@ class Article(ArticleHead):
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
 
-        system_cmd = "Summarize this article into a list of short bullets."
+        system_cmd = "Summarize the following article:"
         try:
             response = client.chat.completions.create(
                 model="gpt-4o",
@@ -144,8 +144,6 @@ class Article(ArticleHead):
             [
                 f'# {self.title}',
                 '',
-                '![AI Image](ai_image.png)',
-                '',
                 '## AI Generated Summary',
                 '',
                 self.ai_summary,
@@ -158,7 +156,11 @@ class Article(ArticleHead):
                 '',
             ]
             + [paragraph + '\n' for paragraph in self.body_paragraphs]
-            + ['']
+            + [
+                '',
+                '![AI Image](ai_image.png)',
+                '',
+            ]
         )
         readme_file.write_lines(lines)
         log.info(f'Wrote {readme_file.path}')
