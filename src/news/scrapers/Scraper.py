@@ -1,9 +1,10 @@
 import os
-import re
 
 import requests
 from bs4 import BeautifulSoup
-from utils import Hash, JSONFile, Log, TimeFormat
+from utils import Log, TimeFormat
+
+from news.core import Article, ArticleHead
 
 log = Log('Scraper')
 
@@ -15,9 +16,9 @@ class Scraper:
         x = (page_num - 1) * 30
         return f'https://www.dailymirror.lk/opinion/231/{x}'
 
-    def get_article_info_list(self, limit: int) -> list[dict]:
+    def get_article_head_list(self, limit: int) -> list:
         page_num = 1
-        d_list = []
+        article_head_list = []
         while True:
             url = self.get_url_for_page(page_num)
             log.debug(f'[get_urls] {url=}')
@@ -37,42 +38,29 @@ class Scraper:
                     TimeFormat('%d %b %Y').parse(date_str)
                 )
 
-                d = dict(url=url, date_id=date_id, title=title)
-                d_list.append(d)
-                if len(d_list) == limit:
-                    return d_list
+                article_head = ArticleHead(
+                    url=url, date_id=date_id, title=title
+                )
+                article_head_list.append(article_head)
+                if len(article_head_list) == limit:
+                    return article_head_list
             page_num += 1
 
-    @staticmethod
-    def get_file_name(url: str, date_id: str, title: str):
-        h = Hash.md5(url)[:8]
-        title_part = re.sub(r'\W+', ' ', title.lower())
-        title_part = re.sub(r'\s+', ' ', title_part)[:32]
-        title_part = title_part.replace(' ', '-')
-        return f'{date_id}.{title_part}.{h}.json'
-
-    def scrape_article(self, article_info: dict):
-        url = article_info['url']
-        date_id = article_info['date_id']
-        title = article_info['title']
-        file_name = Scraper.get_file_name(url, date_id, title)
-        file_path = os.path.join(Scraper.DIR_ARTICLES, file_name)
-        article_file = JSONFile(file_path)
+    def scrape_article(self, article_head: ArticleHead):
+        article_file = article_head.article_file
         if article_file.exists:
-            log.debug(f'{file_path} exists')
-            return
+            log.debug(f'{article_head.article_file.path} exists')
+            return None
 
-        log.debug(f'[scrape_url] {url=}')
-        page = requests.get(url)
+        log.debug(f'[scrape_article] {article_head=}')
+        page = requests.get(article_head.url)
         soup = BeautifulSoup(page.content, 'html.parser')
 
         meta_data_published = soup.find(
             'meta', attrs={'itemprop': 'datePublished'}
         )
         time_str = meta_data_published['content']
-
         ut = TimeFormat('%Y-%m-%dT%H:%M:%S%z').parse(time_str).ut
-
         content = soup.find('header', {'class': 'inner-content'}).text
         body_paragraphs = [
             paragraph
@@ -80,18 +68,17 @@ class Scraper:
             if paragraph.strip() != ''
         ]
 
-        d = dict(
-            url=url,
-            date_id=date_id,
-            ut=ut,
+        return Article(
+            url=article_head.url,
+            date_id=article_head.date_id,
+            title=article_head.title,
             time_str=time_str,
-            title=title,
+            ut=ut,
             body_paragraphs=body_paragraphs,
         )
-        article_file.write(d)
-        log.info(f'Wrote {file_path}')
 
     def scrape(self, limit: int):
-        d_list = self.get_article_info_list(limit)
-        for d in d_list:
-            self.scrape_article(d)
+        for article_head in self.get_article_head_list(limit):
+            article = self.scrape_article(article_head)
+            if article:
+                article.save()
