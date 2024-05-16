@@ -82,3 +82,4 @@ class Scraper:
             article = self.scrape_article(article_head)
             if article:
                 article.save()
+                article.save_readme()
