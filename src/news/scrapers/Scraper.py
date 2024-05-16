@@ -50,7 +50,7 @@ class Scraper:
         article_file = article_head.article_file
         if article_file.exists:
             log.debug(f'{article_head.article_file.path} exists')
-            return None
+            return Article.from_file(article_file)
 
         log.debug(f'[scrape_article] {article_head=}')
         page = requests.get(article_head.url)
@@ -80,5 +80,4 @@ class Scraper:
     def scrape(self, limit: int):
         for article_head in self.get_article_head_list(limit):
             article = self.scrape_article(article_head)
-            if article:
-                article.save_all()
+            article.save_all()

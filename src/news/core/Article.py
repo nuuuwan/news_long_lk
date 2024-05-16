@@ -3,7 +3,7 @@ import sys
 from dataclasses import dataclass
 
 import openai
-from utils import JSONFile, Log, WWW
+from utils import JSONFile, Log, WWW, File
 
 from news.core.ArticleHead import ArticleHead
 
@@ -28,6 +28,24 @@ class Article(ArticleHead):
             ut=self.ut,
             body_paragraphs=self.body_paragraphs,
         )
+    
+
+    @staticmethod
+    def from_dict(d):
+        return Article(
+            url=d['url'],
+            date_id=d['date_id'],
+            title=d['title'],
+            #
+            time_str=d['time_str'],
+            ut=d['ut'],
+            body_paragraphs=d['body_paragraphs'],
+        )
+    
+    @staticmethod
+    def from_file(article_file):
+        d = article_file.read()
+        return Article.from_dict(d)
 
 
     def save(self):
@@ -39,9 +57,13 @@ class Article(ArticleHead):
 
 
     def save_ai_summary(self):
-        ai_summary_file = JSONFile(
-            os.path.join(self.dir_path, 'ai_summary.md')
+        ai_summary_file = File(
+            os.path.join(self.dir_path, 'ai_summary.txt')
         )
+        if ai_summary_file.exists:
+            log.debug(f'{ai_summary_file.path} exists')
+            self.ai_summary = ai_summary_file.read()
+            return
 
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
@@ -59,22 +81,20 @@ class Article(ArticleHead):
         )
 
         ai_summary = response.choices[0].message.content
-        ai_summary_file.write_lines(
-            [
-                f'# {self.title}',
-                '',
-                '*(AI Generated Summary)*',
-                '',
-                ai_summary,
-                '',
-            ]
-        )
+        ai_summary_file.write(ai_summary)
         log.info(f'Wrote {ai_summary_file.path}')
         self.ai_summary = ai_summary
 
 
     def save_ai_image(self):
         assert self.ai_summary
+        ai_image_path = JSONFile(
+            os.path.join(self.dir_path, 'ai_image.png')
+        )
+        if os.path.exists(ai_image_path.path):
+            log.debug(f'{ai_image_path.path} exists')
+            self.ai_image_path = ai_image_path
+            return
 
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
@@ -91,9 +111,7 @@ class Article(ArticleHead):
 
         image_url = response.data[0].url
         log.debug(f'{image_url=}')
-        ai_image_path = JSONFile(
-            os.path.join(self.dir_path, 'ai_image.png')
-        )
+        
         WWW.download_binary(image_url, ai_image_path.path)
         log.info(f'Wrote {ai_image_path.path}')
         self.ai_image_path = ai_image_path
@@ -108,11 +126,13 @@ class Article(ArticleHead):
             [
                 f'# {self.title}',
                 '',
-                f'![AI Image]({ai_image.png})',
+                f'![AI Image](ai_image.png)',
                 '',
-                '*(AI Generated Summary)*',
+                '## AI Generated Summary',
                 '',
                 self.ai_summary,
+                '',
+                '## Original Text',
                 '',
                 f'[{self.url}]({self.url})',
                 '',

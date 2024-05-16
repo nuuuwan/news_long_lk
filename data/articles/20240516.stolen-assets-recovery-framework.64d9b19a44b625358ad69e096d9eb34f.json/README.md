@@ -2,35 +2,61 @@
 
 ![AI Image](ai_image.png)
 
-*(AI Generated Summary)*
+## AI Generated Summary
 
-- The movement to recover stolen assets, highlighted during the 2022 protests, remains pertinent in Sri Lanka's context.
-- The Government of Sri Lanka (GoSL) and the IMF have an agreement that includes enacting a Proceeds of Crime Act (POCA) by April 2024.
-- In March 2023, the Justice Minister appointed a committee chaired by Supreme Court Justice Yasantha Kodagoda to develop the POCA framework.
-- Despite creating a comprehensive asset recovery system, the framework needs improvement to prevent re-stealing and abuse of power.
-- The Proceeds of Crime Management Authority (PCMA) and Victims of Crime Reparation Trust Fund (VCRTF) handle large sums, posing risks such as fraud and corruption.
-- Historical examples from Nigeria and Ukraine illustrate the threat of re-corruption during asset recovery.
-- The draft law must balance swift action with protecting individuals' rights and ensuring judicial oversight in asset investigations.
-- The United Nations Convention Against Corruption (UNCAC) and Global Forum on Asset Recovery principles recommend public participation and transparency in the asset recovery process.
-- Public participation can be enhanced by granting legal standing in criminal proceedings and ensuring the right to information.
-- The framework should be revised to avoid procedural overreach and unnecessary secrecy, ensuring transparency and public accountability.
-- Wider public consultation is necessary as the current framework responds to public demand for anti-corruption measures.
-- Comprehensive asset recovery laws demand political will and should dismantle entrenched corruption networks.
-- The law should ensure the safe tracing, seizing, freezing, and confiscating of assets with due-process safeguards.
-- The writer suggests four key improvements: preventing asset disappearance, enhancing due-process safeguards, providing legal standing for the public, and ensuring transparency.
-- The law-making process should not be rushed to avoid compromising its effectiveness.
+- **Proceeds of Crime Act (POCA) in Sri Lanka:**
+  - Agreement between GoSL and IMF includes a benchmark to enact a POCA by April 2024.
+  - Framework report for POCA was released in April 2023.
 
-The article was written by the Head of Governance and Anti-Corruption research at Verité Research, with Janithrika Jayasundara's assistance.
+- **Proposed Changes and Issues:**
+  - Current framework aims to recover stolen assets but needs strengthening to prevent re-theft.
+  - Risks of abuse of power and lack of public participation are major concerns.
+  
+- **Key Concerns:**
+  - Risk of re-stealing in asset recovery processes.
+  - Need for proper management and safeguarding of funds like PCMA and VCRTF.
+  - High international examples of re-corruption emphasize the need for robust safeguards.
+  
+- **Safeguarding Due-Process:**
+  - Proposed law needs a balance between swift recovery and protection of individuals' rights.
+  - Concerns over procedural overreach and the potential for abuse by Sri Lankan officials.
+  - More safeguards required, such as judicial sanctions for investigative actions.
+  
+- **Public Participation and Transparency:**
+  - Enhancing public participation and legal standing in the asset recovery process is critical.
+  - Framework should comply with UNCAC and GFAR principles to engage civil society.
+  - Current framework limits public involvement and lacks transparency regarding information sharing.
+
+- **Transparency Measures:**
+  - Framework should align with Sri Lanka’s existing Right to Information Act.
+  - Encourage public monitoring to prevent re-corruption.
+  
+- **Need for Public Consultation:**
+  - Lack of public consultation in creating the framework is a significant oversight.
+  - Addressing grand corruption requires dismantling entrenched networks, requiring political will.
+  
+- **Overall Recommendations:**
+  - Four key improvements include stronger safeguards, public legal standing, enhanced transparency, and thorough public consultation.
+  - Effective implementation needs overcoming resistance from powerful, politically connected individuals.
+  
+- **Conclusion:**
+  - Solid start, but significant improvements needed for effective recovery and prevention of asset re-theft.
+  - Important to not rush the process and guarantee the framework's robustness and public support.
+
+- **Authors:**
+  - Article by the Head of Governance and Anti-Corruption division at Verité Research, with assistance from a Research Analyst at Verité Research.
+
+## Original Text
 
 [https://www.dailymirror.lk/opinion/Stolen-Assets-Recovery-Framework-There-is-much-room-for-improvement/172-282665](https://www.dailymirror.lk/opinion/Stolen-Assets-Recovery-Framework-There-is-much-room-for-improvement/172-282665)
 
 *2024-05-16T00:00:00+05:30*
 
-The rallying call for recovering stolen assets during the 2022 protests is still fresh in our minds. If the Abacha loot could be returned to Nigeria by Switzerland, could Sri Lanka not do the same?
+The rallying call for recovering stolen assets during the 2022 protests is still fresh in our minds. If the Abacha loot could be returned to Nigeria by Switzerland, could Sri Lanka not do the same? 
 
-In response to the protests and building on the work done by experts over many years, the agreement between the Government of Sri Lanka (GoSL) and the IMF now contains a structural benchmark where the GoSL has committed to enact a Proceeds of Crime Act (POCA) in keeping with international standards by April 2024.
+In response to the protests and building on the work done by experts over many years, the agreement between the Government of Sri Lanka (GoSL) and the IMF now contains a structural benchmark where the GoSL has committed to enact a Proceeds of Crime Act (POCA) in keeping with international standards by April 2024. 
 
-In March 2023, the Minister of Justice appointed a committee chaired by Supreme Court Justice Yasantha Kodagoda. Dated April 10, 2024, the182-page report of the POCA Committee, now available on the website of the Ministry of Justice, sets out a framework for an upcoming Proceeds of Crime Act.
+In March 2023, the Minister of Justice appointed a committee chaired by Supreme Court Justice Yasantha Kodagoda. Dated April 10, 2024, the182-page report of the POCA Committee, now available on the website of the Ministry of Justice, sets out a framework for an upcoming Proceeds of Crime Act. 
 
 The current framework is a good start with room for improvement
 
@@ -42,15 +68,15 @@ Wherever there is a large pot of money, the risk of theft is high. In this frame
 
 The PCMA manages assets under investigation, safeguarding against depreciation or loss. Upon court confiscation, 80% goes to the VCRTF for victim compensation. Recovered assets will, for the most part, be vested in these two funds. Both funds face risks like fraud, corruption, embezzlement, etc., necessitating robust safeguards.
 
-International experience shows us that this risk is very high. Nigeria found that public officials plundered Abacha assets even after they were returned to Nigeria by the authorities in Switzerland, after long investigations and negotiations. In Ukraine, officials at the highest levels of its asset management authority (ARMA) colluded with others to severely undervalue assets worth USD 17 million to their own advantage.
+International experience shows us that this risk is very high. Nigeria found that public officials plundered Abacha assets even after they were returned to Nigeria by the authorities in Switzerland, after long investigations and negotiations. In Ukraine, officials at the highest levels of its asset management authority (ARMA) colluded with others to severely undervalue assets worth USD 17 million to their own advantage. 
 
 We should not allow the same corrupt systems that allowed assets to be stolen to once again benefit a few at the cost of the many.
 
 Safeguarding Due-Process
 
-The proposed law needs to balance swift action for asset recovery, while protecting individuals’ rights during asset investigations.
+The proposed law needs to balance swift action for asset recovery, while protecting individuals’ rights during asset investigations. 
 
-The current draft raises concerns of potential procedural overreach, especially considering past abuses of power by the Sri Lanka Police. For instance, the Framework allows Investigation Officers to issue Notices Calling for Explanation to any person suspected of possessing proceeds of crime. Even in countries such as Nigeria and the United Kingdom where new legislation has been introduced on asset recovery, such requests typically require judicial orders and are limited to public officials or politically exposed persons.
+The current draft raises concerns of potential procedural overreach, especially considering past abuses of power by the Sri Lanka Police. For instance, the Framework allows Investigation Officers to issue Notices Calling for Explanation to any person suspected of possessing proceeds of crime. Even in countries such as Nigeria and the United Kingdom where new legislation has been introduced on asset recovery, such requests typically require judicial orders and are limited to public officials or politically exposed persons. 
 
 The approach in Sri Lanka’s draft law lacks strong precedent and warrants further scrutiny. Given the risk of investigative powers being abused for political or personal agendas, more safeguards are needed, possibly through additional checks, such as judicial sanction, early in the process.
 
@@ -58,17 +84,17 @@ Enabling public participation in asset recovery
 
 The United Nations Convention Against Corruption (UNCAC) in Article 13, calls for active participation of civil society and non-governmental actors in the fight against corruption, including access to information and greater contribution to decision-making.
 
-More specifically, Principle 10 of the asset recovery principles formulated at the Global Forum on Asset Recovery in 2017 (GFAR Principles) recommends that “individuals and groups outside the public sector, such as civil society, non-governmental organisations, and community-based organisations” should be encouraged to engage in the asset return process.
+More specifically, Principle 10 of the asset recovery principles formulated at the Global Forum on Asset Recovery in 2017 (GFAR Principles) recommends that “individuals and groups outside the public sector, such as civil society, non-governmental organisations, and community-based organisations” should be encouraged to engage in the asset return process. 
 
 Legal standing in criminal proceedings: This is an important means by which public participation in asset recovery can be enhanced. A useful example of such a case comes from France, where two civil society organisations, Sherpa and Transparency International France, successfully filed action in the French courts against Theodorin Obiang, the former Vice-President of Equatorial Guinea.
 
-The current Framework extends only to victims who seek the right for compensation through civil action for losses incurred due to criminal activities. However, it is also vital to grant legal standing to citizens to intervene in ongoing criminal proceedings or independently apply to court, even if they are not direct victims or authorised representatives.
+The current Framework extends only to victims who seek the right for compensation through civil action for losses incurred due to criminal activities. However, it is also vital to grant legal standing to citizens to intervene in ongoing criminal proceedings or independently apply to court, even if they are not direct victims or authorised representatives. 
 
-In crimes involving the abuse of public resources, the “victims” are often the general public, and direct victims may lack the resources for legal action. Legal standing is especially crucial when the state fails to initiate criminal proceedings, even when assets are re-corrupted.
+In crimes involving the abuse of public resources, the “victims” are often the general public, and direct victims may lack the resources for legal action. Legal standing is especially crucial when the state fails to initiate criminal proceedings, even when assets are re-corrupted. 
 
-Right to Information and Transparency: The proposed Framework is silent on the right to information. Furthermore, it makes it an offence for certain information to be shared. It also states that this law would supersede all other laws. This is ill-advised. There is no reason to make provision to shield information through the POCA, when the Right to Information Act of Sri Lanka already contains a comprehensive and positive regime of information disclosure for transparency, accountability and anti-corruption.
+Right to Information and Transparency: The proposed Framework is silent on the right to information. Furthermore, it makes it an offence for certain information to be shared. It also states that this law would supersede all other laws. This is ill-advised. There is no reason to make provision to shield information through the POCA, when the Right to Information Act of Sri Lanka already contains a comprehensive and positive regime of information disclosure for transparency, accountability and anti-corruption. 
 
-Proactive measures to enhance transparency and public accountability through disclosing information about the assets seized and recovered, and encouraging public monitoring, could mitigate the risk of re-corruption of the assets under the authority of PCMA and VCRTF. Simply reporting to Parliament and subjecting the PCMA to audits would be insufficient in asset recovery law.
+Proactive measures to enhance transparency and public accountability through disclosing information about the assets seized and recovered, and encouraging public monitoring, could mitigate the risk of re-corruption of the assets under the authority of PCMA and VCRTF. Simply reporting to Parliament and subjecting the PCMA to audits would be insufficient in asset recovery law. 
 
 There is value to wider public consultation
 
@@ -78,10 +104,11 @@ Addressing grand corruption, that is entrenched in the top tiers of society, req
 
 The big picture
 
-Sri Lanka is embarking on an important step. Recovering proceeds of crime (including stolen assets) requires tracing, seizing, freezing and confiscating them by the state, while navigating the laws of different countries.
+Sri Lanka is embarking on an important step. Recovering proceeds of crime (including stolen assets) requires tracing, seizing, freezing and confiscating them by the state, while navigating the laws of different countries. 
 
-The current Framework is a good starting point. Improvements are needed to it to ensure that the assets in question do not disappear or move as soon as an investigation commences, and for there to be better due-process safeguards, including for the people that are accused. Law should not be abused, even in the quest for justice and reparations. Furthermore, the Framework can be improved to provide legal standing for the wider public in the recovery process, and to remove the current features that compromise the right to information and transparency.
+The current Framework is a good starting point. Improvements are needed to it to ensure that the assets in question do not disappear or move as soon as an investigation commences, and for there to be better due-process safeguards, including for the people that are accused. Law should not be abused, even in the quest for justice and reparations. Furthermore, the Framework can be improved to provide legal standing for the wider public in the recovery process, and to remove the current features that compromise the right to information and transparency. 
 
 This is a law that will tend to be resisted by the powerful and politically connected. What I have outlined are a set of four improvements that can be crucial to make the law effective and meet the legitimate expectations of the Sri Lankan public. The law-making process should not be so rushed as to seriously compromise its intended goal.
 
 The writer is the Head of the Governance and Anti-Corruption research division at Verité Research. The article was written with assistance from Janithrika Jayasundara, a Research Analyst at Verité Research.
+
