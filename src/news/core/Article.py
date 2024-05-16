@@ -4,7 +4,7 @@ import sys
 from dataclasses import dataclass
 
 import openai
-from utils import JSONFile, Log, WWW, File
+from utils import JSONFile, Log, WWW, File, Time, TimeFormat
 
 from news.core.ArticleHead import ArticleHead
 
@@ -29,6 +29,10 @@ class Article(ArticleHead):
             ut=self.ut,
             body_paragraphs=self.body_paragraphs,
         )
+    
+    @property
+    def date_str(self):
+        return TimeFormat.DATE.format(Time(self.ut))
     
     @property
     def dir_path_unix(self):
@@ -59,6 +63,10 @@ class Article(ArticleHead):
             if article_file.exists:
                 article =  Article.from_file(article_file)
                 articles.append(article)
+        articles.sort(
+            key=lambda article: article.ut,
+            reverse=True,
+        )
         log.debug(f'Found {len(articles)} articles')
         return articles
 
@@ -165,7 +173,7 @@ class Article(ArticleHead):
         articles = Article.list_all()
         lines = ['# Sri Lankan News :sri_lanka:', '', '*Long-Form Articles & Opinions*', '']
         for article in articles:
-            lines.append(f'* {article.date_id} [{article.title}]({article.dir_path_unix})')
+            lines.append(f'* {article.date_str} [{article.title}]({article.dir_path_unix})')
 
         readme_path = 'README.md'
         File(readme_path).write_lines(lines)
