@@ -1,12 +1,13 @@
 import os
 
-from news import Scraper, Article
+from news import Article, Scraper
 
 
 def main():
     limit = 1 if os.name == 'nt' else 15
     Scraper().scrape(limit=limit)
     Article.build_readme()
+
 
 if __name__ == "__main__":
     main()

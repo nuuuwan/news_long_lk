@@ -1,10 +1,10 @@
-from functools import cached_property
 import os
 import sys
 from dataclasses import dataclass
+from functools import cached_property
 
 import openai
-from utils import JSONFile, Log, WWW, File, Time, TimeFormat
+from utils import WWW, File, JSONFile, Log, Time, TimeFormat
 
 from news.core.ArticleHead import ArticleHead
 
@@ -29,11 +29,11 @@ class Article(ArticleHead):
             ut=self.ut,
             body_paragraphs=self.body_paragraphs,
         )
-    
+
     @property
     def date_str(self):
         return TimeFormat.DATE.format(Time(self.ut))
-    
+
     @property
     def dir_path_unix(self):
         return self.dir_path.replace('\\', '/')
@@ -49,19 +49,21 @@ class Article(ArticleHead):
             ut=d['ut'],
             body_paragraphs=d['body_paragraphs'],
         )
-    
+
     @staticmethod
     def from_file(article_file):
         d = article_file.read()
         return Article.from_dict(d)
-    
+
     @staticmethod
     def list_all():
         articles = []
         for child_dir in os.listdir(Article.DIR_DATA):
-            article_file = JSONFile(os.path.join(Article.DIR_DATA, child_dir, 'article.json'))
+            article_file = JSONFile(
+                os.path.join(Article.DIR_DATA, child_dir, 'article.json')
+            )
             if article_file.exists:
-                article =  Article.from_file(article_file)
+                article = Article.from_file(article_file)
                 articles.append(article)
         articles.sort(
             key=lambda article: article.ut,
@@ -76,11 +78,9 @@ class Article(ArticleHead):
         self.article_file.write(self.todict())
         log.info(f'Wrote {self.article_file.path}')
 
-    @cached_property 
+    @cached_property
     def ai_summary(self):
-        ai_summary_file = File(
-            os.path.join(self.dir_path, 'ai_summary.txt')
-        )
+        ai_summary_file = File(os.path.join(self.dir_path, 'ai_summary.txt'))
         if ai_summary_file.exists:
             return ai_summary_file.read()
 
@@ -99,7 +99,7 @@ class Article(ArticleHead):
                     },
                 ],
             )
-        except:
+        except BaseException:
             log.error(f'Failed to summarize {self.url}')
             return ''
 
@@ -110,16 +110,14 @@ class Article(ArticleHead):
 
     @cached_property
     def ai_image_path(self):
-        ai_image_path = JSONFile(
-            os.path.join(self.dir_path, 'ai_image.png')
-        )
+        ai_image_path = JSONFile(os.path.join(self.dir_path, 'ai_image.png'))
         if os.path.exists(ai_image_path.path):
             return ai_image_path
 
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
 
-        prompt = f'Generate a painting titled "{self.title} in Sri Lanka"' 
+        prompt = f'Generate a painting titled "{self.title} in Sri Lanka"'
 
         try:
             response = client.images.generate(
@@ -129,13 +127,13 @@ class Article(ArticleHead):
                 quality="standard",
                 n=1,
             )
-        except:
+        except BaseException:
             log.error(f'Failed to generate image for {self.url}')
             return None
 
         image_url = response.data[0].url
         log.debug(f'{image_url=}')
-        
+
         WWW.download_binary(image_url, ai_image_path.path)
         log.info(f'Wrote {ai_image_path.path}')
         return ai_image_path
@@ -146,7 +144,7 @@ class Article(ArticleHead):
             [
                 f'# {self.title}',
                 '',
-                f'![AI Image](ai_image.png)',
+                '![AI Image](ai_image.png)',
                 '',
                 '## AI Generated Summary',
                 '',
@@ -156,7 +154,7 @@ class Article(ArticleHead):
                 '',
                 f'[{self.url}]({self.url})',
                 '',
-                 f'*{self.time_str}*',
+                f'*{self.time_str}*',
                 '',
             ]
             + [paragraph + '\n' for paragraph in self.body_paragraphs]
@@ -171,14 +169,20 @@ class Article(ArticleHead):
         self.ai_image_path
         self.save_readme()
 
-
     @staticmethod
     def build_readme():
         articles = Article.list_all()
-        lines = ['# Sri Lankan News :sri_lanka:', '', '*Long-Form Articles & Opinions*', '']
+        lines = [
+            '# Sri Lankan News :sri_lanka:',
+            '',
+            '*Long-Form Articles & Opinions*',
+        ]
+        prev_date_str = None
         for article in articles:
-            lines.append(f'* {article.date_str} [{article.title}]({article.dir_path_unix})')
-
+            if prev_date_str != article.date_str:
+                lines.extend(['', f'## {article.date_str}', ''])
+            lines.append(f'* [{article.title}]({article.dir_path_unix})')
+            prev_date_str = article.date_str
         readme_path = 'README.md'
         File(readme_path).write_lines(lines)
         log.info(f'Wrote {readme_path}')
