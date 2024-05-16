@@ -15,11 +15,11 @@ class ArticleHead:
 
     @property
     def dir_path(self):
-        h = Hash.md5(self.url)
+        h = Hash.md5(self.url)[:8]
         title_part = re.sub(r'\W+', ' ', self.title.lower())
-        title_part = re.sub(r'\s+', ' ', title_part)[:32]
+        title_part = re.sub(r'\s+', ' ', title_part)[:32].strip()
         title_part = title_part.replace(' ', '-')
-        dir_name = f'{self.date_id}-{title_part}-{h}'
+        dir_name = f'{self.date_id}-{h}-{title_part}'
         return os.path.join(ArticleHead.DIR_DATA, dir_name)
 
     @property
