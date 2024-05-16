@@ -88,16 +88,20 @@ class Article(ArticleHead):
         client = openai.Client(api_key=openai_api_key)
 
         system_cmd = "Summarize this article into a list of short bullets."
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": system_cmd},
-                {
-                    "role": "user",
-                    "content": '\n\n'.join(self.body_paragraphs),
-                },
-            ],
-        )
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o",
+                messages=[
+                    {"role": "system", "content": system_cmd},
+                    {
+                        "role": "user",
+                        "content": '\n\n'.join(self.body_paragraphs),
+                    },
+                ],
+            )
+        except:
+            log.error(f'Failed to summarize {self.url}')
+            return ''
 
         ai_summary = response.choices[0].message.content
         ai_summary_file.write(ai_summary)
@@ -117,13 +121,18 @@ class Article(ArticleHead):
 
         prompt = f'Generate an image without text to represent: {self.ai_summary}' 
 
-        response = client.images.generate(
-            model="dall-e-3",
-            prompt=prompt,
-            size="1024x1024",
-            quality="standard",
-            n=1,
-        )
+
+        try:
+            response = client.images.generate(
+                model="dall-e-3",
+                prompt=prompt,
+                size="1024x1024",
+                quality="standard",
+                n=1,
+            )
+        except:
+            log.error(f'Failed to generate image for {self.url}')
+            return None
 
         image_url = response.data[0].url
         log.debug(f'{image_url=}')
