@@ -4,7 +4,7 @@ from news import Article, Scraper
 
 
 def main():
-    limit = 1 if os.name == 'nt' else 20
+    limit = 1 if os.name == 'nt' else 5
     Scraper().scrape(limit=limit)
     Article.build_readme()
 
