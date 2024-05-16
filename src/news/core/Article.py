@@ -119,7 +119,7 @@ class Article(ArticleHead):
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
 
-        prompt = f'Generate an image without text to represent: {self.ai_summary}' 
+        prompt = f'Generate a painting titled "{self.title} in Sri Lanka"' 
 
 
         try:
