@@ -81,5 +81,4 @@ class Scraper:
         for article_head in self.get_article_head_list(limit):
             article = self.scrape_article(article_head)
             if article:
-                article.save()
-                article.save_readme()
+                article.save_all()

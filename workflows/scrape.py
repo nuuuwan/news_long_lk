@@ -4,7 +4,7 @@ from news import Scraper
 
 
 def main():
-    limit = 5 if os.name == 'nt' else 60
+    limit = 1 if os.name == 'nt' else 30
     Scraper().scrape(limit=limit)
 
 
