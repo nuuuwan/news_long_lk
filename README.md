@@ -5,6 +5,8 @@
 ## 2024-05-17
 
 * [Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/20240517-23bcb9c9-lawmakers-must-note-that-stars-i)
+* [Nakba continues amid Zionist newspeak](data/articles/20240517-6a528dfb-nakba-continues-amid-zionist-new)
+* [1998 Bharathipuram killings and accountability for wartime atrocities](data/articles/20240517-8bfcd872-1998-bharathipuram-killings-and)
 
 ## 2024-05-16
 
