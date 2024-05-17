@@ -177,10 +177,13 @@ class Article(ArticleHead):
     @staticmethod
     def build_readme():
         articles = Article.list_all()
+        last_updated_str = TimeFormat.TIME.formatNow
         lines = [
             '# Sri Lankan News :sri_lanka:',
             '',
             '*Long-Form Articles & Opinions*',
+            '',
+            f'Last Updated **{last_updated_str}**',
         ]
         prev_date_str = None
         for article in articles:

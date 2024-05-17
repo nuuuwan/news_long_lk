@@ -2,6 +2,8 @@
 
 *Long-Form Articles & Opinions*
 
+Last Updated **2024-05-17 12:10:21**
+
 ## 2024-05-17
 
 * [Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/20240517-23bcb9c9-lawmakers-must-note-that-stars-i)
