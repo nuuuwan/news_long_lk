@@ -117,7 +117,10 @@ class Article(ArticleHead):
         openai_api_key = sys.argv[1]
         client = openai.Client(api_key=openai_api_key)
 
-        prompt = f'Generate a painting titled "{self.title} in Sri Lanka"'
+        prompt = (
+            'Generate a painting, in a genre of your choosing, '
+            + f'titled "{self.title}" in a Sri Lankan context.'
+        )
 
         try:
             response = client.images.generate(
