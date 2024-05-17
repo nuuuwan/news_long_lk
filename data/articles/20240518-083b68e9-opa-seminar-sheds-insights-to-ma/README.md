@@ -1,0 +1,28 @@
+# OPA seminar sheds insights to managing Sri Lanka’s ageing population
+
+## AI Generated Summary
+
+Sri Lanka has the largest ageing population in South Asia, prompting urgent actions to address the associated challenges. At a recent seminar by the Organisation of Professional Associations of Sri Lanka, experts discussed the trends and challenges in managing this demographic. University of Colombo's Prof. Sudath Warnakulasuriya, University of Peradeniya's Dr. Sarath Rathnayake, and Consultant Dr. Sanath Hettige highlighted issues such as gerontophobia, ageism, elder abuse, healthcare costs, and caregiver strain. They pointed out that ageing also presents opportunities, citing the productivity of older age groups.
+
+Key insights included the importance of addressing dementia, with Dr. Rathnayake noting that conditions like Alzheimer’s are common, emphasizing early detection and lifestyle factors to delay progression. Dr. Hettige discussed the role of physical activity and proper diet in slowing ageing, recommending regular exercise and healthy food choices. He noted that while chronological ageing is inevitable, biological ageing can be managed through lifestyle modifications. The seminar underscored the need for a collective and proactive approach to the growing ageing population in Sri Lanka.
+
+## Original Text
+
+[https://www.ft.lk/opinion/OPA-seminar-sheds-insights-to-managing-Sri-Lanka-s-ageing-population/14-761922](https://www.ft.lk/opinion/OPA-seminar-sheds-insights-to-managing-Sri-Lanka-s-ageing-population/14-761922)
+
+*2024-05-17 20:27:15*
+
+Sri Lanka has the largest ageing population in South Asia and urgent steps need to be taken to address the problems of this rapidly increasing demographic, according to the speakers at a recent program held at the Organisation of Professional Associations of Sri Lanka. 
+
+The seminar, which focused on the topic of “Trends and Challenges in the Management of Ageing” featured University of Colombo Faculty of Nursing Dean Prof. Sudath Warnakulasuriya, University of Peradeniya Department of Nursing Senior Lecturer Dr. Sarath Rathnayake, and Consultant in Family Medicine, and Health and Nutrition Committee Chairman Dr. Sanath Hettige. The event was jointly organised by the Senior Professionals’ Committee and the Health and Nutrition Committee of the OPA.
+
+Eng. Shantha Senarath, a Past President of OPA and the Moderator of the seminar, delivering the introductory speech mentioned that the objective of the seminar is to find the real meaning of ageing and also how ageing can be slowed down.
+
+Prof. Sudath Warnakulasuriya observed that 12.4% of Sri Lanka’s population is aged 60 years and above, with the number projected to reach 25% by 2041. He stated that this creates challenges that need to be addressed through collective effort. Some of these challenges were identified as gerontophobia, ageism as well as elder abuse and neglect. Other issues included increased healthcare costs, housing and accessibility challenges and elderly caregiver stain. The aged often suffer from major health problems such as chronic diseases, cognitive decline, mobility issues, sensory impairment, cardiovascular diseases, and respiratory disorders. However, he reminded the audience that old age was also a time of opportunity as the average age of Nobel Prize winners was 62 years while 60-70 years has been identified as the most productive age group.
+
+Dr. Sarath Rathnayake described dementia, which often affects the aged, as an umbrella term that describes a set of symptoms with Alzheimer’s Disease being the most common form of dementia. He noted that mild cognitive impairment, such as short-term memory loss, was often an early symptom of dementia. Consequently, those who develop such symptoms should see a doctor as soon as possible. While dementia is presently incurable, its progress can be delayed through medication. Poor nutrition, falls and pneumonia can increase the risk of developing dementia. Dr. Rathnayake stressed the importance of remaining mentally, physically and socially active in order to prevent the onset of dementia. Maintaining a healthy diet, consuming enough vitamins and getting good quality sleep is also important as is quitting smoking and managing cardiovascular risk factors. Hearing problems should be quickly treated as it can affect thinking. Addressing psychological health problems was also important.
+
+It was possible to delay the effects of ageing through physical activity, Dr. Sanath Hettige said in his presentation. It was also important to maintain a proper diet. He pointed out that watermelon, strawberry and beetroot were among the food items that have been found to prevent aging. He also highlighted the importance of detecting illness such as early diabetes, high blood pressure and cholesterol early as chronic diseases hasten the ageing process. Dr. Hettige stressed the need to include both cardiovascular and muscle strengthening exercises in one’s daily routine. Keeping one’s muscles strong was essential to carry out daily activities. He advised attendees to engage in regular moderate exercise of about one hour in duration in order to burn the optimum amount of fat. This was often better than vigorous exercise which burns more glycogen rather than fat. He noted that adults aged 65 years and older have been advised to have at least 150 minutes of moderate intensity exercise per week as well as two days of muscle strengthening exercises. His concluding message was that although chronological aging is unstoppable, biological ageing can be slowed down to a great extent.
+
+
+![AI Image](ai_image.png)

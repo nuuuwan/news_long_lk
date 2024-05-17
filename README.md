@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-17 22:06:41**
+Last Updated **2024-05-18 02:07:26**
 
 ## 2024-05-17
 
+* [Will Ranil regain support of Tamil and Muslim voters?](data/articles/20240517-dac34841-will-ranil-regain-support-of-tam)
+* [Who will benefit from an election boycott by Tamils?](data/articles/20240517-73c59396-who-will-benefit-from-an-electio)
+* [Members of our Parliament and French Queen Marie Antoinette -EDITORIAL](data/articles/20240517-dbe99058-members-of-our-parliament-and-fr)
+* [What should we commemorate in Sri Lanka in the month of May?](data/articles/20240518-97229396-what-should-we-commemorate-in-sr)
+* [Public-private partnerships and blended finance for climate action](data/articles/20240518-68803a1e-public-private-partnerships-and)
+* [‘Interventions’: A book review](data/articles/20240518-7d9f92af-interventions-a-book-review)
+* [OPA seminar sheds insights to managing Sri Lanka’s ageing population](data/articles/20240518-083b68e9-opa-seminar-sheds-insights-to-ma)
+* [What must Sri Lanka do to avoid a second default in the near future?](data/articles/20240518-0e8c0875-what-must-sri-lanka-do-to-avoid)
 * [Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/20240517-23bcb9c9-lawmakers-must-note-that-stars-i)
 * [Nakba continues amid Zionist newspeak](data/articles/20240517-6a528dfb-nakba-continues-amid-zionist-new)
 * [1998 Bharathipuram killings and accountability for wartime atrocities](data/articles/20240517-8bfcd872-1998-bharathipuram-killings-and)
