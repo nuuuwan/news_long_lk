@@ -1,12 +1,13 @@
 import os
 
-from news import Article, Scraper
+from news import Article, ScraperFactory
 
 
 def main():
     limit = 1 if os.name == 'nt' else 5
-    Scraper().scrape(limit=limit)
-    Article.build_readme()
+    for scraper in ScraperFactory.list():
+        scraper().scrape(limit=limit)
+        Article.build_readme()
 
 
 if __name__ == "__main__":
