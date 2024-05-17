@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-17 12:10:21**
+Last Updated **2024-05-17 14:05:08**
 
 ## 2024-05-17
 
@@ -17,6 +17,7 @@ Last Updated **2024-05-17 12:10:21**
 
 * [Telecom Act amendments don’t address the future: Are they at least fixing flaws from the past?](data/articles/20240516-0cfcda94-telecom-act-amendments-don-t-add)
 * [Stolen Assets Recovery Framework: There is much room for improvement](data/articles/20240516-64d9b19a-stolen-assets-recovery-framework)
+* [Proposed wage hike Estate workers appreciated or trapped in election promise?](data/articles/20240516-bd43d5ec-proposed-wage-hike-estate-worker)
 * [Family is the first essential cell of human society](data/articles/20240516-ada7c4ce-family-is-the-first-essential-ce)
 
 ## 2024-05-15
