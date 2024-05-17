@@ -6,5 +6,5 @@ class ScraperFactory:
     def list():
         return [
             FTLK,
-            # DailyMirrorLK,
+            DailyMirrorLK,
         ]
