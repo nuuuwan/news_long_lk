@@ -2,6 +2,10 @@
 
 *Long-Form Articles & Opinions*
 
+## 2024-05-17
+
+* [Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/20240517-23bcb9c9-lawmakers-must-note-that-stars-i)
+
 ## 2024-05-16
 
 * [Stolen Assets Recovery Framework: There is much room for improvement](data/articles/20240516-64d9b19a-stolen-assets-recovery-framework)

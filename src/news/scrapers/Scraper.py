@@ -2,7 +2,7 @@ import os
 
 import requests
 from bs4 import BeautifulSoup
-from utils import Log, TimeFormat
+from utils import Log, Time, TimeFormat
 
 from news.core import Article, ArticleHead
 
@@ -15,6 +15,19 @@ class Scraper:
     def get_url_for_page(self, page_num: int):
         x = (page_num - 1) * 30
         return f'https://www.dailymirror.lk/opinion/231/{x}'
+
+    @staticmethod
+    def parse_date_id(date_str):
+        if date_str.lower().strip().endswith('hours ago'):
+            h = int(date_str.split(' ')[0])
+            ut = Time.now().ut - h * 3600
+            date_id = TimeFormat.DATE_ID.format(Time(ut))
+            return date_id
+
+        date_id = TimeFormat.DATE_ID.format(
+            TimeFormat('%d %b %Y').parse(date_str)
+        )
+        return date_id
 
     def get_article_head_list(self, limit: int) -> list:
         page_num = 1
@@ -34,9 +47,7 @@ class Scraper:
                 date_str = div_article_summary.find(
                     'span', {'class': 'gtime'}
                 ).text.strip()
-                date_id = TimeFormat.DATE_ID.format(
-                    TimeFormat('%d %b %Y').parse(date_str)
-                )
+                date_id = Scraper.parse_date_id(date_str)
 
                 article_head = ArticleHead(
                     url=url, date_id=date_id, title=title
