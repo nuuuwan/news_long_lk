@@ -1,5 +1,5 @@
 from news.scrapers.custom import (FTLK, HBR, DailyMirrorLK, EconomistIU,
-                                  MITTechReview)
+                                  MITTechReview, DBSJeyaraj)
 
 
 class ScraperFactory:
@@ -11,4 +11,5 @@ class ScraperFactory:
             MITTechReview,
             HBR,
             EconomistIU,
-        ]
+            DBSJeyaraj,
+        ][-1:]

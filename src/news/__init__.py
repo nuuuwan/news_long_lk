@@ -3,5 +3,5 @@
 from news.core import (Article, ArticleAIImage, ArticleAIText, ArticleBase,
                        ArticleHead, ArticleReadMe)
 from news.derived import NewsLetter
-from news.scrapers import (FTLK, HBR, DailyMirrorLK, EconomistIU,
+from news.scrapers import (FTLK, HBR, DailyMirrorLK, DBSJeyaraj, EconomistIU,
                            MITTechReview, Scraper, ScraperFactory)

@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 18:13:21**
+Last Updated **2024-05-19 20:37:17**
+
+## 2024-05-19
+
+* [Tamil and Muslim Voting Trends  in  Past Presidential Elections.](data/articles/tamil-and-muslim-voting.9f1579ef/README.md) `dbsjeyaraj.com`
 
 ## 2024-05-17
 
