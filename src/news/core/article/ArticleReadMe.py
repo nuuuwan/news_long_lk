@@ -6,8 +6,16 @@ log = Log('ArticleReadMe')
 
 
 class ArticleReadMe:
+    @property
+    def readme_path(self):
+        return os.path.join(self.dir_path, 'README.md')
+
+    @property
+    def readme_path_unix(self):
+        return self.readme_path.replace('\\', '/')
+
     def save_readme(self):
-        readme_file = JSONFile(os.path.join(self.dir_path, 'README.md'))
+        readme_file = JSONFile(self.readme_path)
         lines = (
             [
                 f'# {self.title}',
@@ -51,7 +59,7 @@ class ArticleReadMe:
             if prev_date_str != article.date_str:
                 lines.extend(['', f'## {article.date_str}', ''])
             lines.append(
-                f'* [{article.title}]({article.dir_path_unix})'
+                f'* [{article.title}]({article.readme_path_unix})'
                 + f' `{article.source}`'
             )
             prev_date_str = article.date_str
