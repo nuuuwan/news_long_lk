@@ -161,8 +161,6 @@ class Article(ArticleHead):
             + [paragraph + '\n' for paragraph in self.body_paragraphs]
             + [
                 '',
-                '![AI Image](ai_image.png)',
-                '',
             ]
         )
         readme_file.write_lines(lines)
@@ -171,7 +169,7 @@ class Article(ArticleHead):
     def save_all(self):
         self.save()
         self.ai_summary
-        self.ai_image_path
+        # self.ai_image_path
         self.save_readme()
 
     @staticmethod
