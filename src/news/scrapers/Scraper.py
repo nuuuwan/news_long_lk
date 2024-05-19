@@ -10,6 +10,16 @@ log = Log('Scraper')
 
 class Scraper:
     DIR_ARTICLES = os.path.join('data', 'articles')
+    MIN_PARAGRAPH_LENGTH = 20
+
+    @staticmethod
+    def parse_body_paragraphs(content: str) -> list:
+        paragraphs = content.split('\n')
+        paragraphs = [p.strip() for p in paragraphs]
+        paragraphs = [
+            p for p in paragraphs if len(p) > Scraper.MIN_PARAGRAPH_LENGTH
+        ]
+        return paragraphs
 
     @property
     def is_dynamic(self):

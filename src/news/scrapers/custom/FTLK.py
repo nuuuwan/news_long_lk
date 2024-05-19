@@ -29,11 +29,7 @@ class FTLK(Scraper):
         time_str = meta_data_published['content']
         ut = TimeFormat('%Y-%m-%d %H:%M:%S').parse(time_str).ut
         content = soup.find('header', {'class': 'inner-content'}).text
-        body_paragraphs = [
-            paragraph
-            for paragraph in content.split('\n')
-            if paragraph.strip() != ''
-        ]
+        body_paragraphs = Scraper.parse_body_paragraphs(content)
 
         return Article(
             url=article_head.url,

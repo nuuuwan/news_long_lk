@@ -1,4 +1,3 @@
-
 from utils import Log, TimeFormat
 
 from news.core import Article, ArticleHead
@@ -17,9 +16,7 @@ class HBR(Scraper):
         return True
 
     def get_article_head_list_from_soup(self, soup) -> list:
-        elem_article_summary_list = soup.find_all(
-            'stream-item'
-        )
+        elem_article_summary_list = soup.find_all('stream-item')
 
         article_head_list = []
         for elem_article_summary in elem_article_summary_list:
@@ -40,14 +37,7 @@ class HBR(Scraper):
         log.debug(f'{ut=}')
 
         content = soup.find('div', {'class': 'standard--container'}).text
-        n_content = len(content)
-        log.debug(f'{n_content=}')
-        body_paragraphs = [
-            paragraph
-            for paragraph in content.split('\n')
-            if paragraph.strip() != ''
-        ]
-        
+        body_paragraphs = Scraper.parse_body_paragraphs(content)
 
         return Article(
             url=article_head.url,

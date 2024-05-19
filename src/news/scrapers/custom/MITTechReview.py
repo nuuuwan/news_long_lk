@@ -40,11 +40,7 @@ class MITTechReview(Scraper):
         ut = TimeFormat('%Y-%m-%dT%H:%M:%S%z').parse(time_str).ut
 
         content = soup.find('div', {'id': 'content--body'}).text
-        body_paragraphs = [
-            paragraph
-            for paragraph in content.split('\n')
-            if paragraph.strip() != ''
-        ]
+        body_paragraphs = Scraper.parse_body_paragraphs(content)
 
         return Article(
             url=article_head.url,
