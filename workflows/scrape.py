@@ -1,13 +1,14 @@
+import os
 
-from news import NewsLetter
+from news import Article, NewsLetter, ScraperFactory
 
 
 def main():
-    # limit = 1 if os.name == 'nt' else 5
-    # for scraper in ScraperFactory.list():
-    #     scraper().scrape(limit=limit)
+    limit = 1 if os.name == 'nt' else 5
+    for scraper in ScraperFactory.list():
+        scraper().scrape(limit=limit)
 
-    # Article.build_readme()
+    Article.build_readme()
     NewsLetter().build()
 
 
