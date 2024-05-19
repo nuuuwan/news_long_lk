@@ -41,7 +41,7 @@ class ArticleReadMe:
             ]
         )
         readme_file.write_lines(lines)
-        log.info(f'Wrote {readme_file.path}')
+        log.debug(f'Wrote {readme_file.path}')
 
     @classmethod
     def build_readme(cls):
@@ -65,4 +65,4 @@ class ArticleReadMe:
             prev_date_str = article.date_str
         readme_path = 'README.md'
         File(readme_path).write_lines(lines)
-        log.info(f'Wrote {readme_path}')
+        log.debug(f'Wrote {readme_path}')

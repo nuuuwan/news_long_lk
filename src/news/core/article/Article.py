@@ -39,7 +39,7 @@ class Article(ArticleBase, ArticleReadMe, ArticleAIImage, ArticleAIText):
         if not os.path.exists(self.dir_path):
             os.makedirs(self.dir_path)
         self.article_file.write(self.todict())
-        log.info(f'Wrote {self.article_file.path}')
+        log.debug(f'Wrote {self.article_file.path}')
 
     def save_all(self):
         self.save()

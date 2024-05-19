@@ -35,7 +35,7 @@ class ArticleAIText:
 
         ai_text = response.choices[0].message.content
         ai_text_path.write(ai_text)
-        log.info(f'🤖 Wrote {ai_text_path.path}')
+        log.debug(f'🤖 Wrote {ai_text_path.path}')
         return ai_text
 
     @cached_property
