@@ -9,7 +9,6 @@ from utils_future import OpenAICommon
 log = Log('ArticleAIImage')
 
 
-@dataclass
 class ArticleAIImage:
     IMAGE_MODEL = "dall-e-3"
     IMAGE_SIZE = "1024x1024"

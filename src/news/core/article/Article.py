@@ -6,13 +6,13 @@ from news.core.article.ArticleAIImage import ArticleAIImage
 from news.core.article.ArticleAIText import ArticleAIText
 from news.core.article.ArticleBase import ArticleBase
 from news.core.article.ArticleReadMe import ArticleReadMe
-from news.core.ArticleHead import ArticleHead
+
 
 log = Log('Article')
 
 
 class Article(
-    ArticleBase, ArticleHead, ArticleReadMe, ArticleAIImage, ArticleAIText
+    ArticleBase,  ArticleReadMe, ArticleAIImage, ArticleAIText
 ):
     DIR_DATA = os.path.join('data', 'articles')
 
