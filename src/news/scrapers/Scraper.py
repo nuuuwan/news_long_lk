@@ -15,16 +15,18 @@ class Scraper:
     @property
     def url_index(self):
         raise NotImplementedError
-    
+
     def get_article_head_list_from_soup(self, soup) -> list:
         raise NotImplementedError
-    
+
     def get_article_head_list(self) -> list:
         page = requests.get(self.url_index)
         soup = BeautifulSoup(page.content, 'html.parser')
         return self.get_article_head_list_from_soup(soup)
 
-    def scrape_article_nocache(self, article_head: ArticleHead, soup) -> Article:
+    def scrape_article_nocache(
+        self, article_head: ArticleHead, soup
+    ) -> Article:
         raise NotImplementedError
 
     def scrape_article(self, article_head: ArticleHead):

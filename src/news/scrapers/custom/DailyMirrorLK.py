@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
 from utils import Log, TimeFormat
 
 from news.core import Article, ArticleHead

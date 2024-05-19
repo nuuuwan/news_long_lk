@@ -1,5 +1,3 @@
-import requests
-from bs4 import BeautifulSoup
 from utils import Log, TimeFormat
 
 from news.core import Article, ArticleHead
@@ -12,7 +10,7 @@ class FTLK(Scraper):
     @property
     def url_index(self):
         return 'https://www.ft.lk/opinion/14'
-    
+
     def get_article_head_list_from_soup(self, soup) -> list:
         div_article_summary_list = soup.find_all('div', {'class': 'col-md-6'})
         article_head_list = []
@@ -20,7 +18,6 @@ class FTLK(Scraper):
             a = div_article_summary.find('a')
             url = a['href']
             title = div_article_summary.find('h3').text.strip()
-
             article_head = ArticleHead(url=url, title=title)
             article_head_list.append(article_head)
         return article_head_list
