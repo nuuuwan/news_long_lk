@@ -42,7 +42,8 @@ class ArticleAIText:
     def ai_summary(self):
         return self.get_generic_ai_text(
             'summary',
-            "State the name of the author, and Summarize the following article:",
+            "State the name of the author, "
+            + "and Summarize the following article:",
         )
 
     @cached_property
