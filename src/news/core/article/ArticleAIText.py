@@ -50,5 +50,5 @@ class ArticleAIText:
         return self.get_generic_ai_text(
             'follow_ups',
             "List some interesting follow-up questions"
-            + " an unbiased reader would ask about this article:",
+            + " about this article:",
         )
