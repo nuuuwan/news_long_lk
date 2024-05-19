@@ -1,4 +1,4 @@
-from news.scrapers.custom import FTLK, DailyMirrorLK
+from news.scrapers.custom import FTLK, DailyMirrorLK, MITTechReview
 
 
 class ScraperFactory:
@@ -7,4 +7,5 @@ class ScraperFactory:
         return [
             FTLK,
             DailyMirrorLK,
-        ]
+            MITTechReview,
+        ][-1:]

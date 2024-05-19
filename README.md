@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 09:51:02**
+Last Updated **2024-05-19 11:15:54**
 
 ## 2024-05-17
 
@@ -16,3 +16,7 @@ Last Updated **2024-05-19 09:51:02**
 * [What must Sri Lanka do to avoid a second default in the near future?](data/articles/what-must-sri-lanka-do-t.0e8c0875/README.md) `ft.lk`
 * [Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/lawmakers-must-note-that.23bcb9c9/README.md) `dailymirror.lk`
 * [Nakba continues amid Zionist newspeak](data/articles/nakba-continues-amid-zio.6a528dfb/README.md) `dailymirror.lk`
+
+## 2024-05-10
+
+* [Artificial intelligence1 weekTech workers should shine a light on the industry’s secretive work with the military](data/articles/artificial-intelligence1.d5283edf/README.md) `technologyreview.com`

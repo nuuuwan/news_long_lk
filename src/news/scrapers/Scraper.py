@@ -1,16 +1,19 @@
 import os
 
-import requests
-from bs4 import BeautifulSoup
 from utils import Log
 
 from news.core import Article, ArticleHead
+from utils_future import SoupUtils
 
 log = Log('Scraper')
 
 
 class Scraper:
     DIR_ARTICLES = os.path.join('data', 'articles')
+
+    @property
+    def is_dynamic(self):
+        return False
 
     @property
     def url_index(self):
@@ -20,8 +23,7 @@ class Scraper:
         raise NotImplementedError
 
     def get_article_head_list(self) -> list:
-        page = requests.get(self.url_index)
-        soup = BeautifulSoup(page.content, 'html.parser')
+        soup = SoupUtils.get_soup(self.url_index, self.is_dynamic)
         return self.get_article_head_list_from_soup(soup)
 
     def scrape_article_nocache(
@@ -34,14 +36,12 @@ class Scraper:
         if article_file.exists:
             log.debug(f'{article_head.article_file.path} exists')
             return Article.from_file(article_file)
-
+        soup = SoupUtils.get_soup(article_head.url, self.is_dynamic)
         log.debug(f'[scrape_article] {article_head=}')
-        page = requests.get(article_head.url)
-        soup = BeautifulSoup(page.content, 'html.parser')
-
         return self.scrape_article_nocache(article_head, soup)
 
     def scrape(self, limit: int):
+        log.info(f'Scraping {self.__class__.__name__}...')
         article_head_list = self.get_article_head_list()
         n_articles = len(article_head_list)
         if n_articles > limit:
