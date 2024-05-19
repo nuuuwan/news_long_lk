@@ -9,43 +9,23 @@ log = Log('FTLK')
 
 
 class FTLK(Scraper):
-    def get_url_for_page(self, page_num: int):
-        x = (page_num - 1) * 30
-        return f'https://www.ft.lk/opinion/14/{x}'
+    def get_article_head_list(self) -> list:
+        url = 'https://www.ft.lk/opinion/14'
+        page = requests.get(url)
 
-    def get_article_head_list(self, limit: int) -> list:
-        page_num = 1
-        article_head_list = []
-        while True:
-            url = self.get_url_for_page(page_num)
-            log.debug(f'[get_urls] {url=}')
-            page = requests.get(url)
-
-            soup = BeautifulSoup(page.content, 'html.parser')
-            div_article_summary_list = soup.find_all(
-                'div', {'class': 'col-md-6'}
-            )
-            for div_article_summary in div_article_summary_list:
-                a = div_article_summary.find('a')
-                url = a['href']
-                title = div_article_summary.find('h3').text.strip()
-
-                article_head = ArticleHead(url=url, title=title)
-                article_head_list.append(article_head)
-                if len(article_head_list) == limit:
-                    return article_head_list
-            page_num += 1
-
-    def scrape_article(self, article_head: ArticleHead):
-        article_file = article_head.article_file
-        if article_file.exists:
-            log.debug(f'{article_head.article_file.path} exists')
-            return Article.from_file(article_file)
-
-        log.debug(f'[scrape_article] {article_head=}')
-        page = requests.get(article_head.url)
         soup = BeautifulSoup(page.content, 'html.parser')
+        div_article_summary_list = soup.find_all('div', {'class': 'col-md-6'})
+        article_head_list = []
+        for div_article_summary in div_article_summary_list:
+            a = div_article_summary.find('a')
+            url = a['href']
+            title = div_article_summary.find('h3').text.strip()
 
+            article_head = ArticleHead(url=url, title=title)
+            article_head_list.append(article_head)
+        return article_head_list
+
+    def scrape_article_nocache(self, article_head, soup):
         meta_data_published = soup.find(
             'meta', attrs={'itemprop': 'datePublished'}
         )
