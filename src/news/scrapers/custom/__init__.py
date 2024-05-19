@@ -2,3 +2,4 @@
 
 from news.scrapers.custom.DailyMirrorLK import DailyMirrorLK
 from news.scrapers.custom.FTLK import FTLK
+from news.scrapers.custom.MITTechReview import MITTechReview

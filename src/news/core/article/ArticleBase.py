@@ -9,17 +9,14 @@ log = Log('Article')
 
 @dataclass
 class ArticleBase(ArticleHead):
-    time_str: str
     ut: int
     body_paragraphs: list[str]
 
     def todict(self):
         return dict(
             url=self.url,
-            date_id=self.date_id,
             title=self.title,
             #
-            time_str=self.time_str,
             ut=self.ut,
             body_paragraphs=self.body_paragraphs,
         )
@@ -36,10 +33,8 @@ class ArticleBase(ArticleHead):
     def from_dict(cls, d):
         return cls(
             url=d['url'],
-            date_id=d['date_id'],
             title=d['title'],
             #
-            time_str=d['time_str'],
             ut=d['ut'],
             body_paragraphs=d['body_paragraphs'],
         )

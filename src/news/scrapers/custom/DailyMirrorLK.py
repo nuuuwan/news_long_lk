@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from utils import Log, Time, TimeFormat
+from utils import Log, TimeFormat
 
 from news.core import Article, ArticleHead
 from news.scrapers.Scraper import Scraper
@@ -12,19 +12,6 @@ class DailyMirrorLK(Scraper):
     def get_url_for_page(self, page_num: int):
         x = (page_num - 1) * 30
         return f'https://www.dailymirror.lk/opinion/231/{x}'
-
-    @staticmethod
-    def parse_date_id(date_str):
-        if date_str.lower().strip().endswith('hours ago'):
-            h = int(date_str.split(' ')[0])
-            ut = Time.now().ut - h * 3600
-            date_id = TimeFormat.DATE_ID.format(Time(ut))
-            return date_id
-
-        date_id = TimeFormat.DATE_ID.format(
-            TimeFormat('%d %b %Y').parse(date_str)
-        )
-        return date_id
 
     def get_article_head_list(self, limit: int) -> list:
         page_num = 1
@@ -41,14 +28,7 @@ class DailyMirrorLK(Scraper):
                 a = div_article_summary.find('a')
                 url = a['href']
                 title = div_article_summary.find('h3').text.strip()
-                date_str = div_article_summary.find(
-                    'span', {'class': 'gtime'}
-                ).text.strip()
-                date_id = DailyMirrorLK.parse_date_id(date_str)
-
-                article_head = ArticleHead(
-                    url=url, date_id=date_id, title=title
-                )
+                article_head = ArticleHead(url=url, title=title)
                 article_head_list.append(article_head)
                 if len(article_head_list) == limit:
                     return article_head_list
@@ -78,9 +58,7 @@ class DailyMirrorLK(Scraper):
 
         return Article(
             url=article_head.url,
-            date_id=article_head.date_id,
             title=article_head.title,
-            time_str=time_str,
             ut=ut,
             body_paragraphs=body_paragraphs,
         )

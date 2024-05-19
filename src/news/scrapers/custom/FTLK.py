@@ -13,14 +13,6 @@ class FTLK(Scraper):
         x = (page_num - 1) * 30
         return f'https://www.ft.lk/opinion/14/{x}'
 
-    @staticmethod
-    def parse_date_id(date_str):
-        # E.g. Friday, 17 May 2024 00:17
-        date_id = TimeFormat.DATE_ID.format(
-            TimeFormat('%A, %d %b %Y %H:%M').parse(date_str)
-        )
-        return date_id
-
     def get_article_head_list(self, limit: int) -> list:
         page_num = 1
         article_head_list = []
@@ -37,12 +29,8 @@ class FTLK(Scraper):
                 a = div_article_summary.find('a')
                 url = a['href']
                 title = div_article_summary.find('h3').text.strip()
-                date_str = div_article_summary.text.replace(title, '').strip()
-                date_id = FTLK.parse_date_id(date_str)
 
-                article_head = ArticleHead(
-                    url=url, date_id=date_id, title=title
-                )
+                article_head = ArticleHead(url=url, title=title)
                 article_head_list.append(article_head)
                 if len(article_head_list) == limit:
                     return article_head_list
@@ -72,9 +60,7 @@ class FTLK(Scraper):
 
         return Article(
             url=article_head.url,
-            date_id=article_head.date_id,
             title=article_head.title,
-            time_str=time_str,
             ut=ut,
             body_paragraphs=body_paragraphs,
         )
