@@ -8,4 +8,4 @@ class ScraperFactory:
             FTLK,
             DailyMirrorLK,
             MITTechReview,
-        ][-1:]
+        ]

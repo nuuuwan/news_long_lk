@@ -49,7 +49,7 @@ class Scraper:
         else:
             limit = n_articles
 
-        log.debug(f'Scraping {limit}/{n_articles} articles')
+        log.debug(f'📰 Scraping {limit}/{n_articles} articles')
 
         for article_head in article_head_list:
             article = self.scrape_article(article_head)
