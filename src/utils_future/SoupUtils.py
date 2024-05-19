@@ -2,9 +2,10 @@ import requests
 from bs4 import BeautifulSoup
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
-from utils import File, Log
+from utils import Log
 
 log = Log('SoupUtils')
+
 
 class SoupUtils:
     @staticmethod
@@ -22,7 +23,7 @@ class SoupUtils:
         log.debug(f'{url=}')
         driver.get(url)
         html = driver.page_source
-        File('temp.html').write(html)
+
         driver.quit()
         return BeautifulSoup(html, 'html.parser')
 

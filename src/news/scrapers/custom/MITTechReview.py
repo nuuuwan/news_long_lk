@@ -1,5 +1,5 @@
 import json
-import re
+
 from utils import Log, TimeFormat
 
 from news.core import Article, ArticleHead
@@ -38,7 +38,7 @@ class MITTechReview(Scraper):
 
         time_str = data['datePublished']
         ut = TimeFormat('%Y-%m-%dT%H:%M:%S%z').parse(time_str).ut
-        
+
         content = soup.find('div', {'id': 'content--body'}).text
         body_paragraphs = [
             paragraph
