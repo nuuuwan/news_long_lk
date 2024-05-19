@@ -10,7 +10,7 @@ class EconomistIU(Scraper):
     @property
     def url_index(self):
         return 'https://www.eiu.com/n/content/the-eiu-update/'
-    
+
     @property
     def is_dynamic(self):
         return True
@@ -33,7 +33,7 @@ class EconomistIU(Scraper):
         )
         time_str = elem_meta['content']
         ut = TimeFormat('%Y-%m-%dT%H:%M:%S%z').parse(time_str).ut
-    
+
         content = soup.find('article').text
         body_paragraphs = Scraper.parse_body_paragraphs(content)
 

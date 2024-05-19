@@ -1,4 +1,5 @@
-from news.scrapers.custom import FTLK, HBR, DailyMirrorLK, MITTechReview, EconomistIU
+from news.scrapers.custom import (FTLK, HBR, DailyMirrorLK, EconomistIU,
+                                  MITTechReview)
 
 
 class ScraperFactory:
