@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 09:51:02**
+Last Updated **2024-05-19 10:05:28**
 
 ## 2024-05-17
 
