@@ -5,8 +5,8 @@ class ScraperFactory:
     @staticmethod
     def list():
         return [
-            FTLK,
-            DailyMirrorLK,
+            # FTLK,
+            # DailyMirrorLK,
             MITTechReview,
-            HBR,
+            # HBR,
         ]

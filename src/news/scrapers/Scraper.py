@@ -14,6 +14,8 @@ class Scraper:
 
     @staticmethod
     def parse_body_paragraphs(content: str) -> list:
+        n_content = len(content)
+        log.debug(f'{n_content=:,}')
         paragraphs = content.split('\n')
         paragraphs = [p.strip() for p in paragraphs]
         paragraphs = [

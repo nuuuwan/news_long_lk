@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 12:03:59**
+Last Updated **2024-05-19 12:13:00**
 
 ## 2024-05-17
 
@@ -15,18 +15,9 @@ Last Updated **2024-05-19 12:03:59**
 * [OPA seminar sheds insights to managing Sri Lanka’s ageing population](data/articles/opa-seminar-sheds-insigh.083b68e9/README.md) `ft.lk`
 * [What must Sri Lanka do to avoid a second default in the near future?](data/articles/what-must-sri-lanka-do-t.0e8c0875/README.md) `ft.lk`
 * [Is Your Mindset About Generative AI Limiting Your Professional Growth?](data/articles/is-your-mindset-about-ge.173b236a/README.md) `hbr.org`
-* [Biotechnology and health2 daysHow cuddly robots could change dementia care](data/articles/biotechnology-and-health.3a0ca68c/README.md) `technologyreview.com`
 * [Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/lawmakers-must-note-that.23bcb9c9/README.md) `dailymirror.lk`
 * [Nakba continues amid Zionist newspeak](data/articles/nakba-continues-amid-zio.6a528dfb/README.md) `dailymirror.lk`
 
-## 2024-05-16
-
-* [2 daysRoundtables: Why thermal batteries are so hot right now](data/articles/2-daysroundtables-why-th.6c00b172/README.md) `technologyreview.com`
-
-## 2024-05-15
-
-* [Artificial intelligence3 daysOpenAI and Google are launching supercharged AI assistants. Here’s how you can try them out.](data/articles/artificial-intelligence3.d3a3046a/README.md) `technologyreview.com`
-
 ## 2024-05-10
 
-* [Artificial intelligence1 weekTech workers should shine a light on the industry’s secretive work with the military](data/articles/artificial-intelligence1.d5283edf/README.md) `technologyreview.com`
+* [Tech workers should shine a light on the industry’s secretive work with the military](data/articles/tech-workers-should-shin.d5283edf/README.md) `technologyreview.com`

@@ -18,15 +18,15 @@ class MITTechReview(Scraper):
         return True
 
     def get_article_head_list_from_soup(self, soup) -> list:
-        div_article_summary_list = soup.find_all(
+        elem_article_summary_list = soup.find_all(
             'div', {'class': 'swiper-slide'}
         )
 
         article_head_list = []
-        for div_article_summary in div_article_summary_list:
-            a = div_article_summary.find('a')
+        for elem_article_summary in elem_article_summary_list:
+            a = elem_article_summary.find('a')
             url = a['href']
-            title = div_article_summary.text.strip()
+            title = elem_article_summary.find_all('span')[-1].text.strip()
             article_head = ArticleHead(url=url, title=title)
             article_head_list.append(article_head)
         return article_head_list

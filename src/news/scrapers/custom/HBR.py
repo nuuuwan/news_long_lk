@@ -34,8 +34,7 @@ class HBR(Scraper):
         )
         time_str = elem_meta['content']
         ut = TimeFormat('%Y-%m-%dT%H:%M:%S%z').parse(time_str).ut
-        log.debug(f'{ut=}')
-
+        
         content = soup.find('div', {'class': 'standard--container'}).text
         body_paragraphs = Scraper.parse_body_paragraphs(content)
 
