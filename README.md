@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 12:17:10**
+Last Updated **2024-05-19 12:42:08**
 
 ## 2024-05-17
 
@@ -30,6 +30,7 @@ Last Updated **2024-05-19 12:17:10**
 ## 2024-05-15
 
 * [OpenAI and Google are launching supercharged AI assistants. Here’s how you can try them out.](data/articles/openai-and-google-are-la.d3a3046a/README.md) `technologyreview.com`
+* [US hits China with carefully devised tariffs](data/articles/us-hits-china-with-caref.f4e0eef1/README.md) `eiu.com`
 
 ## 2024-05-10
 

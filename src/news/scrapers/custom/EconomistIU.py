@@ -3,27 +3,26 @@ from utils import Log, TimeFormat
 from news.core import Article, ArticleHead
 from news.scrapers.Scraper import Scraper
 
-log = Log('HBR')
+log = Log('EconomistIU')
 
 
-class HBR(Scraper):
+class EconomistIU(Scraper):
     @property
     def url_index(self):
-        return 'https://hbr.org/the-latest'
-
+        return 'https://www.eiu.com/n/content/the-eiu-update/'
+    
     @property
     def is_dynamic(self):
         return True
 
     def get_article_head_list_from_soup(self, soup) -> list:
-        elem_article_summary_list = soup.find_all('stream-item')
-
+        elem_article_summary_list = soup.find_all(
+            'a', {'class': 'archive-article-link'}
+        )
         article_head_list = []
         for elem_article_summary in elem_article_summary_list:
-            a = elem_article_summary.find('a')
-            url_base = a['href']
-            url = f'https://hbr.org{url_base}'
-            title = elem_article_summary.text.strip().split('\n')[0]
+            url = elem_article_summary['href']
+            title = elem_article_summary.find('h3').text.strip()
             article_head = ArticleHead(url=url, title=title)
             article_head_list.append(article_head)
         return article_head_list
@@ -34,8 +33,8 @@ class HBR(Scraper):
         )
         time_str = elem_meta['content']
         ut = TimeFormat('%Y-%m-%dT%H:%M:%S%z').parse(time_str).ut
-
-        content = soup.find('div', {'class': 'standard--container'}).text
+    
+        content = soup.find('article').text
         body_paragraphs = Scraper.parse_body_paragraphs(content)
 
         return Article(
