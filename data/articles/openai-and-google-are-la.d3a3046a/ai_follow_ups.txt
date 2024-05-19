@@ -1,0 +1,10 @@
+1. Can you expand on some practical applications of these AI tools in daily life?
+2. How will these advancements in AI affect the job market, particularly industries reliant on translation, coding and content creation?
+3. What measures are Google and OpenAI taking to ensure the security of user data with these new AI assistants?
+4. How do both Google and OpenAI respectively handle concerns around misinformation or bias in AI?
+5. What potential is there for these tools in educational sectors such as teaching and studying?
+6. What specific functionalities does OpenAI's GPT-4o have over Google's Gemini Live and vice versa? 
+7. Could you provide more details on Google’s “do-everything” AI agent, Project Astra?
+8. Can you give more information on OpenAI’s paid plans and their benefits?
+9. What hurdles might both companies face in implementing these AI models broad-scale to the public?
+10. How will these advanced AI models impact the ongoing discussion about AI ethics and the necessity of regulations?
