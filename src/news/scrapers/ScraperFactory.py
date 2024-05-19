@@ -9,4 +9,4 @@ class ScraperFactory:
             DailyMirrorLK,
             MITTechReview,
             HBR,
-        ][-1:]
+        ]
