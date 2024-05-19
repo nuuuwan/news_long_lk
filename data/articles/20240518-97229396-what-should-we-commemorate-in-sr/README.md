@@ -31,7 +31,7 @@ The importance of learning from history is highlighted, noting that the root of 
 
 [https://www.ft.lk/opinion/What-should-we-commemorate-in-Sri-Lanka-in-the-month-of-May/14-761926](https://www.ft.lk/opinion/What-should-we-commemorate-in-Sri-Lanka-in-the-month-of-May/14-761926)
 
-*2024-05-17 20:55:25*
+*08:55 PM, Friday, May 17, 2024*
 
 Who among those associated in an era of violence, values peace, the most; it is those who are immersed in it
 

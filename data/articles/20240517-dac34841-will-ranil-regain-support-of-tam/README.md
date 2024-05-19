@@ -31,7 +31,7 @@ Recent police actions against Tamil commemorations of the 2009 Mullivaaikkaal tr
 
 [https://www.dailymirror.lk/opinion/Will-Ranil-regain-support-of-Tamil-and-Muslim-voters/172-282864](https://www.dailymirror.lk/opinion/Will-Ranil-regain-support-of-Tamil-and-Muslim-voters/172-282864)
 
-*2024-05-17T23:23:00+05:30*
+*11:23 PM, Friday, May 17, 2024*
 
 President Ranil Wickremesinghe addressing the May Day rally in Kotagala
 

@@ -24,7 +24,7 @@ class ArticleReadMe:
                 '',
                 f'[{self.url}]({self.url})',
                 '',
-                f'*{self.time_str}*',
+                f'*{self.time_str_formatted}*',
                 '',
             ]
             + [paragraph + '\n' for paragraph in self.body_paragraphs]

@@ -49,3 +49,7 @@ class ArticleBase(ArticleHead):
         domain = self.url.split('/')[2]
         source = domain.replace('www.', '')
         return source
+    
+    @property
+    def time_str_formatted(self):
+        return TimeFormat('%I:%M %p, %A, %B %d, %Y').format(Time(self.ut))
