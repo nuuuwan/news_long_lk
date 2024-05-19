@@ -1,64 +1,89 @@
 # Newsletter
 
-## Sri Lankan Politics and Elections
-Articles that explore the political climate leading to the 2024 presidential elections in Sri Lanka:
+# Sri Lanka: Politics & Elections
 
-[Will Ranil regain support of Tamil and Muslim voters?](data/articles/will-ranil-regain-suppor.dac34841/README.md): Analyzes if incumbent President Ranil Wickremesinghe can regain ethnic minority votes in Sri Lanka's next presidential polls amidst significant recent political dynamics.
+## Will Ranil regain support of Tamil and Muslim voters?
+[read more](data/articles/will-ranil-regain-suppor.dac34841/README.md) 
 
-[Who will benefit from an election boycott by Tamils?](data/articles/who-will-benefit-from-an.73c59396/README.md): Discusses the impact of Tamils possibly rejecting all Sinhalese and south-based candidates in the election and the potential outcomes of either a boycott or voting for a Tamil candidate.
+## Who will benefit from an election boycott by Tamils?
+[read more](data/articles/who-will-benefit-from-an.73c59396/README.md) 
 
-[Members of our Parliament and French Queen Marie Antoinette -EDITORIAL](data/articles/members-of-our-parliamen.dbe99058/README.md): Highlights the criticism of Sri Lankan parliament members for their lack of empathy towards the economically struggling population in the run-up to the general and presidential elections.
+## Members of our Parliament and French Queen Marie Antoinette -EDITORIAL
+[read more](data/articles/members-of-our-parliamen.dbe99058/README.md) 
 
-[Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/lawmakers-must-note-that.23bcb9c9/README.md): Comments on Sri Lanka's widening political divide, calls for certain politicians to step down, and the anticipated election year.
+## What should we commemorate in Sri Lanka in the month of May?
+[read more](data/articles/what-should-we-commemora.97229396/README.md) 
 
-## Opinions and Editorials
-Collection of opinion and editorial articles:
+## OPA seminar sheds insights to managing Sri Lanka’s ageing population
+[read more](data/articles/opa-seminar-sheds-insigh.083b68e9/README.md)
 
-[What should we commemorate in Sri Lanka in the month of May?](data/articles/what-should-we-commemora.97229396/README.md): Highlights that long-term stability and sustainability can only be achieved by revitalising every sphere of the nation, from education to recreation, in order to avoid unrest due to ethnicity, caste, religion, or language.
+## What must Sri Lanka do to avoid a second default in the near future?
+[read more](data/articles/what-must-sri-lanka-do-t.0e8c0875/README.md)
 
-[‘Interventions’: A book review](data/articles/interventions-a-book-re.7d9f92af/README.md): Reviews Dayan Jayatilleka's anthology "Interventions" which serves a historical purpose and offers insights into Marxism.
+## Lawmakers must note that stars in galaxy are dead - EDITORIAL
+[read more](data/articles/lawmakers-must-note-that.23bcb9c9/README.md)
 
-[Nakba continues amid Zionist newspeak](data/articles/nakba-continues-amid-zio.6a528dfb/README.md): Looks at the ongoing displacement of Palestinians in Rafah, with Western nations cited as complicit for failing to uphold peace and justice.
+# Literature & Book Reviews
 
-[Critical minerals in Latam: opportunities and challenges](data/articles/critical-minerals-in-lat.69b5fdcc/README.md): Evaluates the possibilities and obstacles for Latin American countries to attract investments for critical minerals, crucial for the global energy transition.
+## ‘Interventions’: A book review
+[read more](data/articles/interventions-a-book-re.7d9f92af/README.md)
 
-[Interventions’: A book review](data/articles/interventions-a-book-re.7d9f92af/README.md): Commends Jayatilleka's anthology's insights into Marxism while serving a historical purpose.
+# Climate Action & Green Energy
 
-[Tech workers should shine a light on the industry’s secretive work with the military](data/articles/tech-workers-should-shin.d5283edf/README.md): Supports the idea of tech industry employees unveiling their employers' military contracts, particularly concerning artificial intelligence and military drones.
+## Public-private partnerships and blended finance for climate action
+[read more](data/articles/public-private-partnersh.68803a1e/README.md) 
 
-## Artificial Intelligence
-A set of articles focusing on the impact and application of artificial intelligence:
+## Roundtables: Why thermal batteries are so hot right now
+[read more](data/articles/roundtables-why-thermal.6c00b172/README.md)
 
-[Public-private partnerships and blended finance for climate action](data/articles/public-private-partnersh.68803a1e/README.md): Discusses how public-private partnerships (PPPs) and blended finance can promote collaboration to combat climate change and foster green investments.
+## EU approves first subsidies for hydrogen projects
+[read more](data/articles/eu-approves-first-subsid.5ca64453/README.md)
 
-[Is Your Mindset About Generative AI Limiting Your Professional Growth?](data/articles/is-your-mindset-about-ge.173b236a/README.md): Suggests overcoming misconceptions about generative AI to harness potential benefits such as improved productivity and creativity.
+# Tech & AI
 
-[How to Ask for the Feedback You Really Need](data/articles/how-to-ask-for-the-feedb.b18ca646/README.md): Advocates for more specific feedback at work to facilitate personal development.
+## Is Your Mindset About Generative AI Limiting Your Professional Growth?
+[read more](data/articles/is-your-mindset-about-ge.173b236a/README.md) 
 
-[How cuddly robots could change dementia care](data/articles/how-cuddly-robots-could.3a0ca68c/README.md): Explains the role of AI-assisted robots, such as QT, Golden Pup, and Paro, in potentially changing dementia care.
+## How cuddly robots could change dementia care
+[read more](data/articles/how-cuddly-robots-could.3a0ca68c/README.md)                
 
-[OpenAI and Google are launching supercharged AI assistants. Here’s how you can try them out.](data/articles/openai-and-google-are-la.d3a3046a/README.md): Talks about the new AI assistants, launched by OpenAI and Google, that are capable of real-time conversations, translating chats instantaneously, reading bedtime stories, and solving math problems.
+## OpenAI and Google are launching supercharged AI assistants. Here’s how you can try them out.
+[read more](data/articles/openai-and-google-are-la.d3a3046a/README.md)
 
-[Roundtables: Why thermal batteries are so hot right now](data/articles/roundtables-why-thermal.6c00b172/README.md): Praises thermal batteries as a breakthrough technology for reducing emissions in heavy industries, a significant challenge in combatting climate change.
+## Tech workers should shine a light on the industry’s secretive work with the military
+[read more](data/articles/tech-workers-should-shin.d5283edf/README.md) 
 
-## Business and Careers
-Articles focusing on issues related to business expansion and career growth:
+# Personal Development
 
-[A Model for Expanding Your Business into Foreign Markets](data/articles/a-model-for-expanding-yo.fc572625/README.md): Highlights a study recommending companies to adopt the 'REACH model' when expanding their business into foreign markets, taking regional cultural differences into account.
+## Your Personal Brand Needs a Refresh. Here’s Where to Start.
+[read more](data/articles/your-personal-brand-need.4b0c8fc9/README.md) 
 
-[Your Personal Brand Needs a Refresh. Here’s Where to Start.](data/articles/your-personal-brand-need.4b0c8fc9/README.md): Provides four steps for maintaining a personal brand to maintain relevancy in a rapidly changing job market.
+## How to Ask for the Feedback You Really Need
+[read more](data/articles/how-to-ask-for-the-feedb.b18ca646/README.md) 
 
-[Your Social Media Presence Can Help You Land (or Lose) a Job Opportunity](data/articles/your-social-media-presen.37f1af80/README.md): Advises job seekers on how to maintain a strategic and influential social media presence in order to attract potential employers and opportunities.
+## Your Social Media Presence Can Help You Land (or Lose) a Job Opportunity
+[read more](data/articles/your-social-media-presen.37f1af80/README.md)
 
-## Global Economic Update
-A few articles discussing critical global economic issues:
+# Business 
 
-[What must Sri Lanka do to avoid a second default in the near future?](data/articles/what-must-sri-lanka-do-t.0e8c0875/README.md): Presents measures Sri Lanka must adopt to avoid a second default, which could be devastating to its economy.
+## A Model for Expanding Your Business into Foreign Markets
+[read more](data/articles/a-model-for-expanding-yo.fc572625/README.md) 
 
-[US hits China with carefully devised tariffs](data/articles/us-hits-china-with-caref.f4e0eef1/README.md): Details the impact of the US imposing tariffs on about $18bn worth of goods from China.
+## US hits China with carefully devised tariffs
+[read more](data/articles/us-hits-china-with-caref.f4e0eef1/README.md)                
 
-[EU approves first subsidies for hydrogen projects](data/articles/eu-approves-first-subsid.5ca64453/README.md): Reports on the European Commission's allocation of subsidies for the first time to renewable hydrogen production projects.
+## Critical minerals in Latam: opportunities and challenges
+[read more](data/articles/critical-minerals-in-lat.69b5fdcc/README.md)
 
-[India’s general election 2024: the story so far](data/articles/india-s-general-election.88a3e41b/README.md): Provides an update on India's 2024 general election, pointing out that BJP is likely to secure a majority despite the reduced voter turnout potentially translating to fewer seats.
+# Foreign Relations
 
-[Intra-party tensions in the US rise over foreign conflicts](data/articles/intra-party-tensions-in.5c37ed1c/README.md): Discusses increasing intra-party tensions in the US due to division over major foreign policy issues.
+## Nakba continues amid Zionist newspeak
+[read more](data/articles/nakba-continues-amid-zio.6a528dfb/README.md)
+
+## Intra-party tensions in the US rise over foreign conflicts
+[read more](data/articles/intra-party-tensions-in.5c37ed1c/README.md) 
+
+# Indian Elections
+
+## India’s general election 2024: the story so far
+[read more](data/articles/india-s-general-election.88a3e41b/README.md)
