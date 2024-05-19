@@ -1,6 +1,6 @@
 # What should we commemorate in Sri Lanka in the month of May?
 
-## AI Generated Summary
+## Summary 🤖
 
 The article explores the deep connection between those who have experienced violence firsthand and their profound appreciation for peace. It argues that sustainable peace for a nation is not achieved through international platforms like the United Nations, but through comprehensive national revitalization. This includes transforming every sector, from education to recreation, to foster a collective peaceful mindset free of pride (Mohaya) and anger (Dweshaya), thereby avoiding sorrow (Dukkha).
 
@@ -12,7 +12,22 @@ The piece critiques the divisive narratives and policies that have historically 
 
 The importance of learning from history is highlighted, noting that the root of unrest often lies in discriminatory practices. The article concludes by advocating for collective mourning of all lives lost during conflicts and the abandonment of divisive rhetoric. The author argues for a national commemoration of peace, learning from historical tragedies to build a stable and harmonious future.
 
-## Original Text
+## Follow-up Questions 🤖
+
+1. How does the author suggest a nation can transform its mindset from one of conflict to peace?
+2. Could you explain the significance of Japan as an example in this context?
+3. What potential roles do the military and former militants play in post-conflict reconciliation?
+4. Can you discuss more about the language barrier complications in the conflict approach?
+5. How do the author's personal experiences influence her perspective on conflict resolution and peacebuilding?
+6. Can the concept of 'dukkha,' or sorrow, be a universal bridge for empathy in understanding a nation's conflict history?
+7. How did the State military respond to the evolution of the Tamil militancy?
+8. Could a discussion of autonomy bring about a genuine people centric discourse?
+9. What are the implications of the language choice in a nation's anthem based on the Sri Lankan perspective?
+10. What were the common discussions the writer had with the former militants during interviews?
+11. Can the rehabilitation of post-conflict mindset bring about long-term stability?
+12. What is the significance of collective mourning in healing a nation post-conflict?
+
+## Full Text
 
 [https://www.ft.lk/opinion/What-should-we-commemorate-in-Sri-Lanka-in-the-month-of-May/14-761926](https://www.ft.lk/opinion/What-should-we-commemorate-in-Sri-Lanka-in-the-month-of-May/14-761926)
 
@@ -174,5 +189,3 @@ In this 15th year of commemorating 18 May, the day that ended the violence of ov
 
 The ancient Sinhalese kings knew to recognise human potential and respected the ancient Tamil race that lived side by side upon this land making up the humane tapestry of one of the oldest civilisations in world history. 
 
-
-![AI Image](ai_image.png)

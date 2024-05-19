@@ -1,18 +1,18 @@
 import os
-import sys
 from dataclasses import dataclass
-from functools import cached_property
 
-import openai
-from utils import WWW, File, JSONFile, Log, Time, TimeFormat
+from utils import JSONFile, Log, Time, TimeFormat
 
+from news.core.article.ArticleAIImage import ArticleAIImage
+from news.core.article.ArticleAIText import ArticleAIText
+from news.core.article.ArticleReadMe import ArticleReadMe
 from news.core.ArticleHead import ArticleHead
 
 log = Log('Article')
 
 
 @dataclass
-class Article(ArticleHead):
+class Article(ArticleHead, ArticleReadMe, ArticleAIImage, ArticleAIText):
     DIR_DATA = os.path.join('data', 'articles')
 
     time_str: str
@@ -78,117 +78,8 @@ class Article(ArticleHead):
         self.article_file.write(self.todict())
         log.info(f'Wrote {self.article_file.path}')
 
-    @cached_property
-    def ai_summary(self):
-        ai_summary_file = File(os.path.join(self.dir_path, 'ai_summary.txt'))
-        if ai_summary_file.exists:
-            return ai_summary_file.read()
-
-        openai_api_key = sys.argv[1]
-        client = openai.Client(api_key=openai_api_key)
-
-        system_cmd = "Summarize the following article:"
-        try:
-            response = client.chat.completions.create(
-                model="gpt-4o",
-                messages=[
-                    {"role": "system", "content": system_cmd},
-                    {
-                        "role": "user",
-                        "content": '\n\n'.join(self.body_paragraphs),
-                    },
-                ],
-            )
-        except BaseException:
-            log.error(f'Failed to summarize {self.url}')
-            return ''
-
-        ai_summary = response.choices[0].message.content
-        ai_summary_file.write(ai_summary)
-        log.info(f'Wrote {ai_summary_file.path}')
-        return ai_summary
-
-    @cached_property
-    def ai_image_path(self):
-        ai_image_path = JSONFile(os.path.join(self.dir_path, 'ai_image.png'))
-        if os.path.exists(ai_image_path.path):
-            return ai_image_path
-
-        openai_api_key = sys.argv[1]
-        client = openai.Client(api_key=openai_api_key)
-
-        prompt = (
-            'Generate a painting, in a genre of your choosing, '
-            + f'titled "{self.title}" in a Sri Lankan context.'
-        )
-
-        try:
-            response = client.images.generate(
-                model="dall-e-3",
-                prompt=prompt,
-                size="1024x1024",
-                quality="standard",
-                n=1,
-            )
-        except BaseException:
-            log.error(f'Failed to generate image for {self.url}')
-            return None
-
-        image_url = response.data[0].url
-        log.debug(f'{image_url=}')
-
-        WWW.download_binary(image_url, ai_image_path.path)
-        log.info(f'Wrote {ai_image_path.path}')
-        return ai_image_path
-
-    def save_readme(self):
-        readme_file = JSONFile(os.path.join(self.dir_path, 'README.md'))
-        lines = (
-            [
-                f'# {self.title}',
-                '',
-                '## AI Generated Summary',
-                '',
-                self.ai_summary,
-                '',
-                '## Original Text',
-                '',
-                f'[{self.url}]({self.url})',
-                '',
-                f'*{self.time_str}*',
-                '',
-            ]
-            + [paragraph + '\n' for paragraph in self.body_paragraphs]
-            + [
-                '',
-            ]
-        )
-        readme_file.write_lines(lines)
-        log.info(f'Wrote {readme_file.path}')
-
     def save_all(self):
         self.save()
         self.ai_summary
-        # self.ai_image_path
+        self.ai_follow_ups
         self.save_readme()
-
-    @staticmethod
-    def build_readme():
-        articles = Article.list_all()
-        last_updated_str = TimeFormat.TIME.formatNow
-        lines = [
-            '# Sri Lankan News :sri_lanka:',
-            '',
-            '*Long-Form Articles & Opinions*',
-            '',
-            f'Last Updated **{last_updated_str}**',
-        ]
-        prev_date_str = None
-        for article in articles:
-            if prev_date_str != article.date_str:
-                lines.extend(['', f'## {article.date_str}', ''])
-            lines.append(f'* [{article.title}]({article.dir_path_unix})')
-            prev_date_str = article.date_str
-        readme_path = 'README.md'
-        File(readme_path).write_lines(lines)
-        log.info(f'Wrote {readme_path}')
