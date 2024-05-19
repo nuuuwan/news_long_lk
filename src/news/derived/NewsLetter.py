@@ -10,10 +10,15 @@ log = Log('NewsLetter')
 
 class NewsLetter:
     MODEL = 'gpt-4'
+    MAX_ARTICLES = 30
 
     @cached_property
     def summary_content(self):
         articles = Article.list_all()
+        if len(articles) > self.MAX_ARTICLES:
+            articles = articles[: self.MAX_ARTICLES]
+        n_articles = len(articles)
+        log.debug(f'Building NewsLetter from {n_articles} articles')
         lines = []
         for article in articles:
             lines.append(article.title)
