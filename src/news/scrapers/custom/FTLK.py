@@ -58,10 +58,10 @@ class FTLK(Scraper):
         page = requests.get(article_head.url)
         soup = BeautifulSoup(page.content, 'html.parser')
 
-        meta_data_published = soup.find(
-            'meta', attrs={'itemprop': 'datePublished'}
+        meta_data_modified = soup.find(
+            'meta', attrs={'itemprop': 'dateModified'}
         )
-        time_str = meta_data_published['content']
+        time_str = meta_data_modified['content']
         ut = TimeFormat('%Y-%m-%d %H:%M:%S').parse(time_str).ut
         content = soup.find('header', {'class': 'inner-content'}).text
         body_paragraphs = [
