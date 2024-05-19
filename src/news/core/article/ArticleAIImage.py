@@ -45,5 +45,5 @@ class ArticleAIImage:
         log.debug(f'{image_url=}')
 
         WWW.download_binary(image_url, ai_image_path.path)
-        log.info(f'Wrote {ai_image_path.path}')
+        log.info(f'🤖 Wrote {ai_image_path.path}')
         return ai_image_path

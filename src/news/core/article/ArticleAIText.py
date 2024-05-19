@@ -35,13 +35,14 @@ class ArticleAIText:
 
         ai_text = response.choices[0].message.content
         ai_text_path.write(ai_text)
-        log.info(f'Wrote {ai_text_path.path}')
+        log.info(f'🤖 Wrote {ai_text_path.path}')
         return ai_text
 
     @cached_property
     def ai_summary(self):
         return self.get_generic_ai_text(
-            'summary', "Summarize the following article:"
+            'summary',
+            "State the name of the author, and Summarize the following article:",
         )
 
     @cached_property
