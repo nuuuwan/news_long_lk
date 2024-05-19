@@ -19,7 +19,7 @@ class ArticleHead:
         title_part = re.sub(r'\W+', ' ', self.title.lower())
         title_part = re.sub(r'\s+', ' ', title_part)[:32].strip()
         title_part = title_part.replace(' ', '-')
-        dir_name = f'{self.date_id}-{h}-{title_part}'
+        dir_name = f'{title_part}-{h}'
         return os.path.join(ArticleHead.DIR_DATA, dir_name)
 
     @property
