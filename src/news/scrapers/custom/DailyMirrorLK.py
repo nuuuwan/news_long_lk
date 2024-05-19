@@ -9,12 +9,13 @@ log = Log('DailyMirrorLK')
 
 
 class DailyMirrorLK(Scraper):
-    def get_article_head_list(self) -> list:
-        article_head_list = []
-        url = 'https://www.dailymirror.lk/opinion/231'
-        page = requests.get(url)
-        soup = BeautifulSoup(page.content, 'html.parser')
+    @property
+    def url_index(self):
+        return 'https://www.dailymirror.lk/opinion/231'
+
+    def get_article_head_list_from_soup(self, soup) -> list:
         div_article_summary_list = soup.find_all('div', {'class': 'col-md-8'})
+        article_head_list = []
         for div_article_summary in div_article_summary_list:
             a = div_article_summary.find('a')
             url = a['href']

@@ -9,11 +9,11 @@ log = Log('FTLK')
 
 
 class FTLK(Scraper):
-    def get_article_head_list(self) -> list:
-        url = 'https://www.ft.lk/opinion/14'
-        page = requests.get(url)
-
-        soup = BeautifulSoup(page.content, 'html.parser')
+    @property
+    def url_index(self):
+        return 'https://www.ft.lk/opinion/14'
+    
+    def get_article_head_list_from_soup(self, soup) -> list:
         div_article_summary_list = soup.find_all('div', {'class': 'col-md-6'})
         article_head_list = []
         for div_article_summary in div_article_summary_list:
