@@ -1,67 +1,64 @@
 # Newsletter
 
-## Sri Lankan Political Landscape
+## Sri Lankan Politics and Elections
+Articles that explore the political climate leading to the 2024 presidential elections in Sri Lanka:
 
-1. ["Will Ranil regain support of Tamil and Muslim voters?"](data/articles/will-ranil-regain-suppor.dac34841/README.md): As Sri Lanka gears up for the 2024 presidential elections, this analysis examines the current political dynamics, focusing on the ability of incumbent President Ranil Wickremesinghe to regain the support of the ethnic minority votes.
+[Will Ranil regain support of Tamil and Muslim voters?](data/articles/will-ranil-regain-suppor.dac34841/README.md): Analyzes if incumbent President Ranil Wickremesinghe can regain ethnic minority votes in Sri Lanka's next presidential polls amidst significant recent political dynamics.
 
-2. ["Who will benefit from an election boycott by Tamils?"](data/articles/who-will-benefit-from-an.73c59396/README.md): This piece delves into the potentially transformative impact of an election boycott by Tamils and the consequences for other groups in the forthcoming Sri Lankan Presidential election.
+[Who will benefit from an election boycott by Tamils?](data/articles/who-will-benefit-from-an.73c59396/README.md): Discusses the impact of Tamils possibly rejecting all Sinhalese and south-based candidates in the election and the potential outcomes of either a boycott or voting for a Tamil candidate.
 
-3. ["Members of our Parliament and French Queen Marie Antoinette -EDITORIAL"](data/articles/members-of-our-parliamen.dbe99058/README.md): This critique of Sri Lankan parliamentarians underscores their growing disconnect from the economically struggling population and discusses the potential political ramifications.
+[Members of our Parliament and French Queen Marie Antoinette -EDITORIAL](data/articles/members-of-our-parliamen.dbe99058/README.md): Highlights the criticism of Sri Lankan parliament members for their lack of empathy towards the economically struggling population in the run-up to the general and presidential elections.
 
-4. ["Lawmakers must note that stars in galaxy are dead - EDITORIAL"](data/articles/lawmakers-must-note-that.23bcb9c9/README.md): An in-depth commentary discussing the widening political divide and calls for fresh, youthful influence in Sri Lanka's political sphere. 
+[Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/lawmakers-must-note-that.23bcb9c9/README.md): Comments on Sri Lanka's widening political divide, calls for certain politicians to step down, and the anticipated election year.
 
-## Social Commentary
+## Opinions and Editorials
+Collection of opinion and editorial articles:
 
-1. ["What should we commemorate in Sri Lanka in the month of May?"](data/articles/what-should-we-commemora.97229396/README.md): Frances Bulathsinghala, in this opinion piece, urges Sri Lanka to fortify its efforts towards achieving long-term stability and intra-communal peace.
+[What should we commemorate in Sri Lanka in the month of May?](data/articles/what-should-we-commemora.97229396/README.md): Highlights that long-term stability and sustainability can only be achieved by revitalising every sphere of the nation, from education to recreation, in order to avoid unrest due to ethnicity, caste, religion, or language.
 
-2. ["Nakba continues amid Zionist newspeak"](data/articles/nakba-continues-amid-zio.6a528dfb/README.md): A comprehensive article looking into how the continued Palestine-Israel conflict has sparked renewed violence, forcing further displacement of people.
+[‘Interventions’: A book review](data/articles/interventions-a-book-re.7d9f92af/README.md): Reviews Dayan Jayatilleka's anthology "Interventions" which serves a historical purpose and offers insights into Marxism.
 
-## Books and Literature
+[Nakba continues amid Zionist newspeak](data/articles/nakba-continues-amid-zio.6a528dfb/README.md): Looks at the ongoing displacement of Palestinians in Rafah, with Western nations cited as complicit for failing to uphold peace and justice.
 
-1. ["‘Interventions’: A book review"](data/articles/interventions-a-book-re.7d9f92af/README.md): This review gives an overview of the book "Interventions" featuring selected political writings from Dayan Jayatilleka.
+[Critical minerals in Latam: opportunities and challenges](data/articles/critical-minerals-in-lat.69b5fdcc/README.md): Evaluates the possibilities and obstacles for Latin American countries to attract investments for critical minerals, crucial for the global energy transition.
 
-## Technology and AI
+[Interventions’: A book review](data/articles/interventions-a-book-re.7d9f92af/README.md): Commends Jayatilleka's anthology's insights into Marxism while serving a historical purpose.
 
-1. ["Is Your Mindset About Generative AI Limiting Your Professional Growth?"](data/articles/is-your-mindset-about-ge.173b236a/README.md): This article explores how the understanding and acceptance of generative artificial intelligence can enhance professional growth.
+[Tech workers should shine a light on the industry’s secretive work with the military](data/articles/tech-workers-should-shin.d5283edf/README.md): Supports the idea of tech industry employees unveiling their employers' military contracts, particularly concerning artificial intelligence and military drones.
 
-2. ["OpenAI and Google are launching supercharged AI assistants. Here’s how you can try them out."](data/articles/openai-and-google-are-la.d3a3046a/README.md): This article discusses the development of AI assistants by Google and OpenAI that can engage in real-time conversations and interpret surroundings using live video.
+## Artificial Intelligence
+A set of articles focusing on the impact and application of artificial intelligence:
 
-## Personal and Professional Development
+[Public-private partnerships and blended finance for climate action](data/articles/public-private-partnersh.68803a1e/README.md): Discusses how public-private partnerships (PPPs) and blended finance can promote collaboration to combat climate change and foster green investments.
 
-1. ["A Model for Expanding Your Business into Foreign Markets"](data/articles/a-model-for-expanding-yo.fc572625/README.md): This in-depth analysis provides a strategic model for multinational corporations seeking to expand globally.
+[Is Your Mindset About Generative AI Limiting Your Professional Growth?](data/articles/is-your-mindset-about-ge.173b236a/README.md): Suggests overcoming misconceptions about generative AI to harness potential benefits such as improved productivity and creativity.
 
-2. ["Your Personal Brand Needs a Refresh. Here’s Where to Start."](data/articles/your-personal-brand-need.4b0c8fc9/README.md): Branding experts Dorie Clark and Tomas Chamorro-Premuzic outline a four-step process to maintain and refresh a personal brand in a rapidly changing job market.
+[How to Ask for the Feedback You Really Need](data/articles/how-to-ask-for-the-feedb.b18ca646/README.md): Advocates for more specific feedback at work to facilitate personal development.
 
-3. ["How to Ask for the Feedback You Really Need"](data/articles/how-to-ask-for-the-feedb.b18ca646/README.md): This Harvard Business Review piece presents a strategic approach to seeking feedback at work, focusing on personal development.
+[How cuddly robots could change dementia care](data/articles/how-cuddly-robots-could.3a0ca68c/README.md): Explains the role of AI-assisted robots, such as QT, Golden Pup, and Paro, in potentially changing dementia care.
 
-4. ["Your Social Media Presence Can Help You Land (or Lose) a Job Opportunity"](data/articles/your-social-media-presen.37f1af80/README.md): This article presents insights into how a strategic and well-curated social media presence can influence job opportunities.
-   
-## Economy and Finance
-   
-1. ["Public-private partnerships and blended finance for climate action"](data/articles/public-private-partnersh.68803a1e/README.md): Discusses the potential of public-private partnerships and blended finance facilities in accelerating climate action efforts in developing countries.
+[OpenAI and Google are launching supercharged AI assistants. Here’s how you can try them out.](data/articles/openai-and-google-are-la.d3a3046a/README.md): Talks about the new AI assistants, launched by OpenAI and Google, that are capable of real-time conversations, translating chats instantaneously, reading bedtime stories, and solving math problems.
 
-2. ["What must Sri Lanka do to avoid a second default in the near future?"](data/articles/what-must-sri-lanka-do-t.0e8c0875/README.md): This piece discusses the economic measures Sri Lanka needs to take to avoid a second default.
+[Roundtables: Why thermal batteries are so hot right now](data/articles/roundtables-why-thermal.6c00b172/README.md): Praises thermal batteries as a breakthrough technology for reducing emissions in heavy industries, a significant challenge in combatting climate change.
 
-3. ["US hits China with carefully devised tariffs"](data/articles/us-hits-china-with-caref.f4e0eef1/README.md): Discusses how the newly imposed US tariffs on Chinese goods will affect several industries, especially electric-vehicle supply chains.
+## Business and Careers
+Articles focusing on issues related to business expansion and career growth:
 
-4. ["Critical minerals in Latam: opportunities and challenges"](data/articles/critical-minerals-in-lat.69b5fdcc/README.md): Analyzes the opportunities and challenges of mining critical minerals for the global energy transition in Latin American countries.
+[A Model for Expanding Your Business into Foreign Markets](data/articles/a-model-for-expanding-yo.fc572625/README.md): Highlights a study recommending companies to adopt the 'REACH model' when expanding their business into foreign markets, taking regional cultural differences into account.
 
-## Health and Ageing Population
+[Your Personal Brand Needs a Refresh. Here’s Where to Start.](data/articles/your-personal-brand-need.4b0c8fc9/README.md): Provides four steps for maintaining a personal brand to maintain relevancy in a rapidly changing job market.
 
-1. ["OPA seminar sheds insights to managing Sri Lanka’s ageing population"](data/articles/opa-seminar-sheds-insigh.083b68e9/README.md): Provides insights from a seminar highlighting the need to address the expanding aging population in Sri Lanka, currently the largest in South Asia.
+[Your Social Media Presence Can Help You Land (or Lose) a Job Opportunity](data/articles/your-social-media-presen.37f1af80/README.md): Advises job seekers on how to maintain a strategic and influential social media presence in order to attract potential employers and opportunities.
 
-2. ["How cuddly robots could change dementia care"](data/articles/how-cuddly-robots-could.3a0ca68c/README.md): Explores how robotic companions can provide comfort and companionship to dementia patients, and improve the overall quality of care.
+## Global Economic Update
+A few articles discussing critical global economic issues:
 
-## Renewable Energy 
+[What must Sri Lanka do to avoid a second default in the near future?](data/articles/what-must-sri-lanka-do-t.0e8c0875/README.md): Presents measures Sri Lanka must adopt to avoid a second default, which could be devastating to its economy.
 
-1. ["EU approves first subsidies for hydrogen projects"](data/articles/eu-approves-first-subsid.5ca64453/README.md): The European Commission has allocated its first-ever subsidies for renewable hydrogen production projects, signalling a significant step towards its green energy transition goals. 
+[US hits China with carefully devised tariffs](data/articles/us-hits-china-with-caref.f4e0eef1/README.md): Details the impact of the US imposing tariffs on about $18bn worth of goods from China.
 
-2. ["Roundtables: Why thermal batteries are so hot right now"](data/articles/roundtables-why-thermal.6c00b172/README.md): This article discusses MIT Technology Review's recognition of thermal batteries as a key method for reducing emissions in heavy industry.
+[EU approves first subsidies for hydrogen projects](data/articles/eu-approves-first-subsid.5ca64453/README.md): Reports on the European Commission's allocation of subsidies for the first time to renewable hydrogen production projects.
 
-## Military and Technology
+[India’s general election 2024: the story so far](data/articles/india-s-general-election.88a3e41b/README.md): Provides an update on India's 2024 general election, pointing out that BJP is likely to secure a majority despite the reduced voter turnout potentially translating to fewer seats.
 
-1. ["Tech workers should shine a light on the industry’s secretive work with the military"](data/articles/tech-workers-should-shin.d5283edf/README.md): This commentary raises the issue of tech companies' secretive contracts with militaries worldwide, emphasizing the need for more transparency. 
-
-## Indian Politics
-
-1. ["India’s general election 2024: the story so far"](data/articles/india-s-general-election.88a3e41b/README.md): This article provides an in-depth analysis of the ongoing general elections in India and predicts likely outcomes.
+[Intra-party tensions in the US rise over foreign conflicts](data/articles/intra-party-tensions-in.5c37ed1c/README.md): Discusses increasing intra-party tensions in the US due to division over major foreign policy issues.
