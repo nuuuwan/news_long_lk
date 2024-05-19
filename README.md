@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 11:52:00**
+Last Updated **2024-05-19 11:54:33**
 
 ## 2024-05-17
 
@@ -14,22 +14,7 @@ Last Updated **2024-05-19 11:52:00**
 * [‘Interventions’: A book review](data/articles/interventions-a-book-re.7d9f92af/README.md) `ft.lk`
 * [OPA seminar sheds insights to managing Sri Lanka’s ageing population](data/articles/opa-seminar-sheds-insigh.083b68e9/README.md) `ft.lk`
 * [What must Sri Lanka do to avoid a second default in the near future?](data/articles/what-must-sri-lanka-do-t.0e8c0875/README.md) `ft.lk`
-* [Is Your Mindset About Generative AI Limiting Your Professional Growth?
-
-
-Career planning
-Digital Article
-Tom Popomaronis
-
-
-
-
-Five limiting beliefs — and how to get past them.
-
-
- Save
- Share
-May 17, 2024](data/articles/is-your-mindset-about-ge.173b236a/README.md) `hbr.org`
+* [Is Your Mindset About Generative AI Limiting Your Professional Growth?](data/articles/is-your-mindset-about-ge.173b236a/README.md) `hbr.org`
 * [Biotechnology and health2 daysHow cuddly robots could change dementia care](data/articles/biotechnology-and-health.3a0ca68c/README.md) `technologyreview.com`
 * [Lawmakers must note that stars in galaxy are dead - EDITORIAL](data/articles/lawmakers-must-note-that.23bcb9c9/README.md) `dailymirror.lk`
 * [Nakba continues amid Zionist newspeak](data/articles/nakba-continues-amid-zio.6a528dfb/README.md) `dailymirror.lk`

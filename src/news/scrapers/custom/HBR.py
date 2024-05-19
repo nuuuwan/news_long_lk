@@ -26,7 +26,7 @@ class HBR(Scraper):
             a = elem_article_summary.find('a')
             url_base = a['href']
             url = f'https://hbr.org{url_base}'
-            title = elem_article_summary.text.strip()
+            title = elem_article_summary.text.strip().split('\n')[0]
             article_head = ArticleHead(url=url, title=title)
             article_head_list.append(article_head)
         return article_head_list
