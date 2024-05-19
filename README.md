@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 20:37:17**
+Last Updated **2024-05-19 20:42:36**
 
 ## 2024-05-19
 
 * [Tamil and Muslim Voting Trends  in  Past Presidential Elections.](data/articles/tamil-and-muslim-voting.9f1579ef/README.md) `dbsjeyaraj.com`
+* [Thousands of Tamils Converge at Mullivaaikkaal On Mullaitheevu district coast  to remember  their Kith and Kin were killed 15 years ago in the Final phase of the war in May 2009](data/articles/thousands-of-tamils-conv.a43c05b4/README.md) `dbsjeyaraj.com`
+* [Is s it too much to allow the North and the East to remember lives of their loved ones felled in the conflict as much as the Sinhala-South remembers their fallen soldiers?](data/articles/is-s-it-too-much-to-allo.e16ab13e/README.md) `dbsjeyaraj.com`
+* [If  the  Current situation continues, there is a danger that Sri Lankan Tamils will become a group of people that the world does not pay attention to and Tamil politicians will become a group of people who make impractical political slogans and only crow within the confines of the peninsula.](data/articles/if-the-current-situation.b81c1b23/README.md) `dbsjeyaraj.com`
+* [Diana  Gamage’s  speech, body language and behaviour in parliament often outdid unruly behaviour usually associated with bullies and thugs.](data/articles/diana-gamage-s-speech-bo.3183337f/README.md) `dbsjeyaraj.com`
 
 ## 2024-05-17
 
