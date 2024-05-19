@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-19 12:51:56**
+Last Updated **2024-05-19 12:54:51**
 
 ## 2024-05-17
 
@@ -32,6 +32,13 @@ Last Updated **2024-05-19 12:51:56**
 * [OpenAI and Google are launching supercharged AI assistants. Here’s how you can try them out.](data/articles/openai-and-google-are-la.d3a3046a/README.md) `technologyreview.com`
 * [US hits China with carefully devised tariffs](data/articles/us-hits-china-with-caref.f4e0eef1/README.md) `eiu.com`
 
+## 2024-05-14
+
+* [Critical minerals in Latam: opportunities and challenges](data/articles/critical-minerals-in-lat.69b5fdcc/README.md) `eiu.com`
+
 ## 2024-05-10
 
+* [India’s general election 2024: the story so far](data/articles/india-s-general-election.88a3e41b/README.md) `eiu.com`
+* [Intra-party tensions in the US rise over foreign conflicts](data/articles/intra-party-tensions-in.5c37ed1c/README.md) `eiu.com`
+* [EU approves first subsidies for hydrogen projects](data/articles/eu-approves-first-subsid.5ca64453/README.md) `eiu.com`
 * [Tech workers should shine a light on the industry’s secretive work with the military](data/articles/tech-workers-should-shin.d5283edf/README.md) `technologyreview.com`
