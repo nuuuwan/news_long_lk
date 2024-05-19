@@ -7,13 +7,10 @@ from news.core.article.ArticleAIText import ArticleAIText
 from news.core.article.ArticleBase import ArticleBase
 from news.core.article.ArticleReadMe import ArticleReadMe
 
-
 log = Log('Article')
 
 
-class Article(
-    ArticleBase,  ArticleReadMe, ArticleAIImage, ArticleAIText
-):
+class Article(ArticleBase, ArticleReadMe, ArticleAIImage, ArticleAIText):
     DIR_DATA = os.path.join('data', 'articles')
 
     @staticmethod

@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 
 from utils import Log, Time, TimeFormat
+
 from news.core.ArticleHead import ArticleHead
 
 log = Log('Article')
@@ -43,13 +44,12 @@ class ArticleBase(ArticleHead):
             body_paragraphs=d['body_paragraphs'],
         )
 
-
-    @property 
+    @property
     def source(self):
         domain = self.url.split('/')[2]
         source = domain.replace('www.', '')
         return source
-    
+
     @property
     def time_str_formatted(self):
         return TimeFormat('%I:%M %p, %A, %B %d, %Y').format(Time(self.ut))

@@ -2,22 +2,21 @@
 
 ## Summary 🤖
 
-Frances Bulathsinghala, a journalist for Sri Lankan newspaper The Sunday Times, advocates for peace and unity. She argues that the peace of a nation does not lie with international bodies such as the UN, but with the people of the nation themselves. Using the example of Japan, Bulathsinghala recommends revitalising the entire nation in every sphere, from education to recreation, to develop a mindset focused on peace. Reflecting on her experiences in Sri Lanka, she contends that those immersed in violence value peace the most. She emphasises the importance of unity and reconciliation, and urges for the implementation of people-centric policies to ensure long-term stability. Adopting wisdom in policy making and focusing on local needs, Bulathsinghala suggests, can help a nation avoid divisions based on ethnicity, religion, caste, or language.
+Frances Bulathsinghala argues in an opinion piece that the peace of a nation does not lie in the hands of the United Nations or any other international body. Rather, long-term stability and sustainability can only be achieved by revitalising the entire nation in every sphere, from education to recreation, devoid of false pride or anger. She draws attention to Japan, which rejuvenated its country after World War II and has since developed a peaceful and holistic national mindset. She underlines that the start of unrest in society takes place when any community or communities feel lesser than others due to their ethnicity, caste, religion, or language. Towards the end, she suggests that Sri Lanka should end serving peace and stability on the plate of other nations and devise a genuine plan to ensure hatred, despair, and petty superiority don't cause it to self-destruct.
+
 
 ## Follow-up Questions 🤖
 
-1. How could the peacebuilding approach in Japan be practically applied in Sri Lanka?
-2. What strategies could be used to combat Mohaya (false pride or illusion) and Dweshaya (anger/spite) in a nation?
-3. What are some examples of political structures thriving on division and unrest and how can these be transformed for peace?
-4. What are some practical steps to revitalise a nation in spheres such as education and recreation for peacebuilding?
-5. Could you share more about the experiences and perspectives of former militants that were integral in building peace?
-6. What interventions could be beneficial for psycho-social healing in post-conflict societies?
-7. What would a plan to rehabilitate the mindset of military personnel look like?
-8. How does a nation ensure that a state military is not perceived as a generic damnation beyond redemption?
-9. How could countries avoid serving peace and stability on the platters of other nations?
-10. How can political decision-making encapsulate a recognition of the Sri Lankan birth identity, ability, and diligence, rather than focusing on ethnic or religious identifiers?
-11. What examples shed light on the cost of a limb or a life during political unrest or war, and how does this inform policy-making?
-12. How did the revitalisation of the entire nation in Japan help prevent the glorification of war?
+1. What specific steps should be taken to ensure long-term stability for a country that has paid a huge price for peace? 
+2. How can we transform military and militant mindsets towards a peaceful way of life after the end of a conflict?
+3. How crucial is the application of Buddhist principles in handling conflicts like these?
+4. What lessons can we learn from Japan's approach to peace after suffering the effects of the atomic bomb?
+5. What role should international bodies play in fostering peace in nations affected by conflict?
+6. How can education contribute towards the creation of a more peaceful and holistic mindset in the aftermath of conflict?
+7. In what ways can the experiences of former militants contribute to peace-building efforts?
+8. How did the State's policy of pardoning around 13,000 LTTE cadres contribute to peace efforts post-2009?
+9. What is the significance of collective mourning in the healing process for a nation affected by conflict?
+10. How can we prevent the glorification of war and instead promote peace and non-violence?
 
 ## Full Text
 

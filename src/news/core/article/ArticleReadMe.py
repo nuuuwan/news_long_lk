@@ -50,7 +50,10 @@ class ArticleReadMe:
         for article in articles:
             if prev_date_str != article.date_str:
                 lines.extend(['', f'## {article.date_str}', ''])
-            lines.append(f'* [{article.title}]({article.dir_path_unix}) `{article.source}`')
+            lines.append(
+                f'* [{article.title}]({article.dir_path_unix})'
+                + f' `{article.source}`'
+            )
             prev_date_str = article.date_str
         readme_path = 'README.md'
         File(readme_path).write_lines(lines)

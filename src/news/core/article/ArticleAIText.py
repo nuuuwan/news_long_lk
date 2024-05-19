@@ -42,13 +42,13 @@ class ArticleAIText:
     def ai_summary(self):
         return self.get_generic_ai_text(
             'summary',
-            "State the name of the author, "
-            + "and Summarize the following article:",
+            "Summarize the following article:",
         )
 
     @cached_property
     def ai_follow_ups(self):
         return self.get_generic_ai_text(
             'follow_ups',
-            "List some interesting follow-up questions about this article:",
+            "List some interesting follow-up questions"
+            + " an unbiased reader would ask about this article:",
         )
