@@ -10,5 +10,5 @@ class OpenAICommon:
     @staticmethod
     def get_client():
         openai_api_key = sys.argv[1]
-        log.debug('openai_api_key=' + openai_api_key[:8] + '***')
+        log.debug('openai_api_key=' + openai_api_key[:12] + '***')
         return openai.Client(api_key=openai_api_key)
