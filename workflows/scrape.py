@@ -1,6 +1,6 @@
 import os
 
-from news import Article, NewsLetter, ScraperFactory
+from news import Article, ScraperFactory
 
 
 def main():
@@ -9,7 +9,7 @@ def main():
         scraper().scrape(limit=limit)
 
     Article.build_readme()
-    NewsLetter().build()
+
 
 
 if __name__ == "__main__":
