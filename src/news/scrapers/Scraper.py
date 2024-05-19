@@ -41,7 +41,7 @@ class Scraper:
         return self.scrape_article_nocache(article_head, soup)
 
     def scrape(self, limit: int):
-        log.info(f'Scraping {self.__class__.__name__}...')
+        log.info(f'📰 {self.__class__.__name__}')
         article_head_list = self.get_article_head_list()
         n_articles = len(article_head_list)
         if n_articles > limit:
@@ -49,7 +49,7 @@ class Scraper:
         else:
             limit = n_articles
 
-        log.debug(f'📰 Scraping {limit}/{n_articles} articles')
+        log.debug(f'Scraping {limit}/{n_articles} articles')
 
         for article_head in article_head_list:
             article = self.scrape_article(article_head)

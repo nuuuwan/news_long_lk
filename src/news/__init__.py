@@ -2,5 +2,5 @@
 
 from news.core import (Article, ArticleAIImage, ArticleAIText, ArticleBase,
                        ArticleHead, ArticleReadMe)
-from news.scrapers import (FTLK, DailyMirrorLK, MITTechReview, Scraper,
+from news.scrapers import (FTLK, HBR, DailyMirrorLK, MITTechReview, Scraper,
                            ScraperFactory)
