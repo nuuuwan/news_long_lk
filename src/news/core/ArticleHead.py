@@ -10,7 +10,6 @@ class ArticleHead:
     DIR_DATA = os.path.join('data', 'articles')
 
     url: str
-    date_id: str
     title: str
 
     @property
