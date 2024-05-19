@@ -49,5 +49,7 @@ class NewsLetter:
 
     def build(self):
         newsletter_path = 'README.newsletter.md'
-        File(newsletter_path).write(self.newsletter_content)
+        File(newsletter_path).write_lines(
+            ['# Newsletter', '', self.newsletter_content, '']
+        )
         log.info(f'Wrote {newsletter_path}')
