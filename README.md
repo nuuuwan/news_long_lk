@@ -2,12 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-20 06:27:31**
+Last Updated **2024-05-20 18:16:50**
 
 ## 2024-05-20
 
+* [Your Team Members Aren’t Participating in Meetings. Here’s What to Do.](data/articles/your-team-members-aren-t.3cd06f8f/README.md) `hbr.org`
+* [Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?](data/articles/can-ranil-wickremesinghe.9a0d30e1/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s political paradox: Prioritising privileges over public interest](data/articles/sri-lanka-s-political-pa.8b02106a/README.md) `ft.lk`
 * [Prema Cooray – a man for all seasons: An appreciation](data/articles/prema-cooray-a-man-for-a.2ea625c5/README.md) `ft.lk`
+* [‘In Sri Lanka of 2024, kanji is a four letter word.By criminalising kanji making, another generation of Tamils is being told that even such a simple act of mourning can turn you into a criminal. Your dead have less value your grief less legitimacy because of your ethnicity.”](data/articles/in-sri-lanka-of-2024-ka.5ca3e06a/README.md) `dbsjeyaraj.com`
 * [Protests and crackdown: Rappers vs. the regime in Iran](data/articles/protests-and-crackdown-r.9d3b5a1b/README.md) `dailymirror.lk`
 * [Govt. should learn from Civil Society Organisations in commemorating dear departed](data/articles/govt-should-learn-from-c.1fbcdbe8/README.md) `dailymirror.lk`
 * [The OHCHR strictures on Lanka -spitting in the wind - EDITORIAL](data/articles/the-ohchr-strictures-on.8d1de2d4/README.md) `dailymirror.lk`
