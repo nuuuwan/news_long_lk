@@ -2,11 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-20 18:16:50**
+Last Updated **2024-05-21 15:37:25**
+
+## 2024-05-21
+
+* [Growing disconnect of political elite and the President’s shrinking political options](data/articles/growing-disconnect-of-po.2eea7db5/README.md) `ft.lk`
+* [Musings over museum in the east](data/articles/musings-over-museum-in-t.28a62464/README.md) `ft.lk`
+* [Mahinda Rajapaksa responsible for bankruptcy of SriLankan Airlines](data/articles/mahinda-rajapaksa-respon.5767810b/README.md) `ft.lk`
+* [One more in the long line of rejections](data/articles/one-more-in-the-long-lin.dfc4474e/README.md) `ft.lk`
+* [Integrating entrepreneurship in education: An imperative for the change we want](data/articles/integrating-entrepreneur.dd8ad1d2/README.md) `ft.lk`
+* [Social media comes to the fore in Indian elections](data/articles/social-media-comes-to-th.5bb4bd0c/README.md) `dailymirror.lk`
+* [Elections must be decided only by law - EDITORIAL](data/articles/elections-must-be-decide.f7f58756/README.md) `dailymirror.lk`
 
 ## 2024-05-20
 
+* [How Artists Can Transition into the Business World](data/articles/how-artists-can-transiti.ecb5a0db/README.md) `hbr.org`
+* [How One Company Added Carbon Estimates to Its Customer Invoices](data/articles/how-one-company-added-ca.e3668d29/README.md) `hbr.org`
 * [Your Team Members Aren’t Participating in Meetings. Here’s What to Do.](data/articles/your-team-members-aren-t.3cd06f8f/README.md) `hbr.org`
+* [AI models can outperform humans in tests to identify mental states](data/articles/ai-models-can-outperform.edfc7765/README.md) `technologyreview.com`
 * [Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?](data/articles/can-ranil-wickremesinghe.9a0d30e1/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s political paradox: Prioritising privileges over public interest](data/articles/sri-lanka-s-political-pa.8b02106a/README.md) `ft.lk`
 * [Prema Cooray – a man for all seasons: An appreciation](data/articles/prema-cooray-a-man-for-a.2ea625c5/README.md) `ft.lk`

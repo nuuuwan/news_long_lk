@@ -1,0 +1,15 @@
+1. What is "theory of mind" and how is it currently understood by psychologists?
+2. How were the AI models able to perform well in these psychological tests? 
+3. Can these AI models really mimic human emotions or are they just following pre-set algorithms?
+4. What implications does the study's findings have on the future of AI development in interacting with humans?
+5. How do these results change our general understanding of AI capabilities?
+6. Why were the AI models tested multiple times with each task?
+7. How can we accurately measure AI's performance without attributing human-like qualities?
+8. How did different AI models perform differently in acknowledging faux pas scenarios?
+9. How can AI's ability to understand irony be applied in real-world situations?
+10. What are the challenges for AI in mimicking human-like understanding and empathy?
+11. Is there a concern in AI outperforming human on these psychological tests?
+12. What are the implications of these AI successes in fields such as mental health or therapy? 
+13. Why were AI models such as OpenAI's GPT-3.5 and GPT-4, and Meta's Llama chosen for the study?
+14. How much of an influence do you think the pre-existing training data had on the experiment's outcome?
+15. How could this research be further expanded upon to better understand the capabilities of AI?
