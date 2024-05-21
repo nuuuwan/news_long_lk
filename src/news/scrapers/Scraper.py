@@ -64,5 +64,9 @@ class Scraper:
         log.debug(f'Scraping {limit}/{n_articles} articles')
 
         for article_head in article_head_list:
-            article = self.scrape_article(article_head)
-            article.save_all()
+            try:
+                article = self.scrape_article(article_head)
+                article.save_all()
+            except:
+                log.error(f'Error scraping {article_head.url}')
+                
