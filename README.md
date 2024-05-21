@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-21 15:37:25**
+Last Updated **2024-05-21 18:16:15**
 
 ## 2024-05-21
 
+* [You Need New Skills to Make a Career Pivot. Here’s How to Find the Time to Build Them.](data/articles/you-need-new-skills-to-m.4492e879/README.md) `hbr.org`
 * [Growing disconnect of political elite and the President’s shrinking political options](data/articles/growing-disconnect-of-po.2eea7db5/README.md) `ft.lk`
 * [Musings over museum in the east](data/articles/musings-over-museum-in-t.28a62464/README.md) `ft.lk`
 * [Mahinda Rajapaksa responsible for bankruptcy of SriLankan Airlines](data/articles/mahinda-rajapaksa-respon.5767810b/README.md) `ft.lk`
