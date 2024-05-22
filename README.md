@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-21 18:16:15**
+Last Updated **2024-05-22 06:29:30**
+
+## 2024-05-22
+
+* [Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?](data/articles/should-sri-lankan-tamils.9c26120a/README.md) `ft.lk`
+* [Post-election AKD or no election RW?](data/articles/post-election-akd-or-no.008c9507/README.md) `ft.lk`
+* [Perils of public discourse in a polarised country](data/articles/perils-of-public-discour.592e517c/README.md) `ft.lk`
+* [Red alert for Govt. to secure skilled workforce in construction industry](data/articles/red-alert-for-govt-to-se.b3aa84df/README.md) `ft.lk`
+* [Did BASL misappropriate monies sent by JICA for  anti-corruption programme?](data/articles/did-basl-misappropriate.32faf899/README.md) `dailymirror.lk`
 
 ## 2024-05-21
 
+* [EIU’s Global Outlook event in London](data/articles/eiu-s-global-outlook-eve.3c2fa8ca/README.md) `eiu.com`
+* [A Great Sales Pitch Hinges on the Right Story](data/articles/a-great-sales-pitch-hing.788ba747/README.md) `hbr.org`
 * [You Need New Skills to Make a Career Pivot. Here’s How to Find the Time to Build Them.](data/articles/you-need-new-skills-to-m.4492e879/README.md) `hbr.org`
 * [Growing disconnect of political elite and the President’s shrinking political options](data/articles/growing-disconnect-of-po.2eea7db5/README.md) `ft.lk`
 * [Musings over museum in the east](data/articles/musings-over-museum-in-t.28a62464/README.md) `ft.lk`
@@ -21,6 +31,7 @@ Last Updated **2024-05-21 18:16:15**
 * [How One Company Added Carbon Estimates to Its Customer Invoices](data/articles/how-one-company-added-ca.e3668d29/README.md) `hbr.org`
 * [Your Team Members Aren’t Participating in Meetings. Here’s What to Do.](data/articles/your-team-members-aren-t.3cd06f8f/README.md) `hbr.org`
 * [AI models can outperform humans in tests to identify mental states](data/articles/ai-models-can-outperform.edfc7765/README.md) `technologyreview.com`
+* [A device that zaps the spinal cord gave paralyzed people better control of their hands](data/articles/a-device-that-zaps-the-s.a156632c/README.md) `technologyreview.com`
 * [Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?](data/articles/can-ranil-wickremesinghe.9a0d30e1/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s political paradox: Prioritising privileges over public interest](data/articles/sri-lanka-s-political-pa.8b02106a/README.md) `ft.lk`
 * [Prema Cooray – a man for all seasons: An appreciation](data/articles/prema-cooray-a-man-for-a.2ea625c5/README.md) `ft.lk`
