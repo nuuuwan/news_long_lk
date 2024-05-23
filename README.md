@@ -2,11 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-22 18:16:29**
+Last Updated **2024-05-23 06:27:34**
+
+## 2024-05-23
+
+* [Palestinian holocaust: The oppressed has become the oppressor](data/articles/palestinian-holocaust-th.626f8506/README.md) `ft.lk`
+* [Economic Transformation Bill, political transformation effects and Lanka’s legitimate war](data/articles/economic-transformation.10f318d5/README.md) `ft.lk`
+* [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.0acd4f94/README.md) `ft.lk`
+* [Travelling on politics’ rough sea needs grooming](data/articles/travelling-on-politics-r.6c005723/README.md) `dailymirror.lk`
+* [Vesak:  AlpachCHathawaya and moment-to-moment living - EDITORIAL](data/articles/vesak-alpachchathawaya-a.2fe72d7a/README.md) `dailymirror.lk`
 
 ## 2024-05-22
 
+* [3 Ways to Make a Request That Doesn’t Feel Coercive](data/articles/3-ways-to-make-a-request.6011b5d6/README.md) `hbr.org`
 * [How Your Business Should Tap into the Creator Economy](data/articles/how-your-business-should.a27938c6/README.md) `hbr.org`
+* [OpenAI’s latest blunder shows the challenges facing Chinese AI models](data/articles/openai-s-latest-blunder.82755d3f/README.md) `technologyreview.com`
 * [Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?](data/articles/should-sri-lankan-tamils.e5c84fc0/README.md) `ft.lk`
 * [Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?](data/articles/should-sri-lankan-tamils.9c26120a/README.md) `ft.lk`
 * [Post-election AKD or no election RW?](data/articles/post-election-akd-or-no.008c9507/README.md) `ft.lk`

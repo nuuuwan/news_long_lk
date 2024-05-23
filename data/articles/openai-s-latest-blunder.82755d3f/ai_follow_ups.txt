@@ -1,0 +1,14 @@
+1. How does the GPT-4o Chinese token library impact its Chinese language training and proficiency, particularly with phrases related to pornography and gambling?
+2. How are other AI companies dealing with the same issues that OpenAI is facing in acquiring and curating high quality Chinese language training data?
+3. How does the inclusion of Chinese spam data impacts GPT-4o's ability to understand and respond in Chinese accurately?
+4. What measures is OpenAI taking to resolve the backlash following the GPT-4o release, especially relating to Scarlett Johansson’s accusations?
+5. How does the quality and thrust of the data used to train language models impact the models’ outcomes and overall performance?
+6. Why did the safety team at OpenAI resign, and what implications does this have for the development and safety of future AI models?
+7. Could the issues with Chinese language data collection be indicative of similar challenges with other languages as well?
+8. How could better multilingual support and localized data collection strategies improve the efficacy of AI models like GPT-4o?
+9. What impact does the domination of Chinese internet platforms by big corporations have on AI development and data availability?
+10. How can global AI companies overcome the challenges caused by internet censorship and data hoarding in China to help improve models like GPT-4o? 
+11. What are the potential solutions to the shortage of quality Chinese LLM training data?
+12. How does the lack of good Chinese LLM training data impact users who want to use AI services in Chinese? 
+13. How can we prevent inappropriate or biased content from getting into AI model’s token-training data?
+14. How have these recent incidents affected OpenAI’s reputation and credibility in the AI sector?
