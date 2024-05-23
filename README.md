@@ -2,12 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-23 06:27:34**
+Last Updated **2024-05-23 18:15:57**
 
 ## 2024-05-23
 
+* [Scaling a Midsize Startup](data/articles/scaling-a-midsize-startu.5fbb9ada/README.md) `hbr.org`
 * [Palestinian holocaust: The oppressed has become the oppressor](data/articles/palestinian-holocaust-th.626f8506/README.md) `ft.lk`
 * [Economic Transformation Bill, political transformation effects and Lanka’s legitimate war](data/articles/economic-transformation.10f318d5/README.md) `ft.lk`
+* [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.6b9d1e87/README.md) `ft.lk`
 * [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.0acd4f94/README.md) `ft.lk`
 * [Travelling on politics’ rough sea needs grooming](data/articles/travelling-on-politics-r.6c005723/README.md) `dailymirror.lk`
 * [Vesak:  AlpachCHathawaya and moment-to-moment living - EDITORIAL](data/articles/vesak-alpachchathawaya-a.2fe72d7a/README.md) `dailymirror.lk`
