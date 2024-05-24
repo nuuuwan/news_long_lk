@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-24 06:27:19**
+Last Updated **2024-05-24 18:16:18**
+
+## 2024-05-24
+
+* [How Marketers Can Adapt to LLM-Powered Search](data/articles/how-marketers-can-adapt.afeb49f4/README.md) `hbr.org`
+* [Global Outlook: the path ahead for the US economy](data/articles/global-outlook-the-path.ec63965f/README.md) `eiu.com`
+* [Sudath Mahadivulwewa’s “My Red Comrade”  is an excellent film, with fine direction, a masterful script, skilful use of sound and lighting and impeccable performance from the leads.It is a commendable and brave experimentation in filmmaking.](data/articles/sudath-mahadivulwewa-s-m.0586cdf5/README.md) `dbsjeyaraj.com`
 
 ## 2024-05-23
 
@@ -52,6 +58,7 @@ Last Updated **2024-05-24 06:27:19**
 * [Your Team Members Aren’t Participating in Meetings. Here’s What to Do.](data/articles/your-team-members-aren-t.3cd06f8f/README.md) `hbr.org`
 * [AI models can outperform humans in tests to identify mental states](data/articles/ai-models-can-outperform.edfc7765/README.md) `technologyreview.com`
 * [A device that zaps the spinal cord gave paralyzed people better control of their hands](data/articles/a-device-that-zaps-the-s.a156632c/README.md) `technologyreview.com`
+* [Iran’s president dies in helicopter crash](data/articles/iran-s-president-dies-in.7b534d37/README.md) `eiu.com`
 * [Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?](data/articles/can-ranil-wickremesinghe.9a0d30e1/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s political paradox: Prioritising privileges over public interest](data/articles/sri-lanka-s-political-pa.8b02106a/README.md) `ft.lk`
 * [Prema Cooray – a man for all seasons: An appreciation](data/articles/prema-cooray-a-man-for-a.2ea625c5/README.md) `ft.lk`

@@ -1,0 +1,10 @@
+1. How is the user experience different between using a large language model and a traditional search engine?
+2. What are some examples of natural language output from apps or search portals like Google's Search Generative Experience?
+3. How does the use of large language models create a challenge for marketers?
+4. What is the importance of monitoring the new information pipeline created by LLMs?
+5. How might the rise of large language models impact Google's dominance in the search ads market?
+6. Is there potential for LLMs to be integrated into other areas of business outside marketing, like customer service or recruitment?
+7. Could you please elaborate more on the three ways in which marketers can rise to the challenges posed by LLMs?
+8. What skills will marketers need to effectively use LLMs in their marketing efforts?
+9. How can LLMs ensure that the brands are described accurately?
+10. Could LLMs ever completely replace traditional search engines? If so, what might be some potential benefits and drawbacks?
