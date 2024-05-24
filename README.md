@@ -2,11 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-23 18:15:57**
+Last Updated **2024-05-24 06:27:19**
 
 ## 2024-05-23
 
+* [The Marga Dialogue: Nationalism and centre-left](data/articles/the-marga-dialogue-natio.87563d3f/README.md) `dailymirror.lk`
+* [ICC arrest warrants on Israeli leaders: US protests and threats outrageous](data/articles/icc-arrest-warrants-on-i.785be478/README.md) `dailymirror.lk`
+* [On a ‘divided’ road and heading for trouble - EDITORIAL](data/articles/on-a-divided-road-and-he.6cf8f53d/README.md) `dailymirror.lk`
+* [How Technology Can Help Drive DEI Success](data/articles/how-technology-can-help.079db41e/README.md) `hbr.org`
+* [All Business Strategies Fall into 4 Categories](data/articles/all-business-strategies.785de415/README.md) `hbr.org`
 * [Scaling a Midsize Startup](data/articles/scaling-a-midsize-startu.5fbb9ada/README.md) `hbr.org`
+* [Noise-canceling headphones use AI to let a single voice through](data/articles/noise-canceling-headphon.0dd67078/README.md) `technologyreview.com`
 * [Palestinian holocaust: The oppressed has become the oppressor](data/articles/palestinian-holocaust-th.626f8506/README.md) `ft.lk`
 * [Economic Transformation Bill, political transformation effects and Lanka’s legitimate war](data/articles/economic-transformation.10f318d5/README.md) `ft.lk`
 * [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.6b9d1e87/README.md) `ft.lk`

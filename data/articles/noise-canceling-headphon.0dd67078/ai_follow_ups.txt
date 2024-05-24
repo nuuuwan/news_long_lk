@@ -1,0 +1,12 @@
+1. How precisely does the Target Speech Hearing system recognize and separate chosen voices from the surrounding noise?
+2. Can the technology handle multiple languages or is it currently limited to English? 
+3. How might the AI compression technique called knowledge distillation impact the effectiveness and efficiency of the system?
+4. How successful has the system been in tests, particularly in noisier environments?
+5. While the technology is a proof of concept, is there a timeline for when it might become widely available? 
+6. Could Target Speech Hearing technology be misused, such as for eavesdropping or privacy invasion?
+7. Can the system handle voices that change, such as due to a cold or aging?
+8. Would this technology be beneficial for people with hearing impairments or other auditory disorders? Can it be calibrated according to individual needs? 
+9. How do "teacher" and "student" models work together to imitate behavior and performance?
+10. What are some potential applications, especially in the workplace or public spaces, for this technology? 
+11. How can the system be improved to enroll a targeted speaker even when their voice isn't the loudest in the environment? 
+12. Are there any concerns about the system draining battery life or requiring significant computing power, and how are these being addressed?
