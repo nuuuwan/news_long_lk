@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-25 06:25:23**
+Last Updated **2024-05-25 18:13:47**
 
 ## 2024-05-25
 
@@ -13,6 +13,7 @@ Last Updated **2024-05-25 06:25:23**
 
 ## 2024-05-24
 
+* [2024 ஜனாதிபதி தேர்தலில் தமிழ், முஸ்லிம் வாக்காளர்களின் ஆதரவை ரணிலால் மீண்டும் பெறமுடியுமா?](data/articles/2024-ஜன-த-பத-த-ர-தல-ல-தம.e3a3bf1d/README.md) `dbsjeyaraj.com`
 * [US election: its impact on Europe](data/articles/us-election-its-impact-o.c246707b/README.md) `eiu.com`
 * [3 Ways to Clearly Communicate Your Company’s Strategy](data/articles/3-ways-to-clearly-commun.ba0df0f8/README.md) `hbr.org`
 * [How Marketers Can Adapt to LLM-Powered Search](data/articles/how-marketers-can-adapt.afeb49f4/README.md) `hbr.org`
