@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-24 18:16:18**
+Last Updated **2024-05-25 06:25:23**
+
+## 2024-05-25
+
+* [Sajith-Anura Debate, that never happened](data/articles/sajith-anura-debate-that.64f5f919/README.md) `dailymirror.lk`
+* [God won’t change your destiny until you change yourself](data/articles/god-won-t-change-your-de.3463c633/README.md) `dailymirror.lk`
+* [Commemoration of war victims-celebrations and harassment](data/articles/commemoration-of-war-vic.e4479cd3/README.md) `dailymirror.lk`
+* [Tragedy and farce on a day of mourning](data/articles/tragedy-and-farce-on-a-d.34099509/README.md) `dailymirror.lk`
 
 ## 2024-05-24
 
+* [US election: its impact on Europe](data/articles/us-election-its-impact-o.c246707b/README.md) `eiu.com`
+* [3 Ways to Clearly Communicate Your Company’s Strategy](data/articles/3-ways-to-clearly-commun.ba0df0f8/README.md) `hbr.org`
 * [How Marketers Can Adapt to LLM-Powered Search](data/articles/how-marketers-can-adapt.afeb49f4/README.md) `hbr.org`
 * [Global Outlook: the path ahead for the US economy](data/articles/global-outlook-the-path.ec63965f/README.md) `eiu.com`
 * [Sudath Mahadivulwewa’s “My Red Comrade”  is an excellent film, with fine direction, a masterful script, skilful use of sound and lighting and impeccable performance from the leads.It is a commendable and brave experimentation in filmmaking.](data/articles/sudath-mahadivulwewa-s-m.0586cdf5/README.md) `dbsjeyaraj.com`
