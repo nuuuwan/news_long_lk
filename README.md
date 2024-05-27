@@ -2,7 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-26 18:14:11**
+Last Updated **2024-05-27 06:26:20**
+
+## 2024-05-27
+
+* [Hydra-headed network of new institutions in Economic Transformation Bill](data/articles/hydra-headed-network-of.1b887638/README.md) `ft.lk`
+* [Gen Z and Y will decide new President](data/articles/gen-z-and-y-will-decide.1d154a4c/README.md) `ft.lk`
+* [“Operation Sajaba”; Blueprint for Re-unification of the Green Party](data/articles/operation-sajaba-bluepr.61e93a4d/README.md) `dailymirror.lk`
+* [Why Sri Lanka needs to ditch post-dated cheques](data/articles/why-sri-lanka-needs-to-d.53a99fee/README.md) `ft.lk`
+* [China and Russia together: A new world order?](data/articles/china-and-russia-togethe.b97fb360/README.md) `dailymirror.lk`
+* [Presidential pardons -for whose benefit? - EDITORIAL](data/articles/presidential-pardons-for.f10a5777/README.md) `dailymirror.lk`
+
+## 2024-05-26
+
+* [Resilience and revival amidst revered rituals: A post-Vesak pondering](data/articles/resilience-and-revival-a.34c4efd7/README.md) `ft.lk`
+* [Gamini Karunathilake offers practical handbook on credit evaluation](data/articles/gamini-karunathilake-off.2692981d/README.md) `ft.lk`
 
 ## 2024-05-25
 
