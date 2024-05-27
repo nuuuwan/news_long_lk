@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-27 06:26:20**
+Last Updated **2024-05-27 18:16:22**
 
 ## 2024-05-27
 
+* [AI Is Making Economists Rethink the Story of Automation](data/articles/ai-is-making-economists.6c0eb173/README.md) `hbr.org`
 * [Hydra-headed network of new institutions in Economic Transformation Bill](data/articles/hydra-headed-network-of.1b887638/README.md) `ft.lk`
 * [Gen Z and Y will decide new President](data/articles/gen-z-and-y-will-decide.1d154a4c/README.md) `ft.lk`
 * [“Operation Sajaba”; Blueprint for Re-unification of the Green Party](data/articles/operation-sajaba-bluepr.61e93a4d/README.md) `dailymirror.lk`
@@ -17,6 +18,9 @@ Last Updated **2024-05-27 06:26:20**
 
 * [Resilience and revival amidst revered rituals: A post-Vesak pondering](data/articles/resilience-and-revival-a.34c4efd7/README.md) `ft.lk`
 * [Gamini Karunathilake offers practical handbook on credit evaluation](data/articles/gamini-karunathilake-off.2692981d/README.md) `ft.lk`
+* [Gnanasara Thera was able to say and do anything without fear of the law during the Rajapaksa regime. During the reign of the Rajapaksas, Gnanasara Thera criticised   Ranil Wickremesinghe in words that are Unmentionable.The Thera was so useful to the Rajapaksas that he was appointed  head of a  Presidential Task Force.](data/articles/gnanasara-thera-was-able.884f1312/README.md) `dbsjeyaraj.com`
+* [Be it the ethnic conflict or the attempts to overthrow the government, innocents paid with their lives. Under the guise of national security, many who had no involvement in either of the conflicts were also killed.](data/articles/be-it-the-ethnic-conflic.c4a799ec/README.md) `dbsjeyaraj.com`
+* [The dubious record of our police is primarily for arresting Tamil women cooking  porridge or dragging away a Sinhalese  comedian or a  Muslim) poet on the basis of advocating national, racial or religious hatred](data/articles/the-dubious-record-of-ou.cae026d5/README.md) `dbsjeyaraj.com`
 
 ## 2024-05-25
 
