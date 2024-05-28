@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-27 18:16:22**
+Last Updated **2024-05-28 06:25:58**
+
+## 2024-05-28
+
+* [Debt and taxes: Can we hide our heads in the sand?](data/articles/debt-and-taxes-can-we-hi.90537672/README.md) `ft.lk`
+* [Economic stability with SOE reforms need system change](data/articles/economic-stability-with.ae7d6f48/README.md) `ft.lk`
+* [Israel reportedly agrees to  resume talks](data/articles/israel-reportedly-agrees.6068cf6f/README.md) `dailymirror.lk`
+* [Leaders of North and South should think afresh - EDITORIAL](data/articles/leaders-of-north-and-sou.9e6de510/README.md) `dailymirror.lk`
 
 ## 2024-05-27
 
+* [Who guards the guardians?](data/articles/who-guards-the-guardians.7360c8c3/README.md) `ft.lk`
+* [Does Your Boss Practice Toxic Positivity?](data/articles/does-your-boss-practice.19952f19/README.md) `hbr.org`
 * [AI Is Making Economists Rethink the Story of Automation](data/articles/ai-is-making-economists.6c0eb173/README.md) `hbr.org`
 * [Hydra-headed network of new institutions in Economic Transformation Bill](data/articles/hydra-headed-network-of.1b887638/README.md) `ft.lk`
 * [Gen Z and Y will decide new President](data/articles/gen-z-and-y-will-decide.1d154a4c/README.md) `ft.lk`
