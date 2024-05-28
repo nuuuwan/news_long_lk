@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-28 06:25:58**
+Last Updated **2024-05-28 18:16:18**
 
 ## 2024-05-28
 
@@ -13,6 +13,7 @@ Last Updated **2024-05-28 06:25:58**
 
 ## 2024-05-27
 
+* [Who guards the guardians?](data/articles/who-guards-the-guardians.6902fd32/README.md) `ft.lk`
 * [Who guards the guardians?](data/articles/who-guards-the-guardians.7360c8c3/README.md) `ft.lk`
 * [Does Your Boss Practice Toxic Positivity?](data/articles/does-your-boss-practice.19952f19/README.md) `hbr.org`
 * [AI Is Making Economists Rethink the Story of Automation](data/articles/ai-is-making-economists.6c0eb173/README.md) `hbr.org`
@@ -53,6 +54,7 @@ Last Updated **2024-05-28 06:25:58**
 * [The Marga Dialogue: Nationalism and centre-left](data/articles/the-marga-dialogue-natio.87563d3f/README.md) `dailymirror.lk`
 * [ICC arrest warrants on Israeli leaders: US protests and threats outrageous](data/articles/icc-arrest-warrants-on-i.785be478/README.md) `dailymirror.lk`
 * [On a ‘divided’ road and heading for trouble - EDITORIAL](data/articles/on-a-divided-road-and-he.6cf8f53d/README.md) `dailymirror.lk`
+* [That viral video showing a head transplant is a fake. But it might be real someday.](data/articles/that-viral-video-showing.ff378e5c/README.md) `technologyreview.com`
 * [How Technology Can Help Drive DEI Success](data/articles/how-technology-can-help.079db41e/README.md) `hbr.org`
 * [All Business Strategies Fall into 4 Categories](data/articles/all-business-strategies.785de415/README.md) `hbr.org`
 * [Scaling a Midsize Startup](data/articles/scaling-a-midsize-startu.5fbb9ada/README.md) `hbr.org`
