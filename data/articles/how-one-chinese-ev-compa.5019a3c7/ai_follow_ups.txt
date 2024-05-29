@@ -1,0 +1,8 @@
+1. What are the technical difficulties involved in battery swapping that led to past failures by Tesla and Better Place?
+2. How does the battery swapping model implemented by Nio in China work in practice?
+3. Are there any cost-related challenges in setting up nationwide swapping stations, and if so, how have Chinese companies like Nio circumvented these issues?
+4. Considering the case of the Tesla Model 3, how realistic is it for drivers to rely solely on existing Supercharger stations for long trips?
+5. Can the battery swapping model be replicated easily in other countries, or are there specific conditions in China that make it uniquely successful there?
+6. What are some potential lessons Western companies can learn from the Chinese model of battery swapping?
+7. Are there any downside to a battery swapping system that consumers should be aware of?
+8. Would adapting a battery swapping system influence the design and manufacturing of future EV models?

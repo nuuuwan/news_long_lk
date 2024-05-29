@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-28 18:16:18**
+Last Updated **2024-05-29 06:26:20**
+
+## 2024-05-29
+
+* [Is the Swiss auction legally valid?](data/articles/is-the-swiss-auction-leg.cce2266c/README.md) `ft.lk`
+* [Tea and lack of empathy](data/articles/tea-and-lack-of-empathy.b4b9148b/README.md) `dailymirror.lk`
+* [From three-wheeler drivers to beach boys: Sri Lanka’s workforce transformation](data/articles/from-three-wheeler-drive.97170999/README.md) `dailymirror.lk`
+* [Corporate head office – creator or destroyer of value in a conglomerate](data/articles/corporate-head-office-cr.5aaf986c/README.md) `ft.lk`
 
 ## 2024-05-28
 
+* [The six face(t)s of CWC Chief Arumugan “Thamby” Thondaman](data/articles/the-six-face-t-s-of-cwc.d214293c/README.md) `ft.lk`
+* [5 Myths Expats Believe About Local Employees](data/articles/5-myths-expats-believe-a.8bbbc955/README.md) `hbr.org`
+* [How One Chinese EV Company Made Battery Swapping Work](data/articles/how-one-chinese-ev-compa.5019a3c7/README.md) `hbr.org`
 * [Debt and taxes: Can we hide our heads in the sand?](data/articles/debt-and-taxes-can-we-hi.90537672/README.md) `ft.lk`
 * [Economic stability with SOE reforms need system change](data/articles/economic-stability-with.ae7d6f48/README.md) `ft.lk`
 * [Israel reportedly agrees to  resume talks](data/articles/israel-reportedly-agrees.6068cf6f/README.md) `dailymirror.lk`
