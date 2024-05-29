@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-29 06:26:20**
+Last Updated **2024-05-29 18:17:20**
 
 ## 2024-05-29
 
+* [M&A Should Be Transformational — Not Transactional](data/articles/m-a-should-be-transforma.595b31bf/README.md) `hbr.org`
+* [What to Know About Starting Your Career Remotely](data/articles/what-to-know-about-start.f2e7c137/README.md) `hbr.org`
+* [♬ P. Leela, ‘Forgotten’ Singer Who Sang Unforgettable  Songs In Tamil Cinema ♥](data/articles/p-leela-forgotten-singe.17fe99a7/README.md) `dbsjeyaraj.com`
 * [Is the Swiss auction legally valid?](data/articles/is-the-swiss-auction-leg.cce2266c/README.md) `ft.lk`
+* [Is the Swiss auction legally valid?](data/articles/is-the-swiss-auction-leg.3a3b9943/README.md) `ft.lk`
 * [Tea and lack of empathy](data/articles/tea-and-lack-of-empathy.b4b9148b/README.md) `dailymirror.lk`
 * [From three-wheeler drivers to beach boys: Sri Lanka’s workforce transformation](data/articles/from-three-wheeler-drive.97170999/README.md) `dailymirror.lk`
 * [Corporate head office – creator or destroyer of value in a conglomerate](data/articles/corporate-head-office-cr.5aaf986c/README.md) `ft.lk`
@@ -27,6 +31,7 @@ Last Updated **2024-05-29 06:26:20**
 * [Who guards the guardians?](data/articles/who-guards-the-guardians.7360c8c3/README.md) `ft.lk`
 * [Does Your Boss Practice Toxic Positivity?](data/articles/does-your-boss-practice.19952f19/README.md) `hbr.org`
 * [AI Is Making Economists Rethink the Story of Automation](data/articles/ai-is-making-economists.6c0eb173/README.md) `hbr.org`
+* [How the quest to type Chinese on a QWERTY keyboard created autocomplete](data/articles/how-the-quest-to-type-ch.d8da32fe/README.md) `technologyreview.com`
 * [Hydra-headed network of new institutions in Economic Transformation Bill](data/articles/hydra-headed-network-of.1b887638/README.md) `ft.lk`
 * [Gen Z and Y will decide new President](data/articles/gen-z-and-y-will-decide.1d154a4c/README.md) `ft.lk`
 * [“Operation Sajaba”; Blueprint for Re-unification of the Green Party](data/articles/operation-sajaba-bluepr.61e93a4d/README.md) `dailymirror.lk`

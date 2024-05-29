@@ -1,0 +1,15 @@
+1. How does the process of Chinese character input on a digital device differ from that of English character input?
+2. What are the specifics of how the Chinese input method editors (IMEs) work?
+3. What role does phonetics play in the functioning of Chinese IMEs?
+4. What was the purpose of the Chinese Characters Typing Competition and what did it entail?
+5. Why do Sinophone computer users have to operate entirely in code?
+6. Who is Huang Zhenyu and what particular achievement did he make in relation to typing Chinese characters?
+7. How does the speed of typing Chinese characters compare to English and why?
+8. What is the historical context of typing speed for Chinese characters, and how has it evolved over time? 
+9. What insights were gained from the first Chinese computer ever designed, the Sinotype? 
+10. How does Caldwell's discovery of "minimum spelling" work and why is it important?
+11. What role does "autocompletion" play in Chinese computing and how does it compare to its use in English-language computing? 
+12. Is there a significant difference in typing speeds between native Chinese speakers and those who learned it as a second language? 
+13. What are the security concerns, if any, related to Chinese keyboard apps? 
+14. Are there other global typing speed records that rival the ones mentioned in the article? 
+15. How does the complexity of Chinese characters impact the typing speed compared to the English alphabet?
