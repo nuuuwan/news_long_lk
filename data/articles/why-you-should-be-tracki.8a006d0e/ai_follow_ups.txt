@@ -1,0 +1,15 @@
+1. What is the relevance of Net Promoter Score (NPS) in predicting a company's growth?
+2. How does Customer Surplus Value (CSV) complement the Net Promoter Score (NPS)? 
+3. How is the concept of "willingness to accept" (WTA) different from willingness to pay and consumer surplus?
+4. How does CSV reveal the value created by a company for its customers?
+5. Can you explain the binary choice experiments used to measure CSV?
+6. Why might a company like Amazon show high NPS scores but lower CSV values?
+7. Could you expand on how Microsoft's CSV and NPS values change depending on the context (consumers vs. employees)?
+8. How did LinkedIn apply the CSV method within its business model?
+9. Can the CSV help in setting the prices for a product or service?
+10. How can combining NPS and CSV provide a more nuanced understanding of customer value?
+11. How did AT&T achieve a high CSV value despite a negative NPS?
+12. Apart from CSV and NPS, are there other metrics that businesses can use to understand customer value?
+13. Why is it risky to base price-setting on CSV results? 
+14. How would companies determine the optimal length for a period of abstinence from a product or service during CSV testing? 
+15. What are some of the constraints of implementing the CSV methodology?

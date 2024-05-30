@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-29 18:17:20**
+Last Updated **2024-05-30 06:27:39**
+
+## 2024-05-30
+
+* [Vietnam example: Communist factor in JVP-NPP mix could prove constructive](data/articles/vietnam-example-communis.d9f1ff69/README.md) `ft.lk`
+* [Yukthiya anti-drug operation: Separating fact from fiction](data/articles/yukthiya-anti-drug-opera.7ef8c464/README.md) `ft.lk`
+* [How transparency and competitive bidding could have averted VFS visa fiasco](data/articles/how-transparency-and-com.1ff9ce94/README.md) `ft.lk`
+* [SAARC and beyond: Sri Lanka’s quest for regional tourism integration](data/articles/saarc-and-beyond-sri-lan.6227ab32/README.md) `ft.lk`
+* [Why are boys falling behind in education and what can we do about it?](data/articles/why-are-boys-falling-beh.4de96379/README.md) `dailymirror.lk`
+* [Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS](data/articles/unlocking-economic-growt.1b773504/README.md) `dailymirror.lk`
+* [The generation that can make peace with the land](data/articles/the-generation-that-can.6b78e1ae/README.md) `dailymirror.lk`
+* [World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry](data/articles/world-no-tobacco-day-cal.875bf238/README.md) `dailymirror.lk`
 
 ## 2024-05-29
 
+* [Personalize Your Customer’s Shopping Experience with AI](data/articles/personalize-your-custome.4488871d/README.md) `hbr.org`
+* [Why You Should Be Tracking Customer Surplus Value](data/articles/why-you-should-be-tracki.8a006d0e/README.md) `hbr.org`
 * [M&A Should Be Transformational — Not Transactional](data/articles/m-a-should-be-transforma.595b31bf/README.md) `hbr.org`
 * [What to Know About Starting Your Career Remotely](data/articles/what-to-know-about-start.f2e7c137/README.md) `hbr.org`
 * [♬ P. Leela, ‘Forgotten’ Singer Who Sang Unforgettable  Songs In Tamil Cinema ♥](data/articles/p-leela-forgotten-singe.17fe99a7/README.md) `dbsjeyaraj.com`
