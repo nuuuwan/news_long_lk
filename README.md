@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-30 06:27:39**
+Last Updated **2024-05-30 18:16:15**
 
 ## 2024-05-30
 
+* [3 Challenges to Hybrid Work — and How to Overcome Them](data/articles/3-challenges-to-hybrid-w.adb89580/README.md) `hbr.org`
 * [Vietnam example: Communist factor in JVP-NPP mix could prove constructive](data/articles/vietnam-example-communis.d9f1ff69/README.md) `ft.lk`
 * [Yukthiya anti-drug operation: Separating fact from fiction](data/articles/yukthiya-anti-drug-opera.7ef8c464/README.md) `ft.lk`
 * [How transparency and competitive bidding could have averted VFS visa fiasco](data/articles/how-transparency-and-com.1ff9ce94/README.md) `ft.lk`
@@ -17,6 +18,7 @@ Last Updated **2024-05-30 06:27:39**
 
 ## 2024-05-29
 
+* [“Operation Sajaba” Intends to Deplete  SJB  Through  Large Scale Crossover of MPs to  Ranil  Wickremesingh’s Side..](data/articles/operation-sajaba-intend.978dba65/README.md) `dbsjeyaraj.com`
 * [Personalize Your Customer’s Shopping Experience with AI](data/articles/personalize-your-custome.4488871d/README.md) `hbr.org`
 * [Why You Should Be Tracking Customer Surplus Value](data/articles/why-you-should-be-tracki.8a006d0e/README.md) `hbr.org`
 * [M&A Should Be Transformational — Not Transactional](data/articles/m-a-should-be-transforma.595b31bf/README.md) `hbr.org`
