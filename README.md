@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-31 06:27:40**
+Last Updated **2024-05-31 18:17:04**
 
 ## 2024-05-31
 
+* [When Expanding into a Foreign Market, Your Outsider Status Is a Competitive Advantage](data/articles/when-expanding-into-a-fo.6aeb3442/README.md) `hbr.org`
+* [What’s next for bird flu vaccines](data/articles/what-s-next-for-bird-flu.87fcb797/README.md) `technologyreview.com`
 * [Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka](data/articles/dr-shafi-recounts-ordeal.cdd1784a/README.md) `ft.lk`
 * [Vesak at the United Nations: Still not a UN holiday?](data/articles/vesak-at-the-united-nati.4a574573/README.md) `ft.lk`
 * [Governance all the way down](data/articles/governance-all-the-way-d.abb81097/README.md) `ft.lk`
@@ -13,6 +15,7 @@ Last Updated **2024-05-31 06:27:40**
 * [Quo Vadis (Where are you going) Sri Lanka?](data/articles/quo-vadis-where-are-you.3433eb2e/README.md) `ft.lk`
 * [The US,  Zionism and moral depravity](data/articles/the-us-zionism-and-moral.3dc3147b/README.md) `dailymirror.lk`
 * [Lies used in the name of transforming a nation](data/articles/lies-used-in-the-name-of.e1276bde/README.md) `dailymirror.lk`
+* [Matara hospital rocks parents’ world misplacing stillborn](data/articles/matara-hospital-rocks-pa.353764b5/README.md) `dailymirror.lk`
 
 ## 2024-05-30
 
