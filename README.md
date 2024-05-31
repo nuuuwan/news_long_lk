@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-30 18:16:15**
+Last Updated **2024-05-31 06:27:40**
+
+## 2024-05-31
+
+* [Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka](data/articles/dr-shafi-recounts-ordeal.cdd1784a/README.md) `ft.lk`
+* [Vesak at the United Nations: Still not a UN holiday?](data/articles/vesak-at-the-united-nati.4a574573/README.md) `ft.lk`
+* [Governance all the way down](data/articles/governance-all-the-way-d.abb81097/README.md) `ft.lk`
+* [“VFS” the whole lot](data/articles/vfs-the-whole-lot.12de59b4/README.md) `ft.lk`
+* [Quo Vadis (Where are you going) Sri Lanka?](data/articles/quo-vadis-where-are-you.3433eb2e/README.md) `ft.lk`
+* [The US,  Zionism and moral depravity](data/articles/the-us-zionism-and-moral.3dc3147b/README.md) `dailymirror.lk`
+* [Lies used in the name of transforming a nation](data/articles/lies-used-in-the-name-of.e1276bde/README.md) `dailymirror.lk`
 
 ## 2024-05-30
 
+* [AI Will Increase the Quantity — and Quality — of Phishing Scams](data/articles/ai-will-increase-the-qua.7ea10cec/README.md) `hbr.org`
+* [The Pregnant Workers Fairness Act: What U.S. Employers Need to Know](data/articles/the-pregnant-workers-fai.00409f72/README.md) `hbr.org`
 * [3 Challenges to Hybrid Work — and How to Overcome Them](data/articles/3-challenges-to-hybrid-w.adb89580/README.md) `hbr.org`
 * [Vietnam example: Communist factor in JVP-NPP mix could prove constructive](data/articles/vietnam-example-communis.d9f1ff69/README.md) `ft.lk`
 * [Yukthiya anti-drug operation: Separating fact from fiction](data/articles/yukthiya-anti-drug-opera.7ef8c464/README.md) `ft.lk`

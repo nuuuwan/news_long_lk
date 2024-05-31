@@ -1,0 +1,10 @@
+1. Can you elaborate on how Large Language Models (LLMs) can be used to automate different phases of phishing process?
+2. How does an AI tool like GPT-4 compare to human experts in terms of creating phishing emails, both in terms of cost and effectiveness? 
+3. What are some ways to defend against AI-enhanced spear phishing attacks? 
+4. As AI models improve in quality, is there a risk that they could surpass human capabilities in creating convincing phishing emails? 
+5. What strategies can businesses implement to enhance their defenses against AI-enhanced phishing attacks?
+6. How does the threat severity of AI-enabled phishing vary across different industries and organizations? 
+7. Can AI also be used to detect phishing emails? How reliable are the current AI models in accurately distinguishing between phishing emails and legitimate ones? 
+8. With AI, we expect a surge in hyper-personalized spear-phishing emails. How are we currently equipped to handle this problem? 
+9. Why are human vulnerabilities a major concern in AI-enabled cyberattacks?
+10. How can companies accurately assess their business’s risk level to AI-enabled phishing attacks?
