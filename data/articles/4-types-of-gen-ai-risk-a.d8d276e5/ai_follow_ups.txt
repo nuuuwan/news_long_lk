@@ -1,0 +1,10 @@
+1. How prevalent is the misuse and misapplication of generative AI in organizations today?
+2. What are some effective ways organizations have developed to detect, identify, and prevent the spread of misleading content created by gen AI?
+3. How can organizations mitigate potential bias and discrimination in the outputs of gen AI?
+4. What are some examples of deliberate malpractices with gen AI?
+5. How are organizations integrating generative AI into their operations based on the poll conducted by Gartner?
+6. Which regions have the highest and lowest global AI adoption rates?
+7. Can you elaborate on the concerns about privacy and security threats in the context of generative AI?
+8. How does copyright infringement occur in the context of gen AI and what are the possible ways to prevent it?
+9. How do the applications of generative AI differ in different industries?
+10. What impact can the widespread adoption of gen AI have on job roles and functions within organizations?

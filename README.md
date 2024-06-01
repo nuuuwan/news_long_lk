@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-05-31 18:17:04**
+Last Updated **2024-06-01 06:26:56**
+
+## 2024-06-01
+
+* [Red herrings, referendums, poverty and postponing elections](data/articles/red-herrings-referendums.fc270172/README.md) `dailymirror.lk`
+* [Range Bandara’s   “Loud Thinking” and Ranil’s election campaign](data/articles/range-bandara-s-loud-thi.ae3b64a7/README.md) `dailymirror.lk`
+* [Referendum to extend President’s term: Is it ploy to avoid election defeat?](data/articles/referendum-to-extend-pre.fe67946d/README.md) `dailymirror.lk`
 
 ## 2024-05-31
 
+* [4 Types of Gen AI Risk and How to Mitigate Them](data/articles/4-types-of-gen-ai-risk-a.d8d276e5/README.md) `hbr.org`
+* [The Strategic Advantage Omnichannel Retailers Have Over Amazon](data/articles/the-strategic-advantage.3a4dd058/README.md) `hbr.org`
 * [When Expanding into a Foreign Market, Your Outsider Status Is a Competitive Advantage](data/articles/when-expanding-into-a-fo.6aeb3442/README.md) `hbr.org`
 * [What’s next for bird flu vaccines](data/articles/what-s-next-for-bird-flu.87fcb797/README.md) `technologyreview.com`
 * [Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka](data/articles/dr-shafi-recounts-ordeal.cdd1784a/README.md) `ft.lk`
