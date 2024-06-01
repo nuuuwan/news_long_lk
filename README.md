@@ -2,16 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-01 06:26:56**
+Last Updated **2024-06-01 18:16:00**
 
 ## 2024-06-01
 
+* [The Six Face(t)s of  CWC Chief Arumugan “Thamby” Thondaman](data/articles/the-six-face-t-s-of-cwc.70b0ac47/README.md) `dbsjeyaraj.com`
+* [Climate change and human health](data/articles/climate-change-and-human.0d0576dc/README.md) `ft.lk`
+* [700,000 houses for low income households and financing plan](data/articles/700-000-houses-for-low-i.bdde1ac9/README.md) `ft.lk`
 * [Red herrings, referendums, poverty and postponing elections](data/articles/red-herrings-referendums.fc270172/README.md) `dailymirror.lk`
 * [Range Bandara’s   “Loud Thinking” and Ranil’s election campaign](data/articles/range-bandara-s-loud-thi.ae3b64a7/README.md) `dailymirror.lk`
 * [Referendum to extend President’s term: Is it ploy to avoid election defeat?](data/articles/referendum-to-extend-pre.fe67946d/README.md) `dailymirror.lk`
 
 ## 2024-05-31
 
+* [Trudeau’s “genocide”, JVP’s “separatist war” and Netanyahu’s Israel](data/articles/trudeau-s-genocide-jvp-s.6e856106/README.md) `ft.lk`
+* [Four Sri Lankans arrested in India for smuggling; here Rohan Gunaratne accuses Muslims of radicalisation](data/articles/four-sri-lankans-arreste.f7c5f82f/README.md) `ft.lk`
 * [4 Types of Gen AI Risk and How to Mitigate Them](data/articles/4-types-of-gen-ai-risk-a.d8d276e5/README.md) `hbr.org`
 * [The Strategic Advantage Omnichannel Retailers Have Over Amazon](data/articles/the-strategic-advantage.3a4dd058/README.md) `hbr.org`
 * [When Expanding into a Foreign Market, Your Outsider Status Is a Competitive Advantage](data/articles/when-expanding-into-a-fo.6aeb3442/README.md) `hbr.org`
