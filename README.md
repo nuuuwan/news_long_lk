@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-02 06:24:18**
+Last Updated **2024-06-02 18:13:35**
 
 ## 2024-06-01
 
+* [ரங்க பண்டாரவின் உரத்த சிந்தனையும் ரணிலின் தேர்தல் பிரசாரமும்](data/articles/ரங-க-பண-ட-ரவ-ன-உரத-த-ச-ந.398c2a5a/README.md) `dbsjeyaraj.com`
 * [The Six Face(t)s of  CWC Chief Arumugan “Thamby” Thondaman](data/articles/the-six-face-t-s-of-cwc.70b0ac47/README.md) `dbsjeyaraj.com`
 * [Climate change and human health](data/articles/climate-change-and-human.0d0576dc/README.md) `ft.lk`
 * [700,000 houses for low income households and financing plan](data/articles/700-000-houses-for-low-i.bdde1ac9/README.md) `ft.lk`
