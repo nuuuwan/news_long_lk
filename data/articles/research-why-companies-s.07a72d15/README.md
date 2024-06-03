@@ -1,0 +1,38 @@
+# Research: Why Companies Should Disclose Their Lack of Progress on DEI
+
+## Summary 🤖
+
+
+
+## Follow-up Questions 🤖
+
+
+
+## Full Text
+
+[https://hbr.org/2024/06/research-why-companies-should-disclose-their-lack-of-progress-on-dei](https://hbr.org/2024/06/research-why-companies-should-disclose-their-lack-of-progress-on-dei)
+
+*12:05 PM, Monday, June 03, 2024*
+
+photo by dasar/Getty Images
+
+Many companies have set goals to increase employee diversity, and many companies have fallen short of meeting their goals. Most leaders would likely prefer to keep this lack of progress quiet, but research shows that there may be benefits to being transparent about it. Specifically, this type of disclosure can signal that you take diversity seriously and are genuinely committed to the goals you’ve set for your organization. That said, taking too long to make progress can dampen any goodwill you might receive from disclosure.
+
+In the aftermath of George Floyd’s murder and the national reckoning around racial injustice in 2020, many companies redoubled their commitment to increase the diversity of their workforce. New practices and policies were introduced to help reach diversity goals set by leadership, and for quite a few, this commitment was broadcast widely: centered in a CEO speech, a press release, a company town hall, on social media, or in internal messages to employees.
+
+Diversity, Inclusion, and Belonging Course
+
+Accelerate your career with Harvard ManageMentor®. HBR Learning’s online leadership training helps you hone your skills with courses like Diversity, Inclusion, and Belonging. Earn badges to share on LinkedIn and your resume. Access more than 40 courses trusted by Fortune 500 companies.
+
+How to build a better, more just workplace.
+
+Learn More & See All Courses
+
+Read more on Diversity and inclusion
+
+Corporate communications,
+
+Human resource management,
+
+and Marginalized groups
+

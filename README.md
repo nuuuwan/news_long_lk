@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-03 06:28:36**
+Last Updated **2024-06-03 18:19:22**
 
 ## 2024-06-03
 
+* [Research: Why Companies Should Disclose Their Lack of Progress on DEI](data/articles/research-why-companies-s.07a72d15/README.md) `hbr.org`
 * [Donald Trump’s conviction and what’s next](data/articles/donald-trump-s-convictio.7aa2aece/README.md) `ft.lk`
 * [Can any candidate achieve 50%+1 at presidential polls - EDITORIAL](data/articles/can-any-candidate-achiev.7d4c3352/README.md) `dailymirror.lk`
 * [McDonald’s secret: Shares rise while food sales decline](data/articles/mcdonald-s-secret-shares.42f08cae/README.md) `dailymirror.lk`
@@ -34,6 +35,7 @@ Last Updated **2024-06-03 06:28:36**
 * [4 Types of Gen AI Risk and How to Mitigate Them](data/articles/4-types-of-gen-ai-risk-a.d8d276e5/README.md) `hbr.org`
 * [The Strategic Advantage Omnichannel Retailers Have Over Amazon](data/articles/the-strategic-advantage.3a4dd058/README.md) `hbr.org`
 * [When Expanding into a Foreign Market, Your Outsider Status Is a Competitive Advantage](data/articles/when-expanding-into-a-fo.6aeb3442/README.md) `hbr.org`
+* [Why Google’s AI Overviews gets things wrong](data/articles/why-google-s-ai-overview.4ec7f8e3/README.md) `technologyreview.com`
 * [What’s next for bird flu vaccines](data/articles/what-s-next-for-bird-flu.87fcb797/README.md) `technologyreview.com`
 * [Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka](data/articles/dr-shafi-recounts-ordeal.cdd1784a/README.md) `ft.lk`
 * [Vesak at the United Nations: Still not a UN holiday?](data/articles/vesak-at-the-united-nati.4a574573/README.md) `ft.lk`
