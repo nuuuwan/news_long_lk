@@ -2,7 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-02 18:13:35**
+Last Updated **2024-06-03 06:28:36**
+
+## 2024-06-03
+
+* [Donald Trump’s conviction and what’s next](data/articles/donald-trump-s-convictio.7aa2aece/README.md) `ft.lk`
+* [Can any candidate achieve 50%+1 at presidential polls - EDITORIAL](data/articles/can-any-candidate-achiev.7d4c3352/README.md) `dailymirror.lk`
+* [McDonald’s secret: Shares rise while food sales decline](data/articles/mcdonald-s-secret-shares.42f08cae/README.md) `dailymirror.lk`
+* [When IMF targets become  Sri Lankan law](data/articles/when-imf-targets-become.5b57185e/README.md) `dailymirror.lk`
+* [Right of Reply: Rividhanavi (Private) Ltd responds to CEB’s solar project article](data/articles/right-of-reply-rividhana.dfdf8e13/README.md) `dailymirror.lk`
+
+## 2024-06-02
+
+* [Plan for transforming the economy: Lacking democratic policy governance, will it be another failure?](data/articles/plan-for-transforming-th.01045dbb/README.md) `ft.lk`
+* [Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.](data/articles/range-bandara-s-loud-thi.ed1fa1e0/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-01
 
