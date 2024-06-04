@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-03 18:19:22**
+Last Updated **2024-06-04 06:25:47**
+
+## 2024-06-04
+
+* [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.7861315e/README.md) `ft.lk`
+* [Trade unions must realise their limits - EDITORIAL](data/articles/trade-unions-must-realis.efaf0650/README.md) `dailymirror.lk`
+* [O/L Exam mess puts Department of Examinations in soup!](data/articles/o-l-exam-mess-puts-depar.5ea83604/README.md) `dailymirror.lk`
+* [“We need to dream new dreams”](data/articles/we-need-to-dream-new-dr.cc906dec/README.md) `dailymirror.lk`
 
 ## 2024-06-03
 
+* [Suspension of parate action: An overview](data/articles/suspension-of-parate-act.ab2a5dc0/README.md) `ft.lk`
+* [Inflation on what horizon?](data/articles/inflation-on-what-horizo.84f23bbc/README.md) `ft.lk`
+* [Postponing elections: Are there limits to popular sovereignty?](data/articles/postponing-elections-are.8019599d/README.md) `ft.lk`
+* [Sajith Premadasa’s leadership qualities: A critique](data/articles/sajith-premadasa-s-leade.36527e64/README.md) `ft.lk`
+* [Stop Overlooking the Leadership Potential of Asian Employees](data/articles/stop-overlooking-the-lea.99a79582/README.md) `hbr.org`
+* [5 Signs Your One-on-Ones Aren’t Working](data/articles/5-signs-your-one-on-ones.76118bb6/README.md) `hbr.org`
 * [Research: Why Companies Should Disclose Their Lack of Progress on DEI](data/articles/research-why-companies-s.07a72d15/README.md) `hbr.org`
 * [Donald Trump’s conviction and what’s next](data/articles/donald-trump-s-convictio.7aa2aece/README.md) `ft.lk`
 * [Can any candidate achieve 50%+1 at presidential polls - EDITORIAL](data/articles/can-any-candidate-achiev.7d4c3352/README.md) `dailymirror.lk`
