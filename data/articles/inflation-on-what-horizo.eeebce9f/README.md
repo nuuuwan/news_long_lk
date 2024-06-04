@@ -1,0 +1,56 @@
+# Inflation on what horizon?
+
+## Summary 🤖
+
+
+
+## Follow-up Questions 🤖
+
+
+
+## Full Text
+
+[https://www.ft.lk/columns/Inflation-on-what-horizon/4-762544](https://www.ft.lk/columns/Inflation-on-what-horizon/4-762544)
+
+*09:06 PM, Monday, June 03, 2024*
+
+The Central Bank should be urged to unwind its large Treasury bill holdings, depreciate the currency aggressively, and cut the statutory reserve ratio to encourage risk-taking by banks
+
+By The Prince of Kandy
+
+Many of us were puzzled by the recent monetary policy announcement where the monetary board chose not to lower interest rates, despite inflation being below 5%. When a journalist questioned the Governor about this, asking if they expected inflation to exceed 5% in the latter half of the year, it was like asking if the emperor had any clothes on. The governor’s response was unclear, referencing a dynamic model before deferring to Dr. S. Jegajeevan, head of the Economic Research Department. Dr. Jegajeevan clarified that they do not foresee inflation approaching 5% later this year.
+
+Ajith Nivard Cabraal, who isn’t particularly revered, quickly suggested to the media that the IMF was controlling our monetary policy. The promise of Central Bank independence was supposed to prevent the politicisation of monetary policy, yet the Monetary Board’s decisions seem misaligned with targeting inflation.
+
+Currently, the Average Weighted Call Money Rate is at the bottom of the Standing Lending Facility Rate and the Standing Deposit Facility Rate. We were promised one rate for monetary policy conduction, but this wasn’t implemented in the latest revision. Monthly inflation for April and May has been outside or near the 90% confidence interval of the Central Bank Projection. The projection suggests that the inflation rate in the latter half of 2024 might dip below zero, entering disinflationary territory.
+
+This situation is exacerbated by an overvalued exchange rate hurting the export sector and high real returns on savings making it difficult for businesses to cope with rising interest costs in a sluggish economy. The governor also noted that the country is well below its output potential. The construction sector, once booming, has a purchasing managers index below 32, with many sites temporarily closed due to extended holidays.
+
+Booms in the Treasury market
+
+There is significant activity in the Treasury market, where Government securities yield much higher returns than the funding costs for deposit-funded institutions. Any excess auction winnings can be borrowed against through the Central Bank. Rates are on a downward trajectory, making primary issuance of Government securities highly profitable when offloaded on the secondary market.
+
+Foreign banks’ risk aversion
+
+Foreign banks remain overly cautious about the domestic market, with deposit rates and lending activities reflecting a risk-averse stance, despite the worst of the crisis being over.
+
+Governor’s statements on disinflation
+
+The Governor’s statements on disinflation highlighted the volatility of inflation figures, which can be significantly impacted by changing time points and the difference between headline and core inflation. While the reduction in the prices of items like milk, chicken, or eggs can indicate low headline inflation, prices of services like education and haircuts remain well above their levels from three years ago. The economy has adjusted to the shock of price increases caused by economic mismanagement, and it will be painful for firms to readjust to falling prices. The Governor’s public disinflation statements are risky in this context.
+
+Our systems of increment, incentive, and expectations are based on rising price levels in the economy. The Governor has done little or anything to prepare the economy for falling price levels and further the Monetary Board has not been given the mandate by the Treasury to have a disinflationary price horizon.
+
+Clarifying inflation with price indices
+
+Inflation is often reported in terms of price levels, but it’s easier to understand it through an index. For instance, the Index Value of 194.1 in May 2024 compared to 195.2 in April 2024 and 192.3 in May 2023 offers a clearer picture than stating monthly changes of -0.57% and yearly changes of 0.9%. The Central Bank should capture a wider range of prices and allow individuals to construct their own indexes to measure the impact of monetary policy on their finances. For example, my age group spends more on films than rice, so changes in entertainment prices affect us more.
+
+Financialisation of the Monetary Board
+
+The financial system is not designed to cover people’s essentials, and financial assets are often inflated in value through intermediaries. A system like in the US, where interest rates are brought near zero to bail out financial giants under the pretext of low inflation, won’t fool us. The COVID-19 stimulus checks were inflationary but cheaper to implement than negative interest rates, which benefited corporate defaulters rather than homeowners.
+
+Despite lip service to high lending rates, corporate results show significant pass-through of interest costs, but smaller borrowers haven’t benefited. Inflation targeting does not prevent the Monetary Board from taking a more active approach in influencing rates. The Central Bank should be urged to unwind its large Treasury bill holdings, depreciate the currency aggressively, and cut the statutory reserve ratio to encourage risk-taking by banks.
+
+Accountability and transparency
+
+If the board expects to undershoot the inflation target, it must make this clear to the public now. The Monetary Board was not assigned independence just to sell themselves to the opposition by keeping interest rates too high. Failing to achieve the inflation target should be a sackable offence. Transparency in their actions and accountability for their targets are essential for maintaining public trust and ensuring that monetary policy serves the best interests of the economy.
+
