@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-04 18:16:40**
+Last Updated **2024-06-05 06:26:08**
+
+## 2024-06-05
+
+* [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
+* [Economic Transformation Bill: Finally, an opportunity to do things differently](data/articles/economic-transformation.0bdb675d/README.md) `ft.lk`
+* [Interventions of a freelance intellectual: A review of Dayan Jayatilleka’s selected writings](data/articles/interventions-of-a-freel.6762fdd3/README.md) `ft.lk`
+* [Are we ready to accept our migrants again?](data/articles/are-we-ready-to-accept-o.5bb673a0/README.md) `ft.lk`
+* [Flooding and rainwater running unutilised to sea](data/articles/flooding-and-rainwater-r.a3601932/README.md) `dailymirror.lk`
+* [JVP Guaranteed Rajapaksa’s Victory in 2005 Ranil-Mahinda:  First Presidential Debate that Never Was](data/articles/jvp-guaranteed-rajapaksa.189ec21f/README.md) `dailymirror.lk`
 
 ## 2024-06-04
 
+* [Defying  Doomsday Predictions of Exit polls  the Congress -led INDIA -Bloc of Opposition Parties  Shock  the Ruling  BJP in vital states, thereby resetting India’s political landscape.](data/articles/defying-doomsday-predict.fd2ce731/README.md) `dbsjeyaraj.com`
+* [Indian Prime Minister Narendra Modi wins third term in Elections; BJP led NDA gets 291 seats while the Congress -led INDIA Bloc wins 234 seats](data/articles/indian-prime-minister-na.751b4296/README.md) `dbsjeyaraj.com`
+* [Stunning   Election Results  Humble  India’s Strongman  Prime Minister Narendra Modi who is  Forced to Form Coaition Govt with Alliance Partners – “The Economist”](data/articles/stunning-election-result.e7e33fc6/README.md) `dbsjeyaraj.com`
+* [A New Model for Continuous Transformation](data/articles/a-new-model-for-continuo.bfd4f1fc/README.md) `hbr.org`
+* [Don’t Post That Job Listing Before Taking These 5 Steps](data/articles/don-t-post-that-job-list.37d78687/README.md) `hbr.org`
 * [How to Work for an Overly Critical Boss](data/articles/how-to-work-for-an-overl.d148fe72/README.md) `hbr.org`
 * [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.7861315e/README.md) `ft.lk`
 * [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.1fdc0e56/README.md) `ft.lk`
