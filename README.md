@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-05 06:26:08**
+Last Updated **2024-06-05 18:17:33**
 
 ## 2024-06-05
 
+* [Onboarding New Employees in a Hybrid Workplace](data/articles/onboarding-new-employees.41cdc9c2/README.md) `hbr.org`
+* [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.059e75ac/README.md) `ft.lk`
 * [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
 * [Economic Transformation Bill: Finally, an opportunity to do things differently](data/articles/economic-transformation.0bdb675d/README.md) `ft.lk`
 * [Interventions of a freelance intellectual: A review of Dayan Jayatilleka’s selected writings](data/articles/interventions-of-a-freel.6762fdd3/README.md) `ft.lk`
