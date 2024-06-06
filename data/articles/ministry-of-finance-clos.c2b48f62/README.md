@@ -2,11 +2,25 @@
 
 ## Summary 🤖
 
+The Sri Lankan Ministry of Finance has announced a plan to reform State Owned Banks (SOBs) following significant stress caused by an economic crisis. These banks' lending practices have deteriorated due to inadequate risk mitigation and weak governance, this has led to delays in reforms which have contributed to the economic crisis. The SOBs balance sheets have been loaded with income from lending to State Owned Enterprises (SOEs), limiting their ability to lend to productive sectors of the economy. Despite their financial struggles, the SOBs claim to have met their profit targets. Proposed solutions include hiring reputable directors, stronger monitoring, and assessing the banks in light of their principal objectives. The re-capitalization of the SOBs will also play a key part in the reform plan.
 
 
 ## Follow-up Questions 🤖
 
-
+1. What is the role of external authorities such as the IMF, World Bank and advisory firms in the reforms for State Owned Banks (SOBs)?
+2. What is the government's plan to mend the issues with the SOBs' loan portfolios, particularly in relation to SOE loans?
+3. How are the lending practices of SOBs expected to change with the proposed reforms?
+4. What consequences have the direct and indirect exposures to the government had on the SOBs' ability to lend to productive sectors?
+5. What response do the SOBs have to the claims of inflated income figures in their financial statements?
+6. What were the measures put in place to secure the future safety of SOBs during the first re-capitalisation exercise?
+7. How has the lack of active monitoring and supervisory roles affected the current state of SOBs?
+8. What are some examples of the self-serving and corruption in the SOBs that led to weak governance and risk mitigation?
+9. What steps are being taken to improve the risk control and management functions in SOBs?
+10. How effective are the current audit processes for SOBs and what changes are being proposed?
+11. What criteria are used to select 'fit and proper' directors, and how is this process expected to change with the proposed reforms?
+12. How will the forthcoming Public Finance Management Act impact the reformation of SOBs?
+13. How do the SOBs plan on addressing the heavy financial liabilities faced by the rural banking system and the MPCS movement?
+14. Given the history of failed SOB reforms, what is different about the current proposal that should give the public confidence in its success?
 
 ## Full Text
 

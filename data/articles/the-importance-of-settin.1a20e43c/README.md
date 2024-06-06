@@ -2,11 +2,21 @@
 
 ## Summary 🤖
 
+Maintaining clear boundaries in a mentorship relationship is critical for protecting privacy, mental health, and productivity. Such boundaries should ideally be discussed and established at the beginning of the relationship. This may involve inquiring about the mentor's own boundaries before discussing personal limits. The concept of boundaries extends to areas such as discussions about personal lives and professional advice. To ensure a productive and respectful mentorship, it's important for both parties to clearly communicate and respect the established boundaries.
 
 
 ## Follow-up Questions 🤖
 
-
+1. How important are clear boundaries in a mentorship relationship?
+2. What are the other measures one can take to safeguard mental health, privacy and productivity in a mentorship relationship?
+3. What are some of the best practices when establishing boundaries with a mentor?
+4. Can you provide more examples of how to establish boundaries in a mentoring relationship?
+5. How do you approach a mentor who regularly veers into personal topics?
+6. How can one balance the need to be open with a mentor with the need for privacy?
+7. How better can a mentee handle situations when they feel uncomfortable with their mentor's focus on personal life?
+8. Can you talk about how the importance of boundaries might change over the course of a mentorship relationship?
+9. What are some red flags that indicate a mentor might not be respecting established boundaries?
+10. Does the method of establishing boundaries differ depending on the type of mentoring relationship?
 
 ## Full Text
 

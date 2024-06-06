@@ -2,11 +2,23 @@
 
 ## Summary 🤖
 
-
+The Economic Transformation Bill aims to organise Sri Lanka's governance and dive the country towards a competitive, export-oriented digital economy, according to an op-ed in the Daily FT. The proposed bill outlines numerous economic goals, such as increasing domestic production, reducing unemployment, integrating more with the global economy, and modernising the agriculture industry. This legislation also target reducing the national debt and increasing the female labour force participation. State Minister of Finance, Shehan Semasinghe, stated that the bill also includes targets that the government had already approved for reducing the country's debt. The op-ed suggests that the bill could be broken up into two sections or two bills - one focusing on economic parameters and the other on implementation methodologies. It concludes by urging other political parties to not only critique the bill but also provide their own proposals for economic transformation.
 
 ## Follow-up Questions 🤖
 
-
+1. What measures have been included in the Economic Transformation Bill to ensure economic stability and debt sustainability?
+2. Could you elaborate on the role of the proposed Economic Commission of Sri Lanka, Investment Zones, Office for International Trade and other bodies?
+3. How does the Economic Transformation Bill plan to modernize agriculture and boost farmer productivity and incomes?
+4. How does the Bill aim to transform Sri Lanka into a highly competitive, export-oriented digital economy?
+5. How will the Economic Transformation Bill attract Foreign Direct Investment (FDI) to Sri Lanka?
+6. What other specific targets have been set by the Sri Lanka government to achieve economic growth by 2030 and 2040?
+7. What factors might hinder the implementation of the proposals outlined in the Economic Transformation Bill?
+8. What are the strategies outlined in the Bill to promote inclusive economic growth and social progress?
+9. Why hasn't the bill set a specific maximum debt to GDP ratio to be achieved and maintained?
+10. How is the Sri Lankan government planning to increase the female labour force participation to not less than 40% by 2030 and not less than 50% by 2040?
+11. What kind of public consultations are expected to precede a vote on the economic parameters in the Parliament?
+12. Can you provide more insights into the suggestion of splitting the bill into two - one covering policy on economic parameters and the other outlining the methodologies of implementation?
+13. How might other political parties respond to the Economic Transformation Bill?
 
 ## Full Text
 

@@ -2,11 +2,26 @@
 
 ## Summary 🤖
 
+Sri Lanka is aiming to achieve 70% renewable energy generation by 2030 and become carbon neutral by 2050. As of March 2024, only 1093 MW of the country's power generation capacity of 5,012 MW came from renewable energy sources, excluding hydro. To meet its renewable energy goals, Sri Lanka needs to add around 7,000 MW of renewable energy in the next 25 years, primarily via large-scale wind and solar projects. The country has a potential capacity of 16 GW solar power and 92 GW offshore wind power. Most additional capacity will have to come from the private sector. Indian company Adani Group has proposed to invest $740m to generate 484 MW of wind power in Sri Lanka. The project could save the country $270m annually and reduce its greenhouse gas emissions, as well as meet the energy demands of around 0.6 million households. If successful, the project could be a model for achieving Sri Lanka's energy self-sufficiency targets.
 
 
 ## Follow-up Questions 🤖
 
-
+1. How does Sri Lanka plan to increase its renewable energy capacity from 1093 MW to the proposed 7000 MW within the targeted time frame?
+2. What measures are being taken to encourage private sector energy companies to contribute to the national grid in Sri Lanka?
+3. How will the Adani Group's proposed project impact the overall energy landscape in Sri Lanka?
+4. Is there any opposition or controversy surrounding the Adani Group's project in Sri Lanka, particularly with respect to environmental concerns?
+5. How does Sri Lanka plan to utilize its potential of 16 GW solar power and 92 GW offshore wind energy?
+6. Are there other big renewable energy players besides the Adani Group interested in investing in Sri Lanka?
+7. How does this move impact Sri Lanka’s economic and environmental policy?
+8. What strategies does Sri Lanka have in place to avoid past failures and ensure renewable energy projects don't just remain on paper?
+9. How prevalent is the usage of thermal power in Sri Lanka and how will the shift to renewables impact this?
+10. What guarantees are in place to ensure the proposed Adani project will indeed generate and supply affordable power? 
+11. What projections have been made for Sri Lanka's power demand over the next 25 years, and how does the country plan to meet this demand?
+12. How does the Adani project proposal compare to the costs of sustaining and expanding existing fossil fuel infrastructures in Sri Lanka?
+13. Are there any other renewable energy targets that Sri Lanka aiming to achieve in the foreseeable future?
+14. How will the shift towards renewable energy affect the average Sri Lankan in terms of electricity costs and environmental impact?
+15. What are the specific environmental protection guidelines that the Adani Group has committed to adhere to in its Sri Lankan project?
 
 ## Full Text
 

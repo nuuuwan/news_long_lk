@@ -2,11 +2,26 @@
 
 ## Summary 🤖
 
+The Bharatiya Janata Party (BJP) led by Indian Prime Minister Narendra Modi has lost its national majority following significant losses in key states. After all votes were counted from the six-week-long election, the BJP had won 240 seats in the lower house of parliament, falling short of the 272 needed for a majority. In contrast, the opposition INDIA alliance, led by the Congress party, was projected to win over 200 seats. Despite the losses, the BJP could still form the next government with the help of allies in the National Democratic Alliance (NDA), who are projected to win around 282 seats. While the BJP made inroads in southern India, it suffered major losses in central Hindi-speaking states.
 
 
 ## Follow-up Questions 🤖
 
-
+1. What led to BJP's loss of majority in the national government?
+2. What were the key issues that influenced the voters' decision in this election?
+3. How will the lack of a clear majority affect Prime Minister Narendra Modi's leadership and the government's ability to pass laws?
+4. How will this election outcome impact coalition politics in India?
+5. What was the public response to BJP's election campaign strategies?
+6. What were the consequences of BJP's loss in key states?
+7. How will the loss impact BJP's relationship with its allies in the National Democratic Alliance?
+8. How did the Congress party manage to win more seats than predicted in the polls?
+9. Will this result encourage a shift in BJP's strategies and leadership?
+10. What role did economic factors and issues of income inequality play in the election results?
+11. How did regional parties contribute to the election outcome?
+12. How has this election result affected the Muslim community in India?
+13. How does this election result compare to previous ones in terms of the BJP’s performance?
+14. Can Modi’s use of polarising rhetoric during the campaign be linked to the BJP’s loss? 
+15. How will a non-majority government influence India’s progression in democratic indices?
 
 ## Full Text
 

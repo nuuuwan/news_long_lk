@@ -2,11 +2,21 @@
 
 ## Summary 🤖
 
+Flooding, landslides and resulting displacement of residents has become a regular occurrence in monsoon-season India, with 16 people having died and 84,749 displaced so far this year. The article suggests the large amount of wasted water could be harvested and diverted to areas unstably dependent on the Ambatale Wewa for irrigation and piped water, such as Colombo. Ideas mooted for this have included building a reservoir for the Kelani River's water, or diverting the river to the North and North Central provinces. Such projects would benefit farming, encourage self-sufficiency in food production and could create buffer stocks, the author argued.
 
 
 ## Follow-up Questions 🤖
 
-
+1. What factors contribute to the extreme monsoon flooding in the South-West region?
+2. What, if any, measures have been taken to combat monsoon flooding in these regions in the past?
+3. Why have the plans to build a reservoir and redirect the Kelani River not been put into action?
+4. Could there be other, less visible effects of these repeated monsoon floods?
+5. What is the disaster response like in the wake of these floods and landslides? Is it sufficient?
+6. What steps would need to be taken to achieve self-sufficiency in food production?
+7. Could the Uma Oya diversion scheme potentially be used as a model for a similar scheme involving the Kelani River?
+8. How will continuing to redirect water to be used for farming impact the overall water cycle in these regions?
+9. Are there any environmental concerns related to tunneling the waters of the Kelani River?
+10. How are other countries with similar monsoon seasons addressing management of excess rainfall and flooding?
 
 ## Full Text
 

@@ -2,11 +2,17 @@
 
 ## Summary 🤖
 
-
+A journalist criticises the Israeli government's conduct towards Palestinians in Gaza, accusing them of acting arrogantly and showing undiplomatic and rude behaviour. The journalist questions Israel's claim that it is at war with Hamas and not the people of Gaza, citing a statement from Israel's Defence Minister that a "complete siege" of Gaza had been ordered. The journalist also refutes Israel's claim that the war is being conducted in a humane way with minimum civilian casualties, highlighting the high number of deaths and injuries among Palestinians. Furthermore, he argues that Israel does not have the right to self-defence under Article 51 of the UN Charter because it is an occupying power, and additionally accuses Israel of violating United Nations resolutions and international laws. The journalist notably flags the support provided to Israel by the US, Britain, and Europe, suggesting they could be held guilty of complicity if Israel is found to have committed genocide. Finally, the journalist calls for the Sri Lankan Government to avoid supporting Israel for its own gains.
 
 ## Follow-up Questions 🤖
 
-
+1. What exactly is the "hidden Zionist agenda" that the author claims is underlying Israeli policy? 
+2. Can you provide more specific instances where Israel has violated United Nations resolutions and international law?
+3. What is the significance of Spain, Ireland, and Norway formally recognizing Palestine as a state?
+4. Can you elaborate on the claim that Jews and Jewish Rabbis are coming out as anti-Zionist? What does this mean for the future of Israel?
+5. What implications would arise if the International Court of Justice finds that Israel has committed genocide?
+6. What could be the potential impact on Sri Lanka if Israel were to gain a foothold in the country?
+7. How has the international community reacted to Piers Morgan's statement on the conflict?
 
 ## Full Text
 

@@ -2,11 +2,23 @@
 
 ## Summary 🤖
 
+Indian Prime Minister Narendra Modi won a third term in power on 4 June, despite his Bharatiya Janata Party (BJP) winning fewer than expected seats in Uttar Pradesh and Rajasthan. The BJP-led National Democratic Alliance (NDA) won 291 seats, 32 short of the required 272 needed for a majority, while the Congress-led INDIA bloc won 234 seats, of which 99 were claimed by Congress. Mr. Modi praised the Election Commission (EC) for overseeing the world's largest vote, thanked female voters for their part in his victory, and promised to work towards the development of the nation. The results mark a return to coalition rule in India, something that has been absent for the past decade.
 
 
 ## Follow-up Questions 🤖
 
-
+1. What strategies will Prime Minister Modi have to implement to keep his allies within the BJP-led National Democratic Alliance content?
+2. How significant was the role of women voters in this election, as mentioned by Narendra Modi?
+3. What led to the BJP's defeat in its strongholds in Uttar Pradesh and Rajasthan?
+4. What was the impact of Congress's outreach to OBC voters and their alliance with the Samajwadi Party?
+5. What are the implications of the shift to coalition governance for Indian politics?
+6. How will BJP manage to purse a consensus approach with her allies in the new parliament?
+7. What are the future plans of Congress leader Rahul Gandhi after this election result?
+8. What are the impacts of this election on lower-caste politics in India, considering BJP's commitment to upholding reservations?
+9. What have been the consequences of the election results in West Bengal and Odisha?
+10. What are the reasons behind BJP's strong performance in Andhra Pradesh and Bihar as mentioned by Narendra Modi?
+11. Did BJP's faith in expanding its base in West Bengal pay off?
+12. How might the Congress-led INDIA bloc leverage its increased power in Parliament?
 
 ## Full Text
 

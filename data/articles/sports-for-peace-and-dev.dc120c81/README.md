@@ -2,11 +2,21 @@
 
 ## Summary 🤖
 
+South Africa beat Sri Lanka by six wickets at the T20 World Cup. The defeat has disappointed cricket fans in Sri Lanka. The story goes on to underscore the importance of how the game is played and not simply about winning or losing, referencing Rudyard Kipling's poem 'If'. Cricket is noted as a significant obsession among the Sri Lankan population, with Arjuna Ranatunga's World Cup victory in 1996 being a particularly proud moment. Kerry Packer is recognized for his role in evolving cricket and helping it reach a wider audience through his media channels.
 
 
 ## Follow-up Questions 🤖
 
-
+1. How did South African team outperform Sri Lanka in the T20 World Cup?
+2. Can you explain more about how the famous saying applies to the outcome of the game?
+3. How has the game of cricket evolved over the years in Sri Lanka, especially after Arjuna Ranatunga's victory in 1996?
+4. Can you provide more details about Kerry Packer's influence on the World Series Cricket and the one-day game?
+5. In what ways did Packer's intervention impact traditional 5 day test matches?
+6. How has the United Nations' IDSDP influenced the cricket sports in particular?
+7. How does the poem ‘If’ by Rudyard Kipling relate to the experience of the Sri Lankan team in this tournament?
+8. What are some historic cricket legends from the era of 5 day test matches?
+9. How has the shift from long-format cricket to shorter formats like T20 affected player performance and fan engagement?
+10. How has the perception of cricket changed in Sri Lanka after their World Cup victory in 1996?
 
 ## Full Text
 

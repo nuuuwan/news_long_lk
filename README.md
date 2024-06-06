@@ -2,14 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-06 06:26:38**
+Last Updated **2024-06-06 18:24:32**
 
 ## 2024-06-06
 
+* [GenAI Is Leveling the Playing Field for Smaller Businesses](data/articles/genai-is-leveling-the-pl.d39d4da1/README.md) `hbr.org`
 * [Sri Lanka urgently needs green power on ground and not paper](data/articles/sri-lanka-urgently-needs.2e3a8a2e/README.md) `ft.lk`
 * [Ministry of Finance: Closing the stable door after the horse has bolted](data/articles/ministry-of-finance-clos.c2b48f62/README.md) `ft.lk`
 * [Tied-race: Anura or Sajith could win by surge to progressive-centre](data/articles/tied-race-anura-or-sajit.be386aa2/README.md) `ft.lk`
 * [Understanding how Zionist Israel has been fooling the world](data/articles/understanding-how-zionis.69e78751/README.md) `ft.lk`
+* [How did Samagi Jana  Balawegaya (SJB) Appoint  Diana Gamage as a National List MP when she was not a Sri Lankan Citizen? Colombo Addl  Magistrate Orders CID to  Investigate the Matter and Report Back to Court.](data/articles/how-did-samagi-jana-bala.809a071b/README.md) `dbsjeyaraj.com`
+* [UNP Re-structures Party  Leadership to Face Elections. Harin Fernando appointed  National Elections Organizer ; Ravi Karunanayake and Ronald Perera  to Serve as Secretary and Deputy   Secretary of Elections](data/articles/unp-re-structures-party.8b21988b/README.md) `dbsjeyaraj.com`
 * [An assessment of China growing ties with the Arab world](data/articles/an-assessment-of-china-g.feb96c71/README.md) `dailymirror.lk`
 * [Sports for peace and development](data/articles/sports-for-peace-and-dev.dc120c81/README.md) `dailymirror.lk`
 * [Lifestyles of politicians and the life of an artist](data/articles/lifestyles-of-politician.864c502c/README.md) `dailymirror.lk`
@@ -24,6 +27,7 @@ Last Updated **2024-06-06 06:26:38**
 * [Economic Transformation Bill: Finally, an opportunity to do things differently](data/articles/economic-transformation.0bdb675d/README.md) `ft.lk`
 * [Interventions of a freelance intellectual: A review of Dayan Jayatilleka’s selected writings](data/articles/interventions-of-a-freel.6762fdd3/README.md) `ft.lk`
 * [Are we ready to accept our migrants again?](data/articles/are-we-ready-to-accept-o.5bb673a0/README.md) `ft.lk`
+* [How a simple circuit could offer an alternative to energy-intensive GPUs](data/articles/how-a-simple-circuit-cou.34999d49/README.md) `technologyreview.com`
 * [Flooding and rainwater running unutilised to sea](data/articles/flooding-and-rainwater-r.a3601932/README.md) `dailymirror.lk`
 * [JVP Guaranteed Rajapaksa’s Victory in 2005 Ranil-Mahinda:  First Presidential Debate that Never Was](data/articles/jvp-guaranteed-rajapaksa.189ec21f/README.md) `dailymirror.lk`
 

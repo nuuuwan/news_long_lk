@@ -2,11 +2,31 @@
 
 ## Summary 🤖
 
+The article provides a detailed report about political power struggles in Sri Lanka, focusing on President Chandrika Bandaranaike Kumaratunga's (CBK) attempt to extend her term in office in 2005. CBK claims her term ends in 2006 due to being sworn in twice, a notion disputed by the Supreme Court.
 
+Mahinda Rajapaksa, a candidate for presidency in the 2005 election, formed an alliance with the Janatha Vimukthi Peramuna (JVP), a move that made CBK angry. CBK, in a letter to Mahinda, expressed her displeasure over his alliance with the JVP and his breach of the previously agreed P-TOMS pact.
+
+Mahinda, along with the JVP, began campaigning in CBK's absence, with the latter leaving for the United Nations General Assembly in New York.
+
+In the meantime, a Presidential debate between Mahinda and Ranil Wickremesinghe never took place due to disagreement over the ground rules and choice of moderator.
+
+The article concludes by stating that the JVP, along with the Liberation Tigers of Tamil Eelam (LTTE), played a small role, contributing to Mahinda's victory in the 2005 elections.
 
 ## Follow-up Questions 🤖
 
-
+1. What were the main issues in the disagreement over President Kumaratunga's term extension?
+2. What was the role of the Janatha Vimukthi Peramuna (JVP) in the 2005 presidential election?
+3. Why was the JVP's support important for Mahinda Rajapaksa's presidential campaign?
+4. What was the cause of friction between President Kumaratunga and Rajapaksa? 
+5. How did Kumaratunga respond after learning about the alliance between Rajapaksa and JVP? 
+6. Why were some MPs distressed about overseas tours during the election period?
+7. What were some challenges faced by Rajapaksa's campaign staff when organizing in certain districts?
+8. Why did the Tamil population in the North East refrain from voting in this election?
+9. What became of the proposed presidential debate between Rajapaksa and Ranil Wickremesinghe?
+10. How did alliance with the JVP and LTTE impact Rajapaksa's presidential victory?
+11. What was the controversy over the P-TOMS agreement? 
+12. Can you explain more about the political significance of the letter from President Kumaratunga to Mahinda Rajapaksa?
+13. How did the UNP respond to President Kumaratunga's attempt at extending her term?
 
 ## Full Text
 

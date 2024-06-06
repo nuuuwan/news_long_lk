@@ -1,0 +1,17 @@
+1. What is the technical difference between this resistor-based machine learning model and a traditional GPU-based model?
+2. What is the possible implications of this research and could it revolutionize the computing industry?
+3. How energy efficient is this prototype compared to conventional machine learning models? 
+4. How would the energy efficiency improve if the circuit was scaled up?
+5. What are the limitations of the current prototype and how are they being addressed?
+6. Why did the researchers decide to remain with electronics for their model rather than using water pipes as initially considered?
+7. How does the prototype compare to other neuromorphic machines currently in development or use?
+8. Is it possible to use this technology to solve more complex machine learning problems? 
+9. Will the resistor-based machine learning model eventually replace the GPU-model in AI learning? 
+10. How does emergent learning work in this context and are there other settings or applications where this could be implemented?
+11. How does this analog approach help in reducing energy consumption, and could this be applied to other systems? 
+12. What are the potential commercial applications for this resistor-based circuit model? 
+13. What challenges do the researchers expect in transitioning this prototype from a lab setting to a commercial environment? 
+14. Has there been any interest from industry in using this technology, and if so, in what fields? 
+15. How does the lack of a dedicated memory component in the innovated model further boost energy efficiency? Could this be implemented in conventional computers as well?
+16. How are the trained circuits capable of sorting data without explicit instructions?
+17. How is the accuracy level of the resistor-based model impacted by the analog signals being noisier than digital ones?
