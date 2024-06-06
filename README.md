@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-05 18:17:33**
+Last Updated **2024-06-06 06:26:38**
+
+## 2024-06-06
+
+* [Sri Lanka urgently needs green power on ground and not paper](data/articles/sri-lanka-urgently-needs.2e3a8a2e/README.md) `ft.lk`
+* [Ministry of Finance: Closing the stable door after the horse has bolted](data/articles/ministry-of-finance-clos.c2b48f62/README.md) `ft.lk`
+* [Tied-race: Anura or Sajith could win by surge to progressive-centre](data/articles/tied-race-anura-or-sajit.be386aa2/README.md) `ft.lk`
+* [Understanding how Zionist Israel has been fooling the world](data/articles/understanding-how-zionis.69e78751/README.md) `ft.lk`
+* [An assessment of China growing ties with the Arab world](data/articles/an-assessment-of-china-g.feb96c71/README.md) `dailymirror.lk`
+* [Sports for peace and development](data/articles/sports-for-peace-and-dev.dc120c81/README.md) `dailymirror.lk`
+* [Lifestyles of politicians and the life of an artist](data/articles/lifestyles-of-politician.864c502c/README.md) `dailymirror.lk`
 
 ## 2024-06-05
 
+* [Research: Why We Choose the Hard Way to Do Tedious Tasks](data/articles/research-why-we-choose-t.b1950cac/README.md) `hbr.org`
+* [The Importance of Setting Boundaries with Your Mentor](data/articles/the-importance-of-settin.1a20e43c/README.md) `hbr.org`
 * [Onboarding New Employees in a Hybrid Workplace](data/articles/onboarding-new-employees.41cdc9c2/README.md) `hbr.org`
 * [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.059e75ac/README.md) `ft.lk`
 * [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
