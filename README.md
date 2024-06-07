@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-07 12:02:05**
+Last Updated **2024-06-07 18:17:50**
 
 ## 2024-06-07
 
+* [How to Make Job Interviews More Accessible](data/articles/how-to-make-job-intervie.ee54fea7/README.md) `hbr.org`
 * [President Ranil’s handling of the crisis and what’s next for Sri Lanka](data/articles/president-ranil-s-handli.896a666e/README.md) `ft.lk`
 * [CFOs: Stay nimble and informed to steer your organisation forward](data/articles/cfos-stay-nimble-and-inf.98bc111f/README.md) `ft.lk`
 * [ADB loan scheme: What about the construction industry?](data/articles/adb-loan-scheme-what-abo.bd969ca2/README.md) `ft.lk`
@@ -37,6 +38,7 @@ Last Updated **2024-06-07 12:02:05**
 * [Research: Why We Choose the Hard Way to Do Tedious Tasks](data/articles/research-why-we-choose-t.b1950cac/README.md) `hbr.org`
 * [The Importance of Setting Boundaries with Your Mentor](data/articles/the-importance-of-settin.1a20e43c/README.md) `hbr.org`
 * [Onboarding New Employees in a Hybrid Workplace](data/articles/onboarding-new-employees.41cdc9c2/README.md) `hbr.org`
+* [Climate change monthly update: June 2024](data/articles/climate-change-monthly-u.6cbcaa2d/README.md) `eiu.com`
 * [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.059e75ac/README.md) `ft.lk`
 * [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
 * [Economic Transformation Bill: Finally, an opportunity to do things differently](data/articles/economic-transformation.0bdb675d/README.md) `ft.lk`
@@ -99,6 +101,7 @@ Last Updated **2024-06-07 12:02:05**
 * [4 Types of Gen AI Risk and How to Mitigate Them](data/articles/4-types-of-gen-ai-risk-a.d8d276e5/README.md) `hbr.org`
 * [The Strategic Advantage Omnichannel Retailers Have Over Amazon](data/articles/the-strategic-advantage.3a4dd058/README.md) `hbr.org`
 * [When Expanding into a Foreign Market, Your Outsider Status Is a Competitive Advantage](data/articles/when-expanding-into-a-fo.6aeb3442/README.md) `hbr.org`
+* [Gulf-Syrian ties show signs of gradually warming](data/articles/gulf-syrian-ties-show-si.b2f31984/README.md) `eiu.com`
 * [Why Google’s AI Overviews gets things wrong](data/articles/why-google-s-ai-overview.4ec7f8e3/README.md) `technologyreview.com`
 * [What’s next for bird flu vaccines](data/articles/what-s-next-for-bird-flu.87fcb797/README.md) `technologyreview.com`
 * [Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka](data/articles/dr-shafi-recounts-ordeal.cdd1784a/README.md) `ft.lk`
