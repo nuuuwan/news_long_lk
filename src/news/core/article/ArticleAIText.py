@@ -42,7 +42,7 @@ class ArticleAIText:
     def ai_summary(self):
         return self.get_generic_ai_text(
             'summary',
-            "Summarize the following article:",
+            "Summarize the following article into 2 bullet lists: The first listing the facts presented; the second listing the opinions expressed:",
         )
 
     @cached_property
