@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-07 06:27:53**
+Last Updated **2024-06-07 12:02:05**
 
 ## 2024-06-07
 
@@ -17,6 +17,7 @@ Last Updated **2024-06-07 06:27:53**
 * [Says Sri Lanka is an unsinkable aircraft carrier “The country manufactures  poverty  as politics is more profitable  than its industries”  - Major Gen. Dr. Boniface Perera](data/articles/says-sri-lanka-is-an-uns.25ee1557/README.md) `dailymirror.lk`
 * [Once bitten, twice shy; but it takes two to tango](data/articles/once-bitten-twice-shy-bu.d4044cea/README.md) `ft.lk`
 * [Politics of paranoia](data/articles/politics-of-paranoia.268b16d8/README.md) `ft.lk`
+* [President  Ranil Wickremesinghe  Opens New Political Office  in Colombo on Sir Ernest de Silva  Mawatte to Coordinate and Direct Future Operations Regarding  Presidential Elections](data/articles/president-ranil-wickreme.65e679f1/README.md) `dbsjeyaraj.com`
 * [Why IT Leaders Should Take a Franchise Approach to Data Management](data/articles/why-it-leaders-should-ta.3652d3ec/README.md) `hbr.org`
 * [9 Questions to Help You Figure Out Why You’re Burned Out](data/articles/9-questions-to-help-you.a05f5cb1/README.md) `hbr.org`
 * [How AI Can Make Us Better Leaders](data/articles/how-ai-can-make-us-bette.3e4f9ef3/README.md) `hbr.org`
