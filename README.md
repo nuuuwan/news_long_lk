@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-06 18:24:32**
+Last Updated **2024-06-07 06:27:53**
+
+## 2024-06-07
+
+* [President Ranil’s handling of the crisis and what’s next for Sri Lanka](data/articles/president-ranil-s-handli.896a666e/README.md) `ft.lk`
+* [CFOs: Stay nimble and informed to steer your organisation forward](data/articles/cfos-stay-nimble-and-inf.98bc111f/README.md) `ft.lk`
+* [ADB loan scheme: What about the construction industry?](data/articles/adb-loan-scheme-what-abo.bd969ca2/README.md) `ft.lk`
+* [Why people shouldn’t fear  ‘Mr. Talent’ - EDITORIAL](data/articles/why-people-shouldn-t-fea.d3b708cd/README.md) `dailymirror.lk`
+* [Slaughter of the Gaza lamb: Israeli Pharaoh’s crimes against children](data/articles/slaughter-of-the-gaza-la.422ac54e/README.md) `dailymirror.lk`
 
 ## 2024-06-06
 
+* [Says Sri Lanka is an unsinkable aircraft carrier “The country manufactures  poverty  as politics is more profitable  than its industries”  - Major Gen. Dr. Boniface Perera](data/articles/says-sri-lanka-is-an-uns.25ee1557/README.md) `dailymirror.lk`
+* [Once bitten, twice shy; but it takes two to tango](data/articles/once-bitten-twice-shy-bu.d4044cea/README.md) `ft.lk`
+* [Politics of paranoia](data/articles/politics-of-paranoia.268b16d8/README.md) `ft.lk`
+* [Why IT Leaders Should Take a Franchise Approach to Data Management](data/articles/why-it-leaders-should-ta.3652d3ec/README.md) `hbr.org`
+* [9 Questions to Help You Figure Out Why You’re Burned Out](data/articles/9-questions-to-help-you.a05f5cb1/README.md) `hbr.org`
+* [How AI Can Make Us Better Leaders](data/articles/how-ai-can-make-us-bette.3e4f9ef3/README.md) `hbr.org`
 * [GenAI Is Leveling the Playing Field for Smaller Businesses](data/articles/genai-is-leveling-the-pl.d39d4da1/README.md) `hbr.org`
 * [Sri Lanka urgently needs green power on ground and not paper](data/articles/sri-lanka-urgently-needs.2e3a8a2e/README.md) `ft.lk`
 * [Ministry of Finance: Closing the stable door after the horse has bolted](data/articles/ministry-of-finance-clos.c2b48f62/README.md) `ft.lk`

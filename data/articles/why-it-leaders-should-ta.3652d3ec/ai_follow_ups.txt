@@ -1,0 +1,11 @@
+1. What specific guardrails should organizations implement to secure data while expanding access?
+2. Can you explain more about how the 'franchise' approach works in data management?
+3. What role do business leaders and data stewards play in this franchise approach, particularly in schema development?
+4. Can you provide specific examples of how businesses have effectively implemented the franchise approach to data management?
+5. How can businesses ensure that data quality is maintained across all units in this approach?
+6. What obstacles might organizations face in integrating the franchise model into their data management systems?
+7. How do AI and data science platforms contribute to improved data accessibility and analytics?
+8. How does the franchise approach to data management facilitate better insights and business growth?
+9. Could you expand on ways the IT department can elevate its role to become a strategic driver for an organization using this franchise approach?
+10. How can this approach better empower employees across the entire organization to make data-driven decisions?
+11. What steps can an organization take to ensure the effective, secure, and seamless sharing of data across different departments as part of adopting the franchise approach?

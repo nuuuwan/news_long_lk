@@ -1,0 +1,29 @@
+{
+  "url": "https://hbr.org/sponsored/2024/06/why-it-leaders-should-take-a-franchise-approach-to-data-management",
+  "title": "Why IT Leaders Should Take a Franchise Approach to Data Management",
+  "ut": 1717668537.0,
+  "body_paragraphs": [
+    "Organizations are swimming in a sea of data\u2014yet 80% of industrial data goes unused. With data\u2019s massive potential to power emerging technologies like generative AI, most organizations are missing a prime opportunity to use it to make smarter business decisions.",
+    "Many organizations see the benefits of sharing data across the enterprise, our recent survey of enterprise leaders indicates. When asked what benefits they could realize with increased access, 53% of respondents said employees would collaborate better, 48% said productivity would improve, and 45% believed better data-sharing would result in faster decision-making.",
+    "Yet surprisingly, 65% of enterprise IT and data leaders don\u2019t think employees who make decisions for the organization should have access to data for decision-making. \u00a0Considering governance, security, and other compliance concerns, IT leaders are understandably hesitant to expand data access. But any perceived trade-off between governance and self-service is a misconception.",
+    "With the appropriate guardrails and a data stack designed for fully accessing data, governance can be a catalyst of data democratization and business growth. Leaders should consider a \u201cfranchise\u201d approach to data management that transforms the role of IT teams into enablers of data access, decision-making, and positive business impact, instead of bottlenecks.",
+    "What is the Franchise Approach?",
+    "Franchising lets entrepreneurs operate their own unit of a business while benefiting from association with the franchisor, such as with a shared logo, products, and business reputation.",
+    "IT teams can take a similar approach for handling enterprise data and scaling analytics responsibly, creating a joint venture between IT and the lines of business.",
+    "Just as a franchisor is responsible for maintaining quality across franchised locations, IT leaders must manage and maintain the quality of data available to their organizations. Likewise, line-of-business leaders have responsibilities as domain experts and data stewards to guide IT in schema development and processes, ensuring the data structures serve the business\u2019 decision-making needs.",
+    "By franchising data stewardship and analytics development to various business units, IT leaders as the franchisors can help each team derive insights from data responsibly and with a degree of independence.",
+    "Using the franchise approach, IT leadership has a broad view of the organization\u2019s data needs and can both tailor data as needed for various units and also integrate similar requirements into a cohesive data strategy\u2014much in the way a franchisor might offer a new item to its franchisees based on broader market demands.",
+    "Businesses aren\u2019t making the most of their data. Roughly half of companies (48%) don\u2019t share data across departments, Alteryx recently found. The more accurate, complete, accessible, and governed data organizations have available, the greater the impact of analytics and AI.",
+    "By adopting the franchise model, IT leaders can create the framework for best practices on healthy data that encourage visibility, collaboration, and reuse for a meaningful impact on the overall business.",
+    "Franchising Data Management",
+    "When implementing the franchise approach, leaders should consider several key components of an effective strategy.",
+    "1. Cosign. The franchise approach works by harmonizing IT with business units, pairing IT experts who understand the data stack with business experts who know the context and application of the data. Together, they can identify the right approach to optimize data management and governance.",
+    "2. Crowdsource. By putting data into the hands of business users familiar with its broader context, each business unit can iterate and problem-solve. Organizations can avoid piling a laundry list of data requests on one team and instead crowdsource insights from across the business.",
+    "3. Scale. As the proverbial franchisor, IT collects feedback from across teams to help scale data and analytics functions more effectively. IT leaders play an important role in freeing data so different units can explore how the data intersects and, from there, derive deeper insights for the organization, leading to new opportunities for business growth.",
+    "The New Age of Data and AI",
+    "As data science and AI platforms take on a more prominent role in the data stack, IT can no longer afford to be a hurdle to data access and analytics for business users. Data is increasing exponentially, and the organizations that use it to fuel AI and make smarter business decisions will come out ahead.",
+    "Across industries, data is the great differentiator that enables businesses to uncover unique customer and operational insights to pursue specific growth strategies. Using the franchise approach, IT can elevate its role to a more strategic position, propelling data consumers to take a more active role in charting the future of their organizations through the power only data can provide.",
+    "Heather Harris is Field Chief Data & Analytics Officer at Alteryx.",
+    "Learn more about the\u00a0Alteryx AI Platform for Enterprise Analytics."
+  ]
+}
