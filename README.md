@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-07 18:17:50**
+Last Updated **2024-06-08 06:27:08**
+
+## 2024-06-08
+
+* [The right to strike and motivated strikes](data/articles/the-right-to-strike-and.1c3c4dc6/README.md) `dailymirror.lk`
+* [Presidential election: Good and bad foreign meddling](data/articles/presidential-election-go.91a96aea/README.md) `dailymirror.lk`
 
 ## 2024-06-07
 
+* [How Argentina’s once great economy was destroyed? Lessons for Sri Lanka](data/articles/how-argentina-s-once-gre.621dd05e/README.md) `ft.lk`
+* [Foreign missions urged to support justice in Navy abduction case amid AG’s shift on Karannagoda](data/articles/foreign-missions-urged-t.54a83dd3/README.md) `ft.lk`
+* [Unreleased Nawaz Commission report may hold key to acceptable Truth and Reconciliation Commission](data/articles/unreleased-nawaz-commiss.372dd41a/README.md) `ft.lk`
+* [Sri Lanka-China Friendship Association unveils “Sri Lanka Cheena Mithudama” book](data/articles/sri-lanka-china-friendsh.4e052717/README.md) `ft.lk`
+* [Release of book ‘Talking to My Daughter – A Brief History of Capitalism’ in Sinhala](data/articles/release-of-book-talking.256bfeb6/README.md) `ft.lk`
+* [Seasonal Businesses Can Stay Profitable in the Off-Season. Here’s How.](data/articles/seasonal-businesses-can.342e0919/README.md) `hbr.org`
+* [Research: Smaller, More Precise Discounts Could Increase Your Sales](data/articles/research-smaller-more-pr.c73752f3/README.md) `hbr.org`
 * [How to Make Job Interviews More Accessible](data/articles/how-to-make-job-intervie.ee54fea7/README.md) `hbr.org`
 * [President Ranil’s handling of the crisis and what’s next for Sri Lanka](data/articles/president-ranil-s-handli.896a666e/README.md) `ft.lk`
 * [CFOs: Stay nimble and informed to steer your organisation forward](data/articles/cfos-stay-nimble-and-inf.98bc111f/README.md) `ft.lk`
