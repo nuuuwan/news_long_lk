@@ -1,0 +1,19 @@
+Facts:
+- In late May, OpenAI reported misuse of their products by 'bad actors' in influencing operations.
+- The company thwarted five networks from Russia, China, Iran, and Israel who were using the AI tools for deceptive tactics that ranged from creating large amounts of social media comments in different languages to turning news articles into Facebook posts.
+- After uncovering misuse of their platforms following Russia’s interference in the 2016 US election, companies like Facebook, YouTube, and Twitter created integrity teams and began making regular disclosures on influence operations.
+- Meta, another company affected, released a transparency report revealing the shutdown of six covert operations on its platform. They also called for greater cooperation between governments, researchers, and other tech companies to share threat intelligence.
+- OpenAI and Meta reported that most influence campaigns didn't have much impact, and only produced a lot of content rather than meaningful engagement.
+- OpenAI took precautions against risk of overhyping the threat, realizing simply having fake accounts does not mean they have an impact.
+- Meta's report found a Bangladeshi network targeting its own public, with 3.4 million followers across 98 pages.
+- Musk’s takeover of Twitter ended its regular release of data sets of posts from inauthentic state-linked accounts to researchers and the public. Meta is sharing content from already-removed networks through their Influence Operations Research Archive.
+
+Opinions:
+- Researchers commend OpenAI for the precedent set by the report as they had long expected antagonistic actors to utilize generative AI technology to ramp up the scale and quality of their efforts.
+- AI provides a productivity boon to propagandists.
+- The world is moving toward an AI-fueled internet that amplifies the chaos of warfare.
+- It's necessary to properly evaluate the threat AI poses, especially in an election year, as exaggerating the impact of disinformation campaigns can undermine democratic faith.
+- The Meta report's call for shared threat intelligence and cooperation points toward a larger path forward for tech companies and academic specialists.
+- OpenAI's adversarial threat report should initiate more extensive data sharing in the future to provide policymakers with a proper understanding of potential misuse.
+- The media must play a part in combating these influence operations and misuse of AI; skepticism and awareness of how ubiquitous generated content has become can help social media users resist deception.
+- Transparency, data sharing, and collective vigilance are needed to combat the AI-driven influence operations and foster a more robust digital ecosystem.

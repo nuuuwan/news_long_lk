@@ -1,0 +1,15 @@
+1. What specific tactics are the propagandists using to misuse AI technology?
+2. What measures are OpenAI and other large tech companies taking to detect and counteract this misuse?
+3. How much impact have these influence campaigns had so far, and how can their influence potentially grow?
+4. What is the current level of threat that AI misuse poses to American politics and national security?
+5. How might hyping up the threat of disinformation campaigns potentially undermine trust in democracy?
+6. How can AI companies increase transparency and make information about these campaigns accessible to outside researchers?
+7. How can online users help combat AI misuse on social media platforms?
+8. What are the possible markers of AI-generated content online, and how can users recognize them?
+9. How might AI tools become more pervasive in the future, and how can policymakers prepare for that?
+10. How did the AI-generated content disclosed by OpenAI appear to users; was it noticeably artificial or convincingly real? 
+11. What are the motivations behind these “bad actors” misusing OpenAI’s technology for influence operations?
+12. How can countries collaborate better in sharing threat intelligence to disrupt such misuse of AI technologies?
+13. Can you elaborate on the role of influential real accounts versus AI-driven fake accounts in influencing public opinion?
+14. What are some key recommendations in Meta's transparency report for a stronger industry response to these influence operations?
+15. How does the misuse of AI technology affect the integrity of elections and public trust in the election process?

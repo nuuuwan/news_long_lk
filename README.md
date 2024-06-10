@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-10 06:27:50**
+Last Updated **2024-06-10 18:17:33**
 
 ## 2024-06-10
 
+* [How “Carewashing” Alienates Employees](data/articles/how-carewashing-alienate.664a2243/README.md) `hbr.org`
 * [Letters from now: Election musings](data/articles/letters-from-now-electio.61c7723f/README.md) `ft.lk`
 * [Poverty and homelessness stare elders in the face - EDITORIAL](data/articles/poverty-and-homelessness.0d136c6b/README.md) `dailymirror.lk`
 * [From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies](data/articles/from-crisis-architects-t.eb400845/README.md) `ft.lk`
@@ -19,6 +20,7 @@ Last Updated **2024-06-10 06:27:50**
 
 ## 2024-06-08
 
+* [Propagandists are using AI too—and companies need to be open about it](data/articles/propagandists-are-using.f0f77f64/README.md) `technologyreview.com`
 * [Sajith-Anura  Televised Debate on ITN  Fizzles out Due to SJB Leader Premadasa not Turning up at Studio;JVP leader AK Dissanayake Participates in ITN’s “Tulawa”Hosted by Sudarman Radaliyagoda Instead](data/articles/sajith-anura-televised-d.6327f2bd/README.md) `dbsjeyaraj.com`
 * [The right to strike and motivated strikes](data/articles/the-right-to-strike-and.1c3c4dc6/README.md) `dailymirror.lk`
 * [Presidential election: Good and bad foreign meddling](data/articles/presidential-election-go.91a96aea/README.md) `dailymirror.lk`
