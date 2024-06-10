@@ -2,7 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-09 18:14:30**
+Last Updated **2024-06-10 06:27:50**
+
+## 2024-06-10
+
+* [Letters from now: Election musings](data/articles/letters-from-now-electio.61c7723f/README.md) `ft.lk`
+* [Poverty and homelessness stare elders in the face - EDITORIAL](data/articles/poverty-and-homelessness.0d136c6b/README.md) `dailymirror.lk`
+* [From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies](data/articles/from-crisis-architects-t.eb400845/README.md) `ft.lk`
+* [UK centre-right media gearing up for a Third World War](data/articles/uk-centre-right-media-ge.20fb2bc1/README.md) `dailymirror.lk`
+* [The Ranil-Chandrika Debate of 1999 that never occurred](data/articles/the-ranil-chandrika-deba.8fc140a0/README.md) `dailymirror.lk`
+
+## 2024-06-09
+
+* [Modi 3.0 in India: What next for Sri Lanka?](data/articles/modi-3-0-in-india-what-n.a830b818/README.md) `ft.lk`
+* [Dr Siri Kannangara was a rheumatologist, best known by Sri Lankans for the immense services he rendered in sports medicine.](data/articles/dr-siri-kannangara-was-a.363ff244/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-08
 
