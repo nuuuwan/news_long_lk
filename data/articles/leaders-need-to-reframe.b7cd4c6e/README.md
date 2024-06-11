@@ -1,0 +1,105 @@
+# Leaders Need to Reframe the Return-to-Office Conversation
+
+## Summary 🤖
+
+Facts presented:
+
+- A number of high-profile companies including Google, Farmers Insurance, Disney, UPS, Boeing, IBM, and Amazon have required employees to return to the office.
+- The mandates for employees to return to the office have sparked backlash and social media fervor.
+- Research at Microsoft, SpaceX, and Apple found that how return to the office (RTO) mandates were introduced and implemented significantly impacted departures, especially among employees with longer tenure.
+- Social science research indicates that how a problem is framed greatly impacts outcomes.
+- Work design is suggested to be a collaborative, community problem-solving process instead of a contest between remote and in-office work.
+- Alterations to flexible work policies during and after the Covid pandemic led to substantial life changes for many employees that are not easy to undo.
+
+Opinions expressed:
+
+- The recent messaging from company leaders demanding that employees return to the office has often been adversarial or dictatorial and felt tone-deaf.
+- Existing narratives on flexible work policies need to be reframed with more helpful ones.
+- Leaders should recognize the trade-offs to manage in the flexibility conversation and be patient.
+- Company leaders need to focus on mutual value, not just organizational benefits when discussing remote work and RTO policies.
+- The leadership side of RTO has been dominated more by threats of reduced pay or firing for non-compliance, instead of encouraging employees to return to the office.
+- Focusing on making the office an energizing environment where employees want to be would be more effective than forcing employees into the office against their will.
+
+## Follow-up Questions 🤖
+
+1. What specific effects have policies such as the RTO mandates had on employee morale and retention?
+2. In which jobs or industries is balancing in-office and flexible working particularly challenging?
+3. Can you provide specific examples where reframing a problem or situation as an opportunity has led to significant improvements?
+4. What strategies can company leaders use to make the transition back to office work more appealing for employees who prefer flexible working arrangements?
+5. Can you elaborate on the social science research findings about framing an issue in terms of loss-versus-gain and how it impacts decision outcomes?
+6. How does common adversarial language like RTO versus WFH contribute to framing the problem as a winner-take-all contest?
+7. How might the employee value proposition need to change to incorporate the benefits of flexible work?
+8. How can employers facilitate high-quality relationships and connections in their organization when implementing a flexible work model?
+9. Can you elaborate on the psychological benefits employees get from being part of an exciting innovation or success, and how can organizations maximize this when balancing flexible and in-office work?
+10. Could you provide further insights on the job characteristics model and how it correlates with employee autonomy improving organizational outcomes?
+11. How can organizations approach work design in a data-driven and co-created manner for diverse companies with unique needs?
+12. Given that work design needs periodic reassessment, what best practices should leaders follow to continuously update their policies?
+13. How can leaders shift from using punishments to enticing employees back to the office, and what role can FOMO play in this? 
+14. Could you provide real-world examples where reframing the discussion around office and remote work has been successful?
+
+## Full Text
+
+[https://hbr.org/2024/06/leaders-need-to-reframe-the-return-to-office-conversation](https://hbr.org/2024/06/leaders-need-to-reframe-the-return-to-office-conversation)
+
+*12:15 PM, Monday, June 10, 2024*
+
+Johner Images/Getty Images
+
+There is no easy solution for companies trying to craft policies that balance in-office and flexible working, as there are undeniable benefits to both approaches. But much of the recent messaging from company leaders demanding that employees return to the office...more
+
+A steady stream of high-profile companies across a wide range of industries — including Google, Farmers Insurance, Disney, UPS, Boeing, IBM, and Amazon — have required employees to return to their offices. While their messaging about these RTO mandates has ranged in form and tone, much of it has felt tone-deaf at best and in many cases adversarial or even dictatorial. Unsurprisingly, the result has been backlash from employees and an explosion of social media fervor, as in the case of the viral appeal of Internet Brands’ recent video message to employees.
+
+There is no easy solution for companies trying to craft policies that balance in-office and flexible working, as there are undeniable benefits to both approaches. Not only that, recent research at Microsoft, SpaceX, and Apple found that the way RTO mandates were introduced and implemented had a significant impact on departures, particularly among employees with longer tenure. To be successful, one thing is certain: Companies need to engage in dialogue with employees and be explicit and honest about which outcomes are most critical.
+
+What’s clear from our discussions with executives and employees is that how the issue is framed is an oft-overlooked — but very important — piece of the puzzle. Framing refers to how an issue is presented; it’s the meaning layered onto an issue or situation that shapes how people think about its objective facts. More precisely, it’s about re-framing: deliberately replacing taken-for-granted cognitive frames with more helpful ones. Consider the example of framing a tricky situation as an opportunity instead of a problem.
+
+How to Reframe the Flexibility Conversation
+
+We know from social science research that how a problem is framed has a huge impact on outcomes. Framing an issue in terms of loss-versus-gain changes decision outcomes, just as thinking in terms of fixed-pie versus win-win shapes negotiations, and growth-versus-fixed mindsets enable stretch goals and learning.
+
+When the media presents endless headlines about the “fight,” “battle,” or “war” over flexible work, it matters. Framed with organizations’ interests on one side (e.g., the need for innovation, concerns about culture) and individual interests on the other (e.g., work-life balance, lower cost of living, less time spent commuting), the issue becomes harder to solve, because “wars” resist settlement and “contests” are either won or lost, not redesigned.
+
+Our conversations with executives and employees echo this and reveal a core assumption that wins for one side mean losses for the other. One of us, Mark, has studied remote and hybrid work for over 20 years and found ample evidence that framing the situation not as us-versus-them but as a communal objective requiring collective effort works. Meanwhile, Amy has found that how an innovation or improvement opportunity is framed affects its implementation success. Today’s leaders need to reframe their own narratives accordingly as they create and communicate flexible work policies. Here’s how.
+
+Step 1: Acknowledge the bind, and be patient.
+
+Given the prevailing sense that the flexibility conversation is one of employees versus organizations, leaders must start by acknowledging that there are trade-offs to manage.
+
+To begin with, the flexible work policies some organizations put in place during and immediately after the Covid pandemic prompted many employees to make significant life changes that are not easy to undo. Some moved away from high-cost cities, while others shifted care responsibilities for children or other family members. Altering these arrangements may take time and come with financial and other repercussions.
+
+Leaders must publicly recognize these very real ramifications, acknowledge how the organization contributed to them with past policy decisions, and commit to collaborating to find solutions. This does not mean walking away from policies because they’re unpopular, but rather recognizing that your employees may be facing very real and scary challenges and considering ways to help solve them.
+
+As you do this, be mindful of the language you use. Framing the flexibility conversation using adversarial language like we mentioned above — RTO versus WFH, the “battle over RTO,” etc. — solidifies the framing that this is a winner-take-all contest. If we frame work design instead as a collaborative, community problem-solving process, we stand a much better chance of starting the discussion on the right foot. Changing language is deceptively challenging, so don’t hesitate to use some of the tricks of the presentation trade that have been proven to work in eliminating other unwanted language.
+
+Step 2: Focus on mutual value, not just organizational benefits.
+
+Next, it’s critical to recognize that there remains a tremendous amount of mutually beneficial value left on the table.
+
+Take, for example, the common argument from leaders that corporate culture is at risk because of remote work. Framed this way, employees are faced with an adversarial trade-off: I want to spend time on what’s important to me, but leadership thinks company culture is more important than me spending time with my family.
+
+This frame fails to take into account and communicate to employees the significant research showing that being an active part of a strong community has substantial benefits for individuals, not just organizations. In our own work on the integrated employee value proposition, we find that feeling connected to one’s organizational community is an important part of what employees want and need from their work. Similarly, the longest study on human happiness found that happiness, health, and longevity come first and foremost from high-quality relationships, including those with colleagues.
+
+Or consider the oft-used argument that face-to-face work boosts innovation. Yes, there is strong evidence of this, as seen in the case of the video-gaming industry. Although innovation is typically seen as an organizational benefit rather than an individual one, remember that, as individuals, we also experience psychological benefits from being a part of an exciting innovation or success.
+
+It’s important to note that the same holds true in the other direction: Many of the arguments advocating flexibility focus on employees’ desire for more control over their work. Foundational research on the job characteristics model, however, shows that designing jobs with more employee autonomy has real and meaningful benefits for the organization as well — and not just by making employees happier and thereby reducing turnover. A greater sense of personal responsibility and ownership translates into higher performance and more efficient task allocation — which are real, meaningful benefits for the organization.
+
+Step 3: Approach the process as data-driven, co-created, iterative learning.
+
+There’s no universal playbook for working arrangements, as every organization’s work design must be informed by specific factors including its competitive landscape, industry norms, employee demographics, and history. What’s needed is an iterative, collective approach that brings organization leaders and employees together. Frame this as a data-driven, collaborative journey toward mutually beneficial progress.
+
+Equally important, you need to accept that you won’t get it right the first time, and that’s ok. An iterative learning process takes time, and missteps along the way are a critical part of learning. Don’t assume that the first policy you create is the right one, or even that what is right today will remain right in the future — in fact, go into the process expecting any plan to need adjusting. A critical part of your process is recognizing — and communicating — up front that periodic reassessment of any policy will be needed.
+
+The leadership side of the RTO discussion has been dominated by sticks rather than carrots —  as in, employees need to get back into the office or else — with punishments for noncompliance ranging from reduced pay to firing.
+
+Leaders must stop trying to push employees into the office against their will and focus instead on making the office an energizing environment where employees want to be. Take a framing lesson from the social media playbook, in which FOMO (fear of missing out) has proven to be a massive driver of behavior and try to create FOMOO (fear of missing out on the office).
+
+Readers Also Viewed These Items
+
+The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter
+
+People Skills for a Virtual World Collection (6 Books) (HBR Emotional Intelligence Series)
+
+Read more on Hybrid work
+
+Remote work and Work environments
+

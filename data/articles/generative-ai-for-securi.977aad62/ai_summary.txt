@@ -1,0 +1,18 @@
+Facts:
+
+- Cybercriminals are increasingly using Generative AI (GenAI) tools to carry out ransomware attacks and other advanced breaches rapidly and efficiently.
+- Generative AI can also be used defensively, to automate the investigative process of security alerts for businesses.
+- The first step in GenAI security involves creating an instrumented infrastructure that offers visibility into all potential threat areas, such as ransomware.
+- Effective security requires three lines of defence: attack detection, investigation, and response. Prevention and detection measures are not adequate as they may be bypassed by threat actors.
+- Vulnerability reduction requires robust data infrastructure where information is centralized, indexed and readily available. This should contain data from diverse sources including user audit records, network connections, business application telemetry and security alerts.
+- To keep up with the speed of ransomware, all three components of security (detection, investigation and response) should be automated, with GenAI handling the major portion of the investigative load.
+- Consulting firm Cyberuptive used GenAI from Trellix Wise to reduce response times, increase incident resolution efficiency and enhance their overall security posture.
+- Amazon Bedrock is a service that provides high-performing foundation models from leading AI companies. It includes all the necessary features to build generative AI applications with security, privacy, and responsible AI.
+
+Opinions:
+
+- Security operations staff feeling helpless against the increasing threat from AI-enabled cyberattacks is a significant challenge.
+- The potential of GenAI to enhance security is touted as high, a view shared by 91% of CISOs according to a study by Trellix.
+- The article suggests that automating investigations with Generative AI using a predefined list of vital questions can help connect strategic defense components.
+- According to the authors, GenAI can not only ask these important investigative questions but also make inferences, much like a human analyst.
+- The article expresses the opinion that using GenAI can significantly augment an organization's cyber defence strategy by giving them the means to match the sophistication of modern cybercriminals.

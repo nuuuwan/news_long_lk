@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-10 18:17:33**
+Last Updated **2024-06-11 06:29:32**
+
+## 2024-06-11
+
+* [Presidential pardons shouldn’t encourage impunity - EDITORIAL](data/articles/presidential-pardons-sho.5b2349e5/README.md) `dailymirror.lk`
+* [Sri Lanka is now well on the way to harnessing nuclear energy](data/articles/sri-lanka-is-now-well-on.498d422d/README.md) `dailymirror.lk`
 
 ## 2024-06-10
 
+* [Leadership development – not a waste of time, energy and money when done right](data/articles/leadership-development-n.3a0b7e1a/README.md) `ft.lk`
+* [Proposed Economic Transformation Act: Will super-regulator put maritime sector in crisis?](data/articles/proposed-economic-transf.66e260d0/README.md) `ft.lk`
+* [Dr. Siri Kannangara: His healing and teaching remain within us](data/articles/dr-siri-kannangara-his-h.c749d7d5/README.md) `ft.lk`
+* [Sri Lanka’s struggle with election phobia](data/articles/sri-lanka-s-struggle-wit.e5ca2c8a/README.md) `ft.lk`
+* [Generative AI for Security: Harnessing Amazon Bedrock for Customer Impact](data/articles/generative-ai-for-securi.977aad62/README.md) `hbr.org`
+* [How to Get Your Team to Actually Speak Up](data/articles/how-to-get-your-team-to.9ea569a1/README.md) `hbr.org`
+* [Leaders Need to Reframe the Return-to-Office Conversation](data/articles/leaders-need-to-reframe.b7cd4c6e/README.md) `hbr.org`
 * [How “Carewashing” Alienates Employees](data/articles/how-carewashing-alienate.664a2243/README.md) `hbr.org`
 * [Letters from now: Election musings](data/articles/letters-from-now-electio.61c7723f/README.md) `ft.lk`
 * [Poverty and homelessness stare elders in the face - EDITORIAL](data/articles/poverty-and-homelessness.0d136c6b/README.md) `dailymirror.lk`
