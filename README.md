@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-11 06:29:32**
+Last Updated **2024-06-11 18:18:25**
 
 ## 2024-06-11
 
+* [In Defense of Degrowth](data/articles/in-defense-of-degrowth.74660b72/README.md) `hbr.org`
+* [India voted emphatically for political, social, and economic inclusion, for a more consultative government, and for the sanctity of the Constitution.](data/articles/india-voted-emphatically.dbceae7f/README.md) `dbsjeyaraj.com`
 * [Presidential pardons shouldn’t encourage impunity - EDITORIAL](data/articles/presidential-pardons-sho.5b2349e5/README.md) `dailymirror.lk`
 * [Sri Lanka is now well on the way to harnessing nuclear energy](data/articles/sri-lanka-is-now-well-on.498d422d/README.md) `dailymirror.lk`
 
@@ -15,6 +17,7 @@ Last Updated **2024-06-11 06:29:32**
 * [Proposed Economic Transformation Act: Will super-regulator put maritime sector in crisis?](data/articles/proposed-economic-transf.66e260d0/README.md) `ft.lk`
 * [Dr. Siri Kannangara: His healing and teaching remain within us](data/articles/dr-siri-kannangara-his-h.c749d7d5/README.md) `ft.lk`
 * [Sri Lanka’s struggle with election phobia](data/articles/sri-lanka-s-struggle-wit.e5ca2c8a/README.md) `ft.lk`
+* [Sri Lanka’s struggle with election phobia](data/articles/sri-lanka-s-struggle-wit.962a377d/README.md) `ft.lk`
 * [Generative AI for Security: Harnessing Amazon Bedrock for Customer Impact](data/articles/generative-ai-for-securi.977aad62/README.md) `hbr.org`
 * [How to Get Your Team to Actually Speak Up](data/articles/how-to-get-your-team-to.9ea569a1/README.md) `hbr.org`
 * [Leaders Need to Reframe the Return-to-Office Conversation](data/articles/leaders-need-to-reframe.b7cd4c6e/README.md) `hbr.org`
