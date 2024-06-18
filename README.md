@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-18 09:21:20**
+Last Updated **2024-06-18 18:17:09**
+
+## 2024-06-18
+
+* [When Your New Boss Is a Micromanager](data/articles/when-your-new-boss-is-a.ee7d12b4/README.md) `hbr.org`
+* [“The present time is opportune for a pledge to be taken together by the prospective candidates at the presidential election to support the implementation of the 13th Amendment and take forward the larger reconciliation process”- National Peace Council](data/articles/the-present-time-is-opp.ac234003/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-17
 
