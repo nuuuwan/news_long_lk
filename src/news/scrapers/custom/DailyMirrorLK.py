@@ -17,7 +17,10 @@ class DailyMirrorLK(Scraper):
         for div_article_summary in div_article_summary_list:
             a = div_article_summary.find('a')
             url = a['href']
-            title = div_article_summary.find('h3').text.strip()
+            elem_h3 = div_article_summary.find('h3')
+            if not elem_h3:
+                continue
+            title = elem_h3.text.strip()
             article_head = ArticleHead(url=url, title=title)
             article_head_list.append(article_head)
         return article_head_list
