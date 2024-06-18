@@ -1,0 +1,13 @@
+Facts:
+- The concept of "gamification" is a term used to describe the use of video game mechanics in non-gaming scenarios, like education, work, health and fitness.
+- Game designer Jane McGonigal coined the term "blissful productivity" during her 2010 TED Talk and suggested that making the real world more game-like could direct people's productivity towards solving major issues like poverty and climate change.
+- Critics have suggested that gamification has turned out to be a tool for coercion and control, rather than a way to promote productivity and resolve.
+- Gamified systems, including apps like Apple, Uber, Strava, and Microsoft, use rewards and challenges to promote behavior.
+- Despite widespread adoption, the effectiveness of gamification still remains unclear and hard to assess due to its varied applications and lack of comprehensive data.
+
+Opinions:
+- The author suggests that gamification is ultimately serving the interests of commercial businesses rather than truly benefitting users.
+- McGonigal's idea that we can make the world a better place by making it more like a video game is touted as vague and unclear.
+- Critics, including video game designers and journalists, opposed the concept of gamification, arguing that it contradicts the essence of actual gameplay and creativity.
+- Reviewers criticized gamification's usage as another method of regulation and surveillance, arguing that it detracts from the intended game experience.
+- The author suggests that the NPC (non-player character) metaphor is a perfect representation of the real-life consequences of gamification, as it indicates a surrender masquerading as empowerment.

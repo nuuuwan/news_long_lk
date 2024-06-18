@@ -1,0 +1,20 @@
+Facts:
+- More than four years since the start of the Covid-19 pandemic, the issue of inefficient meetings(digital and in-person) as a barrier to productivity has accentuated, which affects hundreds of billions of dollars of value.
+- Microsoft's research shows 68% of employees saying they don’t have enough uninterrupted focus time during the workday due to inefficient meetings.
+- Virtual meetings produce a considerable amount of data which can be applied in a variety of beneficial ways to improve meeting culture.
+- Researchers have analysed data from 40 million meetings from 11 organizations involving over 450,000 employees facilitated by online platforms such as Microsoft Teams, Cisco Webex, and Zoom.
+- For the average meeting, close to 400 data points are produced, quantifying several aspects of organizational collaboration including time spent, meeting hygiene issues, modality, etc.
+- As offices are reopening, there was an expectation of reduced virtual meetings but the data shows us the opposite; In 2022, employees attended an average of 10.32 meetings per week as compared to 8.3 in 2021.
+- It has also been observed that there's an increase in the no-participation rates' in small group meetings, an indication of a meeting that could have been an email.
+- Camera enablement and no-participation rates show strong correlations with the retention of employees.
+- By implementing various data-informed measures, meetings can be improved considerably by reducing their numbers, making them smaller and shorter.
+- Without deliberate and informed effort, meeting culture tends to gravitate towards inefficiency.
+
+Opinions:
+- The sudden switch to virtual collaboration due to the pandemic, although problematic, had a beneficial side-effect (data production) that can be harnessed for meeting culture improvement.
+- The consistent high number of virtual meetings, despite employees' return to offices, symbolizes a significant shift in employee preference.
+- The rise of the “no-participation rate” in small group meetings suggests that the cost of unnecessary meetings is increasing.
+- Often, employees leaving the organization within one year of the sample period (attrition group) have lower camera enablement rates and higher no-participation rates in small group meetings than those who stayed with the organization (retention group).
+- The authors advised against drawing conclusions at an individual level from this data, but found the correlations too strong to ignore at a sufficient scale.
+- In addition to the analytical findings, the authors argue, based on their engagement with companies, that meeting culture should be treated as a critical part of company culture, with defined roles and responsibilities.
+- The authors appear to suggest that leveraging data for monitoring and improvement is the key to unlocking efficiency and productivity gains.

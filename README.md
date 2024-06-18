@@ -2,10 +2,39 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-11 18:18:25**
+Last Updated **2024-06-18 09:21:20**
+
+## 2024-06-17
+
+* [Thinking outside comfort zones to achieve progress](data/articles/thinking-outside-comfort.cc86e568/README.md) `ft.lk`
+* [Remedies without solutions to crisis with multiple tragedies](data/articles/remedies-without-solutio.8f38e3b0/README.md) `ft.lk`
+* [Assessing the Economic Transformation Bill](data/articles/assessing-the-economic-t.3c0f79e7/README.md) `ft.lk`
+* [Want to change the ‘system’? If yes, then read this](data/articles/want-to-change-the-syste.32cda1b1/README.md) `ft.lk`
+* [Exploring dynamic tax environment: Contemporary issue for SME](data/articles/exploring-dynamic-tax-en.c22b7ee9/README.md) `ft.lk`
+* [Making the Time to Build Your Side Hustle](data/articles/making-the-time-to-build.3b042f80/README.md) `hbr.org`
+* [How Retailers Became Ad Platforms](data/articles/how-retailers-became-ad.3cec3442/README.md) `hbr.org`
+* [Hybrid Work Has Changed Meetings Forever](data/articles/hybrid-work-has-changed.e8754f32/README.md) `hbr.org`
+
+## 2024-06-16
+
+* [Former Cabinet Minister Nissanka  Wijeyeratne  was a  Versatile and Multi-Faceted  Personality.](data/articles/former-cabinet-minister.a04ff96d/README.md) `dbsjeyaraj.com`
+* [Will  the current positions taken by Sajith Premadasa and Anura  Dissanayake Regarding the 13th Amendment  help bring about a positive change in the misconceptions among Sinhalese society about devolution of power?](data/articles/will-the-current-positio.c64ca6cf/README.md) `dbsjeyaraj.com`
+* [The proposal by President Ranil Wickremesinghe to grant a six months extension to Sri Lanka’s Attorney General has put the hapless holder of that office in the centre of a vicious political whirlwind](data/articles/the-proposal-by-presiden.a889c3d8/README.md) `dbsjeyaraj.com`
+
+## 2024-06-14
+
+* [How to Get Results Quickly After a Merger or Acquisition](data/articles/how-to-get-results-quick.3ac8a4dc/README.md) `hbr.org`
+* [These board games want you to beat climate change](data/articles/these-board-games-want-y.23cfced6/README.md) `technologyreview.com`
+* [This London non-profit is now one of the biggest backers of geoengineering research](data/articles/this-london-non-profit-i.b3613071/README.md) `technologyreview.com`
+* [Biotech companies are trying to make milk without cows](data/articles/biotech-companies-are-tr.938fc88e/README.md) `technologyreview.com`
+
+## 2024-06-13
+
+* [How gamification took over the world](data/articles/how-gamification-took-ov.b9e594d0/README.md) `technologyreview.com`
 
 ## 2024-06-11
 
+* [The Economic Transformation Bill offers imaginary solutions to real problems. The Bill is not a blueprint for efficiency but its antithesis.](data/articles/the-economic-transformat.c09445c4/README.md) `dbsjeyaraj.com`
 * [In Defense of Degrowth](data/articles/in-defense-of-degrowth.74660b72/README.md) `hbr.org`
 * [India voted emphatically for political, social, and economic inclusion, for a more consultative government, and for the sanctity of the Constitution.](data/articles/india-voted-emphatically.dbceae7f/README.md) `dbsjeyaraj.com`
 * [Presidential pardons shouldn’t encourage impunity - EDITORIAL](data/articles/presidential-pardons-sho.5b2349e5/README.md) `dailymirror.lk`
@@ -22,6 +51,7 @@ Last Updated **2024-06-11 18:18:25**
 * [How to Get Your Team to Actually Speak Up](data/articles/how-to-get-your-team-to.9ea569a1/README.md) `hbr.org`
 * [Leaders Need to Reframe the Return-to-Office Conversation](data/articles/leaders-need-to-reframe.b7cd4c6e/README.md) `hbr.org`
 * [How “Carewashing” Alienates Employees](data/articles/how-carewashing-alienate.664a2243/README.md) `hbr.org`
+* [Europe chart of the week: pro-EU front holds](data/articles/europe-chart-of-the-week.b3ce8997/README.md) `eiu.com`
 * [Letters from now: Election musings](data/articles/letters-from-now-electio.61c7723f/README.md) `ft.lk`
 * [Poverty and homelessness stare elders in the face - EDITORIAL](data/articles/poverty-and-homelessness.0d136c6b/README.md) `dailymirror.lk`
 * [From crisis architects to change makers: Rethinking Ranil Wickremesinghe’s economic policies](data/articles/from-crisis-architects-t.eb400845/README.md) `ft.lk`
@@ -100,6 +130,7 @@ Last Updated **2024-06-11 18:18:25**
 * [A New Model for Continuous Transformation](data/articles/a-new-model-for-continuo.bfd4f1fc/README.md) `hbr.org`
 * [Don’t Post That Job Listing Before Taking These 5 Steps](data/articles/don-t-post-that-job-list.37d78687/README.md) `hbr.org`
 * [How to Work for an Overly Critical Boss](data/articles/how-to-work-for-an-overl.d148fe72/README.md) `hbr.org`
+* [The US and China sit down at Shangri-La](data/articles/the-us-and-china-sit-dow.7e17586a/README.md) `eiu.com`
 * [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.7861315e/README.md) `ft.lk`
 * [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.1fdc0e56/README.md) `ft.lk`
 * [Trade unions must realise their limits - EDITORIAL](data/articles/trade-unions-must-realis.efaf0650/README.md) `dailymirror.lk`
