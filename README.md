@@ -2,11 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-18 18:17:09**
+Last Updated **2024-06-19 06:28:00**
+
+## 2024-06-19
+
+* [The West and the rest: Is there another way of mapping the global divide?](data/articles/the-west-and-the-rest-is.b7054d80/README.md) `ft.lk`
+* [Are we ready for the parate party to come to an end?](data/articles/are-we-ready-for-the-par.d6a27d0d/README.md) `ft.lk`
+* [Adani Wind Power Project: Making a curvy record straight needs more effort than quoting tweets](data/articles/adani-wind-power-project.6f9d1f5c/README.md) `ft.lk`
+* [SriLankan Airlines: Navigating a new era through privatisation](data/articles/srilankan-airlines-navig.a627cce6/README.md) `ft.lk`
 
 ## 2024-06-18
 
+* [Research: Customer Referrals Are Contagious](data/articles/research-customer-referr.9a067aa5/README.md) `hbr.org`
+* [The Most Strategic Leaders Excel in 4 Disciplines](data/articles/the-most-strategic-leade.0c8d72c7/README.md) `hbr.org`
 * [When Your New Boss Is a Micromanager](data/articles/when-your-new-boss-is-a.ee7d12b4/README.md) `hbr.org`
+* [Indian External  Affairs  Minister S.Jaishankar to Visit Sri Lanka on 20 June “ to review progress in projects in various sectors such as renewable energy and connectivity” ;two cases filed in Lankan Supreme Court  against $ 442-million wind energy project of Adani Green in North.](data/articles/indian-external-affairs.60437805/README.md) `dbsjeyaraj.com`
 * [“The present time is opportune for a pledge to be taken together by the prospective candidates at the presidential election to support the implementation of the 13th Amendment and take forward the larger reconciliation process”- National Peace Council](data/articles/the-present-time-is-opp.ac234003/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-17

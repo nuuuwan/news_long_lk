@@ -1,0 +1,13 @@
+Facts:
+- New research indicates that customers who join a service or purchase through a referral tend to make more purchases as well as refer more new customers (about 30-57% more) than other customers. This concept is referred to as "referral contagion."
+- Data from over 41 million customers of a cash-back app was used to substantiate this research.
+- The study also replicated this finding using data from My Yoga Teacher, a platform that links yoga students with personal instructors, and found that referral contagion is due to referred customers sending more referral invites.
+- Experiments reveal that referred customers view the act of referring as more socially appropriate, also contributing to referral contagion.
+- In an experiment involving over 10 million customers, adding a simple reminder in a push notification that the customer had joined through a referral led to a 21% increase in successful referrals.
+- Analysis shows that while individual customers occasionally discontinue their use of a service or app, this decision doesn't have a significant impact on the engagement of the customers they referred.
+
+Opinions:
+- The article suggests that the research offers vital insights for business owners and marketing managers, particularly on the need to reevaluate investment in referral programs while accounting for the amplified potential through referral contagion.
+- The authors express concern over the potential risks of heavy reliance on referrals for customer acquisition, as negative perceptions could spread via the same channels fostering positive contagion.
+- It's advisable, according to the piece, to balance valuable referral programs with other marketing efforts to prevent the brand from becoming overly dependent on one method and protect against fluctuations in customer perceptions.
+- Despite acknowledging the risks, the authors seem largely positive about the strategy of encouraging referrals due to the benefits observed in their studies.
