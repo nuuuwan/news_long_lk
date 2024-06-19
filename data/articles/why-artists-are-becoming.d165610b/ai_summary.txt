@@ -1,0 +1,24 @@
+Facts:
+- Researchers from Google DeepMind asked 20 professional comedians to utilize popular AI language models for writing jokes.
+- The AI models were found to be useful for producing initial drafts and structuring routines, but were unable to generate original or funny content.
+- A computer science researcher at Columbia University noted that creative writing often requires deviation from norms which AI models can't accomplish.
+- Artists and other creatives are seeing AI as a tool to augment human creativity rather than replace it.
+- There have been lawsuits filed against AI companies for using copyrighted work without permission or compensation.
+- Companies like Adobe are marketing their AI offerings as an ethical alternative that doesn't infringe on copyrights.
+- The University of Chicago researchers have created tools like Nightshade and Glaze to counter AI data scraping and copying.
+- A new art portfolio platform, Cara, has gained popularity by excluding AI-generated content and protecting artists' styles.
+- Apple has launched a suite of AI-based capabilities, called Apple Intelligence, that promises to deliver personalized (and secure) AI services.
+- Meta uses data from users of its platforms to train its generative AI models.
+- Microsoft is focusing heavily on AI, described as the world's most aggressive gatherer of AI talent, technologies, and tools.
+- OpenAI has hired many lobbyists as AI legislation is being considered globally.
+- The UK has tested AI-powered CCTV cameras in some of the largest train stations.
+- Clearview AI agreed to an unusual settlement in a class-action lawsuit, offering a 23% stake in the company to Americans whose faces are in its databases.
+
+Opinions:
+- The tools developed by University of Chicago researchers, designed to protect artist's data from being stolen by AI, are seen as grassroots efforts to shift power structures in the AI field.
+- Currently, society is deciding how much creative power should be given to AI tools.
+- Over two years, public opinion has shifted towards greater caution against potential harms of AI, as evidenced by social media posts about opting out of AI scraping.
+- The DeepMind study provides a good example of how AI can assist creatives but can't replace human originality.
+- AI models will always be limited to their training data, and quickly become outdated.
+- Apple's use of AI to offer personalized services, while ensuring data security, is seen as a contrast to other tech giants.
+- Emotion recognition technology, used in the UK's train station AI trials, is criticized as unreliable and ineffective.
