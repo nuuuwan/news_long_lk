@@ -1,0 +1,19 @@
+Facts:
+
+- The research evaluated 323 companies (143 from the U.S. and 180 from India) undergoing data and analytics transformations across sectors such as telecom, healthcare, energy, automotive, logistics, professional and financial services.
+- Almost half of the firms had annual sales exceeding $100 million, and 20% generated sales over $1 billion.
+- Top-rated priorities for firms have shifted from creating data-driven cultures, adopting advanced analytics capabilities, and employing a sophisticated D&A strategy, to creating business value to achieve growth goals.
+- The survey included both senior executives and data analytics managers from each company, with roles ranging from core business function directors, vice presidents, and other C-suite members.
+- The survey asked senior executives to compare their companies' performance on eight Key Performance Indicators (KPIs), including growth measures (market share growth, sales growth, profit growth), financial metrics (revenue and profitability), and customer-centric outcomes (customer acquisition, customer retention, satisfaction).
+- The study reveals that as businesses progressed to high levels of data and analytics capabilities, KPIs showed a decline, suggesting a ceiling effect at the middle stage of data maturity.
+- When companies show alignment between senior leaders and data analysts on their data maturity level, they experience positive KPIs at each transition stage of data maturity.
+- The study provides a self-assessment tool and key action steps for firms to enhance internal alignment on data and analytics capabilities.
+
+Opinions:
+
+- The authors suggest that the path to actual value creation is not straightforward and requires not only an advanced level of analytics but also alignment of analytics capabilities with business goals.
+- They argue that as firms move from low to medium maturity, they see a dramatic improvement in KPIs, but the improvements decrease as companies advanced beyond the middle stage of data maturity.
+- The researchers speculate that companies need "something more" than just additional investments in talent and technology to exceed the mid-level of data maturity.
+- The authors recommend that companies, especially those that have begun their digital transformation journey, ensure better alignment between senior leaders and those tasked with more operational data roles before making further talent and technology investments.
+- They believe companies can boost their performance in growth, financial, and customer-related outcomes by understanding the interplay between alignment and the level of data maturity.
+- They emphasize the importance of both analytic maturity and alignment for delivering a real and sustained competitive advantage in businesses.

@@ -1,0 +1,20 @@
+1. What kind of companies participated in the survey regarding data analytics capabilities? 
+2. How does improved data maturity contribute to a company's improvement in KPIs? 
+3. What were the chief findings regarding the impact of aligning analytics with business goals? 
+4. Can you explain the surprising trend discovered in the research regarding moving beyond mid-range data maturity? 
+5. Can you elaborate on the significance of internal alignment on a company's level of data maturity? 
+6. What is the impact of moving from medium to high data maturity? 
+7. What steps can companies take to align their organization when it comes to data and analytics capabilities? 
+8. How can the seven dimensions referred to in the article impact a firm's analytics readiness? 
+9. What is the role of senior leaders in maintaining alignment in the company's digital transformation journey? 
+10. How does understanding the interplay between alignment and the level of data maturity boost company performance? 
+11. How does the study suggest leaders should move forward to create more value with data analytics? 
+12. Could you further explain the benefits of using the checklist suggested in the study? 
+13. What is the "ceiling effect" and how does it relate to data maturity in corporates? 
+14. How should corporates handle the transition from the medium to high data maturity stage? 
+15. Which sectors were most represented in the survey by the companies undergoing data and analytics transformations?
+16. Based on the research, how does higher maturity levels impact decision-making in organizations? 
+17. How does a company's data maturity level impact its operations? 
+18. How can companies ensure they get the most out of their investments in analytics development? 
+19. Should the focus be more on talent, technology or culture when a company is investing in analytics for improved business performance?
+20. What are the potential drawbacks for companies that fail to align their analytics capabilities with business goals?
