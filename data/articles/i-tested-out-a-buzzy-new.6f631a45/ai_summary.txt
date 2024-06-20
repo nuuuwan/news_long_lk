@@ -1,0 +1,21 @@
+Facts:
+
+- Kuaishou, a Chinese company with over 600 million active users, has released the first freely available text-to-video generative AI model, called Kling.
+- The model is capable of generating videos up to two minutes long with a frame rate of 30fps and video resolution up to 1080p.
+- To access Kling, users need to download Kuaishou’s video-editing tool, sign up, and fill out an additional form.
+- The model requires at least part of the prompts to be in Chinese.
+- The generation process takes around three minutes per video.
+- All videos generated are currently capped at five seconds long and appear blurry and grainy.
+- Kling uses publicly available data from the global internet for model training, but specifics about the training data are not provided.
+- One week after Kling's release, Luma AI released a similar model for public usage. Runway and ByteDance are also reportedly working on their generative video tools.
+- An open-source AI community in China has put together a collection of Kling-generated videos highlighting both impressive results and failures.
+
+Opinions:
+
+- The author believes the videos produced by Kling are commendable as they don't deviate from the prompts and the physics seem right.
+- The author feels that the limitations of Kling, such as the quality of the videos and the lack of longer duration, are its major shortcomings.
+- Despite its flaws, they think it is unfair to compare these results with demos like Sora's, which were selected by OpenAI for release to the public.
+- Guizang, an AI artist, asserts that Kling's general capabilities are good and its disadvantage lies in the aesthetics, which can be fixed.
+- Shen Yang, a professor studying AI and media, says the limitations of Kling mean it will impact the short-video industry more than the movie industry.
+- Guizang predicts that by the end of the year, significantly more text-to-video tools will be available.
+- The author speculates that AI could disrupt the content-creating scene for short-form videos.

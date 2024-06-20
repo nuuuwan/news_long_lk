@@ -2,13 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-20 06:28:01**
+Last Updated **2024-06-20 18:19:06**
 
 ## 2024-06-20
 
+* [Inside the Success of South Korean Brands](data/articles/inside-the-success-of-so.cf0ba28d/README.md) `hbr.org`
 * [World Bank says 80% of global population will experience slower growth than in pre-COVID decade](data/articles/world-bank-says-80-of-gl.1d894fab/README.md) `ft.lk`
 * [Taxation should be an investment people are making for current and future wellbeing](data/articles/taxation-should-be-an-in.95e8ce85/README.md) `ft.lk`
 * [Indo-Lanka unification, 13A, term-extension, and a ‘pioneering intellectual of nonalignment’](data/articles/indo-lanka-unification-1.5696138c/README.md) `ft.lk`
+* [Responding to Shantha Jayaratne’s bogus claims](data/articles/responding-to-shantha-ja.1fd5748a/README.md) `ft.lk`
 * [Responding to Shantha Jayaratne’s bogus claims](data/articles/responding-to-shantha-ja.9be89b3a/README.md) `ft.lk`
 
 ## 2024-06-19
@@ -18,8 +20,11 @@ Last Updated **2024-06-20 06:28:01**
 * [The West and the rest: Is there another way of mapping the global divide?](data/articles/the-west-and-the-rest-is.b7054d80/README.md) `ft.lk`
 * [Are we ready for the parate party to come to an end?](data/articles/are-we-ready-for-the-par.d6a27d0d/README.md) `ft.lk`
 * [Adani Wind Power Project: Making a curvy record straight needs more effort than quoting tweets](data/articles/adani-wind-power-project.6f9d1f5c/README.md) `ft.lk`
+* [I tested out a buzzy new text-to-video AI model from China](data/articles/i-tested-out-a-buzzy-new.6f631a45/README.md) `technologyreview.com`
 * [SriLankan Airlines: Navigating a new era through privatisation](data/articles/srilankan-airlines-navig.a627cce6/README.md) `ft.lk`
+* [President Wickremesinghe Flays Supreme Court for Allegedly Engaging in “Judicial  Cannibalism”;  President says  SC Ruling on Gender Equality Bill  Violates Parliament’s powers and a Select Committee must be  Appointed to Look into the Matter](data/articles/president-wickremesinghe.97fb9e0c/README.md) `dbsjeyaraj.com`
 * [Australian  Titanium Sands Limited (TSL) Company’s Multi-billion  Mineral Sands Extracting Project In Mannar Island Meets with Protests of People Due to Existential Concerns Over Environmental Consequences](data/articles/australian-titanium-sand.073368e4/README.md) `dbsjeyaraj.com`
+* [Mannar Catholic Bishop and Three  Prominent Environmentalists  Petition Supreme Court in the Public Interest against the proposed 250 MW Mannar Wind Power Project by Adani Green Energy.](data/articles/mannar-catholic-bishop-a.e150bd7b/README.md) `dbsjeyaraj.com`
 * [1961ம் ஆண்டு தமிழர் சத்தியாக்கிரகப் போராட்ட காலத்தில் அன்றைய யாழ்ப்பாண அரசாங்க அதிபர் நிசங்க விஜெயரத்ன‌வின் அனுபவங்கள்](data/articles/1961ம-ஆண-ட-தம-ழர-சத-த-ய.3d2b1943/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-18

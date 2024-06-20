@@ -1,0 +1,10 @@
+1. How does the text-to-video generative AI model, Kling, work and what sets it apart from similar models?
+2. What kind of impact can this advancement in artificial intelligence have on content creation, particularly in the short-video industry?
+3. How would the functionality of AI-generated videos like Kling potentially change the dynamics of platforms reliant on star creators?
+4. How does the language barrier affect the adaptation and use of AI technology like Kling? 
+5. How are companies like Kuaishou and ByteDance potentially planning to leverage technology like Kling in the future?
+6. With the rise of text-to-video tools, what are the potential impacts on video content generation and consumption?
+7. What are some of the limitations and challenges currently faced by models like Kling?
+8. How does the company ensure intellectual property protections in the context of using publicly available data for training the model? 
+9. How might AI tools like Kling change the landscape of video editing and production?
+10. How has Kling been received by Kuaishou’s user base so far, and what feedback has been provided for its improvement?
