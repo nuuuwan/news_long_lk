@@ -1,0 +1,19 @@
+Facts presented:
+- Generative AI models promise a revolution in the video game industry by introducing new types of game experiences.
+- Open-world games are extremely popular due to their explorative nature.
+- The venture firm Andreessen Horowitz has launched a $600 million fund, the Games Fund, dedicated explicitly to investing in gaming startups.
+- In 2023, 87% of game studios used AI in their workflow in one or another way, and 99% planned to use AI in the future.
+- Ubisoft employs an AI tool, Ghostwriter, to streamline the process of writing basic NPC dialogue.
+- California-based startup, Inworld AI, is creating a tool to develop NPC's that can generate dynamic, unscripted dialogue and actions.
+- There are developments in using AI to create immersive personal players in virtual gaming worlds from companies like Bitpart and Character AI.
+- Jeff Orkin, founder of Bitpart, used his gaming AI to role-play social situations.
+- Some experiments suggest that AI-generated characters will interact more naturally with each other, such as in Stanford University's Smallville game.
+
+Opinions expressed:
+- Not all gamers might want never-ending open-ended conversations between the player and the NPCs. Some may prefer the traditional model where a game is professionally designed and finite.
+- The expectation of what a video game is and what it offers may need to change to accommodate the possibilities provided by generative AI.
+- AI's potential to change gaming is exciting, but its practical implementation should be approached with caution.
+- The increased realism and constant input necessitated by AI-generated content may prove too tedious for some players.
+- NPC's driven by AI could create new narrative experiences focused on conversation and character personalities.
+- Generative AI's ability to render characters that feel alive may change the definition and purpose of games. It could be used for simulations, for testing economic policies for example.
+- The future of games might not involve simulated worlds with pretend characters at all. Something entirely unimagined might be in store.

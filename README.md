@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-21 06:26:34**
+Last Updated **2024-06-21 18:17:14**
 
 ## 2024-06-21
 
+* [How Micro-Choices and Games Motivate Gig Workers](data/articles/how-micro-choices-and-ga.0b4431b3/README.md) `hbr.org`
 * [Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024](data/articles/addressing-the-polycrisi.d1640f77/README.md) `ft.lk`
 * [RW’s ETB and NPP’s ST](data/articles/rw-s-etb-and-npp-s-st.1e7d6efe/README.md) `ft.lk`
 * [Unifying the country via macroeconomic fundamentals to resolve economic crisis soon](data/articles/unifying-the-country-via.001bb084/README.md) `ft.lk`
@@ -19,6 +20,7 @@ Last Updated **2024-06-21 06:26:34**
 * [Indo-Lanka unification, 13A, term-extension, and a ‘pioneering intellectual of nonalignment’](data/articles/indo-lanka-unification-1.5696138c/README.md) `ft.lk`
 * [Responding to Shantha Jayaratne’s bogus claims](data/articles/responding-to-shantha-ja.1fd5748a/README.md) `ft.lk`
 * [Responding to Shantha Jayaratne’s bogus claims](data/articles/responding-to-shantha-ja.9be89b3a/README.md) `ft.lk`
+* [How generative AI could reinvent what it means to play](data/articles/how-generative-ai-could.aef660d6/README.md) `technologyreview.com`
 
 ## 2024-06-19
 
@@ -53,6 +55,7 @@ Last Updated **2024-06-21 06:26:34**
 * [Making the Time to Build Your Side Hustle](data/articles/making-the-time-to-build.3b042f80/README.md) `hbr.org`
 * [How Retailers Became Ad Platforms](data/articles/how-retailers-became-ad.3cec3442/README.md) `hbr.org`
 * [Hybrid Work Has Changed Meetings Forever](data/articles/hybrid-work-has-changed.e8754f32/README.md) `hbr.org`
+* [G7 affirms Western support for Ukraine, for now](data/articles/g7-affirms-western-suppo.d312e7ef/README.md) `eiu.com`
 
 ## 2024-06-16
 
