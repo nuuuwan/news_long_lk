@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-20 18:19:06**
+Last Updated **2024-06-21 06:26:34**
+
+## 2024-06-21
+
+* [Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024](data/articles/addressing-the-polycrisi.d1640f77/README.md) `ft.lk`
+* [RW’s ETB and NPP’s ST](data/articles/rw-s-etb-and-npp-s-st.1e7d6efe/README.md) `ft.lk`
+* [Unifying the country via macroeconomic fundamentals to resolve economic crisis soon](data/articles/unifying-the-country-via.001bb084/README.md) `ft.lk`
 
 ## 2024-06-20
 
+* [3 Ways to Support Employees with Bipolar Disorder](data/articles/3-ways-to-support-employ.9778b0b7/README.md) `hbr.org`
 * [Inside the Success of South Korean Brands](data/articles/inside-the-success-of-so.cf0ba28d/README.md) `hbr.org`
 * [World Bank says 80% of global population will experience slower growth than in pre-COVID decade](data/articles/world-bank-says-80-of-gl.1d894fab/README.md) `ft.lk`
 * [Taxation should be an investment people are making for current and future wellbeing](data/articles/taxation-should-be-an-in.95e8ce85/README.md) `ft.lk`
