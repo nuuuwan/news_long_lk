@@ -1,0 +1,10 @@
+Facts:
+- Successful digital disruptors tend to focus on creating long-term value through two primary mechanisms: customer lifetime value (CLV) / customer acquisition cost and the end-to-end customer experience.
+- Established companies are in a better position to leverage this "digital growth engine" primarily because they already have a customer base, unlike start-ups. 
+- To galvanize their own digital growth, firms should align their customer experience ambitions with their financial goals, optimize their customer data strategy, and develop an "electronic brain" powered by predictive AI models.
+- Other pivotal steps include differentiating engineering for experience, data, AI, and enterprise, launching a data and AI-enabled omnichannel customer outreach program, and transforming key performance indicators (KPIs), structure, and incentives.
+
+Opinions:
+- Measuring earnings before interest, taxes, depreciation, and amortization (EBIDTA) profits may be the gold standard for assessing traditional companies, but this approach does not apply to digital businesses. 
+- While digital disruptors do make profits, these profits are merely part of a larger, broader picture. 
+- The perception that a company's success in the digital world can best be measured by its EBIDTA profits is considered a "great myth".

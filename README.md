@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-21 18:17:14**
+Last Updated **2024-06-22 06:25:06**
 
 ## 2024-06-21
 
+* [When It Comes to Long-Term Value, Incumbents Should Think Like Digital Disruptors](data/articles/when-it-comes-to-long-te.b8c723d7/README.md) `hbr.org`
+* [Research: Warehouse and Logistics Automation Works Better with Human Partners](data/articles/research-warehouse-and-l.1ce38cea/README.md) `hbr.org`
 * [How Micro-Choices and Games Motivate Gig Workers](data/articles/how-micro-choices-and-ga.0b4431b3/README.md) `hbr.org`
 * [Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024](data/articles/addressing-the-polycrisi.d1640f77/README.md) `ft.lk`
 * [RW’s ETB and NPP’s ST](data/articles/rw-s-etb-and-npp-s-st.1e7d6efe/README.md) `ft.lk`
@@ -13,6 +15,7 @@ Last Updated **2024-06-21 18:17:14**
 
 ## 2024-06-20
 
+* [How to Vet Information Before Making a Decision](data/articles/how-to-vet-information-b.506ec249/README.md) `hbr.org`
 * [3 Ways to Support Employees with Bipolar Disorder](data/articles/3-ways-to-support-employ.9778b0b7/README.md) `hbr.org`
 * [Inside the Success of South Korean Brands](data/articles/inside-the-success-of-so.cf0ba28d/README.md) `hbr.org`
 * [World Bank says 80% of global population will experience slower growth than in pre-COVID decade](data/articles/world-bank-says-80-of-gl.1d894fab/README.md) `ft.lk`
