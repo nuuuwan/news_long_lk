@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-22 18:14:40**
+Last Updated **2024-06-23 06:24:49**
+
+## 2024-06-22
+
+* [The Tamil Doctor who Gave Medical Aid to Injured Tigers.](data/articles/the-tamil-doctor-who-gav.37663620/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-21
 
