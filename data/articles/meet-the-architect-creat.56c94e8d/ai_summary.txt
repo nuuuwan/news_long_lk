@@ -1,0 +1,21 @@
+Facts:
+
+- Sawmills manufacture lumber from trees to create standard sizes and prevent twisting, cupping, or cracking.
+- Achim Menges, a professor at the University of Stuttgart, is working on ways to build more sustainable structures using wood's natural variations.
+- Menges and his team use computational design to predict how wood will behave within a structure long before it is built.
+- The team's recent work includes the development of the "HygroShell," a structure made out of cross-laminated timber that can change shape based on humidity levels.
+- The HygroShell is designed to save on the amount of material used and potentially reduce the cost of large timber projects.
+- To build the HygroShell, the team created digital models of freshly sawn boards, then, using software, predicted how the boards would distort as they dried and how to arrange them to achieve the desired shape.
+- Menges believes his self-shaping technique can help create complex curved structures that are less expensive and use less material than traditional methods.
+- The HygroShell and other self-shaping structures are made with less material, which could cut the material requirements of large timber buildings in half.
+- In addition to the HygroShell, Menges and his team have created other self-shaping proof-of-concept projects like the Urbach Tower and the LivMatS Biomimetic Shell. 
+
+Opinions:
+
+- Menges views the natural inconsistencies of wood as its greatest assets, rather than liability.
+- Self-shaping, according to Menges, could offer industrial-scale production of curved mass timber structures for far less cost.
+- Menges’s method of using wood’s natural properties and robotic machinery for prefabricating the structures is considered more efficient and cost-effective.
+- Menges believes the industry needs to see the natural variations in wood not as defects but as unique properties that can be used in construction.
+- Michael Green, an architect, sees Menges’s work as important foundational research that may influence wood architecture but doubts that self-shaped architecture will be widely deployed outside specific applications.
+- Green suggests that the more people occupy a building, the thicker the wood structure must be to resist fire, leading to potential conflicts with the goal of using less material.
+- Menges envisions a future where architects use the unique properties of different parts of the tree in construction, rather than trying to achieve unnatural homogeneity.

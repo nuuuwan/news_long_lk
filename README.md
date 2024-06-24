@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-24 06:26:16**
+Last Updated **2024-06-24 18:20:01**
+
+## 2024-06-24
+
+* [Research: Using AI at Work Makes Us Lonelier and Less Healthy](data/articles/research-using-ai-at-wor.8a45ee9b/README.md) `hbr.org`
+* [Meet the architect creating wood structures that shape themselves](data/articles/meet-the-architect-creat.56c94e8d/README.md) `technologyreview.com`
 
 ## 2024-06-23
 
@@ -10,6 +15,9 @@ Last Updated **2024-06-24 06:26:16**
 * [Poson lessons for leaders: Being brilliant in a BANI world](data/articles/poson-lessons-for-leader.f7e22ba7/README.md) `ft.lk`
 * [Dr. H.N. Thenuwara: Sri Lanka should regain the missed industrial revolutions](data/articles/dr-h-n-thenuwara-sri-lan.0a642611/README.md) `ft.lk`
 * [Which is needed more, Economic Transformation Bill or Economic Development Plan?](data/articles/which-is-needed-more-eco.f7aa1dce/README.md) `ft.lk`
+* [President  Ranasinghe  Premadasa Belived that asting unity – be it national or social – could be built only by effecting tangible improvements in the living-conditions of all the poor, Sinhala, Tamil, and Muslim.](data/articles/president-ranasinghe-pre.b45be539/README.md) `dbsjeyaraj.com`
+* [President   Wickremesinghe used the authority and the privilege of Parliament to accuse the Supreme Court of judicial cannibalism when the Special Determination in issue could have been soberly critiqued.](data/articles/president-wickremesinghe.71c5f499/README.md) `dbsjeyaraj.com`
+* [India’s Iconic Author Arundathie Roy is being charged with promoting terrorism under the draconian Unlawful Activities (Prevention) Act. Ms. Roy is being targeted both for who she is and as a message to those opponents and dissenters  Against   Narendra Modi’s BJP Regime](data/articles/india-s-iconic-author-ar.5a468541/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-22
 
@@ -20,6 +28,7 @@ Last Updated **2024-06-24 06:26:16**
 * [When It Comes to Long-Term Value, Incumbents Should Think Like Digital Disruptors](data/articles/when-it-comes-to-long-te.b8c723d7/README.md) `hbr.org`
 * [Research: Warehouse and Logistics Automation Works Better with Human Partners](data/articles/research-warehouse-and-l.1ce38cea/README.md) `hbr.org`
 * [How Micro-Choices and Games Motivate Gig Workers](data/articles/how-micro-choices-and-ga.0b4431b3/README.md) `hbr.org`
+* [Should social media come with a health warning?](data/articles/should-social-media-come.7e5cfbb0/README.md) `technologyreview.com`
 * [Addressing the polycrisis: Linkages and synergies between Rio Conventions in 2024](data/articles/addressing-the-polycrisi.d1640f77/README.md) `ft.lk`
 * [RW’s ETB and NPP’s ST](data/articles/rw-s-etb-and-npp-s-st.1e7d6efe/README.md) `ft.lk`
 * [Unifying the country via macroeconomic fundamentals to resolve economic crisis soon](data/articles/unifying-the-country-via.001bb084/README.md) `ft.lk`
