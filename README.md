@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-23 18:14:38**
+Last Updated **2024-06-24 06:26:16**
+
+## 2024-06-23
+
+* [The IMF Review: How does it align with the IMF Tracker by Verité Research?](data/articles/the-imf-review-how-does.e6d3225f/README.md) `ft.lk`
+* [Poson lessons for leaders: Being brilliant in a BANI world](data/articles/poson-lessons-for-leader.f7e22ba7/README.md) `ft.lk`
+* [Dr. H.N. Thenuwara: Sri Lanka should regain the missed industrial revolutions](data/articles/dr-h-n-thenuwara-sri-lan.0a642611/README.md) `ft.lk`
+* [Which is needed more, Economic Transformation Bill or Economic Development Plan?](data/articles/which-is-needed-more-eco.f7aa1dce/README.md) `ft.lk`
 
 ## 2024-06-22
 
