@@ -1,0 +1,11 @@
+Facts:
+- 78% of organizational leaders reported dealing with "collaboration drag," which includes too many meetings, too much feedback from peers, unclear decision-making authority, and too much time obtaining approval from stakeholders.
+- Businesses often run as many as five complex initiatives simultaneously, each of which can involve five to eight corporate functions and 20 to 35 team members.
+- The amount of resource commitments needed across such a variety of initiatives leads to widespread background complexity.
+- Gartner, the research agency, recommends the following strategies to better equip teams: extend executive alignment practices down to tactical levels, develop employee strategic and interpersonal skills, and look for collaboration drag within functions or teams.
+- Technologies such as AI and other technological advancements introduce new revenue streams and business models, requiring significant cross-functional collaboration to get started.
+
+Opinions:
+- Gartner's suggested solutions to handle "collaboration drag" may imply their belief that it can be effectively mitigated by extending executive alignment to tactical levels, honing employee skills, and explicitly identifying collaboration issues within the functional teams.
+- The statement "Corporate growth is the ultimate team sport" suggests the belief that successful growth requires interdependent functions working together efficiently. 
+- The assertion of AI and technological innovations as new sources of revenue and business models inherently suggests a belief in their potential and importance in the modern corporate world.

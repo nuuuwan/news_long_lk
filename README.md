@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-24 18:20:01**
+Last Updated **2024-06-25 06:27:11**
+
+## 2024-06-25
+
+* [Sri Lanka economic recovery gathers pace](data/articles/sri-lanka-economic-recov.43a2618b/README.md) `ft.lk`
 
 ## 2024-06-24
 
+* [Sri Lanka must renegotiate IMF Agreement for sustainable recovery from crisis](data/articles/sri-lanka-must-renegotia.613a49a0/README.md) `ft.lk`
+* [Request for immediate publishing of National Socio-economic Recovery Program of party for social discourse](data/articles/request-for-immediate-pu.feaa0860/README.md) `ft.lk`
+* [New property taxes are coming: Key changes and impacts](data/articles/new-property-taxes-are-c.b7dfc741/README.md) `ft.lk`
+* [Price or quality: Is NMRA barking up the wrong tree?](data/articles/price-or-quality-is-nmra.e10112c3/README.md) `ft.lk`
+* [When and How Family Businesses Should Use Shareholder Agreements](data/articles/when-and-how-family-busi.d4e0db9d/README.md) `hbr.org`
+* [Why Cross-Functional Collaboration Stalls, and How to Fix It](data/articles/why-cross-functional-col.4aea2737/README.md) `hbr.org`
 * [Research: Using AI at Work Makes Us Lonelier and Less Healthy](data/articles/research-using-ai-at-wor.8a45ee9b/README.md) `hbr.org`
 * [Meet the architect creating wood structures that shape themselves](data/articles/meet-the-architect-creat.56c94e8d/README.md) `technologyreview.com`
 
