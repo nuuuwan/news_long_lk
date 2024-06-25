@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-25 06:27:11**
+Last Updated **2024-06-25 18:18:09**
 
 ## 2024-06-25
 
+* [Constant Change Is Rewriting the Psychological Contract with Employees](data/articles/constant-change-is-rewri.a16d108e/README.md) `hbr.org`
+* [Sri Lanka economic recovery gathers pace](data/articles/sri-lanka-economic-recov.ca84e689/README.md) `ft.lk`
 * [Sri Lanka economic recovery gathers pace](data/articles/sri-lanka-economic-recov.43a2618b/README.md) `ft.lk`
 
 ## 2024-06-24
@@ -74,6 +76,7 @@ Last Updated **2024-06-25 06:27:11**
 * [Research: Customer Referrals Are Contagious](data/articles/research-customer-referr.9a067aa5/README.md) `hbr.org`
 * [The Most Strategic Leaders Excel in 4 Disciplines](data/articles/the-most-strategic-leade.0c8d72c7/README.md) `hbr.org`
 * [When Your New Boss Is a Micromanager](data/articles/when-your-new-boss-is-a.ee7d12b4/README.md) `hbr.org`
+* [US election: its impact on industrial policy](data/articles/us-election-its-impact-o.54363b55/README.md) `eiu.com`
 * [Why artists are becoming less scared of AI](data/articles/why-artists-are-becoming.d165610b/README.md) `technologyreview.com`
 * [Indian External  Affairs  Minister S.Jaishankar to Visit Sri Lanka on 20 June “ to review progress in projects in various sectors such as renewable energy and connectivity” ;two cases filed in Lankan Supreme Court  against $ 442-million wind energy project of Adani Green in North.](data/articles/indian-external-affairs.60437805/README.md) `dbsjeyaraj.com`
 * [“The present time is opportune for a pledge to be taken together by the prospective candidates at the presidential election to support the implementation of the 13th Amendment and take forward the larger reconciliation process”- National Peace Council](data/articles/the-present-time-is-opp.ac234003/README.md) `dbsjeyaraj.com`
@@ -106,6 +109,10 @@ Last Updated **2024-06-25 06:27:11**
 ## 2024-06-13
 
 * [How gamification took over the world](data/articles/how-gamification-took-ov.b9e594d0/README.md) `technologyreview.com`
+
+## 2024-06-12
+
+* [US election: its impact on US trade policy](data/articles/us-election-its-impact-o.57ff3fbf/README.md) `eiu.com`
 
 ## 2024-06-11
 

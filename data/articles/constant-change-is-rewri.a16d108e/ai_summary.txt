@@ -1,0 +1,9 @@
+Facts:
+- Employees' willingness to support enterprise change dropped to 43% in 2022, down from 74% in 2016, according to data from Gartner.
+- A report titled "State of the Workforce 2024" by Gallup, released in June, indicated that 23% of employees are thriving and fully engaged at their jobs, while 62% are "quiet quitting," or staying employed but disengaging.
+- The same report from Gallup found 15% of employees worldwide are "loudly quitting," directly undermining their organization and its ambitions.
+
+Opinions:
+- The author argues that persistent employee dissatisfaction is due to outdated "psychological contracts" between workers and businesses, that were designed for a time when change was sporadic.
+- She suggests that in an era of constant change, these psychological contracts need to be reassessed and renegotiated.
+- The author expresses intense dismay over the data showing a large number of employees who are either "quiet quitting" or "loudly quitting."
