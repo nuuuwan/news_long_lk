@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-25 18:18:09**
+Last Updated **2024-06-26 06:26:27**
+
+## 2024-06-26
+
+* [Sri Lanka’s solitary non-Govigama Prime Minister and President](data/articles/sri-lanka-s-solitary-non.5a4b5198/README.md) `ft.lk`
+* [Emerging Presidential election campaigns in Sri Lanka: Liberal consensus and fringe politics](data/articles/emerging-presidential-el.0360a7ea/README.md) `ft.lk`
+* [Corporate Governance Listing Rules on Board policies](data/articles/corporate-governance-lis.af012ca6/README.md) `ft.lk`
 
 ## 2024-06-25
 
+* [Choosing Between a Structured or Conversational Interview](data/articles/choosing-between-a-struc.a8462bc9/README.md) `hbr.org`
+* [Reinventing the Core Value Statement](data/articles/reinventing-the-core-val.2817431c/README.md) `hbr.org`
 * [Constant Change Is Rewriting the Psychological Contract with Employees](data/articles/constant-change-is-rewri.a16d108e/README.md) `hbr.org`
 * [Sri Lanka economic recovery gathers pace](data/articles/sri-lanka-economic-recov.ca84e689/README.md) `ft.lk`
 * [Sri Lanka economic recovery gathers pace](data/articles/sri-lanka-economic-recov.43a2618b/README.md) `ft.lk`
