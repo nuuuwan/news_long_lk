@@ -1,0 +1,13 @@
+Facts:
+- Traditionally, in a well-functioning capital market, only profit-making firms survive and loss-making ones disappear.
+- Currently, investors are increasingly drawn to loss-making firms, some more so than profit-making firms.
+- Startups with valuations exceeding a billion dollars, known as Unicorns, are commonly loss-making firms attracting investor interest.
+- In 1979, psychologists Daniel Kahneman and Amos Tversky posited that losses affect human behavior more than gains, impacting investment decisions.
+- When a firm announces losses, its stock price typically declines significantly, prompting investors to abandon and lenders to stop financing the business.
+- Typically, loss-making firms start restructuring their business and laying off employees, and some even conduct superficial M&A transactions or manipulate earnings to report profits.
+
+Opinions:
+- The authors suggest that the trend of investing in loss-making firms could be due to a change in investment priorities over time.
+- The authors speculate that losses might have lost their conventional negative meaning in financial calculations.
+- Their research suggests that investments should be made in enterprises that deliver delayed but real profits, instead of focusing on short-term accounting profits, to avoid long-term reduction in shareholder wealth. 
+- They imply that the actions of loss-making firms, such as restructuring business or manipulating earnings to appear profitable, may be misleading for investors.

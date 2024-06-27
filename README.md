@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-27 06:27:12**
+Last Updated **2024-06-27 18:18:33**
+
+## 2024-06-27
+
+* [Why Are Companies That Lose Money Still So Successful?](data/articles/why-are-companies-that-l.f85d2bdd/README.md) `hbr.org`
+* [Global Outlook: India’s political and economic outlook post-election](data/articles/global-outlook-india-s-p.15ff96f0/README.md) `eiu.com`
+* [Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President](data/articles/ranasinghe-premadasa-sri.ddeb5362/README.md) `dbsjeyaraj.com`
+* [“The people must determine whether to move forward with me, as I truly comprehend the challenges facing the country, provide practical solutions, and demonstrate tangible results, or align with groups that have yet to grasp the issues and are blindly seeking power” – President  Ranil  Wickremesinghe](data/articles/the-people-must-determi.30fc1af5/README.md) `dbsjeyaraj.com`
+* [Indian Fishermen Poaching in Sri Lankan Waters “Aggressively Resist”Arresr  and Seizure of Trawler by Lankan Navy;   Sailor from Navy Special Boat Squadron  Injured in Clash dies  in Jaffna Hospital](data/articles/indian-fishermen-poachin.fab9dcb3/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-26
 
