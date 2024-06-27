@@ -1,0 +1,14 @@
+Facts: 
+- The Economist Intelligence Unit’s (EIU) Global Liveability Index has ranked Vienna as the most liveable city in the world for the third consecutive year.
+- The index evaluates 173 cities globally across five categories: stability, healthcare, culture and environment, education, and infrastructure.
+- Western Europe continues to hold the title for the most liveable region in the world, with Copenhagen, Zurich, and Geneva among the top ten. The region, however, saw the largest dip in scores due to a deterioration in stability.
+- Four cities from the Asia-Pacific made it to the top ten: Melbourne and Sydney (Australia), Osaka (Japan) and Auckland (New Zealand). Australia's overall infrastructure scores were however downgraded due to an ongoing housing crisis.
+- Tel Aviv declined by 20 places owing to Israel's conflict with Hamas impacting the region's stability. The Gulf Cooperation Council (GCC) countries on the other hand saw improvements in education and healthcare.
+- A severe housing crisis caused a drop in infrastructure scores for Canada, with Toronto falling out of the top ten to the 12th position.
+- The largest US cities, Los Angeles and New York, are ranked 58th and 70th respectively, but all 25 US cities in the index retain a liveability score above 80. 
+
+Opinions: 
+- The rise in average scores due to improvements in healthcare and education in developing countries is considered positive, despite being offset by declines in scores for some top-tier cities. 
+- Despite improvements in liveability scores in the GCC countries, the Middle East and North Africa region is still home to the least liveable cities, including Algiers (Algeria), Tripoli (Libya) and Damascus (Syria).
+- Despite the fall in rankings for Toronto, North America is still considered to have a high liveability level with the region boasting high average education scores and competitive infrastructure and culture when compared to Western Europe.
+- Evaluating living conditions and understanding lifestyle challenges is considered crucial in shaping strategies and informing policies for businesses, governments, and academic institutions.

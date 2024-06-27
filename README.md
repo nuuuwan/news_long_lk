@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-26 18:17:25**
+Last Updated **2024-06-27 06:27:12**
 
 ## 2024-06-26
 
+* [Vienna secures its position as the world’s most liveable city for third consecutive year](data/articles/vienna-secures-its-posit.2f1e379f/README.md) `eiu.com`
+* [It is time for innovation stupid](data/articles/it-is-time-for-innovatio.c1709e47/README.md) `ft.lk`
+* [Radical right, radical left, hyper-Indianisation and re-learning Premadasa’s system-change economics](data/articles/radical-right-radical-le.6947bc45/README.md) `ft.lk`
+* [Sri Lanka Finalizes Comprehensive  Debt Re-structuring Agreements with the Official Creditor Committee Co-chaired by France,Japan and India and China Exim Bank to the Combined Value of US $ 10 Billion.](data/articles/sri-lanka-finalizes-comp.ae54859b/README.md) `dbsjeyaraj.com`
+* [How Starbucks Devalued Its Own Brand](data/articles/how-starbucks-devalued-i.a43cbf23/README.md) `hbr.org`
+* [How to Improve the Hiring Process for Disabled Candidates](data/articles/how-to-improve-the-hirin.d94217df/README.md) `hbr.org`
 * [3 Exercises to Boost Your Emotional Intelligence, According to Research](data/articles/3-exercises-to-boost-you.2f581638/README.md) `hbr.org`
 * [Sri Lanka’s solitary non-Govigama Prime Minister and President](data/articles/sri-lanka-s-solitary-non.5a4b5198/README.md) `ft.lk`
 * [Emerging Presidential election campaigns in Sri Lanka: Liberal consensus and fringe politics](data/articles/emerging-presidential-el.0360a7ea/README.md) `ft.lk`
