@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-28 06:25:51**
+Last Updated **2024-06-28 18:17:16**
 
 ## 2024-06-28
 
+* [3 Ways to Build a Culture That Lets High Performers Thrive](data/articles/3-ways-to-build-a-cultur.6d4bfac8/README.md) `hbr.org`
+* [Descent into lunacy](data/articles/descent-into-lunacy.a9234257/README.md) `ft.lk`
 * [Why do banks exist?](data/articles/why-do-banks-exist.14b693ea/README.md) `ft.lk`
 * [Management of international reserves](data/articles/management-of-internatio.5aba67dc/README.md) `ft.lk`
 
@@ -37,6 +39,7 @@ Last Updated **2024-06-28 06:25:51**
 * [Choosing Between a Structured or Conversational Interview](data/articles/choosing-between-a-struc.a8462bc9/README.md) `hbr.org`
 * [Reinventing the Core Value Statement](data/articles/reinventing-the-core-val.2817431c/README.md) `hbr.org`
 * [Constant Change Is Rewriting the Psychological Contract with Employees](data/articles/constant-change-is-rewri.a16d108e/README.md) `hbr.org`
+* [French election is on a knife edge](data/articles/french-election-is-on-a.e79b49fa/README.md) `eiu.com`
 * [Supershoes are reshaping distance running](data/articles/supershoes-are-reshaping.648f1d10/README.md) `technologyreview.com`
 * [Sri Lanka economic recovery gathers pace](data/articles/sri-lanka-economic-recov.ca84e689/README.md) `ft.lk`
 * [Sri Lanka economic recovery gathers pace](data/articles/sri-lanka-economic-recov.43a2618b/README.md) `ft.lk`
