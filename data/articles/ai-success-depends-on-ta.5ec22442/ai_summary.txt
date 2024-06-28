@@ -1,0 +1,11 @@
+Facts:
+- Organizations involved in transformation efforts often deal with "technical debt," a consequence of years of short-term decisions leading to complex technological architecture.
+- "Process debt" is a similar issue facing organizations, referring to outdated, functionally isolate, and customer-disconnected ways of operation.
+- Remapping and prioritizing how an organization does work can lead to significant improvements. 
+- AI brings potential to help transform how work is done and access work previously thought unachievable.
+- Emergency Room doctors average 4,000 keystrokes in a ten-hour shift, indicating a part of work that could potentially be automated or improved.
+ 
+Opinions:
+- Without addressing process debt, companies won't be able to fully utilize technologies like AI.
+- AI not only has the capacity to replace some work but can also augment intelligence to improve effectiveness and speed. 
+- Remapping and reprioritizing an organization's workflow can greatly improve focus on tasks better suited to the organization.

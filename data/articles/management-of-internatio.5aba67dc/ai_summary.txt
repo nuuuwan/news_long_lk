@@ -1,0 +1,15 @@
+Facts: 
+- International reserves are savings of foreign currencies in the Central Bank and Government, acting as a buffer for unexpected payments and preventing payments crises.
+- The value of a country's currency is usually determined by their governments in terms of other currencies, forming the rate at which a country engages in international transactions.
+- International reserves management refers to the administration of the country's foreign exchange reserves, ensuring that they grow in value over time, whilst being readily available as needed.
+- International reserves act as a buffer against adverse external shocks that could cause volatility in economic output.
+- In addition to limiting external vulnerability, the official reserves are also used to intervene in the domestic foreign exchange market as well as in transactions with other central banks.
+- Conditions in the international market are in a constant state of flux, closely monitoring changes therein and exercising prudence in taking decisive actions to lessen their potentially harmful consequences can reduce market risk to a great extent.
+
+Opinions:
+- Intervention in the domestic foreign exchange market to help build up reserves is a costly exercise as it has monetary implications.
+- The optimal level of reserves a country should have differs from country to country, depending on their degree of openness, exchange rate regime, past experiences with handling crises, etc.
+- Holding reserves can be costly, due to differences in credit risk, liquidity of securities, maturity profiles and denominations of various instruments.
+- There is also an opportunity cost involved in holding foreign currency reserves as the yield on reserves is much lower than the potential return they could earn by using those reserves to make real investments.
+- It is important to strike a balance between the return objectives with prudent risk management and controls.
+- Risks are also managed carefully through appropriate delegation and control mechanisms and reliance on a range of risk metrics, controls and limits at all levels of the reserves management process, to ensure the international reserves are managed effectively.

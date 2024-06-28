@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-27 18:18:33**
+Last Updated **2024-06-28 06:25:51**
+
+## 2024-06-28
+
+* [Why do banks exist?](data/articles/why-do-banks-exist.14b693ea/README.md) `ft.lk`
+* [Management of international reserves](data/articles/management-of-internatio.5aba67dc/README.md) `ft.lk`
 
 ## 2024-06-27
 
+* [AI Success Depends on Tackling “Process Debt”](data/articles/ai-success-depends-on-ta.5ec22442/README.md) `hbr.org`
+* [How Smaller Companies Can Join the Circular Economy](data/articles/how-smaller-companies-ca.736654a6/README.md) `hbr.org`
 * [Why Are Companies That Lose Money Still So Successful?](data/articles/why-are-companies-that-l.f85d2bdd/README.md) `hbr.org`
 * [Global Outlook: India’s political and economic outlook post-election](data/articles/global-outlook-india-s-p.15ff96f0/README.md) `eiu.com`
 * [Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President](data/articles/ranasinghe-premadasa-sri.ddeb5362/README.md) `dbsjeyaraj.com`
