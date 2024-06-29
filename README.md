@@ -2,12 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-29 06:26:08**
+Last Updated **2024-06-29 18:15:01**
 
 ## 2024-06-28
 
 * [Bridging Sri Lanka’s “Leadership Deficit”: a conceptual framework for the near-future](data/articles/bridging-sri-lanka-s-lea.9f0a5eec/README.md) `ft.lk`
 * [Why system change?](data/articles/why-system-change.557aa236/README.md) `ft.lk`
+* [Colombo  High Court  Finds  Hirunika Premachandra Guilty of 18 Charges Including the Abduction, Assault and Intimidation of a Youth at Dematagoda in 2015 and  Sentences Former Colombo MP  to 3 Years  Rigorous Imprisonment ;Will Seek Bail on Monday says her Lawyer](data/articles/colombo-high-court-finds.0790700c/README.md) `dbsjeyaraj.com`
 * [The New Rules of Marketing Across Channels](data/articles/the-new-rules-of-marketi.dc8055fa/README.md) `hbr.org`
 * [3 Ways to Build a Culture That Lets High Performers Thrive](data/articles/3-ways-to-build-a-cultur.6d4bfac8/README.md) `hbr.org`
 * [Descent into lunacy](data/articles/descent-into-lunacy.a9234257/README.md) `ft.lk`
