@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-30 06:24:25**
+Last Updated **2024-06-30 18:14:46**
+
+## 2024-06-30
+
+* [Do the Tamil Critics of the 13th Constitutional Amendment have the Political Strength to Force a Future Govt to Introduce a Devolution Scheme  better than what is Available in the Provincial Councils?](data/articles/do-the-tamil-critics-of.4fef6e69/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-28
 
