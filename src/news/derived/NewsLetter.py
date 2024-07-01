@@ -7,7 +7,7 @@ from utils_future import OpenAICommon
 
 log = Log('NewsLetter')
 
-
+# Not used
 class NewsLetter:
     MODEL = 'gpt-4'
     MAX_ARTICLES = 30
