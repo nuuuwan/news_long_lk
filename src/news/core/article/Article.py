@@ -44,5 +44,4 @@ class Article(ArticleBase, ArticleReadMe, ArticleAIImage, ArticleAIText):
     def save_all(self):
         self.save()
         self.ai_summary
-        self.ai_follow_ups
         self.save_readme()
