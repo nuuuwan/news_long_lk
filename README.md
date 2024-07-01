@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-06-30 18:14:46**
+Last Updated **2024-07-01 06:27:12**
+
+## 2024-07-01
+
+* [How should Sri Lanka leverage a new era in the UK?](data/articles/how-should-sri-lanka-lev.60041bcc/README.md) `ft.lk`
+* [Yes, it is $ 26 b in just 5 years](data/articles/yes-it-is-26-b-in-just-5.105c2de0/README.md) `ft.lk`
+* [Will wind power projects mortgage our future?](data/articles/will-wind-power-projects.bcaef9ef/README.md) `ft.lk`
+* [Taking the dread, apprehension and suspicion out of Performance Reviews](data/articles/taking-the-dread-apprehe.24146f4d/README.md) `ft.lk`
+* [Sri Lanka’s Rule of Men should end to give way for Rule of (Fair) Law](data/articles/sri-lanka-s-rule-of-men.b94dc884/README.md) `ft.lk`
 
 ## 2024-06-30
 
+* [Veteran Sri Lankan Tamil Political  leader   Rajavarothayam Sampanthan passes away in Colombo at the age of 91. He  dedicated his political life to pursuing a just solution to Sri Lanka’s Tamil question](data/articles/veteran-sri-lankan-tamil.930851f3/README.md) `dbsjeyaraj.com`
 * [Do the Tamil Critics of the 13th Constitutional Amendment have the Political Strength to Force a Future Govt to Introduce a Devolution Scheme  better than what is Available in the Provincial Councils?](data/articles/do-the-tamil-critics-of.4fef6e69/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-28
