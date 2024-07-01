@@ -22,23 +22,6 @@ Opinions expressed:
 - The author criticizes politicians opposing the 13th Amendment out of "moral obligation" and those refusing to accept it as an interim measure.
 - The author expresses skepticism towards the viability of expecting a different result from repeating failed political experiments among Sri Lankan Tamils.
 
-## Follow-up Questions 🤖
-
-1. How does the division among Tamil political parties affect the stability and unity of Sri Lanka as a whole?
-2. What are the specific demands of the Tamil People’s General Assembly, and how might these demands stir up Tamil nationalism?
-3. Could the idea of fielding a common Tamil candidate potentially re-ignite ethnic tensions in Sri Lanka?
-4. What challenges are faced by Tamil politicians who want to unify under a single, common candidate?
-5. What role does the Indian Minister of External Affairs Subrahmanyam Jaishankar play in the discussions around the Tamil common candidate?
-6. How does the proposed scenario with a "political ascetic" candidate align or conflict with traditional Sri Lankan politics?
-7. How has the uncertainty surrounding a common Tamil candidate affected the political scene in Sri Lanka in the lead up to the Presidential Election?
-8. How is Tamil nationalism perpetuated or hindered by the current political climate in Sri Lanka?
-9. What specific steps are Tamil parties taking to convince southern Sri Lankan Sinhalese politicians about the value of devolution?
-10. Could the implementation of the 13th Amendment lead to significant changes in Sri Lanka's political structure or government?
-11. How might the Tamil people's inclination towards migration impact demographics and politics in the north and east of Sri Lanka? 
-12. How could the Tamil People’s General Assembly's advocacy for a common candidate transform itself into a new political party? 
-13. How has the LTTE's opposition to the 13th Amendment influenced current Tamil politics?
-14. What alternatives do opponents of the 13th Amendment propose for the devolution of power in Sri Lanka?
-
 ## Full Text
 
 [https://dbsjeyaraj.com/dbsj/?p=84298](https://dbsjeyaraj.com/dbsj/?p=84298)

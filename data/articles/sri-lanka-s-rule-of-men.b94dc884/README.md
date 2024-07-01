@@ -18,21 +18,6 @@ Opinions:
 - The author believes that Sri Lanka's government is not listening to public opinion, leading to low control over the government by the public.
 - The author suggests that not adhering to the rule of law can lead to leaders becoming tyrants, reminiscing of the ancient Sumerian ruler Gilgamesh and his tyranny.
 
-## Follow-up Questions 🤖
-
-1. How has Sri Lanka's move towards "the rule of men" as opposed to "the rule of law" affected the country's international reputation?
-2. Can you give specific examples of how the "rule of men" approach has manifested in Sri Lanka's politics and society?
-3. What effect has the "rule of men" had on Sri Lanka's citizens in terms of their rights and freedoms?
-4. What is the relationship between the Rule of Law and economic development in Sri Lanka?
-5. Has there been any official response from the Sri Lankan government regarding their mid-level score on the global rule of law index?
-6. How could Sri Lanka improve its score on the rule of law index?
-7. Could you explain the concept of "rules of fair law"? 
-8. How has impunity contributed to the decay of Sri Lanka's political and social fabric?
-9. How does the "Gilgamesh Problem" relate to the current situation in Sri Lanka?
-10. What lessons should Sri Lanka take away from the example of Brazil's preferential treatment based on political alliance? 
-11. How do the inconsistent regulatory enforcement practices impact Sri Lanka's economy and the welfare of its people?
-12. What are the consequences of the worsening world ranking in Rule of Law Index for Sri Lanka and how important is it for the country to improve this ranking?
-
 ## Full Text
 
 [https://www.ft.lk/columns/Sri-Lanka-s-Rule-of-Men-should-end-to-give-way-for-Rule-of-Fair-Law/4-763701](https://www.ft.lk/columns/Sri-Lanka-s-Rule-of-Men-should-end-to-give-way-for-Rule-of-Fair-Law/4-763701)

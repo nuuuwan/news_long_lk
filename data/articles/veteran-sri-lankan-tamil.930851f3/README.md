@@ -14,19 +14,6 @@ Opinions:
 - He is suggested to be a bold and persistent voice in politics. 
 - The article implies his approach was justified by referring to his arguments for a political solution through Sri Lanka's constitutional history and the Sinhalese establishment's past failed promises.
 
-## Follow-up Questions 🤖
-
-1. What major legislative achievements did Sampanthan accomplish during his many years in parliament?
-2. How has Sampanthan's death impacted the Tamil National Alliance and its future plans?
-3. How did Sampanthan's training and career as a lawyer influence his political approach and strategies for advocating for Tamil rights?
-4. Can you elaborate more on Sampanthan's vision of a 'united, undivided, indivisible' country and how he hoped to achieve it?
-5. How has the wider Sri Lankan political landscape reacted to the passing of Sampanthan?
-6. What were some of the specific promises made by the southern Sinhalese establishment that Sampanthan argued were unfulfilled? 
-7. Can you provide some examples of occasions when Sampanthan demonstrated his bold and relentless approach in parliament? 
-8. What is the current status of the Tamil question following Sampanthan's death?
-9. How did Sampanthan navigate the challenge of advocating for Tamil rights in the post-civil war context?
-10. How did his leadership as the Oppositon between 2015 and 2018 impact the Tamil National Alliance and its mission?
-
 ## Full Text
 
 [https://dbsjeyaraj.com/dbsj/?p=84303](https://dbsjeyaraj.com/dbsj/?p=84303)

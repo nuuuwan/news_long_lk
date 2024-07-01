@@ -18,22 +18,6 @@ Opinions:
 - Germany and Japan within the G7 grouping have been more reluctant than others to adopt hawkish positions towards China due to their deeper trade ties with the country.
 - Greater cohesion within the G7 on Ukraine and China issues contrasts with growing divisions within the G20, and the consensus in the G7 could be disrupted if Donald Trump wins the US presidential election.
 
-## Follow-up Questions 🤖
-
-1. How will the proposed US$50bn fund impact the ongoing war in Ukraine?
-2. What will be the implications of freezing the near US$300bn of Russian sovereign assets? 
-3. How will this funding agreement affect the relations between G7 members and Russia?
-4. What does the syndicate loan mean for Ukraine's economy and infrastructure?
-5. What hurdles could arise with the requirement for unanimous approval for renewal of sanctions every six months?
-6. What scenarios could lead to an expansion in Western support for Ukraine?
-7. Can you elaborate on the impact of the new language linking China's industrial policies to "harmful overcapacity"?
-8. What specific factors could influence a future decision to include Ukraine in NATO?
-9. Could you clarify why Japan is constitutionally unable to fund military expenditures abroad and how it can participate in this loan?
-10. How might a Donald Trump victory in the future US presidential elections upset consensus within the G7? 
-11. Why is there more cohesion in terms of policy approach towards Ukraine and China amongst G7 members versus the G20? 
-12. How does this support for Ukraine affect the already strained relations between many G7 nations and Russia? 
-13. How will this funding affect the military dynamics on the ground in Ukraine?
-
 ## Full Text
 
 [https://www.eiu.com/n/g7-affirms-western-support-for-ukraine-for-now/](https://www.eiu.com/n/g7-affirms-western-support-for-ukraine-for-now/)

@@ -22,20 +22,6 @@ Opinions:
 - Stephen Cherono, former world record holder in the 3,000-meter steeplechase, believes restrictions should have been placed on the technology before it became too late.
 - Despite recognizing Kiptum's talent and hard work, the author acknowledges the unavoidable relevance of supershoe technology in his rapid ascent and proposed future performances.
 
-## Follow-up Questions 🤖
-
-1. How do the supershoes impact the integrity of running races and records? 
-2. What impact are the technological advancements in running shoes having on runners from poorer backgrounds? 
-3. Are there any health risks to athletes using these high performance shoes? 
-4. How did Kiptum's training regimen contribute to his success on top of his use of the Vaporfly shoes? 
-5. What are the key differences between traditional running shoes and the supershoes in terms of design and technology?
-6. How are these technologically advanced shoes affecting the commercial aspect of running sports, both for athletes and shoe brands? 
-7. What are some of the prevailing concerns within the running community about these new technologies in footwear?
-8. Are there regulations put in place by sports bodies to govern the use of technological advances in sportswear including shoes?
-9. How do these new shoes benefit amateur and beginner runners?
-10. How have high performance shoes impacted other sports? 
-11. What potential future innovations could further revolutionize running shoes?
-
 ## Full Text
 
 [https://www.technologyreview.com/2024/06/25/1093520/supershoes-running-kenya-carbon-plate-shoes/](https://www.technologyreview.com/2024/06/25/1093520/supershoes-running-kenya-carbon-plate-shoes/)

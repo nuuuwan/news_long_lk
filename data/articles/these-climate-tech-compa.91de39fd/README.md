@@ -20,19 +20,6 @@ Opinions expressed:
 - The author shows anticipation and interest in seeing AeroShield apply its insulation technology to retrofit windows and produce insulation for freezer and refrigerator doors.
 - The author highlights the importance of energy efficiency as one of the best ways to reduce energy usage and greenhouse gas emissions.
 
-## Follow-up Questions 🤖
-
-1. What future climate tech innovations is ARPA-E eyeing for its next set of awards?
-2. How does Antora Energy plan to utilise the grant in scaling its thermal battery technology?
-3. Could you shed light on some of the motivations and criteria behind ARPA-E's selection of these four companies for its latest funding awards? 
-4. Can you explain the new process developed by Queens Carbon that cuts down the temperature needed for cement production? How will this impact the cement industry at large?
-5. How does Ion Storage Systems' new solid-state lithium-metal technology compare to standard battery options currently on the market?
-6. How does the energy efficient technology from AeroShield Materials work and is it viable for widespread use in buildings?
-7. Would the ARPA-E continue to monitor and support the progress of these companies, or is the relationship primarily financial? 
-8. What kind of impact will these technologies have on global carbon emission reductions if successfully scaled up and widely adopted? 
-9. Can you explain the specific challenges faced by these companies in scaling their technologies prior to receiving the ARPA-E funding? 
-10. How key is government funding such as this in helping climate tech startups scale and realise their potential?
-
 ## Full Text
 
 [https://www.technologyreview.com/2024/06/27/1094340/climate-tech-funding/](https://www.technologyreview.com/2024/06/27/1094340/climate-tech-funding/)

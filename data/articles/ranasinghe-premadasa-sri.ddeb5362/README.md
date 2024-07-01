@@ -17,20 +17,6 @@ Opinions Expressed:
 - The author describes Premadasa as demonstrating his capacity for hard work and his administrative skills after his appointment as Local Government Minister.
 - Premadasa's drastic moves to revitalise the UNP party were dismissed by Dudley Senanayake and other senior leaders, leading Premadasa to form an independent people's organisation called 'Puravesi Peramuna' or 'Citizens Front'.
 
-## Follow-up Questions 🤖
-
-1. How has the caste system influenced the election and re-election of Prime Minister Narendra Modi in India? 
-2. What role did the caste system play in R. Premadasa's ascension in Sri Lankan politics? 
-3. Can you explain more about the caste system in Sri Lanka compared to India?
-4. How has the political climate changed in Sri Lanka since the time of R. Premadasa? 
-5. How did A.E. Goonesinha's influence shape R. Premadasa's political career? 
-6. How did caste hierarchy shape the political landscape during the 1960s in Sri Lanka?
-7. What are the traditional occupations of the Govigama and Vellala castes?
-8. Premadasa was born and bred in Colombo, how was he received in the Ruwanwella electorate?
-9. How has the cultural concept of caste evolved in modern Indian and Sri Lankan society?
-10. Could you elaborate on how Premadasa's tenure as Minister of Local Government was perceived?
-11. Can you explain more about R. Premadasa's plans for restructuring the UNP during his time in politics?
-
 ## Full Text
 
 [https://dbsjeyaraj.com/dbsj/?p=84279](https://dbsjeyaraj.com/dbsj/?p=84279)

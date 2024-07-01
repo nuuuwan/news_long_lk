@@ -24,19 +24,6 @@ Opinions:
 - Green suggests that the more people occupy a building, the thicker the wood structure must be to resist fire, leading to potential conflicts with the goal of using less material.
 - Menges envisions a future where architects use the unique properties of different parts of the tree in construction, rather than trying to achieve unnatural homogeneity.
 
-## Follow-up Questions 🤖
-
-1. How does Menges's computational design work in predicting the behavior of wood in a structure?
-2. What are some possible challenges or limitations of implementing "self-shaping" timber structures?
-3. What are the implications of Menges's work on the sustainability of timber buildings?
-4. How do the "self-shaping" techniques add to the cost-effectiveness of building construction?
-5. Could the self-shaping techniques be applied to other materials besides wood? 
-6. How does the HygroShell's design and construction help demonstrate the potential of Menges’ approach? 
-7. How might the use of computational design change the way architects and designers view and use materials with inherent imprecisions, like wood?
-8. What are the possible fire safety implications of using less wood in mass-timber buildings, as suggested by Michael Green?
-9. How did Menges's interest in pinecones help shape his approach to self-shaping structures?
-10. What more can be done to promote the sustainable and efficient use of wood in building construction?
-
 ## Full Text
 
 [https://www.technologyreview.com/2024/06/24/1093513/achim-menges-architect-wood-buildings-sustainability/](https://www.technologyreview.com/2024/06/24/1093513/achim-menges-architect-wood-buildings-sustainability/)

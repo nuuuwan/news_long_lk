@@ -17,19 +17,6 @@ Opinions:
 - Despite the fall in rankings for Toronto, North America is still considered to have a high liveability level with the region boasting high average education scores and competitive infrastructure and culture when compared to Western Europe.
 - Evaluating living conditions and understanding lifestyle challenges is considered crucial in shaping strategies and informing policies for businesses, governments, and academic institutions.
 
-## Follow-up Questions 🤖
-
-1. What key factors contributed to Vienna's ranking as the world's most liveable city for three years consecutively?
-2. Can you explain in detail the five key categories that the Global Liveability Index is based on?
-3. How have the overall scores changed for top-tier cities and what is the reason behind this?
-4. What has led to the decline in scores for stability in Western Europe?
-5. Could you elaborate on the housing crisis in Australia and its impact on the country's infrastructure scores?
-6. What are the factors behind the significant rise in scores for the cities in the UAE and Saudi Arabia?
-7. Why has Canada's infrastructure score decreased due to the housing crisis?
-8. Why are Los Angeles and New York ranked so low compared to other U.S. cities in the index, despite the region attaining the highest tier of liveability?
-9. How do the challenges identified in the EIU's Global Liveability Index inform strategies for businesses, governments, and academic institutions?
-10. Are there any plans to expand or refine the parameters of the Global Liveability Index in future surveys?
-
 ## Full Text
 
 [https://www.eiu.com/n/vienna-secures-its-position-as-the-worlds-most-liveable-city-for-third-consecutive-year/](https://www.eiu.com/n/vienna-secures-its-position-as-the-worlds-most-liveable-city-for-third-consecutive-year/)

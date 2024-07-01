@@ -20,19 +20,6 @@ Opinions:
 - The author criticizes the IMF's conditions, arguing some are counterproductive and some critical measures have not been implemented yet. 
 - The author questions whether approaching the IMF repeatedly is the right focus for Sri Lanka's economic recovery.
 
-## Follow-up Questions 🤖
-
-1. What specific policies are in place to improve Sri Lanka’s tourism sector and increase foreign currency inflows?
-2. How did the Easter Sunday attacks and COVID-19 pandemic affect Sri Lanka's economy and foreign currency inflow? 
-3. In what ways can the government of Sri Lanka make the country a more attractive destination for foreign direct investment (FDI)?
-4. What are the barriers preventing the repatriation of worker remittances and what measures does the government plan to take to build worker's confidence? 
-5. How effective have past austerity programs with the IMF been in managing the country's foreign currency inflows and overall economic health?
-6. How are workers who have left for foreign jobs being incentivized to send remittances back to Sri Lanka? 
-7. Why have the IMF's conditions not been fully implemented to date and what are the possible external solutions to counterproductive conditions?
-8. How does the increase in worker remittances relate to the number of Sri Lankan’s working overseas?
-9. How will the government manage the impact of IMF's conditions aimed at internal controls on the domestic population? 
-10. How does Sri Lanka's financial situation and these issues compare to other countries in the region?
-
 ## Full Text
 
 [https://www.ft.lk/columns/Yes-it-is-26-b-in-just-5-years/4-763704](https://www.ft.lk/columns/Yes-it-is-26-b-in-just-5-years/4-763704)

@@ -25,19 +25,6 @@ Opinions expressed:
 - The reversal by Trump on EVs, batteries, and renewables would likely provoke a clash in the Republican Party.
 - Both Democrats and Republicans may fight over the preservation of clean-energy investments.
 
-## Follow-up Questions 🤖
-
-1. What differences can be observed in Joe Biden and Donald Trump's policies regarding industrial growth, especially in the areas of clean energy and semiconductors?
-2. What are the potential impacts of the introduced tariffs on Chinese goods in the US?
-3. How do labour cost disparities between the US and China affect the competitiveness of US producers in the manufacturing sector?
-4. How have previous industrial policies been implemented in the US, and what were their outcomes?
-5. What are some of the challenges that US industries face that may hinder their revival, even under Biden’s industrial policy? 
-6. What could be the potentially significant effects of significant changes in tariffs and subsidies under Trump and Biden, respectively?
-7. How might the disbursement of funds from the three key pieces of legislation proceed in a second Biden administration, and how might this differ in a second Trump administration?
-8. Could there be a potential clash within the Republican Party if Trump reverses clean-energy measures, and how might this impact the party’s stance on industrial policy?
-9. Given the differences in each candidate’s approach to industrial policy and international trade, what might the implications be for US and global economic growth?
-10. How might the shift of industrial investments to the south-east US influence the regional economy, politics, and potential for future industrial growth?
-
 ## Full Text
 
 [https://www.eiu.com/n/us-election-its-impact-on-industrial-policy/](https://www.eiu.com/n/us-election-its-impact-on-industrial-policy/)

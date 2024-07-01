@@ -19,19 +19,6 @@ Opinions:
 - The EIU believe that the BJP-led coalition will successfully complete its term in parliament till 2029 due to its strong relationship with allies and synergies in policy direction. 
 - The EIU’s Country Analysis service boasts unmatched global insights covering the political and economic outlook for nearly 200 countries.
 
-## Follow-up Questions 🤖
-
-1. Which specific reforms is Prime Minister Narendra Modi expected to face challenges with due to his reduced majority?
-2. How will the reduced majority impact India's international relations, particularly with south-east Asian economies?
-3. Can you elaborate on the BJP's relationship with allies and synergies in policy direction that will enable it to complete its term till 2029 despite political instability?
-4. Why is the EIU forecasting a lower growth potential for India despite it maintaining its position as one of the strongest-growing emerging markets?
-5. What exactly are the "solid economic fundamentals" that place India in a good position to capitalise on trends of supply chain diversification?
-6. What measures is the government taking to successfully transition the workforce from rural labour to more productive urban jobs?
-7. How might the perceived political instability in India impact foreign direct investment in the country?
-8. Are there any indications on how Prime Minister Modi intends to navigate policy gridlocks on significant reforms?
-9. How might the developments in India's political landscape influence its standing on the global stage?
-10. What are the specific sectors mentioned where India's economy is expected to shift up the value chain?
-
 ## Full Text
 
 [https://www.eiu.com/n/global-outlook-indias-political-and-economic-outlook-post-election/](https://www.eiu.com/n/global-outlook-indias-political-and-economic-outlook-post-election/)

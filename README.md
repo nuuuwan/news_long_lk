@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-01 06:27:12**
+Last Updated **2024-07-01 18:16:50**
 
 ## 2024-07-01
 
+* [How to Structure Customer Service Calls to Boost Satisfaction and Sales](data/articles/how-to-structure-custome.986b1135/README.md) `hbr.org`
 * [How should Sri Lanka leverage a new era in the UK?](data/articles/how-should-sri-lanka-lev.60041bcc/README.md) `ft.lk`
 * [Yes, it is $ 26 b in just 5 years](data/articles/yes-it-is-26-b-in-just-5.105c2de0/README.md) `ft.lk`
 * [Will wind power projects mortgage our future?](data/articles/will-wind-power-projects.bcaef9ef/README.md) `ft.lk`
