@@ -44,4 +44,3 @@ class ArticleAIText:
             'summary',
             "Summarize the following article into 10 bullets. Annotate with emojis.",
         )
-

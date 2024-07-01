@@ -67,6 +67,5 @@ class Scraper:
             try:
                 article = self.scrape_article(article_head)
                 article.save_all()
-            except:
+            except BaseException:
                 log.error(f'Error scraping {article_head.url}')
-                
