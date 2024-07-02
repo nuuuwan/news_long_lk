@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-01 18:16:50**
+Last Updated **2024-07-02 06:25:55**
 
 ## 2024-07-01
 
+* [Debt-to-GDP ratio and foreign reserves, the measures of a country’s economic health](data/articles/debt-to-gdp-ratio-and-fo.0c6619b9/README.md) `ft.lk`
+* [Imputed rental income tax: Gateway to corruption on a massive scale](data/articles/imputed-rental-income-ta.38335776/README.md) `ft.lk`
+* [Current status of construction contractors in time of crisis and implications on economy](data/articles/current-status-of-constr.75fea123/README.md) `ft.lk`
+* [When one thing leads to nothing](data/articles/when-one-thing-leads-to.bc353260/README.md) `ft.lk`
+* [Debt restructuring and taxes](data/articles/debt-restructuring-and-t.c282e33f/README.md) `ft.lk`
+* [Research: Speed Matters When Companies Respond to Social Issues](data/articles/research-speed-matters-w.3904e14c/README.md) `hbr.org`
 * [How to Structure Customer Service Calls to Boost Satisfaction and Sales](data/articles/how-to-structure-custome.986b1135/README.md) `hbr.org`
 * [How should Sri Lanka leverage a new era in the UK?](data/articles/how-should-sri-lanka-lev.60041bcc/README.md) `ft.lk`
 * [Yes, it is $ 26 b in just 5 years](data/articles/yes-it-is-26-b-in-just-5.105c2de0/README.md) `ft.lk`
@@ -52,6 +58,7 @@ Last Updated **2024-07-01 18:16:50**
 * [Sri Lanka’s solitary non-Govigama Prime Minister and President](data/articles/sri-lanka-s-solitary-non.5a4b5198/README.md) `ft.lk`
 * [Emerging Presidential election campaigns in Sri Lanka: Liberal consensus and fringe politics](data/articles/emerging-presidential-el.0360a7ea/README.md) `ft.lk`
 * [Corporate Governance Listing Rules on Board policies](data/articles/corporate-governance-lis.af012ca6/README.md) `ft.lk`
+* [Job title of the future: Space debris engineer](data/articles/job-title-of-the-future.af985999/README.md) `technologyreview.com`
 
 ## 2024-06-25
 

@@ -1,0 +1,10 @@
+1. 🚀 Stijn Lemmens, a senior space debris mitigation analyst at the European Space Agency (ESA), works to reduce space pollution.
+2. 🛰️ Lemmens works with spacecraft designers and the wider industry to create missions less likely to leave debris in orbit.
+3. 🗑️ Many previous spacecraft were not designed with an exit strategy, leaving them in orbit and creating space debris.
+4. 🌍 These debris pose a risk of collision which must be managed and monitored.
+5. 🧪 Lemmens collaborates with scientists and engineers to design safer spacecraft that can leave space properly after their missions.
+6. 🌐 ESA is considering devising strategies including propulsion that works reliably even decades after launch or designing systems that can manoeuvre spacecraft safely through the atmosphere.
+7. 📜 National and international guidelines recommend that satellites lower their altitude at the end of their operational lives to eventually be pulled out of orbit by Earth's atmosphere.
+8. ⏱️ While previously, the goal was for satellites to re-enter the atmosphere within 25 years, Lemmens and peers now suggest a timeframe of 5 years.
+9. 📈 With about 11,500 satellites and over 35,000 debris objects being tracked, and more launches in plan, space debris will likely continue to be a significant issue.
+10. ♻️ Future approaches might involve dismantling satellites making use of their components in orbit in order to find sustainable solutions.
