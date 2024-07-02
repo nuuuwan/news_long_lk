@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-02 06:25:55**
+Last Updated **2024-07-02 18:16:02**
+
+## 2024-07-02
+
+* [How Part-Time Senior Leaders Can Help Your Business](data/articles/how-part-time-senior-lea.35f80b78/README.md) `hbr.org`
+* [Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?](data/articles/will-the-economic-good-n.4cc11f99/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-01
 
@@ -10,6 +15,8 @@ Last Updated **2024-07-02 06:25:55**
 * [Imputed rental income tax: Gateway to corruption on a massive scale](data/articles/imputed-rental-income-ta.38335776/README.md) `ft.lk`
 * [Current status of construction contractors in time of crisis and implications on economy](data/articles/current-status-of-constr.75fea123/README.md) `ft.lk`
 * [When one thing leads to nothing](data/articles/when-one-thing-leads-to.bc353260/README.md) `ft.lk`
+* [“We can no longer afford to revert to old politics. The choices we make today profoundly impact our future.  Can we afford to return to the days of long queues and traditional politics? We must decisively choose our course.”- President Ranil Wickremesinghe in Matara.](data/articles/we-can-no-longer-afford.2fcfe37d/README.md) `dbsjeyaraj.com`
+* [Veteran Tamil Political Leader Rajavarothayam Sampanthan’s Funeral to be held  in Trincomalee on Sunday 7th July](data/articles/veteran-tamil-political.e24953c4/README.md) `dbsjeyaraj.com`
 * [Debt restructuring and taxes](data/articles/debt-restructuring-and-t.c282e33f/README.md) `ft.lk`
 * [Research: Speed Matters When Companies Respond to Social Issues](data/articles/research-speed-matters-w.3904e14c/README.md) `hbr.org`
 * [How to Structure Customer Service Calls to Boost Satisfaction and Sales](data/articles/how-to-structure-custome.986b1135/README.md) `hbr.org`
