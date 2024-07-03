@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-02 18:16:02**
+Last Updated **2024-07-03 06:25:33**
+
+## 2024-07-03
+
+* [Institutionalising corruption and nepotism: Office for International Trade](data/articles/institutionalising-corru.52440b18/README.md) `ft.lk`
+* [Ranasinghe Premadasa: From subaltern status to pinnacle of power](data/articles/ranasinghe-premadasa-fro.006d509d/README.md) `ft.lk`
+* [Unvisited places](data/articles/unvisited-places.70fce048/README.md) `ft.lk`
+* [The obstacle course I ran over four days to get an eVisa to Sri Lanka](data/articles/the-obstacle-course-i-ra.103f4679/README.md) `ft.lk`
 
 ## 2024-07-02
 
+* [3 Steps to Cultivate an Innovator’s Mindset](data/articles/3-steps-to-cultivate-an.25649d69/README.md) `hbr.org`
 * [How Part-Time Senior Leaders Can Help Your Business](data/articles/how-part-time-senior-lea.35f80b78/README.md) `hbr.org`
 * [Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?](data/articles/will-the-economic-good-n.4cc11f99/README.md) `dbsjeyaraj.com`
 
@@ -35,6 +43,7 @@ Last Updated **2024-07-02 18:16:02**
 
 * [Bridging Sri Lanka’s “Leadership Deficit”: a conceptual framework for the near-future](data/articles/bridging-sri-lanka-s-lea.9f0a5eec/README.md) `ft.lk`
 * [Why system change?](data/articles/why-system-change.557aa236/README.md) `ft.lk`
+* [How Arizona Is Working to Bridge the Semiconductor Workforce Gap](data/articles/how-arizona-is-working-t.9e775d89/README.md) `hbr.org`
 * [Colombo  High Court  Finds  Hirunika Premachandra Guilty of 18 Charges Including the Abduction, Assault and Intimidation of a Youth at Dematagoda in 2015 and  Sentences Former Colombo MP  to 3 Years  Rigorous Imprisonment ;Will Seek Bail on Monday says her Lawyer](data/articles/colombo-high-court-finds.0790700c/README.md) `dbsjeyaraj.com`
 * [The New Rules of Marketing Across Channels](data/articles/the-new-rules-of-marketi.dc8055fa/README.md) `hbr.org`
 * [3 Ways to Build a Culture That Lets High Performers Thrive](data/articles/3-ways-to-build-a-cultur.6d4bfac8/README.md) `hbr.org`
