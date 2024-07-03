@@ -2,14 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-03 06:25:33**
+Last Updated **2024-07-03 18:17:10**
 
 ## 2024-07-03
 
+* [How AI Can Change the Way Your Company Gets Work Done](data/articles/how-ai-can-change-the-wa.e9d62a23/README.md) `hbr.org`
 * [Institutionalising corruption and nepotism: Office for International Trade](data/articles/institutionalising-corru.52440b18/README.md) `ft.lk`
 * [Ranasinghe Premadasa: From subaltern status to pinnacle of power](data/articles/ranasinghe-premadasa-fro.006d509d/README.md) `ft.lk`
 * [Unvisited places](data/articles/unvisited-places.70fce048/README.md) `ft.lk`
 * [The obstacle course I ran over four days to get an eVisa to Sri Lanka](data/articles/the-obstacle-course-i-ra.103f4679/README.md) `ft.lk`
+* [“My decisions are not driven by political power or popularity. They are made solely for the country’s benefit. Every decision has been aimed at national progress, not personal gain”- President Ranil Wickremesinghe in Special Statement to Parliament](data/articles/my-decisions-are-not-dr.a4cd373c/README.md) `dbsjeyaraj.com`
+* [Bhikku politics is a key causative factor of the national malaise and no system-change for the better is possible if political monks continue to propose and dispose.](data/articles/bhikku-politics-is-a-key.4ba73dda/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-02
 
@@ -33,6 +36,7 @@ Last Updated **2024-07-03 06:25:33**
 * [Will wind power projects mortgage our future?](data/articles/will-wind-power-projects.bcaef9ef/README.md) `ft.lk`
 * [Taking the dread, apprehension and suspicion out of Performance Reviews](data/articles/taking-the-dread-apprehe.24146f4d/README.md) `ft.lk`
 * [Sri Lanka’s Rule of Men should end to give way for Rule of (Fair) Law](data/articles/sri-lanka-s-rule-of-men.b94dc884/README.md) `ft.lk`
+* [How fish-safe hydropower technology could keep more renewables on the grid](data/articles/how-fish-safe-hydropower.fa566642/README.md) `technologyreview.com`
 
 ## 2024-06-30
 
