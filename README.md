@@ -2,12 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-04 06:25:33**
+Last Updated **2024-07-04 18:16:33**
 
 ## 2024-07-04
 
+* [How Companies Can Mitigate AI’s Growing Environmental Footprint](data/articles/how-companies-can-mitiga.bb40015c/README.md) `hbr.org`
+* [EIU tops the list of world’s best economic forecasters](data/articles/eiu-tops-the-list-of-wor.e3087878/README.md) `eiu.com`
 * [Five reasons why Ranil must be superseded in 100 days](data/articles/five-reasons-why-ranil-m.22002797/README.md) `ft.lk`
 * [Sampanthan, stature diminished by links to LTTE, is no more](data/articles/sampanthan-stature-dimin.840164e4/README.md) `ft.lk`
+* [Sampanthan, stature diminished by links to LTTE, is no more](data/articles/sampanthan-stature-dimin.4f933250/README.md) `ft.lk`
+* [பொருளாதார ” நற்செய்தி ” 2024 தேர்தலில் ரணிலுக்கு உதவுமா?](data/articles/ப-ர-ள-த-ர-நற-ச-ய-த-2024.11042cba/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-03
 
