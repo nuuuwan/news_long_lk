@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-03 18:17:10**
+Last Updated **2024-07-04 06:25:33**
+
+## 2024-07-04
+
+* [Five reasons why Ranil must be superseded in 100 days](data/articles/five-reasons-why-ranil-m.22002797/README.md) `ft.lk`
+* [Sampanthan, stature diminished by links to LTTE, is no more](data/articles/sampanthan-stature-dimin.840164e4/README.md) `ft.lk`
 
 ## 2024-07-03
 
+* [3 Lessons from The Washington Post’s Leadership Turmoil](data/articles/3-lessons-from-the-washi.2d1c973f/README.md) `hbr.org`
+* [Research: How Family Motivates People to Do Their Best Work](data/articles/research-how-family-moti.14d18584/README.md) `hbr.org`
 * [How AI Can Change the Way Your Company Gets Work Done](data/articles/how-ai-can-change-the-wa.e9d62a23/README.md) `hbr.org`
 * [Institutionalising corruption and nepotism: Office for International Trade](data/articles/institutionalising-corru.52440b18/README.md) `ft.lk`
 * [Ranasinghe Premadasa: From subaltern status to pinnacle of power](data/articles/ranasinghe-premadasa-fro.006d509d/README.md) `ft.lk`
