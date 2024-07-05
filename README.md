@@ -2,12 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-04 18:16:33**
+Last Updated **2024-07-05 06:26:22**
+
+## 2024-07-05
+
+* [Why parate is so hot these days](data/articles/why-parate-is-so-hot-the.2e539223/README.md) `ft.lk`
+* [Finance Ministry on Sri Lanka’s International Sovereign Bond Restructuring](data/articles/finance-ministry-on-sri.7d6eb042/README.md) `ft.lk`
 
 ## 2024-07-04
 
+* [On a merry-go-round with “debt sustainability”](data/articles/on-a-merry-go-round-with.d1dc02fd/README.md) `ft.lk`
+* [Imputed Rental Income Tax: A poisoned chalice?](data/articles/imputed-rental-income-ta.d58fe5c9/README.md) `ft.lk`
+* [Gold rally to continue as demand remains strong](data/articles/gold-rally-to-continue-a.58595eae/README.md) `eiu.com`
 * [How Companies Can Mitigate AI’s Growing Environmental Footprint](data/articles/how-companies-can-mitiga.bb40015c/README.md) `hbr.org`
 * [EIU tops the list of world’s best economic forecasters](data/articles/eiu-tops-the-list-of-wor.e3087878/README.md) `eiu.com`
+* [EIU named most awarded economic forecasting firm in 2024](data/articles/eiu-named-most-awarded-e.d49eae85/README.md) `eiu.com`
 * [Five reasons why Ranil must be superseded in 100 days](data/articles/five-reasons-why-ranil-m.22002797/README.md) `ft.lk`
 * [Sampanthan, stature diminished by links to LTTE, is no more](data/articles/sampanthan-stature-dimin.840164e4/README.md) `ft.lk`
 * [Sampanthan, stature diminished by links to LTTE, is no more](data/articles/sampanthan-stature-dimin.4f933250/README.md) `ft.lk`
@@ -29,6 +38,7 @@ Last Updated **2024-07-04 18:16:33**
 
 * [3 Steps to Cultivate an Innovator’s Mindset](data/articles/3-steps-to-cultivate-an.25649d69/README.md) `hbr.org`
 * [How Part-Time Senior Leaders Can Help Your Business](data/articles/how-part-time-senior-lea.35f80b78/README.md) `hbr.org`
+* [AI companies are finally being forced to cough up for training data](data/articles/ai-companies-are-finally.3f64c28e/README.md) `technologyreview.com`
 * [Will the  Economic “Good News” From Paris and Beijing Help Ranil  Win the 2024 Presidential Poll  in Sri Lanka?](data/articles/will-the-economic-good-n.4cc11f99/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-01

@@ -1,0 +1,10 @@
+1. 📊 AI's demand for training data has led to considerable internet scraping and conditions of use breaches, triggering backlash against AI industry practices. 
+2. 🎵 Major record labels Sony Music, Warner Music Group, and Universal Music Group are suing AI music companies, Suno and Udio, for copyright infringement. 
+3. 🎧 The labels allege the AI firms used copyrighted music on a vast scale in their training data, leading AI models to generate new music imitating existing recordings.
+4. ⚖️ The lawsuit outcome could set precedents for AI music's future and define AI development leverage. 
+5. 💰 The lawsuits suggest high-quality training data isn't free and that data owners may monetize access.
+6. ⚖️ Legal clarity on copyright law, fair use, and AI training data will likely take years, but impactful changes are in the pipeline. 
+7. 🤝 OpenAI is striking deals with news publishers like Politico, the Atlantic, Time, and Financial Times, offering funds and citation agreements in return for news archives access. YouTube has also proposed licensing deals.
+8. 🔄 This shift in AI data use may either encourage AI firms to create smaller, more efficient (and greener) models or invest heavily in vast-scale data access.
+9. 👥 Concentrated power with larger firms like Meta could occur, potentially offering broader data benefits if fairer and consent-driven data economies emerge. 
+10. 🕹️ In related news, AI video games are proving a valuable tool for studying the human mind, with valuable insights drawn from observing players' in-game behavior.
