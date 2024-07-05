@@ -1,0 +1,10 @@
+1. 🩺 Health care organisations are often finding that initially successful innovative processes decline in performance over time. 
+2. 💡 A solution to this is reimplementation: rethinking and reintroducing an innovative process with necessary changes. 
+3. 📚 Case study: A team at Ariadne Labs worked with Singapore General Hospital (SGH) to reimplement the surgical safety checklist, a communication tool introduced by the World Health Organization in 2009.
+4. 📉 Despite being filled out for most surgeries, audits showed some challenges persisted, revealing a lack of an embedded culture of safety.
+5. 🔄 SGH undertook an overhaul of its checklist approach, partnering with Ariadne Labs to help redesign and reimplement. 
+6. ✅ Post-reimplementation, SGH saw improvements in teamwork, problem-solving, and patient safety, alongside reductions in severe complications and mortality rates.
+7. ⚙️ Four principles were key to reimplementation success: matching organisational challenges with existing innovations; reimagining possibilities; overcoming routine habits; and embracing vulnerability.
+8. 🔍 A recognition that the checklist had become routine instead of a tool for intentional safety communication prompted this reimagining.
+9. ❗ Reimplementation requires a significant shift that creates a clear "before" and "after", preventing a return to old behaviours.
+10. 🏥 Reflection reveals the importance of periodically reviewing process innovations to catch and address performance declines early, allowing for redesign and reimplementation.

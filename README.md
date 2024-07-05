@@ -2,11 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-05 06:26:22**
+Last Updated **2024-07-05 18:16:54**
 
 ## 2024-07-05
 
+* [How to Salvage a Useful Process That Isn’t Working Anymore](data/articles/how-to-salvage-a-useful.4323b859/README.md) `hbr.org`
+* [AI lie detectors are better than humans at spotting lies](data/articles/ai-lie-detectors-are-bet.3b5e7ddf/README.md) `technologyreview.com`
 * [Why parate is so hot these days](data/articles/why-parate-is-so-hot-the.2e539223/README.md) `ft.lk`
+* [Why parate is so hot these days](data/articles/why-parate-is-so-hot-the.f4a2a8a6/README.md) `ft.lk`
 * [Finance Ministry on Sri Lanka’s International Sovereign Bond Restructuring](data/articles/finance-ministry-on-sri.7d6eb042/README.md) `ft.lk`
 
 ## 2024-07-04
@@ -17,6 +20,7 @@ Last Updated **2024-07-05 06:26:22**
 * [How Companies Can Mitigate AI’s Growing Environmental Footprint](data/articles/how-companies-can-mitiga.bb40015c/README.md) `hbr.org`
 * [EIU tops the list of world’s best economic forecasters](data/articles/eiu-tops-the-list-of-wor.e3087878/README.md) `eiu.com`
 * [EIU named most awarded economic forecasting firm in 2024](data/articles/eiu-named-most-awarded-e.d49eae85/README.md) `eiu.com`
+* [What new hydropower tech says about climate action](data/articles/what-new-hydropower-tech.f0b7b41b/README.md) `technologyreview.com`
 * [Five reasons why Ranil must be superseded in 100 days](data/articles/five-reasons-why-ranil-m.22002797/README.md) `ft.lk`
 * [Sampanthan, stature diminished by links to LTTE, is no more](data/articles/sampanthan-stature-dimin.840164e4/README.md) `ft.lk`
 * [Sampanthan, stature diminished by links to LTTE, is no more](data/articles/sampanthan-stature-dimin.4f933250/README.md) `ft.lk`
@@ -83,6 +87,7 @@ Last Updated **2024-07-05 06:26:22**
 * [Why Are Companies That Lose Money Still So Successful?](data/articles/why-are-companies-that-l.f85d2bdd/README.md) `hbr.org`
 * [Global Outlook: India’s political and economic outlook post-election](data/articles/global-outlook-india-s-p.15ff96f0/README.md) `eiu.com`
 * [These climate tech companies just got $60 million](data/articles/these-climate-tech-compa.91de39fd/README.md) `technologyreview.com`
+* [Training AI music models is about to get very expensive](data/articles/training-ai-music-models.c7e37b98/README.md) `technologyreview.com`
 * [Ranasinghe  Premadasa: Sri Lanka’s Solitary non-Govigama Prime Minister and President](data/articles/ranasinghe-premadasa-sri.ddeb5362/README.md) `dbsjeyaraj.com`
 * [“The people must determine whether to move forward with me, as I truly comprehend the challenges facing the country, provide practical solutions, and demonstrate tangible results, or align with groups that have yet to grasp the issues and are blindly seeking power” – President  Ranil  Wickremesinghe](data/articles/the-people-must-determi.30fc1af5/README.md) `dbsjeyaraj.com`
 * [Indian Fishermen Poaching in Sri Lankan Waters “Aggressively Resist”Arresr  and Seizure of Trawler by Lankan Navy;   Sailor from Navy Special Boat Squadron  Injured in Clash dies  in Jaffna Hospital](data/articles/indian-fishermen-poachin.fab9dcb3/README.md) `dbsjeyaraj.com`

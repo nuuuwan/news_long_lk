@@ -1,0 +1,10 @@
+1. 🎵🤖 AI music companies Suno and Udio have been sued by major record labels - Sony Music, Warner Music Group, and Universal Music Group - for allegedly using copyrighted music in their training data. 
+2. 👩‍⚖️ The labels claim these startups "imitate the qualities of genuine human sound recordings" at a large scale. 
+3. 📺🔒 YouTube is reportedly following a legal approach by offering lump sums to top record labels for licenses to use their catalogues for training AI music models. 
+4. 🚪🛑 Both Suno and Udio claim to take steps to prevent their models from imitating copyrighted works, but have not clarified if their training sets contain them.
+5. 🧑‍⚖️ Legal experts suggest the record labels' case is strong and could force AI companies to pay substantial licensing fees in order to continue operating.
+6. 🎵💰 Rights ownership in the music industry is heavily concentrated compared to film, images or text, with the three biggest record labels owning over 10 million songs. 
+7. 😓🎶 It's challenging to create AI-generated music that people want to listen to due to the taste required to make appealing music.
+8. 📈🎵 Suno, which has been public for less than a year, already boasts 12 million users and $125 million in funding, while Udio launched in April with $10 million in seed funding.
+9. 👨‍🎤🎤 Labels allege that Suno and Udio's models mimic the style of copyrighted songs, even when artists' names are omitted from prompts.
+10. 💸💡Depending on the lawsuit outcome, the AI companies could be completely hindered, slightly restricted or let off the hook, with possible damages running into hundreds of millions for each company. They might even need to undergo cost-prohibitive restructuring and licensing.

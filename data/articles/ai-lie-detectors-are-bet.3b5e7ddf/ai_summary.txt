@@ -1,0 +1,10 @@
+1. 📚 A study from the University of Würzburg in Germany found that artificial intelligence (AI) was better than humans at determining if a statement was a lie.
+2. 🖥️ The team trained Google's AI language model BERT on lies and truths from over 1,500 statements and found that it had a success rate of 67%.
+3. 👥 Humans on average only correctly identify lies half the time, making the AI significantly better at detecting falsehoods.
+4. 🛠️ About a third of study participants willingly used the tool when given the option to do so, indicating some level of trust.
+5. 🗣️ Accusation rates rose to 58% when participants used the AI tool, compared to 19% without it, showing increased lie detection.
+6. 🤔 Questions were raised on its impact on trust and relationships, and on the acceptable level of accuracy for such technologies.
+7. 🔎 The researchers suggest such a tool could be used to scan social media posts for fake news or examine job applications for inaccuracies.
+8. ⚖️ It's clarified that traditional lie detection methods like polygraphs also have limitations and are not admissible in US court cases.
+9. 💡 The researchers assert that experimenting with and improving these technologies is crucial before wide-scale deployment, due to potential for high-level accusations.
+10. 😷 Other uses of AI include the assessment of facial patterns and "microgestures" associated with truths and lies, adding to the complexity of its application.
