@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-05 18:16:54**
+Last Updated **2024-07-06 06:25:21**
 
 ## 2024-07-05
 
+* [The Global South sees Five Principles of Peaceful Coexistence as relevant and important norm](data/articles/the-global-south-sees-fi.e15092d1/README.md) `ft.lk`
+* [Sabry in Japan highlights Sri Lanka’s commitment to women’s participation across all societal levels](data/articles/sabry-in-japan-highlight.d22f3de7/README.md) `ft.lk`
+* [Debt restructuring and current economic trends: Discussion with CB Governor and Treasury Secretary](data/articles/debt-restructuring-and-c.d4b75fab/README.md) `ft.lk`
+* [Beyond the floods and droughts: Sri Lanka’s journey to sustainability](data/articles/beyond-the-floods-and-dr.dc385712/README.md) `ft.lk`
+* [Transforming enterprise risk management for sustainable and climate-friendly businesses](data/articles/transforming-enterprise.82aa7b69/README.md) `ft.lk`
 * [How to Salvage a Useful Process That Isn’t Working Anymore](data/articles/how-to-salvage-a-useful.4323b859/README.md) `hbr.org`
 * [AI lie detectors are better than humans at spotting lies](data/articles/ai-lie-detectors-are-bet.3b5e7ddf/README.md) `technologyreview.com`
 * [Why parate is so hot these days](data/articles/why-parate-is-so-hot-the.2e539223/README.md) `ft.lk`
