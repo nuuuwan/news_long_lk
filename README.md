@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-06 18:14:25**
+Last Updated **2024-07-07 06:24:33**
+
+## 2024-07-06
+
+* [Political Journey of  Tamil “Perunthalaiver” (Great Leader) Rajavarothayam Sampanthan.](data/articles/political-journey-of-tam.103bd157/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-05
 
