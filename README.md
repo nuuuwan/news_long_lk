@@ -2,13 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-08 06:25:41**
+Last Updated **2024-07-08 18:16:03**
 
 ## 2024-07-08
 
 * [Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire](data/articles/worsening-external-defic.e10deaaa/README.md) `ft.lk`
 * [Will environmentalists stall new 50MW Mannar wind power project?](data/articles/will-environmentalists-s.e44586dc/README.md) `ft.lk`
 * [A child’s guide to debt and restructuring: Country driven to economic collapse has not many options – Part I](data/articles/a-child-s-guide-to-debt.ca14f6a4/README.md) `ft.lk`
+
+## 2024-07-07
+
+* [“பெருந்தலைவர்’ இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்](data/articles/ப-ர-ந-தல-வர-இர-ஜவர-தயம.d69da748/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-06
 
