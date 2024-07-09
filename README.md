@@ -2,16 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-08 18:16:03**
+Last Updated **2024-07-09 06:25:59**
+
+## 2024-07-09
+
+* [Sri Lanka’s journey towards a brighter future: Reflections from outgoing World Bank Group country management](data/articles/sri-lanka-s-journey-towa.20211f72/README.md) `ft.lk`
+* [Promoting inclusive economic growth and private sector investment in Sri Lanka](data/articles/promoting-inclusive-econ.dd1e8dfc/README.md) `ft.lk`
+* [Politics of bankruptcy and solvency](data/articles/politics-of-bankruptcy-a.f07539d5/README.md) `ft.lk`
+* [Social entrepreneurship: Beacon of hope for Sri Lanka’s recovery](data/articles/social-entrepreneurship.b5d70b0e/README.md) `ft.lk`
+* [To make a race in a raceless society](data/articles/to-make-a-race-in-a-race.9640771b/README.md) `ft.lk`
 
 ## 2024-07-08
 
+* [The 6 Disciplines Companies Need to Get the Most Out of Gen AI](data/articles/the-6-disciplines-compan.d9b05855/README.md) `hbr.org`
 * [Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire](data/articles/worsening-external-defic.e10deaaa/README.md) `ft.lk`
 * [Will environmentalists stall new 50MW Mannar wind power project?](data/articles/will-environmentalists-s.e44586dc/README.md) `ft.lk`
 * [A child’s guide to debt and restructuring: Country driven to economic collapse has not many options – Part I](data/articles/a-child-s-guide-to-debt.ca14f6a4/README.md) `ft.lk`
 
 ## 2024-07-07
 
+* [From Subaltern Status to the Pinnacle of Power: Ranasinghe Premadasa’s Remarkable Rise.](data/articles/from-subaltern-status-to.45fdd06a/README.md) `dbsjeyaraj.com`
 * [“பெருந்தலைவர்’ இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்](data/articles/ப-ர-ந-தல-வர-இர-ஜவர-தயம.d69da748/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-06
@@ -93,6 +103,7 @@ Last Updated **2024-07-08 18:16:03**
 * [Why system change?](data/articles/why-system-change.557aa236/README.md) `ft.lk`
 * [How Arizona Is Working to Bridge the Semiconductor Workforce Gap](data/articles/how-arizona-is-working-t.9e775d89/README.md) `hbr.org`
 * [Colombo  High Court  Finds  Hirunika Premachandra Guilty of 18 Charges Including the Abduction, Assault and Intimidation of a Youth at Dematagoda in 2015 and  Sentences Former Colombo MP  to 3 Years  Rigorous Imprisonment ;Will Seek Bail on Monday says her Lawyer](data/articles/colombo-high-court-finds.0790700c/README.md) `dbsjeyaraj.com`
+* [Europe’s busy election calendar](data/articles/europe-s-busy-election-c.544d5a03/README.md) `eiu.com`
 * [The New Rules of Marketing Across Channels](data/articles/the-new-rules-of-marketi.dc8055fa/README.md) `hbr.org`
 * [3 Ways to Build a Culture That Lets High Performers Thrive](data/articles/3-ways-to-build-a-cultur.6d4bfac8/README.md) `hbr.org`
 * [Descent into lunacy](data/articles/descent-into-lunacy.a9234257/README.md) `ft.lk`
