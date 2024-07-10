@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-09 18:16:48**
+Last Updated **2024-07-10 06:26:20**
+
+## 2024-07-10
+
+* [Should an Econ student take Harshanomics 201?](data/articles/should-an-econ-student-t.53f2bf28/README.md) `ft.lk`
+* [Eliminating political corruption: Key to our recovery](data/articles/eliminating-political-co.ca1d4727/README.md) `ft.lk`
+* [The world must thank the Palestinians](data/articles/the-world-must-thank-the.de0c2c55/README.md) `ft.lk`
+* [A time to ponder; a time for change?](data/articles/a-time-to-ponder-a-time.4f33998c/README.md) `ft.lk`
+* [Overview of Japan-Sri Lanka economic relations](data/articles/overview-of-japan-sri-la.bc22af5e/README.md) `ft.lk`
 
 ## 2024-07-09
 
+* [The AI Advantage: Revolutionizing Company Culture for Unmatched Business Success](data/articles/the-ai-advantage-revolut.721d341e/README.md) `hbr.org`
+* [Post-Vacation Blues? Here’s How to Cope.](data/articles/post-vacation-blues-here.75ebdbb9/README.md) `hbr.org`
+* [Creating Stability Is Just as Important as Managing Change](data/articles/creating-stability-is-ju.5bafb204/README.md) `hbr.org`
 * [Sri Lanka’s journey towards a brighter future: Reflections from outgoing World Bank Group country management](data/articles/sri-lanka-s-journey-towa.20211f72/README.md) `ft.lk`
 * [Promoting inclusive economic growth and private sector investment in Sri Lanka](data/articles/promoting-inclusive-econ.dd1e8dfc/README.md) `ft.lk`
 * [Politics of bankruptcy and solvency](data/articles/politics-of-bankruptcy-a.f07539d5/README.md) `ft.lk`

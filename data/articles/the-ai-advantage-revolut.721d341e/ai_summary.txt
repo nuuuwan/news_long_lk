@@ -1,0 +1,10 @@
+1. 🏢 Company culture is critical for recruitment, employee engagement, and building a resilient workforce. 
+2. 📊 Legacy methods of measuring culture through surveys or consulting are often challenging, expensive, and outdated.
+3. 🤖 Increasing use of artificial intelligence (AI) in human resources (HR) shows that employee recognition programs are a rich source of data.
+4. 📈 Data from these programs can be used to identify employee skills, productivity, and innovative ideas, significantly influencing HR’s approach to talent management.
+5. ✍️ HR teams can use generative AI (GenAI)-powered cultural intelligence to create a map of company recognition and extract data through text-based questions.
+6. 🌐 This approach is used by Workhuman in its Human Intelligence™ service, providing actionable business insights from a combination of recognition data, AI, and consulting.
+7. 👀 Layering AI over existing peer-to-peer recognition programs reveals hidden insights into a company’s culture, employee values, and opportunities for structural enhancement.
+8. 👥 GenAI can identify skills and retention patterns, match employees to new roles, and provide a detailed picture of teamwork dynamics.
+9. 🏆 Employee recognition is highly valuable, with engaged employees more likely to stay in the company, reducing burnout and enhancing productivity.
+10. 🚀 With advancing AI-powered tools in HR, companies that adapt to the future of work can potentially drive growth and gain a competitive edge.
