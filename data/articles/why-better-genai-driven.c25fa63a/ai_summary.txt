@@ -1,0 +1,10 @@
+1. 🧠 Generative AI (GenAI) brings competitiveness to banks and has potential in the commercial real estate (CRE) sector. 
+2. 📊 Issues with data quality and ease of access have been hindrances to CRE adoption of GenAI. 
+3. 💼 AI models trained on large CRE datasets can give valuable insights, helping institutions better understand industry trends and manage their property portfolios.
+4. 📈 GenAI can rapidly process large volumes of data, automate manual tasks, and boost productivity by allowing employees to focus on strategic work.
+5. 💾 The quality of AI's results depends on the data it's trained on. Large, comprehensive CRE datasets can enhance the efficacy of the AI system.
+6. 🛠️ Financial institutions can optimize portfolios by combining human expertise with GenAI insights to handle assets and manage risks.
+7. 🏢 AI platforms like JLL's Hank optimizes commercial buildings by adjusting HVAC settings and predicting maintenance issues.
+8. 👥 The integration of AI into CRE can transform the role of employees, shifting focus to relationship building and business opportunities.
+9. 🔄 The pandemic has led to increased data sets on workspaces, creating a need for AI technology to consolidate and provide insights from these sets.
+10. 📈 Incorporating AI into the CRE sector could generate over $110 billion in annual value for the real estate industry.

@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-10 18:17:39**
+Last Updated **2024-07-11 06:26:38**
+
+## 2024-07-11
+
+* [Adani controversy: Why the cheerleaders are wrong](data/articles/adani-controversy-why-th.3e6b0f69/README.md) `ft.lk`
+* [Trust in Government’s commitment to democratic process crucial for recovery](data/articles/trust-in-government-s-co.b53731c5/README.md) `ft.lk`
 
 ## 2024-07-10
 
+* [Ninety-two years with the people: Taxes for better future](data/articles/ninety-two-years-with-th.5863f3aa/README.md) `ft.lk`
+* [UK-France elections, Anura-Sajith balance and Sampanthan’s political tragedy](data/articles/uk-france-elections-anur.f8e07f4a/README.md) `ft.lk`
+* [Expert Sessions: Simone Heng on How to Build Authentic Relationships in Networking](data/articles/expert-sessions-simone-h.86b22806/README.md) `hbr.org`
+* [Expert Sessions: Mark Birch on the Five Questions to Ask When Building a Community](data/articles/expert-sessions-mark-bir.c87267f9/README.md) `hbr.org`
+* [Why Better GenAI-Driven Real Estate Decisions Stem from Better Data Sets](data/articles/why-better-genai-driven.c25fa63a/README.md) `hbr.org`
+* [Designing a Successful Reskilling Program](data/articles/designing-a-successful-r.e673f96b/README.md) `hbr.org`
 * [It’s Time to Change How ESG Is Measured](data/articles/it-s-time-to-change-how.0b23f1ab/README.md) `hbr.org`
 * [Should an Econ student take Harshanomics 201?](data/articles/should-an-econ-student-t.53f2bf28/README.md) `ft.lk`
 * [Eliminating political corruption: Key to our recovery](data/articles/eliminating-political-co.ca1d4727/README.md) `ft.lk`
