@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-11 06:26:38**
+Last Updated **2024-07-11 18:16:41**
 
 ## 2024-07-11
 
+* [Research: New Hires’ Psychological Safety Erodes Quickly](data/articles/research-new-hires-psych.a9c9bfcc/README.md) `hbr.org`
 * [Adani controversy: Why the cheerleaders are wrong](data/articles/adani-controversy-why-th.3e6b0f69/README.md) `ft.lk`
 * [Trust in Government’s commitment to democratic process crucial for recovery](data/articles/trust-in-government-s-co.b53731c5/README.md) `ft.lk`
 
