@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-12 06:26:17**
+Last Updated **2024-07-12 18:16:36**
 
 ## 2024-07-12
 
+* [6 Ways to Bring Strategy into Your Work Every Day](data/articles/6-ways-to-bring-strategy.2a60a5ae/README.md) `hbr.org`
 * [Decarbonising the supply chain: Role of digital technologies](data/articles/decarbonising-the-supply.a7733969/README.md) `ft.lk`
 * [Is excessive board interference killing executive spirit?](data/articles/is-excessive-board-inter.7281b0ec/README.md) `ft.lk`
 * [That regional carrot of doing good and being best](data/articles/that-regional-carrot-of.14c5ae06/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2024-07-12 06:26:17**
 
 ## 2024-07-11
 
+* [“Capt. Miller” the LTTE’s first Black Tiger suicide bomber](data/articles/capt-miller-the-ltte-s.50407394/README.md) `ft.lk`
 * [When a Coworker Keeps Giving You Unsolicited Advice](data/articles/when-a-coworker-keeps-gi.c30289bf/README.md) `hbr.org`
 * [4 Tips for New Grads Struggling to Find a Job](data/articles/4-tips-for-new-grads-str.cf02872d/README.md) `hbr.org`
 * [Research: New Hires’ Psychological Safety Erodes Quickly](data/articles/research-new-hires-psych.a9c9bfcc/README.md) `hbr.org`
