@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-11 18:16:41**
+Last Updated **2024-07-12 06:26:17**
+
+## 2024-07-12
+
+* [Decarbonising the supply chain: Role of digital technologies](data/articles/decarbonising-the-supply.a7733969/README.md) `ft.lk`
+* [Is excessive board interference killing executive spirit?](data/articles/is-excessive-board-inter.7281b0ec/README.md) `ft.lk`
+* [That regional carrot of doing good and being best](data/articles/that-regional-carrot-of.14c5ae06/README.md) `ft.lk`
+* [Change, system or the people?](data/articles/change-system-or-the-peo.f5e00369/README.md) `ft.lk`
+* [Questions over the term of the President](data/articles/questions-over-the-term.9d2a7982/README.md) `ft.lk`
 
 ## 2024-07-11
 
+* [When a Coworker Keeps Giving You Unsolicited Advice](data/articles/when-a-coworker-keeps-gi.c30289bf/README.md) `hbr.org`
+* [4 Tips for New Grads Struggling to Find a Job](data/articles/4-tips-for-new-grads-str.cf02872d/README.md) `hbr.org`
 * [Research: New Hires’ Psychological Safety Erodes Quickly](data/articles/research-new-hires-psych.a9c9bfcc/README.md) `hbr.org`
 * [Adani controversy: Why the cheerleaders are wrong](data/articles/adani-controversy-why-th.3e6b0f69/README.md) `ft.lk`
 * [Trust in Government’s commitment to democratic process crucial for recovery](data/articles/trust-in-government-s-co.b53731c5/README.md) `ft.lk`
@@ -24,12 +34,14 @@ Last Updated **2024-07-11 18:16:41**
 * [The world must thank the Palestinians](data/articles/the-world-must-thank-the.de0c2c55/README.md) `ft.lk`
 * [A time to ponder; a time for change?](data/articles/a-time-to-ponder-a-time.4f33998c/README.md) `ft.lk`
 * [Overview of Japan-Sri Lanka economic relations](data/articles/overview-of-japan-sri-la.bc22af5e/README.md) `ft.lk`
+* [What is AI?](data/articles/what-is-ai.b5af9fa1/README.md) `technologyreview.com`
 
 ## 2024-07-09
 
 * [The AI Advantage: Revolutionizing Company Culture for Unmatched Business Success](data/articles/the-ai-advantage-revolut.721d341e/README.md) `hbr.org`
 * [Post-Vacation Blues? Here’s How to Cope.](data/articles/post-vacation-blues-here.75ebdbb9/README.md) `hbr.org`
 * [Creating Stability Is Just as Important as Managing Change](data/articles/creating-stability-is-ju.5bafb204/README.md) `hbr.org`
+* [Can AI help me plan my honeymoon?](data/articles/can-ai-help-me-plan-my-h.ad8759ad/README.md) `technologyreview.com`
 * [Sri Lanka’s journey towards a brighter future: Reflections from outgoing World Bank Group country management](data/articles/sri-lanka-s-journey-towa.20211f72/README.md) `ft.lk`
 * [Promoting inclusive economic growth and private sector investment in Sri Lanka](data/articles/promoting-inclusive-econ.dd1e8dfc/README.md) `ft.lk`
 * [Politics of bankruptcy and solvency](data/articles/politics-of-bankruptcy-a.f07539d5/README.md) `ft.lk`
@@ -39,6 +51,7 @@ Last Updated **2024-07-11 18:16:41**
 
 ## 2024-07-08
 
+* [In charts: the changing picture of China’s outbound study](data/articles/in-charts-the-changing-p.02409501/README.md) `eiu.com`
 * [The 6 Disciplines Companies Need to Get the Most Out of Gen AI](data/articles/the-6-disciplines-compan.d9b05855/README.md) `hbr.org`
 * [How to use AI to plan your next vacation](data/articles/how-to-use-ai-to-plan-yo.666d27a4/README.md) `technologyreview.com`
 * [Worsening external deficit to improve fiscal deficit: Jumping from frying pan into the fire](data/articles/worsening-external-defic.e10deaaa/README.md) `ft.lk`
