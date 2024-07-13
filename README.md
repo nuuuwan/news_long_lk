@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-12 18:16:36**
+Last Updated **2024-07-13 06:25:24**
+
+## 2024-07-13
+
+* [Adani wind project: Is it a controversy created?](data/articles/adani-wind-project-is-it.82e6a6bc/README.md) `ft.lk`
+* [Climate risk and the fashion and textile industry](data/articles/climate-risk-and-the-fas.d4a7f77c/README.md) `ft.lk`
+* [Debt relief, reforms and democracy](data/articles/debt-relief-reforms-and.2d47cf44/README.md) `ft.lk`
 
 ## 2024-07-12
 
+* [Murder Most Foul: Assassination of Appapillai  Amirthalingam 35 Years ago](data/articles/murder-most-foul-assassi.a5e354ab/README.md) `dbsjeyaraj.com`
+* [When a Team Member Speaks Up — and It Doesn’t Go Well](data/articles/when-a-team-member-speak.afecd11e/README.md) `hbr.org`
+* [To Improve Health Care, Focus on Fixing Systems — Not People](data/articles/to-improve-health-care-f.dc059f7b/README.md) `hbr.org`
 * [6 Ways to Bring Strategy into Your Work Every Day](data/articles/6-ways-to-bring-strategy.2a60a5ae/README.md) `hbr.org`
 * [Decarbonising the supply chain: Role of digital technologies](data/articles/decarbonising-the-supply.a7733969/README.md) `ft.lk`
 * [Is excessive board interference killing executive spirit?](data/articles/is-excessive-board-inter.7281b0ec/README.md) `ft.lk`
