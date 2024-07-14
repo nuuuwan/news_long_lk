@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-14 06:24:22**
+Last Updated **2024-07-14 18:20:30**
+
+## 2024-07-14
+
+* [“Captain  Miller” the  LTTE’s First Black Tiger (Karumpuli) Suicide Bomber.](data/articles/captain-miller-the-ltte.1504104a/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-13
 
