@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-14 18:20:30**
+Last Updated **2024-07-15 06:24:40**
+
+## 2024-07-15
+
+* [Economics of free healthcare: Key trendsetters and sustainability of public health expenditure in Sri Lanka](data/articles/economics-of-free-health.b9fd9ff5/README.md) `ft.lk`
+* [Child’s guide to debt and debt restructuring – Part II](data/articles/child-s-guide-to-debt-an.b2970ad1/README.md) `ft.lk`
 
 ## 2024-07-14
 
