@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-15 06:24:40**
+Last Updated **2024-07-15 18:16:43**
 
 ## 2024-07-15
 
+* [How to Equitably Assign High-Profile Work](data/articles/how-to-equitably-assign.2e594463/README.md) `hbr.org`
+* [இலங்கை தமிழர் அரசியலின் சமகால வரலாற்றில் தீர்க்கமான நிகழ்வுகள் நிறைந்த காலகட்டத்தை உள்ளடக்கிய  இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்](data/articles/இலங-க-தம-ழர-அரச-யல-ன-சமக.0eb4cbd9/README.md) `dbsjeyaraj.com`
 * [Economics of free healthcare: Key trendsetters and sustainability of public health expenditure in Sri Lanka](data/articles/economics-of-free-health.b9fd9ff5/README.md) `ft.lk`
 * [Child’s guide to debt and debt restructuring – Part II](data/articles/child-s-guide-to-debt-an.b2970ad1/README.md) `ft.lk`
 
