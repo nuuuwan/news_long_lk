@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-15 18:16:43**
+Last Updated **2024-07-16 06:25:06**
 
 ## 2024-07-15
 
+* [IMF forgotten the SL housewife?](data/articles/imf-forgotten-the-sl-hou.e84a971d/README.md) `ft.lk`
+* [Revising Sri Lanka’s approach to PPPs key to unlocking sustainable public infrastructure investments](data/articles/revising-sri-lanka-s-app.fe17bf9d/README.md) `ft.lk`
+* [The Uneven Distribution of AI’s Environmental Impacts](data/articles/the-uneven-distribution.d57345ae/README.md) `hbr.org`
+* [How to Get the Most Out of Your Relationship with a Career Sponsor](data/articles/how-to-get-the-most-out.42775537/README.md) `hbr.org`
 * [How to Equitably Assign High-Profile Work](data/articles/how-to-equitably-assign.2e594463/README.md) `hbr.org`
 * [இலங்கை தமிழர் அரசியலின் சமகால வரலாற்றில் தீர்க்கமான நிகழ்வுகள் நிறைந்த காலகட்டத்தை உள்ளடக்கிய  இராஜவரோதயம் சம்பந்தனின் அரசியல் பயணம்](data/articles/இலங-க-தம-ழர-அரச-யல-ன-சமக.0eb4cbd9/README.md) `dbsjeyaraj.com`
 * [Economics of free healthcare: Key trendsetters and sustainability of public health expenditure in Sri Lanka](data/articles/economics-of-free-health.b9fd9ff5/README.md) `ft.lk`
