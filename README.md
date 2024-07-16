@@ -2,12 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-16 06:25:06**
+Last Updated **2024-07-16 18:15:35**
+
+## 2024-07-16
+
+* [Should an Aging Leader Step Aside?](data/articles/should-an-aging-leader-s.805f2412/README.md) `hbr.org`
 
 ## 2024-07-15
 
 * [IMF forgotten the SL housewife?](data/articles/imf-forgotten-the-sl-hou.e84a971d/README.md) `ft.lk`
 * [Revising Sri Lanka’s approach to PPPs key to unlocking sustainable public infrastructure investments](data/articles/revising-sri-lanka-s-app.fe17bf9d/README.md) `ft.lk`
+* [Rajavarothayam Sampanthan: The Political Journey of a “Perunthalaiver” (Great Leader) –  Part 2.](data/articles/rajavarothayam-sampantha.dbc84e02/README.md) `dbsjeyaraj.com`
 * [The Uneven Distribution of AI’s Environmental Impacts](data/articles/the-uneven-distribution.d57345ae/README.md) `hbr.org`
 * [How to Get the Most Out of Your Relationship with a Career Sponsor](data/articles/how-to-get-the-most-out.42775537/README.md) `hbr.org`
 * [How to Equitably Assign High-Profile Work](data/articles/how-to-equitably-assign.2e594463/README.md) `hbr.org`
