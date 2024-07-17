@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-17 06:26:24**
+Last Updated **2024-07-17 18:19:41**
 
 ## 2024-07-17
 
+* [The Risks of Botshit](data/articles/the-risks-of-botshit.ffe04e6e/README.md) `hbr.org`
 * [Black July 83 – never again](data/articles/black-july-83-never-agai.233f0a66/README.md) `ft.lk`
 * [Debt recovery process as rehabilitation mechanism](data/articles/debt-recovery-process-as.6ad62221/README.md) `ft.lk`
 * [Capt. Miller’s Nelliaddy attack gave birth to the Black Tigers](data/articles/capt-miller-s-nelliaddy.e8b72f14/README.md) `ft.lk`
@@ -14,6 +15,8 @@ Last Updated **2024-07-17 06:26:24**
 
 ## 2024-07-16
 
+* [If Incumbent President Ranil Wickremesinghe thinks he could win because he salvaged the economy from a free fall, he might be overly optimistic. Perhaps he has to rethink his campaign message to make it more palatable to the grassroots. Possibly, he can ask Mahinda Rajapaksa how to do that!](data/articles/if-incumbent-president-r.c8dcbce9/README.md) `dbsjeyaraj.com`
+* [President Ranil Wickreme-singhe  challenges Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to disclose the source of funding for the party’s ongoing school bus donation program.; says he will collaborate with SJB to combat corruption if it reveals source of funding behind school bus donations](data/articles/president-ranil-wickreme.58bfea54/README.md) `dbsjeyaraj.com`
 * [The Limits of GenAI Educators](data/articles/the-limits-of-genai-educ.490ef825/README.md) `hbr.org`
 * [7 Ways to Weave Mindfulness into Your Workday](data/articles/7-ways-to-weave-mindfuln.c8f493df/README.md) `hbr.org`
 * [Should an Aging Leader Step Aside?](data/articles/should-an-aging-leader-s.805f2412/README.md) `hbr.org`
