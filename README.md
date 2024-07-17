@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-16 18:15:35**
+Last Updated **2024-07-17 06:26:24**
+
+## 2024-07-17
+
+* [Black July 83 – never again](data/articles/black-july-83-never-agai.233f0a66/README.md) `ft.lk`
+* [Debt recovery process as rehabilitation mechanism](data/articles/debt-recovery-process-as.6ad62221/README.md) `ft.lk`
+* [Capt. Miller’s Nelliaddy attack gave birth to the Black Tigers](data/articles/capt-miller-s-nelliaddy.e8b72f14/README.md) `ft.lk`
+* [Business case for ESG in a stabilising economy](data/articles/business-case-for-esg-in.9530c0b5/README.md) `ft.lk`
+* [Establishing a Climate Change Fund: Crucial step for Sri Lanka’s economic future](data/articles/establishing-a-climate-c.2a420253/README.md) `ft.lk`
 
 ## 2024-07-16
 
+* [The Limits of GenAI Educators](data/articles/the-limits-of-genai-educ.490ef825/README.md) `hbr.org`
+* [7 Ways to Weave Mindfulness into Your Workday](data/articles/7-ways-to-weave-mindfuln.c8f493df/README.md) `hbr.org`
 * [Should an Aging Leader Step Aside?](data/articles/should-an-aging-leader-s.805f2412/README.md) `hbr.org`
 
 ## 2024-07-15
