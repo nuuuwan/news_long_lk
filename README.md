@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-18 06:25:14**
+Last Updated **2024-07-18 18:19:30**
 
 ## 2024-07-18
 
+* [When Cyberattacks Are Inevitable, Focus on Cyber Resilience](data/articles/when-cyberattacks-are-in.2f02fc3a/README.md) `hbr.org`
+* [Why can’t that great idea get funded?](data/articles/why-can-t-that-great-ide.376ed617/README.md) `ft.lk`
+* [Clean energy or clean Government?](data/articles/clean-energy-or-clean-go.bf1bceac/README.md) `ft.lk`
+* [What will it take to keep the lights on?](data/articles/what-will-it-take-to-kee.80edcd2a/README.md) `ft.lk`
+* [Doing things differently and doing different things](data/articles/doing-things-differently.6d62be65/README.md) `ft.lk`
 * [Winning requires reset: AKD’s strategic dilemmas, bridgeable gaps, rectifiable errors](data/articles/winning-requires-reset-a.e9db44ec/README.md) `ft.lk`
 
 ## 2024-07-17
@@ -13,11 +18,13 @@ Last Updated **2024-07-18 06:25:14**
 * [Research: 4 Ways Employees Respond to DEI Initiatives](data/articles/research-4-ways-employee.b8939d29/README.md) `hbr.org`
 * [How to Integrate Cloud, Data, and AI Technologies — and Make Your Company More Adaptable](data/articles/how-to-integrate-cloud-d.eae0c89f/README.md) `hbr.org`
 * [The Risks of Botshit](data/articles/the-risks-of-botshit.ffe04e6e/README.md) `hbr.org`
+* [Five ways to make music streaming better for the climate](data/articles/five-ways-to-make-music.999d7ff7/README.md) `technologyreview.com`
 * [Black July 83 – never again](data/articles/black-july-83-never-agai.233f0a66/README.md) `ft.lk`
 * [Debt recovery process as rehabilitation mechanism](data/articles/debt-recovery-process-as.6ad62221/README.md) `ft.lk`
 * [Capt. Miller’s Nelliaddy attack gave birth to the Black Tigers](data/articles/capt-miller-s-nelliaddy.e8b72f14/README.md) `ft.lk`
 * [Business case for ESG in a stabilising economy](data/articles/business-case-for-esg-in.9530c0b5/README.md) `ft.lk`
 * [Establishing a Climate Change Fund: Crucial step for Sri Lanka’s economic future](data/articles/establishing-a-climate-c.2a420253/README.md) `ft.lk`
+* [Google, Amazon and the problem with Big Tech’s climate claims](data/articles/google-amazon-and-the-pr.659f28e2/README.md) `technologyreview.com`
 
 ## 2024-07-16
 
