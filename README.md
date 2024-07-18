@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-17 18:19:41**
+Last Updated **2024-07-18 06:25:14**
+
+## 2024-07-18
+
+* [Winning requires reset: AKD’s strategic dilemmas, bridgeable gaps, rectifiable errors](data/articles/winning-requires-reset-a.e9db44ec/README.md) `ft.lk`
 
 ## 2024-07-17
 
+* [Research: 4 Ways Employees Respond to DEI Initiatives](data/articles/research-4-ways-employee.b8939d29/README.md) `hbr.org`
+* [How to Integrate Cloud, Data, and AI Technologies — and Make Your Company More Adaptable](data/articles/how-to-integrate-cloud-d.eae0c89f/README.md) `hbr.org`
 * [The Risks of Botshit](data/articles/the-risks-of-botshit.ffe04e6e/README.md) `hbr.org`
 * [Black July 83 – never again](data/articles/black-july-83-never-agai.233f0a66/README.md) `ft.lk`
 * [Debt recovery process as rehabilitation mechanism](data/articles/debt-recovery-process-as.6ad62221/README.md) `ft.lk`
