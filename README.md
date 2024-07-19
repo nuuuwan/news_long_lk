@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-18 18:19:30**
+Last Updated **2024-07-19 07:59:56**
+
+## 2024-07-19
+
+* [False terrorism cases enable repression in SL: Human Rights Watch](data/articles/false-terrorism-cases-en.c0c35203/README.md) `ft.lk`
+* [Open letter to Education Secretary](data/articles/open-letter-to-education.c4aec009/README.md) `ft.lk`
+* [Elections, voters and country risk](data/articles/elections-voters-and-cou.55c37c1c/README.md) `ft.lk`
+* [Tax appellate procedure – a deep dive](data/articles/tax-appellate-procedure.307303f0/README.md) `ft.lk`
+* [CA Sri Lanka commemorates 65th anniversary this year](data/articles/ca-sri-lanka-commemorate.3b08dd57/README.md) `ft.lk`
 
 ## 2024-07-18
 
+* [Video Quick Take: Unisys’ Peter Altabef on Empowering Businesses Through AI and Quantum Computing](data/articles/video-quick-take-unisys.239f7ecb/README.md) `hbr.org`
+* [It’s Time to Do Away with “Dry Promotions”](data/articles/it-s-time-to-do-away-wit.da68e99a/README.md) `hbr.org`
+* [Research: People Still Want to Work. They Just Want Control Over Their Time.](data/articles/research-people-still-wa.01675048/README.md) `hbr.org`
 * [When Cyberattacks Are Inevitable, Focus on Cyber Resilience](data/articles/when-cyberattacks-are-in.2f02fc3a/README.md) `hbr.org`
 * [Why can’t that great idea get funded?](data/articles/why-can-t-that-great-ide.376ed617/README.md) `ft.lk`
 * [Clean energy or clean Government?](data/articles/clean-energy-or-clean-go.bf1bceac/README.md) `ft.lk`
@@ -28,6 +39,7 @@ Last Updated **2024-07-18 18:19:30**
 
 ## 2024-07-16
 
+* [EIU now expects Trump to win US election](data/articles/eiu-now-expects-trump-to.adac37a5/README.md) `eiu.com`
 * [If Incumbent President Ranil Wickremesinghe thinks he could win because he salvaged the economy from a free fall, he might be overly optimistic. Perhaps he has to rethink his campaign message to make it more palatable to the grassroots. Possibly, he can ask Mahinda Rajapaksa how to do that!](data/articles/if-incumbent-president-r.c8dcbce9/README.md) `dbsjeyaraj.com`
 * [President Ranil Wickreme-singhe  challenges Samagi Jana Balawegaya (SJB) leader Sajith Premadasa to disclose the source of funding for the party’s ongoing school bus donation program.; says he will collaborate with SJB to combat corruption if it reveals source of funding behind school bus donations](data/articles/president-ranil-wickreme.58bfea54/README.md) `dbsjeyaraj.com`
 * [The Limits of GenAI Educators](data/articles/the-limits-of-genai-educ.490ef825/README.md) `hbr.org`

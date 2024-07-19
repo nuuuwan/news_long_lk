@@ -1,0 +1,10 @@
+1. 🌐 Unisys, a global technology solutions company, has been leading in innovation for 151 years. 
+2. 🎙️ Unisys CEO, Peter Altabef was recently interviewed on the HBR Video Quick Take.
+3. 🤖 Altabef is excited by the intersection of data analytics, artificial intelligence, and quantum computing in today's technological space.
+4. 🧮 Unisys introduced the first commercially available general purpose computer, the UNIVAC I, in the 20th century.
+5. 💻 In the 21st century, the focus for Unisys is on the quality of data and computing, and quantum technology.
+6. 🎯 Unisys is using AI to address industry challenges and improve business outcomes for clients.
+7. 💡 The company trains all its employees in AI, believing innovation will come when everyone is comfortable with the technology.
+8. 🌥️ Unisys offers a solution that goes across industries to declutter data in a hybrid cloud environment.
+9. 📦 An industry-specific solution Unisys provides is their logistics optimization, aiming to create efficient ways to deliver packages from air cargo providers to offices and homes.
+10. 📊 Altabef described a three-phase approach to generative AI adoption that involves choosing the best data set, ensuring the right data governance, and using AI-driven insights to optimize business operations.
