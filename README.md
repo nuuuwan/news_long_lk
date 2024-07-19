@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-19 07:59:56**
+Last Updated **2024-07-19 18:17:03**
 
 ## 2024-07-19
 
+* [The CEO’s Journey Is a 3-Act Play](data/articles/the-ceo-s-journey-is-a-3.ac7b1ee4/README.md) `hbr.org`
 * [False terrorism cases enable repression in SL: Human Rights Watch](data/articles/false-terrorism-cases-en.c0c35203/README.md) `ft.lk`
 * [Open letter to Education Secretary](data/articles/open-letter-to-education.c4aec009/README.md) `ft.lk`
 * [Elections, voters and country risk](data/articles/elections-voters-and-cou.55c37c1c/README.md) `ft.lk`
@@ -14,10 +15,12 @@ Last Updated **2024-07-19 07:59:56**
 
 ## 2024-07-18
 
+* [Captain   Miller’s  Suicide Attack in Nelliaddy   on 5 July 1987 Gave Birth to the “Karumpuligal”  ( Black Tigers)](data/articles/captain-miller-s-suicide.9f431ce0/README.md) `dbsjeyaraj.com`
 * [Video Quick Take: Unisys’ Peter Altabef on Empowering Businesses Through AI and Quantum Computing](data/articles/video-quick-take-unisys.239f7ecb/README.md) `hbr.org`
 * [It’s Time to Do Away with “Dry Promotions”](data/articles/it-s-time-to-do-away-wit.da68e99a/README.md) `hbr.org`
 * [Research: People Still Want to Work. They Just Want Control Over Their Time.](data/articles/research-people-still-wa.01675048/README.md) `hbr.org`
 * [When Cyberattacks Are Inevitable, Focus on Cyber Resilience](data/articles/when-cyberattacks-are-in.2f02fc3a/README.md) `hbr.org`
+* [What’s next for SpaceX’s Falcon 9](data/articles/what-s-next-for-spacex-s.b78fc7c8/README.md) `technologyreview.com`
 * [Why can’t that great idea get funded?](data/articles/why-can-t-that-great-ide.376ed617/README.md) `ft.lk`
 * [Clean energy or clean Government?](data/articles/clean-energy-or-clean-go.bf1bceac/README.md) `ft.lk`
 * [What will it take to keep the lights on?](data/articles/what-will-it-take-to-kee.80edcd2a/README.md) `ft.lk`
@@ -74,6 +77,8 @@ Last Updated **2024-07-19 07:59:56**
 * [When a Team Member Speaks Up — and It Doesn’t Go Well](data/articles/when-a-team-member-speak.afecd11e/README.md) `hbr.org`
 * [To Improve Health Care, Focus on Fixing Systems — Not People](data/articles/to-improve-health-care-f.dc059f7b/README.md) `hbr.org`
 * [6 Ways to Bring Strategy into Your Work Every Day](data/articles/6-ways-to-bring-strategy.2a60a5ae/README.md) `hbr.org`
+* [NATO summit fails to “Trump-proof” its Ukraine support](data/articles/nato-summit-fails-to-tru.9832df68/README.md) `eiu.com`
+* [Hizbullah attempts to back away from escalation with Israel](data/articles/hizbullah-attempts-to-ba.e1002af5/README.md) `eiu.com`
 * [Decarbonising the supply chain: Role of digital technologies](data/articles/decarbonising-the-supply.a7733969/README.md) `ft.lk`
 * [Is excessive board interference killing executive spirit?](data/articles/is-excessive-board-inter.7281b0ec/README.md) `ft.lk`
 * [That regional carrot of doing good and being best](data/articles/that-regional-carrot-of.14c5ae06/README.md) `ft.lk`

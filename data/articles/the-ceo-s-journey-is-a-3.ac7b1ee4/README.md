@@ -1,0 +1,111 @@
+# The CEO’s Journey Is a 3-Act Play
+
+## Summary 🤖
+
+1. 🎭 CEOs should see their tenure as a series of three acts instead of as an ongoing sprint.
+2. 📈 Act one is about taking charge, establishing legitimacy, and starting to implement a change agenda.
+3. 🔄 Act two involves recalibrating and reenergizing the organization based on the results of act one.
+4. ☮️ In act three, attention turns to preparing to hand the reins to a successor and ensuring the company is set up for long-term success.
+5. 🎉 When starting their tenure, it's recommended that new CEOs assess the existing situation and set an agenda with clear goals and priorities.
+6. 💡 In act one, new chief executives should establish their leadership style and be explicit about their preferences in communication and day-to-day interaction.
+7. 🔄 In act two, the leaders should evaluate earlier actions, make necessary corrections, institutionalize change, and inject new energy into the organization.
+8. 👥 Strengthening the executive team is crucial in act two, ensuring that top leadership includes younger leaders for future succession.
+9. 💼 The third act involves deciding when to step down, enabling a smooth succession, starting new projects, and addressing any remaining issues.
+10.🎈 Following this three-act structure can increase the chances of a successful CEO tenure and benefits the organization in the long run.
+
+## Full Text
+
+[https://hbr.org/2024/07/the-ceos-journey-is-a-3-act-play](https://hbr.org/2024/07/the-ceos-journey-is-a-3-act-play)
+
+*12:05 PM, Friday, July 19, 2024*
+
+Patrik Giardino/Getty Images
+
+Instead of treating a leadership role as an unending sprint, CEOs should approach their tenure as a series of three phases. Act one requires a leader to establish legitimacy, build a top team, and begin to communicate and implement a change agenda. Act two requires...more
+
+When you ask a new CEO to imagine giving their retirement speech in eight or 10 years, it’s striking how they describe their accomplishments. Most imagine they have doubled the value of their business. They have improved the culture, built a strong talent pipeline, and helped choose a capable successor. Equally striking, though, is that while they can imagine these results, they have little sense of the journey that will get them there. Many describe their job as if it were a sprint — a relentless, fast-moving sequence of action-packed days.
+
+In reality, a CEO’s tenure is more like a marathon. As in any long race, people who approach it strategically and intentionally, with a plan to break it into discrete phases that have different paces and objectives, tend to complete the task more successfully.
+
+Based on my work with hundreds of chief executives who’ve attended the New CEO Workshop at Harvard Business School, it’s useful to think of the CEO’s tenure as an arc shaped by three distinct acts.
+
+Act one is about taking charge, establishing legitimacy, and using the opportunity that comes from being the new person in command.
+
+Act two is about recalibrating and reenergizing the organization based on the results of act one.
+
+Act three is about preparing to hand the reins to a successor — and ensuring the company is positioned for longer-term success.
+
+In an era when CEOs face tremendous pressure for short-term results, it may seem ill-advised for new leaders to plan for a tenure that stretches a decade or more. But in fact, there is a virtuous, self-reinforcing dynamic that can result from such a long-term orientation. CEOs who approach each act with a clear intention are more likely to achieve early wins and build legitimacy, increasing their odds of succeeding in the job for years to come.
+
+CEOs begin their new role with great excitement. Getting the job is a crowning career achievement and an opportunity to make a difference. Yet, they also feel a nervous energy for what lies ahead and hope they will be up to challenge. There are a few key places where they can start making an impact.
+
+Assessing and setting an agenda.
+
+Act one typically lasts around two to three years. The new CEO must carefully assess the situation they are being asked to take charge of. It may be a classic turnaround situation. It may be a successful company that’s grown complacent and needs reenergizing. The new CEO may be succeeding a legendary or beloved CEO, and that context creates a unique set of forces, including the need to be especially respectful of the predecessor, their strategies, and the culture. Based on a thoughtful assessment of their situation, new CEOs must set an agenda, with clear goals and priorities, around which they can align and mobilize the organization. Assembling a capable senior leadership team that can drive this agenda forward is another key priority when CEOs take charge.
+
+New leaders need to spend considerable time communicating with all their constituencies — including the employees, customers, suppliers, the board, and investors. These meetings enable CEOs to develop and share their assessment of the organization and the agenda they aim to pursue. They also provide an opportunity to listen, build relationships, and gain trust. It is typical to see a new CEO’s calendar in act one filled with listening tours, town hall meetings, and one-on-one meetings.
+
+Establishing a leadership style.
+
+A new CEO needs to be specific about how they interact with people on a day-to-day basis and communicate their preferences clearly to the organization. For example, does the new CEO prefer communicating with subordinates by email, phone, or in face-to-face meetings? Do they favor more one-on-one or more group interactions, and do people come to them for meetings, or does the leader go to meet people? Does the new CEO prefer shorter meetings and days filled with a mix of activities, or is there a preference for deeper, more focused dives by having infrequent, longer reviews or offsites? How much autonomy does the new leader give people, and how frequently does he or she require updates or check-ins? How closely does the CEO keep tabs on the details of projects or problems? How does the CEO like to conduct reviews — what topics are important and how will they be discussed? A clear operating style enables the organization to learn how to interface with the CEO — to work with the CEO to get things done.
+
+Expectations for change.
+
+In our experience, when chief executives reflect on their early days in the role, they often wish they’d moved more quickly than they did. A change in leadership creates an opportunity for an organization to reset, and this opportunity only lasts so long. If a major portfolio restructuring is in order, it’s better to move on it in act one. When in doubt, new leaders should have a bias for action during act one and be prepared to move more quickly than might be their inclination.
+
+Before we move on, let us mention some important act one pitfalls. New CEOs may assume they enjoy strong and unanimous support from the directors who appointed them, but in reality some directors may have gone with the appointment reluctantly, and sentiments can shift quickly. Additionally, if the outgoing CEO has remained on the board, the group dynamics can often get complicated. The new CEO must navigate through these tricky waters and build their own relationships with the board.
+
+New CEOs also need to navigate the deluge of requests for their time and participation that can easily overwhelm them. These will include invitations to join boards of companies, industry groups, philanthropies or other civic organizations, as well as speaking requests. Every CEO must devote some time representing the company, but some CEOs overinvest in such pursuits. In general, CEOs should focus on building credibility inside the organization, with the company’s board, and its most important external stakeholders (such as customers and investors) rather than spending too much time on other external constituencies.
+
+Recalibrating and Reenergizing
+
+Every new CEO who survives act one will reach the point, typically two to three years into the job, at which they are no longer considered “new.” This is when CEOs transition into act two.
+
+Taking stock (again).
+
+Because no CEO is infallible, the actions they take in act one will invariably include some missteps, misjudgments, and mistakes. An essential element of act two is to take stock and be open to course correction. The new direction will depend largely on how well the company has performed due to changes made during act one, both in absolute terms and relative to the expectations of the CEO, the board, and other stakeholders. Strategies require re-examination and adjustment. Act two can be a good time to bring in outside eyes to stress-test a strategy. In act one, a new leader is generally fixing or undoing steps taken by his or her predecessor, but in act two, they are admitting and correcting mistakes made by themselves. It takes perspective and open-mindedness to recognize the problem, and then courage to own up to and correct it.
+
+Institutionalizing change.
+
+An initial change or transformation agenda can’t remain new forever, and the early motivational energy behind it will inevitably dissipate. In act two, a leader must seek to institutionalize some of the changes that they may have driven personally or through select individuals and small groups during act one.  This requires building systems, processes, and infrastructure — similar to how there comes a point at which a new product team is moved out of its skunkworks and integrated back into the existing organization.
+
+Injecting new energy.
+
+Act two can also involve injecting new organizational energy by launching additional initiatives. CEOs in act two will sometimes embark on corporate reorganizations that are aimed partly at shaking up the existing structure, re-energizing the employee base, and recreating a sense of newness. Sometimes CEOs in act two may pursue strategies or projects that were too risky, or for which they may have lacked the credibility, during act one. Sometimes financial constraints will limit a CEO’s ability to act boldly during act one, and if their early bets have paid off, act two may be a time to invest, acquire, and pursue growth in ways that were previously unaffordable.
+
+Strengthening the leadership bench.
+
+In act one, new leaders focus primarily on putting together their team of direct reports — the people in the C-suite. In act two, it’s important to nurture and develop a broader group of executives (beyond those top leaders). CEOs must continue thinking critically about whether there are additional opportunities to upgrade the talent within the C-suite team. CEOs should also ensure the top leadership team includes younger leaders so that the pipeline will have enough qualified and age-appropriate candidates when it’s time to consider succession–their own or of their direct reports. In terms of operating style, act two is often a time when CEOs delegate and coach more and are less directly involved in execution.
+
+Among the biggest risks a CEO faces during this middle phase is complacency and/or risk aversion. Especially if the CEO’s actions during act one have been received positively by employees, customers, and the market, a leader can become reluctant to imperil that early success. CEOs must be equally wary of escalating commitment to their own act one decisions that they know are unlikely to work out. One of the benefits of clearly delineating act two from act one is that it recognizes the need for a new round of actions, decisions, and initiatives, which can serve as a counterbalance to the impulse to stand pat or just stay the course.
+
+On the surface, act three may feel relatively simple — a final victory lap. But in fact, most CEOs find it to be the most challenging of the three acts.
+
+Deciding when to step down is a significant challenge for many successful leaders. Even if a CEO has quietly set a personal date for their departure, the closer they get to it, the more tempting it will be to postpone it. CEOs are well-paid and can come to enjoy the power and perks of the job. Most CEOs also lack truth-tellers who can honestly tell them if they have “lost a step” due to age or tenure, and this can lead them to avoid recognizing when it’s time to go. Many CEOs also struggle to exit because the all-consuming nature of the job has tied their identity too tightly to the job and leaves them with too few outside pursuits to meaningfully engage them after they leave. Reflecting on and exploring what should come next is an important act three task.
+
+Enable an orderly succession.
+
+Leaders are understandably reluctant to behave in ways that might render them “lame ducks.” This leads many to avoid announcing a departure date until the last minute. This can make would-be successors impatient; some may leave. One solution is to signal change by naming a chief operating officer who could be a potential successor. Another is to initiate a horse race among a select group of leaders. These and other structured succession strategies all have their pros and cons. More generally, act three is a phase when the CEO must work proactively with the board to ensure an orderly and well thought out succession.
+
+Another challenge of act three is whether to start new projects that won’t be completed before the CEO departs. It’s tempting to not swallow things that can’t be digested before the succession; in extreme cases, this can lead to paralysis or complacency. It’s important to keep the organization’s energy high during act three, and one does that by remaining open to making significant and bold moves, even if elements of the execution of these moves will take place on the successor’s watch.
+
+Act three is also a time for clean-up, the same way one might scrub a property before handing it over to the next owner. If there’s a write-down that needs to be taken, a low-performing executive who needs to be removed, or a unit that should be shuttered or divested, a CEO should take those actions during this phase, to avoid saddling the successor with the liability.
+
+Delaying succession, getting overly involved or invested in choosing a successor rather than trusting the board to do its job, and staying on the company’s board, especially as its chair for an open-ended duration, are the major pitfalls of this phase. Much like in a relay race, CEOs cannot let the company stall before they hand off the baton. It is better if they give their successors a running start.
+
+A leader who begins the job knowing that the work will naturally divide itself into these phases, and who proactively plans and executes with the three-act timeline in mind, is likely to look back on their tenure and recognize a coherent narrative. This also increases the odds that when one steps down, the outside world, too, can look back on a tenure of consistently energized and engaged leadership — and enviable performance.
+
+Leading People Course
+
+Accelerate your career with Harvard ManageMentor®. HBR Learning’s online leadership training helps you hone your skills with courses like Leading People. Earn badges to share on LinkedIn and your resume. Access more than 40 courses trusted by Fortune 500 companies.
+
+What you need to know about being in charge.
+
+Learn More & See All Courses
+
+Handbook of Leadership Theory and Practice
+
+Read more on Leadership
+
+Leadership transitions and Career planning
+
