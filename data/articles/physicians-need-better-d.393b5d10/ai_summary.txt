@@ -1,0 +1,10 @@
+- 😮 The healthcare industry generates almost one-third of all the world's data.
+- 🔬 Data is managed by the Tirol Kliniken in Austria, which has over 740 TB of data volume.
+- 📈 Approximately 5 TB of new data enter their archive each month.
+- 🤯 Around 190 GB of data is produced every day, according to Andreas Nuener of Tirol Kliniken.
+- 🏥 Such huge amounts of data need a comprehensive management system to function efficiently. 
+- 💻 Interoperability, flexibility, modularity, and scalability are essential capabilities for a healthcare data system. 
+- 🏞️ An open image and data management (IDM) system paired with intuitive workspace can consolidate patient data in a single location. 
+- 🎯 The main aim is to bring together imaging data, diagnostic software, and clinical tools into a single workspace. 
+- 🏨 Tirol Kliniken's robust IDM consolidates patient data and connects systems across the enterprise, enabling simple, standards-compliant connectivity into existing information systems.
+- 🚫 The elimination of data silos allows healthcare professionals to efficiently and securely access relevant information, turning data into a strategic asset.

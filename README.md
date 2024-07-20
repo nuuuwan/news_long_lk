@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-19 18:17:03**
+Last Updated **2024-07-20 06:25:37**
 
 ## 2024-07-19
 
+* [A Machiavellian exercise?](data/articles/a-machiavellian-exercise.132f2388/README.md) `ft.lk`
+* [Post-Aragalaya challenge to minorities](data/articles/post-aragalaya-challenge.96571ba2/README.md) `ft.lk`
+* [Launch of ‘Lawmaking in Dutch Sri Lanka’](data/articles/launch-of-lawmaking-in-d.a464106e/README.md) `ft.lk`
+* [Climate change and the role of communicators](data/articles/climate-change-and-the-r.515988e5/README.md) `ft.lk`
+* [How to Gracefully Decline a Networking Request](data/articles/how-to-gracefully-declin.89434680/README.md) `hbr.org`
+* [Physicians Need Better Data Management Systems to Improve Patient Care](data/articles/physicians-need-better-d.393b5d10/README.md) `hbr.org`
+* [How India Can Fix Its Employment Crisis](data/articles/how-india-can-fix-its-em.eccb2a93/README.md) `hbr.org`
+* [Bringing Down the Temperature During Polarizing Times](data/articles/bringing-down-the-temper.330c2463/README.md) `hbr.org`
 * [The CEO’s Journey Is a 3-Act Play](data/articles/the-ceo-s-journey-is-a-3.ac7b1ee4/README.md) `hbr.org`
 * [False terrorism cases enable repression in SL: Human Rights Watch](data/articles/false-terrorism-cases-en.c0c35203/README.md) `ft.lk`
 * [Open letter to Education Secretary](data/articles/open-letter-to-education.c4aec009/README.md) `ft.lk`
