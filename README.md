@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-21 06:24:20**
+Last Updated **2024-07-21 18:15:38**
+
+## 2024-07-21
+
+* [My Family’s “Black July” Experience: A Personal Memoir.](data/articles/my-family-s-black-july-e.daf51faa/README.md) `dbsjeyaraj.com`
+* [Failure to find a political solution is a bigger shame than Black July](data/articles/failure-to-find-a-politi.93cc12d4/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-19
 
