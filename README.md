@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-21 18:15:38**
+Last Updated **2024-07-22 06:25:20**
 
 ## 2024-07-21
 
+* [The Colombo Plan marks 73 years with a difference](data/articles/the-colombo-plan-marks-7.e31b7f71/README.md) `ft.lk`
+* [Child’s guide to debt and debt restructuring: Part III](data/articles/child-s-guide-to-debt-an.75b998d4/README.md) `ft.lk`
 * [My Family’s “Black July” Experience: A Personal Memoir.](data/articles/my-family-s-black-july-e.daf51faa/README.md) `dbsjeyaraj.com`
 * [Failure to find a political solution is a bigger shame than Black July](data/articles/failure-to-find-a-politi.93cc12d4/README.md) `dbsjeyaraj.com`
 
