@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-22 06:25:20**
+Last Updated **2024-07-22 18:17:04**
+
+## 2024-07-22
+
+* [How to Improve Women’s Advancement Programs](data/articles/how-to-improve-women-s-a.53c48551/README.md) `hbr.org`
 
 ## 2024-07-21
 
