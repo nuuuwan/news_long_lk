@@ -1,0 +1,10 @@
+1. 🇨🇳💭 Chinese large language models (LLMs) are openly available since summer 2023, with hundreds being released.
+2. 🌍🔍 For users outside China, accessing these models can be challenging due to language barriers and registration requirements, especially for those without a valid Chinese phone number.
+3. 📱🗝️ A Chinese phone number can often serve as an identity verification tool, granting access to AI chatbots and other online services.
+4. 🚫⛔ Certain major LLMs, such as those developed by Huawei, only allow access with a Chinese phone number. 
+5. 🌏💻 Some Chinese AI platforms permit users outside China to access chatbots directly, using their own phone number to register. These include Doubao by ByteDance and ChatGLM by Zhipu.
+6. 🤖📝 DeepSeek offers a cost-effective model which can be tested with email registration, providing both text chatbot and coding chatbot services.
+7. 🌐🔗 Global AI community Hugging Face serves as a workaround for testing several Chinese models without a Chinese number, hosting the code and applications of various open-source large language models.
+8. 📊🔝 Alibaba online marketplace's large language model, Qwen, topped Hugging Face’s Open LLM Leaderboard, scoring higher than models by Meta, Microsoft, and others.
+9. 🗺️🔀 Alibaba's platform, ModelScope, is a domestic alternative to Hugging Face, where the Chinese AI community can access open-source models and discuss industry topics. Registering with a non-Chinese number is possible, facilitating access to Chinese LLMs.
+10. 👨‍💻🤖 ModelScope hosts an "LLM Arena" application, enabling users to compare the responses of two models, making it easier to access AI tools otherwise unavailable to non-Chinese users.
