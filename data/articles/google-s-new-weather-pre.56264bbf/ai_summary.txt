@@ -1,0 +1,10 @@
+1. 🧑‍🔬 Google has created a new machine learning weather prediction model called NeuralGCM, as disclosed in a Nature paper.
+2. 📉 This technique balances the speed of AI learning methods with the detailed capacity of traditional general circulation models. 
+3. 💻 The AI component works on smaller scale predictions such as cloud formations or microclimates where traditional models stumble.
+4. 🚀 This makes it possible to produce accurate weather predictions with less time and computational power. 
+5. 🌤️ NeuralGCM functions at a similar accuracy level as the 1-15 day forecasts from the European Centre for Medium-Range Weather Forecasts (ECMWF). 
+6. 👀 The technology’s promise lies in the ability to model large scale climate events, like tropical cyclones, that are costly to compute with just traditional techniques. 
+7. 👾 NeuralGCM uses AI for specific elements of weather modeling, accelerating the process without losing the advantages of conventional systems. 
+8. 👥 The plan is to make NeuralGCM an open-source application, usable by researchers, commodities traders, agricultural planners, and insurance companies. 
+9. 🚧 Despite the AI advancements in weather forecasting, the research community is struggling to keep up with the rapid advancements.
+10. 🤔 Researchers are still waiting to see how AI, including NeuralGCM, will play out in practice, says Aaron Hill from the University of Oklahoma's School of Meteorology.

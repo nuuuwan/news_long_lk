@@ -1,0 +1,10 @@
+1. 🕵️‍♂️ Cybercriminals are becoming more advanced in their attacks on organizations and data. 
+2. 📈 More intricate and frequent attacks lead to higher success rates and more financial damage to businesses. 
+3. 🗓️ In 2023, it took an average of three weeks to recover from a successful attack. 
+4. 💰 During downtime, the average revenue loss per hour was approximately $365,000.
+5. 📡 Even organizations with business continuity and disaster recovery plans may lack the tools to effectively recover from an attack.
+6. 🔐 Utilizing an isolated, secure digital environment can help to recover faster and minimize financial impact. 
+7. 🗣️ In a webinar, Commvault experts discuss how the company's Cleanroom Recovery tackles increasingly sophisticated, AI-enhanced attacks. 
+8. 💾 The Cleanroom Recovery service aims to address the challenges posed by advanced cyber attacks. 
+9. 👥 The webinar featuring this topic was conducted by Toussaint Brock, Manager of Product Marketing, and Michael Stempf, Senior Director of Product and Ecosystem Strategy at Commvault.
+10. 🎞️ A recording of the webinar and a summary report are available for download.
