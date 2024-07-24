@@ -1,0 +1,10 @@
+🏭 Companies have to decide if they want a closed, proprietary ecosystem or an open one.
+👓 This applies to all businesses, not only digital ones but also electric car makers or coffee companies.
+🖐️ There are four principles companies should follow when making this decision.
+🔬Embrace the concept that open vs closed is a spectrum and not a binary choice.
+⚖️ Balance benefits and costs through centralized governance.
+💡 Pursue strategic differentiation through different levels of openness.
+📚 Educate regulators on the trade-offs of each system.
+☕️ An example given is Keurig, deciding if they should supply all the pods for its machines (closed) or allow third parties to provide them (open).
+🚗 Another example is Tesla, deciding whether to make their charging stations available only for their own cars or competitors' too. 
+🚀 This decision plays a crucial role in a company's innovation and business growth strategies.
