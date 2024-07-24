@@ -1,0 +1,10 @@
+1. 🈴MIT Technology Review discusses Chinese AI & open-source language models. 
+2. 🎯Publishes guide on Chinese AI models and how to use them, including Alibaba’s flagship AI model, Qwen.
+3. 📊Qwen was ranked first on Hugging Face's recent comparisons of open-source language models.
+4. 🚀A trend toward open-sourcing AI models is making them more accessible internationally.
+5. 💡Open-source aims to boost Alibaba's cloud business, attract more users and investors.
+6. 🏭Small AI startups also benefit from open-source models used for faster commercialization.
+7. 🔬Chinese companies experiment more due to lack of GPU access, leading to diverse, efficient models. 
+8. 🕹️Alibaba’s open-source Qwen model has been adopted and improved by US-based Abacus AI.
+9. ⚖️Provides an example of a synergistic developmental loop in open-source AI globally. 
+10. 💭Discussion invited on the future competitiveness of open-source AI models against closed-source models.
