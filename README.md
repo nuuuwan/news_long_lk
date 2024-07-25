@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-24 18:17:23**
+Last Updated **2024-07-25 06:26:29**
+
+## 2024-07-25
+
+* [Ranil’s Tamil Nadu obsession, comparative Anura-Sajith progressivisms, and North-East solutions](data/articles/ranil-s-tamil-nadu-obses.3b6eebdb/README.md) `ft.lk`
+* [SOERU and insulation it provides against bad privatisations](data/articles/soeru-and-insulation-it.0a645772/README.md) `ft.lk`
+* [Forty-one years after ‘83 July do prez candidates have answers for “TNQ”?](data/articles/forty-one-years-after-83.863deead/README.md) `ft.lk`
+* [41 years to Black July: Our voices towards meaningful reconciliation](data/articles/41-years-to-black-july-o.cdd7c7f6/README.md) `ft.lk`
+* [A real minimum wage can set ground for productivity gains](data/articles/a-real-minimum-wage-can.15889794/README.md) `ft.lk`
 
 ## 2024-07-24
 
+* [Don’t Set Your Goals in Stone — Mold Them Like Clay](data/articles/don-t-set-your-goals-in.25066b64/README.md) `hbr.org`
+* [8 Reasons Why Co-Leaders Fail](data/articles/8-reasons-why-co-leaders.2cacc05e/README.md) `hbr.org`
 * [Research: How Passion Can Backfire at Work](data/articles/research-how-passion-can.0b11f072/README.md) `hbr.org`
 * [Why Chinese companies are betting on open-source AI](data/articles/why-chinese-companies-ar.b38c9361/README.md) `technologyreview.com`
 * [Ranil Wickremesinghe: the pragmatic leadership during challenging times](data/articles/ranil-wickremesinghe-the.81f822a4/README.md) `ft.lk`
@@ -14,6 +24,7 @@ Last Updated **2024-07-24 18:17:23**
 * [Operation Yukthiya, trade union action, and the stability state in Sri Lanka](data/articles/operation-yukthiya-trade.a971a855/README.md) `ft.lk`
 * [Sri Lanka caught in a constitutional quagmire](data/articles/sri-lanka-caught-in-a-co.69f14d1d/README.md) `ft.lk`
 * [US Vice President Kamala Harris not attending Israeli PM’s address to US Congress is ‘welcome news’](data/articles/us-vice-president-kamala.d2513151/README.md) `ft.lk`
+* [Sri  Lanka Apologizes for  the Gotabaya Rajapaksa Administration Enforcing a “Cremation Only”  Policy for Victims of Covid 19 Pandemic that Hurt   Muslim Religious Sentiments](data/articles/sri-lanka-apologizes-for.75088ad5/README.md) `dbsjeyaraj.com`
 
 ## 2024-07-23
 
