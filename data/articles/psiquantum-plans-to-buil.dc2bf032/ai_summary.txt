@@ -1,0 +1,19 @@
+🔬Quantum computing firm, PsiQuantum, has announced its partnership with the state of Illinois to create the largest US-based quantum computing facility. 
+
+💻 PsiQuantum aims to build a quantum computer with up to 1 million qubits in the next 10 years, a massive increase from the current largest quantum computers that hold roughly 1,000 qubits. 
+
+🌐 Quantum computers are capable of performing a diverse range of tasks, such as drug discovery and cryptography, at record-breaking speeds. 
+
+💡Different companies use various methods to construct these systems; PsiQuantum utilizes photons to build qubits while Google and IBM utilize superconducting material.
+
+🌡️ Photonic quantum computing, PsiQuantum's approach, can function at higher temperatures than superconducting systems, making it easier and cheaper to test and more energy-efficient to scale. 
+
+🔎 Instead of building small-scale quantum computers, PsiQuantum plans to manufacture "intermediate systems" that include chips, cabinets, and superconducting photon detectors.
+
+🏗️ The company hasn't revealed specific details regarding the timeline for the Illinois project, but they plan to break ground on a similar facility in Brisbane, Australia, next year.
+
+⚖️ The PsiQuantum approach is considered risky as it's challenging to measure progress along the way; however, it is not considered invalid.
+
+🚧 The complexity of the construction project is high, with the development of the cooling system expected to be the most time-consuming and expensive aspect.
+
+🔧 Even after the construction is completed, enhancements in quantum algorithms will be required as the current algorithms are deemed too expensive and resource-intensive.

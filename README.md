@@ -2,11 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-25 18:17:50**
+Last Updated **2024-07-26 06:26:27**
+
+## 2024-07-26
+
+* [Principles and proposals for political and constitutional reform for democracy: Part I](data/articles/principles-and-proposals.95844aed/README.md) `ft.lk`
+* [Sri Lanka’s next President](data/articles/sri-lanka-s-next-preside.2ddd158e/README.md) `ft.lk`
+* [Resource-rich, policy-poor: Sri Lanka’s flagging growth sectors](data/articles/resource-rich-policy-poo.867d7afa/README.md) `ft.lk`
+* [Fitch says lower generation costs support CEB’s tariff cut; no risk to IPP payments](data/articles/fitch-says-lower-generat.16606f42/README.md) `ft.lk`
 
 ## 2024-07-25
 
+* [Argentina’s new investment promotion regime: key points](data/articles/argentina-s-new-investme.f4041062/README.md) `eiu.com`
+* [To Make Your Pitches More Engaging, Appeal to Multiple Learning Styles](data/articles/to-make-your-pitches-mor.36cd9fbf/README.md) `hbr.org`
+* [Can AI Help Your Company Innovate? It Depends](data/articles/can-ai-help-your-company.29983473/README.md) `hbr.org`
 * [4 Ways to Meaningfully Support New Mothers Returning to Work](data/articles/4-ways-to-meaningfully-s.f095c0eb/README.md) `hbr.org`
+* [PsiQuantum plans to build the biggest quantum computing facility in the US](data/articles/psiquantum-plans-to-buil.dc2bf032/README.md) `technologyreview.com`
 * [Ranil’s Tamil Nadu obsession, comparative Anura-Sajith progressivisms, and North-East solutions](data/articles/ranil-s-tamil-nadu-obses.3b6eebdb/README.md) `ft.lk`
 * [SOERU and insulation it provides against bad privatisations](data/articles/soeru-and-insulation-it.0a645772/README.md) `ft.lk`
 * [Forty-one years after ‘83 July do prez candidates have answers for “TNQ”?](data/articles/forty-one-years-after-83.863deead/README.md) `ft.lk`
@@ -14,6 +25,7 @@ Last Updated **2024-07-25 18:17:50**
 * [A real minimum wage can set ground for productivity gains](data/articles/a-real-minimum-wage-can.15889794/README.md) `ft.lk`
 * [Jackfruit revolution: rising king of global plant-based alternatives](data/articles/jackfruit-revolution-ris.cadabdc7/README.md) `ft.lk`
 * [Pathfinder Foundation and Ananta Aspen Centre lead India-Sri Lanka physical and digital connectivity dialogue](data/articles/pathfinder-foundation-an.b0f75c8a/README.md) `ft.lk`
+* [Ranil, Sajith and Anura Kumara must convince  Sri Lankan Voters  that they should not give up on hope and that they should not look  elsewhere for a leader.](data/articles/ranil-sajith-and-anura-k.b99eec36/README.md) `dbsjeyaraj.com`
 * [Field Marshal Sarath Fonseka Will Contest for President at Forthcoming Election; EX-Army chief says  “This is my formal and official announcement as the presidential candidate of Sri Lanka for the 2024 Presidential Election” in Message Posted on “X”(twitter)](data/articles/field-marshal-sarath-fon.2cacf58b/README.md) `dbsjeyaraj.com`
 * [Justice, Prison Affairs and Constitutional Reforms Minister Wijeyadasa Rajapakshe announced he will Contest for President in the upcoming presidential election; says “I am coming forward as a candidate for the victory of Sri Lanka state and its people,”](data/articles/justice-prison-affairs-a.7329278f/README.md) `dbsjeyaraj.com`
 * [Three Judge Bench of Supreme Court Issues  Interim Order  Restraining  Deshabandu Tennakoon from Functioning as Inspector -General of Police Until Final Determination of Nine Fundamental rights Petitions Challenging his Appointment as IGP](data/articles/three-judge-bench-of-sup.a86361fd/README.md) `dbsjeyaraj.com`
