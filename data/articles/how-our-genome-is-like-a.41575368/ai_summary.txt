@@ -1,0 +1,10 @@
+1. 🧬 Geneticists are proposing new ways to conceptualize the genome, using AI as a metaphor.
+2. 👩‍🔬 This is a shift from traditional theories which describe the genome as a blueprint, or a set of instructions, for organism development.
+3. 👨‍💻 The new approach likens the genome to a generative model in AI that can create new things from existing data.
+4. 💡 Kevin Mitchell, a neurogeneticist at Trinity College, has criticized traditional models as oversimplifications of genetic functions.
+5. 💾 Current models, such AI tools like Midjourney and DALL-E, draw correlations between genomes and the way AI models learn and replicate data.
+6. 📜 The genome, in this case, could hold components to build an organism but allow for variations, like an AI model generating original images from a dataset.
+7. 🧪 Mitchell argues that correct metaphors are critical in understanding the genome deeply, especially with evolving genetic technologies.
+8. 🧐 A sound conceptual framework could help make sense of relationships between genes and organisms, leading to potential development of further mathematical models.
+9. 🔬 Recent advancements such as studying gene expression in a single cell or across all cells in an embryo could benefit from this new conceptual framework.
+10. 🔍 The paper proposing the new genome model has not yet undergone peer review.
