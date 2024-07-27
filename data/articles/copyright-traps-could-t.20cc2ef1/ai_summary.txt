@@ -1,0 +1,10 @@
+1. 📚 Content creators have expressed concerns over their work being used by AI models without permission. 
+2. 👀 To address this, researchers at Imperial College London have developed 'copyright traps' to mark a creator's work.
+3. 📍 These traps are similar to historical strategies by copyright holders such as fake map locations or words in a dictionary.
+4. 🔍 The code for generating and detecting traps is available on GitHub, with plans to create a tool for individuals to create their own traps.
+5. 🏛 There is ongoing litigation by writers and publishers against tech companies over the use of their work in AI models.
+6. ✍️ To create traps, the team used a word generator to create thousands of synthetic sentences and injected a chosen one into a text multiple times.
+7. 🧐 The trap can be detected using a language model to determine its 'surprise' score – a low score indicating the model has seen the sentence before.
+8. 🔬 The technique for detection is known as a "membership inference attack" and works well with large models but less effectively with smaller ones.
+9. ☝️ There are limitations to this approach as training AI models could detect the trap and skip the content, making it impractical.
+10. 🔄 The researchers acknowledge that a trap can be removed by a motivated attacker but the more traps applied, the harder removal becomes.

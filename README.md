@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-26 18:16:10**
+Last Updated **2024-07-27 06:26:43**
 
 ## 2024-07-26
 
+* [Overcome Your Fear of Giving Feedback](data/articles/overcome-your-fear-of-gi.eaa160ad/README.md) `hbr.org`
+* [Why You Feel Underappreciated at Work](data/articles/why-you-feel-underapprec.d63e3daf/README.md) `hbr.org`
 * [Using Persuasion to Spur Lasting Organizational Change](data/articles/using-persuasion-to-spur.81f0ee9c/README.md) `hbr.org`
 * [How our genome is like a generative AI model](data/articles/how-our-genome-is-like-a.41575368/README.md) `technologyreview.com`
 * [Principles and proposals for political and constitutional reform for democracy: Part I](data/articles/principles-and-proposals.95844aed/README.md) `ft.lk`
@@ -17,6 +19,7 @@ Last Updated **2024-07-26 18:16:10**
 ## 2024-07-25
 
 * [Argentina’s new investment promotion regime: key points](data/articles/argentina-s-new-investme.f4041062/README.md) `eiu.com`
+* [“Copyright traps” could tell writers if an AI has scraped their work](data/articles/copyright-traps-could-t.20cc2ef1/README.md) `technologyreview.com`
 * [To Make Your Pitches More Engaging, Appeal to Multiple Learning Styles](data/articles/to-make-your-pitches-mor.36cd9fbf/README.md) `hbr.org`
 * [Can AI Help Your Company Innovate? It Depends](data/articles/can-ai-help-your-company.29983473/README.md) `hbr.org`
 * [4 Ways to Meaningfully Support New Mothers Returning to Work](data/articles/4-ways-to-meaningfully-s.f095c0eb/README.md) `hbr.org`
