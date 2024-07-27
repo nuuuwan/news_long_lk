@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-27 06:26:43**
+Last Updated **2024-07-27 18:16:58**
+
+## 2024-07-27
+
+* [Interim order of Supreme Court and implications](data/articles/interim-order-of-supreme.98a48d5d/README.md) `ft.lk`
 
 ## 2024-07-26
 
+* [Democracy should be about ethics, morality and social values, not just regime changes](data/articles/democracy-should-be-abou.b99876c3/README.md) `ft.lk`
+* [Governance, economy and day of reckoning](data/articles/governance-economy-and-d.18bfcda3/README.md) `ft.lk`
+* [Sri Lanka’s Presidential Elections to be held on 21st September 2024; Incumbent President Ranil Wickremesinghe among the first to pay Cash deposit to Contest as an Independent  Candidate](data/articles/sri-lanka-s-presidential.342e8bc9/README.md) `dbsjeyaraj.com`
 * [Overcome Your Fear of Giving Feedback](data/articles/overcome-your-fear-of-gi.eaa160ad/README.md) `hbr.org`
 * [Why You Feel Underappreciated at Work](data/articles/why-you-feel-underapprec.d63e3daf/README.md) `hbr.org`
 * [Using Persuasion to Spur Lasting Organizational Change](data/articles/using-persuasion-to-spur.81f0ee9c/README.md) `hbr.org`
