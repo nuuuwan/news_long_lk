@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-28 06:24:08**
+Last Updated **2024-07-28 18:14:53**
 
 ## 2024-07-27
 
+* [When Sarath Fonseka  Challenged Mahinda  Rajapaksa  For The Presidency in 2010.](data/articles/when-sarath-fonseka-chal.a6fbc6f1/README.md) `dbsjeyaraj.com`
+* [“If Presidential Candidates are serious about their promises to eradicate corruption, will they be willing to face tough questions on these issues at a public forum we are prepared to host?-ITAK MPs Sumanthiran and Shanakiyan](data/articles/if-presidential-candida.1b8e94b9/README.md) `dbsjeyaraj.com`
 * [Interim order of Supreme Court and implications](data/articles/interim-order-of-supreme.98a48d5d/README.md) `ft.lk`
 
 ## 2024-07-26
