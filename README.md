@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-28 18:14:53**
+Last Updated **2024-07-29 06:25:40**
+
+## 2024-07-29
+
+* [Principles and proposals for political and constitutional reform for democracy: Part II](data/articles/principles-and-proposals.d5f77d19/README.md) `ft.lk`
+* [Green innovations for sustainability](data/articles/green-innovations-for-su.b83c48a6/README.md) `ft.lk`
+* [Amal Sanderatne: An appreciation](data/articles/amal-sanderatne-an-appre.6f478376/README.md) `ft.lk`
+* [Child’s guide to debt and debt restructuring: Part IV](data/articles/child-s-guide-to-debt-an.24b87b7e/README.md) `ft.lk`
 
 ## 2024-07-27
 
