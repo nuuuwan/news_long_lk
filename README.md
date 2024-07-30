@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-29 18:17:12**
+Last Updated **2024-07-30 06:26:37**
+
+## 2024-07-30
+
+* [CPA on wilful disregard for Constitution by the President](data/articles/cpa-on-wilful-disregard.418b9696/README.md) `ft.lk`
+* [Failure to abide by judicial decision undermines rule of law](data/articles/failure-to-abide-by-judi.8d03f7ff/README.md) `ft.lk`
+* [Why do we keep missing the bus?](data/articles/why-do-we-keep-missing-t.2d97e8a4/README.md) `ft.lk`
+* [Sri Lanka Tourism: Good is not good when better is expected](data/articles/sri-lanka-tourism-good-i.490213b5/README.md) `ft.lk`
+* [Principles and proposals for political and constitutional reform for democracy: Part III](data/articles/principles-and-proposals.91ae4816/README.md) `ft.lk`
 
 ## 2024-07-29
 
+* [AI Has a Revolutionary Ability to Parse Details. What Does That Mean for Business?](data/articles/ai-has-a-revolutionary-a.9471627e/README.md) `hbr.org`
+* [Make the Most of Your Vacation When You Can’t Fully Unplug](data/articles/make-the-most-of-your-va.91c32064/README.md) `hbr.org`
 * [Companies Need a New Approach to Investing This Election Year](data/articles/companies-need-a-new-app.f2024453/README.md) `hbr.org`
 * [Principles and proposals for political and constitutional reform for democracy: Part II](data/articles/principles-and-proposals.d5f77d19/README.md) `ft.lk`
 * [Green innovations for sustainability](data/articles/green-innovations-for-su.b83c48a6/README.md) `ft.lk`
@@ -24,6 +34,7 @@ Last Updated **2024-07-29 18:17:12**
 * [Democracy should be about ethics, morality and social values, not just regime changes](data/articles/democracy-should-be-abou.b99876c3/README.md) `ft.lk`
 * [Governance, economy and day of reckoning](data/articles/governance-economy-and-d.18bfcda3/README.md) `ft.lk`
 * [Sri Lanka’s Presidential Elections to be held on 21st September 2024; Incumbent President Ranil Wickremesinghe among the first to pay Cash deposit to Contest as an Independent  Candidate](data/articles/sri-lanka-s-presidential.342e8bc9/README.md) `dbsjeyaraj.com`
+* [Controversial CRISPR scientist promises “no more gene-edited babies” until society comes around](data/articles/controversial-crispr-sci.f2199b3b/README.md) `technologyreview.com`
 * [Overcome Your Fear of Giving Feedback](data/articles/overcome-your-fear-of-gi.eaa160ad/README.md) `hbr.org`
 * [Why You Feel Underappreciated at Work](data/articles/why-you-feel-underapprec.d63e3daf/README.md) `hbr.org`
 * [Using Persuasion to Spur Lasting Organizational Change](data/articles/using-persuasion-to-spur.81f0ee9c/README.md) `hbr.org`
@@ -37,6 +48,7 @@ Last Updated **2024-07-29 18:17:12**
 ## 2024-07-25
 
 * [Argentina’s new investment promotion regime: key points](data/articles/argentina-s-new-investme.f4041062/README.md) `eiu.com`
+* [Ukraine scenarios: what will happen under Trump?](data/articles/ukraine-scenarios-what-w.62326b47/README.md) `eiu.com`
 * [“Copyright traps” could tell writers if an AI has scraped their work](data/articles/copyright-traps-could-t.20cc2ef1/README.md) `technologyreview.com`
 * [To Make Your Pitches More Engaging, Appeal to Multiple Learning Styles](data/articles/to-make-your-pitches-mor.36cd9fbf/README.md) `hbr.org`
 * [Can AI Help Your Company Innovate? It Depends](data/articles/can-ai-help-your-company.29983473/README.md) `hbr.org`
@@ -70,6 +82,7 @@ Last Updated **2024-07-29 18:17:12**
 
 ## 2024-07-23
 
+* [Biden exits US presidential race and endorses Harris](data/articles/biden-exits-us-president.9142423a/README.md) `eiu.com`
 * [Should Your Company Build an Open or Closed Ecosystem?](data/articles/should-your-company-buil.3d6f5cd6/README.md) `hbr.org`
 * [Avoid These 3 Pitfalls When Giving a Sales Presentation](data/articles/avoid-these-3-pitfalls-w.8ea11675/README.md) `hbr.org`
 * [U.S. Commercial Real Estate Is Headed Toward a Crisis](data/articles/u-s-commercial-real-esta.6066030b/README.md) `hbr.org`
