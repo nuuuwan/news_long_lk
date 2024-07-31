@@ -2,11 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-07-30 18:16:54**
+Last Updated **2024-07-31 06:25:35**
+
+## 2024-07-31
+
+* [Sri Lanka’s international bond deal: Have we been punching below our weight?](data/articles/sri-lanka-s-internationa.e775c12b/README.md) `ft.lk`
+* [Human Rights Watch charges Sri Lanka authorities target religious minorities](data/articles/human-rights-watch-charg.6f0dd724/README.md) `ft.lk`
 
 ## 2024-07-30
 
+* [Is It Time to Pivot Your Strategy?](data/articles/is-it-time-to-pivot-your.a73e5441/README.md) `hbr.org`
+* [How Biases About Motherhood Impact All Women at Work](data/articles/how-biases-about-motherh.ba1c1397/README.md) `hbr.org`
 * [Global Outlook: the impact of elections on climate policies](data/articles/global-outlook-the-impac.efa8140f/README.md) `eiu.com`
+* [How machines that can solve complex math problems might usher in more powerful AI](data/articles/how-machines-that-can-so.ca31fb2d/README.md) `technologyreview.com`
 * [CPA on wilful disregard for Constitution by the President](data/articles/cpa-on-wilful-disregard.418b9696/README.md) `ft.lk`
 * [Failure to abide by judicial decision undermines rule of law](data/articles/failure-to-abide-by-judi.8d03f7ff/README.md) `ft.lk`
 * [Why do we keep missing the bus?](data/articles/why-do-we-keep-missing-t.2d97e8a4/README.md) `ft.lk`
