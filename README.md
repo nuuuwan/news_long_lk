@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-01 06:27:22**
+Last Updated **2024-08-01 18:17:53**
 
 ## 2024-08-01
 
+* [How to Ask for Help Without Making Yourself Look Bad](data/articles/how-to-ask-for-help-with.1cba0f7d/README.md) `hbr.org`
+* [Why investors care about climate tech’s green premium](data/articles/why-investors-care-about.674a9a2d/README.md) `technologyreview.com`
 * [Easing Sri Lanka’s fiscal burden: Who needs a State pension?](data/articles/easing-sri-lanka-s-fisca.b1d3436f/README.md) `ft.lk`
 * [Supreme Court interim ruling only a direction given to President](data/articles/supreme-court-interim-ru.7bae218f/README.md) `ft.lk`
 * [SLPP defectors, Tamil options, ‘Democracy in Debt’ and Vickramabahu’s validation](data/articles/slpp-defectors-tamil-opt.12a7cdaa/README.md) `ft.lk`
@@ -18,6 +20,7 @@ Last Updated **2024-08-01 06:27:22**
 * [How Grocery Stores Should Respond to the Growth of Online Markets](data/articles/how-grocery-stores-shoul.c869160b/README.md) `hbr.org`
 * [Research: Resume Gaps Still Matter](data/articles/research-resume-gaps-sti.82b6642d/README.md) `hbr.org`
 * [Sri Lanka’s international bond deal: Have we been punching below our weight?](data/articles/sri-lanka-s-internationa.e775c12b/README.md) `ft.lk`
+* [A controversial Chinese CRISPR scientist is still hopeful about embryo gene-editing. Here’s why.](data/articles/a-controversial-chinese.41991145/README.md) `technologyreview.com`
 * [Human Rights Watch charges Sri Lanka authorities target religious minorities](data/articles/human-rights-watch-charg.6f0dd724/README.md) `ft.lk`
 
 ## 2024-07-30
