@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-02 06:25:53**
+Last Updated **2024-08-02 18:16:21**
 
 ## 2024-08-02
 
+* [Why “Wisdom Work” Is the New “Knowledge Work”](data/articles/why-wisdom-work-is-the-n.d097c89e/README.md) `hbr.org`
 * [Expectations from 9th Executive President of Sri Lanka](data/articles/expectations-from-9th-ex.7badbbfe/README.md) `ft.lk`
 * [Expats’ right to vote](data/articles/expats-right-to-vote.8cb6a8af/README.md) `ft.lk`
 * [Bridging borders: Strengthening India-Sri Lanka economic integration](data/articles/bridging-borders-strengt.05563b47/README.md) `ft.lk`
