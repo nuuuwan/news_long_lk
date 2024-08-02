@@ -1,0 +1,23 @@
+{
+  "url": "https://hbr.org/sponsored/2024/08/video-quick-take-unisys-mike-thomson-on-navigating-tech-trends-and-cybersecurity-in-the-modern-workplace",
+  "title": "Video Quick Take: Unisys\u2019 Mike Thomson on Navigating Tech Trends and Cybersecurity in the Modern Workplace",
+  "ut": 1722497424.0,
+  "body_paragraphs": [
+    "Unisys is a global technology solutions company that powers breakthroughs for the world\u2019s leading organizations. Unisys\u2019 solutions \u2013 cloud, AI, digital workplace, logistics and enterprise computing \u2013 help clients challenge the status quo and unlock their full potential. To learn more click here.",
+    "Welcome to the HBR Video Quick Take. I\u2019m Todd Pruzan, Senior Editor for Research and Special Projects at Harvard Business Review. As organizations everywhere continue refining their hybrid work models, a lot of them are finding out they need to plan complex strategies that balance a range of factors that all need to work together to support productivity, efficiency, and growth.",
+    "Today, we\u2019re talking with Mike Thomson, who\u2019s President and Chief Operating Officer of Unisys, to explore key business technology trends in today\u2019s hybrid work environment. Mike will share his expertise in using AI and data models, tackling cybersecurity issues, and managing costs between physical and digital resources. Mike, thanks for being with us.",
+    "Thank you for having me.",
+    "OK, so obviously today many organizations are operating in a hybrid work environment. How can they use AI and data models to enhance the way they deliver their solutions?",
+    "Yeah, great question. Hybrid data model is absolutely here to stay. It\u2019s just a matter of how many days you\u2019re actually in the office. So the key is to make that environment as seamless as possible. The data models are really important in order to do that.",
+    "So if you think about the data telemetry that you can capture and analyze\u2014which would be items from the physical device, the physical location, perhaps the user sentiment\u2014bringing all of that disparate data together so that you can analyze that data and do things like preventive maintenance or self-healing or things like that is really the aspect of the AI and data model that we like to talk about. We also look at the persona for the individual, which could help determine what type of bandwidth they need, what software they need, and what hardware they need. So the key is to really get it to be a seamless environment, just like if you were in the workplace itself, and make sure that you\u2019re enabled to collaborate with your coworkers.",
+    "With remote work becoming obviously more and more prevalent, how does an organization with a hybrid workplace model address cybersecurity issues?",
+    "Another great question, and a difficult one. Look, if you think about those environments today, you\u2019re connected to a home network. So your kid\u2019s Xbox is part of the network infrastructure.",
+    "I like to think about it in two elements. One is really related to the actual physical security, so that would be adding software to the device, like a CrowdStrike or something like that. The other piece is really about education. We need to make sure that the remote workforce really has a good sense of what to look for from a cyber perspective. And then lastly, we need to ensure that we\u2019ve got the right monitoring tools and things like that to ensure the safety of that environment, and things like multifactor authentication are really important as well.",
+    "Can you talk a little bit about the balance between reducing physical costs and with managing increasing data-related expenses?",
+    "Yeah. Everyone looks at the real estate side of that and the cost reduction there, and that\u2019s real and tangible. But there are definitely these hidden costs on the backside, whether that is additional software, or additional pieces of hardware in the home. You\u2019re talking about data. Again, we talked about data telemetry, storing all that data, capturing that data, the secure aspect of monitoring that environment. So there\u2019s a lot of additional licenses cost as well as hardware costs that usually come into play, and it\u2019s usually a hidden cost until you actually bear it.",
+    "OK. Well, Mike, thank you for all of your insights today. Thanks for being with us.",
+    "Well, thanks for having me. I really appreciate it.",
+    "We\u2019ve been speaking with Mike Thomson, President and Chief Operating Officer of Unisys Corporation.",
+    "To learn more click here: Business leaders on AI adoption: HBR report sponsored by Unisys."
+  ]
+}
