@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-02 18:16:21**
+Last Updated **2024-08-03 06:25:19**
 
 ## 2024-08-02
 
+* [Prelates loosen condemned provocateur](data/articles/prelates-loosen-condemne.fe3c5fed/README.md) `ft.lk`
+* [Road to COP29: Priorities and expectations for global climate negotiations in 2024](data/articles/road-to-cop29-priorities.ae4a63fa/README.md) `ft.lk`
+* [New technologies and practices transforming green energy sector](data/articles/new-technologies-and-pra.dab5e46f/README.md) `ft.lk`
+* [Need for an epistemological break](data/articles/need-for-an-epistemologi.eac909cf/README.md) `ft.lk`
+* [Are You a Micromanager or Too Hands-Off?](data/articles/are-you-a-micromanager-o.6805855b/README.md) `hbr.org`
 * [Why “Wisdom Work” Is the New “Knowledge Work”](data/articles/why-wisdom-work-is-the-n.d097c89e/README.md) `hbr.org`
 * [Expectations from 9th Executive President of Sri Lanka](data/articles/expectations-from-9th-ex.7badbbfe/README.md) `ft.lk`
 * [Expats’ right to vote](data/articles/expats-right-to-vote.8cb6a8af/README.md) `ft.lk`
