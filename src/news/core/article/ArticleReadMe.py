@@ -20,12 +20,6 @@ class ArticleReadMe:
             [
                 f'# {self.title}',
                 '',
-                '## Summary 🤖',
-                '',
-                self.ai_summary,
-                '',
-                '## Full Text',
-                '',
                 f'[{self.url}]({self.url})',
                 '',
                 f'*{self.time_str_formatted}*',
