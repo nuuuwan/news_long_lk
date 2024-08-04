@@ -1,0 +1,46 @@
+# Livable wages essential to attract, retain plantation workers - Expert
+
+[https://www.dailymirror.lk/hard-talk/Livable-wages-essential-to-attract-retain-plantation-workers-Expert/334-288578](https://www.dailymirror.lk/hard-talk/Livable-wages-essential-to-attract-retain-plantation-workers-Expert/334-288578)
+
+*03:23 AM, Friday, August 02, 2024*
+
+Had competency mapping been implemented, the RPC sector could have benefited from skilled and forward-thinking executives
+
+Sri Lanka can learn from Norway, Denmark, the Netherlands, and Germany by adopting robust labor laws that prevent gender discrimination and protect worker rights
+
+There is a significant shortage of workers in RPC-managed plantations, and the current wage calculation methods are inconsistent with modern HRM practices
+
+The plantation sector which has been a key pillar in the economy contributing to the export earnings of the country since colonial times is facing unprecedented challenges due to the drastic decline in the workforce leading to substandard performance in  recent years. The need for corrective action to revive a 200-year-old lucrative industry is urgent and imperative.
+
+Senior Planter, Agricultural Advisor/Consultant and former Secretary General of Ceylon Planter’s Society Lalin I De Silva shared his views on the critical state of the plantation sector.
+
+How do you view the plantation sector which is grappling with multiple issues and lagging behind its competitors in the global market?
+
+In June 1992, there were nearly 300,000 plantation employees across about 460 plantations managed by the Janatha Estates Development Board and Sri Lanka State Plantations Corporation. These plantations were then distributed among 23 Regional Plantation Companies (RPCs). We have less than 100,000 workers today and no one seems to know the actual number of employees in the RPC sector. The offer document included a critical clause that significantly contributed to the decline in plantation performance and the politicization of the sector due to undue influence. This clause, known as the “Irrevocable Power of Attorney” status, is notably absent from the document currently held by the Attorney General’s Department. If this is true, it is essential to question why corrective actions have been slow, and this inquiry should be directed towards the Plantation Management Monitoring Division of the Ministry of Plantations, the Treasury’s representative and holder of the golden share.
+
+The Rs. 1,700 pay hike for plantation workers seems to be a non-starter leaving workers back again in the lurch with a paltry take-home wage. Shouldn’t the proposed wage increase be seen as an incentive to boost productivity rather than a burden to plantation companies?
+
+Equal pay, inclusive workplace policies, and strong enforcement mechanisms will enhance workplace fairness and productivity
+
+Except a few, many RPCs failed to manage growth effectively, while authorities remained passive as national production declined. The Ministry’s statistical handbook is consistently published two years late, highlighting the inefficiency of state bureaucracy in providing timely public information. The state appears neither responsible nor accountable for addressing mismanagement in Sri Lanka.
+
+There is a significant shortage of workers in RPC-managed plantations, and the current wage calculation methods are inconsistent with modern HRM practices, such as job analysis and job valuation. To attract and retain workers, a livable wage is essential. Unfortunately, trade union leaders have also failed to address this issue professionally, resorting instead to displays of strength when intellectual solutions were needed.
+
+The situation has worsened due to rampant corruption, which the government has failed to control, resulting in unbearable inflation. It is unacceptable to endorse corruption and then shift the blame onto export-oriented products like tea. The rising cost of energy is further undermining the competitiveness of our exports. How can we generate more revenue to cover these rising costs?
+
+In the rubber sector, the Ministry’s lack of urgency in developing a research protocol for CSLD (circular spot leaf disease) over the past seven years has exacerbated the problem. The RPC sector should consider legal action against the Ministry for its failure to support rubber cultivation. If the state continues to undermine the sector, it may lead to a decline in rubber planting. There is concern that the real intention might be to benefit from importing latex from other countries, leaving the RPC sector struggling with high wages while the rubber industry suffers.
+
+What new methods do you propose to boost the productivity of workers given the tough working conditions on the field to pluck beyond the 18kg norm?
+
+Competency mapping which is the process of identifying and defining the knowledge, skills and personal attributes needed for a particular role is crucial for addressing worker issues and managing the mismanagement of the Rubber Research Institute of Sri Lanka in research and development. For instance, the world’s first rubber research institute had to function without a director for seven years, which halted biotech and tissue culture trials. Meanwhile, India is advancing by planting thousands of hectares with biologically modified rubber varieties.
+
+Had competency mapping been implemented, the RPC sector could have benefited from skilled and forward-thinking executives. RPCs that adopt such practices are significantly ahead of their competitors. Competency mapping would have differentiated between highly capable individuals and less skilled workers, offering higher remuneration to attract and retain top talent.
+
+Additionally, high-density (double-row) tea planting, as demonstrated by Mr. Devaka Dias, is reducing harvesting costs. The yields have surpassed well above 6000 Kgs/Hect/annum. Moving forward, mechanization and automation, combined with precision and value chain management, are essential for progress.
+
+What lessons Sri Lanka can draw from countries such as Norway, Denmark, the Netherlands and Germany which have better labour laws that discourage gender discrimination and ensure the rights of workers?
+
+Sri Lanka can learn from Norway, Denmark, the Netherlands, and Germany by adopting robust labor laws that prevent gender discrimination and protect worker rights. Emphasizing equal pay, inclusive workplace policies, and strong enforcement mechanisms can enhance fairness and productivity, fostering a more equitable and efficient labour market.
+
+In view of the World Rangers Day, Daily Mirror investigative journalists Kamanthi Wickramasinghe and Prageeth Sampath Karunathilaka were awarded for their contribution to promote and preserve the environment at the Sri Lanka Exhibition and Convention Centre on July 31.The awards ceremony was organized by the All Island Wildlife Rangers Association
+

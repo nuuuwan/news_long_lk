@@ -1,0 +1,46 @@
+# Presidential elections and problems of people
+
+[https://www.dailymirror.lk/opinion/Presidential-elections-and-problems-of-people/172-288645](https://www.dailymirror.lk/opinion/Presidential-elections-and-problems-of-people/172-288645)
+
+*08:35 PM, Friday, August 02, 2024*
+
+According to the Office of the Commissioner of Election (EC) to date ten individuals have already paid their deposits to contest the upcoming presidential election on 21 September. Even today there are doubts as to whether the much-hyped election will take place or will be cancelled at the last minute.
+
+Be that as it may, despite the media hype around the upcoming election, in general there seems to be a loss of faith in the electoral process among citizens. Ordinary people are more concerned about where they are going to find the means to buy their next meal, how they can meet the costs of children’s education and whether they can meet medical emergencies and other mundane problems on a day-to-day basis.
+
+Meanwhile most of the candidates contesting the presidential election, are busy criticising the government on the high cost of living, inadequate wages paid to workers, problems of affordable transport etc.
+
+To make matters worse some political parties are using these problems to rouse the passions of long-suffering working people calling strikes to demand impossibly high wage increases.
+
+Today the main problems we as a country face are:
+
+(i) Repayment of our foreign debt. According to Trade Economics quoting the Central Bank of Sri Lanka our external debt increased to US$ million 55379.82 in the first quarter of 2024 from 54831.56 US$ million in the fourth quarter of 2023.
+
+(ii) Inadequate wages: Statistics show the average monthly salary in the formal sector is estimated to be around Rs. 45,000- to Rs.60,000. Around 500,000 temporary workers lost employment during the Covid pandemic and the economic meltdown. Many of these people have not been able to find regular employment as yet.
+
+In the apparel industry, the minimum monthly wage is approximately Rs. 10,000 to Rs.12,000.
+
+Workers in the agricultural sector receive a minimum monthly wage that ranges from Rs. 8,000 to Rs. 10,000.
+
+Plantation workers have a daily wage system, which was recently revised to ensure a minimum daily wage of Rs 1,000, meaning they receive around Rs. 25,000 to Rs. 30,000, assuming full attendance in a month.
+
+The health services are at breaking point. Government hospitals are overflowing with patients. In many of these institutions, two patients have to share a single bed. At a meeting with the Health Minister Government Medical Officers said around 100 rural hospitals are on the verge of closing down due to a shortage of doctors. Medicines are also in short supply.
+
+Education services are run down. The Ceylon Teachers Union points out there is a shortage of 40,000 teachers in government schools. According to the union, there is a fear of around 2,000 schools closing down in the future due to a shortage of teachers.
+
+Parents are worried about politicised trade unions bringing education and services to a halt and creating more problems for them.
+
+Sadly none of the political parties or the candidates have mentioned how they  intend solving these problems. While candidates have raised the issue of low wages and the high cost of living, none have mentioned how they will either increase wages or bring down the cost of living in the face of a growing international debt and inadequate foreign earnings.
+
+None have spoken of practical measures that need to be taken to tackle the problem of inadequate foreign earnings needed to repay the foreign debt while at the same time increasing wages and bringing down the rising cost of living.
+
+Neither do they speak of how they will improve our ailing health services or shore up the failing educational sector.
+
+The president -now an aspirant at the presidential election reminisces on the period of shortages of basics, lengthy queues for fuel, cooking gas, empty shelves in shops and a near anarchic political situation he inherited and how he brought about a semblance of normalcy.
+
+But today hunger and malnutrition stalk the land.
+
+Voters need him to inform them when he expects this situation to take a turn for the better if at all, and when if ever we can expect full repayment of our debt without having to undergo worse sufferings.
+
+As none has provided answers to burning questions, voter apathy at this stage is not unexpected.
+
