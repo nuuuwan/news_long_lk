@@ -28,6 +28,7 @@ class Article(
             article_file = JSONFile(
                 os.path.join(Article.DIR_DATA, child_dir, "article.json")
             )
+            print(article_file.path)
             if article_file.exists:
                 article = Article.from_file(article_file)
                 articles.append(article)
