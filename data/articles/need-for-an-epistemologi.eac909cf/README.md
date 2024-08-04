@@ -1,20 +1,5 @@
 # Need for an epistemological break
 
-## Summary 🤖
-
-1. 🇱🇰 The article discusses Sri Lanka's political and socio-economic challenges, with a focus on devolution of powers and the people most affected by the nation's crisis.
-2. 🎙 At a press conference, the People’s Struggle Alliance opposed the IMF deal for managing Sri Lanka’s debt crisis, which it believes buries everyday citizens under repayment obligations.
-3. 🤔 However, the writer criticises inconsistent and unclear messages from the Alliance regarding the ‘national question', which concerns political structure and self-governance for Sri Lanka's Tamil population. 
-4. 🚧 While the Alliance supports some level of self-rule or 'suyadchi', it fails to explain why the 13th Amendment, which provides for devolution of powers, hasn't been fully implemented. 
-5. 🗣 Various speakers from the Alliance voice different ideas regarding 'suyadchi' and the right to self-determination for Tamils, leading to further confusion.
-6. 🤲 The writer observes that the concept of 'suyadchi' should include not only Tamils but also Sinhalese, Muslims, and other ethnic groups within Sri Lanka.
-7. 🙅‍♀️ The Alliance failed to address crucial issues like caste discrimination and minority rights when presenting their proposals.
-8. 🏞 The 'national question' solution should not be based on ethnic/linguistic lines, but on regional autonomy to balance power sharing and avoid further divisions.
-9. 🔄 There is a need for a shift in the discourse from exclusivist narratives to inclusive ones that embrace all inhabitants of the North-East province of Sri Lanka.
-10. 💨 Ultimately, the writer believes that Sri Lanka must challenge its neoliberal state structure and find a new language of inclusivity to address its political future.
-
-## Full Text
-
 [https://www.ft.lk/opinion/Need-for-an-epistemological-break/14-765085](https://www.ft.lk/opinion/Need-for-an-epistemological-break/14-765085)
 
 *11:03 PM, Friday, August 02, 2024*

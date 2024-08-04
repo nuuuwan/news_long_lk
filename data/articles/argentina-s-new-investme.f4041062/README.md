@@ -1,20 +1,5 @@
 # Argentina’s new investment promotion regime: key points
 
-## Summary 🤖
-
-1. 📊 The Argentine government has introduced a new investment promotion regime, Régimen de Incentivos para Grandes Inversiones (RIGI).
-2. 🏭 The RIGI applies to projects over $200m in sectors including forestry, tourism, infrastructure, mining, technology, steel, energy, and oil and gas.
-3. 🌐 The scheme aims to boost foreign direct investment in Argentina, particularly in export-oriented sectors.
-4. 🏦 Due to currency and capital controls, the impact of the RIGI is expected to be limited.
-5. 💰 Firms under the RIGI will receive benefits such as reduced taxes and foreign-trade exemptions for 30 years.
-6. 🔍 Businesses must create ‘single-project vehicles’ (VPUs) to comply with the RIGI, with further benefits for investments over $1bn.
-7. 💱 Foreign-exchange benefits include the lifting of export earnings sale restrictions and no capital or trade restrictions on loans or dividends.
-8. 🏛️ Provincial governments must approve the RIGI; Argentina expects centrist or center-right governments to ratify the scheme.
-9. ☝️ The RIGI predicts firm GDP growth post-2025, but this is dependent on the removal of currency and capital controls.
-10. 💼 Political instability and lopsided support for the RIGI could jeopardize long-term investment confidence in Argentina.
-
-## Full Text
-
 [https://www.eiu.com/n/argentinas-new-investment-promotion-regime-key-points/](https://www.eiu.com/n/argentinas-new-investment-promotion-regime-key-points/)
 
 *09:40 PM, Thursday, July 25, 2024*

@@ -1,20 +1,5 @@
 # Expectations from 9th Executive President of Sri Lanka
 
-## Summary 🤖
-
-1. 🗳️ Sri Lanka's first election since 2022's severe economic crisis will be held on 21 September.
-2. 💵 The election comes after a period of extensive food, fuel and medicine shortages across the nation.
-3. 🌐 Economic issues will likely dominate the campaign, following a record 7.8% GDP shrink in 2022.
-4. 👤 The ninth executive president of Sri Lanka will face significant challenges, including dealing with the economic crisis and large debt.
-5. 📈 The president will need to implement economic reforms, secure international financial aid, and bring economic stability.
-6. 🏛️ Furthermore, the president needs to ensure political stability, manage political factions, and address public dissatisfaction related to economic hardships.
-7. 🌳 Expectations also include implementing sustainable development policies and addressing climate change impacts.
-8. 🌍 Strengthening international relations and improving Sri Lanka’s standing in the international community are also crucial.
-9. 🏗️ Sri Lanka needs to continue its path of reforms, build a strong, sustainable export economy and make the country an attractive business and investment destination.
-10. 🔄 Candidates Premadasa and Dissanayake have expressed intentions to overhaul the IMF program to alleviate cost-of-living pressures and reduce the debt repayment burden amid a fragile economic recovery.
-
-## Full Text
-
 [https://www.ft.lk/columns/Expectations-from-9th-Executive-President-of-Sri-Lanka/4-765045](https://www.ft.lk/columns/Expectations-from-9th-Executive-President-of-Sri-Lanka/4-765045)
 
 *06:07 AM, Friday, August 02, 2024*

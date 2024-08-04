@@ -1,20 +1,5 @@
 # Why investors care about climate tech’s green premium
 
-## Summary 🤖
-
-1. 💬 MIT Technology Review covers Mike Schroepfer, former CTO of Meta and current climate tech investor, discussing funding aspects of climate tech solutions.
-2. 🚀 Schroepfer stresses on investing in firms not just for their climate commitments, but their ability to deliver better, cheaper products that also have climate benefits. 
-3. 🧠 The brilliance and creativity in the sector is evident but financial viability is crucial for survival. 
-4. 📉 Reflecting on past failures, many tech ideas that emerged around 2006 collapsed by 2013 due to lack of financial advantages.
-5. 👀 Startups must compete with established industries and face the challenge of the "green premium” — the cost difference between cheaper, polluting products and costlier, climate-friendly ones.
-6. 💵 There are two main ways to tackle the green premium: increasing the cost of polluting products or reducing the cost of eco-friendly alternatives. While some policies aim for the former, it can make companies susceptible to political changes. 
-7. 📊 Schroepfer asserts that new tech needs to become cheaper and can compete on economics or offer other customer benefits.
-8. 🕒 The goal is to find companies that are able to compete in terms of cost over a five-to-10-year span. 
-9. 💼 Long investment periods are sometimes required; solar panels and lithium-ion batteries took decades to become cheap and widespread. 
-10. 🛒 Some consumers are willing to pay a premium for sustainable products, indicating the potential for technology like low-emissions steel to compete on cost by 2040-2050.
-
-## Full Text
-
 [https://www.technologyreview.com/2024/08/01/1095543/climate-tech-green-premium/](https://www.technologyreview.com/2024/08/01/1095543/climate-tech-green-premium/)
 
 *06:00 AM, Thursday, August 01, 2024*

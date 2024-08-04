@@ -1,20 +1,5 @@
 # Biden exits US presidential race and endorses Harris
 
-## Summary 🤖
-
-1. 🗳️ Democratic president Joe Biden has ended his campaign for a second term on July 21st.
-2. 🤝 He endorsed his vice-president, Kamala Harris, as the Democratic nominee for the upcoming Presidential election.
-3. ⏱️ Despite this, difficulties still lie ahead in the path to an election victory.
-4. 🕊️ Senior party officials and large labour unions have now endorsed Harris, ending weeks of disputes within the party.
-5. 💵 After announcing her candidacy, Harris managed to raise a record $81m in fundraising, the largest 24-hour sum during the 2024 campaign.
-6. 🌐 A Harris presidential ticket could appeal to young and minority voters, provide a fresh chance to revamp poor campaign messaging and neutralise attacks on Biden’s age.
-7. 👩‍⚖️ Her experience as a prosecutor adds credibility to her position on rule-of-law issues.
-8. 📉 However, Harris still faces challenges like having low public approval ratings and a lack of time to run a strong campaign.
-9. 📅 Democrats will conclude a virtual nomination by August 1st, if Harris faces no major challenger.
-10. 🎯 Despite the difficulties, the rapidly unifying Democrat party suggests a close election. Harris's VP pick and her ability to attract swing voters will play a crucial role.
-
-## Full Text
-
 [https://www.eiu.com/n/biden-exits-us-presidential-race-and-endorses-harris/](https://www.eiu.com/n/biden-exits-us-presidential-race-and-endorses-harris/)
 
 *04:06 PM, Tuesday, July 23, 2024*
