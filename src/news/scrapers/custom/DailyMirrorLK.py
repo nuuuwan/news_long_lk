@@ -30,7 +30,9 @@ class DailyMirrorLK(Scraper):
         return article_head_list
 
     def scrape_article_nocache(self, article_head, soup):
-        meta_data_published = soup.find("meta", attrs={"itemprop": "datePublished"})
+        meta_data_published = soup.find(
+            "meta", attrs={"itemprop": "datePublished"}
+        )
         time_str = meta_data_published["content"]
         ut = TimeFormat("%Y-%m-%d %H:%M:%S").parse(time_str).ut
         content = soup.find("div", {"class": "a-content"}).text

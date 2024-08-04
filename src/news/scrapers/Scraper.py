@@ -18,7 +18,9 @@ class Scraper:
         log.debug(f"{n_content=:,}")
         paragraphs = content.split("\n")
         paragraphs = [p.strip() for p in paragraphs]
-        paragraphs = [p for p in paragraphs if len(p) > Scraper.MIN_PARAGRAPH_LENGTH]
+        paragraphs = [
+            p for p in paragraphs if len(p) > Scraper.MIN_PARAGRAPH_LENGTH
+        ]
         return paragraphs
 
     @property
@@ -36,7 +38,9 @@ class Scraper:
         soup = SoupUtils.get_soup(self.url_index, self.is_dynamic)
         return self.get_article_head_list_from_soup(soup)
 
-    def scrape_article_nocache(self, article_head: ArticleHead, soup) -> Article:
+    def scrape_article_nocache(
+        self, article_head: ArticleHead, soup
+    ) -> Article:
         raise NotImplementedError
 
     def scrape_article(self, article_head: ArticleHead):
