@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-04 10:08:02**
+Last Updated **2024-08-04 20:45:06**
+
+## 2024-08-04
+
+* [Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.](data/articles/rajapaksas-backstabbing.385e309e/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-02
 
@@ -10,6 +14,7 @@ Last Updated **2024-08-04 10:08:02**
 * [Road to COP29: Priorities and expectations for global climate negotiations in 2024](data/articles/road-to-cop29-priorities.ae4a63fa/README.md) `ft.lk`
 * [New technologies and practices transforming green energy sector](data/articles/new-technologies-and-pra.dab5e46f/README.md) `ft.lk`
 * [Need for an epistemological break](data/articles/need-for-an-epistemologi.eac909cf/README.md) `ft.lk`
+* [Rajapaksas bamboozling Ranil boomerangs on SLPP](data/articles/rajapaksas-bamboozling-r.ebc7685a/README.md) `dailymirror.lk`
 * [Are You a Micromanager or Too Hands-Off?](data/articles/are-you-a-micromanager-o.6805855b/README.md) `hbr.org`
 * [Why “Wisdom Work” Is the New “Knowledge Work”](data/articles/why-wisdom-work-is-the-n.d097c89e/README.md) `hbr.org`
 * [Expectations from 9th Executive President of Sri Lanka](data/articles/expectations-from-9th-ex.7badbbfe/README.md) `ft.lk`

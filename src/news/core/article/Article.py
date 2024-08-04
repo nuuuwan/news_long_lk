@@ -46,5 +46,4 @@ class Article(
 
     def save_all(self):
         self.save()
-        self.ai_summary
         self.save_readme()
