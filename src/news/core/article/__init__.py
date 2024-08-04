@@ -4,4 +4,5 @@ from news.core.article.Article import Article
 from news.core.article.ArticleAIImage import ArticleAIImage
 from news.core.article.ArticleAIText import ArticleAIText
 from news.core.article.ArticleBase import ArticleBase
+from news.core.article.ArticleMetadata import ArticleMetadata
 from news.core.article.ArticleReadMe import ArticleReadMe

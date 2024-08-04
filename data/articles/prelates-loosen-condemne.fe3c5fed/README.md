@@ -1,20 +1,5 @@
 # Prelates loosen condemned provocateur
 
-## Summary 🤖
-
-1. 🚔 Galagoda Aththe Gnanasara Thera, a controversial figure in Sri Lanka, was released on bail after intense pressure from Buddhist societies and the supremacist organisation Bodu Bala Sena (BBS).
-2. 🏛️ Gnanasara was sentenced to four years of rigorous imprisonment by a Colombo High Court Magistrate for a range of charges, but was released due to political interference. 
-3. 🏛️ His release points at an urgent need for reforms in governance and raises issues about the interference of political and religious leaders in judicial matters.
-4. 🗣️ Gnanasara's anti-Muslim campaign has led to several violent incidents in Sri Lanka after the civil war, including the Sinhala-Muslim riot in 2015.
-5. 🕌 His behaviour has been highly controversial, including the desecration of a Hindu temple site by cremating a Buddhist monk's body against a court order.
-6. 🏛️ His release, seen as a ploy to capture the Buddhist vote bank, undermines Sri Lanka's justice system and sets a problematic precedent.
-7. 🎪 As Sri Lanka edges towards the presidential election scheduled for 21st September, alliances are being formed with religious organisations in order to gain electoral advantages.
-8. ❌ The exception to this is the National People’s Power (NPP), who are seeking to bring a change in the political culture of the country through social revolution.
-9. 👮‍♂️ Post release, Gnanasara continues to make provocative statements, creating worries of potential communal flare-ups as the election approaches.
-10. 🚨 There are concerns that Gnanasara might incite widespread violence and a state of emergency, which could postpone or cancel the upcoming election.
-
-## Full Text
-
 [https://www.ft.lk/columns/Prelates-loosen-condemned-provocateur/4-765095](https://www.ft.lk/columns/Prelates-loosen-condemned-provocateur/4-765095)
 
 *11:46 PM, Friday, August 02, 2024*
