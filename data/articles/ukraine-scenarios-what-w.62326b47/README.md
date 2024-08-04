@@ -1,20 +1,5 @@
 # Ukraine scenarios: what will happen under Trump?
 
-## Summary 🤖
-
-1. 🇺🇸 If Donald Trump wins the 2024 US presidential election, he intends to bring both Ukraine and Russia to peace talks soon after taking office in 2025. 
-2. 🇺🇦 Ukraine's participation might be secured by threatening to withhold US assistance, forcing Ukraine into potential peace talks.
-3. 🤝 Peace talks appear beneficial to both sides, although a final deal satisfying both sides is unlikely.
-4. 🇷🇺 Russia probably won't support any peace treaty that requires it to return its recently-seized territories back to Ukraine.
-5. 🇺🇦 Ukraine's government also won't likely condone to officially give up the provinces seized by Russia.
-6.  📅 If talks break down, conflict could resume with Russia continuing territorial gains and US aid to Ukraine reducing after mid-2025.
-7. 🇪🇺 Increased European assistance is expected but might not suffice to give Ukraine a turning point in the conflict due to limitations on political will or industrial capabilities.
-8. Alternative scenario 1: 🕊️ A fragile ceasefire remains no peace deal comes into effect. This could occur if both sides become hesitant to continue warring due to potential reprisals and constraints. 
-9. Alternative scenario 2: 💪 Europe delivers sufficient aid to keep Ukraine in the fight and potentially regain some territories.
-10. 🎲 Low-probability scenarios also exists like an unexpected peace deal in 2025 or a change in the next US government's approach to Ukraine.
-
-## Full Text
-
 [https://www.eiu.com/n/ukraine-scenarios-what-will-happen-under-trump/](https://www.eiu.com/n/ukraine-scenarios-what-will-happen-under-trump/)
 
 *04:02 PM, Thursday, July 25, 2024*

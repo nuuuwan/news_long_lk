@@ -1,20 +1,5 @@
 # How to Ask for Help Without Making Yourself Look Bad
 
-## Summary 🤖
-
-1. 🤔Many working professionals hesitate to ask for help, fearing they'll be seen as incapable.
-2. 👥Others assume that asking for help will make them appear incompetent or bothersome.
-3. ⚖️There's a need to strike a balance of humility and strength while asking for help, as dependence can cause coworkers to doubt one's competence and dependability.
-4. 🗣️Approaching others with confidence and making a thoughtful request may lead to positive perceptions.
-5. 💡The article suggests ways to ask for help from a position of strength without looking bad.
-6. 🎯Starting the conversation with a clear purpose and acknowledging the expertise of the person you're asking can help.
-7. 🚫 Avoiding self-deprecating language is recommended, as it can make the other person uncomfortable and chip at your credibility.
-8. 📚Be precise and concise; vague or rambling requests may lead to difficulty assisting.
-9. 🤓Explaining what you've already accomplished before seeking input shows initiative and a methodical approach.
-10. 👩‍🏫Framing your request as a desire to learn or seek mentorship may lead to further willingness to help and fosters positive self-perceptions.
-
-## Full Text
-
 [https://hbr.org/2024/08/how-to-ask-for-help-without-making-yourself-look-bad](https://hbr.org/2024/08/how-to-ask-for-help-without-making-yourself-look-bad)
 
 *12:05 PM, Thursday, August 01, 2024*

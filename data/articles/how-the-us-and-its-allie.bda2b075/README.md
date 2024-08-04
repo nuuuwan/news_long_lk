@@ -1,20 +1,5 @@
 # How the US and its allies can rebuild economic security
 
-## Summary 🤖
-
-🔹 A country's economic security relies on advanced technological capabilities 👩‍💻.
-🔹 Technological factors include automation, secure communication, energy storage, and vaccine design 🏭.
-🔹 Insufficient funds are allocated to mature breakthroughs in critical technologies 📉.
-🔹 This "missing middle" in technology investment jeopardizes the production of vital tech like advanced batteries and computing 🕳️.
-🔹 A glaring example is China’s dominance in the drone industry, affecting the war in Ukraine 🇨🇳.
-🔹 The abandonment of first-mover advantage resulted in the West losing the printed circuit boards (PCBs) supply chain to China 🚩.
-🔹 China controls 75% of global lithium-ion capacity, essential for drone manufacturing 🔋.
-🔹 Addressing this issue requires investment, a tech-savvy workforce, robust infrastructure, and clear supply chains 💪.
-🔹 Partnering with allies to ensure industrial growth is crucial to economic prosperity 🤝.
-🔹 The focus should be on manufacturing capabilities, supply chains, material inputs, and a flexible regulatory framework 🎯.
-
-## Full Text
-
 [https://www.technologyreview.com/2024/07/30/1095439/usa-economic-security-competitiveness/](https://www.technologyreview.com/2024/07/30/1095439/usa-economic-security-competitiveness/)
 
 *05:00 AM, Tuesday, July 30, 2024*
