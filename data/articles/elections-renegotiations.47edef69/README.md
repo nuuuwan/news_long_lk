@@ -1,0 +1,52 @@
+# Elections, renegotiations and IMF’s class politics
+
+[https://www.dailymirror.lk/opinion/Elections-renegotiations-and-IMFs-class-politics/172-288753](https://www.dailymirror.lk/opinion/Elections-renegotiations-and-IMFs-class-politics/172-288753)
+
+*03:14 AM, Monday, August 05, 2024*
+
+Four prominent economists who visited Sri Lanka two months ago called for the renegotiation of the flawed IMF programme
+
+It is concerning that the SJB and NPP lack strategies to take on the new laws and the
+
+The passing of the Economic Transformation Bill without a vote is a worrying state of the opposition
+
+While working people in Sri Lanka are struggling to afford public transport, it is as if the IMF is saying let them then buy luxury cars!
+
+The benchmarks for economic reform and the austerity conditionalities in the IMF program impose a large burden of adjustment on the poor and vulnerable sections of society
+
+The legislative drive to take policy measures from a flawed agreement and convert them into binding laws through the Economic Transformation Bill, is detrimental
+
+The presidential elections are on the way, and the much-needed alternatives to the current economic trajectory are nowhere in sight. While Sri Lanka is facing the worst economic crisis since independence, this historic election is yet to put forward an economic program for recovery. Instead, the opposition political candidates in the running to win the elections, are reluctant to take on the IMF programme that suffocates working people with severe austerity measures. Without a vision to mobilise people, and with expectations of better times, when a new government takes office they will be in trouble.
+
+It is concerning that the SJB and NPP lack strategies to take on the new laws and the IMF programme that have been railroaded through by the Wickremesinghe-Rajapaksa government. The passing of the Economic Transformation Bill without a vote is a worrying state of the opposition. In this context, the IMF, with their statement following their visit released last Friday, is full of congratulations. They have welcomed the many new laws passed by a government and parliament without legitimacy.
+
+The IMF’s class logic is increasingly clear. Their backing of creditor interests, including the bondholders, is no secret in the manner in which they claim that the “execution of domestic debt restructuring” is a “major milestone”. They are not concerned that it would deprive almost half of the retirement funds of a generation of workers. The IMF further insists that its primary budget surplus of 2.3% of GDP should remain the target in the Budget for 2025. Many prominent economists, including a former Senior IMF economist Peter Doyle, have vehemently criticised this target; it is over three percentage points higher than Sri Lanka’s best-performing peer countries. This target, however, is there to ensure Sri Lanka will have funds ready to repay its creditors.
+
+The IMF conditionality of market pricing of energy has been devastating for the working people. With the price hikes of petrol and diesel, ordinary people are cutting down on travel with total fuel consumption down by forty percent. With the high kerosene oil prices even fishermen have reduced going out to sea, resulting in much lower levels of fish catch. In this context, of ordinary people being unable to afford fuel for transport, the IMF claims: “The planned relaxation of import restrictions on motor vehicles will support revenue mobilisation in 2025.”
+
+When the French peasants were demanding bread amidst the French Revolution, Princess Marie Antoinette is commonly attributed to have said, “Let them eat cake”. Similarly, while working people in Sri Lanka are struggling to afford public transport, it is as if the IMF is saying let them then buy luxury cars! The IMF’s class logic serves both the global automobile industry and the elite in Colombo with their appetite for luxurious consumption.
+
+Renegotiating the IMF programme
+
+What then should the election debates and the economic programme of any new government address? Four prominent economists who visited Sri Lanka two months ago, Martin Guzman, former Finance Minister of Argentina, Charles Abugre, Executive Director of International Development Economics Associates (IDEAs), Jayati Ghosh, Professor of Economics, University of Massachusetts Amherst, and C.P. Chandrasekhar, former Professor, Jawaharlal Nehru University, have called for the renegotiation of the flawed IMF programme. I extensively quote them below, from their open letter published in the Daily FT on 25 June 2024:
+
+“We do not believe that the current economic policy programme defined in the 17th Agreement with the International Monetary Fund (IMF) provides a sustainable path of recovery for Sri Lanka or a credible means of resolving its external debt crisis. This is based on our analysis of the factors leading to the economic collapse, our assessment of the agreement and the policy package that accompanies it, and our estimation of the economic, social, and political burdens of fiscal consolidation under the current programme. As political parties prepare for the upcoming Presidential and parliamentary elections, it is in the best interests of the Sri Lankan people that all actors commit to renegotiating the terms and conditions of the Extended Fund Facility (EFF) with the IMF. The need for such renegotiation arises from the following.
+
+Countercyclical measures
+
+The programme does not emphasise the urgency and relevance of countercyclical measures to stimulate employment and livelihoods while ensuring the basic needs of the people including education, health, and social protection.
+
+The economic growth targets in the programme are excessively optimistic, and do not recognise the adverse impact that the fiscal measures embedded in the programme would have on economic activity.
+
+This in turn means that the targets for a primary budget surplus, external debt servicing, gross financing needs and the public debt-to-GDP ratio are overly optimistic and unlikely to be met despite the very severe squeeze on the living standards of ordinary people.
+
+The benchmarks and the quantitative goals take no account of structural conditions leading to Sri Lanka’s crisis or the global instability that will inevitably also affect Sri Lanka.
+
+There is a lack of sense in the methodology of the IMF’s debt sustainability analysis (DSA). The estimates of needed external debt reduction are extremely low. This is sought to be concealed by a diversionary inclusion of domestic debt in the restructuring process, and an emphasis on “gross” financing rather than external financing needs. While domestic debt restructuring will not yield any foreign exchange to address the external debt crisis, it imposes burdens on the working people, by imposing haircuts on sovereign debt held by pension funds that are the repositories of the savings of workers. This should be reversed. In addition, the crucial problem of repaying foreign debt is underplayed, resulting in low haircuts from foreign creditors who lent at high interest rates that included a risk premium, which are unlikely to deliver the relief that is essential. Indeed there is likely to be little change in the total external debt. So, debt restructuring must focus on foreign exchange-denominated debt.
+
+The benchmarks for economic reform and the austerity conditionalities in the IMF program impose a large burden of adjustment on the poor and vulnerable sections of society, which have already been severely hit by the crisis. The increase in indirect taxation is regressive, as the poor pay a disproportionately higher share of income than the rich. The increase in energy tariffs on electricity, cooking gas, and kerosene has increased the burden on working households in both urban and rural areas. Austerity policies have already led to electricity disconnection of one million households; falling school attendance; unemployment and under-employment. The devastating impact of such measures is largely borne by women and children in these households.
+
+The legislative drive to take policy measures from a flawed agreement and convert them into binding laws through the Economic Transformation Bill, is detrimental and dangerous. It is an attack on democratic norms and the system, intended to tie to the hands of the incoming Government, irrespective of the mandate it receives from the people.”
+
+I draw extensively from this prudent analysis above, and put forward a challenge again to the SJB and NPP. How will you renegotiate or throw out the IMF programme and the large set of regressive laws rubber stamped by the illegitimate parliament over the last two years?
+

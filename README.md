@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-04 20:57:19**
+Last Updated **2024-08-05 06:24:13**
+
+## 2024-08-05
+
+* [Elections, renegotiations and IMF’s class politics](data/articles/elections-renegotiations.47edef69/README.md) `dailymirror.lk`
+* [Political parties, elections and addressing people’s needs - EDITORIAL](data/articles/political-parties-electi.02557105/README.md) `dailymirror.lk`
+* [Human Capital Summit 2024: Building future-ready public institutions](data/articles/human-capital-summit-202.5f6bfb72/README.md) `ft.lk`
+* [Memories of mentoring: Celebrating two special lives](data/articles/memories-of-mentoring-ce.5eb2f3b2/README.md) `ft.lk`
 
 ## 2024-08-04
 
+* [Child’s guide to debt and debt restructuring – Part V](data/articles/child-s-guide-to-debt-an.1c142a59/README.md) `ft.lk`
 * [Rajapaksas  Backstabbing Ranil  Over the Presidential Candidacy Issue   Backfire  on the SLPP.](data/articles/rajapaksas-backstabbing.385e309e/README.md) `dbsjeyaraj.com`
 * [The  Supreme Court has consistently upheld the principle that a govt servant is empowered to refuse to obey an ‘illegal’ order by his or her superior resulting in the use of state assets for a particular political party or candidate.](data/articles/the-supreme-court-has-co.264f8e44/README.md) `dbsjeyaraj.com`
 * [Dramatic changes in the political landscape make strange bedfellows. We will see more such additions in the coming days.](data/articles/dramatic-changes-in-the.343dd46f/README.md) `dbsjeyaraj.com`
