@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-05 06:24:13**
+Last Updated **2024-08-05 18:17:22**
 
 ## 2024-08-05
 
+* [How Companies Can Take a Global Approach to AI Ethics](data/articles/how-companies-can-take-a.82501993/README.md) `hbr.org`
+* [‘Podi Hamuduruvo’, a treasure to Buddhists in SL and around the world](data/articles/podi-hamuduruvo-a-treas.e336dea0/README.md) `dailymirror.lk`
 * [Elections, renegotiations and IMF’s class politics](data/articles/elections-renegotiations.47edef69/README.md) `dailymirror.lk`
 * [Political parties, elections and addressing people’s needs - EDITORIAL](data/articles/political-parties-electi.02557105/README.md) `dailymirror.lk`
 * [Human Capital Summit 2024: Building future-ready public institutions](data/articles/human-capital-summit-202.5f6bfb72/README.md) `ft.lk`
@@ -41,6 +43,7 @@ Last Updated **2024-08-05 06:24:13**
 * [Video Quick Take: Unisys’ Mike Thomson on Navigating Tech Trends and Cybersecurity in the Modern Workplace](data/articles/video-quick-take-unisys.d9786474/README.md) `hbr.org`
 * [The Case for College in the Era of Online Learning](data/articles/the-case-for-college-in.6ab82648/README.md) `hbr.org`
 * [How to Ask for Help Without Making Yourself Look Bad](data/articles/how-to-ask-for-help-with.1cba0f7d/README.md) `hbr.org`
+* [End-of-life decisions are difficult and distressing. Could AI help?](data/articles/end-of-life-decisions-ar.93437740/README.md) `technologyreview.com`
 * [Why investors care about climate tech’s green premium](data/articles/why-investors-care-about.674a9a2d/README.md) `technologyreview.com`
 * [Easing Sri Lanka’s fiscal burden: Who needs a State pension?](data/articles/easing-sri-lanka-s-fisca.b1d3436f/README.md) `ft.lk`
 * [Supreme Court interim ruling only a direction given to President](data/articles/supreme-court-interim-ru.7bae218f/README.md) `ft.lk`
@@ -57,6 +60,7 @@ Last Updated **2024-08-05 06:24:13**
 * [Sri Lanka’s international bond deal: Have we been punching below our weight?](data/articles/sri-lanka-s-internationa.e775c12b/README.md) `ft.lk`
 * [A controversial Chinese CRISPR scientist is still hopeful about embryo gene-editing. Here’s why.](data/articles/a-controversial-chinese.41991145/README.md) `technologyreview.com`
 * [Human Rights Watch charges Sri Lanka authorities target religious minorities](data/articles/human-rights-watch-charg.6f0dd724/README.md) `ft.lk`
+* [The US physics community is not done working on trust](data/articles/the-us-physics-community.4744159e/README.md) `technologyreview.com`
 
 ## 2024-07-30
 
