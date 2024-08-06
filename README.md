@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-05 18:17:22**
+Last Updated **2024-08-06 06:24:22**
+
+## 2024-08-06
+
+* [“NO FOREIGN COUNTRY  IS FUNDING ME” “MY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.c16ac61f/README.md) `dailymirror.lk`
+* [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.fb3a8ab6/README.md) `dailymirror.lk`
+* [WAR CRIMINALS OR HEROES?  WE’VE HEARD THAT ONE BEFORE](data/articles/war-criminals-or-heroes.3c76b83e/README.md) `dailymirror.lk`
+* [SHADES OF  ‘ARAGALAYA’  AS RIOTS  SPREAD IN  BANGLADESH - EDITORIAL](data/articles/shades-of-aragalaya-as-r.fc310b8a/README.md) `dailymirror.lk`
 
 ## 2024-08-05
 
+* [Who holds Sri Lanka’s external debt and how China is assisting Sri Lanka](data/articles/who-holds-sri-lanka-s-ex.a026a715/README.md) `ft.lk`
+* [Embracing change: Economic Transformation Bill](data/articles/embracing-change-economi.5ea1637e/README.md) `ft.lk`
+* [The Vibrant Culture of Saudi Arabia Today](data/articles/the-vibrant-culture-of-s.9214d544/README.md) `hbr.org`
+* [When Your Boss Suddenly Reduces Your Scope](data/articles/when-your-boss-suddenly.457e98eb/README.md) `hbr.org`
 * [How Companies Can Take a Global Approach to AI Ethics](data/articles/how-companies-can-take-a.82501993/README.md) `hbr.org`
 * [‘Podi Hamuduruvo’, a treasure to Buddhists in SL and around the world](data/articles/podi-hamuduruvo-a-treas.e336dea0/README.md) `dailymirror.lk`
 * [Elections, renegotiations and IMF’s class politics](data/articles/elections-renegotiations.47edef69/README.md) `dailymirror.lk`

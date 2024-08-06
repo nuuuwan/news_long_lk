@@ -1,0 +1,52 @@
+# WAR CRIMINALS OR HEROES?  WE’VE HEARD THAT ONE BEFORE
+
+[https://www.dailymirror.lk/opinion/WAR-CRIMINALS-OR-HEROES-WEVE-HEARD-THAT-ONE-BEFORE/172-288841](https://www.dailymirror.lk/opinion/WAR-CRIMINALS-OR-HEROES-WEVE-HEARD-THAT-ONE-BEFORE/172-288841)
+
+*03:36 AM, Tuesday, August 06, 2024*
+
+Ismael Haniyeh Hamas’ political leader was killed by a bomb planted at the Tehran guesthouse
+
+Fuad Shukr was a military commander inHezbollah
+
+I srael thinks it has dealt a double blow to its enemies by killing Ismail Haniyeh of Hamas and Fuad Shukr of Hezbollah. Both groups are Iranian backed and both are sworn enemies of Israel. But this looks like a serious mistake.
+
+Ismael Haniyeh was killed in Iran, which complicates the picture a great deal. Haniyeh was Hamas’ political leader and was killed by a bomb planted at the Tehran guesthouse where he was staying, and not by an airstrike as it is widely believed. The operation has all the usual Mossad characteristics. The device was planted at the venue months before and was detonated by remote control once Haniyeh arrived.
+
+Ismail Haniyeh has a complicated history as he was behind many terror attacks against civilian targets in Israel. But, during the ongoing crisis, he played a prominent role as negotiator for ceasefire. By killing him, Israel is stating clearly it isn’t interested in a ceasefire or any lasting peace.
+
+Fuad Shukr was a military commander in Hezbollah, and was a key figure in procuring sophisticated arms such as missile systems for it. These two deaths, occurring less than 24 hours of each other, will invite strong retaliation from those affected – and that isn’t just Hamas and Hezbollah.
+
+Iran feels humiliated that a close friend was killed by an arch enemy right at home. Missiles can now reach Israel directly from Iran. The damage done so far has been minimal, but now Iran will want a face-saving retaliatory action while Hezbollah too, will be planning something similar from Lebanon.
+
+But far more worrying for Israel is the reaction of Turkey. Turkish President Recep Tayyip Erdogan has reacted very strongly to these killings. Turkey is stronger militarily than Iran, and is a NATO member, which complicates the picture a great deal.
+
+The United Nations, as usual, is deadlocked over this matter, with Russia and China backing Iran and the Western bloc firmly behind Israel. Erdogan has compared Israel to Nazi Germany and Israeli Prime Minister, Benjamin Netanyahu, to Adolf Hitler. Under Erdogan, Turkey has been flexing its military muscles and acting like a world power. One shouldn’t forget that Turkey was home to The Ottoman Empire, one of the largest and longest lasting empires the world has seen, lasting more than 600 years until 1922 and dominating Southeastern Europe and the Middle East at its peak.
+
+Turkey is a major arms manufacturer, making jet fighters, a wide array of weapons, ammunition and drones. Its population is almost 85 million and its army is the second largest military force in NATO after the US. Israel has no friends in the region and the last thing it wants now is an angry and hostile Turkey.
+
+Erdogan may not go as far as direct military action against Israel. It will be costly at a time when the Turkish economy is troubled, and he may simply be trying to show that Turkey too, is a power to be reckoned with, just as the US, Russia or China. But he isn’t bluffing, either, and Israel needs to pay attention.
+
+But Netanyahu and his hardline supporters don’t seem to care, because they are counting on American support even in a worst case scenario. US Defence Secretary Lloyd Austin has reiterated support for Israel after the recent killings and subsequent rising of tension. But President Joe Biden, his nominee for the forthcoming presidential elections Kamala Harris and the Democratic Party will have to choose between the Israel lobby and voters – especially young voters angry over continuing American support for Israel even after 39,000 Palestinian deaths in nine months.
+
+Support for the Palestinians has been mounting both in Western Europe and the US ever since Israel began its massive retaliation in Gaza. After the deaths of 15,000 Palestinian children (to avenge the deaths of 38 Israeli children killed by Hamas on Oct. 7, 2023), Israel stands accused of genocide. But the war of revenge goes on and the Palestinians are treated like dirt.
+
+The racial hatred and xenophobia isn’t limited to the actual fighting. Those Palestinians detained under suspicion are treated atrociously, kept in concentration camp like conditions, and denied food and water. They are abused and tortured regularly and horrendous details of what’s going on is emerging now.
+
+The case of a Palestinian male detainee tortured and raped by a group of Israeli Defence Force soldiers has highlighted the gravity of the problem and callous, inhuman attitudes of Israel’s right-wing politicians and supporters towards their Palestinian.
+
+‘subjects.’ Many detainees are not captured Hamas fighters but people simply detained under suspicion. Prominent public figures are no exception.
+
+Talking to the Democracy Now TV channel, Dr. Mohammad Abu Salmiya, Director of Al Shifa hospital, Gaza, said he was arbitrarily arrested and tortured, resulting in a broken little finger.
+
+Diana Buttu, Palestinian lawyer and former advisor to Palestinian President Mahmoud Abbas, talks of
+
+‘engineered torture methods’ applied to detainees.
+
+Handcuffing detainees in painful ways for long periods is widespread. In some cases, the injuries caused are so bad that hands need to be amputated. Diana Buttu says this is done without anaesthetics.
+
+Waterboarding, beatings and electric shocks are applied regularly. Denying food and water is another method, and scabies is common among detainees. There are many allegations of rape. When Israel sent the IDF into Gaza, it was with a carte blanche to do as it liked. The Netanyahu government was not the least concerned with international opinion or mounting criticism.
+
+However, the uproar over this particular case was so serious that the IDF decided to investigate. Critics say this is just to show that it’s adhering to international law; in any case, nine IDF soldiers were arrested, and Israel’s right wingers and the far-right were outraged.
+
+“These men are heroes,” fumed cabinet minister Bezalel Smotrich,“not criminals.” This is a rallying cry we heard every day in Sri Lanka during the final years of the civil war. IDF supporters including prominent politicians stormed the IDF base where the nine arrested soldiers were kept. When they were taken to another base that too, was stormed, until the gates opened and they were let in.
+

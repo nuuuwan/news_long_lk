@@ -1,0 +1,48 @@
+# The Vibrant Culture of Saudi Arabia Today
+
+[https://hbr.org/sponsored/2024/08/the-vibrant-culture-of-saudi-arabia-today](https://hbr.org/sponsored/2024/08/the-vibrant-culture-of-saudi-arabia-today)
+
+*03:05 PM, Monday, August 05, 2024*
+
+The cultural sector has become one of the fastest growing sectors in the world, representing 6.1% of the global economy, according to the United Nations Educational, Scientific, and Cultural Organization (UNESCO). The global value of the sector’s creative industries is estimated at $4.3 trillion annually and represents 50 million jobs worldwide.
+
+In Saudi Arabia, the cultural sector is making major strides. Driven by a commitment to preserving and showcasing its abundant history, national identity, and heritage, Saudi Arabia prioritizes the cultural sector as a key driver of its further development. This strategic focus aligns seamlessly with the diversification goals outlined in the Kingdom’s Vision 2030. Since the establishment of the Ministry of Culture (MOC) in 2018, 11 cultural commissions now enhance the sector’s influence, with an economic contribution slated to reach 3% of the gross domestic product by 2030.
+
+Since its establishment, MOC has added 138 creative-industry jobs to the Saudi Standard Occupational Classification (SSOC), and cultural tourism increased 109% from 2019 to 2022, with 18 million local tourist trips now involving cultural activities.
+
+The Saudi cultural sector has expanded in large part due to the investment of many private entities, which have served as catalysts for growth in disciplines including fashion, film, visual arts, literature, publishing, and translation, among others. Several case studies in these areas offer insights into the progress and future of Saudi Arabia’s cultural sector and reveal the opportunities, challenges, and investment potential of these emerging industries.
+
+Pioneering the Saudi Art Scene
+
+Before the concept of cultural sectors had been fully developed, artists, patrons, and galleries operated within a limited circle. Recognizing the need to support art and artists, Hamza Serafi and Muhammad Hafiz founded ATHR Gallery in 2009 to help establish a local and international artists’ network.
+
+As a pioneer of the Kingdom’s visual arts scene, ATHR has become a platform for Saudi artists and creatives to show their work, access international platforms, obtain funding, and benefit from educational opportunities. ATHR collaborates with a diverse group of 27 renowned and emerging artists whose work has appeared in such esteemed institutions as the Guggenheim Abu Dhabi, the British Museum in London, and the Centre Pompidou in Paris.
+
+The Visual Arts Commission, along with the Diriyah Biennale Foundation, has provided a prominent platform for connecting artists and exhibitions in the Kingdom’s growing and diverse artistic communities with the global art scene.
+
+By creating these opportunities for Saudi artists to showcase their creativity locally, regionally, and internationally, ATHR’s support is helping to raise the value of Saudi art exports by an estimated 1.5% annually, expected to reach $46 million in 2026.
+
+Podcasting and Publishing
+
+The podcast industry, barely two decades old, had an estimated value of nearly $4 billion by the end of 2023. Saudis are increasingly tuning in, and with Arabic-language content constituting just 1% of podcasts, the medium has enormous growth potential to reach the world’s 400 million native Arabic speakers.
+
+Since 2015, content company Thmanyah has grown Saudi audiences’ interest in the abundant heritage of the Arabic language through a portfolio of brands that includes Thmanyah Films, live-event production company Usfurayah, cultural and finance newsletters, and 12 podcasts about business, health, sports, and culture. Five Thmanyah podcasts are among Apple’s top 20 Arabic-language programs, including Saudi Arabia’s top podcast, “Finjan” (“Coffee Cup”), featuring Thmanyah founder Abdulrahman Abumalih’s weekly interviews with notable experts and professionals in culture, social trends, politics, health, and sports.
+
+Given the intense competition for audiences from various mass media and social media platforms, MOC’s support in the sector was essential to the success of organizations like 1949 and Thamanyah, which specialized in podcasts about Saudi culture.
+
+Saudi Fashion on the Global Runway
+
+Saudi designer Mohammed Ashi established his high-end Parisian fashion house in 2007 with three employees on a $60,000 investment. Ashi has since blossomed into a multinational enterprise with 120 employees in Saudi Arabia, the United Arab Emirates, France, and Switzerland, achieving sustainable growth by reinvesting its profits back into the company. Mohammed Ashi is one of the first Gulf Arabs to appear in the official program of the Fédération de la Haute Couture.
+
+MOC’s Fashion Commission, established in 2020, plays a pivotal role in supporting the industry. Beyond offering financial support by such things as funding live fashion shows, the commission’s Saudi 100 Brands Program offers emerging designers access to the Fashion Commission’s network, as well as consultation and guidance from Ashi and other established industry players.
+
+With such investment underscoring the commission’s commitment to nurturing fashion design talent in Saudi Arabia, Ashi is now expanding in the Kingdom, bringing an anticipated 20% increase in revenue. “Mohammed Ashi is a leader of Saudi fashion, and his creative force has made an invaluable contribution to Saudi’s fashion,” says Burak Cakmak, CEO of the Fashion Commission.
+
+Investing in Creativity
+
+Through legislation, grants, and the provision of offices, studios, and production and development facilities, MOC aims to help fund cultural businesses and attract investment—individual and private-sector, near- and long-term—to help make their creative visions real.
+
+MOC’s support for creative entrepreneurs, including ATHR Gallery, Thamanyah, Ashi, and many others, is boosting the cultural industry, encouraging more and more creators in Saudi Arabia to dream big.
+
+Learn about Saudi Arabia’s Ministry of Culture and the latest cultural trends, initiatives, and publications.
+
