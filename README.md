@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-06 06:24:22**
+Last Updated **2024-08-06 18:16:58**
 
 ## 2024-08-06
 
+* [Why Dropping the E in DEI Is a Mistake](data/articles/why-dropping-the-e-in-de.a1c2bb10/README.md) `hbr.org`
 * [“NO FOREIGN COUNTRY  IS FUNDING ME” “MY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.c16ac61f/README.md) `dailymirror.lk`
+* [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.84efaf0c/README.md) `dailymirror.lk`
+* [Google is finally taking action to curb non-consensual deepfakes](data/articles/google-is-finally-taking.af3178ff/README.md) `technologyreview.com`
+* [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.5ae99215/README.md) `dailymirror.lk`
 * [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.fb3a8ab6/README.md) `dailymirror.lk`
 * [WAR CRIMINALS OR HEROES?  WE’VE HEARD THAT ONE BEFORE](data/articles/war-criminals-or-heroes.3c76b83e/README.md) `dailymirror.lk`
 * [SHADES OF  ‘ARAGALAYA’  AS RIOTS  SPREAD IN  BANGLADESH - EDITORIAL](data/articles/shades-of-aragalaya-as-r.fc310b8a/README.md) `dailymirror.lk`
@@ -18,6 +22,7 @@ Last Updated **2024-08-06 06:24:22**
 * [The Vibrant Culture of Saudi Arabia Today](data/articles/the-vibrant-culture-of-s.9214d544/README.md) `hbr.org`
 * [When Your Boss Suddenly Reduces Your Scope](data/articles/when-your-boss-suddenly.457e98eb/README.md) `hbr.org`
 * [How Companies Can Take a Global Approach to AI Ethics](data/articles/how-companies-can-take-a.82501993/README.md) `hbr.org`
+* [Hydrogen bikes are struggling to gain traction in China](data/articles/hydrogen-bikes-are-strug.85eaec8d/README.md) `technologyreview.com`
 * [‘Podi Hamuduruvo’, a treasure to Buddhists in SL and around the world](data/articles/podi-hamuduruvo-a-treas.e336dea0/README.md) `dailymirror.lk`
 * [Elections, renegotiations and IMF’s class politics](data/articles/elections-renegotiations.47edef69/README.md) `dailymirror.lk`
 * [Political parties, elections and addressing people’s needs - EDITORIAL](data/articles/political-parties-electi.02557105/README.md) `dailymirror.lk`

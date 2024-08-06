@@ -1,0 +1,34 @@
+# Why Dropping the E in DEI Is a Mistake
+
+[https://hbr.org/2024/08/why-dropping-the-e-in-dei-is-a-mistake](https://hbr.org/2024/08/why-dropping-the-e-in-dei-is-a-mistake)
+
+*12:05 PM, Tuesday, August 06, 2024*
+
+Illustration by Pierre Buttin
+
+The Society for Human Resource Management (SHRM) has decided to remove “equity” from its inclusion, equity, and diversity (IE&D) framework, now promoting “inclusion and diversity” (I&D) instead. This decision sets a dangerous precedent that flies in the face of decades of research about DEI in the workplace. It undermines efforts to create equitable workplaces and ignores the vital role of equity in fostering fairness and addressing systemic barriers faced by marginalized groups. Instead of scaling back their focus on equity, companies should: 1) Commit to achievable equity goals; 2) Implement and track evidence-based DEI policies and practices; and 3) Establish accountability and transparency.
+
+Recently, the Society for Human Resource Management (SHRM), a leading voice of HR professionals, announced that it was abandoning the acronym “IE&D” — inclusion, equity, and diversity — in favor of “I&D.”
+
+Diversity, Inclusion, and Belonging Course
+
+Accelerate your career with Harvard ManageMentor®. HBR Learning’s online leadership training helps you hone your skills with courses like Diversity, Inclusion, and Belonging. Earn badges to share on LinkedIn and your resume. Access more than 40 courses trusted by Fortune 500 companies.
+
+How to build a better, more just workplace.
+
+Learn More & See All Courses
+
+Readers Also Viewed These Items
+
+The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter
+
+The Latest Research: DEI
+
+Read more on Diversity and inclusion
+
+Workplace discrimination,
+
+Human resource management
+
+and Leadership and managing people
+
