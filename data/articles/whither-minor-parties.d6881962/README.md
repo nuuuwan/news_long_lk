@@ -1,0 +1,28 @@
+# Whither minor parties?
+
+[https://www.dailymirror.lk/opinion/Whither-minor-parties/172-288929](https://www.dailymirror.lk/opinion/Whither-minor-parties/172-288929)
+
+*11:17 PM, Tuesday, August 06, 2024*
+
+What Mahinda Rajapaksa as President did to the other political parties is boomeranging now on his own party, the Sri Lanka Podujana Peramuna (SLPP). During his heyday he, using both the carrot and the stick, broke other parties and those who defected to Rajapaksa’s party said that they were joining hands with Rajapaksa to strengthen his hands to win the separatist war.
+
+The irony has now befallen Rajapaksa in the form of a disaster. Extraction of his teeth by President Ranil Wickremesinghe is now in full swing. Those who are deserting Rajapaksas now, justify their summersaults by unashamedly claiming that Wickremesinghe was the only person who can salvage the country from the current economic downturn.
+
+Against these developments and the marathon campaign by the Samagi Jana Balawegaya (SJB) as well as the unprecedented upswing in the fortunes of the National Peoples Power ((NPP), political parties representing the minority communities and the minor parties seem to have been bewildered to decide their course of action towards the September 21 Presidential election.
+
+The Tamil parties based mainly in the Northern Province, as happened during all national elections, have encountered two major obstacles in dealing with the Colombo-based national political parties led by Sinhalese in which Sinhalese constitute the large majority, highly influencing the decision-making process of those parties.
+
+Frustrated by their exclusion and deception by successive governments over the past decades owing to various reasons including blunders and orthodoxies on their part as well, some Tamil parties in the North have excluded the South-based political parties as untouchables.
+
+Their stance is not totally unfounded. In the recent years, President Gotabaya Rajapaksa rejected outright the concept of devolution of power, the basic and decade-long political demand by the Tamil politicians. President Ranil Wickremesinghe convened three “All-Party Conferences” on the ethnic problem since December 2022, without any conclusion or at least any consistency, despite him promising to resolve the ethnic problem before the 75th Independence Day. Opposition Leader Sajith Premadasa offers various promises such as implementing the 13th Amendment to the Constitution in full, but without countering the opposition to that pledge by the nationalistic elements in the South.
+
+The NPP leader Anura Kumara Dissanayake frankly told the Tamil people and their leaders during his recent tours to the North that he would not give specific promises such as implementing the 13A while assuring that his party recognises the total equality among various communities in the country. Despite this statement seeming to be honest, Tamils apparently seek a guarantee to this promise through a political mechanism.
+
+Thus, some of the Tamil leaders have put forward two options this time to deal with the forthcoming Presidential election. One group campaigns for a boycott of the election while the other succeeded a few days ago in formally inking an agreement among them to field a common Tamil candidate.
+
+The objective of both the groups is said to be the same – to show the world their frustration and the protest towards the failure on the part of the successive governments to resolve the issues faced by the Tamil people, especially to meet their demands. In other words, they want to respond to what they call exclusion with exclusion. In a way, this is nothing but desperation since the “world” that they rely on to pressurise the government to resolve the issues they face is not moved by the goings on in Sri Lanka.
+
+However, the largest Tamil party in the North, the Illankai Thamil Arasu Katchi (ITAK) is not prepared to subscribe to both the suggestions put forth by other Tamil political parties – to boycott the election and to field a common Tamil candidate. The party has stated that they would negotiate with the main South- based candidates on their problems and demands before deciding on their support for any candidate.
+
+However, no Tamil party is prepared to forgo their decade-old traditional demands and slogans such as federalism, right to self-determination and merger of the Northern and Eastern Provinces. On the other hand, to accept these demands is suicidal for the South-based, Sinhalese dominated political parties. Ultimately, the Tamil leaders might be compelled to take a decision based on convenience instead of the principles they respect. This would be an ever-persistent dilemma with them.
+

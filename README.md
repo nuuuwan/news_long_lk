@@ -2,12 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-06 18:16:58**
+Last Updated **2024-08-07 06:24:55**
+
+## 2024-08-07
+
+* [Presidential elections and Ranil’s crusade for economic revival](data/articles/presidential-elections-a.1602cd80/README.md) `ft.lk`
+* [Demise of Rajapaksa power and triumph of Rajapaksaism](data/articles/demise-of-rajapaksa-powe.cd6d1005/README.md) `ft.lk`
+* [College of General Practitioners of Sri Lanka celebrates 50 years](data/articles/college-of-general-pract.2b05c700/README.md) `ft.lk`
 
 ## 2024-08-06
 
+* [College of General Practitioners marks 50 years](data/articles/college-of-general-pract.5f3537ad/README.md) `dailymirror.lk`
+* [Racism and culture conflicts dominate United States’ election Racial and religious identities and cultural anxieties have attained salience](data/articles/racism-and-culture-confl.487818f2/README.md) `dailymirror.lk`
+* [Whither minor parties?](data/articles/whither-minor-parties.d6881962/README.md) `dailymirror.lk`
+* [The Race to Dominate Stablecoins](data/articles/the-race-to-dominate-sta.a2bf1a41/README.md) `hbr.org`
 * [Why Dropping the E in DEI Is a Mistake](data/articles/why-dropping-the-e-in-de.a1c2bb10/README.md) `hbr.org`
 * [“NO FOREIGN COUNTRY  IS FUNDING ME” “MY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.c16ac61f/README.md) `dailymirror.lk`
+* [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.ec8b52c8/README.md) `dailymirror.lk`
 * [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.84efaf0c/README.md) `dailymirror.lk`
 * [Google is finally taking action to curb non-consensual deepfakes](data/articles/google-is-finally-taking.af3178ff/README.md) `technologyreview.com`
 * [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.5ae99215/README.md) `dailymirror.lk`
