@@ -2,27 +2,33 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-07 06:24:55**
+Last Updated **2024-08-07 18:18:11**
 
 ## 2024-08-07
 
+* [Inside the First Year as a CEO](data/articles/inside-the-first-year-as.31020b9a/README.md) `hbr.org`
+* [What to know about China’s push for hydrogen-powered transportation](data/articles/what-to-know-about-china.45681b75/README.md) `technologyreview.com`
 * [Presidential elections and Ranil’s crusade for economic revival](data/articles/presidential-elections-a.1602cd80/README.md) `ft.lk`
 * [Demise of Rajapaksa power and triumph of Rajapaksaism](data/articles/demise-of-rajapaksa-powe.cd6d1005/README.md) `ft.lk`
 * [College of General Practitioners of Sri Lanka celebrates 50 years](data/articles/college-of-general-pract.2b05c700/README.md) `ft.lk`
+* [Sri Lanka Podujana Peramuna  National Organizer Namal Rajapaksa to Contest Presidential Poll as Business Magnate Dhammika  Perera Withdraws from Presidential Election  as SLPP Candidate](data/articles/sri-lanka-podujana-peram.1f6c2b22/README.md) `dbsjeyaraj.com`
+* [Ranil Rajapaksa was an Opposition-made myth. The Rajapaksas have nothing to gain from a Ranil Wickremesinghe victory. He was never a Rajapaksa creature.](data/articles/ranil-rajapaksa-was-an-o.f7456ac7/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-06
 
+* [Achievement in rural sport Rugby becomes  life changer for Malabe boys](data/articles/achievement-in-rural-spo.61a2527b/README.md) `dailymirror.lk`
 * [College of General Practitioners marks 50 years](data/articles/college-of-general-pract.5f3537ad/README.md) `dailymirror.lk`
 * [Racism and culture conflicts dominate United States’ election Racial and religious identities and cultural anxieties have attained salience](data/articles/racism-and-culture-confl.487818f2/README.md) `dailymirror.lk`
 * [Whither minor parties?](data/articles/whither-minor-parties.d6881962/README.md) `dailymirror.lk`
 * [The Race to Dominate Stablecoins](data/articles/the-race-to-dominate-sta.a2bf1a41/README.md) `hbr.org`
 * [Why Dropping the E in DEI Is a Mistake](data/articles/why-dropping-the-e-in-de.a1c2bb10/README.md) `hbr.org`
-* [“NO FOREIGN COUNTRY  IS FUNDING ME” “MY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.c16ac61f/README.md) `dailymirror.lk`
-* [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.ec8b52c8/README.md) `dailymirror.lk`
+* [Your future air conditioner might act like a battery](data/articles/your-future-air-conditio.1d7d230b/README.md) `technologyreview.com`
 * [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.84efaf0c/README.md) `dailymirror.lk`
+* [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.ec8b52c8/README.md) `dailymirror.lk`
+* [“NO FOREIGN COUNTRY  IS FUNDING ME” “MY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.c16ac61f/README.md) `dailymirror.lk`
 * [Google is finally taking action to curb non-consensual deepfakes](data/articles/google-is-finally-taking.af3178ff/README.md) `technologyreview.com`
-* [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.5ae99215/README.md) `dailymirror.lk`
 * [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.fb3a8ab6/README.md) `dailymirror.lk`
+* [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.5ae99215/README.md) `dailymirror.lk`
 * [WAR CRIMINALS OR HEROES?  WE’VE HEARD THAT ONE BEFORE](data/articles/war-criminals-or-heroes.3c76b83e/README.md) `dailymirror.lk`
 * [SHADES OF  ‘ARAGALAYA’  AS RIOTS  SPREAD IN  BANGLADESH - EDITORIAL](data/articles/shades-of-aragalaya-as-r.fc310b8a/README.md) `dailymirror.lk`
 
@@ -33,10 +39,13 @@ Last Updated **2024-08-07 06:24:55**
 * [The Vibrant Culture of Saudi Arabia Today](data/articles/the-vibrant-culture-of-s.9214d544/README.md) `hbr.org`
 * [When Your Boss Suddenly Reduces Your Scope](data/articles/when-your-boss-suddenly.457e98eb/README.md) `hbr.org`
 * [How Companies Can Take a Global Approach to AI Ethics](data/articles/how-companies-can-take-a.82501993/README.md) `hbr.org`
+* [We need to prepare for ‘addictive intelligence’](data/articles/we-need-to-prepare-for-a.d6eb4f27/README.md) `technologyreview.com`
 * [Hydrogen bikes are struggling to gain traction in China](data/articles/hydrogen-bikes-are-strug.85eaec8d/README.md) `technologyreview.com`
 * [‘Podi Hamuduruvo’, a treasure to Buddhists in SL and around the world](data/articles/podi-hamuduruvo-a-treas.e336dea0/README.md) `dailymirror.lk`
 * [Elections, renegotiations and IMF’s class politics](data/articles/elections-renegotiations.47edef69/README.md) `dailymirror.lk`
 * [Political parties, elections and addressing people’s needs - EDITORIAL](data/articles/political-parties-electi.02557105/README.md) `dailymirror.lk`
+* [Sri Lanka  whose former President was ousted by a citizen’s uprising two years ago expresses solidarity with the people of Bangladesh after Prime  Minister Sheikh Hasina Quit and Fled the Country after Mass Protests](data/articles/sri-lanka-whose-former-p.a09064b1/README.md) `dbsjeyaraj.com`
+* [Sri Lanka’s Supreme court  issues interim order suspending the govt’s new visa scheme run by a consortium  that  sparked controversy over allegations of corruption totalling 1.4 billion dollars.SC   orders restoration of  previously used online visa system..](data/articles/sri-lanka-s-supreme-cour.5bedfc9d/README.md) `dbsjeyaraj.com`
 * [Human Capital Summit 2024: Building future-ready public institutions](data/articles/human-capital-summit-202.5f6bfb72/README.md) `ft.lk`
 * [Memories of mentoring: Celebrating two special lives](data/articles/memories-of-mentoring-ce.5eb2f3b2/README.md) `ft.lk`
 
@@ -165,8 +174,8 @@ Last Updated **2024-08-07 06:24:55**
 * [8 Reasons Why Co-Leaders Fail](data/articles/8-reasons-why-co-leaders.2cacc05e/README.md) `hbr.org`
 * [Research: How Passion Can Backfire at Work](data/articles/research-how-passion-can.0b11f072/README.md) `hbr.org`
 * [Why Chinese companies are betting on open-source AI](data/articles/why-chinese-companies-ar.b38c9361/README.md) `technologyreview.com`
-* [Ranil Wickremesinghe: the pragmatic leadership during challenging times](data/articles/ranil-wickremesinghe-the.302efc82/README.md) `ft.lk`
 * [Ranil Wickremesinghe: the pragmatic leadership during challenging times](data/articles/ranil-wickremesinghe-the.81f822a4/README.md) `ft.lk`
+* [Ranil Wickremesinghe: the pragmatic leadership during challenging times](data/articles/ranil-wickremesinghe-the.302efc82/README.md) `ft.lk`
 * [Critical points for COPF review of proposed enactment of the Economic Transformation Bill](data/articles/critical-points-for-copf.3cd31284/README.md) `ft.lk`
 * [Operation Yukthiya, trade union action, and the stability state in Sri Lanka](data/articles/operation-yukthiya-trade.a971a855/README.md) `ft.lk`
 * [Sri Lanka caught in a constitutional quagmire](data/articles/sri-lanka-caught-in-a-co.69f14d1d/README.md) `ft.lk`
@@ -557,9 +566,9 @@ Last Updated **2024-08-07 06:24:55**
 ## 2024-06-14
 
 * [How to Get Results Quickly After a Merger or Acquisition](data/articles/how-to-get-results-quick.3ac8a4dc/README.md) `hbr.org`
-* [This London non-profit is now one of the biggest backers of geoengineering research](data/articles/this-london-non-profit-i.b3613071/README.md) `technologyreview.com`
-* [These board games want you to beat climate change](data/articles/these-board-games-want-y.23cfced6/README.md) `technologyreview.com`
 * [Biotech companies are trying to make milk without cows](data/articles/biotech-companies-are-tr.938fc88e/README.md) `technologyreview.com`
+* [These board games want you to beat climate change](data/articles/these-board-games-want-y.23cfced6/README.md) `technologyreview.com`
+* [This London non-profit is now one of the biggest backers of geoengineering research](data/articles/this-london-non-profit-i.b3613071/README.md) `technologyreview.com`
 
 ## 2024-06-13
 
@@ -604,8 +613,8 @@ Last Updated **2024-08-07 06:24:55**
 
 * [Propagandists are using AI too—and companies need to be open about it](data/articles/propagandists-are-using.f0f77f64/README.md) `technologyreview.com`
 * [Sajith-Anura  Televised Debate on ITN  Fizzles out Due to SJB Leader Premadasa not Turning up at Studio;JVP leader AK Dissanayake Participates in ITN’s “Tulawa”Hosted by Sudarman Radaliyagoda Instead](data/articles/sajith-anura-televised-d.6327f2bd/README.md) `dbsjeyaraj.com`
-* [Presidential election: Good and bad foreign meddling](data/articles/presidential-election-go.91a96aea/README.md) `dailymirror.lk`
 * [The right to strike and motivated strikes](data/articles/the-right-to-strike-and.1c3c4dc6/README.md) `dailymirror.lk`
+* [Presidential election: Good and bad foreign meddling](data/articles/presidential-election-go.91a96aea/README.md) `dailymirror.lk`
 
 ## 2024-06-07
 
@@ -650,8 +659,8 @@ Last Updated **2024-08-07 06:24:55**
 * [The Importance of Setting Boundaries with Your Mentor](data/articles/the-importance-of-settin.1a20e43c/README.md) `hbr.org`
 * [Onboarding New Employees in a Hybrid Workplace](data/articles/onboarding-new-employees.41cdc9c2/README.md) `hbr.org`
 * [Climate change monthly update: June 2024](data/articles/climate-change-monthly-u.6cbcaa2d/README.md) `eiu.com`
-* [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
 * [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.059e75ac/README.md) `ft.lk`
+* [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
 * [Economic Transformation Bill: Finally, an opportunity to do things differently](data/articles/economic-transformation.0bdb675d/README.md) `ft.lk`
 * [Interventions of a freelance intellectual: A review of Dayan Jayatilleka’s selected writings](data/articles/interventions-of-a-freel.6762fdd3/README.md) `ft.lk`
 * [Are we ready to accept our migrants again?](data/articles/are-we-ready-to-accept-o.5bb673a0/README.md) `ft.lk`
@@ -668,8 +677,8 @@ Last Updated **2024-08-07 06:24:55**
 * [Don’t Post That Job Listing Before Taking These 5 Steps](data/articles/don-t-post-that-job-list.37d78687/README.md) `hbr.org`
 * [How to Work for an Overly Critical Boss](data/articles/how-to-work-for-an-overl.d148fe72/README.md) `hbr.org`
 * [The US and China sit down at Shangri-La](data/articles/the-us-and-china-sit-dow.7e17586a/README.md) `eiu.com`
-* [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.7861315e/README.md) `ft.lk`
 * [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.1fdc0e56/README.md) `ft.lk`
+* [Switch in policy needed: Tobacco control in Sri Lanka a failed experiment](data/articles/switch-in-policy-needed.7861315e/README.md) `ft.lk`
 * [Trade unions must realise their limits - EDITORIAL](data/articles/trade-unions-must-realis.efaf0650/README.md) `dailymirror.lk`
 * [“We need to dream new dreams”](data/articles/we-need-to-dream-new-dr.cc906dec/README.md) `dailymirror.lk`
 * [O/L Exam mess puts Department of Examinations in soup!](data/articles/o-l-exam-mess-puts-depar.5ea83604/README.md) `dailymirror.lk`
@@ -679,8 +688,8 @@ Last Updated **2024-08-07 06:24:55**
 * [Suspension of parate action: An overview](data/articles/suspension-of-parate-act.ab2a5dc0/README.md) `ft.lk`
 * [Inflation on what horizon?](data/articles/inflation-on-what-horizo.84f23bbc/README.md) `ft.lk`
 * [Inflation on what horizon?](data/articles/inflation-on-what-horizo.eeebce9f/README.md) `ft.lk`
-* [Postponing elections: Are there limits to popular sovereignty?](data/articles/postponing-elections-are.8019599d/README.md) `ft.lk`
 * [Postponing elections: Are there limits to popular sovereignty?](data/articles/postponing-elections-are.72609ff9/README.md) `ft.lk`
+* [Postponing elections: Are there limits to popular sovereignty?](data/articles/postponing-elections-are.8019599d/README.md) `ft.lk`
 * [Sajith Premadasa’s leadership qualities: A critique](data/articles/sajith-premadasa-s-leade.36527e64/README.md) `ft.lk`
 * [Stop Overlooking the Leadership Potential of Asian Employees](data/articles/stop-overlooking-the-lea.99a79582/README.md) `hbr.org`
 * [5 Signs Your One-on-Ones Aren’t Working](data/articles/5-signs-your-one-on-ones.76118bb6/README.md) `hbr.org`
@@ -702,9 +711,9 @@ Last Updated **2024-08-07 06:24:55**
 * [The Six Face(t)s of  CWC Chief Arumugan “Thamby” Thondaman](data/articles/the-six-face-t-s-of-cwc.70b0ac47/README.md) `dbsjeyaraj.com`
 * [Climate change and human health](data/articles/climate-change-and-human.0d0576dc/README.md) `ft.lk`
 * [700,000 houses for low income households and financing plan](data/articles/700-000-houses-for-low-i.bdde1ac9/README.md) `ft.lk`
+* [Red herrings, referendums, poverty and postponing elections](data/articles/red-herrings-referendums.fc270172/README.md) `dailymirror.lk`
 * [Referendum to extend President’s term: Is it ploy to avoid election defeat?](data/articles/referendum-to-extend-pre.fe67946d/README.md) `dailymirror.lk`
 * [Range Bandara’s   “Loud Thinking” and Ranil’s election campaign](data/articles/range-bandara-s-loud-thi.ae3b64a7/README.md) `dailymirror.lk`
-* [Red herrings, referendums, poverty and postponing elections](data/articles/red-herrings-referendums.fc270172/README.md) `dailymirror.lk`
 
 ## 2024-05-31
 
@@ -721,8 +730,8 @@ Last Updated **2024-08-07 06:24:55**
 * [Governance all the way down](data/articles/governance-all-the-way-d.abb81097/README.md) `ft.lk`
 * [“VFS” the whole lot](data/articles/vfs-the-whole-lot.12de59b4/README.md) `ft.lk`
 * [Quo Vadis (Where are you going) Sri Lanka?](data/articles/quo-vadis-where-are-you.3433eb2e/README.md) `ft.lk`
-* [Matara hospital rocks parents’ world misplacing stillborn](data/articles/matara-hospital-rocks-pa.353764b5/README.md) `dailymirror.lk`
 * [Lies used in the name of transforming a nation](data/articles/lies-used-in-the-name-of.e1276bde/README.md) `dailymirror.lk`
+* [Matara hospital rocks parents’ world misplacing stillborn](data/articles/matara-hospital-rocks-pa.353764b5/README.md) `dailymirror.lk`
 * [The US,  Zionism and moral depravity](data/articles/the-us-zionism-and-moral.3dc3147b/README.md) `dailymirror.lk`
 
 ## 2024-05-30
@@ -734,10 +743,10 @@ Last Updated **2024-08-07 06:24:55**
 * [Yukthiya anti-drug operation: Separating fact from fiction](data/articles/yukthiya-anti-drug-opera.7ef8c464/README.md) `ft.lk`
 * [How transparency and competitive bidding could have averted VFS visa fiasco](data/articles/how-transparency-and-com.1ff9ce94/README.md) `ft.lk`
 * [SAARC and beyond: Sri Lanka’s quest for regional tourism integration](data/articles/saarc-and-beyond-sri-lan.6227ab32/README.md) `ft.lk`
+* [World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry](data/articles/world-no-tobacco-day-cal.875bf238/README.md) `dailymirror.lk`
+* [The generation that can make peace with the land](data/articles/the-generation-that-can.6b78e1ae/README.md) `dailymirror.lk`
 * [Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS](data/articles/unlocking-economic-growt.1b773504/README.md) `dailymirror.lk`
 * [Why are boys falling behind in education and what can we do about it?](data/articles/why-are-boys-falling-beh.4de96379/README.md) `dailymirror.lk`
-* [The generation that can make peace with the land](data/articles/the-generation-that-can.6b78e1ae/README.md) `dailymirror.lk`
-* [World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry](data/articles/world-no-tobacco-day-cal.875bf238/README.md) `dailymirror.lk`
 
 ## 2024-05-29
 
@@ -765,8 +774,8 @@ Last Updated **2024-08-07 06:24:55**
 
 ## 2024-05-27
 
-* [Who guards the guardians?](data/articles/who-guards-the-guardians.7360c8c3/README.md) `ft.lk`
 * [Who guards the guardians?](data/articles/who-guards-the-guardians.6902fd32/README.md) `ft.lk`
+* [Who guards the guardians?](data/articles/who-guards-the-guardians.7360c8c3/README.md) `ft.lk`
 * [Does Your Boss Practice Toxic Positivity?](data/articles/does-your-boss-practice.19952f19/README.md) `hbr.org`
 * [AI Is Making Economists Rethink the Story of Automation](data/articles/ai-is-making-economists.6c0eb173/README.md) `hbr.org`
 * [How the quest to type Chinese on a QWERTY keyboard created autocomplete](data/articles/how-the-quest-to-type-ch.d8da32fe/README.md) `technologyreview.com`
@@ -788,10 +797,10 @@ Last Updated **2024-08-07 06:24:55**
 ## 2024-05-25
 
 * [Poverty of Hope Among Sri Lankan Tamils due to Widespread Economic Misery Compounded by the 2022 Financial Crisis and a Fractured Tamil Polity](data/articles/poverty-of-hope-among-sr.63770663/README.md) `dbsjeyaraj.com`
+* [Sajith-Anura Debate, that never happened](data/articles/sajith-anura-debate-that.64f5f919/README.md) `dailymirror.lk`
 * [Commemoration of war victims-celebrations and harassment](data/articles/commemoration-of-war-vic.e4479cd3/README.md) `dailymirror.lk`
 * [Tragedy and farce on a day of mourning](data/articles/tragedy-and-farce-on-a-d.34099509/README.md) `dailymirror.lk`
 * [God won’t change your destiny until you change yourself](data/articles/god-won-t-change-your-de.3463c633/README.md) `dailymirror.lk`
-* [Sajith-Anura Debate, that never happened](data/articles/sajith-anura-debate-that.64f5f919/README.md) `dailymirror.lk`
 
 ## 2024-05-24
 
@@ -814,8 +823,8 @@ Last Updated **2024-08-07 06:24:55**
 * [Noise-canceling headphones use AI to let a single voice through](data/articles/noise-canceling-headphon.0dd67078/README.md) `technologyreview.com`
 * [Palestinian holocaust: The oppressed has become the oppressor](data/articles/palestinian-holocaust-th.626f8506/README.md) `ft.lk`
 * [Economic Transformation Bill, political transformation effects and Lanka’s legitimate war](data/articles/economic-transformation.10f318d5/README.md) `ft.lk`
-* [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.6b9d1e87/README.md) `ft.lk`
 * [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.0acd4f94/README.md) `ft.lk`
+* [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.6b9d1e87/README.md) `ft.lk`
 * [Travelling on politics’ rough sea needs grooming](data/articles/travelling-on-politics-r.6c005723/README.md) `dailymirror.lk`
 * [Vesak:  AlpachCHathawaya and moment-to-moment living - EDITORIAL](data/articles/vesak-alpachchathawaya-a.2fe72d7a/README.md) `dailymirror.lk`
 
