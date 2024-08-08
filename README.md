@@ -2,20 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-08 06:24:55**
+Last Updated **2024-08-08 18:16:58**
 
 ## 2024-08-08
 
+* [How One Major Healthcare Firm Became the Leader in Innovative AI Use](data/articles/how-one-major-healthcare.3aab9a3f/README.md) `hbr.org`
 * [How do you want Sri Lanka to be in the future?](data/articles/how-do-you-want-sri-lank.b3556972/README.md) `ft.lk`
 
 ## 2024-08-07
 
+* [Myanmar’s cyber slave camps : How job seekers are lured into a  crime corridor](data/articles/myanmar-s-cyber-slave-ca.6bae5d75/README.md) `dailymirror.lk`
 * [Myanmar’s cyber slave camps How job seekers are lured into a  crime corridor](data/articles/myanmar-s-cyber-slave-ca.a0c62a26/README.md) `dailymirror.lk`
 * [Why AKD-NPP have fallen in the polls, may lose elections](data/articles/why-akd-npp-have-fallen.c69507a2/README.md) `ft.lk`
 * [India sends STEM Teacher Trainers Opening for Schools in SL Plantation Regions](data/articles/india-sends-stem-teacher.49435611/README.md) `dailymirror.lk`
 * [Bhutan sends condolences on passing of Ven Galboda Gnanissara Thera](data/articles/bhutan-sends-condolences.2f20fc2d/README.md) `dailymirror.lk`
 * [If Iran Retaliates Now! Future…A ‘Sticks & Stones’  World War IV](data/articles/if-iran-retaliates-now-f.27f73e14/README.md) `dailymirror.lk`
 * [How ETB missed the mark on investment zones and what can be done](data/articles/how-etb-missed-the-mark.25d7251e/README.md) `dailymirror.lk`
+* [ராஜபக்சாக்கள் ரணிலுக்கு செய்த வஞ்சனை  திரும்பிவந்து பொதுஜன பெரமுனவை தாக்குகிறது](data/articles/ர-ஜபக-ச-க-கள-ரண-ல-க-க-ச.28d4aa33/README.md) `dbsjeyaraj.com`
 * [Despite Anti-ESG Attacks, New Study Shows Investors See Climate as Critical to Business Performance](data/articles/despite-anti-esg-attacks.53b54b5b/README.md) `hbr.org`
 * [17 Team-Building Activities for In-Person, Remote, and Hybrid Teams](data/articles/17-team-building-activit.dc6fe991/README.md) `hbr.org`
 * [Inside the First Year as a CEO](data/articles/inside-the-first-year-as.31020b9a/README.md) `hbr.org`
