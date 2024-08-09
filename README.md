@@ -2,18 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-09 06:24:34**
+Last Updated **2024-08-09 18:16:49**
 
 ## 2024-08-09
 
+* [Presidential Election looms as Sri Lanka faces economic recovery challenges](data/articles/presidential-election-lo.8565e296/README.md) `dailymirror.lk`
+* [Breaking Down Barriers to Belonging for Women of Color in Tech](data/articles/breaking-down-barriers-t.5d92d152/README.md) `hbr.org`
+* [Why is IMF here? Sri Lanka needs new governance model to avoid them in the future](data/articles/why-is-imf-here-sri-lank.137a3dfa/README.md) `ft.lk`
 * [Important message for Presidential candidates](data/articles/important-message-for-pr.a4eff89d/README.md) `ft.lk`
 * [Economic Transformation Act repeals BOI Law](data/articles/economic-transformation.a455aea2/README.md) `ft.lk`
 * [Adapting concepts of Islamic Finance to an effective debt restructuring mechanism](data/articles/adapting-concepts-of-isl.68c6b1fc/README.md) `ft.lk`
+* [Fading poster culture of yesteryear](data/articles/fading-poster-culture-of.1d344634/README.md) `dailymirror.lk`
+* [This futuristic space habitat is designed to self-assemble in orbit](data/articles/this-futuristic-space-ha.3b2d1d7c/README.md) `technologyreview.com`
 * [Protests in Sri Lanka and Bangladesh: The bloody contrast in uncanny similarity](data/articles/protests-in-sri-lanka-an.0a4d7975/README.md) `dailymirror.lk`
 * [The Vedda Chief and the presidential elections - EDITORIAL](data/articles/the-vedda-chief-and-the.48ab3dd1/README.md) `dailymirror.lk`
+* [Tourism Minister   Harin Fernando and  Labour Minister Manusha Nanayakkara Lose  Their MP Seats Following Two Rulings by Three Judge Bench of  Supreme Court Upholding Expulsion of Both by SJB Party as Valid](data/articles/tourism-minister-harin-f.b0a53389/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-08
 
+* [Former Batticaloa District TNA Parliamentarian P. Ariyanendran to Contest 2024 Presidential Poll as the Common Tamil Presidential Candidate.](data/articles/former-batticaloa-distri.e6024472/README.md) `dbsjeyaraj.com`
+* [The  ‘Samagi Jana Sandanaya (SJS)’,  political alliance led by the Samagi Jana Balawegaya (SJB),  officially launched  under the Leadership of Sajith Premadasa  with the signing of agreements with several parties.](data/articles/the-samagi-jana-sandanay.15139f67/README.md) `dbsjeyaraj.com`
 * [5 Tips for Writing Meaningful Thank-You Notes](data/articles/5-tips-for-writing-meani.fefbfe5a/README.md) `hbr.org`
 * [How One Major Healthcare Firm Became the Leader in Innovative AI Use](data/articles/how-one-major-healthcare.3aab9a3f/README.md) `hbr.org`
 * [How do you want Sri Lanka to be in the future?](data/articles/how-do-you-want-sri-lank.b3556972/README.md) `ft.lk`

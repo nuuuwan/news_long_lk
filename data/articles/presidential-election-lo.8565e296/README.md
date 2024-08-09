@@ -1,0 +1,76 @@
+# Presidential Election looms as Sri Lanka faces economic recovery challenges
+
+[https://www.dailymirror.lk/international/Presidential-Election-looms-as-Sri-Lanka-faces-economic-recovery-challenges/107-289159](https://www.dailymirror.lk/international/Presidential-Election-looms-as-Sri-Lanka-faces-economic-recovery-challenges/107-289159)
+
+*01:12 PM, Friday, August 09, 2024*
+
+As Sri Lanka approaches its Presidential election, the nation finds itself at a critical juncture. The economic landscape, shaped by the International Monetary Fund (IMF) bailout program, has seen remarkable improvements under President Ranil Wickremesinghe. However, the road to recovery remains fraught with challenges, and the next administration will inherit both opportunities and significant hurdles.
+
+Wickremesinghe's administration inherited an economy in disarray when he assumed office in 2022. Sri Lanka was facing one of the most severe economic crises in its history, characterized by runaway inflation, a plummeting currency, and dangerously low foreign exchange reserves. This crisis resulted from years of economic mismanagement, exacerbated by external shocks like the COVID-19 pandemic and global economic disruptions.
+
+Wickremesinghe’s economic recovery plan
+
+In response to the crisis, the Sri Lankan government sought assistance from the International Monetary Fund (IMF). After extensive negotiations, the IMF approved a bailout program for Sri Lanka, which was critical in stabilizing the economy. The program came with stringent conditions, including fiscal reforms, tax increases, and cuts in government spending, all aimed at restoring macroeconomic stability and ensuring debt sustainability.
+
+The IMF's intervention provided Sri Lanka with much-needed financial support, including a loan disbursement that helped the country avoid a sovereign default. This infusion of funds was crucial in stabilizing the Sri Lankan rupee, which had lost significant value against major currencies. The program also helped to rebuild the country’s foreign exchange reserves, which had been nearly depleted.
+
+One of the most significant accomplishments of Wickremesinghe’s administration under the IMF program was the dramatic reduction in inflation. In September 2022, inflation had skyrocketed to an alarming 70%, driven by a combination of supply chain disruptions, currency depreciation, and a sharp increase in food and fuel prices.
+
+The government, in collaboration with the Central Bank of Sri Lanka, implemented a series of monetary and fiscal measures to combat this hyperinflation. These measures included tightening monetary policy, raising interest rates, and controlling money supply growth to curb demand-pull inflation. In addition, the government took steps to address supply-side issues by stabilizing the currency and improving the availability of essential goods.
+
+By June 2024, these efforts had paid off. Inflation was brought down to a manageable 1.7%, marking a remarkable turnaround in a relatively short period. This stabilization of prices not only provided relief to consumers but also restored confidence in the Sri Lankan economy.
+
+The stabilization of the rupee was another critical success of Wickremesinghe’s economic recovery plan. The Sri Lankan rupee had been under immense pressure due to the depletion of foreign exchange reserves and the balance of payments crisis. The IMF program, by providing external financial support and restoring investor confidence, played a key role in arresting the currency's freefall. The government's efforts to rebuild foreign exchange reserves were also successful. By June 2024, reserves had increased significantly, providing the central bank with more leeway to intervene in the currency market when necessary. This rebuilding of reserves was crucial in preventing further currency depreciation and in stabilizing the overall economy.
+
+Meanwhile, last week while concluding its visit to Sri Lanka, the IMF staff said that maintaining macroeconomic stability and restoring debt sustainability require further efforts to raise fiscal revenues.
+
+An IMF mission team led by Senior Mission Chief Peter Breuer visited Sri Lanka from July 25 to August 2, 2024, to discuss recent macroeconomic developments and progress in implementing economic and financial policies under the authorities’ economic reform programme supported by the IMF’s Extended Fund Facility (EFF) arrangement.
+
+While stating that Sri Lanka has made commendable progress with putting debt on a path towards sustainability, the IMF staff encouraged a swift resolution of the remaining steps to achieve debt sustainability and regain investor confidence.
+
+The statement added that the 2025 Budget needs to be underpinned by appropriate revenue measures and continued spending restraint so as to reach the medium-term primary balance objective of 2.3 percent of GDP - a key requirement for restoring Sri Lanka’s debt sustainability.
+
+Higher taxes and job market stagnation fuel discontent among Presidential candidates
+
+Although the Wickremesinghe administration successfully reduced inflation from a peak of 70% in September 2022 to 1.7% by June 2024, the journey to this point was marked by prolonged inflationary pressures. Throughout 2023 and early 2024, many Sri Lankans continued to face high prices for essential goods, particularly food, fuel, and medicine. The combination of higher taxes and sustained inflation created a situation where, despite the overall stabilization of the economy, many people felt that their standard of living had not improved significantly.
+
+One of the most immediate and tangible impacts of the IMF program was the increase in taxes. To meet the fiscal targets set by the IMF, the Sri Lankan government was compelled to raise taxes across various sectors. This included increasing the value-added tax (VAT), corporate taxes, and personal income taxes. These tax hikes were necessary to boost government revenues and reduce the budget deficit, which had ballooned due to years of mismanagement and economic crisis.
+
+However, the higher taxes have placed a heavy burden on both individuals and businesses. For ordinary citizens, the increase in VAT and income taxes has led to a reduction in disposable income, making it harder to cope with the rising cost of living. For businesses, particularly small and medium enterprises, higher corporate taxes have squeezed profit margins, leading to cost-cutting measures, including layoffs and reduced investment in expansion.
+
+As the presidential election approaches, opposition candidates like Sajith Premadasa, running as the SJB candidate, and Anura Kumara Dissanayake (AKD) are likely to capitalize on this public discontent. They may argue that Wickremesinghe’s economic recovery plan, despite its successes, has failed to alleviate the everyday struggles of ordinary Sri Lankans.
+
+Premadasa plans to address public rallies nationwide, starting from Kurunegala on August 16. With a strong base of support among the working and middle classes, he may focus on the need for more inclusive economic policies that prioritize job creation and social welfare. He could argue that while macroeconomic stability is important, it should not come at the expense of the population’s immediate needs. His campaign might promise to roll back some of the more unpopular measures of the IMF program, such as higher taxes, while still maintaining a commitment to economic stability.
+
+After forming the SJB-led Samagi Jana Sandanaya (SJS), the largest electoral alliance in Sri Lanka, Premadasa said that Sri Lanka is experiencing an economic crisis due to the actions of certain individuals. He vowed to bring those responsible to justice, recover embezzled funds, and establish export industries in all divisional secretariat areas. Premadasa also promised to end nepotism.
+
+Dissanayake, known for his more radical, left-leaning stance, may critique the entire neoliberal framework of the IMF program. He advocates for more state intervention in the economy, increased social spending, and wealth redistribution. His campaign could resonate with those who feel that the current economic system is rigged against the poor and working classes, offering a more populist alternative to Wickremesinghe’s policies.
+
+Dissanayake recently discussed his stance on the IMF agreement and outlined key economic reforms. He acknowledged that despite efforts to communicate their economic policies, the message has not effectively reached the public, which he admits is a fault on their part. He pointed out that the current government has entered into a four-year agreement with the IMF, consolidating bilateral, multilateral, and private creditors into a single framework for debt restructuring. Dissanayake expressed skepticism about exiting this arrangement, indicating that they intend to continue with the IMF agreement but with certain revisions.
+
+He emphasized the need to revisit tax policies imposed on professionals and suggested changing the tax structure on essential items such as food, medicine, and education to better support the poor. Dissanayake also highlighted the importance of addressing fiscal policy issues and proposed strategies for rapid growth in sectors like tourism, IT, and natural resources. Key reforms mentioned include reducing electricity costs by 30 to 35 percent, fostering a healthy investment environment, creating efficient state institutions, and introducing a stable tax policy. He also stressed the need to eliminate political barriers to business entry, ensuring what he termed as "economic democracy" for all citizens.
+
+Future outlook and IMF’s role
+
+Sri Lanka’s economy, despite notable improvements under President Wickremesinghe’s administration, remains highly fragile. The IMF bailout program and the subsequent reforms have managed to stabilize some key economic indicators, but the country faces ongoing vulnerabilities that could jeopardize its recovery if not managed carefully.
+
+The nation’s public debt remains alarmingly high due to past fiscal mismanagement and extensive borrowing. Despite the IMF program’s assistance in restructuring and managing this debt, Sri Lanka’s debt-to-GDP ratio remains among the highest globally. This elevated debt level makes the economy highly susceptible to external shocks and increases the risk of debt distress.
+
+Furthermore, Sri Lanka’s heavy reliance on imports for essential goods, combined with significant external debt obligations, continues to strain its foreign exchange reserves. Although there has been some improvement in reserves, they remain insufficient to fully shield the country from global economic fluctuations or sudden capital outflows.
+
+The third review of the IMF’s Extended Fund Facility for Sri Lanka is scheduled to take place following the upcoming presidential elections. An IMF team, led by Senior Mission Chief Peter Breuer, is set to visit Sri Lanka to conduct this review. This review is a critical component of the IMF’s ongoing commitment to the country, as evidenced by the recent visit of Mr. Breuer, which highlighted the IMF’s support for Sri Lanka’s recovery efforts.
+
+During their visit, the IMF staff noted that the economic reforms implemented by Sri Lankan authorities have been instrumental in supporting the recovery. The reforms have led to three consecutive quarters of real GDP growth, low inflation, increased revenue collection, and a buildup of external reserves. However, the IMF has also warned that any policy slippages could jeopardize Sri Lanka’s path to recovery.
+
+To ensure a broad-based and stable economic recovery that benefits all Sri Lankans, decisive progress on the reform agenda is essential. The IMF mission has emphasized the need for continued commitment to economic reforms to achieve lasting stability and growth.
+
+Under the current arrangement with the IMF, Sri Lanka has so far received a total of one billion dollars, disbursed in three separate tranches. This financial support has been crucial in stabilizing the economy, but the continuation of this support hinges on the successful implementation of agreed-upon reforms and adherence to fiscal and economic policies.
+
+Sri Lanka’s poverty crisis spurs call for economic and social reforms
+
+Sri Lanka is currently navigating a period of significant societal uncertainty, with a substantial portion of its population living either well below or marginally above the poverty line. This economic instability has been exacerbated by ongoing fiscal challenges and the impact of recent reforms. Despite improvements under President Wickremesinghe’s administration, including the stabilization of inflation and strengthening of the rupee, many Sri Lankans continue to struggle with high prices for essential goods and rising living costs. The combination of prolonged inflation, increased taxes, and a stagnant job market has left a large segment of the population feeling the strain of economic hardship.
+
+As a result, there is a growing demand for change, with the public yearning for policies that prioritize both economic growth and social well-being. The country’s focus needs to shift towards creating more inclusive economic opportunities and enhancing social welfare programs to support those most in need.
+
+Comprehensive reforms are required to stimulate economic growth, reduce inequality, and ensure that social safety nets are in place. The need for balanced policies that address immediate needs while promoting long-term stability is crucial for improving the quality of life for all Sri Lankans.
+
