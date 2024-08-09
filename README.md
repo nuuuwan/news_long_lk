@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-08 18:16:58**
+Last Updated **2024-08-09 06:24:34**
+
+## 2024-08-09
+
+* [Important message for Presidential candidates](data/articles/important-message-for-pr.a4eff89d/README.md) `ft.lk`
+* [Economic Transformation Act repeals BOI Law](data/articles/economic-transformation.a455aea2/README.md) `ft.lk`
+* [Adapting concepts of Islamic Finance to an effective debt restructuring mechanism](data/articles/adapting-concepts-of-isl.68c6b1fc/README.md) `ft.lk`
+* [Protests in Sri Lanka and Bangladesh: The bloody contrast in uncanny similarity](data/articles/protests-in-sri-lanka-an.0a4d7975/README.md) `dailymirror.lk`
+* [The Vedda Chief and the presidential elections - EDITORIAL](data/articles/the-vedda-chief-and-the.48ab3dd1/README.md) `dailymirror.lk`
 
 ## 2024-08-08
 
+* [5 Tips for Writing Meaningful Thank-You Notes](data/articles/5-tips-for-writing-meani.fefbfe5a/README.md) `hbr.org`
 * [How One Major Healthcare Firm Became the Leader in Innovative AI Use](data/articles/how-one-major-healthcare.3aab9a3f/README.md) `hbr.org`
 * [How do you want Sri Lanka to be in the future?](data/articles/how-do-you-want-sri-lank.b3556972/README.md) `ft.lk`
 
@@ -18,6 +27,7 @@ Last Updated **2024-08-08 18:16:58**
 * [Bhutan sends condolences on passing of Ven Galboda Gnanissara Thera](data/articles/bhutan-sends-condolences.2f20fc2d/README.md) `dailymirror.lk`
 * [If Iran Retaliates Now! Future…A ‘Sticks & Stones’  World War IV](data/articles/if-iran-retaliates-now-f.27f73e14/README.md) `dailymirror.lk`
 * [How ETB missed the mark on investment zones and what can be done](data/articles/how-etb-missed-the-mark.25d7251e/README.md) `dailymirror.lk`
+* [Namal with no experience enters Presidential race](data/articles/namal-with-no-experience.703097be/README.md) `dailymirror.lk`
 * [ராஜபக்சாக்கள் ரணிலுக்கு செய்த வஞ்சனை  திரும்பிவந்து பொதுஜன பெரமுனவை தாக்குகிறது](data/articles/ர-ஜபக-ச-க-கள-ரண-ல-க-க-ச.28d4aa33/README.md) `dbsjeyaraj.com`
 * [Despite Anti-ESG Attacks, New Study Shows Investors See Climate as Critical to Business Performance](data/articles/despite-anti-esg-attacks.53b54b5b/README.md) `hbr.org`
 * [17 Team-Building Activities for In-Person, Remote, and Hybrid Teams](data/articles/17-team-building-activit.dc6fe991/README.md) `hbr.org`
@@ -438,6 +448,7 @@ Last Updated **2024-08-08 18:16:58**
 ## 2024-06-30
 
 * [Veteran Sri Lankan Tamil Political  leader   Rajavarothayam Sampanthan passes away in Colombo at the age of 91. He  dedicated his political life to pursuing a just solution to Sri Lanka’s Tamil question](data/articles/veteran-sri-lankan-tamil.930851f3/README.md) `dbsjeyaraj.com`
+* [How WestRock Is Unpacking Efficiency and Value by Centralizing Procurement](data/articles/how-westrock-is-unpackin.89d7f569/README.md) `hbr.org`
 * [Do the Tamil Critics of the 13th Constitutional Amendment have the Political Strength to Force a Future Govt to Introduce a Devolution Scheme  better than what is Available in the Provincial Councils?](data/articles/do-the-tamil-critics-of.4fef6e69/README.md) `dbsjeyaraj.com`
 
 ## 2024-06-28
