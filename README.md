@@ -2,11 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-09 18:16:49**
+Last Updated **2024-08-10 06:25:31**
+
+## 2024-08-10
+
+* [Selvern Trust to empower youth going for overseas jobs](data/articles/selvern-trust-to-empower.f0a1e476/README.md) `ft.lk`
+* [Emerging climate risks and future-proof planning for the tourism sector](data/articles/emerging-climate-risks-a.f8f35793/README.md) `ft.lk`
+* [An observation on Muslim voters](data/articles/an-observation-on-muslim.4aba0396/README.md) `ft.lk`
+* [Road to COP29: Priorities and expectations for global climate negotiations in 2024](data/articles/road-to-cop29-priorities.3d18a64a/README.md) `ft.lk`
+* [New technologies and practices transforming green energy sector](data/articles/new-technologies-and-pra.9dd0191c/README.md) `ft.lk`
 
 ## 2024-08-09
 
 * [Presidential Election looms as Sri Lanka faces economic recovery challenges](data/articles/presidential-election-lo.8565e296/README.md) `dailymirror.lk`
+* [The Strongest U.S. Healthcare Organizations Invest in Social Capital](data/articles/the-strongest-u-s-health.81145658/README.md) `hbr.org`
 * [Breaking Down Barriers to Belonging for Women of Color in Tech](data/articles/breaking-down-barriers-t.5d92d152/README.md) `hbr.org`
 * [Why is IMF here? Sri Lanka needs new governance model to avoid them in the future](data/articles/why-is-imf-here-sri-lank.137a3dfa/README.md) `ft.lk`
 * [Important message for Presidential candidates](data/articles/important-message-for-pr.a4eff89d/README.md) `ft.lk`
@@ -22,6 +31,7 @@ Last Updated **2024-08-09 18:16:49**
 
 * [Former Batticaloa District TNA Parliamentarian P. Ariyanendran to Contest 2024 Presidential Poll as the Common Tamil Presidential Candidate.](data/articles/former-batticaloa-distri.e6024472/README.md) `dbsjeyaraj.com`
 * [The  ‘Samagi Jana Sandanaya (SJS)’,  political alliance led by the Samagi Jana Balawegaya (SJB),  officially launched  under the Leadership of Sajith Premadasa  with the signing of agreements with several parties.](data/articles/the-samagi-jana-sandanay.15139f67/README.md) `dbsjeyaraj.com`
+* [Softening US labour market presages slowdown](data/articles/softening-us-labour-mark.75db2a89/README.md) `eiu.com`
 * [5 Tips for Writing Meaningful Thank-You Notes](data/articles/5-tips-for-writing-meani.fefbfe5a/README.md) `hbr.org`
 * [How One Major Healthcare Firm Became the Leader in Innovative AI Use](data/articles/how-one-major-healthcare.3aab9a3f/README.md) `hbr.org`
 * [How do you want Sri Lanka to be in the future?](data/articles/how-do-you-want-sri-lank.b3556972/README.md) `ft.lk`
@@ -69,6 +79,7 @@ Last Updated **2024-08-09 18:16:49**
 
 * [Who holds Sri Lanka’s external debt and how China is assisting Sri Lanka](data/articles/who-holds-sri-lanka-s-ex.a026a715/README.md) `ft.lk`
 * [Embracing change: Economic Transformation Bill](data/articles/embracing-change-economi.5ea1637e/README.md) `ft.lk`
+* [Saudi Arabia forges alternative defence partnerships](data/articles/saudi-arabia-forges-alte.e6fd96ff/README.md) `eiu.com`
 * [The Vibrant Culture of Saudi Arabia Today](data/articles/the-vibrant-culture-of-s.9214d544/README.md) `hbr.org`
 * [When Your Boss Suddenly Reduces Your Scope](data/articles/when-your-boss-suddenly.457e98eb/README.md) `hbr.org`
 * [How Companies Can Take a Global Approach to AI Ethics](data/articles/how-companies-can-take-a.82501993/README.md) `hbr.org`
