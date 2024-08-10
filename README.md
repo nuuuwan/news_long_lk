@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-10 06:25:31**
+Last Updated **2024-08-10 18:15:18**
 
 ## 2024-08-10
 
+* [Namal’s Entry Changes Political Dynamics of Presidential Poll](data/articles/namal-s-entry-changes-po.ceb54988/README.md) `dailymirror.lk`
+* [Namal: an attempt to keep the Pohottuwa above water](data/articles/namal-an-attempt-to-keep.abc81a2b/README.md) `dailymirror.lk`
+* [Rising poverty and problems for new president](data/articles/rising-poverty-and-probl.e2534412/README.md) `dailymirror.lk`
 * [Selvern Trust to empower youth going for overseas jobs](data/articles/selvern-trust-to-empower.f0a1e476/README.md) `ft.lk`
 * [Emerging climate risks and future-proof planning for the tourism sector](data/articles/emerging-climate-risks-a.f8f35793/README.md) `ft.lk`
 * [An observation on Muslim voters](data/articles/an-observation-on-muslim.4aba0396/README.md) `ft.lk`
