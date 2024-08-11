@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-11 06:24:20**
+Last Updated **2024-08-11 18:15:12**
 
 ## 2024-08-10
 
+* [Namal Rajapaksa’s Entry Impacts Political Dynamics  of 2024 Presidential Election.](data/articles/namal-rajapaksa-s-entry.0db368fc/README.md) `dbsjeyaraj.com`
 * [Namal’s Entry Changes Political Dynamics of Presidential Poll](data/articles/namal-s-entry-changes-po.ceb54988/README.md) `dailymirror.lk`
 * [Namal: an attempt to keep the Pohottuwa above water](data/articles/namal-an-attempt-to-keep.abc81a2b/README.md) `dailymirror.lk`
 * [Rising poverty and problems for new president](data/articles/rising-poverty-and-probl.e2534412/README.md) `dailymirror.lk`
