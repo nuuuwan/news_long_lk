@@ -2,12 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-12 06:24:21**
+Last Updated **2024-08-12 18:17:34**
 
 ## 2024-08-12
 
+* [Is the underpass for  wild elephants a  white elephant?](data/articles/is-the-underpass-for-wil.409ce9a4/README.md) `dailymirror.lk`
 * [Britain: Moats and sieges,  but no knights and fairy tales](data/articles/britain-moats-and-sieges.856a0476/README.md) `dailymirror.lk`
 * [The September election, issues and campaigns - EDITORIAL](data/articles/the-september-election-i.8a97fe29/README.md) `dailymirror.lk`
+* [The two Chief  similarities between Sri Lanka’s 2022 ‘youth aragalaya’ and Bangladesh’s youth uprising in 2024](data/articles/the-two-chief-similariti.46153407/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-11
 
