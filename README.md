@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-11 18:15:12**
+Last Updated **2024-08-12 06:24:21**
+
+## 2024-08-12
+
+* [Britain: Moats and sieges,  but no knights and fairy tales](data/articles/britain-moats-and-sieges.856a0476/README.md) `dailymirror.lk`
+* [The September election, issues and campaigns - EDITORIAL](data/articles/the-september-election-i.8a97fe29/README.md) `dailymirror.lk`
+
+## 2024-08-11
+
+* [Building a sustainable future: Impact of RPCs on Sri Lanka’s economy and environment](data/articles/building-a-sustainable-f.f513e97c/README.md) `ft.lk`
+* [Presidential hopefuls should give top priority to make Sri Lanka a creative economy – Part I](data/articles/presidential-hopefuls-sh.5ccf3dad/README.md) `ft.lk`
+* [Visionary perspectives: Fireside Chat with Leadership Panel at Human Capital Summit 2024](data/articles/visionary-perspectives-f.2b51adef/README.md) `ft.lk`
+* [International Youth Day 2024 from ‘Clicks to Progress’](data/articles/international-youth-day.00d607a2/README.md) `ft.lk`
 
 ## 2024-08-10
 
