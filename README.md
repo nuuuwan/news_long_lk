@@ -2,12 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-13 06:24:47**
+Last Updated **2024-08-13 18:17:07**
 
 ## 2024-08-13
 
+* [How to Manage Feedback Like An Olympic Athlete](data/articles/how-to-manage-feedback-l.f9fe456f/README.md) `hbr.org`
 * [Roots of Islamophobia in UK](data/articles/roots-of-islamophobia-in.73639a1c/README.md) `dailymirror.lk`
+* [Roots of Islamophobia in UK](data/articles/roots-of-islamophobia-in.8cf2dd89/README.md) `dailymirror.lk`
 * [Shameless and opportunistic crossovers - EDITORIAL](data/articles/shameless-and-opportunis.ce4d9a14/README.md) `dailymirror.lk`
+* [நாமல் ராஜபக்சவின் பிரவேசம் 2024 ஜனாதிபதி தேர்தல் களச் சூழலில் ஏற்படுத்தும் தாக்கம்](data/articles/ந-மல-ர-ஜபக-சவ-ன-ப-ரவ-சம.e141b36a/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-12
 
