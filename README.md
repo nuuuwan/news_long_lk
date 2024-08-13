@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-12 18:17:34**
+Last Updated **2024-08-13 06:24:47**
+
+## 2024-08-13
+
+* [Roots of Islamophobia in UK](data/articles/roots-of-islamophobia-in.73639a1c/README.md) `dailymirror.lk`
+* [Shameless and opportunistic crossovers - EDITORIAL](data/articles/shameless-and-opportunis.ce4d9a14/README.md) `dailymirror.lk`
 
 ## 2024-08-12
 
+* [Sri Lanka’s make-or-break moment; the leadership Sri Lanka needs](data/articles/sri-lanka-s-make-or-brea.49cc0ad7/README.md) `ft.lk`
+* [Quest for system change paralysed by our metathesiophobia](data/articles/quest-for-system-change.2ce194f5/README.md) `ft.lk`
+* [Kickstart Your New Hire’s Success by Connecting them to the Right People](data/articles/kickstart-your-new-hire.140d6866/README.md) `hbr.org`
+* [Ensure High-Quality Data Powers Your AI](data/articles/ensure-high-quality-data.93aff176/README.md) `hbr.org`
+* [Planning for Courageous Growth](data/articles/planning-for-courageous.2e69af80/README.md) `hbr.org`
 * [Is the underpass for  wild elephants a  white elephant?](data/articles/is-the-underpass-for-wil.409ce9a4/README.md) `dailymirror.lk`
 * [Britain: Moats and sieges,  but no knights and fairy tales](data/articles/britain-moats-and-sieges.856a0476/README.md) `dailymirror.lk`
 * [The September election, issues and campaigns - EDITORIAL](data/articles/the-september-election-i.8a97fe29/README.md) `dailymirror.lk`
@@ -40,6 +50,7 @@ Last Updated **2024-08-12 18:17:34**
 * [Economic Transformation Act repeals BOI Law](data/articles/economic-transformation.a455aea2/README.md) `ft.lk`
 * [Adapting concepts of Islamic Finance to an effective debt restructuring mechanism](data/articles/adapting-concepts-of-isl.68c6b1fc/README.md) `ft.lk`
 * [Fading poster culture of yesteryear](data/articles/fading-poster-culture-of.1d344634/README.md) `dailymirror.lk`
+* [Google DeepMind trained a robot to beat humans at table tennis](data/articles/google-deepmind-trained.68d9716a/README.md) `technologyreview.com`
 * [This futuristic space habitat is designed to self-assemble in orbit](data/articles/this-futuristic-space-ha.3b2d1d7c/README.md) `technologyreview.com`
 * [Protests in Sri Lanka and Bangladesh: The bloody contrast in uncanny similarity](data/articles/protests-in-sri-lanka-an.0a4d7975/README.md) `dailymirror.lk`
 * [The Vedda Chief and the presidential elections - EDITORIAL](data/articles/the-vedda-chief-and-the.48ab3dd1/README.md) `dailymirror.lk`
