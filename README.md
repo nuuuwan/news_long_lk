@@ -2,11 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-13 18:17:07**
+Last Updated **2024-08-14 06:24:45**
+
+## 2024-08-14
+
+* [Sri Lanka’s dried fish industry: Challenges, innovations and Govt. involvement](data/articles/sri-lanka-s-dried-fish-i.1e961c77/README.md) `ft.lk`
+* [75 years of Geneva Conventions: Global and Sri Lankan perspectives](data/articles/75-years-of-geneva-conve.f0582f6e/README.md) `ft.lk`
+* [Abusing the goddess of law – a disaster pending?](data/articles/abusing-the-goddess-of-l.7b843116/README.md) `ft.lk`
+* [Has Sri Lanka found a clear pathway for economic revival?](data/articles/has-sri-lanka-found-a-cl.424e5362/README.md) `ft.lk`
+* [ESG Summit 2024 highlights pathways to sustainable business practices](data/articles/esg-summit-2024-highligh.1d867e33/README.md) `ft.lk`
 
 ## 2024-08-13
 
+* [“Bangladesh vs Sri Lanka”  - A Tie?](data/articles/bangladesh-vs-sri-lanka.717cb2cb/README.md) `dailymirror.lk`
+* [Who could have been Sri Lanka’s Muhammad Yunus if Ranil did not take over?](data/articles/who-could-have-been-sri.e1d38ccc/README.md) `dailymirror.lk`
+* [The shocking and disturbing rape of a teenager](data/articles/the-shocking-and-disturb.8dd01d52/README.md) `dailymirror.lk`
+* [Streamline Your Guest Checkout Experience Now to Drive Holiday Sales](data/articles/streamline-your-guest-ch.6060c94b/README.md) `hbr.org`
+* [Research: Highlighting Minority-Owned Businesses Can Boost Sales](data/articles/research-highlighting-mi.b1b4166d/README.md) `hbr.org`
 * [How to Manage Feedback Like An Olympic Athlete](data/articles/how-to-manage-feedback-l.f9fe456f/README.md) `hbr.org`
+* [How the auto industry could steer the world toward green steel](data/articles/how-the-auto-industry-co.81d161b3/README.md) `technologyreview.com`
 * [Roots of Islamophobia in UK](data/articles/roots-of-islamophobia-in.73639a1c/README.md) `dailymirror.lk`
 * [Roots of Islamophobia in UK](data/articles/roots-of-islamophobia-in.8cf2dd89/README.md) `dailymirror.lk`
 * [Shameless and opportunistic crossovers - EDITORIAL](data/articles/shameless-and-opportunis.ce4d9a14/README.md) `dailymirror.lk`
@@ -83,6 +97,7 @@ Last Updated **2024-08-13 18:17:07**
 * [17 Team-Building Activities for In-Person, Remote, and Hybrid Teams](data/articles/17-team-building-activit.dc6fe991/README.md) `hbr.org`
 * [Inside the First Year as a CEO](data/articles/inside-the-first-year-as.31020b9a/README.md) `hbr.org`
 * [What to know about China’s push for hydrogen-powered transportation](data/articles/what-to-know-about-china.45681b75/README.md) `technologyreview.com`
+* [How covid conspiracy theories led to an alarming resurgence in AIDS denialism](data/articles/how-covid-conspiracy-the.f3767660/README.md) `technologyreview.com`
 * [Presidential elections and Ranil’s crusade for economic revival](data/articles/presidential-elections-a.1602cd80/README.md) `ft.lk`
 * [Demise of Rajapaksa power and triumph of Rajapaksaism](data/articles/demise-of-rajapaksa-powe.cd6d1005/README.md) `ft.lk`
 * [College of General Practitioners of Sri Lanka celebrates 50 years](data/articles/college-of-general-pract.2b05c700/README.md) `ft.lk`
@@ -646,6 +661,7 @@ Last Updated **2024-08-13 18:17:07**
 * [Biotech companies are trying to make milk without cows](data/articles/biotech-companies-are-tr.938fc88e/README.md) `technologyreview.com`
 * [These board games want you to beat climate change](data/articles/these-board-games-want-y.23cfced6/README.md) `technologyreview.com`
 * [This London non-profit is now one of the biggest backers of geoengineering research](data/articles/this-london-non-profit-i.b3613071/README.md) `technologyreview.com`
+* [How to opt out of Meta’s AI training](data/articles/how-to-opt-out-of-meta-s.f4038cea/README.md) `technologyreview.com`
 
 ## 2024-06-13
 
