@@ -1,29 +1,5 @@
 # Supershoes are reshaping distance running
 
-## Summary 🤖
-
-Facts:
-- The track at Moi University’s Eldoret Town Campus in Kenya is known to have produced world-class distance runners. 
-- Kenyan runner Kelvin Kiptum, in just over a year, became a global running phenomenon, holding three of the seven fastest marathon records and the official men's world record at 2:00:35.
-- Nike introduced the Vaporfly shoe, with a carbon-fiber plate and energy-returning foam technology, in 2016. 
-- Since 2020, all road and outdoor track world records in distances from 5,000 meters to the marathon have been broken by runners wearing advanced footwear.
-- Most major brands now offer their versions of the "supershoe", leading to debates over the influence of high-tech footwear on the sport.
-- Shoe technology has a range of responses, with some athletes benefitting more from certain shoe models depending on multiple variables such as weight, foot length, and running style.
-- Since the introduction of advanced footwear, runners' injuries from overuse have decreased, shoes have enabled faster workouts and quicker recovery times, and veteran runners believe they have helped extend careers.
-- The Kenyan community is divided regarding these shoes; while some can afford them and use them in their training and competitions, many aspiring athletes struggle to buy their own pairs.
-
-Opinions:
-- Critics argue that the trend towards high-tech shoes puts too much emphasis on gear over runners' ability.
-- Opinions vary on the extent of the technology's impact on running times – while some predict that a 4% improvement in running economy could lower marathon times by three minutes, not all Kenyan runners and coaches agree.
-- Some believe that the shoes have changed the sport too quickly, making it hard to compare new records to the old ones.
-- Advanced shoe technology has raised concerns about inequalities in the sport and whether the winners are the best runners or just those with the best shoes.
-- Some critics question whether the emphasis on gear detracts from the skill and determination of the athletes.
-- Coach Claudio Berardelli believes the shoes have introduced uncertainties into the sport, complicating assessments of race performance. 
-- Stephen Cherono, former world record holder in the 3,000-meter steeplechase, believes restrictions should have been placed on the technology before it became too late.
-- Despite recognizing Kiptum's talent and hard work, the author acknowledges the unavoidable relevance of supershoe technology in his rapid ascent and proposed future performances.
-
-## Full Text
-
 [https://www.technologyreview.com/2024/06/25/1093520/supershoes-running-kenya-carbon-plate-shoes/](https://www.technologyreview.com/2024/06/25/1093520/supershoes-running-kenya-carbon-plate-shoes/)
 
 *05:10 AM, Tuesday, June 25, 2024*

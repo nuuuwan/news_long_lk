@@ -2,19 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-14 06:24:45**
+Last Updated **2024-08-14 18:17:31**
 
 ## 2024-08-14
 
+* [How to Set Transformation Targets That Actually Drive Change](data/articles/how-to-set-transformatio.6e5bd9a3/README.md) `hbr.org`
+* [A new public database lists all the ways AI could go wrong](data/articles/a-new-public-database-li.6c36d6ba/README.md) `technologyreview.com`
 * [Sri Lanka’s dried fish industry: Challenges, innovations and Govt. involvement](data/articles/sri-lanka-s-dried-fish-i.1e961c77/README.md) `ft.lk`
 * [75 years of Geneva Conventions: Global and Sri Lankan perspectives](data/articles/75-years-of-geneva-conve.f0582f6e/README.md) `ft.lk`
+* [Abusing the goddess of law – a disaster pending?](data/articles/abusing-the-goddess-of-l.077823fe/README.md) `ft.lk`
 * [Abusing the goddess of law – a disaster pending?](data/articles/abusing-the-goddess-of-l.7b843116/README.md) `ft.lk`
 * [Has Sri Lanka found a clear pathway for economic revival?](data/articles/has-sri-lanka-found-a-cl.424e5362/README.md) `ft.lk`
 * [ESG Summit 2024 highlights pathways to sustainable business practices](data/articles/esg-summit-2024-highligh.1d867e33/README.md) `ft.lk`
 
 ## 2024-08-13
 
+* [“Bangladesh vs Sri Lanka”  - A Tie?](data/articles/bangladesh-vs-sri-lanka.cf74d30d/README.md) `dailymirror.lk`
 * [“Bangladesh vs Sri Lanka”  - A Tie?](data/articles/bangladesh-vs-sri-lanka.717cb2cb/README.md) `dailymirror.lk`
+* [Who could have been Sri Lanka’s Muhammad Yunus if Ranil did not take over?](data/articles/who-could-have-been-sri.cdc7065d/README.md) `dailymirror.lk`
 * [Who could have been Sri Lanka’s Muhammad Yunus if Ranil did not take over?](data/articles/who-could-have-been-sri.e1d38ccc/README.md) `dailymirror.lk`
 * [The shocking and disturbing rape of a teenager](data/articles/the-shocking-and-disturb.8dd01d52/README.md) `dailymirror.lk`
 * [Streamline Your Guest Checkout Experience Now to Drive Holiday Sales](data/articles/streamline-your-guest-ch.6060c94b/README.md) `hbr.org`
