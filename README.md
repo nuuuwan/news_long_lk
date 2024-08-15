@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-15 06:24:36**
+Last Updated **2024-08-15 18:18:00**
 
 ## 2024-08-15
 
+* [Research: How IT Can Solve Common Problems in DEI Initiatives](data/articles/research-how-it-can-solv.3ea1c1bd/README.md) `hbr.org`
+* [What Japan’s “megaquake” warning really tells us](data/articles/what-japan-s-megaquake-w.823634f4/README.md) `technologyreview.com`
+* [The US government is still spending big on climate](data/articles/the-us-government-is-sti.9c2bb023/README.md) `technologyreview.com`
 * [Sajith Premadasa presents social democratic, progressive-centrist alternative; Namal goes Rahul](data/articles/sajith-premadasa-present.d1cb00d8/README.md) `ft.lk`
 * [Governance and economy: Inseparable twins](data/articles/governance-and-economy-i.418d7b4e/README.md) `ft.lk`
 
@@ -15,6 +18,7 @@ Last Updated **2024-08-15 06:24:36**
 * [Impact Of Economic Transformation Act On Boi And Fdi](data/articles/impact-of-economic-trans.f7319825/README.md) `dailymirror.lk`
 * [Presidential Elections  and negotiating what isn’t authentic](data/articles/presidential-elections-a.c74396eb/README.md) `dailymirror.lk`
 * [Nomination day: Sri Lanka needs a Statesperson](data/articles/nomination-day-sri-lanka.f771928d/README.md) `dailymirror.lk`
+* [Wildlife officers stagnate after halt of promotions](data/articles/wildlife-officers-stagna.6011bfc9/README.md) `dailymirror.lk`
 * [Patients Need a System to Compare Healthcare Quality — Not Just Prices](data/articles/patients-need-a-system-t.7a18b855/README.md) `hbr.org`
 * [How to Set Transformation Targets That Actually Drive Change](data/articles/how-to-set-transformatio.6e5bd9a3/README.md) `hbr.org`
 * [A new public database lists all the ways AI could go wrong](data/articles/a-new-public-database-li.6c36d6ba/README.md) `technologyreview.com`
