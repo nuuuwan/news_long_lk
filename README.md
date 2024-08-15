@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-14 18:17:31**
+Last Updated **2024-08-15 06:24:36**
+
+## 2024-08-15
+
+* [Sajith Premadasa presents social democratic, progressive-centrist alternative; Namal goes Rahul](data/articles/sajith-premadasa-present.d1cb00d8/README.md) `ft.lk`
+* [Governance and economy: Inseparable twins](data/articles/governance-and-economy-i.418d7b4e/README.md) `ft.lk`
 
 ## 2024-08-14
 
+* [WB Group’s high level council to tackle looming jobs crisis](data/articles/wb-group-s-high-level-co.78d21544/README.md) `dailymirror.lk`
+* [Impact Of Economic Transformation Act On Boi And Fdi](data/articles/impact-of-economic-trans.f7319825/README.md) `dailymirror.lk`
+* [Presidential Elections  and negotiating what isn’t authentic](data/articles/presidential-elections-a.c74396eb/README.md) `dailymirror.lk`
+* [Nomination day: Sri Lanka needs a Statesperson](data/articles/nomination-day-sri-lanka.f771928d/README.md) `dailymirror.lk`
+* [Patients Need a System to Compare Healthcare Quality — Not Just Prices](data/articles/patients-need-a-system-t.7a18b855/README.md) `hbr.org`
 * [How to Set Transformation Targets That Actually Drive Change](data/articles/how-to-set-transformatio.6e5bd9a3/README.md) `hbr.org`
 * [A new public database lists all the ways AI could go wrong](data/articles/a-new-public-database-li.6c36d6ba/README.md) `technologyreview.com`
 * [Sri Lanka’s dried fish industry: Challenges, innovations and Govt. involvement](data/articles/sri-lanka-s-dried-fish-i.1e961c77/README.md) `ft.lk`
