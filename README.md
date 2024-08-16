@@ -2,13 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-15 18:18:00**
+Last Updated **2024-08-16 06:24:51**
+
+## 2024-08-16
+
+* [‘My next dream’s to conquer the highest points of the world’s seven corners” - Johann Peries](data/articles/my-next-dream-s-to-conq.881b8668/README.md) `dailymirror.lk`
+* [40,000 Gaza deaths: Crying shame on humanity](data/articles/40-000-gaza-deaths-cryin.67e38a82/README.md) `dailymirror.lk`
+* [Results, rituals, pageants and presidential elections - EDITORIAL](data/articles/results-rituals-pageants.2eae0b35/README.md) `dailymirror.lk`
+* [“Sajith has vision and capability to lead SL towards a better future” – Gen. Daya Ratnayake](data/articles/sajith-has-vision-and-c.6689ca17/README.md) `ft.lk`
+* [Harry Jayawardena: Hardnosed businessman with the softest heartbeat](data/articles/harry-jayawardena-hardno.545af187/README.md) `ft.lk`
+* [Rajitha Senaratne’s crossover and the politics of SJB defections](data/articles/rajitha-senaratne-s-cros.c4eba024/README.md) `ft.lk`
+* [Elections, regime shift, and transformation of the State](data/articles/elections-regime-shift-a.1aee03cf/README.md) `ft.lk`
 
 ## 2024-08-15
 
+* [Aging hits us in our 40s and 60s. But well-being doesn’t have to fall off a cliff.](data/articles/aging-hits-us-in-our-40s.f552a3a7/README.md) `technologyreview.com`
+* [3 Common Archetypes of Employees Who Commit Fraud](data/articles/3-common-archetypes-of-e.9900f105/README.md) `hbr.org`
 * [Research: How IT Can Solve Common Problems in DEI Initiatives](data/articles/research-how-it-can-solv.3ea1c1bd/README.md) `hbr.org`
 * [What Japan’s “megaquake” warning really tells us](data/articles/what-japan-s-megaquake-w.823634f4/README.md) `technologyreview.com`
 * [The US government is still spending big on climate](data/articles/the-us-government-is-sti.9c2bb023/README.md) `technologyreview.com`
+* [Happy birthday, baby! What the future holds for those born today](data/articles/happy-birthday-baby-what.52804ac5/README.md) `technologyreview.com`
 * [Sajith Premadasa presents social democratic, progressive-centrist alternative; Namal goes Rahul](data/articles/sajith-premadasa-present.d1cb00d8/README.md) `ft.lk`
 * [Governance and economy: Inseparable twins](data/articles/governance-and-economy-i.418d7b4e/README.md) `ft.lk`
 
