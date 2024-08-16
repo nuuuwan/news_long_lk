@@ -2,17 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-16 06:24:51**
+Last Updated **2024-08-16 18:16:37**
 
 ## 2024-08-16
 
+* [When a New Hire Feels Like They Weren’t Your First Choice](data/articles/when-a-new-hire-feels-li.bc663c75/README.md) `hbr.org`
+* [Escaping Spotify’s algorithm](data/articles/escaping-spotify-s-algor.efbbe676/README.md) `technologyreview.com`
 * [‘My next dream’s to conquer the highest points of the world’s seven corners” - Johann Peries](data/articles/my-next-dream-s-to-conq.881b8668/README.md) `dailymirror.lk`
+* [What’s next for drones](data/articles/what-s-next-for-drones.7fd9b370/README.md) `technologyreview.com`
 * [40,000 Gaza deaths: Crying shame on humanity](data/articles/40-000-gaza-deaths-cryin.67e38a82/README.md) `dailymirror.lk`
 * [Results, rituals, pageants and presidential elections - EDITORIAL](data/articles/results-rituals-pageants.2eae0b35/README.md) `dailymirror.lk`
 * [“Sajith has vision and capability to lead SL towards a better future” – Gen. Daya Ratnayake](data/articles/sajith-has-vision-and-c.6689ca17/README.md) `ft.lk`
 * [Harry Jayawardena: Hardnosed businessman with the softest heartbeat](data/articles/harry-jayawardena-hardno.545af187/README.md) `ft.lk`
 * [Rajitha Senaratne’s crossover and the politics of SJB defections](data/articles/rajitha-senaratne-s-cros.c4eba024/README.md) `ft.lk`
 * [Elections, regime shift, and transformation of the State](data/articles/elections-regime-shift-a.1aee03cf/README.md) `ft.lk`
+* [39 Candidates  Contesting in Sri Lanka’s Presidential Election Scheduled for 21 September;Incumbent President Ranil Wickremesinghe, Opposition Leader Sajith Premadasa and JVP/NPP Leader Anura Kumara Dissanayake  are top Contenders](data/articles/39-candidates-contesting.7c142d2b/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-15
 
