@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-17 06:24:47**
+Last Updated **2024-08-17 18:14:57**
 
 ## 2024-08-17
 
+* [Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?](data/articles/will-rajitha-senaratne-s.cc834b2a/README.md) `dbsjeyaraj.com`
 * [Hobson’s choice?](data/articles/hobson-s-choice.3b541d69/README.md) `ft.lk`
 * [Presidential Election 2024: What is the political economy awaiting Sri Lanka?](data/articles/presidential-election-20.94cd6d46/README.md) `ft.lk`
 
