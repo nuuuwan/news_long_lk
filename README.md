@@ -2,11 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-16 18:16:37**
+Last Updated **2024-08-17 06:24:47**
+
+## 2024-08-17
+
+* [Hobson’s choice?](data/articles/hobson-s-choice.3b541d69/README.md) `ft.lk`
+* [Presidential Election 2024: What is the political economy awaiting Sri Lanka?](data/articles/presidential-election-20.94cd6d46/README.md) `ft.lk`
 
 ## 2024-08-16
 
+* [Who will minorities  vote for?](data/articles/who-will-minorities-vote.8ae42a04/README.md) `dailymirror.lk`
+* [UN Resolution 46/1 on gross human rights violations  in sri Lanka](data/articles/un-resolution-46-1-on-gr.06d13120/README.md) `dailymirror.lk`
+* [34 Political Parties and Alliances Endose Support for President  Ranil Wickremesinghe’s Candidacy at “Puluwan Sri Lanka”Convention in Colombo.](data/articles/34-political-parties-and.d7164bca/README.md) `dbsjeyaraj.com`
+* [Hardnosed businessman with the softest heartbeat  Harry Jayawardena Celebrates  82nd Birthday on  on 17th August 2024](data/articles/hardnosed-businessman-wi.905c70aa/README.md) `dbsjeyaraj.com`
+* [What Leaders Can Learn from Training Like an Olympic Archer](data/articles/what-leaders-can-learn-f.2edf8e6b/README.md) `hbr.org`
 * [When a New Hire Feels Like They Weren’t Your First Choice](data/articles/when-a-new-hire-feels-li.bc663c75/README.md) `hbr.org`
+* [How to break free of Spotify’s algorithm](data/articles/how-to-break-free-of-spo.efbbe676/README.md) `technologyreview.com`
 * [Escaping Spotify’s algorithm](data/articles/escaping-spotify-s-algor.efbbe676/README.md) `technologyreview.com`
 * [‘My next dream’s to conquer the highest points of the world’s seven corners” - Johann Peries](data/articles/my-next-dream-s-to-conq.881b8668/README.md) `dailymirror.lk`
 * [What’s next for drones](data/articles/what-s-next-for-drones.7fd9b370/README.md) `technologyreview.com`
@@ -20,6 +31,7 @@ Last Updated **2024-08-16 18:16:37**
 
 ## 2024-08-15
 
+* [Japan’s economy rebounds in Q2 on consumption jolt](data/articles/japan-s-economy-rebounds.5bc5cc02/README.md) `eiu.com`
 * [Aging hits us in our 40s and 60s. But well-being doesn’t have to fall off a cliff.](data/articles/aging-hits-us-in-our-40s.f552a3a7/README.md) `technologyreview.com`
 * [3 Common Archetypes of Employees Who Commit Fraud](data/articles/3-common-archetypes-of-e.9900f105/README.md) `hbr.org`
 * [Research: How IT Can Solve Common Problems in DEI Initiatives](data/articles/research-how-it-can-solv.3ea1c1bd/README.md) `hbr.org`
@@ -66,6 +78,7 @@ Last Updated **2024-08-16 18:16:37**
 
 * [Sri Lanka’s make-or-break moment; the leadership Sri Lanka needs](data/articles/sri-lanka-s-make-or-brea.49cc0ad7/README.md) `ft.lk`
 * [Quest for system change paralysed by our metathesiophobia](data/articles/quest-for-system-change.2ce194f5/README.md) `ft.lk`
+* [Risks around sectarian violence are growing in Bangladesh](data/articles/risks-around-sectarian-v.8a8ec0c9/README.md) `eiu.com`
 * [Kickstart Your New Hire’s Success by Connecting them to the Right People](data/articles/kickstart-your-new-hire.140d6866/README.md) `hbr.org`
 * [Ensure High-Quality Data Powers Your AI](data/articles/ensure-high-quality-data.93aff176/README.md) `hbr.org`
 * [Planning for Courageous Growth](data/articles/planning-for-courageous.2e69af80/README.md) `hbr.org`
