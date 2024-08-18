@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-18 06:24:38**
+Last Updated **2024-08-18 18:15:53**
 
 ## 2024-08-17
 
+* [President Wickremesinghe   points out that  other main presidential candidates are  not opposed to the agreement with the IMF and that they have openly said they will continue with it.](data/articles/president-wickremesinghe.9d949b67/README.md) `dbsjeyaraj.com`
 * [Will  Rajitha Senaratne’s Crossover  Trigger More Defections of MPs From SJB to Ranil’s Side?](data/articles/will-rajitha-senaratne-s.cc834b2a/README.md) `dbsjeyaraj.com`
 * [Hobson’s choice?](data/articles/hobson-s-choice.3b541d69/README.md) `ft.lk`
 * [Presidential Election 2024: What is the political economy awaiting Sri Lanka?](data/articles/presidential-election-20.94cd6d46/README.md) `ft.lk`
