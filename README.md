@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-18 18:15:53**
+Last Updated **2024-08-19 06:24:22**
+
+## 2024-08-19
+
+* [Compensation and Economic Justice for Torture Victims](data/articles/compensation-and-economi.f2083c0c/README.md) `dailymirror.lk`
+* [Nikini Poya Insights: Dhamma, War and Violence](data/articles/nikini-poya-insights-dha.0bfac8cf/README.md) `dailymirror.lk`
+* [Hypocrisy and the ‘Tamil Genocide Day’ monument - EDITORIAL](data/articles/hypocrisy-and-the-tamil.88db5c03/README.md) `dailymirror.lk`
+
+## 2024-08-18
+
+* [Sajith Premadasa’s churlish refusal to shake the proffered hand of Ranil Wickremesinghe  his political opponent is a reminder of the danger of a system where governance and character are symbiotically connected.](data/articles/sajith-premadasa-s-churl.0fabcdd4/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-17
 
