@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-19 06:24:22**
+Last Updated **2024-08-19 18:16:52**
 
 ## 2024-08-19
 
+* [What High Achievers Need from Their Mentors](data/articles/what-high-achievers-need.b53d3849/README.md) `hbr.org`
 * [Compensation and Economic Justice for Torture Victims](data/articles/compensation-and-economi.f2083c0c/README.md) `dailymirror.lk`
 * [Nikini Poya Insights: Dhamma, War and Violence](data/articles/nikini-poya-insights-dha.0bfac8cf/README.md) `dailymirror.lk`
 * [Hypocrisy and the ‘Tamil Genocide Day’ monument - EDITORIAL](data/articles/hypocrisy-and-the-tamil.88db5c03/README.md) `dailymirror.lk`
@@ -33,6 +34,7 @@ Last Updated **2024-08-19 06:24:22**
 * [Escaping Spotify’s algorithm](data/articles/escaping-spotify-s-algor.efbbe676/README.md) `technologyreview.com`
 * [‘My next dream’s to conquer the highest points of the world’s seven corners” - Johann Peries](data/articles/my-next-dream-s-to-conq.881b8668/README.md) `dailymirror.lk`
 * [What’s next for drones](data/articles/what-s-next-for-drones.7fd9b370/README.md) `technologyreview.com`
+* [This researcher wants to replace your brain, little by little](data/articles/this-researcher-wants-to.a6cfde72/README.md) `technologyreview.com`
 * [40,000 Gaza deaths: Crying shame on humanity](data/articles/40-000-gaza-deaths-cryin.67e38a82/README.md) `dailymirror.lk`
 * [Results, rituals, pageants and presidential elections - EDITORIAL](data/articles/results-rituals-pageants.2eae0b35/README.md) `dailymirror.lk`
 * [“Sajith has vision and capability to lead SL towards a better future” – Gen. Daya Ratnayake](data/articles/sajith-has-vision-and-c.6689ca17/README.md) `ft.lk`
