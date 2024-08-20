@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-20 06:24:24**
+Last Updated **2024-08-20 18:17:09**
 
 ## 2024-08-20
 
+* [Research: What Happens When Influencers Turn Off Comments](data/articles/research-what-happens-wh.210a2915/README.md) `hbr.org`
+* [Fighting for a future beyond the climate crisis](data/articles/fighting-for-a-future-be.c1f80bf1/README.md) `technologyreview.com`
+* [Police Department under  scrutiny for allegedly killing beloved ‘Raja’](data/articles/police-department-under.74197698/README.md) `dailymirror.lk`
+* [Why you’re about to see a lot more drones in the sky](data/articles/why-you-re-about-to-see.47cd9417/README.md) `technologyreview.com`
 * [Lessons from the fall of Bangladeshi icons Hasina and Mujib](data/articles/lessons-from-the-fall-of.4d4fb52d/README.md) `dailymirror.lk`
 * [Bangladesh: Revolution or evolution, this is a new start](data/articles/bangladesh-revolution-or.d7c6a64e/README.md) `dailymirror.lk`
 * [Let election month not be preceded by false promises](data/articles/let-election-month-not-b.61bdd667/README.md) `dailymirror.lk`
@@ -17,6 +21,7 @@ Last Updated **2024-08-20 06:24:24**
 
 * [The Business Roundtable’s Stakeholder Pledge, Five Years Later](data/articles/the-business-roundtable.9509556c/README.md) `hbr.org`
 * [What High Achievers Need from Their Mentors](data/articles/what-high-achievers-need.b53d3849/README.md) `hbr.org`
+* [The race to save our online lives from a digital dark age](data/articles/the-race-to-save-our-onl.39d3ad3c/README.md) `technologyreview.com`
 * [Compensation and Economic Justice for Torture Victims](data/articles/compensation-and-economi.f2083c0c/README.md) `dailymirror.lk`
 * [Nikini Poya Insights: Dhamma, War and Violence](data/articles/nikini-poya-insights-dha.0bfac8cf/README.md) `dailymirror.lk`
 * [Hypocrisy and the ‘Tamil Genocide Day’ monument - EDITORIAL](data/articles/hypocrisy-and-the-tamil.88db5c03/README.md) `dailymirror.lk`
