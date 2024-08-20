@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-19 18:16:52**
+Last Updated **2024-08-20 06:24:24**
+
+## 2024-08-20
+
+* [Lessons from the fall of Bangladeshi icons Hasina and Mujib](data/articles/lessons-from-the-fall-of.4d4fb52d/README.md) `dailymirror.lk`
+* [Bangladesh: Revolution or evolution, this is a new start](data/articles/bangladesh-revolution-or.d7c6a64e/README.md) `dailymirror.lk`
+* [Let election month not be preceded by false promises](data/articles/let-election-month-not-b.61bdd667/README.md) `dailymirror.lk`
+* [Revisiting “Dhasa Raja Dharma”: Rhetoric or reality?](data/articles/revisiting-dhasa-raja-dh.c015d01c/README.md) `ft.lk`
+* [Key lessons from Bangladesh crisis](data/articles/key-lessons-from-banglad.23ef958f/README.md) `ft.lk`
+* [Presidential hopefuls should give top priority to make Sri Lanka a creative economy – Part II](data/articles/presidential-hopefuls-sh.205c5032/README.md) `ft.lk`
 
 ## 2024-08-19
 
+* [The Business Roundtable’s Stakeholder Pledge, Five Years Later](data/articles/the-business-roundtable.9509556c/README.md) `hbr.org`
 * [What High Achievers Need from Their Mentors](data/articles/what-high-achievers-need.b53d3849/README.md) `hbr.org`
 * [Compensation and Economic Justice for Torture Victims](data/articles/compensation-and-economi.f2083c0c/README.md) `dailymirror.lk`
 * [Nikini Poya Insights: Dhamma, War and Violence](data/articles/nikini-poya-insights-dha.0bfac8cf/README.md) `dailymirror.lk`
