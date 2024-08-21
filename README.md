@@ -2,16 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-21 06:24:29**
+Last Updated **2024-08-21 18:15:25**
 
 ## 2024-08-21
 
+* [When Resentment Is Building on Your Team](data/articles/when-resentment-is-build.b653a322/README.md) `hbr.org`
 * [Strengthening corporate integrity with anti-corruption policies](data/articles/strengthening-corporate.0d21183d/README.md) `ft.lk`
 * [A phoenix rising from the ashes: Country needs strong leadership not an intern](data/articles/a-phoenix-rising-from-th.b13b5d19/README.md) `ft.lk`
 
 ## 2024-08-20
 
 * [Economic crisis, policy choices, anti-incumbency shape  Lanka’s presidential race](data/articles/economic-crisis-policy-c.b5de0cc4/README.md) `dailymirror.lk`
+* [Economic crisis, policy choices, anti-incumbency shape  Lanka’s presidential race](data/articles/economic-crisis-policy-c.23f51241/README.md) `dailymirror.lk`
 * [Lankan diplomat found guilty in Australia for ill-treating  domestic aid No diplomatic immunity for not paying minimum wages](data/articles/lankan-diplomat-found-gu.5914d17e/README.md) `dailymirror.lk`
 * [Troubled times worldwide and our presidential election](data/articles/troubled-times-worldwide.dae7f5ce/README.md) `dailymirror.lk`
 * [Research: How to Build Consensus Around a New Idea](data/articles/research-how-to-build-co.369bfab2/README.md) `hbr.org`
