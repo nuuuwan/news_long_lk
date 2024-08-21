@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-20 18:17:09**
+Last Updated **2024-08-21 06:24:29**
+
+## 2024-08-21
+
+* [Strengthening corporate integrity with anti-corruption policies](data/articles/strengthening-corporate.0d21183d/README.md) `ft.lk`
+* [A phoenix rising from the ashes: Country needs strong leadership not an intern](data/articles/a-phoenix-rising-from-th.b13b5d19/README.md) `ft.lk`
 
 ## 2024-08-20
 
+* [Economic crisis, policy choices, anti-incumbency shape  Lanka’s presidential race](data/articles/economic-crisis-policy-c.b5de0cc4/README.md) `dailymirror.lk`
+* [Lankan diplomat found guilty in Australia for ill-treating  domestic aid No diplomatic immunity for not paying minimum wages](data/articles/lankan-diplomat-found-gu.5914d17e/README.md) `dailymirror.lk`
+* [Troubled times worldwide and our presidential election](data/articles/troubled-times-worldwide.dae7f5ce/README.md) `dailymirror.lk`
+* [Research: How to Build Consensus Around a New Idea](data/articles/research-how-to-build-co.369bfab2/README.md) `hbr.org`
+* [Companies Are Scaling Back Sustainability Pledges. Here’s What They Should Do Instead.](data/articles/companies-are-scaling-ba.a5f9a69d/README.md) `hbr.org`
 * [Research: What Happens When Influencers Turn Off Comments](data/articles/research-what-happens-wh.210a2915/README.md) `hbr.org`
 * [Fighting for a future beyond the climate crisis](data/articles/fighting-for-a-future-be.c1f80bf1/README.md) `technologyreview.com`
 * [Police Department under  scrutiny for allegedly killing beloved ‘Raja’](data/articles/police-department-under.74197698/README.md) `dailymirror.lk`
