@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-21 18:15:25**
+Last Updated **2024-08-22 06:25:01**
+
+## 2024-08-22
+
+* [Freeing the Balance Sheets of Banks: Sri Lanka needs an AMC](data/articles/freeing-the-balance-shee.ee25d9bb/README.md) `dailymirror.lk`
+* [The power of maintaining the spirit of nonviolence](data/articles/the-power-of-maintaining.360e9f10/README.md) `dailymirror.lk`
 
 ## 2024-08-21
 
+* [SL-Korea Business Council forum sheds insights to future scenarios and challenges](data/articles/sl-korea-business-counci.19bf47eb/README.md) `ft.lk`
+* [Anura, Ranil, Sajith: Classism versus elitism](data/articles/anura-ranil-sajith-class.622808ea/README.md) `ft.lk`
+* [Political remnants and success for NPP](data/articles/political-remnants-and-s.8643bead/README.md) `ft.lk`
+* [Election outcomes, best teams: Strategic advantages of political alliances](data/articles/election-outcomes-best-t.05a288a5/README.md) `ft.lk`
+* [SJB Ratnapura District MP Thalatha Athukorale Announces her Resignation from Parliament;Delivers Scathing Attack on Sajith Premadasa questioning his  leadership qualities and suitability to lead the country at this critical time. Asks if Premadasa is attempting to act out Part II of Gotabaya Rajapaksa fiasco](data/articles/sjb-ratnapura-district-m.3cc7ec5e/README.md) `dbsjeyaraj.com`
+* [A new system lets robots sense human touch without artificial skin](data/articles/a-new-system-lets-robots.2fe28aab/README.md) `technologyreview.com`
+* [How we could turn plastic waste into food](data/articles/how-we-could-turn-plasti.551300ad/README.md) `technologyreview.com`
+* [Can AI Deliver Fully Automated Factories?](data/articles/can-ai-deliver-fully-aut.50cef6ea/README.md) `hbr.org`
+* [Stakeholder Capitalism Still Makes Business Sense](data/articles/stakeholder-capitalism-s.0da89d81/README.md) `hbr.org`
 * [When Resentment Is Building on Your Team](data/articles/when-resentment-is-build.b653a322/README.md) `hbr.org`
 * [Strengthening corporate integrity with anti-corruption policies](data/articles/strengthening-corporate.0d21183d/README.md) `ft.lk`
 * [A phoenix rising from the ashes: Country needs strong leadership not an intern](data/articles/a-phoenix-rising-from-th.b13b5d19/README.md) `ft.lk`
