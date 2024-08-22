@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-22 06:25:01**
+Last Updated **2024-08-22 18:17:19**
 
 ## 2024-08-22
 
+* [Q&A: To Protect the Natural World, We Need to Put a Price on It](data/articles/q-a-to-protect-the-natur.62555019/README.md) `hbr.org`
+* [Global Outlook: prospects for Europe amid elections and trade wars](data/articles/global-outlook-prospects.8c417ccd/README.md) `eiu.com`
+* [Will Gen Z Vote decide Sri Lanka’s next leader?](data/articles/will-gen-z-vote-decide-s.a4080b6d/README.md) `dailymirror.lk`
 * [Freeing the Balance Sheets of Banks: Sri Lanka needs an AMC](data/articles/freeing-the-balance-shee.ee25d9bb/README.md) `dailymirror.lk`
 * [The power of maintaining the spirit of nonviolence](data/articles/the-power-of-maintaining.360e9f10/README.md) `dailymirror.lk`
 
@@ -21,6 +24,7 @@ Last Updated **2024-08-22 06:25:01**
 * [Can AI Deliver Fully Automated Factories?](data/articles/can-ai-deliver-fully-aut.50cef6ea/README.md) `hbr.org`
 * [Stakeholder Capitalism Still Makes Business Sense](data/articles/stakeholder-capitalism-s.0da89d81/README.md) `hbr.org`
 * [When Resentment Is Building on Your Team](data/articles/when-resentment-is-build.b653a322/README.md) `hbr.org`
+* [This rare earth metal shows us the future of our planet’s resources](data/articles/this-rare-earth-metal-sh.f809be3f/README.md) `technologyreview.com`
 * [Strengthening corporate integrity with anti-corruption policies](data/articles/strengthening-corporate.0d21183d/README.md) `ft.lk`
 * [A phoenix rising from the ashes: Country needs strong leadership not an intern](data/articles/a-phoenix-rising-from-th.b13b5d19/README.md) `ft.lk`
 
