@@ -2,12 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-22 18:17:19**
+Last Updated **2024-08-23 06:24:40**
+
+## 2024-08-23
+
+* [Ranil-Sajith divide causes splits in Muslim political parties](data/articles/ranil-sajith-divide-caus.1a22d68d/README.md) `ft.lk`
+* [Make your vote count](data/articles/make-your-vote-count.e74cfcd8/README.md) `ft.lk`
+* [Civil Society appeal for abolition of Executive Presidency](data/articles/civil-society-appeal-for.6821c762/README.md) `ft.lk`
+* [Covid-19  policy,  a breach of trust](data/articles/covid-19-policy-a-breach.63ccd862/README.md) `dailymirror.lk`
+* [Geopolitical intervention  in Sri Lanka’s presidential election](data/articles/geopolitical-interventio.92ebed11/README.md) `dailymirror.lk`
+* [Finding order in a nation in chaos - EDITORIAL](data/articles/finding-order-in-a-natio.27d352a9/README.md) `dailymirror.lk`
 
 ## 2024-08-22
 
+* [Tech that measures our brainwaves is 100 years old. How will we be using it 100 years from now?](data/articles/tech-that-measures-our-b.78945827/README.md) `technologyreview.com`
+* [Finding Joy as a Manager — Even on Bad Days](data/articles/finding-joy-as-a-manager.ef954db8/README.md) `hbr.org`
 * [Q&A: To Protect the Natural World, We Need to Put a Price on It](data/articles/q-a-to-protect-the-natur.62555019/README.md) `hbr.org`
+* [We finally have a definition for open-source AI](data/articles/we-finally-have-a-defini.4b241936/README.md) `technologyreview.com`
 * [Global Outlook: prospects for Europe amid elections and trade wars](data/articles/global-outlook-prospects.8c417ccd/README.md) `eiu.com`
+* [Want to understand the future of technology? Take a look at this one obscure metal.](data/articles/want-to-understand-the-f.34b7bb83/README.md) `technologyreview.com`
 * [Will Gen Z Vote decide Sri Lanka’s next leader?](data/articles/will-gen-z-vote-decide-s.a4080b6d/README.md) `dailymirror.lk`
 * [Freeing the Balance Sheets of Banks: Sri Lanka needs an AMC](data/articles/freeing-the-balance-shee.ee25d9bb/README.md) `dailymirror.lk`
 * [The power of maintaining the spirit of nonviolence](data/articles/the-power-of-maintaining.360e9f10/README.md) `dailymirror.lk`

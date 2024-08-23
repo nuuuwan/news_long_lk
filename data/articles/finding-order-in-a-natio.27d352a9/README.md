@@ -1,0 +1,22 @@
+# Finding order in a nation in chaos - EDITORIAL
+
+[https://www.dailymirror.lk/opinion/Finding-order-in-a-nation-in-chaos-EDITORIAL/172-290132](https://www.dailymirror.lk/opinion/Finding-order-in-a-nation-in-chaos-EDITORIAL/172-290132)
+
+*01:28 AM, Friday, August 23, 2024*
+
+There is much uncertainty in the air as to who’ll be the winner as Sri Lanka gets ready for the 9th presidential elections. There are voters with stability in their lives, the ones who are choking due to their own financial crises and the youth, who are first time voters at the elections, scheduled for September 21. The latter group cannot be fooled and will not settle for compromises with lawmakers; the present ones already in power and the ones who are aspiring to back a new leader who’ll form the next government.
+
+This is a country which has failed to demand results in governance from past regimes. The only little blooming seen in the administration under caretaker President Ranil Wickremesinghe is the stability given to the economy; a benefit that Sri Lanka enjoys, thanks to a debt restructuring process. Wickremesinghe found a method to put some order into the system of governance which was in chaos.
+
+The problem with most of the elections’ candidates is that they have ambitious visions as individuals and not for the country. There are 39  candidates running for presidency and Wickremesinghe is one. Critics have pointed out that this caretaker government has boasted of starting many projects and ventures, but when we’ll see results remains only a guess.
+
+We hear so much ambitious talk and promises a galore on election platforms. What people must fathom is that this election is so decisive. The people’s thinking must continue from there. We as voters don’t always have to listen to candidates spelling out ambitious plans. We can look at buildings and state institutions and analyse the story of governance for the past 76 years. Buildings too tell stories, but that reading is possible only if people have the ability to perceive! The parliamentary complex has been a battle field for so long. Gladiator style fighting has taken place there and even chilli powder has been thrown in eyes. Many a critic believes it’s not a place where vital decisions aimed at prosperity can be taken; at least till individuals who promise to make severe comprises get in there. A party which was once ‘red’ and has merged with several other ‘colors’ is promising change. The issue is whether promises can be trusted?
+
+If someone chooses to write a thesis on the terrorist movement that was engaged in the civil war that we witnessed in this island and the ambitious individuals involved in the protest (aragalaya) both campaigns failed due to divisions within. Sri Lanka lacks the strength to unite under one flag. Our closest neighbour India, may be divided within the country, but when its citizens, artistes and sports personalities step on to the world stage they are united. Those who run to Sri Lanka’s closest neighbour to solve internal problems can learn from Indians who believe in uniting in the name of ‘Mother India’.
+
+When the war concluded in 2009, the government, under the presidency of Mahinda Rajapaksa, invited immigrants with Sri Lankan roots to return to the island and invest their monies in businesses. Most of these projects, sadly, didn’t receive the help promised by the state. However, we must learn from the Chinese stationed in Sri Lanka to use their thinking in business which tells people that ‘it’s crucial to participate when you see an opportunity’.
+
+The Chinese thinking goes beyond that! Chinese business entities have the knack to associate with anything around them regardless whether they can be termed good, bad, poor or rich. Given that Sri Lanka is so shaky when it comes to planning for the future, it can take a cue from China in being ‘obsessed with stability’ with regard to building businesses and exploiting the geographies of others in which they draw their own ambitious maps.
+
+Whoever who wins on September 21 will have to engage China and India. We have a fondness to look at the West and copy them. But there is so much that Asia’s South and East can teach ‘little’ Sri Lanka and its next president in working towards organised competency and stability as a nation.
+
