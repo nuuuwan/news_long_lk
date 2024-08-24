@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-24 06:24:29**
+Last Updated **2024-08-24 18:16:09**
+
+## 2024-08-24
+
+* [Move over, text: Video is the new medium of our lives](data/articles/move-over-text-video-is.93f2e25e/README.md) `technologyreview.com`
 
 ## 2024-08-23
 
@@ -10,6 +14,7 @@ Last Updated **2024-08-24 06:24:29**
 * [Will the old order accept AKD victory?](data/articles/will-the-old-order-accep.f816aaab/README.md) `ft.lk`
 * [Measuring, preventing, and responding to non-economic loss caused by climate change](data/articles/measuring-preventing-and.376a22dd/README.md) `ft.lk`
 * [Hubris and nemesis](data/articles/hubris-and-nemesis.37333d95/README.md) `ft.lk`
+* [2024 Presidential Election Divides Muslim  Political Parties  with Leaders Backing Sajith and Some MPs Supporting Ranil.](data/articles/2024-presidential-electi.9542f87c/README.md) `dbsjeyaraj.com`
 * [Why are elections so costly?](data/articles/why-are-elections-so-cos.efe3737c/README.md) `dailymirror.lk`
 * [Making a joke of presidential elections](data/articles/making-a-joke-of-preside.03d8ce91/README.md) `dailymirror.lk`
 * [Research: Consumers Spend Loyalty Points and Cash Differently](data/articles/research-consumers-spend.3efd8015/README.md) `hbr.org`
