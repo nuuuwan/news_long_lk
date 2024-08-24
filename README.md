@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-23 18:16:49**
+Last Updated **2024-08-24 06:24:29**
 
 ## 2024-08-23
 
+* [The long weekend is over for legislators and electors alike](data/articles/the-long-weekend-is-over.b0c3d498/README.md) `ft.lk`
+* [Will the old order accept AKD victory?](data/articles/will-the-old-order-accep.f816aaab/README.md) `ft.lk`
+* [Measuring, preventing, and responding to non-economic loss caused by climate change](data/articles/measuring-preventing-and.376a22dd/README.md) `ft.lk`
+* [Hubris and nemesis](data/articles/hubris-and-nemesis.37333d95/README.md) `ft.lk`
+* [Why are elections so costly?](data/articles/why-are-elections-so-cos.efe3737c/README.md) `dailymirror.lk`
+* [Making a joke of presidential elections](data/articles/making-a-joke-of-preside.03d8ce91/README.md) `dailymirror.lk`
+* [Research: Consumers Spend Loyalty Points and Cash Differently](data/articles/research-consumers-spend.3efd8015/README.md) `hbr.org`
 * [5 Moments That Make or Break a CEO-Board Chair Relationship](data/articles/5-moments-that-make-or-b.9940b4a8/README.md) `hbr.org`
 * [A response: Dentsu Grant Pvt Ltd has drawn our attention to the news item headlined](data/articles/a-response-dentsu-grant.b78c8557/README.md) `dailymirror.lk`
 * [AI could be a game changer for people with disabilities](data/articles/ai-could-be-a-game-chang.314871d9/README.md) `technologyreview.com`
