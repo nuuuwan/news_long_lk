@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-25 06:24:31**
+Last Updated **2024-08-25 18:15:16**
+
+## 2024-08-25
+
+* [Supreme Court ruling that President Ranil Wickremesinghe’s defiant action in postponing Local Government polls in 2023  had violated the fundamental right to equality and the right to vote of citizens,should come as no surprise](data/articles/supreme-court-ruling-tha.17428c07/README.md) `dbsjeyaraj.com`
+* [“The current president has proven his abilities. He single handedly brought the situation of the country under control. I know not everyone is happy, and we have some way to go, but we can get there together” -Thalatha Atukorale.](data/articles/the-current-president-h.ed67a213/README.md) `dbsjeyaraj.com`
+* [Sajith and Anura Promise to Abolish the Executive Pesidency if they come to Powe; Reality is that people are not going to trust politicians who make such promises again.](data/articles/sajith-and-anura-promise.e610029e/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-24
 
