@@ -1,0 +1,40 @@
+# Namal’s Challenge: Nationalism and Rajapaksa Legacy
+
+[https://www.dailymirror.lk/opinion/Namals-Challenge-Nationalism-and-Rajapaksa-Legacy/172-290288](https://www.dailymirror.lk/opinion/Namals-Challenge-Nationalism-and-Rajapaksa-Legacy/172-290288)
+
+*04:14 AM, Monday, August 26, 2024*
+
+‘I Am Ready for the Challenges; … We always believed in nationalism, and we need to protect that. We believed the policies that suit our country were not addressed by the government.’ – Namal
+
+The outdated and distorted strategy of ‘Sinhala-Buddhism,’ long exploited by the old guard, is no longer effective. Recent statements by Namal Rajapaksa suggest that both he and the few survivors in his party still grapple with this deeply ingrained issue, which distorts rather than reflects the true essence of Buddhism. Additionally, it will take at least another decade and a half to erase the Rajapaksa image from public perception, so Namal will need to practice patience.
+
+Namal has to show maturity and move beyond the Rajapaksa image and ideology and adopt modern thinking
+
+To stay relevant in today’s politics, Namal—the ‘son’ who, (despite being eighteen years younger) has shown more maturity than the other ‘son’ in the presidential race—needs to move beyond the Rajapaksa image and ideology and adopt modern thinking. However, one positive aspect is that his candidacy has tackled the major challenge the incumbent faced: the ‘Rajapaksa saviour’ label.
+
+Employing extremist Sinhala Buddhist forces to combat other forms of extremism, rather than addressing the root of the problem perpetuates a harmful cycle. ‘Sinhala Buddhism’ represents a significant departure from the philosophy of Buddhism or the Dhamma. The concept was increasingly manipulated by the political class of ’56, to maintain or gain power with the lower class masses. This distortion has led to the normalisation of hate speech and violence. The original teachings of Buddhism advocate for peace and moral behaviour, but the politicised version of Sinhala-Buddhism has unfortunately turned these principles on their head, fostering an environment of division and aggression instead of harmony.
+
+History of ‘Sinhala Buddhist’ Hegemony
+
+Sinhalese elites used manipulation and force to tighten their control, pushing aside minorities and hindering democratic progress. These power grabs, rooted in British colonial divide-and-rule tactics, strengthened Sinhalese dominance while ignoring minority needs. Identity politics, especially Sinhala-Buddhist nationalism and the push for a Sinhala-Buddhist state, were key tools in this process. The dominance of the Sinhalese elites led to rising tensions with Tamil communities, sparking armed conflict and civil war, which further weakened state-building efforts.
+
+By early 1970s, Sinhalese elites faced challenges from both Tamil groups and radical Sinhalese youth, leading to anti-elite uprisings. This notion provides ideological satisfaction to the masses while delivering political and economic benefits to the elites. Sinhala-Buddhist nationalism has not improved living conditions for Sinhalese-Buddhist community. Its characteristic discrimination has fostered manipulative politics, neglecting deep democratic issues. The post-war resurgence of this nationalism and the lack of opposition suggest little progress towards genuine democratic development.
+
+The rise and fall of a political dynasty
+
+In 2020, four brothers from the Rajapaksa dynasty held the Presidency, the Prime Minister’s office, and key portfolios like finance, defence, and interior. At the height of their power, they seemed invincible, but an economic crisis they caused led to their downfall. Before launching his campaign, Namal Rajapaksa visited temples with his father, continuing their tradition of temple ceremonies, which align with the Sinhala Buddhist populism that has fueled their rise a decade ago.
+
+At the peak of their power, the Rajapaksas seemed untouchable, signing massive infrastructure deals, amassing wealth, and avoiding accountability in a state they fully controlled. Human rights defenders criticised their corruption, and crackdowns, but the public largely ignored these warnings. However, as Sri Lanka plunged into its worst economic crisis since Independence in 1948—marked by fuel shortages, power cuts, and soaring inflation—the public’s support began to wane. This shift marked the beginning of the end for the Rajapaksa dynasty, one of South Asia’s most powerful political families.
+
+If young Namal hopes to lead the nation in the future—a currently unlikely prospect—he will need to distance himself from the Post-Independence Rajapaksa legacy and adopt a more dynamic and innovative approach.  He should draw inspiration from his granduncle, Don Mathew Rajapaksa (DM) member of State Council of Ceylon-1937/45, who, along with DS Senanayake, had a forward-looking vision. DM, the “Lion of Ruhuna,” and his two sons, George and Luxman who represented Mulkirigala, Tissamaharama in 1960s and 70s, were prominent figures in Southern province politics. They played a significant role in promoting the welfare of the oppressed and downtrodden people in Giruwapattuwa until they bid farewell to politics with a clean record. Following DM’s death, his brother DA (grandfather of Namal) was elected uncontested. DA chose to follow the ‘Expedient Utopian’ Bandaranaike in 1951 and crossed over to the opposition to form the ‘Sinhala-Buddhist’ SLFP.
+
+DM introduced and wore the Kurahan Saataka to symbolise the tragic destiny of the Giruwapattu people. This contrasts sharply with the 21st-century use of the Kurahan Saataka by the cartoonists to symbolise a corrupt rule by DA Rajapaksa’s sons.
+
+The Executive Presidential system has clearly failed to deliver on its original promises of sustained economic growth, communal harmony, and political stability. Instead of progress, the country has faced persistent economic challenges, deepened ethnic divisions, and increased conflicts, leading to a more fragmented society. Politically, the system has fostered frequent crises and instability. These failures stem from the system’s inherent flaws—centralised power without sufficient checks and balances. This has allowed authoritarianism, corruption, and incompetence to thrive, serving the interests of a few while undermining the common good and eroding trust in public institutions.
+
+Rather than focusing on nationalist sentiments that resonate mostly with the older generation; now that Namal has jump the gun with his early entry into the race, he should distinguish himself by addressing the abolition of the system and power devolution, unlike the other candidates. (Rhetoric by some claiming they will eliminate the executive presidency is not taken seriously by an electorate familiar with such bogus promises). By leading a campaign aimed at future elections, Namal can attract the younger generation, including the 14 to 18 age group that will vote in 2029, positioning himself as a forward-thinking leader.
+
+This strategy could significantly enhance his profile as a potential future leader, positioning him as a serious contender for higher office. In contrast, if he fails to adapt and continues with a lackluster campaign led by left over ‘Johnnies and cronies’, he risks his political career by securing a mere 2 to 3% of the vote. This would likely result in him finishing in a low position, such as fifth or sixth, which would be a considerable setback and could damage his long-term prospects in the political arena.
+
+Embracing a non – Rajapaksa persona would not only require shedding the controversial baggage associated with DA Rajapaksas’s second generation political brand, but also actively engage with progressive and inclusive policies that address the diverse needs and aspirations of Sri Lanka’s populace including the minorities. By redefining his public image and policy stance; Namal could possibly reposition himself as a leader capable of uniting and leading the nation in a new direction, perhaps in the mid-21st century.
+

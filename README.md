@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-25 18:15:16**
+Last Updated **2024-08-26 06:24:27**
+
+## 2024-08-26
+
+* [Namal’s Challenge: Nationalism and Rajapaksa Legacy](data/articles/namal-s-challenge-nation.31bff21f/README.md) `dailymirror.lk`
+* [A note on Mangala Samaraweera](data/articles/a-note-on-mangala-samara.819b4e80/README.md) `dailymirror.lk`
+* [Ukraine’s new gamble: Taking the war to the Russians](data/articles/ukraine-s-new-gamble-tak.daf124ee/README.md) `dailymirror.lk`
+* [SC’s rights ruling and President’s ‘Hobson’s choice’ - EDITORIAL](data/articles/sc-s-rights-ruling-and-p.7f5e4fe7/README.md) `dailymirror.lk`
+* [SLIMFA forum explores media’s evolving role in elections amid digital revolution](data/articles/slimfa-forum-explores-me.f40d462a/README.md) `ft.lk`
 
 ## 2024-08-25
 
+* [Transitioning from takaran-sheet giveaways](data/articles/transitioning-from-takar.0a2c75d0/README.md) `ft.lk`
+* [Presidential hopefuls should give top priority to make Sri Lanka a creative nation – Part III](data/articles/presidential-hopefuls-sh.7d5dbbf5/README.md) `ft.lk`
+* [Game-changing role of a digital economy strategy in Sri Lanka’s 2024 Presidential election](data/articles/game-changing-role-of-a.63f13398/README.md) `ft.lk`
+* [Beyond red tape: How digitalisation can save Sri Lanka’s economy](data/articles/beyond-red-tape-how-digi.fa6d8a2f/README.md) `ft.lk`
 * [Supreme Court ruling that President Ranil Wickremesinghe’s defiant action in postponing Local Government polls in 2023  had violated the fundamental right to equality and the right to vote of citizens,should come as no surprise](data/articles/supreme-court-ruling-tha.17428c07/README.md) `dbsjeyaraj.com`
 * [“The current president has proven his abilities. He single handedly brought the situation of the country under control. I know not everyone is happy, and we have some way to go, but we can get there together” -Thalatha Atukorale.](data/articles/the-current-president-h.ed67a213/README.md) `dbsjeyaraj.com`
 * [Sajith and Anura Promise to Abolish the Executive Pesidency if they come to Powe; Reality is that people are not going to trust politicians who make such promises again.](data/articles/sajith-and-anura-promise.e610029e/README.md) `dbsjeyaraj.com`
