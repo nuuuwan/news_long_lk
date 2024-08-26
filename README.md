@@ -2,13 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-26 06:24:27**
+Last Updated **2024-08-26 18:17:28**
 
 ## 2024-08-26
 
+* [Does Market Share Still Matter?](data/articles/does-market-share-still.0e409bcc/README.md) `hbr.org`
+* [Inside the long quest to advance Chinese writing technology](data/articles/inside-the-long-quest-to.b27644c1/README.md) `technologyreview.com`
+* [Maybe you will be able to live past 122](data/articles/maybe-you-will-be-able-t.4d3a2ded/README.md) `technologyreview.com`
+* [AI and the future of sex](data/articles/ai-and-the-future-of-sex.908af337/README.md) `technologyreview.com`
 * [Namal’s Challenge: Nationalism and Rajapaksa Legacy](data/articles/namal-s-challenge-nation.31bff21f/README.md) `dailymirror.lk`
 * [A note on Mangala Samaraweera](data/articles/a-note-on-mangala-samara.819b4e80/README.md) `dailymirror.lk`
 * [Ukraine’s new gamble: Taking the war to the Russians](data/articles/ukraine-s-new-gamble-tak.daf124ee/README.md) `dailymirror.lk`
+* [Ukraine’s new gamble: Taking the war to the Russians](data/articles/ukraine-s-new-gamble-tak.b58b3275/README.md) `dailymirror.lk`
 * [SC’s rights ruling and President’s ‘Hobson’s choice’ - EDITORIAL](data/articles/sc-s-rights-ruling-and-p.7f5e4fe7/README.md) `dailymirror.lk`
 * [SLIMFA forum explores media’s evolving role in elections amid digital revolution](data/articles/slimfa-forum-explores-me.f40d462a/README.md) `ft.lk`
 
@@ -134,6 +139,7 @@ Last Updated **2024-08-26 06:24:27**
 * [Harry Jayawardena: Hardnosed businessman with the softest heartbeat](data/articles/harry-jayawardena-hardno.545af187/README.md) `ft.lk`
 * [Rajitha Senaratne’s crossover and the politics of SJB defections](data/articles/rajitha-senaratne-s-cros.c4eba024/README.md) `ft.lk`
 * [Elections, regime shift, and transformation of the State](data/articles/elections-regime-shift-a.1aee03cf/README.md) `ft.lk`
+* [Africa CDC will try to contain the mpox virus](data/articles/africa-cdc-will-try-to-c.8065df55/README.md) `eiu.com`
 * [39 Candidates  Contesting in Sri Lanka’s Presidential Election Scheduled for 21 September;Incumbent President Ranil Wickremesinghe, Opposition Leader Sajith Premadasa and JVP/NPP Leader Anura Kumara Dissanayake  are top Contenders](data/articles/39-candidates-contesting.7c142d2b/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-15

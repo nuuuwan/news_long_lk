@@ -1,5 +1,33 @@
 [
   {
+    "title": "Does Market Share Still Matter?",
+    "url": "https://hbr.org/2024/08/does-market-share-still-matter",
+    "ut": 1724654121.0,
+    "dir_path_unix": "data/articles/does-market-share-still.0e409bcc",
+    "time_str_formatted": "12:05 PM, Monday, August 26, 2024"
+  },
+  {
+    "title": "Inside the long quest to advance Chinese writing technology",
+    "url": "https://www.technologyreview.com/2024/08/26/1096630/chinese-writing-technology-evolution-thomas-mullaney/",
+    "ut": 1724639400.0,
+    "dir_path_unix": "data/articles/inside-the-long-quest-to.b27644c1",
+    "time_str_formatted": "08:00 AM, Monday, August 26, 2024"
+  },
+  {
+    "title": "Maybe you will be able to live past 122",
+    "url": "https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/",
+    "ut": 1724635800.0,
+    "dir_path_unix": "data/articles/maybe-you-will-be-able-t.4d3a2ded",
+    "time_str_formatted": "07:00 AM, Monday, August 26, 2024"
+  },
+  {
+    "title": "AI and the future of sex",
+    "url": "https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/",
+    "ut": 1724635800.0,
+    "dir_path_unix": "data/articles/ai-and-the-future-of-sex.908af337",
+    "time_str_formatted": "07:00 AM, Monday, August 26, 2024"
+  },
+  {
     "title": "Namal\u2019s Challenge: Nationalism and Rajapaksa Legacy",
     "url": "https://www.dailymirror.lk/opinion/Namals-Challenge-Nationalism-and-Rajapaksa-Legacy/172-290288",
     "ut": 1724625850.0,
@@ -18,6 +46,13 @@
     "url": "https://www.dailymirror.lk/opinion/Ukraines-new-gamble-Taking-the-war-to-the-Russians/172-290282",
     "ut": 1724622609.0,
     "dir_path_unix": "data/articles/ukraine-s-new-gamble-tak.daf124ee",
+    "time_str_formatted": "03:20 AM, Monday, August 26, 2024"
+  },
+  {
+    "title": "Ukraine\u2019s new gamble: Taking the war to the Russians",
+    "url": "https://www.dailymirror.lk/plus/Ukraines-new-gamble-Taking-the-war-to-the-Russians/352-290282",
+    "ut": 1724622609.0,
+    "dir_path_unix": "data/articles/ukraine-s-new-gamble-tak.b58b3275",
     "time_str_formatted": "03:20 AM, Monday, August 26, 2024"
   },
   {
@@ -684,6 +719,13 @@
     "ut": 1723755843.0,
     "dir_path_unix": "data/articles/elections-regime-shift-a.1aee03cf",
     "time_str_formatted": "02:34 AM, Friday, August 16, 2024"
+  },
+  {
+    "title": "Africa CDC will try to contain the mpox virus",
+    "url": "https://www.eiu.com/n/africa-cdc-will-try-to-contain-the-mpox-virus/",
+    "ut": 1723755161.0,
+    "dir_path_unix": "data/articles/africa-cdc-will-try-to-c.8065df55",
+    "time_str_formatted": "02:22 AM, Friday, August 16, 2024"
   },
   {
     "title": "39 Candidates  Contesting in Sri Lanka\u2019s Presidential Election Scheduled for 21 September;Incumbent President Ranil Wickremesinghe, Opposition Leader Sajith Premadasa and JVP/NPP Leader Anura Kumara Dissanayake  are top Contenders",
