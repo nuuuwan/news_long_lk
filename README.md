@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-26 18:17:28**
+Last Updated **2024-08-27 06:24:47**
+
+## 2024-08-27
+
+* [Buddhists, Hindus  believe in the power of White Elephant to subdue enemies](data/articles/buddhists-hindus-believe.e14a841b/README.md) `dailymirror.lk`
+* [Candidates, declare your plans to repay foreign debts - EDITORIAL](data/articles/candidates-declare-your.c0ad8bdc/README.md) `dailymirror.lk`
 
 ## 2024-08-26
 
+* [“Anjanenjan” Amirthalingam; The  Firebrand  Youth with a Fearless Heart who  became  a Respected Statesmanlike Tamil Leader](data/articles/anjanenjan-amirthalinga.ce90cf03/README.md) `dbsjeyaraj.com`
+* [Artificial Intelligence Is Impacting Everything—Including Workload Automation](data/articles/artificial-intelligence.7c96446b/README.md) `hbr.org`
+* [The 4 Key Strengths of China’s Economy — and What They Mean for Multinational Companies](data/articles/the-4-key-strengths-of-c.ee5bead2/README.md) `hbr.org`
+* [Why Cynics Are Less Likely to Succeed](data/articles/why-cynics-are-less-like.0aca1215/README.md) `hbr.org`
 * [Does Market Share Still Matter?](data/articles/does-market-share-still.0e409bcc/README.md) `hbr.org`
 * [Inside the long quest to advance Chinese writing technology](data/articles/inside-the-long-quest-to.b27644c1/README.md) `technologyreview.com`
 * [Maybe you will be able to live past 122](data/articles/maybe-you-will-be-able-t.4d3a2ded/README.md) `technologyreview.com`
@@ -47,6 +56,7 @@ Last Updated **2024-08-26 18:17:28**
 * [Ranil-Sajith divide causes splits in Muslim political parties](data/articles/ranil-sajith-divide-caus.1a22d68d/README.md) `ft.lk`
 * [Make your vote count](data/articles/make-your-vote-count.e74cfcd8/README.md) `ft.lk`
 * [Civil Society appeal for abolition of Executive Presidency](data/articles/civil-society-appeal-for.6821c762/README.md) `ft.lk`
+* [Andrew Ng’s new model lets you play around with solar geoengineering to see what would happen](data/articles/andrew-ng-s-new-model-le.1cef9daa/README.md) `technologyreview.com`
 * [Covid-19  policy,  a breach of trust](data/articles/covid-19-policy-a-breach.ebea5ae7/README.md) `dailymirror.lk`
 * [Covid-19  policy,  a breach of trust](data/articles/covid-19-policy-a-breach.63ccd862/README.md) `dailymirror.lk`
 * [Geopolitical intervention  in Sri Lanka’s presidential election](data/articles/geopolitical-interventio.92ebed11/README.md) `dailymirror.lk`
@@ -93,6 +103,7 @@ Last Updated **2024-08-26 18:17:28**
 * [Fighting for a future beyond the climate crisis](data/articles/fighting-for-a-future-be.c1f80bf1/README.md) `technologyreview.com`
 * [Police Department under  scrutiny for allegedly killing beloved ‘Raja’](data/articles/police-department-under.74197698/README.md) `dailymirror.lk`
 * [Why you’re about to see a lot more drones in the sky](data/articles/why-you-re-about-to-see.47cd9417/README.md) `technologyreview.com`
+* [How to fine-tune AI for prosperity](data/articles/how-to-fine-tune-ai-for.a87afeca/README.md) `technologyreview.com`
 * [Lessons from the fall of Bangladeshi icons Hasina and Mujib](data/articles/lessons-from-the-fall-of.4d4fb52d/README.md) `dailymirror.lk`
 * [Bangladesh: Revolution or evolution, this is a new start](data/articles/bangladesh-revolution-or.d7c6a64e/README.md) `dailymirror.lk`
 * [Let election month not be preceded by false promises](data/articles/let-election-month-not-b.61bdd667/README.md) `dailymirror.lk`
