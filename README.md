@@ -2,15 +2,32 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-27 06:24:47**
+Last Updated **2024-08-28 06:25:09**
+
+## 2024-08-28
+
+* [Aligning a new political order to economic thinking; low on inequality but high on meritocracy](data/articles/aligning-a-new-political.81685d24/README.md) `ft.lk`
+* [Whom should I vote for this Presidential election?](data/articles/whom-should-i-vote-for-t.9a10a004/README.md) `ft.lk`
 
 ## 2024-08-27
 
+* [How Sajith Premadasa’s gamble plays out against him,  his party and the country](data/articles/how-sajith-premadasa-s-g.1b7a17b2/README.md) `dailymirror.lk`
+* [Are we an independent nation or a banana republic?](data/articles/are-we-an-independent-na.e2344002/README.md) `dailymirror.lk`
+* [To re-democratize Sri Lanka,  abolish Executive Presidency](data/articles/to-re-democratize-sri-la.1668bdab/README.md) `dailymirror.lk`
+* [Religious, civil society and academic community want  balanced devolution of power to regions](data/articles/religious-civil-society.fcff912e/README.md) `dailymirror.lk`
+* [Presidential Elections Realistic approaches matter more than ever](data/articles/presidential-elections-r.06eb3aca/README.md) `dailymirror.lk`
+* [Keep Strategy Simple](data/articles/keep-strategy-simple.bafc4ce1/README.md) `hbr.org`
+* [4 Warning Signs of Ethical Burnout on Your Team](data/articles/4-warning-signs-of-ethic.1346650e/README.md) `hbr.org`
+* [Research: Why Inclusive Hiring Must Include Refugees](data/articles/research-why-inclusive-h.f68c665c/README.md) `hbr.org`
+* [Ray Kurzweil: Technology will let us fully realize our humanity](data/articles/ray-kurzweil-technology.6ad76d9b/README.md) `technologyreview.com`
 * [Buddhists, Hindus  believe in the power of White Elephant to subdue enemies](data/articles/buddhists-hindus-believe.e14a841b/README.md) `dailymirror.lk`
 * [Candidates, declare your plans to repay foreign debts - EDITORIAL](data/articles/candidates-declare-your.c0ad8bdc/README.md) `dailymirror.lk`
 
 ## 2024-08-26
 
+* [Recap of economic achievements of President Ranasinghe Premadasa](data/articles/recap-of-economic-achiev.a77394f6/README.md) `ft.lk`
+* [Uncertainty, stability and the Executive Presidency](data/articles/uncertainty-stability-an.59536822/README.md) `ft.lk`
+* [Election Commission’s alert ‘not to be misled by polls surveys’ must be taken seriously](data/articles/election-commission-s-al.b31645df/README.md) `ft.lk`
 * [“Anjanenjan” Amirthalingam; The  Firebrand  Youth with a Fearless Heart who  became  a Respected Statesmanlike Tamil Leader](data/articles/anjanenjan-amirthalinga.ce90cf03/README.md) `dbsjeyaraj.com`
 * [Artificial Intelligence Is Impacting Everything—Including Workload Automation](data/articles/artificial-intelligence.7c96446b/README.md) `hbr.org`
 * [The 4 Key Strengths of China’s Economy — and What They Mean for Multinational Companies](data/articles/the-4-key-strengths-of-c.ee5bead2/README.md) `hbr.org`
@@ -69,6 +86,7 @@ Last Updated **2024-08-27 06:24:47**
 * [Q&A: To Protect the Natural World, We Need to Put a Price on It](data/articles/q-a-to-protect-the-natur.62555019/README.md) `hbr.org`
 * [We finally have a definition for open-source AI](data/articles/we-finally-have-a-defini.4b241936/README.md) `technologyreview.com`
 * [Global Outlook: prospects for Europe amid elections and trade wars](data/articles/global-outlook-prospects.8c417ccd/README.md) `eiu.com`
+* [US election: its impact on Latin America](data/articles/us-election-its-impact-o.af4bb672/README.md) `eiu.com`
 * [Want to understand the future of technology? Take a look at this one obscure metal.](data/articles/want-to-understand-the-f.34b7bb83/README.md) `technologyreview.com`
 * [Beyond gene-edited babies: the possible paths for tinkering with human evolution](data/articles/beyond-gene-edited-babie.767ce5db/README.md) `technologyreview.com`
 * [Will Gen Z Vote decide Sri Lanka’s next leader?](data/articles/will-gen-z-vote-decide-s.a4080b6d/README.md) `dailymirror.lk`
@@ -172,6 +190,7 @@ Last Updated **2024-08-27 06:24:47**
 * [Presidential Elections  and negotiating what isn’t authentic](data/articles/presidential-elections-a.c74396eb/README.md) `dailymirror.lk`
 * [Nomination day: Sri Lanka needs a Statesperson](data/articles/nomination-day-sri-lanka.f771928d/README.md) `dailymirror.lk`
 * [Wildlife officers stagnate after halt of promotions](data/articles/wildlife-officers-stagna.6011bfc9/README.md) `dailymirror.lk`
+* [How a Trump presidency affects EIU’s forecasts for Asia](data/articles/how-a-trump-presidency-a.5b10bd97/README.md) `eiu.com`
 * [Patients Need a System to Compare Healthcare Quality — Not Just Prices](data/articles/patients-need-a-system-t.7a18b855/README.md) `hbr.org`
 * [How to Set Transformation Targets That Actually Drive Change](data/articles/how-to-set-transformatio.6e5bd9a3/README.md) `hbr.org`
 * [A new public database lists all the ways AI could go wrong](data/articles/a-new-public-database-li.6c36d6ba/README.md) `technologyreview.com`
