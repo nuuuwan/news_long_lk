@@ -1,0 +1,20 @@
+# How to Craft a Memorable Message, According to Science
+
+[https://hbr.org/2024/08/how-to-craft-a-memorable-message-according-to-science](https://hbr.org/2024/08/how-to-craft-a-memorable-message-according-to-science)
+
+*12:05 PM, Wednesday, August 28, 2024*
+
+Ben Welsh/Getty Images
+
+Numerous researches have shown that we forget much of what we experience in a day. Knowing this, how do you create messages so there is a better chance of people remembering them? The author uses concepts from memory science to help you craft messages — whether it’s a presentation, an email, or a speech — that will be likely to stick. One way to craft a memorable message is to chunk it up. Explicitly tie together the points that you want to convey under the umbrella of a central idea. With this approach, your listener can stitch the pieces together in a meaningful way and build a rich memory for that material. Or, when communicating about a complex topic, you can make your message memorable with a concrete example instead of something vague. Remember to provide callbacks as recalling something that we previously learned can make it stronger and easier to access when we will need it. Lastly, spark their curiosity. The key to memorable communication lies not in conveying the answer, but in establishing a compelling question.
+
+Imagine sitting in a meeting where someone is giving a presentation. You’re somewhat interested in the topic, and the speaker seems to be doing a good job. The meeting ends, and 30 minutes later, you try to recall what was discussed. You can remember that the coffee was weak, the room was too cold, and the speaker was wearing a pink tie … but you can’t remember what he was talking about.
+
+Readers Also Viewed These Items
+
+Generative AI: Tools for Preparing Your Team for the Future
+
+HBR Guide to Coaching Employees Toolkit
+
+Read more on Psychology and neuroscience
+
