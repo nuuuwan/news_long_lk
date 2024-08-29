@@ -2,11 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-28 18:18:08**
+Last Updated **2024-08-29 06:25:31**
 
 ## 2024-08-28
 
+* [Spotlight on OUSL VC for  facilitating exam  for overseas LLB students](data/articles/spotlight-on-ousl-vc-for.6b24da85/README.md) `dailymirror.lk`
+* [Arbudaya, Aragalaya, Punarudaya](data/articles/arbudaya-aragalaya-punar.5f88a4a1/README.md) `ft.lk`
+* [Chandra Jayaratne writes to SEC on EPF receiving Rs. 231 m over share transaction](data/articles/chandra-jayaratne-writes.3da76197/README.md) `ft.lk`
+* [NPP manifesto: Anura’s unwise pledge to abolish the Executive Presidency](data/articles/npp-manifesto-anura-s-un.e5a0abb8/README.md) `ft.lk`
+* [Best business practices from an Islamic standpoint](data/articles/best-business-practices.4a3dc8eb/README.md) `ft.lk`
+* [Public-Private Partnerships: Pathway to sustainable infrastructure development in Sri Lanka](data/articles/public-private-partnersh.09074ffa/README.md) `ft.lk`
+* [Every generation gets the superhero it deserves!](data/articles/every-generation-gets-th.92d39bba/README.md) `dailymirror.lk`
+* [Remember the threat of a doomsday](data/articles/remember-the-threat-of-a.79afa619/README.md) `dailymirror.lk`
+* [Is Your Organizational Transformation Veering Off Course?](data/articles/is-your-organizational-t.46262fa2/README.md) `hbr.org`
 * [How to Craft a Memorable Message, According to Science](data/articles/how-to-craft-a-memorable.f1c0e7d9/README.md) `hbr.org`
+* [Canada’s 2023 wildfires produced more emissions than fossil fuels in most countries](data/articles/canada-s-2023-wildfires.141226b2/README.md) `technologyreview.com`
 * [African farmers are using private satellite data to improve crop yields](data/articles/african-farmers-are-usin.b00df829/README.md) `technologyreview.com`
 * [This startup is making coffee without coffee beans](data/articles/this-startup-is-making-c.6583c5fc/README.md) `technologyreview.com`
 * [Job title of the future: Weather maker](data/articles/job-title-of-the-future.c0179df5/README.md) `technologyreview.com`
