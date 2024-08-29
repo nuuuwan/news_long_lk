@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-29 06:25:31**
+Last Updated **2024-08-29 18:17:46**
+
+## 2024-08-29
+
+* [How AI Could Help Reduce Inequities in Health Care](data/articles/how-ai-could-help-reduce.e87ad04e/README.md) `hbr.org`
 
 ## 2024-08-28
 
