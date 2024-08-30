@@ -2,11 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-29 18:17:46**
+Last Updated **2024-08-30 06:24:55**
+
+## 2024-08-30
+
+* [Rejection and ‘role morality’: Only way out of the abyss](data/articles/rejection-and-role-moral.df5d3d4d/README.md) `ft.lk`
+* [Chance for significant political and economic change](data/articles/chance-for-significant-p.8a08c86e/README.md) `ft.lk`
+* [Big drama in election time](data/articles/big-drama-in-election-ti.e52b8486/README.md) `ft.lk`
+* [When banks make too much profit?](data/articles/when-banks-make-too-much.e41225b5/README.md) `ft.lk`
 
 ## 2024-08-29
 
+* [Presidential debates and promise audits: Sri Lankan democracy’s missing links](data/articles/presidential-debates-and.5ac325ae/README.md) `dailymirror.lk`
+* [Capturing the making of a modern Sri Lanka](data/articles/capturing-the-making-of.a79caa3a/README.md) `dailymirror.lk`
+* [A new smart mask analyzes your breath to monitor your health](data/articles/a-new-smart-mask-analyze.49e70bb5/README.md) `technologyreview.com`
+* [A New Approach to Knowledge-Sharing Within Organizations](data/articles/a-new-approach-to-knowle.b756e3b7/README.md) `hbr.org`
 * [How AI Could Help Reduce Inequities in Health Care](data/articles/how-ai-could-help-reduce.e87ad04e/README.md) `hbr.org`
+* [Kamala Harris should stand with tech workers, not their bosses](data/articles/kamala-harris-should-sta.4c814746/README.md) `technologyreview.com`
 
 ## 2024-08-28
 
