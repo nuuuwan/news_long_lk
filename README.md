@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-30 06:24:55**
+Last Updated **2024-08-30 18:17:52**
 
 ## 2024-08-30
 
+* [Why Companies Should Embrace Disruptive Climate Activism](data/articles/why-companies-should-emb.6493c565/README.md) `hbr.org`
+* [“Oddamavadi: The Untold Story” book debuts](data/articles/oddamavadi-the-untold-s.cd3eba32/README.md) `ft.lk`
 * [Rejection and ‘role morality’: Only way out of the abyss](data/articles/rejection-and-role-moral.df5d3d4d/README.md) `ft.lk`
 * [Chance for significant political and economic change](data/articles/chance-for-significant-p.8a08c86e/README.md) `ft.lk`
 * [Big drama in election time](data/articles/big-drama-in-election-ti.e52b8486/README.md) `ft.lk`
@@ -13,12 +15,16 @@ Last Updated **2024-08-30 06:24:55**
 
 ## 2024-08-29
 
+* [Presidential debates and promise audits: Sri Lankan democracy’s missing links](data/articles/presidential-debates-and.ddeb1b78/README.md) `dailymirror.lk`
 * [Presidential debates and promise audits: Sri Lankan democracy’s missing links](data/articles/presidential-debates-and.5ac325ae/README.md) `dailymirror.lk`
 * [Capturing the making of a modern Sri Lanka](data/articles/capturing-the-making-of.a79caa3a/README.md) `dailymirror.lk`
+* [Saumiyamoorthy Thondaman was the shrewdest tactician and sagacious strategist among Tamil political leaders in recent times.](data/articles/saumiyamoorthy-thondaman.75e07fc9/README.md) `dbsjeyaraj.com`
 * [A new smart mask analyzes your breath to monitor your health](data/articles/a-new-smart-mask-analyze.49e70bb5/README.md) `technologyreview.com`
+* [How machine learning is helping us probe the secret names of animals](data/articles/how-machine-learning-is.794ca5d1/README.md) `technologyreview.com`
 * [A New Approach to Knowledge-Sharing Within Organizations](data/articles/a-new-approach-to-knowle.b756e3b7/README.md) `hbr.org`
 * [How AI Could Help Reduce Inequities in Health Care](data/articles/how-ai-could-help-reduce.e87ad04e/README.md) `hbr.org`
 * [Kamala Harris should stand with tech workers, not their bosses](data/articles/kamala-harris-should-sta.4c814746/README.md) `technologyreview.com`
+* [Canada’s tariff moves signal tighter alignment with US](data/articles/canada-s-tariff-moves-si.ef3048d7/README.md) `eiu.com`
 
 ## 2024-08-28
 

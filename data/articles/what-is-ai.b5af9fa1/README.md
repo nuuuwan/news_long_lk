@@ -1,11 +1,5 @@
 # What is AI?
 
-## Summary 🤖
-
-
-
-## Full Text
-
 [https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/](https://www.technologyreview.com/2024/07/10/1094475/what-is-artificial-intelligence-ai-definitive-guide/)
 
 *05:00 AM, Wednesday, July 10, 2024*
