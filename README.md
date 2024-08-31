@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-08-30 18:17:52**
+Last Updated **2024-08-31 06:24:54**
+
+## 2024-08-31
+
+* [The Common Tamil Presidential Candidate  Controversy](data/articles/the-common-tamil-preside.e0415cb8/README.md) `dailymirror.lk`
+* [How experienced leaders made a total hash of things](data/articles/how-experienced-leaders.f256814d/README.md) `dailymirror.lk`
+* [Economic melt-down, HR violations, and elections - EDITORIAL](data/articles/economic-melt-down-hr-vi.83f33f42/README.md) `dailymirror.lk`
 
 ## 2024-08-30
 
+* [Telling political twins apart is in their doing not the DNA](data/articles/telling-political-twins.4b2dfc5c/README.md) `ft.lk`
+* [International Day of the Disappeared, 30 August 2024 ICRC says missing persons must be searched for; their families must receive answers](data/articles/international-day-of-the.d06b9c72/README.md) `ft.lk`
+* [Malaysia: Model for successful economic development in a multi-ethnic society](data/articles/malaysia-model-for-succe.a76ad990/README.md) `ft.lk`
+* [Book detailing historic labour rights agreement launched](data/articles/book-detailing-historic.65a54a05/README.md) `ft.lk`
+* [HBR’s Most-Read Articles of 2024 (So Far)](data/articles/hbr-s-most-read-articles.2c77c2f4/README.md) `hbr.org`
 * [Why Companies Should Embrace Disruptive Climate Activism](data/articles/why-companies-should-emb.6493c565/README.md) `hbr.org`
 * [“Oddamavadi: The Untold Story” book debuts](data/articles/oddamavadi-the-untold-s.cd3eba32/README.md) `ft.lk`
 * [Rejection and ‘role morality’: Only way out of the abyss](data/articles/rejection-and-role-moral.df5d3d4d/README.md) `ft.lk`
