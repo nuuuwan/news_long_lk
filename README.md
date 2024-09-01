@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-01 06:24:59**
+Last Updated **2024-09-01 18:15:49**
+
+## 2024-09-01
+
+* [Contours of the   Common  Tamil Presidential Candidate  Controversy](data/articles/contours-of-the-common-t.bfa34d7a/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-31
 
