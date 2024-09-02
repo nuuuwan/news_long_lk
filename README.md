@@ -2,17 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-02 06:24:24**
+Last Updated **2024-09-02 18:18:27**
 
 ## 2024-09-02
 
+* [The HBR Guide to Standing Out in an Interview](data/articles/the-hbr-guide-to-standin.b8efb6bd/README.md) `hbr.org`
 * [73 year-old SLFP swallowed by SJB, UNP](data/articles/73-year-old-slfp-swallow.29e346e6/README.md) `dailymirror.lk`
 * [Mass Protests  – Role of the Deep State and the Fifth Estate](data/articles/mass-protests-role-of-th.76986e78/README.md) `dailymirror.lk`
 * [Complying with RTI Act on foreign financing is important](data/articles/complying-with-rti-act-o.38fdc5e8/README.md) `dailymirror.lk`
+* [Elections,Debt Sustainability and IMF Blackmail](data/articles/elections-debt-sustainab.aa49c60f/README.md) `dailymirror.lk`
 * [Elections,Debt Sustainability and IMF Blackmail](data/articles/elections-debt-sustainab.29f7de93/README.md) `dailymirror.lk`
 * [A country like no other in election mode - EDITORIAL](data/articles/a-country-like-no-other.612ed8d4/README.md) `dailymirror.lk`
 * [Highlights of Govt. tax policy and expenditure management measures](data/articles/highlights-of-govt-tax-p.7118833a/README.md) `ft.lk`
 * [Seven ‘open’ questions for all Presidential candidates](data/articles/seven-open-questions-for.32e0a7e2/README.md) `ft.lk`
+* [Ilankai   Thamil Arasuk Katchi  (ITAK) Decides to Back Sajith Premadasa at Presidential Poll; ITAK  Will ask Party stalwart P. Ariyanethiran to Withdraw  from Contesting as the  “Common Tamil  Candidate”](data/articles/ilankai-thamil-arasuk-ka.66466806/README.md) `dbsjeyaraj.com`
 * [Tapping into the economy of ideas: Why progress on sustainable development hinges on IP](data/articles/tapping-into-the-economy.348b0bb1/README.md) `ft.lk`
 
 ## 2024-09-01
@@ -35,6 +38,7 @@ Last Updated **2024-09-02 06:24:24**
 * [Book detailing historic labour rights agreement launched](data/articles/book-detailing-historic.65a54a05/README.md) `ft.lk`
 * [HBR’s Most-Read Articles of 2024 (So Far)](data/articles/hbr-s-most-read-articles.2c77c2f4/README.md) `hbr.org`
 * [Why Companies Should Embrace Disruptive Climate Activism](data/articles/why-companies-should-emb.6493c565/README.md) `hbr.org`
+* [A new way to build neural networks could make AI more understandable](data/articles/a-new-way-to-build-neura.9d5f09e4/README.md) `technologyreview.com`
 * [“Oddamavadi: The Untold Story” book debuts](data/articles/oddamavadi-the-untold-s.cd3eba32/README.md) `ft.lk`
 * [Rejection and ‘role morality’: Only way out of the abyss](data/articles/rejection-and-role-moral.df5d3d4d/README.md) `ft.lk`
 * [Chance for significant political and economic change](data/articles/chance-for-significant-p.8a08c86e/README.md) `ft.lk`
