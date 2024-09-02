@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-01 18:15:49**
+Last Updated **2024-09-02 06:24:24**
+
+## 2024-09-02
+
+* [73 year-old SLFP swallowed by SJB, UNP](data/articles/73-year-old-slfp-swallow.29e346e6/README.md) `dailymirror.lk`
+* [Mass Protests  – Role of the Deep State and the Fifth Estate](data/articles/mass-protests-role-of-th.76986e78/README.md) `dailymirror.lk`
+* [Complying with RTI Act on foreign financing is important](data/articles/complying-with-rti-act-o.38fdc5e8/README.md) `dailymirror.lk`
+* [Elections,Debt Sustainability and IMF Blackmail](data/articles/elections-debt-sustainab.29f7de93/README.md) `dailymirror.lk`
+* [A country like no other in election mode - EDITORIAL](data/articles/a-country-like-no-other.612ed8d4/README.md) `dailymirror.lk`
+* [Highlights of Govt. tax policy and expenditure management measures](data/articles/highlights-of-govt-tax-p.7118833a/README.md) `ft.lk`
+* [Seven ‘open’ questions for all Presidential candidates](data/articles/seven-open-questions-for.32e0a7e2/README.md) `ft.lk`
+* [Tapping into the economy of ideas: Why progress on sustainable development hinges on IP](data/articles/tapping-into-the-economy.348b0bb1/README.md) `ft.lk`
 
 ## 2024-09-01
 
+* [Which ‘genius’ will be ‘lucky’ this time?](data/articles/which-genius-will-be-luc.7514f023/README.md) `ft.lk`
+* [Voters should select from neoliberalism, modified neoliberalism or anti-neoliberalism on 21 September](data/articles/voters-should-select-fro.69c35eb0/README.md) `ft.lk`
 * [Contours of the   Common  Tamil Presidential Candidate  Controversy](data/articles/contours-of-the-common-t.bfa34d7a/README.md) `dbsjeyaraj.com`
 
 ## 2024-08-31
