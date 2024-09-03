@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-02 18:18:27**
+Last Updated **2024-09-03 06:24:40**
+
+## 2024-09-03
+
+* [The other three candidates come with serious, troubled pasts, I do not  - Namal](data/articles/the-other-three-candidat.a8ed25ed/README.md) `dailymirror.lk`
+* [Kolkata doctor’s rape-murder: Is it just one pervert or a whole mafia?](data/articles/kolkata-doctor-s-rape-mu.36fff7c0/README.md) `dailymirror.lk`
+* [Why only Fowzie? -  EDITORIAL](data/articles/why-only-fowzie-editoria.06f6b46d/README.md) `dailymirror.lk`
+* [Independent economic entity must provide costings of election promises and their impact on economy](data/articles/independent-economic-ent.2eec1fe8/README.md) `ft.lk`
+* [Echoes of 2008: Is the US heading for another recession?](data/articles/echoes-of-2008-is-the-us.5a46f0f2/README.md) `ft.lk`
+* [Promised tax reliefs and impacts on State’s revenue](data/articles/promised-tax-reliefs-and.80990972/README.md) `ft.lk`
 
 ## 2024-09-02
 
+* [Sri Lanka’s economic challenges and path forward: A discussion with experts](data/articles/sri-lanka-s-economic-cha.ba8d87be/README.md) `ft.lk`
+* [ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளரும் தமிழர் அரசியலின் எதிர்காலமும்](data/articles/ஜன-த-பத-த-ர-தல-ல-தம-ழ-ப.f80314a0/README.md) `dbsjeyaraj.com`
+* [How to Explain Job Hopping in an Interview](data/articles/how-to-explain-job-hoppi.551cbb37/README.md) `hbr.org`
 * [The HBR Guide to Standing Out in an Interview](data/articles/the-hbr-guide-to-standin.b8efb6bd/README.md) `hbr.org`
 * [73 year-old SLFP swallowed by SJB, UNP](data/articles/73-year-old-slfp-swallow.29e346e6/README.md) `dailymirror.lk`
 * [Mass Protests  – Role of the Deep State and the Fifth Estate](data/articles/mass-protests-role-of-th.76986e78/README.md) `dailymirror.lk`

@@ -1,0 +1,32 @@
+# Echoes of 2008: Is the US heading for another recession?
+
+[https://www.ft.lk/columns/Echoes-of-2008-Is-the-US-heading-for-another-recession/4-766287](https://www.ft.lk/columns/Echoes-of-2008-Is-the-US-heading-for-another-recession/4-766287)
+
+*12:37 AM, Tuesday, September 03, 2024*
+
+The US economy appears to be on relatively solid ground at the beginning of the 2H 2024. However, despite a cooling of inflation, progress has been uneven and inconsistent
+
+Having endured the painful experiences of the 2008 financial crisis, the global economy wouldn’t want to face yet another worse period. Economists forecast that global growth will remain sluggish throughout 2024. Given the US dollar’s status as the dominant currency in international trade and financial markets, shifts in US monetary policy and investor sentiment are pivotal in shaping global growth and financing conditions. The upcoming US elections and the timing of when the Federal Reserve will begin cutting interest rates have become key factors reshaping the US economy.
+
+The Federal Reserve’s dual mandate, as specified in the 1976 amendment to the Federal Reserve Act, is to promote maximum employment and stable prices. Accordingly, the Federal Reserve must carefully navigate the challenge of maintaining low and stable prices while fostering an economic environment that provides opportunities for everyone seeking employment. However, the July labour market report has raised concerns that the Federal Reserve may be too late in cutting interest rates, as the report indicated slower job creation and a rising unemployment rate.
+
+What happened in 2008?
+
+In the 2000s investors sought low risk, high return investments, which led them to channel their money into the US housing market. The idea behind this shift was to earn higher returns from the interest rates paid by homeowners on mortgages. Accordingly, global investors invested in mortgage-backed securities, a type of debt instrument collateralised by a pool of mortgages.
+
+The housing market appears to be a safe bet as prices continued to rise. Even in a worst-case scenario, lenders believed they could simply sell the house at a higher price. What was particularly notable is that credit rating agencies recommended these mortgage-backed securities as safe investments, which fuelled investors’ eagerness to invest more of them. With rising demand, lenders sought to create more of these mortgages and, as a result began extending loans to individuals with poor credit records, known as sub-prime mortgages. Despite the ballooning of these loans, investors continued to pour their money in, as they placed their trust in the ratings agencies. This led to the creation of a housing bubble, characterised by irrational decisions that drove rapid price increases, creating a high tendency for the bubble to burst.
+
+Eventually, in 2008, the bubble burst. Many people could no longer keep up with their mortgage payments and ended up defaulting. Lenders then began selling house, but with no buyers, this created an excess supply, causing prices to fall significantly below the mortgage values. Large financial institutions then ceased to buying sub-prime mortgages, leaving lenders burdened with a significant amount of bad loans. This situation then impacted large investors, who lost their invested money. Panic set in, and the US economy entered steep downward trajectory, with the stock market also collapsing. The unemployment rate during this period surged to a whopping 9.5%.
+
+What could trigger another recession in 2024?
+
+The US economy appears to be on relatively solid ground at the beginning of the 2H 2024. However, despite a cooling of inflation, progress has been uneven and inconsistent. Although the labour market remains stable, the Federal Reserve has been cautious about moving toward potential rate cuts. Many economic experts expect a soft landing in 2024, characterised by slowing GDP growth but no recession. However, to everyone’s surprise, the July US jobs market report indicated an increase in the unemployment, contrary to expectations.
+
+A key driver of the potential economic downturn will be inflation, as it has not yet reached the Federal Reserve’s 2% target. Another risk factor is higher interest rates, as the Federal Reserve has adopted a hawkish approach to tackle inflation. Higher interest rates mean that corporations face increased borrowings costs, which discourages them from taking on debt for expansion. Additionally, higher rates also result in reduced consumer spending.
+
+In this context, at the recent Jackson Hole Symposium, Fed Chair Powell clearly indicated that it is time for policy adjustments, though the timing and pace of the rate cuts will depend on incoming data. Before the next Fed meeting, one labour report is yet to be released, which will provide a clearer path for policy adjustments.
+
+While a silver lining can be expected on the monetary policy front, potentially providing much-needed impetus, the upcoming elections will introduce additional uncertainty on the fiscal front. Donald Trump appears to support US corporations through various stimulus measures, such as tax cuts, which may be challenging to achieve with a Democratic majority. However, Trump might resort to higher tariffs, which could increase consumer prices. If Kamala Harris wins, her focus may shift towards raising taxes to boost government revenue, potentially hurting corporations and, by extension, the stock market. Therefore, the direction of the US economy will largely depend on how effectively each candidate can strike a delicate balance in their policy priorities.
+
+(The author holds a Master’s degree in Applied Finance from the University of Sri Jayewardenepura and a Bachelor’s degree in Business Economics with a first class division from the same university. He has over 4 years of professional experience in the investment banking and financial services industry, serving clients across the US and Europe. He works as an Economist at a diversified conglomerate. His primary focus is researching broader economic issues, including monetary and fiscal policies, geopolitical developments, and sustainability matters, and their implications across various sectors.)
+
