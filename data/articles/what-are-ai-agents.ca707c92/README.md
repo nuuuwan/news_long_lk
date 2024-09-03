@@ -1,20 +1,5 @@
 # What are AI agents?
 
-## Summary 🤖
-
-1. 🎯 AI agents are creating excitement in the tech industry, with companies plowing vast sums into their development. 
-2. 👤 AI agents are systems that can autonomously make decisions in a dynamic environment, making everyday tasks easier. 
-3. 📊 In a business context, AI agents can function as more sophisticated customer service bots and execute tasks autonomously.
-4. 📱 Google’s Astra, which incorporates visual and audio processing, is an example of an AI agent.
-5. 🎁 Agents can be either software-based, utilising apps and systems, or embodied in 3D worlds or robots.
-6. 🎢 The term "AI agents" has evolved over time, with the current wave being driven by language models such as ChatGPT.
-7. 👾 Agents have potential beyond task execution, including adding smarter, AI-controlled characters to video games.
-8. ⚠️ Challenges exist in the development of AI agents, including the ability to fully reason, and the limitation of context windows or agreed-upon definition. 
-9. 🏗️ Google is tackling context window issues by increasing data processing capacity, aiming for infinite context windows in the future. 
-10. 🕹️ Early prototypes of AI agents are already available in software like OpenAI’s ChatGPT and GPT-4.
-
-## Full Text
-
 [https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/](https://www.technologyreview.com/2024/07/05/1094711/what-are-ai-agents/)
 
 *06:26 AM, Friday, July 05, 2024*
