@@ -2,17 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-04 06:24:48**
+Last Updated **2024-09-04 18:18:58**
 
 ## 2024-09-04
 
+* [Research: When Bonuses Backfire](data/articles/research-when-bonuses-ba.772ebf1e/README.md) `hbr.org`
 * [Voter perceptions and electoral winds](data/articles/voter-perceptions-and-el.07bede13/README.md) `ft.lk`
 * [The awakening](data/articles/the-awakening.8d6246e1/README.md) `ft.lk`
+* [What would Happen to Sri Lanka if Anura Kumara Dissanayake Wins the  2024 Presidential Election  and the JVP Forms the Next Government?](data/articles/what-would-happen-to-sri.f9ff730e/README.md) `dbsjeyaraj.com`
+* [Dreamworld politics is easy. But it is important for the Tamil people today to think about a practical approach.](data/articles/dreamworld-politics-is-e.b2ea8f38/README.md) `dbsjeyaraj.com`
 
 ## 2024-09-03
 
 * [Supporting common candidate or main candidate: Tamil politics in a fix today](data/articles/supporting-common-candid.5edfa85f/README.md) `dailymirror.lk`
 * [How JVP/ NPP govt begins… and ends](data/articles/how-jvp-npp-govt-begins.37e59d37/README.md) `dailymirror.lk`
+* [How JVP/ NPP govt begins… and ends](data/articles/how-jvp-npp-govt-begins.4c8b06ea/README.md) `dailymirror.lk`
 * [Presidential poll amid false promises, growing despair](data/articles/presidential-poll-amid-f.6063b475/README.md) `dailymirror.lk`
 * [Can AI Assistants Add Value to Your Sales Team?](data/articles/can-ai-assistants-add-va.f4cf17ff/README.md) `hbr.org`
 * [7 Questions to Ask When Weighing a Job Offer](data/articles/7-questions-to-ask-when.420e5e31/README.md) `hbr.org`
@@ -32,6 +36,7 @@ Last Updated **2024-09-04 06:24:48**
 * [ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளரும் தமிழர் அரசியலின் எதிர்காலமும்](data/articles/ஜன-த-பத-த-ர-தல-ல-தம-ழ-ப.f80314a0/README.md) `dbsjeyaraj.com`
 * [How to Explain Job Hopping in an Interview](data/articles/how-to-explain-job-hoppi.551cbb37/README.md) `hbr.org`
 * [The HBR Guide to Standing Out in an Interview](data/articles/the-hbr-guide-to-standin.b8efb6bd/README.md) `hbr.org`
+* [The race to replace the powerful greenhouse gas that underpins the power grid](data/articles/the-race-to-replace-the.79f7a445/README.md) `technologyreview.com`
 * [73 year-old SLFP swallowed by SJB, UNP](data/articles/73-year-old-slfp-swallow.29e346e6/README.md) `dailymirror.lk`
 * [Mass Protests  – Role of the Deep State and the Fifth Estate](data/articles/mass-protests-role-of-th.76986e78/README.md) `dailymirror.lk`
 * [Complying with RTI Act on foreign financing is important](data/articles/complying-with-rti-act-o.38fdc5e8/README.md) `dailymirror.lk`
