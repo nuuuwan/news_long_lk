@@ -2,11 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-03 18:17:58**
+Last Updated **2024-09-04 06:24:48**
+
+## 2024-09-04
+
+* [Voter perceptions and electoral winds](data/articles/voter-perceptions-and-el.07bede13/README.md) `ft.lk`
+* [The awakening](data/articles/the-awakening.8d6246e1/README.md) `ft.lk`
 
 ## 2024-09-03
 
+* [Supporting common candidate or main candidate: Tamil politics in a fix today](data/articles/supporting-common-candid.5edfa85f/README.md) `dailymirror.lk`
+* [How JVP/ NPP govt begins… and ends](data/articles/how-jvp-npp-govt-begins.37e59d37/README.md) `dailymirror.lk`
+* [Presidential poll amid false promises, growing despair](data/articles/presidential-poll-amid-f.6063b475/README.md) `dailymirror.lk`
+* [Can AI Assistants Add Value to Your Sales Team?](data/articles/can-ai-assistants-add-va.f4cf17ff/README.md) `hbr.org`
+* [7 Questions to Ask When Weighing a Job Offer](data/articles/7-questions-to-ask-when.420e5e31/README.md) `hbr.org`
 * [Making Omnichannel Work for Luxury Retail](data/articles/making-omnichannel-work.bd00d984/README.md) `hbr.org`
+* [Coming soon: Our 2024 list of Innovators Under 35](data/articles/coming-soon-our-2024-lis.ca356202/README.md) `technologyreview.com`
 * [The other three candidates come with serious, troubled pasts, I do not  - Namal](data/articles/the-other-three-candidat.a8ed25ed/README.md) `dailymirror.lk`
 * [Here’s how ed-tech companies are pitching AI to teachers](data/articles/here-s-how-ed-tech-compa.bf72c77b/README.md) `technologyreview.com`
 * [Kolkata doctor’s rape-murder: Is it just one pervert or a whole mafia?](data/articles/kolkata-doctor-s-rape-mu.36fff7c0/README.md) `dailymirror.lk`
@@ -24,8 +35,8 @@ Last Updated **2024-09-03 18:17:58**
 * [73 year-old SLFP swallowed by SJB, UNP](data/articles/73-year-old-slfp-swallow.29e346e6/README.md) `dailymirror.lk`
 * [Mass Protests  – Role of the Deep State and the Fifth Estate](data/articles/mass-protests-role-of-th.76986e78/README.md) `dailymirror.lk`
 * [Complying with RTI Act on foreign financing is important](data/articles/complying-with-rti-act-o.38fdc5e8/README.md) `dailymirror.lk`
-* [Elections,Debt Sustainability and IMF Blackmail](data/articles/elections-debt-sustainab.29f7de93/README.md) `dailymirror.lk`
 * [Elections,Debt Sustainability and IMF Blackmail](data/articles/elections-debt-sustainab.aa49c60f/README.md) `dailymirror.lk`
+* [Elections,Debt Sustainability and IMF Blackmail](data/articles/elections-debt-sustainab.29f7de93/README.md) `dailymirror.lk`
 * [A country like no other in election mode - EDITORIAL](data/articles/a-country-like-no-other.612ed8d4/README.md) `dailymirror.lk`
 * [Highlights of Govt. tax policy and expenditure management measures](data/articles/highlights-of-govt-tax-p.7118833a/README.md) `ft.lk`
 * [Seven ‘open’ questions for all Presidential candidates](data/articles/seven-open-questions-for.32e0a7e2/README.md) `ft.lk`
@@ -61,8 +72,8 @@ Last Updated **2024-09-03 18:17:58**
 
 ## 2024-08-29
 
-* [Presidential debates and promise audits: Sri Lankan democracy’s missing links](data/articles/presidential-debates-and.5ac325ae/README.md) `dailymirror.lk`
 * [Presidential debates and promise audits: Sri Lankan democracy’s missing links](data/articles/presidential-debates-and.ddeb1b78/README.md) `dailymirror.lk`
+* [Presidential debates and promise audits: Sri Lankan democracy’s missing links](data/articles/presidential-debates-and.5ac325ae/README.md) `dailymirror.lk`
 * [Capturing the making of a modern Sri Lanka](data/articles/capturing-the-making-of.a79caa3a/README.md) `dailymirror.lk`
 * [Saumiyamoorthy Thondaman was the shrewdest tactician and sagacious strategist among Tamil political leaders in recent times.](data/articles/saumiyamoorthy-thondaman.75e07fc9/README.md) `dbsjeyaraj.com`
 * [A new smart mask analyzes your breath to monitor your health](data/articles/a-new-smart-mask-analyze.49e70bb5/README.md) `technologyreview.com`
@@ -86,8 +97,8 @@ Last Updated **2024-09-03 18:17:58**
 * [How to Craft a Memorable Message, According to Science](data/articles/how-to-craft-a-memorable.f1c0e7d9/README.md) `hbr.org`
 * [Canada’s 2023 wildfires produced more emissions than fossil fuels in most countries](data/articles/canada-s-2023-wildfires.141226b2/README.md) `technologyreview.com`
 * [African farmers are using private satellite data to improve crop yields](data/articles/african-farmers-are-usin.b00df829/README.md) `technologyreview.com`
-* [Job title of the future: Weather maker](data/articles/job-title-of-the-future.c0179df5/README.md) `technologyreview.com`
 * [This startup is making coffee without coffee beans](data/articles/this-startup-is-making-c.6583c5fc/README.md) `technologyreview.com`
+* [Job title of the future: Weather maker](data/articles/job-title-of-the-future.c0179df5/README.md) `technologyreview.com`
 * [Aligning a new political order to economic thinking; low on inequality but high on meritocracy](data/articles/aligning-a-new-political.81685d24/README.md) `ft.lk`
 * [Whom should I vote for this Presidential election?](data/articles/whom-should-i-vote-for-t.9a10a004/README.md) `ft.lk`
 * [National People’s Power  Presidential Candidate Anura Kumara Dissanayake officially Releases  the NPP’s Presidential election manifesto titled “A Prosperous Nation, A Beautiful Life” .](data/articles/national-people-s-power.9f913b91/README.md) `dbsjeyaraj.com`
@@ -99,8 +110,8 @@ Last Updated **2024-09-03 18:17:58**
 * [Are we an independent nation or a banana republic?](data/articles/are-we-an-independent-na.e2344002/README.md) `dailymirror.lk`
 * [To re-democratize Sri Lanka,  abolish Executive Presidency](data/articles/to-re-democratize-sri-la.1668bdab/README.md) `dailymirror.lk`
 * [Religious, civil society and academic community want  balanced devolution of power to regions](data/articles/religious-civil-society.fcff912e/README.md) `dailymirror.lk`
-* [Presidential Elections Realistic approaches matter more than ever](data/articles/presidential-elections-r.9f166547/README.md) `dailymirror.lk`
 * [Presidential Elections Realistic approaches matter more than ever](data/articles/presidential-elections-r.06eb3aca/README.md) `dailymirror.lk`
+* [Presidential Elections Realistic approaches matter more than ever](data/articles/presidential-elections-r.9f166547/README.md) `dailymirror.lk`
 * [Sajith Premadasa does not seem to have the experience or intellectual fortitude to lead the country out of economic trouble. As Thalatha fears,it may be a repetition of Gotabaya,if Sajith  Wins.](data/articles/sajith-premadasa-does-no.59ff621f/README.md) `dbsjeyaraj.com`
 * [Keep Strategy Simple](data/articles/keep-strategy-simple.bafc4ce1/README.md) `hbr.org`
 * [4 Warning Signs of Ethical Burnout on Your Team](data/articles/4-warning-signs-of-ethic.1346650e/README.md) `hbr.org`
@@ -124,8 +135,8 @@ Last Updated **2024-09-03 18:17:58**
 * [AI and the future of sex](data/articles/ai-and-the-future-of-sex.908af337/README.md) `technologyreview.com`
 * [Namal’s Challenge: Nationalism and Rajapaksa Legacy](data/articles/namal-s-challenge-nation.31bff21f/README.md) `dailymirror.lk`
 * [A note on Mangala Samaraweera](data/articles/a-note-on-mangala-samara.819b4e80/README.md) `dailymirror.lk`
-* [Ukraine’s new gamble: Taking the war to the Russians](data/articles/ukraine-s-new-gamble-tak.b58b3275/README.md) `dailymirror.lk`
 * [Ukraine’s new gamble: Taking the war to the Russians](data/articles/ukraine-s-new-gamble-tak.daf124ee/README.md) `dailymirror.lk`
+* [Ukraine’s new gamble: Taking the war to the Russians](data/articles/ukraine-s-new-gamble-tak.b58b3275/README.md) `dailymirror.lk`
 * [SC’s rights ruling and President’s ‘Hobson’s choice’ - EDITORIAL](data/articles/sc-s-rights-ruling-and-p.7f5e4fe7/README.md) `dailymirror.lk`
 * [SLIMFA forum explores media’s evolving role in elections amid digital revolution](data/articles/slimfa-forum-explores-me.f40d462a/README.md) `ft.lk`
 
@@ -173,8 +184,8 @@ Last Updated **2024-09-03 18:17:58**
 * [We finally have a definition for open-source AI](data/articles/we-finally-have-a-defini.4b241936/README.md) `technologyreview.com`
 * [Global Outlook: prospects for Europe amid elections and trade wars](data/articles/global-outlook-prospects.8c417ccd/README.md) `eiu.com`
 * [US election: its impact on Latin America](data/articles/us-election-its-impact-o.af4bb672/README.md) `eiu.com`
-* [Beyond gene-edited babies: the possible paths for tinkering with human evolution](data/articles/beyond-gene-edited-babie.767ce5db/README.md) `technologyreview.com`
 * [Want to understand the future of technology? Take a look at this one obscure metal.](data/articles/want-to-understand-the-f.34b7bb83/README.md) `technologyreview.com`
+* [Beyond gene-edited babies: the possible paths for tinkering with human evolution](data/articles/beyond-gene-edited-babie.767ce5db/README.md) `technologyreview.com`
 * [Will Gen Z Vote decide Sri Lanka’s next leader?](data/articles/will-gen-z-vote-decide-s.a4080b6d/README.md) `dailymirror.lk`
 * [Freeing the Balance Sheets of Banks: Sri Lanka needs an AMC](data/articles/freeing-the-balance-shee.ee25d9bb/README.md) `dailymirror.lk`
 * [The power of maintaining the spirit of nonviolence](data/articles/the-power-of-maintaining.360e9f10/README.md) `dailymirror.lk`
@@ -197,8 +208,8 @@ Last Updated **2024-09-03 18:17:58**
 
 ## 2024-08-20
 
-* [Economic crisis, policy choices, anti-incumbency shape  Lanka’s presidential race](data/articles/economic-crisis-policy-c.23f51241/README.md) `dailymirror.lk`
 * [Economic crisis, policy choices, anti-incumbency shape  Lanka’s presidential race](data/articles/economic-crisis-policy-c.b5de0cc4/README.md) `dailymirror.lk`
+* [Economic crisis, policy choices, anti-incumbency shape  Lanka’s presidential race](data/articles/economic-crisis-policy-c.23f51241/README.md) `dailymirror.lk`
 * [Lankan diplomat found guilty in Australia for ill-treating  domestic aid No diplomatic immunity for not paying minimum wages](data/articles/lankan-diplomat-found-gu.5914d17e/README.md) `dailymirror.lk`
 * [Troubled times worldwide and our presidential election](data/articles/troubled-times-worldwide.dae7f5ce/README.md) `dailymirror.lk`
 * [Research: How to Build Consensus Around a New Idea](data/articles/research-how-to-build-co.369bfab2/README.md) `hbr.org`
@@ -243,8 +254,8 @@ Last Updated **2024-09-03 18:17:58**
 * [Hardnosed businessman with the softest heartbeat  Harry Jayawardena Celebrates  82nd Birthday on  on 17th August 2024](data/articles/hardnosed-businessman-wi.905c70aa/README.md) `dbsjeyaraj.com`
 * [What Leaders Can Learn from Training Like an Olympic Archer](data/articles/what-leaders-can-learn-f.2edf8e6b/README.md) `hbr.org`
 * [When a New Hire Feels Like They Weren’t Your First Choice](data/articles/when-a-new-hire-feels-li.bc663c75/README.md) `hbr.org`
-* [Escaping Spotify’s algorithm](data/articles/escaping-spotify-s-algor.efbbe676/README.md) `technologyreview.com`
 * [How to break free of Spotify’s algorithm](data/articles/how-to-break-free-of-spo.efbbe676/README.md) `technologyreview.com`
+* [Escaping Spotify’s algorithm](data/articles/escaping-spotify-s-algor.efbbe676/README.md) `technologyreview.com`
 * [‘My next dream’s to conquer the highest points of the world’s seven corners” - Johann Peries](data/articles/my-next-dream-s-to-conq.881b8668/README.md) `dailymirror.lk`
 * [What’s next for drones](data/articles/what-s-next-for-drones.7fd9b370/README.md) `technologyreview.com`
 * [This researcher wants to replace your brain, little by little](data/articles/this-researcher-wants-to.a6cfde72/README.md) `technologyreview.com`
@@ -391,12 +402,12 @@ Last Updated **2024-09-03 18:17:58**
 * [The Race to Dominate Stablecoins](data/articles/the-race-to-dominate-sta.a2bf1a41/README.md) `hbr.org`
 * [Why Dropping the E in DEI Is a Mistake](data/articles/why-dropping-the-e-in-de.a1c2bb10/README.md) `hbr.org`
 * [Your future air conditioner might act like a battery](data/articles/your-future-air-conditio.1d7d230b/README.md) `technologyreview.com`
-* [“NO FOREIGN COUNTRY  IS FUNDING ME” “MY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.c16ac61f/README.md) `dailymirror.lk`
 * [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.84efaf0c/README.md) `dailymirror.lk`
 * [“No foreign country is funding me’’  “My visits to China and India were sponsored by those respective Governments” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.ec8b52c8/README.md) `dailymirror.lk`
+* [“NO FOREIGN COUNTRY  IS FUNDING ME” “MY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS” - Anura Kumara Dissanayake](data/articles/no-foreign-country-is-f.c16ac61f/README.md) `dailymirror.lk`
 * [Google is finally taking action to curb non-consensual deepfakes](data/articles/google-is-finally-taking.af3178ff/README.md) `technologyreview.com`
-* [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.5ae99215/README.md) `dailymirror.lk`
 * [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.fb3a8ab6/README.md) `dailymirror.lk`
+* [No law is perfect! Embracing Change:  The Economic Transformation Bill](data/articles/no-law-is-perfect-embrac.5ae99215/README.md) `dailymirror.lk`
 * [WAR CRIMINALS OR HEROES?  WE’VE HEARD THAT ONE BEFORE](data/articles/war-criminals-or-heroes.3c76b83e/README.md) `dailymirror.lk`
 * [SHADES OF  ‘ARAGALAYA’  AS RIOTS  SPREAD IN  BANGLADESH - EDITORIAL](data/articles/shades-of-aragalaya-as-r.fc310b8a/README.md) `dailymirror.lk`
 
@@ -408,8 +419,8 @@ Last Updated **2024-09-03 18:17:58**
 * [The Vibrant Culture of Saudi Arabia Today](data/articles/the-vibrant-culture-of-s.9214d544/README.md) `hbr.org`
 * [When Your Boss Suddenly Reduces Your Scope](data/articles/when-your-boss-suddenly.457e98eb/README.md) `hbr.org`
 * [How Companies Can Take a Global Approach to AI Ethics](data/articles/how-companies-can-take-a.82501993/README.md) `hbr.org`
-* [Hydrogen bikes are struggling to gain traction in China](data/articles/hydrogen-bikes-are-strug.85eaec8d/README.md) `technologyreview.com`
 * [We need to prepare for ‘addictive intelligence’](data/articles/we-need-to-prepare-for-a.d6eb4f27/README.md) `technologyreview.com`
+* [Hydrogen bikes are struggling to gain traction in China](data/articles/hydrogen-bikes-are-strug.85eaec8d/README.md) `technologyreview.com`
 * [‘Podi Hamuduruvo’, a treasure to Buddhists in SL and around the world](data/articles/podi-hamuduruvo-a-treas.e336dea0/README.md) `dailymirror.lk`
 * [Elections, renegotiations and IMF’s class politics](data/articles/elections-renegotiations.47edef69/README.md) `dailymirror.lk`
 * [Political parties, elections and addressing people’s needs - EDITORIAL](data/articles/political-parties-electi.02557105/README.md) `dailymirror.lk`
@@ -490,8 +501,8 @@ Last Updated **2024-09-03 18:17:58**
 * [Companies Need a New Approach to Investing This Election Year](data/articles/companies-need-a-new-app.f2024453/README.md) `hbr.org`
 * [Principles and proposals for political and constitutional reform for democracy: Part II](data/articles/principles-and-proposals.d5f77d19/README.md) `ft.lk`
 * [Green innovations for sustainability](data/articles/green-innovations-for-su.b83c48a6/README.md) `ft.lk`
-* [Amal Sanderatne: An appreciation](data/articles/amal-sanderatne-an-appre.bbdc6892/README.md) `ft.lk`
 * [Amal Sanderatne: An appreciation](data/articles/amal-sanderatne-an-appre.6f478376/README.md) `ft.lk`
+* [Amal Sanderatne: An appreciation](data/articles/amal-sanderatne-an-appre.bbdc6892/README.md) `ft.lk`
 * [Child’s guide to debt and debt restructuring: Part IV](data/articles/child-s-guide-to-debt-an.24b87b7e/README.md) `ft.lk`
 
 ## 2024-07-27
@@ -543,8 +554,8 @@ Last Updated **2024-09-03 18:17:58**
 * [8 Reasons Why Co-Leaders Fail](data/articles/8-reasons-why-co-leaders.2cacc05e/README.md) `hbr.org`
 * [Research: How Passion Can Backfire at Work](data/articles/research-how-passion-can.0b11f072/README.md) `hbr.org`
 * [Why Chinese companies are betting on open-source AI](data/articles/why-chinese-companies-ar.b38c9361/README.md) `technologyreview.com`
-* [Ranil Wickremesinghe: the pragmatic leadership during challenging times](data/articles/ranil-wickremesinghe-the.302efc82/README.md) `ft.lk`
 * [Ranil Wickremesinghe: the pragmatic leadership during challenging times](data/articles/ranil-wickremesinghe-the.81f822a4/README.md) `ft.lk`
+* [Ranil Wickremesinghe: the pragmatic leadership during challenging times](data/articles/ranil-wickremesinghe-the.302efc82/README.md) `ft.lk`
 * [Critical points for COPF review of proposed enactment of the Economic Transformation Bill](data/articles/critical-points-for-copf.3cd31284/README.md) `ft.lk`
 * [Operation Yukthiya, trade union action, and the stability state in Sri Lanka](data/articles/operation-yukthiya-trade.a971a855/README.md) `ft.lk`
 * [Sri Lanka caught in a constitutional quagmire](data/articles/sri-lanka-caught-in-a-co.69f14d1d/README.md) `ft.lk`
@@ -585,8 +596,8 @@ Last Updated **2024-09-03 18:17:58**
 * [Post-Aragalaya challenge to minorities](data/articles/post-aragalaya-challenge.96571ba2/README.md) `ft.lk`
 * [Launch of ‘Lawmaking in Dutch Sri Lanka’](data/articles/launch-of-lawmaking-in-d.a464106e/README.md) `ft.lk`
 * [Climate change and the role of communicators](data/articles/climate-change-and-the-r.515988e5/README.md) `ft.lk`
-* [How to Gracefully Decline a Networking Request](data/articles/how-to-gracefully-declin.89434680/README.md) `hbr.org`
 * [Physicians Need Better Data Management Systems to Improve Patient Care](data/articles/physicians-need-better-d.393b5d10/README.md) `hbr.org`
+* [How to Gracefully Decline a Networking Request](data/articles/how-to-gracefully-declin.89434680/README.md) `hbr.org`
 * [How India Can Fix Its Employment Crisis](data/articles/how-india-can-fix-its-em.eccb2a93/README.md) `hbr.org`
 * [Bringing Down the Temperature During Polarizing Times](data/articles/bringing-down-the-temper.330c2463/README.md) `hbr.org`
 * [The CEO’s Journey Is a 3-Act Play](data/articles/the-ceo-s-journey-is-a-3.ac7b1ee4/README.md) `hbr.org`
@@ -734,8 +745,8 @@ Last Updated **2024-09-03 18:17:58**
 * [How to Salvage a Useful Process That Isn’t Working Anymore](data/articles/how-to-salvage-a-useful.4323b859/README.md) `hbr.org`
 * [What are AI agents?](data/articles/what-are-ai-agents.ca707c92/README.md) `technologyreview.com`
 * [AI lie detectors are better than humans at spotting lies](data/articles/ai-lie-detectors-are-bet.3b5e7ddf/README.md) `technologyreview.com`
-* [Why parate is so hot these days](data/articles/why-parate-is-so-hot-the.2e539223/README.md) `ft.lk`
 * [Why parate is so hot these days](data/articles/why-parate-is-so-hot-the.f4a2a8a6/README.md) `ft.lk`
+* [Why parate is so hot these days](data/articles/why-parate-is-so-hot-the.2e539223/README.md) `ft.lk`
 * [Finance Ministry on Sri Lanka’s International Sovereign Bond Restructuring](data/articles/finance-ministry-on-sri.7d6eb042/README.md) `ft.lk`
 
 ## 2024-07-04
@@ -887,8 +898,8 @@ Last Updated **2024-09-03 18:17:58**
 * [World Bank says 80% of global population will experience slower growth than in pre-COVID decade](data/articles/world-bank-says-80-of-gl.1d894fab/README.md) `ft.lk`
 * [Taxation should be an investment people are making for current and future wellbeing](data/articles/taxation-should-be-an-in.95e8ce85/README.md) `ft.lk`
 * [Indo-Lanka unification, 13A, term-extension, and a ‘pioneering intellectual of nonalignment’](data/articles/indo-lanka-unification-1.5696138c/README.md) `ft.lk`
-* [Responding to Shantha Jayaratne’s bogus claims](data/articles/responding-to-shantha-ja.9be89b3a/README.md) `ft.lk`
 * [Responding to Shantha Jayaratne’s bogus claims](data/articles/responding-to-shantha-ja.1fd5748a/README.md) `ft.lk`
+* [Responding to Shantha Jayaratne’s bogus claims](data/articles/responding-to-shantha-ja.9be89b3a/README.md) `ft.lk`
 * [How generative AI could reinvent what it means to play](data/articles/how-generative-ai-could.aef660d6/README.md) `technologyreview.com`
 
 ## 2024-06-19
@@ -937,8 +948,8 @@ Last Updated **2024-09-03 18:17:58**
 
 * [How to Get Results Quickly After a Merger or Acquisition](data/articles/how-to-get-results-quick.3ac8a4dc/README.md) `hbr.org`
 * [Biotech companies are trying to make milk without cows](data/articles/biotech-companies-are-tr.938fc88e/README.md) `technologyreview.com`
-* [This London non-profit is now one of the biggest backers of geoengineering research](data/articles/this-london-non-profit-i.b3613071/README.md) `technologyreview.com`
 * [These board games want you to beat climate change](data/articles/these-board-games-want-y.23cfced6/README.md) `technologyreview.com`
+* [This London non-profit is now one of the biggest backers of geoengineering research](data/articles/this-london-non-profit-i.b3613071/README.md) `technologyreview.com`
 * [How to opt out of Meta’s AI training](data/articles/how-to-opt-out-of-meta-s.f4038cea/README.md) `technologyreview.com`
 
 ## 2024-06-13
@@ -962,8 +973,8 @@ Last Updated **2024-09-03 18:17:58**
 * [Leadership development – not a waste of time, energy and money when done right](data/articles/leadership-development-n.3a0b7e1a/README.md) `ft.lk`
 * [Proposed Economic Transformation Act: Will super-regulator put maritime sector in crisis?](data/articles/proposed-economic-transf.66e260d0/README.md) `ft.lk`
 * [Dr. Siri Kannangara: His healing and teaching remain within us](data/articles/dr-siri-kannangara-his-h.c749d7d5/README.md) `ft.lk`
-* [Sri Lanka’s struggle with election phobia](data/articles/sri-lanka-s-struggle-wit.e5ca2c8a/README.md) `ft.lk`
 * [Sri Lanka’s struggle with election phobia](data/articles/sri-lanka-s-struggle-wit.962a377d/README.md) `ft.lk`
+* [Sri Lanka’s struggle with election phobia](data/articles/sri-lanka-s-struggle-wit.e5ca2c8a/README.md) `ft.lk`
 * [Generative AI for Security: Harnessing Amazon Bedrock for Customer Impact](data/articles/generative-ai-for-securi.977aad62/README.md) `hbr.org`
 * [How to Get Your Team to Actually Speak Up](data/articles/how-to-get-your-team-to.9ea569a1/README.md) `hbr.org`
 * [Leaders Need to Reframe the Return-to-Office Conversation](data/articles/leaders-need-to-reframe.b7cd4c6e/README.md) `hbr.org`
@@ -1030,8 +1041,8 @@ Last Updated **2024-09-03 18:17:58**
 * [The Importance of Setting Boundaries with Your Mentor](data/articles/the-importance-of-settin.1a20e43c/README.md) `hbr.org`
 * [Onboarding New Employees in a Hybrid Workplace](data/articles/onboarding-new-employees.41cdc9c2/README.md) `hbr.org`
 * [Climate change monthly update: June 2024](data/articles/climate-change-monthly-u.6cbcaa2d/README.md) `eiu.com`
-* [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
 * [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.059e75ac/README.md) `ft.lk`
+* [‘Prosecutorial’ vs. ‘victim based’ approaches to accountability](data/articles/prosecutorial-vs-victim.7502e691/README.md) `ft.lk`
 * [Economic Transformation Bill: Finally, an opportunity to do things differently](data/articles/economic-transformation.0bdb675d/README.md) `ft.lk`
 * [Interventions of a freelance intellectual: A review of Dayan Jayatilleka’s selected writings](data/articles/interventions-of-a-freel.6762fdd3/README.md) `ft.lk`
 * [Are we ready to accept our migrants again?](data/articles/are-we-ready-to-accept-o.5bb673a0/README.md) `ft.lk`
@@ -1057,8 +1068,8 @@ Last Updated **2024-09-03 18:17:58**
 ## 2024-06-03
 
 * [Suspension of parate action: An overview](data/articles/suspension-of-parate-act.ab2a5dc0/README.md) `ft.lk`
-* [Inflation on what horizon?](data/articles/inflation-on-what-horizo.eeebce9f/README.md) `ft.lk`
 * [Inflation on what horizon?](data/articles/inflation-on-what-horizo.84f23bbc/README.md) `ft.lk`
+* [Inflation on what horizon?](data/articles/inflation-on-what-horizo.eeebce9f/README.md) `ft.lk`
 * [Postponing elections: Are there limits to popular sovereignty?](data/articles/postponing-elections-are.72609ff9/README.md) `ft.lk`
 * [Postponing elections: Are there limits to popular sovereignty?](data/articles/postponing-elections-are.8019599d/README.md) `ft.lk`
 * [Sajith Premadasa’s leadership qualities: A critique](data/articles/sajith-premadasa-s-leade.36527e64/README.md) `ft.lk`
@@ -1082,9 +1093,9 @@ Last Updated **2024-09-03 18:17:58**
 * [The Six Face(t)s of  CWC Chief Arumugan “Thamby” Thondaman](data/articles/the-six-face-t-s-of-cwc.70b0ac47/README.md) `dbsjeyaraj.com`
 * [Climate change and human health](data/articles/climate-change-and-human.0d0576dc/README.md) `ft.lk`
 * [700,000 houses for low income households and financing plan](data/articles/700-000-houses-for-low-i.bdde1ac9/README.md) `ft.lk`
-* [Range Bandara’s   “Loud Thinking” and Ranil’s election campaign](data/articles/range-bandara-s-loud-thi.ae3b64a7/README.md) `dailymirror.lk`
-* [Referendum to extend President’s term: Is it ploy to avoid election defeat?](data/articles/referendum-to-extend-pre.fe67946d/README.md) `dailymirror.lk`
 * [Red herrings, referendums, poverty and postponing elections](data/articles/red-herrings-referendums.fc270172/README.md) `dailymirror.lk`
+* [Referendum to extend President’s term: Is it ploy to avoid election defeat?](data/articles/referendum-to-extend-pre.fe67946d/README.md) `dailymirror.lk`
+* [Range Bandara’s   “Loud Thinking” and Ranil’s election campaign](data/articles/range-bandara-s-loud-thi.ae3b64a7/README.md) `dailymirror.lk`
 
 ## 2024-05-31
 
@@ -1101,9 +1112,9 @@ Last Updated **2024-09-03 18:17:58**
 * [Governance all the way down](data/articles/governance-all-the-way-d.abb81097/README.md) `ft.lk`
 * [“VFS” the whole lot](data/articles/vfs-the-whole-lot.12de59b4/README.md) `ft.lk`
 * [Quo Vadis (Where are you going) Sri Lanka?](data/articles/quo-vadis-where-are-you.3433eb2e/README.md) `ft.lk`
-* [The US,  Zionism and moral depravity](data/articles/the-us-zionism-and-moral.3dc3147b/README.md) `dailymirror.lk`
 * [Lies used in the name of transforming a nation](data/articles/lies-used-in-the-name-of.e1276bde/README.md) `dailymirror.lk`
 * [Matara hospital rocks parents’ world misplacing stillborn](data/articles/matara-hospital-rocks-pa.353764b5/README.md) `dailymirror.lk`
+* [The US,  Zionism and moral depravity](data/articles/the-us-zionism-and-moral.3dc3147b/README.md) `dailymirror.lk`
 
 ## 2024-05-30
 
@@ -1115,9 +1126,9 @@ Last Updated **2024-09-03 18:17:58**
 * [How transparency and competitive bidding could have averted VFS visa fiasco](data/articles/how-transparency-and-com.1ff9ce94/README.md) `ft.lk`
 * [SAARC and beyond: Sri Lanka’s quest for regional tourism integration](data/articles/saarc-and-beyond-sri-lan.6227ab32/README.md) `ft.lk`
 * [World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry](data/articles/world-no-tobacco-day-cal.875bf238/README.md) `dailymirror.lk`
-* [Why are boys falling behind in education and what can we do about it?](data/articles/why-are-boys-falling-beh.4de96379/README.md) `dailymirror.lk`
 * [The generation that can make peace with the land](data/articles/the-generation-that-can.6b78e1ae/README.md) `dailymirror.lk`
 * [Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS](data/articles/unlocking-economic-growt.1b773504/README.md) `dailymirror.lk`
+* [Why are boys falling behind in education and what can we do about it?](data/articles/why-are-boys-falling-beh.4de96379/README.md) `dailymirror.lk`
 
 ## 2024-05-29
 
@@ -1127,8 +1138,8 @@ Last Updated **2024-09-03 18:17:58**
 * [M&A Should Be Transformational — Not Transactional](data/articles/m-a-should-be-transforma.595b31bf/README.md) `hbr.org`
 * [What to Know About Starting Your Career Remotely](data/articles/what-to-know-about-start.f2e7c137/README.md) `hbr.org`
 * [♬ P. Leela, ‘Forgotten’ Singer Who Sang Unforgettable  Songs In Tamil Cinema ♥](data/articles/p-leela-forgotten-singe.17fe99a7/README.md) `dbsjeyaraj.com`
-* [Is the Swiss auction legally valid?](data/articles/is-the-swiss-auction-leg.cce2266c/README.md) `ft.lk`
 * [Is the Swiss auction legally valid?](data/articles/is-the-swiss-auction-leg.3a3b9943/README.md) `ft.lk`
+* [Is the Swiss auction legally valid?](data/articles/is-the-swiss-auction-leg.cce2266c/README.md) `ft.lk`
 * [Tea and lack of empathy](data/articles/tea-and-lack-of-empathy.b4b9148b/README.md) `dailymirror.lk`
 * [From three-wheeler drivers to beach boys: Sri Lanka’s workforce transformation](data/articles/from-three-wheeler-drive.97170999/README.md) `dailymirror.lk`
 * [Corporate head office – creator or destroyer of value in a conglomerate](data/articles/corporate-head-office-cr.5aaf986c/README.md) `ft.lk`
@@ -1168,10 +1179,10 @@ Last Updated **2024-09-03 18:17:58**
 ## 2024-05-25
 
 * [Poverty of Hope Among Sri Lankan Tamils due to Widespread Economic Misery Compounded by the 2022 Financial Crisis and a Fractured Tamil Polity](data/articles/poverty-of-hope-among-sr.63770663/README.md) `dbsjeyaraj.com`
-* [God won’t change your destiny until you change yourself](data/articles/god-won-t-change-your-de.3463c633/README.md) `dailymirror.lk`
-* [Tragedy and farce on a day of mourning](data/articles/tragedy-and-farce-on-a-d.34099509/README.md) `dailymirror.lk`
 * [Sajith-Anura Debate, that never happened](data/articles/sajith-anura-debate-that.64f5f919/README.md) `dailymirror.lk`
 * [Commemoration of war victims-celebrations and harassment](data/articles/commemoration-of-war-vic.e4479cd3/README.md) `dailymirror.lk`
+* [Tragedy and farce on a day of mourning](data/articles/tragedy-and-farce-on-a-d.34099509/README.md) `dailymirror.lk`
+* [God won’t change your destiny until you change yourself](data/articles/god-won-t-change-your-de.3463c633/README.md) `dailymirror.lk`
 
 ## 2024-05-24
 
@@ -1194,8 +1205,8 @@ Last Updated **2024-09-03 18:17:58**
 * [Noise-canceling headphones use AI to let a single voice through](data/articles/noise-canceling-headphon.0dd67078/README.md) `technologyreview.com`
 * [Palestinian holocaust: The oppressed has become the oppressor](data/articles/palestinian-holocaust-th.626f8506/README.md) `ft.lk`
 * [Economic Transformation Bill, political transformation effects and Lanka’s legitimate war](data/articles/economic-transformation.10f318d5/README.md) `ft.lk`
-* [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.6b9d1e87/README.md) `ft.lk`
 * [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.0acd4f94/README.md) `ft.lk`
+* [Buddhist meditation for tech savvy generation](data/articles/buddhist-meditation-for.6b9d1e87/README.md) `ft.lk`
 * [Travelling on politics’ rough sea needs grooming](data/articles/travelling-on-politics-r.6c005723/README.md) `dailymirror.lk`
 * [Vesak:  AlpachCHathawaya and moment-to-moment living - EDITORIAL](data/articles/vesak-alpachchathawaya-a.2fe72d7a/README.md) `dailymirror.lk`
 
