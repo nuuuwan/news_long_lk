@@ -2,16 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-05 06:25:07**
+Last Updated **2024-09-05 18:18:20**
 
 ## 2024-09-05
 
+* [When a Coworker You Don’t Like Becomes Your Boss](data/articles/when-a-coworker-you-don.05edf882/README.md) `hbr.org`
+* [EIU strengthens leadership team and names Constance Hunter as chief economist](data/articles/eiu-strengthens-leadersh.81d2910e/README.md) `eiu.com`
+* [New Alliance named Podujana Eksath Nidahas Peramuna (PENP) formed to Support Ranil Wickremesinghe at elections with Prime Minister Dinesh Gunewardena as President and Dr.Ramesh Pathirana as Secretary](data/articles/new-alliance-named-poduj.71542324/README.md) `dbsjeyaraj.com`
 * [Reasons I recommend Sajith, not Anura or Ranil, for President](data/articles/reasons-i-recommend-saji.0b03ffbc/README.md) `ft.lk`
 * [Financing election promises](data/articles/financing-election-promi.d6d8e792/README.md) `ft.lk`
 * [ODI’s “From debt default to transformative growth?”: An alternative view](data/articles/odi-s-from-debt-default.32f0dedc/README.md) `ft.lk`
 * [Misleading the Tamils on devolution](data/articles/misleading-the-tamils-on.ec39eafb/README.md) `dailymirror.lk`
 * [A Rational Structure of Government–Who Is Offering It?](data/articles/a-rational-structure-of.888583f3/README.md) `dailymirror.lk`
 * [Spreading the spirit of charity through works of Mother Teresa](data/articles/spreading-the-spirit-of.f0190fe4/README.md) `dailymirror.lk`
+* [Governance is second, building economy  comes first President Wickremesinghe](data/articles/governance-is-second-bui.452298b6/README.md) `dailymirror.lk`
 * [Governance is second, building economy  comes first President Wickremesinghe](data/articles/governance-is-second-bui.a2903ca0/README.md) `dailymirror.lk`
 
 ## 2024-09-04
@@ -23,6 +27,7 @@ Last Updated **2024-09-05 06:25:07**
 * [Research: When Bonuses Backfire](data/articles/research-when-bonuses-ba.772ebf1e/README.md) `hbr.org`
 * [Voter perceptions and electoral winds](data/articles/voter-perceptions-and-el.07bede13/README.md) `ft.lk`
 * [The awakening](data/articles/the-awakening.8d6246e1/README.md) `ft.lk`
+* [The UK is building an alarm system for climate tipping points](data/articles/the-uk-is-building-an-al.aef7d682/README.md) `technologyreview.com`
 * [What would Happen to Sri Lanka if Anura Kumara Dissanayake Wins the  2024 Presidential Election  and the JVP Forms the Next Government?](data/articles/what-would-happen-to-sri.f9ff730e/README.md) `dbsjeyaraj.com`
 * [Dreamworld politics is easy. But it is important for the Tamil people today to think about a practical approach.](data/articles/dreamworld-politics-is-e.b2ea8f38/README.md) `dbsjeyaraj.com`
 
@@ -50,6 +55,7 @@ Last Updated **2024-09-05 06:25:07**
 * [ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளரும் தமிழர் அரசியலின் எதிர்காலமும்](data/articles/ஜன-த-பத-த-ர-தல-ல-தம-ழ-ப.f80314a0/README.md) `dbsjeyaraj.com`
 * [How to Explain Job Hopping in an Interview](data/articles/how-to-explain-job-hoppi.551cbb37/README.md) `hbr.org`
 * [The HBR Guide to Standing Out in an Interview](data/articles/the-hbr-guide-to-standin.b8efb6bd/README.md) `hbr.org`
+* [How “personhood credentials” could help prove you’re a human online](data/articles/how-personhood-credentia.e2926193/README.md) `technologyreview.com`
 * [The race to replace the powerful greenhouse gas that underpins the power grid](data/articles/the-race-to-replace-the.79f7a445/README.md) `technologyreview.com`
 * [73 year-old SLFP swallowed by SJB, UNP](data/articles/73-year-old-slfp-swallow.29e346e6/README.md) `dailymirror.lk`
 * [Mass Protests  – Role of the Deep State and the Fifth Estate](data/articles/mass-protests-role-of-th.76986e78/README.md) `dailymirror.lk`
