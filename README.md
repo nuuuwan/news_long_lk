@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-06 06:24:35**
+Last Updated **2024-09-06 18:17:37**
 
 ## 2024-09-06
 
+* [How to Lead Like a Coach](data/articles/how-to-lead-like-a-coach.c52cd24b/README.md) `hbr.org`
 * [Vehicle import companies, ministers deny Rs 53,867 Mn  worth taxes to Govt.](data/articles/vehicle-import-companies.d3751fec/README.md) `dailymirror.lk`
 * [The swing voter dilemma: Lies, damn lies and elections](data/articles/the-swing-voter-dilemma.91081fc6/README.md) `dailymirror.lk`
 * [Leaders are recognised, not discovered! - EDITORIAL](data/articles/leaders-are-recognised-n.67e7fa23/README.md) `dailymirror.lk`
@@ -22,6 +23,7 @@ Last Updated **2024-09-06 06:24:35**
 * [EIU strengthens leadership team and names Constance Hunter as chief economist](data/articles/eiu-strengthens-leadersh.81d2910e/README.md) `eiu.com`
 * [New Alliance named Podujana Eksath Nidahas Peramuna (PENP) formed to Support Ranil Wickremesinghe at elections with Prime Minister Dinesh Gunewardena as President and Dr.Ramesh Pathirana as Secretary](data/articles/new-alliance-named-poduj.71542324/README.md) `dbsjeyaraj.com`
 * [Reasons I recommend Sajith, not Anura or Ranil, for President](data/articles/reasons-i-recommend-saji.0b03ffbc/README.md) `ft.lk`
+* [A brief guide to the greenhouse gases driving climate change](data/articles/a-brief-guide-to-the-gre.53116f12/README.md) `technologyreview.com`
 * [Financing election promises](data/articles/financing-election-promi.d6d8e792/README.md) `ft.lk`
 * [ODI’s “From debt default to transformative growth?”: An alternative view](data/articles/odi-s-from-debt-default.32f0dedc/README.md) `ft.lk`
 * [Misleading the Tamils on devolution](data/articles/misleading-the-tamils-on.ec39eafb/README.md) `dailymirror.lk`
@@ -56,6 +58,7 @@ Last Updated **2024-09-06 06:24:35**
 * [Coming soon: Our 2024 list of Innovators Under 35](data/articles/coming-soon-our-2024-lis.ca356202/README.md) `technologyreview.com`
 * [The other three candidates come with serious, troubled pasts, I do not  - Namal](data/articles/the-other-three-candidat.a8ed25ed/README.md) `dailymirror.lk`
 * [Here’s how ed-tech companies are pitching AI to teachers](data/articles/here-s-how-ed-tech-compa.bf72c77b/README.md) `technologyreview.com`
+* [AI’s impact on elections is being overblown](data/articles/ai-s-impact-on-elections.a4948561/README.md) `technologyreview.com`
 * [Kolkata doctor’s rape-murder: Is it just one pervert or a whole mafia?](data/articles/kolkata-doctor-s-rape-mu.36fff7c0/README.md) `dailymirror.lk`
 * [Why only Fowzie? -  EDITORIAL](data/articles/why-only-fowzie-editoria.06f6b46d/README.md) `dailymirror.lk`
 * [Independent economic entity must provide costings of election promises and their impact on economy](data/articles/independent-economic-ent.2eec1fe8/README.md) `ft.lk`

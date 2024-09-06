@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to Lead Like a Coach",
+    "url": "https://hbr.org/2024/09/how-to-lead-like-a-coach",
+    "ut": 1725604513.0,
+    "dir_path_unix": "data/articles/how-to-lead-like-a-coach.c52cd24b",
+    "time_str_formatted": "12:05 PM, Friday, September 06, 2024"
+  },
+  {
     "title": "Vehicle import companies, ministers deny Rs 53,867 Mn  worth taxes to Govt.",
     "url": "https://www.dailymirror.lk/plus/Vehicle-import-companies-ministers-deny-Rs-53-867-Mn-worth-taxes-to-Govt/352-291138",
     "ut": 1725579722.0,
@@ -89,6 +96,13 @@
     "ut": 1725496497.0,
     "dir_path_unix": "data/articles/reasons-i-recommend-saji.0b03ffbc",
     "time_str_formatted": "06:04 AM, Thursday, September 05, 2024"
+  },
+  {
+    "title": "A brief guide to the greenhouse gases driving climate change",
+    "url": "https://www.technologyreview.com/2024/09/05/1103654/greenhouse-gases-guide/",
+    "ut": 1725496200.0,
+    "dir_path_unix": "data/articles/a-brief-guide-to-the-gre.53116f12",
+    "time_str_formatted": "06:00 AM, Thursday, September 05, 2024"
   },
   {
     "title": "Financing election promises",
@@ -284,6 +298,13 @@
     "url": "https://www.technologyreview.com/2024/09/03/1103481/heres-how-ed-tech-companies-are-pitching-ai-to-teachers/",
     "ut": 1725319800.0,
     "dir_path_unix": "data/articles/here-s-how-ed-tech-compa.bf72c77b",
+    "time_str_formatted": "05:00 AM, Tuesday, September 03, 2024"
+  },
+  {
+    "title": "AI\u2019s impact on elections is being overblown",
+    "url": "https://www.technologyreview.com/2024/09/03/1103464/ai-impact-elections-overblown/",
+    "ut": 1725319800.0,
+    "dir_path_unix": "data/articles/ai-s-impact-on-elections.a4948561",
     "time_str_formatted": "05:00 AM, Tuesday, September 03, 2024"
   },
   {
