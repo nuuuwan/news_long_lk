@@ -1,5 +1,68 @@
 [
   {
+    "title": "Vehicle import companies, ministers deny Rs 53,867 Mn  worth taxes to Govt.",
+    "url": "https://www.dailymirror.lk/plus/Vehicle-import-companies-ministers-deny-Rs-53-867-Mn-worth-taxes-to-Govt/352-291138",
+    "ut": 1725579722.0,
+    "dir_path_unix": "data/articles/vehicle-import-companies.d3751fec",
+    "time_str_formatted": "05:12 AM, Friday, September 06, 2024"
+  },
+  {
+    "title": "The swing voter dilemma: Lies, damn lies and elections",
+    "url": "https://www.dailymirror.lk/opinion/The-swing-voter-dilemma-Lies-damn-lies-and-elections/172-291137",
+    "ut": 1725579030.0,
+    "dir_path_unix": "data/articles/the-swing-voter-dilemma.91081fc6",
+    "time_str_formatted": "05:00 AM, Friday, September 06, 2024"
+  },
+  {
+    "title": "Leaders are recognised, not discovered! - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Leaders-are-recognised-not-discovered-EDITORIAL/172-291136",
+    "ut": 1725578617.0,
+    "dir_path_unix": "data/articles/leaders-are-recognised-n.67e7fa23",
+    "time_str_formatted": "04:53 AM, Friday, September 06, 2024"
+  },
+  {
+    "title": "Manifestos compared in terms of potential to bring back queues and shortages",
+    "url": "https://www.ft.lk/columns/Manifestos-compared-in-terms-of-potential-to-bring-back-queues-and-shortages/4-766425",
+    "ut": 1725570267.0,
+    "dir_path_unix": "data/articles/manifestos-compared-in-t.36ec2bff",
+    "time_str_formatted": "02:34 AM, Friday, September 06, 2024"
+  },
+  {
+    "title": "Beyond recovery: new book offers Sri Lanka a roadmap to economic transformation",
+    "url": "https://www.ft.lk/opinion/Beyond-recovery-new-book-offers-Sri-Lanka-a-roadmap-to-economic-transformation/14-766424",
+    "ut": 1725569986.0,
+    "dir_path_unix": "data/articles/beyond-recovery-new-book.0866ff35",
+    "time_str_formatted": "02:29 AM, Friday, September 06, 2024"
+  },
+  {
+    "title": "Sri Lanka\u2019s economy needs stability and continuity",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-economy-needs-stability-and-continuity/4-766406",
+    "ut": 1725565852.0,
+    "dir_path_unix": "data/articles/sri-lanka-s-economy-need.8ce905cc",
+    "time_str_formatted": "01:20 AM, Friday, September 06, 2024"
+  },
+  {
+    "title": "Elections, finally",
+    "url": "https://www.ft.lk/opinion/Elections-finally/14-766405",
+    "ut": 1725565560.0,
+    "dir_path_unix": "data/articles/elections-finally.ec246d9a",
+    "time_str_formatted": "01:16 AM, Friday, September 06, 2024"
+  },
+  {
+    "title": "4 Pillars of Innovation Every Organization Needs",
+    "url": "https://hbr.org/2024/09/4-pillars-of-innovation-every-organization-needs",
+    "ut": 1725519358.0,
+    "dir_path_unix": "data/articles/4-pillars-of-innovation.293db6f0",
+    "time_str_formatted": "12:25 PM, Thursday, September 05, 2024"
+  },
+  {
+    "title": "How to Support an Employee in Distress",
+    "url": "https://hbr.org/2024/09/how-to-support-an-employee-in-distress",
+    "ut": 1725518704.0,
+    "dir_path_unix": "data/articles/how-to-support-an-employ.beea1a00",
+    "time_str_formatted": "12:15 PM, Thursday, September 05, 2024"
+  },
+  {
     "title": "When a Coworker You Don\u2019t Like Becomes Your Boss",
     "url": "https://hbr.org/2024/09/when-a-coworker-you-dont-like-becomes-your-boss",
     "ut": 1725518120.0,
@@ -75,6 +138,13 @@
     "ut": 1725476964.0,
     "dir_path_unix": "data/articles/governance-is-second-bui.a2903ca0",
     "time_str_formatted": "12:39 AM, Thursday, September 05, 2024"
+  },
+  {
+    "title": "AI Has a Trust Problem. Here\u2019s How to Fix It.",
+    "url": "https://hbr.org/sponsored/2024/09/ai-has-a-trust-problem-heres-how-to-fix-it",
+    "ut": 1725449652.0,
+    "dir_path_unix": "data/articles/ai-has-a-trust-problem-h.4f76dba5",
+    "time_str_formatted": "05:04 PM, Wednesday, September 04, 2024"
   },
   {
     "title": "The Popular Way to Build Trusted Generative AI? RAG",

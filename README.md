@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-05 18:18:20**
+Last Updated **2024-09-06 06:24:35**
+
+## 2024-09-06
+
+* [Vehicle import companies, ministers deny Rs 53,867 Mn  worth taxes to Govt.](data/articles/vehicle-import-companies.d3751fec/README.md) `dailymirror.lk`
+* [The swing voter dilemma: Lies, damn lies and elections](data/articles/the-swing-voter-dilemma.91081fc6/README.md) `dailymirror.lk`
+* [Leaders are recognised, not discovered! - EDITORIAL](data/articles/leaders-are-recognised-n.67e7fa23/README.md) `dailymirror.lk`
+* [Manifestos compared in terms of potential to bring back queues and shortages](data/articles/manifestos-compared-in-t.36ec2bff/README.md) `ft.lk`
+* [Beyond recovery: new book offers Sri Lanka a roadmap to economic transformation](data/articles/beyond-recovery-new-book.0866ff35/README.md) `ft.lk`
+* [Sri Lanka’s economy needs stability and continuity](data/articles/sri-lanka-s-economy-need.8ce905cc/README.md) `ft.lk`
+* [Elections, finally](data/articles/elections-finally.ec246d9a/README.md) `ft.lk`
 
 ## 2024-09-05
 
+* [4 Pillars of Innovation Every Organization Needs](data/articles/4-pillars-of-innovation.293db6f0/README.md) `hbr.org`
+* [How to Support an Employee in Distress](data/articles/how-to-support-an-employ.beea1a00/README.md) `hbr.org`
 * [When a Coworker You Don’t Like Becomes Your Boss](data/articles/when-a-coworker-you-don.05edf882/README.md) `hbr.org`
 * [EIU strengthens leadership team and names Constance Hunter as chief economist](data/articles/eiu-strengthens-leadersh.81d2910e/README.md) `eiu.com`
 * [New Alliance named Podujana Eksath Nidahas Peramuna (PENP) formed to Support Ranil Wickremesinghe at elections with Prime Minister Dinesh Gunewardena as President and Dr.Ramesh Pathirana as Secretary](data/articles/new-alliance-named-poduj.71542324/README.md) `dbsjeyaraj.com`
@@ -20,6 +32,7 @@ Last Updated **2024-09-05 18:18:20**
 
 ## 2024-09-04
 
+* [AI Has a Trust Problem. Here’s How to Fix It.](data/articles/ai-has-a-trust-problem-h.4f76dba5/README.md) `hbr.org`
 * [The Popular Way to Build Trusted Generative AI? RAG](data/articles/the-popular-way-to-build.1efdb17a/README.md) `hbr.org`
 * [Video Quick Take: Unisys’ Brett Barton on Using AI to Implement Smart Solutions](data/articles/video-quick-take-unisys.89468812/README.md) `hbr.org`
 * [How to Regulate Generative AI in Health Care](data/articles/how-to-regulate-generati.1747bd97/README.md) `hbr.org`
