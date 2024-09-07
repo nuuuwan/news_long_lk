@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-07 06:40:38**
+Last Updated **2024-09-07 18:15:56**
 
 ## 2024-09-07
 
@@ -14,6 +14,7 @@ Last Updated **2024-09-07 06:40:38**
 
 * [Reading the riot act to and by the Red Brigade](data/articles/reading-the-riot-act-to.3c966bd4/README.md) `ft.lk`
 * [Should election manifestos be taken seriously?](data/articles/should-election-manifest.f6f2df67/README.md) `ft.lk`
+* [First national elections after the Aragalaya: Will Ranil join with Namal?](data/articles/first-national-elections.fcb99f87/README.md) `ft.lk`
 * [Roblox is launching a generative AI that builds 3D environments in a snap](data/articles/roblox-is-launching-a-ge.29d08d35/README.md) `technologyreview.com`
 * [When Weighing Job Offers, Consider More Than Just Salary](data/articles/when-weighing-job-offers.499d133d/README.md) `hbr.org`
 * [How to Lead Like a Coach](data/articles/how-to-lead-like-a-coach.c52cd24b/README.md) `hbr.org`
@@ -36,6 +37,7 @@ Last Updated **2024-09-07 06:40:38**
 * [A brief guide to the greenhouse gases driving climate change](data/articles/a-brief-guide-to-the-gre.53116f12/README.md) `technologyreview.com`
 * [Financing election promises](data/articles/financing-election-promi.d6d8e792/README.md) `ft.lk`
 * [ODI’s “From debt default to transformative growth?”: An alternative view](data/articles/odi-s-from-debt-default.32f0dedc/README.md) `ft.lk`
+* [The UK is set to join CPTPP](data/articles/the-uk-is-set-to-join-cp.158700e2/README.md) `eiu.com`
 * [Misleading the Tamils on devolution](data/articles/misleading-the-tamils-on.ec39eafb/README.md) `dailymirror.lk`
 * [A Rational Structure of Government–Who Is Offering It?](data/articles/a-rational-structure-of.888583f3/README.md) `dailymirror.lk`
 * [Spreading the spirit of charity through works of Mother Teresa](data/articles/spreading-the-spirit-of.f0190fe4/README.md) `dailymirror.lk`
