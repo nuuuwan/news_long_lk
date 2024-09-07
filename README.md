@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-06 18:17:37**
+Last Updated **2024-09-07 06:40:38**
+
+## 2024-09-07
+
+* [Who will get the bulk of Tamil votes in the 2024 Presidential Poll?](data/articles/who-will-get-the-bulk-of.c63ffc15/README.md) `dailymirror.lk`
+* [Sajith - Ariyanethiran clash over  Tamil votes](data/articles/sajith-ariyanethiran-cla.7591a60b/README.md) `dailymirror.lk`
+* [The culture of impunity, politicians and presidential elections](data/articles/the-culture-of-impunity.1bcb894d/README.md) `dailymirror.lk`
 
 ## 2024-09-06
 
+* [Reading the riot act to and by the Red Brigade](data/articles/reading-the-riot-act-to.3c966bd4/README.md) `ft.lk`
+* [Should election manifestos be taken seriously?](data/articles/should-election-manifest.f6f2df67/README.md) `ft.lk`
+* [Roblox is launching a generative AI that builds 3D environments in a snap](data/articles/roblox-is-launching-a-ge.29d08d35/README.md) `technologyreview.com`
+* [When Weighing Job Offers, Consider More Than Just Salary](data/articles/when-weighing-job-offers.499d133d/README.md) `hbr.org`
 * [How to Lead Like a Coach](data/articles/how-to-lead-like-a-coach.c52cd24b/README.md) `hbr.org`
 * [Vehicle import companies, ministers deny Rs 53,867 Mn  worth taxes to Govt.](data/articles/vehicle-import-companies.d3751fec/README.md) `dailymirror.lk`
 * [The swing voter dilemma: Lies, damn lies and elections](data/articles/the-swing-voter-dilemma.91081fc6/README.md) `dailymirror.lk`
