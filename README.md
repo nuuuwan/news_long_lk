@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-07 18:15:56**
+Last Updated **2024-09-08 06:24:36**
 
 ## 2024-09-07
 
@@ -16,6 +16,7 @@ Last Updated **2024-09-07 18:15:56**
 * [Should election manifestos be taken seriously?](data/articles/should-election-manifest.f6f2df67/README.md) `ft.lk`
 * [First national elections after the Aragalaya: Will Ranil join with Namal?](data/articles/first-national-elections.fcb99f87/README.md) `ft.lk`
 * [Roblox is launching a generative AI that builds 3D environments in a snap](data/articles/roblox-is-launching-a-ge.29d08d35/README.md) `technologyreview.com`
+* [To Incentivize Companies to Address Climate Change, Measure Their Broader Impact](data/articles/to-incentivize-companies.59a52d6e/README.md) `hbr.org`
 * [When Weighing Job Offers, Consider More Than Just Salary](data/articles/when-weighing-job-offers.499d133d/README.md) `hbr.org`
 * [How to Lead Like a Coach](data/articles/how-to-lead-like-a-coach.c52cd24b/README.md) `hbr.org`
 * [Vehicle import companies, ministers deny Rs 53,867 Mn  worth taxes to Govt.](data/articles/vehicle-import-companies.d3751fec/README.md) `dailymirror.lk`
