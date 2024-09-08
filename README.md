@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-08 06:24:36**
+Last Updated **2024-09-08 18:16:05**
 
 ## 2024-09-07
 
+* [Ranil or Sajith? Who will get  the  Bulk of Tamil Votes  in the 2024 Presidential  Poll?](data/articles/ranil-or-sajith-who-will.bdb97255/README.md) `dbsjeyaraj.com`
 * [Who will get the bulk of Tamil votes in the 2024 Presidential Poll?](data/articles/who-will-get-the-bulk-of.c63ffc15/README.md) `dailymirror.lk`
 * [Sajith - Ariyanethiran clash over  Tamil votes](data/articles/sajith-ariyanethiran-cla.7591a60b/README.md) `dailymirror.lk`
 * [The culture of impunity, politicians and presidential elections](data/articles/the-culture-of-impunity.1bcb894d/README.md) `dailymirror.lk`
