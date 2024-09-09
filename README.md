@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-08 18:16:05**
+Last Updated **2024-09-09 06:24:51**
+
+## 2024-09-09
+
+* [Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera](data/articles/sri-lanka-has-a-black-ec.2e8cc147/README.md) `dailymirror.lk`
+* [Voter’s Dilemma: Revolutionary Change or Economic Foresight?](data/articles/voter-s-dilemma-revoluti.68dfe289/README.md) `dailymirror.lk`
+* [Sudan: A tragedy caused by two ruthless generals](data/articles/sudan-a-tragedy-caused-b.c0d3607b/README.md) `dailymirror.lk`
+* [To hell or heaven, we need a passport! -  EDITORIAL](data/articles/to-hell-or-heaven-we-nee.f19e51a6/README.md) `dailymirror.lk`
+* [Tribute to Baba](data/articles/tribute-to-baba.fedf1cbe/README.md) `ft.lk`
+* [Voters: Don’t fall for stories created to influence your voting decisions](data/articles/voters-don-t-fall-for-st.4472aca7/README.md) `ft.lk`
+* [Scramble for Muslim votes](data/articles/scramble-for-muslim-vote.e4886d6d/README.md) `ft.lk`
+* [Expats’ voting rights: Why Dr. Rajitha Senaratne is wrong](data/articles/expats-voting-rights-why.3c0074bf/README.md) `ft.lk`
+* [UN Women marks decade of empowerment; highlights need to advance gender equality in Sri Lanka](data/articles/un-women-marks-decade-of.d34e1651/README.md) `ft.lk`
 
 ## 2024-09-07
 
