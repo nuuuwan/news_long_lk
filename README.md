@@ -2,11 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-09 06:24:51**
+Last Updated **2024-09-09 18:19:17**
 
 ## 2024-09-09
 
+* [How to Kickstart Your Post-Summer Career Development](data/articles/how-to-kickstart-your-po.0df73e1b/README.md) `hbr.org`
+* [India eyes stronger ties as Ajit Doval engages Sri Lanka’s political leaders before elections](data/articles/india-eyes-stronger-ties.66e90d49/README.md) `dailymirror.lk`
 * [Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera](data/articles/sri-lanka-has-a-black-ec.2e8cc147/README.md) `dailymirror.lk`
+* [Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera](data/articles/sri-lanka-has-a-black-ec.36d0b7f7/README.md) `dailymirror.lk`
 * [Voter’s Dilemma: Revolutionary Change or Economic Foresight?](data/articles/voter-s-dilemma-revoluti.68dfe289/README.md) `dailymirror.lk`
 * [Sudan: A tragedy caused by two ruthless generals](data/articles/sudan-a-tragedy-caused-b.c0d3607b/README.md) `dailymirror.lk`
 * [To hell or heaven, we need a passport! -  EDITORIAL](data/articles/to-hell-or-heaven-we-nee.f19e51a6/README.md) `dailymirror.lk`
@@ -34,6 +37,7 @@ Last Updated **2024-09-09 06:24:51**
 * [How to Lead Like a Coach](data/articles/how-to-lead-like-a-coach.c52cd24b/README.md) `hbr.org`
 * [Vehicle import companies, ministers deny Rs 53,867 Mn  worth taxes to Govt.](data/articles/vehicle-import-companies.d3751fec/README.md) `dailymirror.lk`
 * [The swing voter dilemma: Lies, damn lies and elections](data/articles/the-swing-voter-dilemma.91081fc6/README.md) `dailymirror.lk`
+* [How plants could mine metals from the soil](data/articles/how-plants-could-mine-me.a5a6fb21/README.md) `technologyreview.com`
 * [Leaders are recognised, not discovered! - EDITORIAL](data/articles/leaders-are-recognised-n.67e7fa23/README.md) `dailymirror.lk`
 * [Manifestos compared in terms of potential to bring back queues and shortages](data/articles/manifestos-compared-in-t.36ec2bff/README.md) `ft.lk`
 * [Beyond recovery: new book offers Sri Lanka a roadmap to economic transformation](data/articles/beyond-recovery-new-book.0866ff35/README.md) `ft.lk`
