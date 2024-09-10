@@ -1,5 +1,89 @@
 [
   {
+    "title": "2024 Innovator of the Year: Shawn Shan builds tools to help artists fight back against exploitative AI",
+    "url": "https://www.technologyreview.com/2024/09/10/1102936/innovator-year-shawn-shan-2024/",
+    "ut": 1725931800.0,
+    "dir_path_unix": "data/articles/2024-innovator-of-the-ye.c775f7a6",
+    "time_str_formatted": "07:00 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "Empowering Nations:The India-Sri Lanka HVDC Connection",
+    "url": "https://www.dailymirror.lk/hard-talk/Empowering-NationsThe-India-Sri-Lanka-HVDC-Connection/334-291374",
+    "ut": 1725918223.0,
+    "dir_path_unix": "data/articles/empowering-nations-the-i.98dbe221",
+    "time_str_formatted": "03:13 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "Capital punishment will not reduce rape, statistics show",
+    "url": "https://www.dailymirror.lk/opinion/Capital-punishment-will-not-reduce-rape-statistics-show/172-291373",
+    "ut": 1725916991.0,
+    "dir_path_unix": "data/articles/capital-punishment-will.79fa2c9e",
+    "time_str_formatted": "02:53 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "Election promises amid chaos and confusion of voting rules - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Election-promises-amid-chaos-and-confusion-of-voting-rules-EDITORIAL/172-291372",
+    "ut": 1725916230.0,
+    "dir_path_unix": "data/articles/election-promises-amid-c.5c144c43",
+    "time_str_formatted": "02:40 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "The system change we don\u2019t need",
+    "url": "https://www.ft.lk/columns/The-system-change-we-don-t-need/4-766547",
+    "ut": 1725911893.0,
+    "dir_path_unix": "data/articles/the-system-change-we-don.e13c8184",
+    "time_str_formatted": "01:28 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "Prefectships on sale at Royal College",
+    "url": "https://www.ft.lk/opinion/Prefectships-on-sale-at-Royal-College/14-766546",
+    "ut": 1725910610.0,
+    "dir_path_unix": "data/articles/prefectships-on-sale-at.fd58963d",
+    "time_str_formatted": "01:06 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "Economic crisis in Sri Lanka: Policy challenges for the new Government \u2013 Part 1",
+    "url": "https://www.ft.lk/opinion/Economic-crisis-in-Sri-Lanka-Policy-challenges-for-the-new-Government-Part-1/14-766539",
+    "ut": 1725908122.0,
+    "dir_path_unix": "data/articles/economic-crisis-in-sri-l.95c72458",
+    "time_str_formatted": "12:25 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "\u0bb0\u0ba3\u0bbf\u0bb2\u0bcd ,\u0b9a\u0b9c\u0bbf\u0ba4\u0bcd,  \u0b85\u0ba8\u0bc1\u0bb0 ? 2024 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0bae\u0b95\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bb3\u0bb5\u0bc1 \u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bc1\u0b95\u0bb3\u0bc8 \u0baf\u0bbe\u0bb0\u0bcd \u0baa\u0bc6\u0bb1\u0bc1\u0bb5\u0bbe\u0bb0\u0bcd?",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=84709",
+    "ut": 1725907376.0,
+    "dir_path_unix": "data/articles/\u0bb0\u0ba3-\u0bb2-\u0b9a\u0b9c-\u0ba4-\u0b85\u0ba8-\u0bb0-2024-\u0b9c\u0ba9-\u0ba4.e2047ed9",
+    "time_str_formatted": "12:12 AM, Tuesday, September 10, 2024"
+  },
+  {
+    "title": "Election promises likely to block road to economic recovery",
+    "url": "https://www.ft.lk/columns/Election-promises-likely-to-block-road-to-economic-recovery/4-766538",
+    "ut": 1725902090.0,
+    "dir_path_unix": "data/articles/election-promises-likely.c08a5aa9",
+    "time_str_formatted": "10:44 PM, Monday, September 09, 2024"
+  },
+  {
+    "title": "No forecast but identifying electoral trends",
+    "url": "https://www.ft.lk/columns/No-forecast-but-identifying-electoral-trends/4-766537",
+    "ut": 1725901589.0,
+    "dir_path_unix": "data/articles/no-forecast-but-identify.0f18f5b6",
+    "time_str_formatted": "10:36 PM, Monday, September 09, 2024"
+  },
+  {
+    "title": "Don\u2019t Make This Common Networking Mistake",
+    "url": "https://hbr.org/2024/09/dont-make-this-common-networking-mistake",
+    "ut": 1725864922.0,
+    "dir_path_unix": "data/articles/don-t-make-this-common-n.20f7be3a",
+    "time_str_formatted": "12:25 PM, Monday, September 09, 2024"
+  },
+  {
+    "title": "Why VCs Should Use Net Promoter Scores with Founders",
+    "url": "https://hbr.org/2024/09/why-vcs-should-use-net-promoter-scores-with-founders",
+    "ut": 1725864357.0,
+    "dir_path_unix": "data/articles/why-vcs-should-use-net-p.27413079",
+    "time_str_formatted": "12:15 PM, Monday, September 09, 2024"
+  },
+  {
     "title": "How to Kickstart Your Post-Summer Career Development",
     "url": "https://hbr.org/2024/09/how-to-kickstart-your-post-summer-career-development",
     "ut": 1725863757.0,
@@ -3652,6 +3736,13 @@
     "ut": 1721370927.0,
     "dir_path_unix": "data/articles/the-ceo-s-journey-is-a-3.ac7b1ee4",
     "time_str_formatted": "12:05 PM, Friday, July 19, 2024"
+  },
+  {
+    "title": "How to fix a Windows PC affected by the global outage",
+    "url": "https://www.technologyreview.com/2024/07/19/1095161/fix-windows-pc-microsoft-crowdstrike-outage/",
+    "ut": 1721363526.0,
+    "dir_path_unix": "data/articles/how-to-fix-a-windows-pc.a94faec4",
+    "time_str_formatted": "10:02 AM, Friday, July 19, 2024"
   },
   {
     "title": "False terrorism cases enable repression in SL: Human Rights Watch",

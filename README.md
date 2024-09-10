@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-09 18:19:17**
+Last Updated **2024-09-10 18:19:37**
+
+## 2024-09-10
+
+* [2024 Innovator of the Year: Shawn Shan builds tools to help artists fight back against exploitative AI](data/articles/2024-innovator-of-the-ye.c775f7a6/README.md) `technologyreview.com`
+* [Empowering Nations:The India-Sri Lanka HVDC Connection](data/articles/empowering-nations-the-i.98dbe221/README.md) `dailymirror.lk`
+* [Capital punishment will not reduce rape, statistics show](data/articles/capital-punishment-will.79fa2c9e/README.md) `dailymirror.lk`
+* [Election promises amid chaos and confusion of voting rules - EDITORIAL](data/articles/election-promises-amid-c.5c144c43/README.md) `dailymirror.lk`
+* [The system change we don’t need](data/articles/the-system-change-we-don.e13c8184/README.md) `ft.lk`
+* [Prefectships on sale at Royal College](data/articles/prefectships-on-sale-at.fd58963d/README.md) `ft.lk`
+* [Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 1](data/articles/economic-crisis-in-sri-l.95c72458/README.md) `ft.lk`
+* [ரணில் ,சஜித்,  அநுர ? 2024 ஜனாதிபதி தேர்தலில் தமிழ் மக்களின் பெருமளவு வாக்குகளை யார் பெறுவார்?](data/articles/ரண-ல-சஜ-த-அந-ர-2024-ஜன-த.e2047ed9/README.md) `dbsjeyaraj.com`
 
 ## 2024-09-09
 
+* [Election promises likely to block road to economic recovery](data/articles/election-promises-likely.c08a5aa9/README.md) `ft.lk`
+* [No forecast but identifying electoral trends](data/articles/no-forecast-but-identify.0f18f5b6/README.md) `ft.lk`
+* [Don’t Make This Common Networking Mistake](data/articles/don-t-make-this-common-n.20f7be3a/README.md) `hbr.org`
+* [Why VCs Should Use Net Promoter Scores with Founders](data/articles/why-vcs-should-use-net-p.27413079/README.md) `hbr.org`
 * [How to Kickstart Your Post-Summer Career Development](data/articles/how-to-kickstart-your-po.0df73e1b/README.md) `hbr.org`
 * [India eyes stronger ties as Ajit Doval engages Sri Lanka’s political leaders before elections](data/articles/india-eyes-stronger-ties.66e90d49/README.md) `dailymirror.lk`
 * [Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera](data/articles/sri-lanka-has-a-black-ec.2e8cc147/README.md) `dailymirror.lk`
@@ -672,6 +687,7 @@ Last Updated **2024-09-09 18:19:17**
 * [How India Can Fix Its Employment Crisis](data/articles/how-india-can-fix-its-em.eccb2a93/README.md) `hbr.org`
 * [Bringing Down the Temperature During Polarizing Times](data/articles/bringing-down-the-temper.330c2463/README.md) `hbr.org`
 * [The CEO’s Journey Is a 3-Act Play](data/articles/the-ceo-s-journey-is-a-3.ac7b1ee4/README.md) `hbr.org`
+* [How to fix a Windows PC affected by the global outage](data/articles/how-to-fix-a-windows-pc.a94faec4/README.md) `technologyreview.com`
 * [False terrorism cases enable repression in SL: Human Rights Watch](data/articles/false-terrorism-cases-en.c0c35203/README.md) `ft.lk`
 * [Open letter to Education Secretary](data/articles/open-letter-to-education.c4aec009/README.md) `ft.lk`
 * [Elections, voters and country risk](data/articles/elections-voters-and-cou.55c37c1c/README.md) `ft.lk`
