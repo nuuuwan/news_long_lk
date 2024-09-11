@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-10 18:19:37**
+Last Updated **2024-09-11 06:24:50**
+
+## 2024-09-11
+
+* [What if no candidate gets 50%+ votes at Sri Lanka’s next Presidential election?](data/articles/what-if-no-candidate-get.c7002eff/README.md) `ft.lk`
+* [Pitfalls of overtrading for SMEs](data/articles/pitfalls-of-overtrading.0b14fd8c/README.md) `ft.lk`
+* [Building a secure future: Key strategies for financial crime prevention in Sri Lanka](data/articles/building-a-secure-future.a8bd1345/README.md) `ft.lk`
 
 ## 2024-09-10
 
+* [Can punitive measures, stolen asset recovery end corruption?](data/articles/can-punitive-measures-st.77492206/README.md) `dailymirror.lk`
+* [Most important bloc vote: to whom would Gota’s 6.9 million votes go?](data/articles/most-important-bloc-vote.8a042619/README.md) `dailymirror.lk`
+* [Cricket lovely cricket and a good year for sports](data/articles/cricket-lovely-cricket-a.43e73689/README.md) `dailymirror.lk`
+* [How DEI Can Survive This Era of Backlash](data/articles/how-dei-can-survive-this.51dba73b/README.md) `hbr.org`
+* [4 Ways to Make a Connection with Your Interviewer](data/articles/4-ways-to-make-a-connect.fdfa8715/README.md) `hbr.org`
+* [Research: How to Delegate Decision-Making Strategically](data/articles/research-how-to-delegate.655d6eba/README.md) `hbr.org`
 * [2024 Innovator of the Year: Shawn Shan builds tools to help artists fight back against exploitative AI](data/articles/2024-innovator-of-the-ye.c775f7a6/README.md) `technologyreview.com`
 * [Empowering Nations:The India-Sri Lanka HVDC Connection](data/articles/empowering-nations-the-i.98dbe221/README.md) `dailymirror.lk`
 * [Capital punishment will not reduce rape, statistics show](data/articles/capital-punishment-will.79fa2c9e/README.md) `dailymirror.lk`
