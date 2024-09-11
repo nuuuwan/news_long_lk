@@ -2,13 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-11 06:24:50**
+Last Updated **2024-09-11 18:18:54**
 
 ## 2024-09-11
 
+* [Make Your Marketing a Force for Good](data/articles/make-your-marketing-a-fo.f409e7f4/README.md) `hbr.org`
+* [SL urges UNHRC to avoid politicisation, double standards, and focus on dire humanitarian situations](data/articles/sl-urges-unhrc-to-avoid.bc7022b7/README.md) `ft.lk`
+* [Call to balance domestic crises and competing regional superpowers](data/articles/call-to-balance-domestic.c21dffd0/README.md) `ft.lk`
+* [Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 2](data/articles/economic-crisis-in-sri-l.dc84aeb4/README.md) `ft.lk`
 * [What if no candidate gets 50%+ votes at Sri Lanka’s next Presidential election?](data/articles/what-if-no-candidate-get.c7002eff/README.md) `ft.lk`
 * [Pitfalls of overtrading for SMEs](data/articles/pitfalls-of-overtrading.0b14fd8c/README.md) `ft.lk`
 * [Building a secure future: Key strategies for financial crime prevention in Sri Lanka](data/articles/building-a-secure-future.a8bd1345/README.md) `ft.lk`
+* [Why a ruling against the Internet Archive threatens the future of America’s libraries](data/articles/why-a-ruling-against-the.6b918094/README.md) `technologyreview.com`
+* [Was Sajith Premadasa’s Spouse Jalani Premadasa Given a “Present Arms”Salute by the Sri Lanka Air Force at Palaly in Jaffna?](data/articles/was-sajith-premadasa-s-s.41172b64/README.md) `dbsjeyaraj.com`
+* [The 6.9 million voters who elected Gotabaya Rajapaksa. are the  group that can decide the 2024 election.Would they seek the continuation of political stability and economic reforms? Or would they opt for another  dangerous political gambl?e](data/articles/the-6-9-million-voters-w.5a2131d3/README.md) `dbsjeyaraj.com`
+* [National Peoples’ Power (NPP) candidate Anura Kumara Dissanayake’s proclamation that his party is the only ‘non-racist’ party and he is the only ‘non-racist’  Presidential Candidate  is a claim  that must be taken with  a whole sack full of skeptical salt.](data/articles/national-peoples-power-n.ea690daf/README.md) `dbsjeyaraj.com`
+* [President Ranil Wickremesinghe    believes, or expects others to believe, that the real contest in the presidential hustings is going to be between him and Anura Kumara Dissanayake.](data/articles/president-ranil-wickreme.cfd089c1/README.md) `dbsjeyaraj.com`
 
 ## 2024-09-10
 
