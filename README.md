@@ -2,21 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-12 06:25:07**
+Last Updated **2024-09-12 18:18:32**
 
 ## 2024-09-12
 
+* [Meet 2024’s climate innovators under 35](data/articles/meet-2024-s-climate-inno.b11c2acc/README.md) `technologyreview.com`
 * [Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 3](data/articles/economic-crisis-in-sri-l.a7f91c3e/README.md) `ft.lk`
 * [Congruence between compensation philosophy and generic strategy is key to staying competitive](data/articles/congruence-between-compe.eb927869/README.md) `ft.lk`
 * [His Glorious Honourable Excellency (Dr X 5) Chaminda Pusswedilla the 1st](data/articles/his-glorious-honourable.5d3dfd81/README.md) `ft.lk`
 * [Mixed bag for candidates on voting intent poll](data/articles/mixed-bag-for-candidates.e3cfcdab/README.md) `ft.lk`
 * [Anura against post-1977 economy, dodgy on devolution, can’t resolve crisis](data/articles/anura-against-post-1977.822f69e8/README.md) `ft.lk`
+* [2024 Presidential election is  “still open” but Incumbent President Ranil Wickremesinghe is  confident  of victory on the strength of his proven prowess , dynamic plan and implementation focus to deliver higher socio-economic growth.](data/articles/2024-presidential-electi.a8ea4a4e/README.md) `dbsjeyaraj.com`
 * [NCCSL advocates for a spiritual-political voting culture](data/articles/nccsl-advocates-for-a-sp.1d1fe9b8/README.md) `dailymirror.lk`
 * [Presidential Elections: A scholarship exam for Sri Lankan adults](data/articles/presidential-elections-a.82a1d1a4/README.md) `dailymirror.lk`
 * [Presidential poll: Need to restore the senate](data/articles/presidential-poll-need-t.79d1f347/README.md) `dailymirror.lk`
+* [Women’s representation and the future  of Sri Lankan politics](data/articles/women-s-representation-a.922fcdf0/README.md) `dailymirror.lk`
 
 ## 2024-09-11
 
+* [When Your New Boss Won’t Stop Making Hasty Decisions](data/articles/when-your-new-boss-won-t.ba49b08b/README.md) `hbr.org`
 * [How CEOs Are Using Gen AI for Strategic Planning](data/articles/how-ceos-are-using-gen-a.17a7f367/README.md) `hbr.org`
 * [Make Your Marketing a Force for Good](data/articles/make-your-marketing-a-fo.f409e7f4/README.md) `hbr.org`
 * [SL urges UNHRC to avoid politicisation, double standards, and focus on dire humanitarian situations](data/articles/sl-urges-unhrc-to-avoid.bc7022b7/README.md) `ft.lk`
@@ -55,6 +59,7 @@ Last Updated **2024-09-12 06:25:07**
 * [Don’t Make This Common Networking Mistake](data/articles/don-t-make-this-common-n.20f7be3a/README.md) `hbr.org`
 * [Why VCs Should Use Net Promoter Scores with Founders](data/articles/why-vcs-should-use-net-p.27413079/README.md) `hbr.org`
 * [How to Kickstart Your Post-Summer Career Development](data/articles/how-to-kickstart-your-po.0df73e1b/README.md) `hbr.org`
+* [To be more useful, robots need to become lazier](data/articles/to-be-more-useful-robots.8d256681/README.md) `technologyreview.com`
 * [India eyes stronger ties as Ajit Doval engages Sri Lanka’s political leaders before elections](data/articles/india-eyes-stronger-ties.66e90d49/README.md) `dailymirror.lk`
 * [Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera](data/articles/sri-lanka-has-a-black-ec.2e8cc147/README.md) `dailymirror.lk`
 * [Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera](data/articles/sri-lanka-has-a-black-ec.36d0b7f7/README.md) `dailymirror.lk`
