@@ -2,13 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-13 06:24:40**
+Last Updated **2024-09-13 18:17:56**
 
 ## 2024-09-13
 
+* [Why Loyalty Programs Fail](data/articles/why-loyalty-programs-fai.68656d3f/README.md) `hbr.org`
 * [Voting objectively on 21 September](data/articles/voting-objectively-on-21.1b184435/README.md) `ft.lk`
 * [Election promises: Where’s the money?](data/articles/election-promises-where.b63e4fa9/README.md) `ft.lk`
 * [Shallow manifestos and the 12-point economic challenge](data/articles/shallow-manifestos-and-t.43106115/README.md) `ft.lk`
+* [Neuroscientists and architects are using this enormous laboratory to make buildings better](data/articles/neuroscientists-and-arch.e571bc4b/README.md) `technologyreview.com`
 * [Presidenshel Elecshen Gide](data/articles/presidenshel-elecshen-gi.a8c90749/README.md) `ft.lk`
 * [Printing money to finance Government budget deficit](data/articles/printing-money-to-financ.902b03cf/README.md) `ft.lk`
 * [Candidates’ commitment to  combat corruption](data/articles/candidates-commitment-to.eb8e5049/README.md) `dailymirror.lk`
@@ -17,6 +19,7 @@ Last Updated **2024-09-13 06:24:40**
 ## 2024-09-12
 
 * [Chatbots can persuade people to stop believing in conspiracy theories](data/articles/chatbots-can-persuade-pe.08576696/README.md) `technologyreview.com`
+* [Research: For Influencers, Showing Your Inner Circle Can Boost Engagement](data/articles/research-for-influencers.1d70cab8/README.md) `hbr.org`
 * [To Build Resilience, CEOs Need to Become Supply-Chain Experts](data/articles/to-build-resilience-ceos.8495a014/README.md) `hbr.org`
 * [The Market Alone Can’t Fix the U.S. Housing Crisis](data/articles/the-market-alone-can-t-f.35d1f54d/README.md) `hbr.org`
 * [Meet 2024’s climate innovators under 35](data/articles/meet-2024-s-climate-inno.b11c2acc/README.md) `technologyreview.com`
@@ -43,6 +46,7 @@ Last Updated **2024-09-13 06:24:40**
 * [Pitfalls of overtrading for SMEs](data/articles/pitfalls-of-overtrading.0b14fd8c/README.md) `ft.lk`
 * [Building a secure future: Key strategies for financial crime prevention in Sri Lanka](data/articles/building-a-secure-future.a8bd1345/README.md) `ft.lk`
 * [Why a ruling against the Internet Archive threatens the future of America’s libraries](data/articles/why-a-ruling-against-the.6b918094/README.md) `technologyreview.com`
+* [Google says it’s made a quantum computing breakthrough that reduces errors](data/articles/google-says-it-s-made-a.38cd214d/README.md) `technologyreview.com`
 * [Was Sajith Premadasa’s Spouse Jalani Premadasa Given a “Present Arms”Salute by the Sri Lanka Air Force at Palaly in Jaffna?](data/articles/was-sajith-premadasa-s-s.41172b64/README.md) `dbsjeyaraj.com`
 * [The 6.9 million voters who elected Gotabaya Rajapaksa. are the  group that can decide the 2024 election.Would they seek the continuation of political stability and economic reforms? Or would they opt for another  dangerous political gambl?e](data/articles/the-6-9-million-voters-w.5a2131d3/README.md) `dbsjeyaraj.com`
 * [National Peoples’ Power (NPP) candidate Anura Kumara Dissanayake’s proclamation that his party is the only ‘non-racist’ party and he is the only ‘non-racist’  Presidential Candidate  is a claim  that must be taken with  a whole sack full of skeptical salt.](data/articles/national-peoples-power-n.ea690daf/README.md) `dbsjeyaraj.com`
