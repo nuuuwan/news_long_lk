@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-12 18:18:32**
+Last Updated **2024-09-13 06:24:40**
+
+## 2024-09-13
+
+* [Voting objectively on 21 September](data/articles/voting-objectively-on-21.1b184435/README.md) `ft.lk`
+* [Election promises: Where’s the money?](data/articles/election-promises-where.b63e4fa9/README.md) `ft.lk`
+* [Shallow manifestos and the 12-point economic challenge](data/articles/shallow-manifestos-and-t.43106115/README.md) `ft.lk`
+* [Presidenshel Elecshen Gide](data/articles/presidenshel-elecshen-gi.a8c90749/README.md) `ft.lk`
+* [Printing money to finance Government budget deficit](data/articles/printing-money-to-financ.902b03cf/README.md) `ft.lk`
+* [Candidates’ commitment to  combat corruption](data/articles/candidates-commitment-to.eb8e5049/README.md) `dailymirror.lk`
+* [Hey lawmakers; leave those kids alone! - EDITORIAL](data/articles/hey-lawmakers-leave-thos.6cc58458/README.md) `dailymirror.lk`
 
 ## 2024-09-12
 
+* [Chatbots can persuade people to stop believing in conspiracy theories](data/articles/chatbots-can-persuade-pe.08576696/README.md) `technologyreview.com`
+* [To Build Resilience, CEOs Need to Become Supply-Chain Experts](data/articles/to-build-resilience-ceos.8495a014/README.md) `hbr.org`
+* [The Market Alone Can’t Fix the U.S. Housing Crisis](data/articles/the-market-alone-can-t-f.35d1f54d/README.md) `hbr.org`
 * [Meet 2024’s climate innovators under 35](data/articles/meet-2024-s-climate-inno.b11c2acc/README.md) `technologyreview.com`
 * [Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 3](data/articles/economic-crisis-in-sri-l.a7f91c3e/README.md) `ft.lk`
 * [Congruence between compensation philosophy and generic strategy is key to staying competitive](data/articles/congruence-between-compe.eb927869/README.md) `ft.lk`
