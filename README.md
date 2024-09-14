@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-13 18:17:56**
+Last Updated **2024-09-14 06:24:51**
+
+## 2024-09-14
+
+* [Second preference vote is second round in Presidential election](data/articles/second-preference-vote-i.5fe751a4/README.md) `ft.lk`
+* [Yes, future of SL and its people was in our hands to shape for as long as 75 years](data/articles/yes-future-of-sl-and-its.77cf4c21/README.md) `ft.lk`
+* [Far horizons](data/articles/far-horizons.e3e6a448/README.md) `ft.lk`
+* [Promises may deceive, history proves credentials](data/articles/promises-may-deceive-his.b28fddb3/README.md) `dailymirror.lk`
+* [The sambar-achcharu crew contesting the presidential election](data/articles/the-sambar-achcharu-crew.64dadc5a/README.md) `dailymirror.lk`
+* [Why Ranil is so Confident of Winning the Presidential Election](data/articles/why-ranil-is-so-confiden.ba53d210/README.md) `dailymirror.lk`
+* [The race is not to the swift, nor neo-racism to the slick](data/articles/the-race-is-not-to-the-s.19cc2b45/README.md) `ft.lk`
 
 ## 2024-09-13
 
+* [Voters are confused about the unprecedented and unique scenario](data/articles/voters-are-confused-abou.8feaf80c/README.md) `ft.lk`
 * [Why Loyalty Programs Fail](data/articles/why-loyalty-programs-fai.68656d3f/README.md) `hbr.org`
 * [Voting objectively on 21 September](data/articles/voting-objectively-on-21.1b184435/README.md) `ft.lk`
 * [Election promises: Where’s the money?](data/articles/election-promises-where.b63e4fa9/README.md) `ft.lk`
