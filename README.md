@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-15 06:25:02**
+Last Updated **2024-09-15 18:17:41**
 
 ## 2024-09-14
 
+* [Why Ranil  Wickremesinghe  is  Supremely Confident of Winning the  2024 Presidential Election.](data/articles/why-ranil-wickremesinghe.a045f16e/README.md) `dbsjeyaraj.com`
 * [Second preference vote is second round in Presidential election](data/articles/second-preference-vote-i.5fe751a4/README.md) `ft.lk`
 * [Yes, future of SL and its people was in our hands to shape for as long as 75 years](data/articles/yes-future-of-sl-and-its.77cf4c21/README.md) `ft.lk`
 * [Far horizons](data/articles/far-horizons.e3e6a448/README.md) `ft.lk`
