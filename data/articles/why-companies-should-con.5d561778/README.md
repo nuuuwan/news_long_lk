@@ -1,0 +1,30 @@
+# Why Companies Should Consolidate Tech Roles in the C-Suite
+
+[https://hbr.org/2024/09/why-companies-should-consolidate-tech-roles-in-the-c-suite](https://hbr.org/2024/09/why-companies-should-consolidate-tech-roles-in-the-c-suite)
+
+*12:25 PM, Friday, September 13, 2024*
+
+Jorg Greuel/Getty Images
+
+Recently, some organizations have begun to recognize the downside of C-level proliferation and decided to consolidate senior technology and data roles. These individuals — referred to as “SuperTech” leaders — are most likely to be known as chief information officers, but they also have broad responsibility for data and technology functions, and many also have operational responsibilities within the business. Leaders of specialty tech and data functions (data, analytics, AI, cybersecurity) report to them. Establishing SuperTech leadership roles will bring clarity and accountability to organizations’ digital transformation initiatives.
+
+C-level technology roles have proliferated over the past few decades. Chief information officers first appeared in the early 1980s. Next, chief technology officers became common in high-tech firms, and then spread to other types of businesses. These roles were followed by chief information security officers, chief data officers, chief analytics officers, and chief digital officers. Most recently, chief artificial intelligence officers have appeared. Their numbers have greatly increased with the rise of generative AI over the past few years.
+
+Digital Intelligence  Course
+
+Accelerate your career with Harvard ManageMentor®. HBR Learning’s online leadership training helps you hone your skills with courses like Digital Intelligence . Earn badges to share on LinkedIn and your resume. Access more than 40 courses trusted by Fortune 500 companies.
+
+Excel in a world that's being continually transformed by technology.
+
+Learn More & See All Courses
+
+Read more on Technology and analytics
+
+Collaboration and teams,
+
+Digital transformation,
+
+Organizational decision making,
+
+Leadership and managing people
+
