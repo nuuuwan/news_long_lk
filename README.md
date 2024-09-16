@@ -2,13 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-16 06:24:32**
+Last Updated **2024-09-16 18:20:28**
 
 ## 2024-09-16
 
 * [Whoever it is, follow Ranil’s blueprint for stability](data/articles/whoever-it-is-follow-ran.b118db21/README.md) `dailymirror.lk`
 * [Elections, Classes and Minorities](data/articles/elections-classes-and-mi.43a968ad/README.md) `dailymirror.lk`
 * [2024 Presidential election -one like no other - EDITORIAL](data/articles/2024-presidential-electi.5ccaecc3/README.md) `dailymirror.lk`
+* [Racism plays no overt role in this election but racism is far from dead. It will raise its destructive head when this lot of dreams too turn into ashes and the new president begins the inevitable transformation from hero to villain.](data/articles/racism-plays-no-overt-ro.1a97394b/README.md) `dbsjeyaraj.com`
+* [All UNPers in SJB will vote for RW at the polls  -  Rosy Senanayake](data/articles/all-unpers-in-sjb-will-v.942c6481/README.md) `dailymirror.lk`
 * [All UNPers in SJB will vote for RW at the polls  -  Rosy Senanayake](data/articles/all-unpers-in-sjb-will-v.1b1b4730/README.md) `dailymirror.lk`
 
 ## 2024-09-14
@@ -61,6 +63,7 @@ Last Updated **2024-09-16 06:24:32**
 * [When Your New Boss Won’t Stop Making Hasty Decisions](data/articles/when-your-new-boss-won-t.ba49b08b/README.md) `hbr.org`
 * [How CEOs Are Using Gen AI for Strategic Planning](data/articles/how-ceos-are-using-gen-a.17a7f367/README.md) `hbr.org`
 * [Make Your Marketing a Force for Good](data/articles/make-your-marketing-a-fo.f409e7f4/README.md) `hbr.org`
+* [Harris takes upper hand in US presidential debate](data/articles/harris-takes-upper-hand.67d749ba/README.md) `eiu.com`
 * [SL urges UNHRC to avoid politicisation, double standards, and focus on dire humanitarian situations](data/articles/sl-urges-unhrc-to-avoid.bc7022b7/README.md) `ft.lk`
 * [Call to balance domestic crises and competing regional superpowers](data/articles/call-to-balance-domestic.c21dffd0/README.md) `ft.lk`
 * [Economic crisis in Sri Lanka: Policy challenges for the new Government – Part 2](data/articles/economic-crisis-in-sri-l.dc84aeb4/README.md) `ft.lk`
@@ -226,6 +229,7 @@ Last Updated **2024-09-16 06:24:32**
 * [Book detailing historic labour rights agreement launched](data/articles/book-detailing-historic.65a54a05/README.md) `ft.lk`
 * [HBR’s Most-Read Articles of 2024 (So Far)](data/articles/hbr-s-most-read-articles.2c77c2f4/README.md) `hbr.org`
 * [Why Companies Should Embrace Disruptive Climate Activism](data/articles/why-companies-should-emb.6493c565/README.md) `hbr.org`
+* [US GDP revision and flat inflation suggest soft landing](data/articles/us-gdp-revision-and-flat.0cea6f36/README.md) `eiu.com`
 * [A new way to build neural networks could make AI more understandable](data/articles/a-new-way-to-build-neura.9d5f09e4/README.md) `technologyreview.com`
 * [“Oddamavadi: The Untold Story” book debuts](data/articles/oddamavadi-the-untold-s.cd3eba32/README.md) `ft.lk`
 * [Rejection and ‘role morality’: Only way out of the abyss](data/articles/rejection-and-role-moral.df5d3d4d/README.md) `ft.lk`
