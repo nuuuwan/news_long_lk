@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-15 18:17:41**
+Last Updated **2024-09-16 06:24:32**
+
+## 2024-09-16
+
+* [Whoever it is, follow Ranil’s blueprint for stability](data/articles/whoever-it-is-follow-ran.b118db21/README.md) `dailymirror.lk`
+* [Elections, Classes and Minorities](data/articles/elections-classes-and-mi.43a968ad/README.md) `dailymirror.lk`
+* [2024 Presidential election -one like no other - EDITORIAL](data/articles/2024-presidential-electi.5ccaecc3/README.md) `dailymirror.lk`
+* [All UNPers in SJB will vote for RW at the polls  -  Rosy Senanayake](data/articles/all-unpers-in-sjb-will-v.1b1b4730/README.md) `dailymirror.lk`
 
 ## 2024-09-14
 
