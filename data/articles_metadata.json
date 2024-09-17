@@ -1,5 +1,96 @@
 [
   {
+    "title": "Presidenshel elecshen gide",
+    "url": "https://www.ft.lk/opinion/Presidenshel-elecshen-gide/14-766793",
+    "ut": 1726523108.0,
+    "dir_path_unix": "data/articles/presidenshel-elecshen-gi.8ed0e8bb",
+    "time_str_formatted": "03:15 AM, Tuesday, September 17, 2024"
+  },
+  {
+    "title": "Ukraine\u2019s Kursk gamble and the F16 crash mystery",
+    "url": "https://www.dailymirror.lk/opinion/Ukraines-Kursk-gamble-and-the-F16-crash-mystery/172-291830",
+    "ut": 1726521344.0,
+    "dir_path_unix": "data/articles/ukraine-s-kursk-gamble-a.e33775ff",
+    "time_str_formatted": "02:45 AM, Tuesday, September 17, 2024"
+  },
+  {
+    "title": "What is in store for people after polls?",
+    "url": "https://www.dailymirror.lk/opinion/What-is-in-store-for-people-after-polls/172-291829",
+    "ut": 1726521103.0,
+    "dir_path_unix": "data/articles/what-is-in-store-for-peo.613ce673",
+    "time_str_formatted": "02:41 AM, Tuesday, September 17, 2024"
+  },
+  {
+    "title": "\u201cThis could be the last democratic election in Sri Lanka\u201d Patali",
+    "url": "https://www.dailymirror.lk/opinion/This-could-be-the-last-democratic-election-in-Sri-Lanka-Patali/231-291828",
+    "ut": 1726520904.0,
+    "dir_path_unix": "data/articles/this-could-be-the-last.a19c0b7f",
+    "time_str_formatted": "02:38 AM, Tuesday, September 17, 2024"
+  },
+  {
+    "title": "SAJITH PREMADASA TO SET UP PRESIDENTIAL TASK FORCE TO TACKLE CHILD POVERTY",
+    "url": "https://www.dailymirror.lk/opinion/SAJITH-PREMADASA-TO-SET-UP-PRESIDENTIAL-TASK-FORCE-TO-TACKLE-CHILD-POVERTY/172-291827",
+    "ut": 1726520228.0,
+    "dir_path_unix": "data/articles/sajith-premadasa-to-set.6b829e4b",
+    "time_str_formatted": "02:27 AM, Tuesday, September 17, 2024"
+  },
+  {
+    "title": "Japan, a true friend",
+    "url": "https://www.ft.lk/columns/Japan-a-true-friend/4-766778",
+    "ut": 1726515498.0,
+    "dir_path_unix": "data/articles/japan-a-true-friend.dd2fe2b2",
+    "time_str_formatted": "01:08 AM, Tuesday, September 17, 2024"
+  },
+  {
+    "title": "Finance Ministry on Sri Lanka\u2019s external debt service payments",
+    "url": "https://www.ft.lk/opinion/Finance-Ministry-on-Sri-Lanka-s-external-debt-service-payments/14-766768",
+    "ut": 1726510085.0,
+    "dir_path_unix": "data/articles/finance-ministry-on-sri.5d3f2e73",
+    "time_str_formatted": "11:38 PM, Monday, September 16, 2024"
+  },
+  {
+    "title": "Leadership of President RW and AKD",
+    "url": "https://www.ft.lk/columns/Leadership-of-President-RW-and-AKD/4-766766",
+    "ut": 1726508412.0,
+    "dir_path_unix": "data/articles/leadership-of-president.8f29ec57",
+    "time_str_formatted": "11:10 PM, Monday, September 16, 2024"
+  },
+  {
+    "title": "Abolition of Executive Presidency: Voters\u2019 policy guide to 2024 Presidential election in 15 Q&As",
+    "url": "https://www.ft.lk/columns/Abolition-of-Executive-Presidency-Voters-policy-guide-to-2024-Presidential-election-in-15-Q-As/4-766765",
+    "ut": 1726507227.0,
+    "dir_path_unix": "data/articles/abolition-of-executive-p.b496b3f0",
+    "time_str_formatted": "10:50 PM, Monday, September 16, 2024"
+  },
+  {
+    "title": "Research: How Anxiety Shapes Men\u2019s and Women\u2019s Leadership Differently",
+    "url": "https://hbr.org/2024/09/research-how-anxiety-shapes-mens-and-womens-leadership-differently",
+    "ut": 1726469734.0,
+    "dir_path_unix": "data/articles/research-how-anxiety-sha.62400b2c",
+    "time_str_formatted": "12:25 PM, Monday, September 16, 2024"
+  },
+  {
+    "title": "How a Playful Mindset Can Boost Creativity on Your Team",
+    "url": "https://hbr.org/2024/09/how-a-playful-mindset-can-boost-creativity-on-your-team",
+    "ut": 1726469123.0,
+    "dir_path_unix": "data/articles/how-a-playful-mindset-ca.6df2e65d",
+    "time_str_formatted": "12:15 PM, Monday, September 16, 2024"
+  },
+  {
+    "title": "What 570 Experts Predict the Future of Work Will Look Like",
+    "url": "https://hbr.org/2024/09/what-570-experts-predict-the-future-of-work-will-look-like",
+    "ut": 1726468534.0,
+    "dir_path_unix": "data/articles/what-570-experts-predict.7737b3f7",
+    "time_str_formatted": "12:05 PM, Monday, September 16, 2024"
+  },
+  {
+    "title": "Why we need an AI safety hotline",
+    "url": "https://www.technologyreview.com/2024/09/16/1103959/why-we-need-an-ai-safety-hotline/",
+    "ut": 1726443000.0,
+    "dir_path_unix": "data/articles/why-we-need-an-ai-safety.61a61fdf",
+    "time_str_formatted": "05:00 AM, Monday, September 16, 2024"
+  },
+  {
     "title": "Whoever it is, follow Ranil\u2019s blueprint for stability",
     "url": "https://www.dailymirror.lk/opinion/Whoever-it-is-follow-Ranils-blueprint-for-stability/172-291792",
     "ut": 1726434365.0,

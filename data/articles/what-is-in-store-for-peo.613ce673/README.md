@@ -1,0 +1,22 @@
+# What is in store for people after polls?
+
+[https://www.dailymirror.lk/opinion/What-is-in-store-for-people-after-polls/172-291829](https://www.dailymirror.lk/opinion/What-is-in-store-for-people-after-polls/172-291829)
+
+*02:41 AM, Tuesday, September 17, 2024*
+
+Several of the promises thrown by the majority of the 38 candidates who will contest the Saturday’s Presidential election are irrelevant, as some of them are not meant to be kept while the others are not practical on the ground. Some of the plans and promises of some candidates seem to be good while the question remains as to how they are going to be materialised in a country with a bankrupt economy.
+
+Despite the chest-thumping of some politicians who boast that the economy that went bankrupt has recovered, only life has been eased with the absence of queues for fuel and cooking gas subsequent to inflow of foreign exchange through the new loans from the IMF, World Bank (WB) and the Asian Development Bank (ADB). This inflow was supplemented by the prevention of forex outflow by defaulting the external debts and severe restrictions of imports. Nevertheless, the purchasing power of the people has not improved much as the income and the prices of most of the essential items that had gone threefold up in 2021/2022 are still almost the same.
+
+Although former President Gotabaya Rajapaksa is blamed for the current economic disaster, it is a make-up of the economic mismanagement by the successive governments for decades. Rajapaksa only put the final touches to it, but vigorously and blindly. However, he also listened to the experts later, though it was too late for him to save his skin. He approached the IMF in March 2022 and appointed competent officials and international financial and legal advisors to deal with the global lender. Following the success of the discussions between local officials and the IMF the country now enjoys a breathing space.
+
+The economy of the country is being controlled now by the IMF which will continue to do so till 2027. Derailment of this programme would lead to economic disaster, since it would be tantamount to reneging the last resort. Despite the government attempting to instill fear claiming that the Opposition parties would scuttle the IMF sponsored bailout package, if they come to power, both the National People’s Power (NPP) and the Samagi Jana Balawegaya (SJB), the two front runners of the current Presidential race have assured the continuation of the programme, but with amendments.  The government which earlier argued that no amendments would be entertained by the IMF has proposed changes to the pay-as-you-earn tax now.
+
+The challenges ahead of the country whoever takes the reigns are huge. Although Sri Lanka secured debt restructuring deals first with the bilateral creditors in June and with the private creditors in July it is only another breathing space, we have to anyway repay the debts after 2027. And the IMF has given several other targets as well.
+
+Country’s public debt which was at 128 percent of GDP as of end 2022 has to reach 95 percent of GDP by 2,032, the gross financing needs should be below 13 percent of GDP between 2027 and 2032, on average, and Government’s annual debt service in foreign currency should be below 4.5 percent of GDP in every year between 2027 and 2032. That means while repaying the external debts we will have to minimise the borrowings since 2027.
+
+Not a single election manifesto seemed to have drawn attention towards this serious issue. Some candidates have vaguely proposed an export-oriented economy as a remedy. President Ranil Wickremesinghe as the leader responsible to handle this issue for the past two years has been announcing this since August 2022. This is acceptable in general, but would remain as a text book solution until it is translated into specific project plans on the ground. Almost all main candidates have announced specific plans for expenditure such as salary increases and new recruitments, but not for boosting forex.
+
+President Wickremesinghe presenting his first policy statement on August 3, 2022, referring to a competitive export economy said “We are now preparing the necessary reports, plans, rules and regulations, laws and programmes.” It was an indictment against all leaders who were in office, since such “reports, plans, rules and regulations, laws and programmes” must have been prepared decades ago. It is not clear if they have been prepared at least during the past two years.
+

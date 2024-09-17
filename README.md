@@ -2,10 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-16 18:20:28**
+Last Updated **2024-09-17 06:24:19**
+
+## 2024-09-17
+
+* [Presidenshel elecshen gide](data/articles/presidenshel-elecshen-gi.8ed0e8bb/README.md) `ft.lk`
+* [Ukraine’s Kursk gamble and the F16 crash mystery](data/articles/ukraine-s-kursk-gamble-a.e33775ff/README.md) `dailymirror.lk`
+* [What is in store for people after polls?](data/articles/what-is-in-store-for-peo.613ce673/README.md) `dailymirror.lk`
+* [“This could be the last democratic election in Sri Lanka” Patali](data/articles/this-could-be-the-last.a19c0b7f/README.md) `dailymirror.lk`
+* [SAJITH PREMADASA TO SET UP PRESIDENTIAL TASK FORCE TO TACKLE CHILD POVERTY](data/articles/sajith-premadasa-to-set.6b829e4b/README.md) `dailymirror.lk`
+* [Japan, a true friend](data/articles/japan-a-true-friend.dd2fe2b2/README.md) `ft.lk`
 
 ## 2024-09-16
 
+* [Finance Ministry on Sri Lanka’s external debt service payments](data/articles/finance-ministry-on-sri.5d3f2e73/README.md) `ft.lk`
+* [Leadership of President RW and AKD](data/articles/leadership-of-president.8f29ec57/README.md) `ft.lk`
+* [Abolition of Executive Presidency: Voters’ policy guide to 2024 Presidential election in 15 Q&As](data/articles/abolition-of-executive-p.b496b3f0/README.md) `ft.lk`
+* [Research: How Anxiety Shapes Men’s and Women’s Leadership Differently](data/articles/research-how-anxiety-sha.62400b2c/README.md) `hbr.org`
+* [How a Playful Mindset Can Boost Creativity on Your Team](data/articles/how-a-playful-mindset-ca.6df2e65d/README.md) `hbr.org`
+* [What 570 Experts Predict the Future of Work Will Look Like](data/articles/what-570-experts-predict.7737b3f7/README.md) `hbr.org`
+* [Why we need an AI safety hotline](data/articles/why-we-need-an-ai-safety.61a61fdf/README.md) `technologyreview.com`
 * [Whoever it is, follow Ranil’s blueprint for stability](data/articles/whoever-it-is-follow-ran.b118db21/README.md) `dailymirror.lk`
 * [Elections, Classes and Minorities](data/articles/elections-classes-and-mi.43a968ad/README.md) `dailymirror.lk`
 * [2024 Presidential election -one like no other - EDITORIAL](data/articles/2024-presidential-electi.5ccaecc3/README.md) `dailymirror.lk`
