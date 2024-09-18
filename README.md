@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-18 06:25:15**
+Last Updated **2024-09-18 18:18:46**
 
 ## 2024-09-18
 
@@ -17,6 +17,7 @@ Last Updated **2024-09-18 06:25:15**
 * [Economic stability is the foremost important factor now; President](data/articles/economic-stability-is-th.7350bebf/README.md) `dailymirror.lk`
 * [New political dynamics in the offing whoever wins Presidential poll](data/articles/new-political-dynamics-i.5b713fae/README.md) `dailymirror.lk`
 * [How will  1.65  million  Muslims  vote  on Saturday?](data/articles/how-will-1-65-million-mu.ace7aed5/README.md) `dailymirror.lk`
+* [How will  1.65  million  Muslims  vote  on Saturday?](data/articles/how-will-1-65-million-mu.26f9513b/README.md) `dailymirror.lk`
 * [Sri Lanka should not be another Haiti, Venezuela or Zimbabwe after Sept 21](data/articles/sri-lanka-should-not-be.9d3d92d3/README.md) `dailymirror.lk`
 * [Electioneering, and false promises  end today](data/articles/electioneering-and-false.67f0b7c6/README.md) `dailymirror.lk`
 * [Here’s what I made of Snap’s new augmented-reality Spectacles](data/articles/here-s-what-i-made-of-sn.3159f514/README.md) `technologyreview.com`
