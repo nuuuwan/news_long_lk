@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-19 06:25:15**
+Last Updated **2024-09-19 18:18:54**
 
 ## 2024-09-19
 
+* [Research: How Should Multinational Firms Navigate Local Rules?](data/articles/research-how-should-mult.1281652b/README.md) `hbr.org`
+* [How AI can help spot wildfires](data/articles/how-ai-can-help-spot-wil.6e01607f/README.md) `technologyreview.com`
 * [Elite establishment’s last stand](data/articles/elite-establishment-s-la.0d326511/README.md) `ft.lk`
 * [Raja Bhavatu Dhammiko: May the ruler be righteous](data/articles/raja-bhavatu-dhammiko-ma.aec7ed6c/README.md) `ft.lk`
 * [Political culture will keep changing for better, with or without NPP](data/articles/political-culture-will-k.a3b0bc76/README.md) `ft.lk`
@@ -15,10 +17,12 @@ Last Updated **2024-09-19 06:25:15**
 ## 2024-09-18
 
 * [Is ‘Mental Health’  political](data/articles/is-mental-health-politic.d0dd5a16/README.md) `dailymirror.lk`
+* [Is ‘Mental Health’  political](data/articles/is-mental-health-politic.de062e52/README.md) `dailymirror.lk`
 * [Property Taxes: No Thanks but Many Thanks to the IMF](data/articles/property-taxes-no-thanks.5986d85e/README.md) `dailymirror.lk`
 * [Good citizens must vote on Saturday](data/articles/good-citizens-must-vote.2b069f91/README.md) `dailymirror.lk`
 * [AI-generated content doesn’t seem to have swayed recent European elections](data/articles/ai-generated-content-doe.9a954828/README.md) `technologyreview.com`
 * [Research: Flat Hierarchies Can Discourage Women Applicants](data/articles/research-flat-hierarchie.9702ccb9/README.md) `hbr.org`
+* [How Your Sales Team Can Catch Up on Digital and AI Tools](data/articles/how-your-sales-team-can.d2100723/README.md) `hbr.org`
 * [National Single Window: Game-changer for Sri Lanka’s trading community](data/articles/national-single-window-g.6c4c1842/README.md) `ft.lk`
 * [Sri Lanka’s next leader: can make or break the nation](data/articles/sri-lanka-s-next-leader.922cb543/README.md) `ft.lk`
 * [China confident bilateral relations with Sri Lanka will have brighter future](data/articles/china-confident-bilatera.420f6e73/README.md) `ft.lk`
