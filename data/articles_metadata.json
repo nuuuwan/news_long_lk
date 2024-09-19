@@ -1,5 +1,75 @@
 [
   {
+    "title": "Elite establishment\u2019s last stand",
+    "url": "https://www.ft.lk/columns/Elite-establishment-s-last-stand/4-766866",
+    "ut": 1726692424.0,
+    "dir_path_unix": "data/articles/elite-establishment-s-la.0d326511",
+    "time_str_formatted": "02:17 AM, Thursday, September 19, 2024"
+  },
+  {
+    "title": "Raja Bhavatu Dhammiko: May the ruler be righteous",
+    "url": "https://www.ft.lk/columns/Raja-Bhavatu-Dhammiko-May-the-ruler-be-righteous/4-766862",
+    "ut": 1726691547.0,
+    "dir_path_unix": "data/articles/raja-bhavatu-dhammiko-ma.aec7ed6c",
+    "time_str_formatted": "02:02 AM, Thursday, September 19, 2024"
+  },
+  {
+    "title": "Political culture will keep changing for better, with or without NPP",
+    "url": "https://www.ft.lk/columns/Political-culture-will-keep-changing-for-better-with-or-without-NPP/4-766861",
+    "ut": 1726691375.0,
+    "dir_path_unix": "data/articles/political-culture-will-k.a3b0bc76",
+    "time_str_formatted": "01:59 AM, Thursday, September 19, 2024"
+  },
+  {
+    "title": "Election 2024 choices for change: Weaponised negativism or progressive centrism",
+    "url": "https://www.ft.lk/columns/Election-2024-choices-for-change-Weaponised-negativism-or-progressive-centrism/4-766860",
+    "ut": 1726691124.0,
+    "dir_path_unix": "data/articles/election-2024-choices-fo.f4752d8d",
+    "time_str_formatted": "01:55 AM, Thursday, September 19, 2024"
+  },
+  {
+    "title": "Voting with no confidence",
+    "url": "https://www.ft.lk/columns/Voting-with-no-confidence/4-766859",
+    "ut": 1726690711.0,
+    "dir_path_unix": "data/articles/voting-with-no-confidenc.17f07519",
+    "time_str_formatted": "01:48 AM, Thursday, September 19, 2024"
+  },
+  {
+    "title": "Is \u2018Mental Health\u2019  political",
+    "url": "https://www.dailymirror.lk/opinion/Is-Mental-Health-political/172-291951",
+    "ut": 1726677434.0,
+    "dir_path_unix": "data/articles/is-mental-health-politic.d0dd5a16",
+    "time_str_formatted": "10:07 PM, Wednesday, September 18, 2024"
+  },
+  {
+    "title": "Property Taxes: No Thanks but Many Thanks to the IMF",
+    "url": "https://www.dailymirror.lk/opinion/Property-Taxes-No-Thanks-but-Many-Thanks-to-the-IMF/172-291948",
+    "ut": 1726676317.0,
+    "dir_path_unix": "data/articles/property-taxes-no-thanks.5986d85e",
+    "time_str_formatted": "09:48 PM, Wednesday, September 18, 2024"
+  },
+  {
+    "title": "Good citizens must vote on Saturday",
+    "url": "https://www.dailymirror.lk/opinion/Good-citizens-must-vote-on-Saturday/172-291946",
+    "ut": 1726676046.0,
+    "dir_path_unix": "data/articles/good-citizens-must-vote.2b069f91",
+    "time_str_formatted": "09:44 PM, Wednesday, September 18, 2024"
+  },
+  {
+    "title": "AI-generated content doesn\u2019t seem to have swayed recent European elections",
+    "url": "https://www.technologyreview.com/2024/09/18/1104178/ai-generated-content-doesnt-seem-to-have-swayed-recent-european-elections/",
+    "ut": 1726666260.0,
+    "dir_path_unix": "data/articles/ai-generated-content-doe.9a954828",
+    "time_str_formatted": "07:01 PM, Wednesday, September 18, 2024"
+  },
+  {
+    "title": "Research: Flat Hierarchies Can Discourage Women Applicants",
+    "url": "https://hbr.org/2024/09/research-flat-hierarchies-can-discourage-women-applicants",
+    "ut": 1726641920.0,
+    "dir_path_unix": "data/articles/research-flat-hierarchie.9702ccb9",
+    "time_str_formatted": "12:15 PM, Wednesday, September 18, 2024"
+  },
+  {
     "title": "National Single Window: Game-changer for Sri Lanka\u2019s trading community",
     "url": "https://www.ft.lk/opinion/National-Single-Window-Game-changer-for-Sri-Lanka-s-trading-community/14-766816",
     "ut": 1726605891.0,
@@ -75,6 +145,13 @@
     "ut": 1726595170.0,
     "dir_path_unix": "data/articles/electioneering-and-false.67f0b7c6",
     "time_str_formatted": "11:16 PM, Tuesday, September 17, 2024"
+  },
+  {
+    "title": "How Work Has Changed for Women in Corporate America Over the Last 10 Years",
+    "url": "https://hbr.org/2024/09/work-has-changed-for-women-in-corporate-america-over-the-last-10-years",
+    "ut": 1726570292.0,
+    "dir_path_unix": "data/articles/how-work-has-changed-for.9e2b5b33",
+    "time_str_formatted": "04:21 PM, Tuesday, September 17, 2024"
   },
   {
     "title": "Here\u2019s what I made of Snap\u2019s new augmented-reality Spectacles",
@@ -239,16 +316,16 @@
   },
   {
     "title": "All UNPers in SJB will vote for RW at the polls  -  Rosy Senanayake",
-    "url": "https://www.dailymirror.lk/recomended-news/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/277-291787",
+    "url": "https://www.dailymirror.lk/hard-talk/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/334-291787",
     "ut": 1726429184.0,
-    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.942c6481",
+    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.1b1b4730",
     "time_str_formatted": "01:09 AM, Monday, September 16, 2024"
   },
   {
     "title": "All UNPers in SJB will vote for RW at the polls  -  Rosy Senanayake",
-    "url": "https://www.dailymirror.lk/hard-talk/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/334-291787",
+    "url": "https://www.dailymirror.lk/recomended-news/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/277-291787",
     "ut": 1726429184.0,
-    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.1b1b4730",
+    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.942c6481",
     "time_str_formatted": "01:09 AM, Monday, September 16, 2024"
   },
   {
@@ -1554,17 +1631,17 @@
     "time_str_formatted": "06:00 PM, Thursday, August 29, 2024"
   },
   {
-    "title": "A new smart mask analyzes your breath to monitor your health",
-    "url": "https://www.technologyreview.com/2024/08/29/1103330/a-new-smart-mask-analyzes-your-breath-to-monitor-your-health/",
-    "ut": 1724920200.0,
-    "dir_path_unix": "data/articles/a-new-smart-mask-analyze.49e70bb5",
-    "time_str_formatted": "02:00 PM, Thursday, August 29, 2024"
-  },
-  {
     "title": "How machine learning is helping us probe the secret names of animals",
     "url": "https://www.technologyreview.com/2024/08/29/1103353/how-machine-learning-is-helping-us-probe-the-secret-names-of-animals/",
     "ut": 1724920200.0,
     "dir_path_unix": "data/articles/how-machine-learning-is.794ca5d1",
+    "time_str_formatted": "02:00 PM, Thursday, August 29, 2024"
+  },
+  {
+    "title": "A new smart mask analyzes your breath to monitor your health",
+    "url": "https://www.technologyreview.com/2024/08/29/1103330/a-new-smart-mask-analyzes-your-breath-to-monitor-your-health/",
+    "ut": 1724920200.0,
+    "dir_path_unix": "data/articles/a-new-smart-mask-analyze.49e70bb5",
     "time_str_formatted": "02:00 PM, Thursday, August 29, 2024"
   },
   {
@@ -1680,17 +1757,17 @@
     "time_str_formatted": "07:00 AM, Wednesday, August 28, 2024"
   },
   {
-    "title": "Job title of the future: Weather maker",
-    "url": "https://www.technologyreview.com/2024/08/28/1096738/digital-forest-ranger-future-jobs/",
-    "ut": 1724805000.0,
-    "dir_path_unix": "data/articles/job-title-of-the-future.c0179df5",
-    "time_str_formatted": "06:00 AM, Wednesday, August 28, 2024"
-  },
-  {
     "title": "This startup is making coffee without coffee beans",
     "url": "https://www.technologyreview.com/2024/08/28/1096751/prefer-coffee-upcycling-fermentation/",
     "ut": 1724805000.0,
     "dir_path_unix": "data/articles/this-startup-is-making-c.6583c5fc",
+    "time_str_formatted": "06:00 AM, Wednesday, August 28, 2024"
+  },
+  {
+    "title": "Job title of the future: Weather maker",
+    "url": "https://www.technologyreview.com/2024/08/28/1096738/digital-forest-ranger-future-jobs/",
+    "ut": 1724805000.0,
+    "dir_path_unix": "data/articles/job-title-of-the-future.c0179df5",
     "time_str_formatted": "06:00 AM, Wednesday, August 28, 2024"
   },
   {
@@ -2094,16 +2171,16 @@
   },
   {
     "title": "Covid-19  policy,  a breach of trust",
-    "url": "https://www.dailymirror.lk/plus/Covid-19-policy-a-breach-of-trust/352-290134",
+    "url": "https://www.dailymirror.lk/opinion/Covid-19-policy-a-breach-of-trust/172-290134",
     "ut": 1724358935.0,
-    "dir_path_unix": "data/articles/covid-19-policy-a-breach.ebea5ae7",
+    "dir_path_unix": "data/articles/covid-19-policy-a-breach.63ccd862",
     "time_str_formatted": "02:05 AM, Friday, August 23, 2024"
   },
   {
     "title": "Covid-19  policy,  a breach of trust",
-    "url": "https://www.dailymirror.lk/opinion/Covid-19-policy-a-breach-of-trust/172-290134",
+    "url": "https://www.dailymirror.lk/plus/Covid-19-policy-a-breach-of-trust/352-290134",
     "ut": 1724358935.0,
-    "dir_path_unix": "data/articles/covid-19-policy-a-breach.63ccd862",
+    "dir_path_unix": "data/articles/covid-19-policy-a-breach.ebea5ae7",
     "time_str_formatted": "02:05 AM, Friday, August 23, 2024"
   },
   {
@@ -2290,16 +2367,16 @@
   },
   {
     "title": "Economic crisis, policy choices, anti-incumbency shape  Lanka\u2019s presidential race",
-    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/231-289956",
+    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/172-289956",
     "ut": 1724177736.0,
-    "dir_path_unix": "data/articles/economic-crisis-policy-c.23f51241",
+    "dir_path_unix": "data/articles/economic-crisis-policy-c.b5de0cc4",
     "time_str_formatted": "11:45 PM, Tuesday, August 20, 2024"
   },
   {
     "title": "Economic crisis, policy choices, anti-incumbency shape  Lanka\u2019s presidential race",
-    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/172-289956",
+    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/231-289956",
     "ut": 1724177736.0,
-    "dir_path_unix": "data/articles/economic-crisis-policy-c.b5de0cc4",
+    "dir_path_unix": "data/articles/economic-crisis-policy-c.23f51241",
     "time_str_formatted": "11:45 PM, Tuesday, August 20, 2024"
   },
   {
@@ -2527,17 +2604,17 @@
     "time_str_formatted": "12:05 PM, Friday, August 16, 2024"
   },
   {
-    "title": "Escaping Spotify\u2019s algorithm",
-    "url": "https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/",
-    "ut": 1723771800.0,
-    "dir_path_unix": "data/articles/escaping-spotify-s-algor.efbbe676",
-    "time_str_formatted": "07:00 AM, Friday, August 16, 2024"
-  },
-  {
     "title": "How to break free of Spotify\u2019s algorithm",
     "url": "https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/",
     "ut": 1723771800.0,
     "dir_path_unix": "data/articles/how-to-break-free-of-spo.efbbe676",
+    "time_str_formatted": "07:00 AM, Friday, August 16, 2024"
+  },
+  {
+    "title": "Escaping Spotify\u2019s algorithm",
+    "url": "https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/",
+    "ut": 1723771800.0,
+    "dir_path_unix": "data/articles/escaping-spotify-s-algor.efbbe676",
     "time_str_formatted": "07:00 AM, Friday, August 16, 2024"
   },
   {
@@ -2759,16 +2836,16 @@
   },
   {
     "title": "Abusing the goddess of law \u2013 a disaster pending?",
-    "url": "https://www.ft.lk/columns/Abusing-the-goddess-of-law-a-disaster-pending/4-765480",
+    "url": "https://www.ft.lk/opinion/Abusing-the-goddess-of-law-a-disaster-pending/14-765480",
     "ut": 1723575924.0,
-    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.077823fe",
+    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.7b843116",
     "time_str_formatted": "12:35 AM, Wednesday, August 14, 2024"
   },
   {
     "title": "Abusing the goddess of law \u2013 a disaster pending?",
-    "url": "https://www.ft.lk/opinion/Abusing-the-goddess-of-law-a-disaster-pending/14-765480",
+    "url": "https://www.ft.lk/columns/Abusing-the-goddess-of-law-a-disaster-pending/4-765480",
     "ut": 1723575924.0,
-    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.7b843116",
+    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.077823fe",
     "time_str_formatted": "12:35 AM, Wednesday, August 14, 2024"
   },
   {
@@ -2787,16 +2864,16 @@
   },
   {
     "title": "\u201cBangladesh vs Sri Lanka\u201d  - A Tie?",
-    "url": "https://www.dailymirror.lk/plus/Bangladesh-vs-Sri-Lanka-A-Tie/352-289462",
+    "url": "https://www.dailymirror.lk/opinion/Bangladesh-vs-Sri-Lanka-A-Tie/172-289462",
     "ut": 1723572865.0,
-    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.cf74d30d",
+    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.717cb2cb",
     "time_str_formatted": "11:44 PM, Tuesday, August 13, 2024"
   },
   {
     "title": "\u201cBangladesh vs Sri Lanka\u201d  - A Tie?",
-    "url": "https://www.dailymirror.lk/opinion/Bangladesh-vs-Sri-Lanka-A-Tie/172-289462",
+    "url": "https://www.dailymirror.lk/plus/Bangladesh-vs-Sri-Lanka-A-Tie/352-289462",
     "ut": 1723572865.0,
-    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.717cb2cb",
+    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.cf74d30d",
     "time_str_formatted": "11:44 PM, Tuesday, August 13, 2024"
   },
   {
@@ -2850,16 +2927,16 @@
   },
   {
     "title": "Roots of Islamophobia in UK",
-    "url": "https://www.dailymirror.lk/opinion/Roots-of-Islamophobia-in-UK/172-289378",
+    "url": "https://www.dailymirror.lk/plus/Roots-of-Islamophobia-in-UK/352-289378",
     "ut": 1723505192.0,
-    "dir_path_unix": "data/articles/roots-of-islamophobia-in.73639a1c",
+    "dir_path_unix": "data/articles/roots-of-islamophobia-in.8cf2dd89",
     "time_str_formatted": "04:56 AM, Tuesday, August 13, 2024"
   },
   {
     "title": "Roots of Islamophobia in UK",
-    "url": "https://www.dailymirror.lk/plus/Roots-of-Islamophobia-in-UK/352-289378",
+    "url": "https://www.dailymirror.lk/opinion/Roots-of-Islamophobia-in-UK/172-289378",
     "ut": 1723505192.0,
-    "dir_path_unix": "data/articles/roots-of-islamophobia-in.8cf2dd89",
+    "dir_path_unix": "data/articles/roots-of-islamophobia-in.73639a1c",
     "time_str_formatted": "04:56 AM, Tuesday, August 13, 2024"
   },
   {
@@ -3353,13 +3430,6 @@
     "time_str_formatted": "06:00 AM, Tuesday, August 06, 2024"
   },
   {
-    "title": "\u201cNO FOREIGN COUNTRY  IS FUNDING ME\u201d \u201cMY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS\u201d - Anura Kumara Dissanayake",
-    "url": "https://www.dailymirror.lk/hard-talk/NO-FOREIGN-COUNTRY-IS-FUNDING-ME-MY-VISITS-TO-CHINA-AND-INDIA-WERE-SPONSORED-BY-THOSE-RESPECTIVE-GOVERNMENTS-Anura-Kumara-Dissanayake/334-288844",
-    "ut": 1722903653.0,
-    "dir_path_unix": "data/articles/no-foreign-country-is-f.c16ac61f",
-    "time_str_formatted": "05:50 AM, Tuesday, August 06, 2024"
-  },
-  {
     "title": "\u201cNo foreign country is funding me\u2019\u2019  \u201cMy visits to China and India were sponsored by those respective Governments\u201d - Anura Kumara Dissanayake",
     "url": "https://www.dailymirror.lk/top-story/No-foreign-country-is-funding-me-My-visits-to-China-and-India-were-sponsored-by-those-respective-Governments-Anura-Kumara-Dissanayake/155-288844",
     "ut": 1722903653.0,
@@ -3371,6 +3441,13 @@
     "url": "https://www.dailymirror.lk/breaking-news/No-foreign-country-is-funding-me-My-visits-to-China-and-India-were-sponsored-by-those-respective-Governments-Anura-Kumara-Dissanayake/108-288844",
     "ut": 1722903653.0,
     "dir_path_unix": "data/articles/no-foreign-country-is-f.ec8b52c8",
+    "time_str_formatted": "05:50 AM, Tuesday, August 06, 2024"
+  },
+  {
+    "title": "\u201cNO FOREIGN COUNTRY  IS FUNDING ME\u201d \u201cMY VISITS TO CHINA AND INDIA  WERE SPONSORED BY THOSE  RESPECTIVE GOVERNMENTS\u201d - Anura Kumara Dissanayake",
+    "url": "https://www.dailymirror.lk/hard-talk/NO-FOREIGN-COUNTRY-IS-FUNDING-ME-MY-VISITS-TO-CHINA-AND-INDIA-WERE-SPONSORED-BY-THOSE-RESPECTIVE-GOVERNMENTS-Anura-Kumara-Dissanayake/334-288844",
+    "ut": 1722903653.0,
+    "dir_path_unix": "data/articles/no-foreign-country-is-f.c16ac61f",
     "time_str_formatted": "05:50 AM, Tuesday, August 06, 2024"
   },
   {
@@ -3900,16 +3977,16 @@
   },
   {
     "title": "Amal Sanderatne: An appreciation",
-    "url": "https://www.ft.lk/columns/Amal-Sanderatne-An-appreciation/4-764834",
+    "url": "https://www.ft.lk/opinion/Amal-Sanderatne-An-appreciation/14-764834",
     "ut": 1722196300.0,
-    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.bbdc6892",
+    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.6f478376",
     "time_str_formatted": "01:21 AM, Monday, July 29, 2024"
   },
   {
     "title": "Amal Sanderatne: An appreciation",
-    "url": "https://www.ft.lk/opinion/Amal-Sanderatne-An-appreciation/14-764834",
+    "url": "https://www.ft.lk/columns/Amal-Sanderatne-An-appreciation/4-764834",
     "ut": 1722196300.0,
-    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.6f478376",
+    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.bbdc6892",
     "time_str_formatted": "01:21 AM, Monday, July 29, 2024"
   },
   {
@@ -4012,16 +4089,16 @@
   },
   {
     "title": "Resource-rich, policy-poor: Sri Lanka\u2019s flagging growth sectors",
-    "url": "https://www.ft.lk/columns/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/4-764781",
+    "url": "https://www.ft.lk/opinion/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/14-764781",
     "ut": 1721943355.0,
-    "dir_path_unix": "data/articles/resource-rich-policy-poo.59ab4d57",
+    "dir_path_unix": "data/articles/resource-rich-policy-poo.867d7afa",
     "time_str_formatted": "03:05 AM, Friday, July 26, 2024"
   },
   {
     "title": "Resource-rich, policy-poor: Sri Lanka\u2019s flagging growth sectors",
-    "url": "https://www.ft.lk/opinion/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/14-764781",
+    "url": "https://www.ft.lk/columns/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/4-764781",
     "ut": 1721943355.0,
-    "dir_path_unix": "data/articles/resource-rich-policy-poo.867d7afa",
+    "dir_path_unix": "data/articles/resource-rich-policy-poo.59ab4d57",
     "time_str_formatted": "03:05 AM, Friday, July 26, 2024"
   },
   {
@@ -4187,16 +4264,16 @@
   },
   {
     "title": "Ranil Wickremesinghe: the pragmatic leadership during challenging times",
-    "url": "https://www.ft.lk/columns/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/4-764663",
+    "url": "https://www.ft.lk/opinion/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/14-764663",
     "ut": 1721780221.0,
-    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.302efc82",
+    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.81f822a4",
     "time_str_formatted": "05:47 AM, Wednesday, July 24, 2024"
   },
   {
     "title": "Ranil Wickremesinghe: the pragmatic leadership during challenging times",
-    "url": "https://www.ft.lk/opinion/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/14-764663",
+    "url": "https://www.ft.lk/columns/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/4-764663",
     "ut": 1721780221.0,
-    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.81f822a4",
+    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.302efc82",
     "time_str_formatted": "05:47 AM, Wednesday, July 24, 2024"
   },
   {
@@ -4396,17 +4473,17 @@
     "time_str_formatted": "11:20 PM, Friday, July 19, 2024"
   },
   {
-    "title": "How to Gracefully Decline a Networking Request",
-    "url": "https://hbr.org/2024/07/how-to-gracefully-decline-a-networking-request",
-    "ut": 1721372755.0,
-    "dir_path_unix": "data/articles/how-to-gracefully-declin.89434680",
-    "time_str_formatted": "12:35 PM, Friday, July 19, 2024"
-  },
-  {
     "title": "Physicians Need Better Data Management Systems to Improve Patient Care",
     "url": "https://hbr.org/sponsored/2024/07/physicians-need-better-data-management-systems-to-improve-patient-care",
     "ut": 1721372755.0,
     "dir_path_unix": "data/articles/physicians-need-better-d.393b5d10",
+    "time_str_formatted": "12:35 PM, Friday, July 19, 2024"
+  },
+  {
+    "title": "How to Gracefully Decline a Networking Request",
+    "url": "https://hbr.org/2024/07/how-to-gracefully-decline-a-networking-request",
+    "ut": 1721372755.0,
+    "dir_path_unix": "data/articles/how-to-gracefully-declin.89434680",
     "time_str_formatted": "12:35 PM, Friday, July 19, 2024"
   },
   {
@@ -5153,16 +5230,16 @@
   },
   {
     "title": "Why parate is so hot these days",
-    "url": "https://www.ft.lk/opinion/Why-parate-is-so-hot-these-days/14-763851",
+    "url": "https://www.ft.lk/columns/Why-parate-is-so-hot-these-days/4-763851",
     "ut": 1720122508.0,
-    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.2e539223",
+    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.f4a2a8a6",
     "time_str_formatted": "01:18 AM, Friday, July 05, 2024"
   },
   {
     "title": "Why parate is so hot these days",
-    "url": "https://www.ft.lk/columns/Why-parate-is-so-hot-these-days/4-763851",
+    "url": "https://www.ft.lk/opinion/Why-parate-is-so-hot-these-days/14-763851",
     "ut": 1720122508.0,
-    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.f4a2a8a6",
+    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.2e539223",
     "time_str_formatted": "01:18 AM, Friday, July 05, 2024"
   },
   {
@@ -5201,17 +5278,17 @@
     "time_str_formatted": "12:05 PM, Thursday, July 04, 2024"
   },
   {
-    "title": "EIU tops the list of world\u2019s best economic forecasters",
-    "url": "https://www.eiu.com/n/eiu-tops-the-list-of-worlds-best-economic-forecasters/",
-    "ut": 1720064408.0,
-    "dir_path_unix": "data/articles/eiu-tops-the-list-of-wor.e3087878",
-    "time_str_formatted": "09:10 AM, Thursday, July 04, 2024"
-  },
-  {
     "title": "EIU named most awarded economic forecasting firm in 2024",
     "url": "https://www.eiu.com/n/eiu-most-awarded-economic-forecaster/",
     "ut": 1720064408.0,
     "dir_path_unix": "data/articles/eiu-named-most-awarded-e.d49eae85",
+    "time_str_formatted": "09:10 AM, Thursday, July 04, 2024"
+  },
+  {
+    "title": "EIU tops the list of world\u2019s best economic forecasters",
+    "url": "https://www.eiu.com/n/eiu-tops-the-list-of-worlds-best-economic-forecasters/",
+    "ut": 1720064408.0,
+    "dir_path_unix": "data/articles/eiu-tops-the-list-of-wor.e3087878",
     "time_str_formatted": "09:10 AM, Thursday, July 04, 2024"
   },
   {
@@ -5713,16 +5790,16 @@
   },
   {
     "title": "Sri Lanka economic recovery gathers pace",
-    "url": "https://www.ft.lk/opinion/Sri-Lanka-economic-recovery-gathers-pace/14-763413",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-economic-recovery-gathers-pace/4-763413",
     "ut": 1719255002.0,
-    "dir_path_unix": "data/articles/sri-lanka-economic-recov.43a2618b",
+    "dir_path_unix": "data/articles/sri-lanka-economic-recov.ca84e689",
     "time_str_formatted": "12:20 AM, Tuesday, June 25, 2024"
   },
   {
     "title": "Sri Lanka economic recovery gathers pace",
-    "url": "https://www.ft.lk/columns/Sri-Lanka-economic-recovery-gathers-pace/4-763413",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-economic-recovery-gathers-pace/14-763413",
     "ut": 1719255002.0,
-    "dir_path_unix": "data/articles/sri-lanka-economic-recov.ca84e689",
+    "dir_path_unix": "data/articles/sri-lanka-economic-recov.43a2618b",
     "time_str_formatted": "12:20 AM, Tuesday, June 25, 2024"
   },
   {
@@ -6266,16 +6343,16 @@
   },
   {
     "title": "Sri Lanka\u2019s struggle with election phobia",
-    "url": "https://www.ft.lk/opinion/Sri-Lanka-s-struggle-with-election-phobia/14-762881",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-struggle-with-election-phobia/4-762881",
     "ut": 1718030638.0,
-    "dir_path_unix": "data/articles/sri-lanka-s-struggle-wit.e5ca2c8a",
+    "dir_path_unix": "data/articles/sri-lanka-s-struggle-wit.962a377d",
     "time_str_formatted": "08:13 PM, Monday, June 10, 2024"
   },
   {
     "title": "Sri Lanka\u2019s struggle with election phobia",
-    "url": "https://www.ft.lk/columns/Sri-Lanka-s-struggle-with-election-phobia/4-762881",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-s-struggle-with-election-phobia/14-762881",
     "ut": 1718030638.0,
-    "dir_path_unix": "data/articles/sri-lanka-s-struggle-wit.962a377d",
+    "dir_path_unix": "data/articles/sri-lanka-s-struggle-wit.e5ca2c8a",
     "time_str_formatted": "08:13 PM, Monday, June 10, 2024"
   },
   {
@@ -6482,17 +6559,17 @@
     "time_str_formatted": "12:39 AM, Friday, June 07, 2024"
   },
   {
-    "title": "Says Sri Lanka is an unsinkable aircraft carrier \u201cThe country manufactures  poverty  as politics is more profitable  than its industries\u201d  - Major Gen. Dr. Boniface Perera",
-    "url": "https://www.dailymirror.lk/opinion/Says-Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Major-Gen-Dr-Boniface-Perera/231-284314",
-    "ut": 1717696500.0,
-    "dir_path_unix": "data/articles/says-sri-lanka-is-an-uns.25ee1557",
-    "time_str_formatted": "11:25 PM, Thursday, June 06, 2024"
-  },
-  {
     "title": "Sri Lanka is an unsinkable aircraft carrier--The country manufactures  poverty  as politics is more profitable  than its industries- Maj. Gen. Dr. Boniface Perera",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Maj-Gen-Dr-Boniface-Perera/231-284314",
     "ut": 1717696500.0,
     "dir_path_unix": "data/articles/sri-lanka-is-an-unsinkab.f6c07ba8",
+    "time_str_formatted": "11:25 PM, Thursday, June 06, 2024"
+  },
+  {
+    "title": "Says Sri Lanka is an unsinkable aircraft carrier \u201cThe country manufactures  poverty  as politics is more profitable  than its industries\u201d  - Major Gen. Dr. Boniface Perera",
+    "url": "https://www.dailymirror.lk/opinion/Says-Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Major-Gen-Dr-Boniface-Perera/231-284314",
+    "ut": 1717696500.0,
+    "dir_path_unix": "data/articles/says-sri-lanka-is-an-uns.25ee1557",
     "time_str_formatted": "11:25 PM, Thursday, June 06, 2024"
   },
   {
@@ -6587,17 +6664,17 @@
     "time_str_formatted": "12:36 AM, Thursday, June 06, 2024"
   },
   {
-    "title": "Sports for peace and development",
-    "url": "https://www.dailymirror.lk/opinion/Sports-for-peace-and-development/172-284192",
-    "ut": 1717612200.0,
-    "dir_path_unix": "data/articles/sports-for-peace-and-dev.dc120c81",
-    "time_str_formatted": "12:00 AM, Thursday, June 06, 2024"
-  },
-  {
     "title": "Lifestyles of politicians and the life of an artist",
     "url": "https://www.dailymirror.lk/opinion/Lifestyles-of-politicians-and-the-life-of-an-artist/172-284193",
     "ut": 1717612200.0,
     "dir_path_unix": "data/articles/lifestyles-of-politician.864c502c",
+    "time_str_formatted": "12:00 AM, Thursday, June 06, 2024"
+  },
+  {
+    "title": "Sports for peace and development",
+    "url": "https://www.dailymirror.lk/opinion/Sports-for-peace-and-development/172-284192",
+    "ut": 1717612200.0,
+    "dir_path_unix": "data/articles/sports-for-peace-and-dev.dc120c81",
     "time_str_formatted": "12:00 AM, Thursday, June 06, 2024"
   },
   {
@@ -6637,16 +6714,16 @@
   },
   {
     "title": "\u2018Prosecutorial\u2019 vs. \u2018victim based\u2019 approaches to accountability",
-    "url": "https://www.ft.lk/opinion/Prosecutorial-vs-victim-based-approaches-to-accountability/14-762628",
+    "url": "https://www.ft.lk/columns/Prosecutorial-vs-victim-based-approaches-to-accountability/4-762628",
     "ut": 1717546194.0,
-    "dir_path_unix": "data/articles/prosecutorial-vs-victim.7502e691",
+    "dir_path_unix": "data/articles/prosecutorial-vs-victim.059e75ac",
     "time_str_formatted": "05:39 AM, Wednesday, June 05, 2024"
   },
   {
     "title": "\u2018Prosecutorial\u2019 vs. \u2018victim based\u2019 approaches to accountability",
-    "url": "https://www.ft.lk/columns/Prosecutorial-vs-victim-based-approaches-to-accountability/4-762628",
+    "url": "https://www.ft.lk/opinion/Prosecutorial-vs-victim-based-approaches-to-accountability/14-762628",
     "ut": 1717546194.0,
-    "dir_path_unix": "data/articles/prosecutorial-vs-victim.059e75ac",
+    "dir_path_unix": "data/articles/prosecutorial-vs-victim.7502e691",
     "time_str_formatted": "05:39 AM, Wednesday, June 05, 2024"
   },
   {
@@ -6923,17 +7000,17 @@
     "time_str_formatted": "12:00 AM, Saturday, June 01, 2024"
   },
   {
-    "title": "Referendum to extend President\u2019s term: Is it ploy to avoid election defeat?",
-    "url": "https://www.dailymirror.lk/opinion/Referendum-to-extend-Presidents-term-Is-it-ploy-to-avoid-election-defeat/172-283853",
-    "ut": 1717180200.0,
-    "dir_path_unix": "data/articles/referendum-to-extend-pre.fe67946d",
-    "time_str_formatted": "12:00 AM, Saturday, June 01, 2024"
-  },
-  {
     "title": "Red herrings, referendums, poverty and postponing elections",
     "url": "https://www.dailymirror.lk/opinion/Red-herrings-referendums-poverty-and-postponing-elections/172-283850",
     "ut": 1717180200.0,
     "dir_path_unix": "data/articles/red-herrings-referendums.fc270172",
+    "time_str_formatted": "12:00 AM, Saturday, June 01, 2024"
+  },
+  {
+    "title": "Referendum to extend President\u2019s term: Is it ploy to avoid election defeat?",
+    "url": "https://www.dailymirror.lk/opinion/Referendum-to-extend-Presidents-term-Is-it-ploy-to-avoid-election-defeat/172-283853",
+    "ut": 1717180200.0,
+    "dir_path_unix": "data/articles/referendum-to-extend-pre.fe67946d",
     "time_str_formatted": "12:00 AM, Saturday, June 01, 2024"
   },
   {
@@ -7028,17 +7105,17 @@
     "time_str_formatted": "05:33 AM, Friday, May 31, 2024"
   },
   {
-    "title": "The US,  Zionism and moral depravity",
-    "url": "https://www.dailymirror.lk/opinion/The-US-Zionism-and-moral-depravity/172-283733",
-    "ut": 1717093800.0,
-    "dir_path_unix": "data/articles/the-us-zionism-and-moral.3dc3147b",
-    "time_str_formatted": "12:00 AM, Friday, May 31, 2024"
-  },
-  {
     "title": "Lies used in the name of transforming a nation",
     "url": "https://www.dailymirror.lk/opinion/Lies-used-in-the-name-of-transforming-a-nation/172-283728",
     "ut": 1717093800.0,
     "dir_path_unix": "data/articles/lies-used-in-the-name-of.e1276bde",
+    "time_str_formatted": "12:00 AM, Friday, May 31, 2024"
+  },
+  {
+    "title": "The US,  Zionism and moral depravity",
+    "url": "https://www.dailymirror.lk/opinion/The-US-Zionism-and-moral-depravity/172-283733",
+    "ut": 1717093800.0,
+    "dir_path_unix": "data/articles/the-us-zionism-and-moral.3dc3147b",
     "time_str_formatted": "12:00 AM, Friday, May 31, 2024"
   },
   {
@@ -7098,10 +7175,10 @@
     "time_str_formatted": "04:40 AM, Thursday, May 30, 2024"
   },
   {
-    "title": "World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry",
-    "url": "https://www.dailymirror.lk/opinion/World-No-Tobacco-Day-Calls-to-strengthen-measures-to-protect-children-from-tobacco-industry/172-283636",
+    "title": "Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS",
+    "url": "https://www.dailymirror.lk/opinion/Unlocking-economic-growth-and-Strategic-Advantages-Potential-benefits-for-Sri-Lanka-from-BRICS/172-283634",
     "ut": 1717007400.0,
-    "dir_path_unix": "data/articles/world-no-tobacco-day-cal.875bf238",
+    "dir_path_unix": "data/articles/unlocking-economic-growt.1b773504",
     "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
   },
   {
@@ -7119,10 +7196,10 @@
     "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
   },
   {
-    "title": "Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS",
-    "url": "https://www.dailymirror.lk/opinion/Unlocking-economic-growth-and-Strategic-Advantages-Potential-benefits-for-Sri-Lanka-from-BRICS/172-283634",
+    "title": "World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry",
+    "url": "https://www.dailymirror.lk/opinion/World-No-Tobacco-Day-Calls-to-strengthen-measures-to-protect-children-from-tobacco-industry/172-283636",
     "ut": 1717007400.0,
-    "dir_path_unix": "data/articles/unlocking-economic-growt.1b773504",
+    "dir_path_unix": "data/articles/world-no-tobacco-day-cal.875bf238",
     "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
   },
   {
@@ -7253,16 +7330,16 @@
   },
   {
     "title": "Who guards the guardians?",
-    "url": "https://www.ft.lk/columns/Who-guards-the-guardians/4-762224",
+    "url": "https://www.ft.lk/opinion/Who-guards-the-guardians/14-762224",
     "ut": 1716830202.0,
-    "dir_path_unix": "data/articles/who-guards-the-guardians.6902fd32",
+    "dir_path_unix": "data/articles/who-guards-the-guardians.7360c8c3",
     "time_str_formatted": "10:46 PM, Monday, May 27, 2024"
   },
   {
     "title": "Who guards the guardians?",
-    "url": "https://www.ft.lk/opinion/Who-guards-the-guardians/14-762224",
+    "url": "https://www.ft.lk/columns/Who-guards-the-guardians/4-762224",
     "ut": 1716830202.0,
-    "dir_path_unix": "data/articles/who-guards-the-guardians.7360c8c3",
+    "dir_path_unix": "data/articles/who-guards-the-guardians.6902fd32",
     "time_str_formatted": "10:46 PM, Monday, May 27, 2024"
   },
   {
@@ -7378,10 +7455,10 @@
     "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
   },
   {
-    "title": "Tragedy and farce on a day of mourning",
-    "url": "https://www.dailymirror.lk/opinion/Tragedy-and-farce-on-a-day-of-mourning/172-283316",
+    "title": "Commemoration of war victims-celebrations and harassment",
+    "url": "https://www.dailymirror.lk/opinion/Commemoration-of-war-victims-celebrations-and-harassment/172-283318",
     "ut": 1716575400.0,
-    "dir_path_unix": "data/articles/tragedy-and-farce-on-a-d.34099509",
+    "dir_path_unix": "data/articles/commemoration-of-war-vic.e4479cd3",
     "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
   },
   {
@@ -7392,10 +7469,10 @@
     "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
   },
   {
-    "title": "Commemoration of war victims-celebrations and harassment",
-    "url": "https://www.dailymirror.lk/opinion/Commemoration-of-war-victims-celebrations-and-harassment/172-283318",
+    "title": "Tragedy and farce on a day of mourning",
+    "url": "https://www.dailymirror.lk/opinion/Tragedy-and-farce-on-a-day-of-mourning/172-283316",
     "ut": 1716575400.0,
-    "dir_path_unix": "data/articles/commemoration-of-war-vic.e4479cd3",
+    "dir_path_unix": "data/articles/tragedy-and-farce-on-a-d.34099509",
     "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
   },
   {
@@ -7561,16 +7638,16 @@
   },
   {
     "title": "Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?",
-    "url": "https://www.ft.lk/opinion/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/14-762103",
+    "url": "https://www.ft.lk/columns/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/4-762103",
     "ut": 1716335715.0,
-    "dir_path_unix": "data/articles/should-sri-lankan-tamils.9c26120a",
+    "dir_path_unix": "data/articles/should-sri-lankan-tamils.e5c84fc0",
     "time_str_formatted": "05:25 AM, Wednesday, May 22, 2024"
   },
   {
     "title": "Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?",
-    "url": "https://www.ft.lk/columns/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/4-762103",
+    "url": "https://www.ft.lk/opinion/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/14-762103",
     "ut": 1716335715.0,
-    "dir_path_unix": "data/articles/should-sri-lankan-tamils.e5c84fc0",
+    "dir_path_unix": "data/articles/should-sri-lankan-tamils.9c26120a",
     "time_str_formatted": "05:25 AM, Wednesday, May 22, 2024"
   },
   {
