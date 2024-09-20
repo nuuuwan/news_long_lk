@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-19 18:18:54**
+Last Updated **2024-09-20 06:24:57**
+
+## 2024-09-20
+
+* [Role of second preference: a simulation of 2024 Presidential election in Sri Lanka](data/articles/role-of-second-preferenc.ac0aa7e8/README.md) `ft.lk`
+* [Get set for more important parliamentary elections](data/articles/get-set-for-more-importa.95bd5272/README.md) `ft.lk`
+* [2024 Presidential elections: A mission impossible for many aspirers](data/articles/2024-presidential-electi.4d572e1b/README.md) `ft.lk`
+* [No economic policy will work with rampant corruption](data/articles/no-economic-policy-will.102f1d05/README.md) `ft.lk`
+* [Presidents may come and go but JR’s Executive Presidency goes on forever](data/articles/presidents-may-come-and.138f7692/README.md) `ft.lk`
+* [Pager blasts in Lebanon: How safe are our mobile devices?](data/articles/pager-blasts-in-lebanon.7d58e556/README.md) `dailymirror.lk`
+* [Sri Lanka: A drama based on human flaws!](data/articles/sri-lanka-a-drama-based.ebaa9e98/README.md) `dailymirror.lk`
 
 ## 2024-09-19
 
+* [How Venture Capitalists Can Become Effective Board Members](data/articles/how-venture-capitalists.362ba241/README.md) `hbr.org`
 * [Research: How Should Multinational Firms Navigate Local Rules?](data/articles/research-how-should-mult.1281652b/README.md) `hbr.org`
 * [How AI can help spot wildfires](data/articles/how-ai-can-help-spot-wil.6e01607f/README.md) `technologyreview.com`
 * [Elite establishment’s last stand](data/articles/elite-establishment-s-la.0d326511/README.md) `ft.lk`
