@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-20 06:24:57**
+Last Updated **2024-09-20 18:18:39**
 
 ## 2024-09-20
 
@@ -11,8 +11,10 @@ Last Updated **2024-09-20 06:24:57**
 * [2024 Presidential elections: A mission impossible for many aspirers](data/articles/2024-presidential-electi.4d572e1b/README.md) `ft.lk`
 * [No economic policy will work with rampant corruption](data/articles/no-economic-policy-will.102f1d05/README.md) `ft.lk`
 * [Presidents may come and go but JR’s Executive Presidency goes on forever](data/articles/presidents-may-come-and.138f7692/README.md) `ft.lk`
+* [Flu season is coming—and so is the risk of an all-new bird flu](data/articles/flu-season-is-coming-and.06da9b4c/README.md) `technologyreview.com`
 * [Pager blasts in Lebanon: How safe are our mobile devices?](data/articles/pager-blasts-in-lebanon.7d58e556/README.md) `dailymirror.lk`
 * [Sri Lanka: A drama based on human flaws!](data/articles/sri-lanka-a-drama-based.ebaa9e98/README.md) `dailymirror.lk`
+* [Mismanaging of workers’ trust  Lanka Transformers Ltd in the spotlight for transferring funds, shares](data/articles/mismanaging-of-workers-t.9d1673f9/README.md) `dailymirror.lk`
 
 ## 2024-09-19
 
