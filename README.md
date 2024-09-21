@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-20 18:18:39**
+Last Updated **2024-09-21 06:25:46**
+
+## 2024-09-21
+
+* [Weaponising  Non-Violence: Tiger Leader Thileepan’s  Fast Unto  Death](data/articles/weaponising-non-violence.09f67582/README.md) `dailymirror.lk`
+* [An election with many firsts](data/articles/an-election-with-many-fi.6617136c/README.md) `dailymirror.lk`
+* [Politics, sport and a bard  for Lanka - EDITORIAL](data/articles/politics-sport-and-a-bar.8d5e9609/README.md) `dailymirror.lk`
+* [Thoughts for the incoming President](data/articles/thoughts-for-the-incomin.c1182204/README.md) `ft.lk`
+* [Austerity measures on trial in Sri Lanka’s first election since economic collapse](data/articles/austerity-measures-on-tr.1802d726/README.md) `ft.lk`
 
 ## 2024-09-20
 
+* [Global dark clouds could be gathering; stabilisation of economy must be top priority of Presidential candidates](data/articles/global-dark-clouds-could.84eb0d77/README.md) `ft.lk`
+* [Sri Lanka’s workers live on margins, politicians still want their votes](data/articles/sri-lanka-s-workers-live.5ee4c500/README.md) `ft.lk`
+* [The path ahead after the poll](data/articles/the-path-ahead-after-the.f110b6a6/README.md) `ft.lk`
+* [European Central Bank to pause after September cut](data/articles/european-central-bank-to.de83e5c6/README.md) `eiu.com`
+* [Helping Building Owners Comply with Local Emissions Regulations](data/articles/helping-building-owners.a46855c2/README.md) `hbr.org`
+* [How the Next Generation of Managers Is Using Gen AI](data/articles/how-the-next-generation.c451753c/README.md) `hbr.org`
 * [Role of second preference: a simulation of 2024 Presidential election in Sri Lanka](data/articles/role-of-second-preferenc.ac0aa7e8/README.md) `ft.lk`
 * [Get set for more important parliamentary elections](data/articles/get-set-for-more-importa.95bd5272/README.md) `ft.lk`
 * [2024 Presidential elections: A mission impossible for many aspirers](data/articles/2024-presidential-electi.4d572e1b/README.md) `ft.lk`
@@ -18,6 +32,8 @@ Last Updated **2024-09-20 18:18:39**
 
 ## 2024-09-19
 
+* [US moves to crack down on de minimis shipments](data/articles/us-moves-to-crack-down-o.5f4d4670/README.md) `eiu.com`
+* [Fed opts for “hawkish 50”, with unemployment set to rise](data/articles/fed-opts-for-hawkish-50.4f4fc8b4/README.md) `eiu.com`
 * [How Venture Capitalists Can Become Effective Board Members](data/articles/how-venture-capitalists.362ba241/README.md) `hbr.org`
 * [Research: How Should Multinational Firms Navigate Local Rules?](data/articles/research-how-should-mult.1281652b/README.md) `hbr.org`
 * [How AI can help spot wildfires](data/articles/how-ai-can-help-spot-wil.6e01607f/README.md) `technologyreview.com`
