@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-22 06:24:46**
+Last Updated **2024-09-22 18:16:56**
 
 ## 2024-09-21
 
+* [Presidents May Come and  Presidents May Go but JR Jayewardene’s Executive Presidency Goes on Forever.](data/articles/presidents-may-come-and.5f46de49/README.md) `dbsjeyaraj.com`
+* [Sri Lanka’s Presidential Election Concludes Peacefully on Saturday (21); Full Results Expected on Sunday(22);  estimated Voter  Turn out 75 to 80% ; Eight  hour  Curfew from 10 PM  to 8 AM](data/articles/sri-lanka-s-presidential.c715b391/README.md) `dbsjeyaraj.com`
 * [Weaponising  Non-Violence: Tiger Leader Thileepan’s  Fast Unto  Death](data/articles/weaponising-non-violence.09f67582/README.md) `dailymirror.lk`
 * [An election with many firsts](data/articles/an-election-with-many-fi.6617136c/README.md) `dailymirror.lk`
 * [Politics, sport and a bard  for Lanka - EDITORIAL](data/articles/politics-sport-and-a-bar.8d5e9609/README.md) `dailymirror.lk`
