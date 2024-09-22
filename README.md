@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-21 18:16:43**
+Last Updated **2024-09-22 06:24:46**
 
 ## 2024-09-21
 
@@ -20,6 +20,7 @@ Last Updated **2024-09-21 18:16:43**
 * [European Central Bank to pause after September cut](data/articles/european-central-bank-to.de83e5c6/README.md) `eiu.com`
 * [Helping Building Owners Comply with Local Emissions Regulations](data/articles/helping-building-owners.a46855c2/README.md) `hbr.org`
 * [How the Next Generation of Managers Is Using Gen AI](data/articles/how-the-next-generation.c451753c/README.md) `hbr.org`
+* [It’s Time to Unbundle ESG](data/articles/it-s-time-to-unbundle-es.083afeb0/README.md) `hbr.org`
 * [Role of second preference: a simulation of 2024 Presidential election in Sri Lanka](data/articles/role-of-second-preferenc.ac0aa7e8/README.md) `ft.lk`
 * [Get set for more important parliamentary elections](data/articles/get-set-for-more-importa.95bd5272/README.md) `ft.lk`
 * [2024 Presidential elections: A mission impossible for many aspirers](data/articles/2024-presidential-electi.4d572e1b/README.md) `ft.lk`
