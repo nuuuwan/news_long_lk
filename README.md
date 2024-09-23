@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-22 18:16:56**
+Last Updated **2024-09-23 06:24:36**
+
+## 2024-09-23
+
+* [Housing hassle worsens in Gampaha District](data/articles/housing-hassle-worsens-i.5c7592c0/README.md) `dailymirror.lk`
+* [Congratulations and cautionary notes](data/articles/congratulations-and-caut.13350b64/README.md) `ft.lk`
+* [AKD’s victory a historic shift in power](data/articles/akd-s-victory-a-historic.0cb9c9a7/README.md) `ft.lk`
+* [AKD’s top priority should be to appease a population boiling from within](data/articles/akd-s-top-priority-shoul.7a801c30/README.md) `ft.lk`
+* [Ego and Arrogance: Downfall of UNP Factional Leaders](data/articles/ego-and-arrogance-downfa.89e6e750/README.md) `dailymirror.lk`
+* [Who’s more desperate – candidates, or voters?](data/articles/who-s-more-desperate-can.4cc6d9bb/README.md) `dailymirror.lk`
+* [AKD, the Ninth President  Of Sri Lanka](data/articles/akd-the-ninth-president.871549be/README.md) `dailymirror.lk`
 
 ## 2024-09-21
 
