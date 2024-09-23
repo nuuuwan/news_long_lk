@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-23 06:24:36**
+Last Updated **2024-09-23 18:20:14**
 
 ## 2024-09-23
 
+* [How Foreign Investment Is Boosting U.S. Manufacturing](data/articles/how-foreign-investment-i.c001e241/README.md) `hbr.org`
 * [Housing hassle worsens in Gampaha District](data/articles/housing-hassle-worsens-i.5c7592c0/README.md) `dailymirror.lk`
 * [Congratulations and cautionary notes](data/articles/congratulations-and-caut.13350b64/README.md) `ft.lk`
 * [AKD’s victory a historic shift in power](data/articles/akd-s-victory-a-historic.0cb9c9a7/README.md) `ft.lk`
@@ -13,6 +14,11 @@ Last Updated **2024-09-23 06:24:36**
 * [Ego and Arrogance: Downfall of UNP Factional Leaders](data/articles/ego-and-arrogance-downfa.89e6e750/README.md) `dailymirror.lk`
 * [Who’s more desperate – candidates, or voters?](data/articles/who-s-more-desperate-can.4cc6d9bb/README.md) `dailymirror.lk`
 * [AKD, the Ninth President  Of Sri Lanka](data/articles/akd-the-ninth-president.871549be/README.md) `dailymirror.lk`
+
+## 2024-09-22
+
+* [“I was able to rescue my motherland from bankruptcy within a short period of two years. I believe this to be the most important thing I could do for my country during my political career.”- Ranil Wickremesinghe.](data/articles/i-was-able-to-rescue-my.8c341577/README.md) `dbsjeyaraj.com`
+* [JVP-led NPP Leadr Anura Kumara  Dissanayake Elected as Ninth President of Sri Lanka;  Votes Received – Anura- -5,740,179; Sajith-4,530,902;Ranil -2,299,767; Namal- 342,781;Ariyanethiran- 226 343; Dilith – 122,396](data/articles/jvp-led-npp-leadr-anura.bfef0d65/README.md) `dbsjeyaraj.com`
 
 ## 2024-09-21
 
@@ -33,6 +39,7 @@ Last Updated **2024-09-23 06:24:36**
 * [Helping Building Owners Comply with Local Emissions Regulations](data/articles/helping-building-owners.a46855c2/README.md) `hbr.org`
 * [How the Next Generation of Managers Is Using Gen AI](data/articles/how-the-next-generation.c451753c/README.md) `hbr.org`
 * [It’s Time to Unbundle ESG](data/articles/it-s-time-to-unbundle-es.083afeb0/README.md) `hbr.org`
+* [AI models let robots carry out tasks in unfamiliar environments](data/articles/ai-models-let-robots-car.ba4be900/README.md) `technologyreview.com`
 * [Role of second preference: a simulation of 2024 Presidential election in Sri Lanka](data/articles/role-of-second-preferenc.ac0aa7e8/README.md) `ft.lk`
 * [Get set for more important parliamentary elections](data/articles/get-set-for-more-importa.95bd5272/README.md) `ft.lk`
 * [2024 Presidential elections: A mission impossible for many aspirers](data/articles/2024-presidential-electi.4d572e1b/README.md) `ft.lk`
@@ -65,6 +72,7 @@ Last Updated **2024-09-23 06:24:36**
 * [AI-generated content doesn’t seem to have swayed recent European elections](data/articles/ai-generated-content-doe.9a954828/README.md) `technologyreview.com`
 * [Research: Flat Hierarchies Can Discourage Women Applicants](data/articles/research-flat-hierarchie.9702ccb9/README.md) `hbr.org`
 * [How Your Sales Team Can Catch Up on Digital and AI Tools](data/articles/how-your-sales-team-can.d2100723/README.md) `hbr.org`
+* [There are more than 120 AI bills in Congress right now](data/articles/there-are-more-than-120.46984d8b/README.md) `technologyreview.com`
 * [National Single Window: Game-changer for Sri Lanka’s trading community](data/articles/national-single-window-g.6c4c1842/README.md) `ft.lk`
 * [Sri Lanka’s next leader: can make or break the nation](data/articles/sri-lanka-s-next-leader.922cb543/README.md) `ft.lk`
 * [China confident bilateral relations with Sri Lanka will have brighter future](data/articles/china-confident-bilatera.420f6e73/README.md) `ft.lk`
