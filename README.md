@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-23 18:20:14**
+Last Updated **2024-09-24 06:24:57**
+
+## 2024-09-24
+
+* [Beyond Red Tape: How Digitalization Can Save Sri Lanka’s Economy](data/articles/beyond-red-tape-how-digi.f1025558/README.md) `dailymirror.lk`
+* [How Maldives is trying not to default on foreign loans](data/articles/how-maldives-is-trying-n.1a26bcb7/README.md) `dailymirror.lk`
+* [Do away with incumbency privileges during elections - EDITORIAL](data/articles/do-away-with-incumbency.f0cf08dd/README.md) `dailymirror.lk`
+* [Will NPP embrace a new development trajectory?](data/articles/will-npp-embrace-a-new-d.b6426c7d/README.md) `ft.lk`
+* [The people’s choice: Quest for a new political era](data/articles/the-people-s-choice-ques.047d974c/README.md) `ft.lk`
+* [President Anura Kumara Dissanayake: Sri Lanka’s desire to chart a new course](data/articles/president-anura-kumara-d.0f284c39/README.md) `ft.lk`
+* [Open letter to AKD](data/articles/open-letter-to-akd.8a872e7e/README.md) `ft.lk`
 
 ## 2024-09-23
 
