@@ -2,20 +2,27 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-24 06:24:57**
+Last Updated **2024-09-24 18:20:11**
 
 ## 2024-09-24
 
+* [How to Keep Learning at Work — Even When You Feel Fried](data/articles/how-to-keep-learning-at.b40fb784/README.md) `hbr.org`
+* [Global Outlook: looking ahead to 2025](data/articles/global-outlook-looking-a.f5f4ee54/README.md) `eiu.com`
+* [Coming soon: Our 2024 list of 15 Climate Tech Companies to Watch](data/articles/coming-soon-our-2024-lis.4ec1cc8b/README.md) `technologyreview.com`
 * [Beyond Red Tape: How Digitalization Can Save Sri Lanka’s Economy](data/articles/beyond-red-tape-how-digi.f1025558/README.md) `dailymirror.lk`
+* [Beyond Red Tape: How Digitalization Can Save Sri Lanka’s Economy](data/articles/beyond-red-tape-how-digi.56b5c35b/README.md) `dailymirror.lk`
 * [How Maldives is trying not to default on foreign loans](data/articles/how-maldives-is-trying-n.1a26bcb7/README.md) `dailymirror.lk`
 * [Do away with incumbency privileges during elections - EDITORIAL](data/articles/do-away-with-incumbency.f0cf08dd/README.md) `dailymirror.lk`
 * [Will NPP embrace a new development trajectory?](data/articles/will-npp-embrace-a-new-d.b6426c7d/README.md) `ft.lk`
 * [The people’s choice: Quest for a new political era](data/articles/the-people-s-choice-ques.047d974c/README.md) `ft.lk`
 * [President Anura Kumara Dissanayake: Sri Lanka’s desire to chart a new course](data/articles/president-anura-kumara-d.0f284c39/README.md) `ft.lk`
+* [President  Dissanayake to Appont  Four Member Cabinet Including Himself,  to be in charge of 15 Portfolios. Harini Amarasuria to be Prime Ministe with  Vijitha Herath and Lakshman Nipuna Arachchi as Ministers.Parliament will be Dissolved and Fresh Elections held in December](data/articles/president-dissanayake-to.3402df87/README.md) `dbsjeyaraj.com`
 * [Open letter to AKD](data/articles/open-letter-to-akd.8a872e7e/README.md) `ft.lk`
 
 ## 2024-09-23
 
+* [“I am not a magician; I am not a miracle-worker. There are things I know and don’t know. But I will commit myself to doing the right thing at all times, and lead a collective effort to rebuild our nation,” Says Sri Lanka’s new President Anura Kumara Dissanayake at swearing in event](data/articles/i-am-not-a-magician-i-a.be5b18c1/README.md) `dbsjeyaraj.com`
+* [Digital Twins Can Help You Make Better Strategic Decisions](data/articles/digital-twins-can-help-y.83b0e74d/README.md) `hbr.org`
 * [How Foreign Investment Is Boosting U.S. Manufacturing](data/articles/how-foreign-investment-i.c001e241/README.md) `hbr.org`
 * [Housing hassle worsens in Gampaha District](data/articles/housing-hassle-worsens-i.5c7592c0/README.md) `dailymirror.lk`
 * [Congratulations and cautionary notes](data/articles/congratulations-and-caut.13350b64/README.md) `ft.lk`
