@@ -2,11 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-24 18:20:11**
+Last Updated **2024-09-25 06:25:06**
+
+## 2024-09-25
+
+* [Restraint on economy and full-steam on governance – AKD’s implicit strategy?](data/articles/restraint-on-economy-and.31f70e7e/README.md) `ft.lk`
+* [Middle class angst of Karl Marx](data/articles/middle-class-angst-of-ka.11aa1c5f/README.md) `ft.lk`
+* [Growth is necessary but not sufficient](data/articles/growth-is-necessary-but.1a37e95c/README.md) `ft.lk`
+* [AKD’s challenge: Increasing national productivity in improving standard of living](data/articles/akd-s-challenge-increasi.044d86d7/README.md) `ft.lk`
+* [Dawn of a new era with cautious optimism](data/articles/dawn-of-a-new-era-with-c.8af0ec6a/README.md) `ft.lk`
 
 ## 2024-09-24
 
+* [If the historic AKD win does not become yet another regret…](data/articles/if-the-historic-akd-win.26360365/README.md) `dailymirror.lk`
+* [Poverty, minority issues: Problems facing new president](data/articles/poverty-minority-issues.ff8c16fc/README.md) `dailymirror.lk`
+* [Video Quick Take: Intercom’s Brian Donahue on How AI Customer Service Agents Are Delivering Massive Value](data/articles/video-quick-take-interco.5f83479a/README.md) `hbr.org`
+* [4 Steps That Can Optimize Your Sales Process](data/articles/4-steps-that-can-optimiz.bc7a504d/README.md) `hbr.org`
 * [How to Keep Learning at Work — Even When You Feel Fried](data/articles/how-to-keep-learning-at.b40fb784/README.md) `hbr.org`
+* [An AI script editor could help decide what films get made in Hollywood](data/articles/an-ai-script-editor-coul.b9589674/README.md) `technologyreview.com`
 * [Global Outlook: looking ahead to 2025](data/articles/global-outlook-looking-a.f5f4ee54/README.md) `eiu.com`
 * [Coming soon: Our 2024 list of 15 Climate Tech Companies to Watch](data/articles/coming-soon-our-2024-lis.4ec1cc8b/README.md) `technologyreview.com`
 * [Beyond Red Tape: How Digitalization Can Save Sri Lanka’s Economy](data/articles/beyond-red-tape-how-digi.f1025558/README.md) `dailymirror.lk`
