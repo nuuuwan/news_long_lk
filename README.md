@@ -2,21 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-25 06:25:06**
+Last Updated **2024-09-25 18:20:29**
 
 ## 2024-09-25
 
+* [Research: Competent Leaders Know The Limits of Their Expertise](data/articles/research-competent-leade.f5fa01a4/README.md) `hbr.org`
 * [Restraint on economy and full-steam on governance – AKD’s implicit strategy?](data/articles/restraint-on-economy-and.31f70e7e/README.md) `ft.lk`
 * [Middle class angst of Karl Marx](data/articles/middle-class-angst-of-ka.11aa1c5f/README.md) `ft.lk`
 * [Growth is necessary but not sufficient](data/articles/growth-is-necessary-but.1a37e95c/README.md) `ft.lk`
 * [AKD’s challenge: Increasing national productivity in improving standard of living](data/articles/akd-s-challenge-increasi.044d86d7/README.md) `ft.lk`
 * [Dawn of a new era with cautious optimism](data/articles/dawn-of-a-new-era-with-c.8af0ec6a/README.md) `ft.lk`
+* [Academic Turned MP Dr.Harini Amarasuriya  Becomes Third Woman to be Prime Minist of Sri Lanka after Sirimavo Bandaranaike in 1960 and Chandrika  Kumaratunga in 1994; President Anura Dissanayake Dissolves Parliament  to hold Election  on 14th November](data/articles/academic-turned-mp-dr-ha.259282e1/README.md) `dbsjeyaraj.com`
 
 ## 2024-09-24
 
+* [If the historic AKD win does not become yet another regret…](data/articles/if-the-historic-akd-win.14c132f2/README.md) `dailymirror.lk`
 * [If the historic AKD win does not become yet another regret…](data/articles/if-the-historic-akd-win.26360365/README.md) `dailymirror.lk`
 * [Poverty, minority issues: Problems facing new president](data/articles/poverty-minority-issues.ff8c16fc/README.md) `dailymirror.lk`
 * [Video Quick Take: Intercom’s Brian Donahue on How AI Customer Service Agents Are Delivering Massive Value](data/articles/video-quick-take-interco.5f83479a/README.md) `hbr.org`
+* [OpenAI released its advanced voice mode to more people. Here’s how to get it.](data/articles/openai-released-its-adva.8f87e262/README.md) `technologyreview.com`
 * [4 Steps That Can Optimize Your Sales Process](data/articles/4-steps-that-can-optimiz.bc7a504d/README.md) `hbr.org`
 * [How to Keep Learning at Work — Even When You Feel Fried](data/articles/how-to-keep-learning-at.b40fb784/README.md) `hbr.org`
 * [An AI script editor could help decide what films get made in Hollywood](data/articles/an-ai-script-editor-coul.b9589674/README.md) `technologyreview.com`
@@ -39,6 +43,7 @@ Last Updated **2024-09-25 06:25:06**
 * [How Foreign Investment Is Boosting U.S. Manufacturing](data/articles/how-foreign-investment-i.c001e241/README.md) `hbr.org`
 * [Housing hassle worsens in Gampaha District](data/articles/housing-hassle-worsens-i.5c7592c0/README.md) `dailymirror.lk`
 * [Congratulations and cautionary notes](data/articles/congratulations-and-caut.13350b64/README.md) `ft.lk`
+* [Some countries are ending support for EVs. Is it too soon?](data/articles/some-countries-are-endin.7193c6fb/README.md) `technologyreview.com`
 * [AKD’s victory a historic shift in power](data/articles/akd-s-victory-a-historic.0cb9c9a7/README.md) `ft.lk`
 * [AKD’s top priority should be to appease a population boiling from within](data/articles/akd-s-top-priority-shoul.7a801c30/README.md) `ft.lk`
 * [Ego and Arrogance: Downfall of UNP Factional Leaders](data/articles/ego-and-arrogance-downfa.89e6e750/README.md) `dailymirror.lk`
