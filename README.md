@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-25 18:20:29**
+Last Updated **2024-09-26 06:25:13**
 
 ## 2024-09-25
 
+* [Charting Sri Lanka’s future: A political economy blueprint for next Presidency](data/articles/charting-sri-lanka-s-fut.98104fdd/README.md) `ft.lk`
+* [Inside the enigma: Ranil’s legacy and Anura’s destiny](data/articles/inside-the-enigma-ranil.d25f2fe6/README.md) `ft.lk`
+* [Dialog Television Brings New Prepaid Channel Plans with even more channels](data/articles/dialog-television-brings.16849fde/README.md) `ft.lk`
+* [Fed up of racist politics, corruption, and mismanagement](data/articles/fed-up-of-racist-politic.dae52073/README.md) `ft.lk`
+* [Comrade President: Dimensions of AKD’s victory and Sajith’s defeat](data/articles/comrade-president-dimens.90b1836f/README.md) `ft.lk`
+* [Would we see AKD reflecting the face of China?](data/articles/would-we-see-akd-reflect.3e259321/README.md) `dailymirror.lk`
+* [Is Dr. Amarasuriya the Kamala Harris of  Sri Lanka?](data/articles/is-dr-amarasuriya-the-ka.1c530d85/README.md) `dailymirror.lk`
+* [New government, new hopes and new challenges](data/articles/new-government-new-hopes.6885471d/README.md) `dailymirror.lk`
+* [Want AI that flags hateful content? Build it.](data/articles/want-ai-that-flags-hatef.c031dd53/README.md) `technologyreview.com`
+* [Tiger Leader “Thiyagi” Thileepan Weaponised Non-Violence Through his  Fast Unto  Death in September 27.](data/articles/tiger-leader-thiyagi-thi.d73e1845/README.md) `dbsjeyaraj.com`
+* [What Luxury Fashion Can Learn from the Wholesale Flower Market](data/articles/what-luxury-fashion-can.d46456df/README.md) `hbr.org`
 * [Research: Competent Leaders Know The Limits of Their Expertise](data/articles/research-competent-leade.f5fa01a4/README.md) `hbr.org`
 * [Restraint on economy and full-steam on governance – AKD’s implicit strategy?](data/articles/restraint-on-economy-and.31f70e7e/README.md) `ft.lk`
 * [Middle class angst of Karl Marx](data/articles/middle-class-angst-of-ka.11aa1c5f/README.md) `ft.lk`
