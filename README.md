@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-26 06:25:13**
+Last Updated **2024-09-26 18:20:25**
+
+## 2024-09-26
+
+* [A Better Way to Measure Social Impact](data/articles/a-better-way-to-measure.dbe5de31/README.md) `hbr.org`
+* [Why Microsoft made a deal to help restart Three Mile Island](data/articles/why-microsoft-made-a-dea.aa089c8d/README.md) `technologyreview.com`
 
 ## 2024-09-25
 
