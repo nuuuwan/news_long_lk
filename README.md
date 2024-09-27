@@ -2,12 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-26 18:20:25**
+Last Updated **2024-09-27 06:24:49**
+
+## 2024-09-27
+
+* [Has the new Government already violated its own principles?](data/articles/has-the-new-government-a.0813c7e5/README.md) `ft.lk`
+* [A call to Prime Minister Dr. Harini Amarasuriya: Lighten school bags, reform education](data/articles/a-call-to-prime-minister.e264bb8d/README.md) `ft.lk`
+* [2024: The change and the choice](data/articles/2024-the-change-and-the.947697e7/README.md) `ft.lk`
+* [In celebration of China’s 75th National Day: Towards greater progress of China-Sri Lanka friendship](data/articles/in-celebration-of-china.a1ee05ae/README.md) `ft.lk`
+* [The prelate and the premier: Why Buddharakkitha Thera got S.W.R.D. Bandaranaike murdered](data/articles/the-prelate-and-the-prem.f0b8e2d8/README.md) `ft.lk`
 
 ## 2024-09-26
 
+* [Using Mathematical Optimization to Solve Complex Business Challenges](data/articles/using-mathematical-optim.ad66c3ec/README.md) `hbr.org`
 * [A Better Way to Measure Social Impact](data/articles/a-better-way-to-measure.dbe5de31/README.md) `hbr.org`
 * [Why Microsoft made a deal to help restart Three Mile Island](data/articles/why-microsoft-made-a-dea.aa089c8d/README.md) `technologyreview.com`
+* [Inside the Enigma: Ranil’s Legacy and Anura’s Destiny](data/articles/inside-the-enigma-ranil.9b1305ed/README.md) `dbsjeyaraj.com`
 
 ## 2024-09-25
 
