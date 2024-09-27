@@ -1,0 +1,42 @@
+# Israel’s war on Hezbollah pushing Middle East towards chaos
+
+[https://www.dailymirror.lk/plus/Israels-war-on-Hezbollah-pushing-Middle-East-towards-chaos/352-292550](https://www.dailymirror.lk/plus/Israels-war-on-Hezbollah-pushing-Middle-East-towards-chaos/352-292550)
+
+*07:41 AM, Friday, September 27, 2024*
+
+A handout image released by the Hezbollah military media press office on September 25, 2024, shows a “Qader 1” ballistic missile at an undisclosed location. AFP
+
+By declaring war on Hezbollah, Israel has extended its genocidal Gaza war to Lebanon. Disregarding global calls for restraint, Israel’s war-thirsty Prime Minister Benjamin Netanyahu is now planning a ground invasion of Lebanon. And it is going to be his Waterloo.
+
+Israel has superior firepower and air power, but when it comes to one-on-one ground-level fighting, its soldiers are no match to Hezbollah fighters. In a previous encounter between the two forces in 2006, Israel had to make a hasty retreat, unable to sustain heavy casualties. Since then, the two sides have improved their strategies, filling their arsenals with much-advanced weaponry. But this is an asymmetrical battle, with Israel having probably a 100-to-1 advantage or even bigger.
+
+Israel has Mossad, the world’s most powerful and dreaded intelligence outfit, which has even misled friendly intelligence agencies, such as the United States Central Intelligence Agency and Britain’s MI5 and MI6, while cooperating with them. From the John F. Kennedy assassination to the 9/11 terror attacks to the recent pager blasts in Lebanon, the Mossad signature is visible or suspected.
+
+It is said that Mossad even bombs its own embassies and Jewish synagogues to prop up global sympathy for Israel, generate anti-Palestinian sentiments, and whip up Islamophobia. In 2008, former MI5 (British internal intelligence) agent Annie Machon, in an interview, said the 1994 London bombs that targeted the Israeli embassy and the Buenos Aires bomb outside the Israeli interest section the same year were Mossad work. To back up her claim, she cited her own bosses’ observations, according to which the controlled bombs were highly sophisticated and the rag-tag Palestinian groups that were accused of committing them could not have access to such technology.
+
+Hezbollah has no equivalent to match Mossad’s capabilities and sophistication, even though the group recently boasted of sending a spy drone to Israeli cities such as Haifa to collect information. It has no advanced cyber weapons to hack into Israel’s Iron Dome system, though it has downed one or two Israeli drones.
+
+But one cannot dismiss Hezbollah as a sitting duck waiting for a killer hit. Its members are battle-hardened. A feather in its hat was the victory against Israel in the 2006 war. It can also claim credit for preventing a certain defeat for the Bashar Al-Assad government in the Syrian civil war. It was only after Hezbollah entered the Syrian civil war that the fortunes of the war began to turn in favour of the Syrian regime. Of course, the Russian and Iranian Revolution Guards later played a bigger role in defeating the anti-government forces and the ISIS terrorists.
+
+Over the years, Hezbollah has accrued advanced missiles, drones, and anti-tank weapons, and these weapons remain safe in underground bases. It is to neutralise these weapons that Israel is preparing a ground invasion. On Wednesday, it claimed it had fired a ballistic missile targeting Israeli spy agency Mossad’s headquarters near Tel Aviv.
+
+But that is exactly what Hezbollah wants to happen, for it believes it has the advantage in a ground war. In June this year, responding to a ground invasion threat from Israel, Hezbollah leader Hassan Nasrallah said if war broke out, it would be a war with “no restraint, no rules, and no ceilings.” Hezbollah leaders even warned of launching sea and ground offensives, taking the war across the border into Israel.
+
+The Iran-backed Hezbollah counts Yemen’s Houthi militias among its allies. The Houthis now control more than 70 percent of the country and have emerged victorious in the civil war, which drew the Saudis and Emiratis into the conflict against them.
+
+Also, Hezbollah’s allies were the Iraqi Shiite militia group Kataib Hezbollah. In support of Hezbollah, the group launched a drone attack on Israel on Wednesday and warned more such attacks would follow if Israel continued its aggression on Lebanon. The entry of the Iraqi militia group spells the possibility of a region-wide war. In response to Houthi missile attacks, Israel has carried out several air attacks on the Houthi-controlled Yemeni port of Hudaydah. Will Israel launch a similar attack on Kataib Hezbollah targets in Iraq, widening the war?
+
+Such a wider conflict cannot be labelled as a Shiite-Muslim war against Israel. Hezbollah’s ally Hamas is a Sunni Muslim group. Besides, across the Sunni Muslim world, the common prayer is for a resounding Israeli defeat. It is in recognition of these sentiments that Saudi Arabia, which was moving in the direction of normalising ties with Israel, announced recently that until an independent Palestinian state was established, the kingdom would not sign the so-called Abrahamic accord.
+
+As the Hezbollah strongholds in South Lebanon are pounded by Israel, Iran has been conspicuous by its restraint, though it has denounced the attacks. In the wake of Hezbollah suffering serious setbacks by losing some of its senior leaders in Israeli attacks, Iran’s Supreme Leader, Ayatollah Ali Khamenei, addressing Iran’s military leadership, expressed support for Hezbollah and the Lebanese militia group would survive the Israeli strikes.
+
+Iran prefers the balance of power in the region to continue. It probably believes that any escalation needs to be within controllable limits. However, Israel has been on an offensive with the support of some Arab countries to destabilise the Middle Eastern balance of power or the status quo. If the balance of power is defined as an equilibrium between world order and chaos, surely Israel’s decision to widen the Gaza war is pulling towards chaos or disastrous consequences for the world, as the region accounts for nearly a third of the world’s energy supplies.
+
+The Middle Eastern balance of power has brought about an equilibrium where states are arranged in a pecking order in terms of their political power. In this power hierarchy, what places Israel above Iran is Israel’s nuclear weapons. Iran vacillates between weaponising its nuclear programme and using it only for peaceful purposes. However, any disability caused to the regional balance of power is likely to drive Iran towards the weaponization of its nuclear programme. After all, nuclear weapons in possession of rival powers act as a deterrent and ensure the balance of power equilibrium.
+
+“Don’t make Lebanon another Gaza, pleaded UN Secretary-General Antonio Guterres, addressing the UN General Assembly annual sessions this week. But the entire UN system, along with mechanisms such as the International Court of Justice and International Criminal Court, are proving to be powerless in bringing the Gaza war to an end. Hezbollah has said it will cease attacking Israel upon a Gaza ceasefire deal. Israel has no intention to bring to an end its Gaza war through talks or a ceasefire deal, even though Hamas has endorsed the US ceasefire plan.
+
+At the ongoing UNGA sessions, several world leaders condemn Israel. But none is ready to weaponise the words into action and bring pressure on Israel to withdraw from Gaza and stop its Lebanon offensive. US President Joe Biden said the Gaza war should end now and called on both Israel and Hezbollah to exercise restraint.
+
+But the US is as complicit as Israel in the Gaza genocide, which has claimed 41,000 lives, and more are being added to the toll with each passing day. In Lebanon, nearly 700 people have been killed since Sunday.
+
