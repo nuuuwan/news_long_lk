@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-28 06:25:08**
+Last Updated **2024-09-28 18:16:56**
 
 ## 2024-09-28
 
@@ -13,6 +13,8 @@ Last Updated **2024-09-28 06:25:08**
 
 ## 2024-09-27
 
+* [From three percent to the throne](data/articles/from-three-percent-to-th.01c61c86/README.md) `dailymirror.lk`
+* [Team Europe and UN in support of a circular food system in Sri Lanka](data/articles/team-europe-and-un-in-su.f6049d75/README.md) `ft.lk`
 * [Post Presidential polls -Winds of change or new broom](data/articles/post-presidential-polls.f5b298e9/README.md) `dailymirror.lk`
 * [The power of the cross and a crossover in power styles](data/articles/the-power-of-the-cross-a.b919bb66/README.md) `ft.lk`
 * [Strengthening governance in Sri Lanka: Case for an External Policy Review Board](data/articles/strengthening-governance.ab692bc0/README.md) `ft.lk`
@@ -173,6 +175,7 @@ Last Updated **2024-09-28 06:25:08**
 * [How Companies Can Use AI to Better Serve Deaf and Hard of Hearing Customers](data/articles/how-companies-can-use-ai.f873cad3/README.md) `hbr.org`
 * [4 Traps to Avoid as You Transition into a Leadership Role](data/articles/4-traps-to-avoid-as-you.c2c259c9/README.md) `hbr.org`
 * [Sri Lanka Presidential election 2024: Who will have the last laugh?](data/articles/sri-lanka-presidential-e.c068aae0/README.md) `dailymirror.lk`
+* [Why OpenAI’s new model is such a big deal](data/articles/why-openai-s-new-model-i.ba0ab7d8/README.md) `technologyreview.com`
 * [Presidenshel elecshen gide](data/articles/presidenshel-elecshen-gi.8ed0e8bb/README.md) `ft.lk`
 * [Ukraine’s Kursk gamble and the F16 crash mystery](data/articles/ukraine-s-kursk-gamble-a.e33775ff/README.md) `dailymirror.lk`
 * [What is in store for people after polls?](data/articles/what-is-in-store-for-peo.613ce673/README.md) `dailymirror.lk`
