@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-27 18:19:33**
+Last Updated **2024-09-28 06:25:08**
+
+## 2024-09-28
+
+* [Role of history and ideology in shaping China’s geopolitical strategies and influence on Sri Lanka](data/articles/role-of-history-and-ideo.484ccd16/README.md) `ft.lk`
+* [Ratha Gaya: A national burden](data/articles/ratha-gaya-a-national-bu.3c16cbf1/README.md) `ft.lk`
+* [UNP and its continuing suicidal saga](data/articles/unp-and-its-continuing-s.446c020f/README.md) `ft.lk`
+* [Anura Kumara  Dissanayake;  “Leftist”  Star Rises  Over  Sri Lanka](data/articles/anura-kumara-dissanayake.e0cf98b8/README.md) `dailymirror.lk`
 
 ## 2024-09-27
 
+* [Post Presidential polls -Winds of change or new broom](data/articles/post-presidential-polls.f5b298e9/README.md) `dailymirror.lk`
+* [The power of the cross and a crossover in power styles](data/articles/the-power-of-the-cross-a.b919bb66/README.md) `ft.lk`
+* [Strengthening governance in Sri Lanka: Case for an External Policy Review Board](data/articles/strengthening-governance.ab692bc0/README.md) `ft.lk`
+* [How to Work for a Boss Who Always Changes Their Mind](data/articles/how-to-work-for-a-boss-w.6e278333/README.md) `hbr.org`
+* [Data Collectives Are the Next Frontier of Labor Relations](data/articles/data-collectives-are-the.2406cdaa/README.md) `hbr.org`
 * [A Self-Care Checklist for Leaders](data/articles/a-self-care-checklist-fo.98478576/README.md) `hbr.org`
 * [Israel’s war on Hezbollah pushing Middle East towards chaos](data/articles/israel-s-war-on-hezbolla.1339fd74/README.md) `dailymirror.lk`
 * [A plea to save publishers during book month](data/articles/a-plea-to-save-publisher.74021e33/README.md) `dailymirror.lk`
@@ -18,6 +30,7 @@ Last Updated **2024-09-27 18:19:33**
 ## 2024-09-26
 
 * [Using Mathematical Optimization to Solve Complex Business Challenges](data/articles/using-mathematical-optim.ad66c3ec/README.md) `hbr.org`
+* [A New Model to Expand Credit Access Globally](data/articles/a-new-model-to-expand-cr.cde05686/README.md) `hbr.org`
 * [AI Can (Mostly) Outperform Human CEOs](data/articles/ai-can-mostly-outperform.fac898bf/README.md) `hbr.org`
 * [A Better Way to Measure Social Impact](data/articles/a-better-way-to-measure.dbe5de31/README.md) `hbr.org`
 * [Why Microsoft made a deal to help restart Three Mile Island](data/articles/why-microsoft-made-a-dea.aa089c8d/README.md) `technologyreview.com`
@@ -50,6 +63,8 @@ Last Updated **2024-09-27 18:19:33**
 * [If the historic AKD win does not become yet another regret…](data/articles/if-the-historic-akd-win.14c132f2/README.md) `dailymirror.lk`
 * [If the historic AKD win does not become yet another regret…](data/articles/if-the-historic-akd-win.26360365/README.md) `dailymirror.lk`
 * [Poverty, minority issues: Problems facing new president](data/articles/poverty-minority-issues.ff8c16fc/README.md) `dailymirror.lk`
+* [Israel and Lebanon edge closer to all-out war](data/articles/israel-and-lebanon-edge.4b1a9db1/README.md) `eiu.com`
+* [China launches financial bazooka to lift economy](data/articles/china-launches-financial.1e38eaeb/README.md) `eiu.com`
 * [Video Quick Take: Intercom’s Brian Donahue on How AI Customer Service Agents Are Delivering Massive Value](data/articles/video-quick-take-interco.5f83479a/README.md) `hbr.org`
 * [OpenAI released its advanced voice mode to more people. Here’s how to get it.](data/articles/openai-released-its-adva.8f87e262/README.md) `technologyreview.com`
 * [4 Steps That Can Optimize Your Sales Process](data/articles/4-steps-that-can-optimiz.bc7a504d/README.md) `hbr.org`
