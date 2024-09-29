@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-28 18:16:56**
+Last Updated **2024-09-29 06:24:59**
 
 ## 2024-09-28
 
+* [The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.](data/articles/the-prelate-and-the-prem.92093157/README.md) `dbsjeyaraj.com`
+* [Sri Lanka’s new  Govt led by  President  Anura  Kumar  Dissanayake Restores  Country’s Old Visa System  in Adherence to a Recent Supreme Court Ruling](data/articles/sri-lanka-s-new-govt-led.a0040354/README.md) `dbsjeyaraj.com`
 * [Role of history and ideology in shaping China’s geopolitical strategies and influence on Sri Lanka](data/articles/role-of-history-and-ideo.484ccd16/README.md) `ft.lk`
 * [Ratha Gaya: A national burden](data/articles/ratha-gaya-a-national-bu.3c16cbf1/README.md) `ft.lk`
 * [UNP and its continuing suicidal saga](data/articles/unp-and-its-continuing-s.446c020f/README.md) `ft.lk`
@@ -28,6 +30,7 @@ Last Updated **2024-09-28 18:16:56**
 * [2024: The change and the choice](data/articles/2024-the-change-and-the.947697e7/README.md) `ft.lk`
 * [In celebration of China’s 75th National Day: Towards greater progress of China-Sri Lanka friendship](data/articles/in-celebration-of-china.a1ee05ae/README.md) `ft.lk`
 * [The prelate and the premier: Why Buddharakkitha Thera got S.W.R.D. Bandaranaike murdered](data/articles/the-prelate-and-the-prem.f0b8e2d8/README.md) `ft.lk`
+* [Space travel is dangerous. Could genetic testing and gene editing make it safer?](data/articles/space-travel-is-dangerou.78d81cff/README.md) `technologyreview.com`
 
 ## 2024-09-26
 
@@ -52,6 +55,7 @@ Last Updated **2024-09-28 18:16:56**
 * [Tiger Leader “Thiyagi” Thileepan Weaponised Non-Violence Through his  Fast Unto  Death in September 27.](data/articles/tiger-leader-thiyagi-thi.d73e1845/README.md) `dbsjeyaraj.com`
 * [What Luxury Fashion Can Learn from the Wholesale Flower Market](data/articles/what-luxury-fashion-can.d46456df/README.md) `hbr.org`
 * [Research: Competent Leaders Know The Limits of Their Expertise](data/articles/research-competent-leade.f5fa01a4/README.md) `hbr.org`
+* [A tiny new open-source AI model performs as well as powerful big ones](data/articles/a-tiny-new-open-source-a.1c815d94/README.md) `technologyreview.com`
 * [Why one developer won’t quit fighting to connect the US’s grids](data/articles/why-one-developer-won-t.c074af80/README.md) `technologyreview.com`
 * [Restraint on economy and full-steam on governance – AKD’s implicit strategy?](data/articles/restraint-on-economy-and.31f70e7e/README.md) `ft.lk`
 * [Middle class angst of Karl Marx](data/articles/middle-class-angst-of-ka.11aa1c5f/README.md) `ft.lk`
