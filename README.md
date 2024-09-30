@@ -2,16 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-30 06:25:15**
+Last Updated **2024-09-30 18:20:48**
 
 ## 2024-09-30
 
+* [Supply Chains Belong at the Top of a CEO’s Agenda](data/articles/supply-chains-belong-at.ae3783cf/README.md) `hbr.org`
 * [Plantation workers are poor, destitute, and helpless, but their poetic expressions are marvellous](data/articles/plantation-workers-are-p.78a2f692/README.md) `ft.lk`
 * [Social reformer AKD, Sri Lanka’s 9th President](data/articles/social-reformer-akd-sri.d373a3e1/README.md) `ft.lk`
 * [Fervent appeal to Minister Amarasuriya; please free Royal College from deep rooted corruption](data/articles/fervent-appeal-to-minist.2fc17d1f/README.md) `ft.lk`
 * [Political Maturity?  Ranil’s Honourable Exit and NPP’s Reciprocal Approach](data/articles/political-maturity-ranil.72835930/README.md) `dailymirror.lk`
 * [Screen Time for Children: A Guide for Parents](data/articles/screen-time-for-children.aa1a1ca0/README.md) `dailymirror.lk`
 * [President faces a problem common to many developing nations: Austerity imposed by the West](data/articles/president-faces-a-proble.3e2ced2e/README.md) `dailymirror.lk`
+* [President faces a problem common to many developing nations: Austerity imposed by the West](data/articles/president-faces-a-proble.6120fa5b/README.md) `dailymirror.lk`
 * [The UN -missing the wood for the trees -  EDITORIAL](data/articles/the-un-missing-the-wood.4ab4be17/README.md) `dailymirror.lk`
 
 ## 2024-09-29
@@ -22,6 +24,7 @@ Last Updated **2024-09-30 06:25:15**
 
 * [The Prelate and the Premier:                                     Why   Mapitigama Buddharakkitha  Thera got  SWRD Bandaranaike Assaassinated.](data/articles/the-prelate-and-the-prem.92093157/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s new  Govt led by  President  Anura  Kumar  Dissanayake Restores  Country’s Old Visa System  in Adherence to a Recent Supreme Court Ruling](data/articles/sri-lanka-s-new-govt-led.a0040354/README.md) `dbsjeyaraj.com`
+* [Sorry, AI won’t “fix” climate change](data/articles/sorry-ai-won-t-fix-clima.4d24182f/README.md) `technologyreview.com`
 * [Role of history and ideology in shaping China’s geopolitical strategies and influence on Sri Lanka](data/articles/role-of-history-and-ideo.484ccd16/README.md) `ft.lk`
 * [Ratha Gaya: A national burden](data/articles/ratha-gaya-a-national-bu.3c16cbf1/README.md) `ft.lk`
 * [UNP and its continuing suicidal saga](data/articles/unp-and-its-continuing-s.446c020f/README.md) `ft.lk`
@@ -69,6 +72,7 @@ Last Updated **2024-09-30 06:25:15**
 * [Tiger Leader “Thiyagi” Thileepan Weaponised Non-Violence Through his  Fast Unto  Death in September 27.](data/articles/tiger-leader-thiyagi-thi.d73e1845/README.md) `dbsjeyaraj.com`
 * [What Luxury Fashion Can Learn from the Wholesale Flower Market](data/articles/what-luxury-fashion-can.d46456df/README.md) `hbr.org`
 * [Research: Competent Leaders Know The Limits of Their Expertise](data/articles/research-competent-leade.f5fa01a4/README.md) `hbr.org`
+* [Two Nobel Prize winners want to cancel their own CRISPR patents in Europe](data/articles/two-nobel-prize-winners.9671552a/README.md) `technologyreview.com`
 * [A tiny new open-source AI model performs as well as powerful big ones](data/articles/a-tiny-new-open-source-a.1c815d94/README.md) `technologyreview.com`
 * [Why one developer won’t quit fighting to connect the US’s grids](data/articles/why-one-developer-won-t.c074af80/README.md) `technologyreview.com`
 * [Restraint on economy and full-steam on governance – AKD’s implicit strategy?](data/articles/restraint-on-economy-and.31f70e7e/README.md) `ft.lk`
