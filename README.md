@@ -2,7 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-29 18:17:26**
+Last Updated **2024-09-30 06:25:15**
+
+## 2024-09-30
+
+* [Plantation workers are poor, destitute, and helpless, but their poetic expressions are marvellous](data/articles/plantation-workers-are-p.78a2f692/README.md) `ft.lk`
+* [Social reformer AKD, Sri Lanka’s 9th President](data/articles/social-reformer-akd-sri.d373a3e1/README.md) `ft.lk`
+* [Fervent appeal to Minister Amarasuriya; please free Royal College from deep rooted corruption](data/articles/fervent-appeal-to-minist.2fc17d1f/README.md) `ft.lk`
+* [Political Maturity?  Ranil’s Honourable Exit and NPP’s Reciprocal Approach](data/articles/political-maturity-ranil.72835930/README.md) `dailymirror.lk`
+* [Screen Time for Children: A Guide for Parents](data/articles/screen-time-for-children.aa1a1ca0/README.md) `dailymirror.lk`
+* [President faces a problem common to many developing nations: Austerity imposed by the West](data/articles/president-faces-a-proble.3e2ced2e/README.md) `dailymirror.lk`
+* [The UN -missing the wood for the trees -  EDITORIAL](data/articles/the-un-missing-the-wood.4ab4be17/README.md) `dailymirror.lk`
+
+## 2024-09-29
+
+* [Anura Kumara  Dissanayake ; “Leftist” Star  Rises   Over Sri Lanka.](data/articles/anura-kumara-dissanayake.77a54061/README.md) `dbsjeyaraj.com`
 
 ## 2024-09-28
 
