@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-09-30 18:20:48**
+Last Updated **2024-10-01 06:25:15**
+
+## 2024-10-01
+
+* [Are we on the brink of World War III?](data/articles/are-we-on-the-brink-of-w.3f8d5f50/README.md) `dailymirror.lk`
+* [Understanding the message given by Northerners - EDITORIAL](data/articles/understanding-the-messag.9ecfc3b0/README.md) `dailymirror.lk`
 
 ## 2024-09-30
 
+* [A political and policy tightrope awaits Sri Lanka’s new president](data/articles/a-political-and-policy-t.c62013df/README.md) `ft.lk`
+* [Triumph of an independent commission – a role model](data/articles/triumph-of-an-independen.395d85f4/README.md) `ft.lk`
+* [President’s invitation for constructive criticism; some points to consider](data/articles/president-s-invitation-f.6a5daf24/README.md) `ft.lk`
+* [Reflecting on the results through railway promises](data/articles/reflecting-on-the-result.4db797c2/README.md) `ft.lk`
+* [AKD’s “change” with IMF and RW’s “economic stability”](data/articles/akd-s-change-with-imf-an.157efdc7/README.md) `ft.lk`
 * [Supply Chains Belong at the Top of a CEO’s Agenda](data/articles/supply-chains-belong-at.ae3783cf/README.md) `hbr.org`
 * [Plantation workers are poor, destitute, and helpless, but their poetic expressions are marvellous](data/articles/plantation-workers-are-p.78a2f692/README.md) `ft.lk`
 * [Social reformer AKD, Sri Lanka’s 9th President](data/articles/social-reformer-akd-sri.d373a3e1/README.md) `ft.lk`
