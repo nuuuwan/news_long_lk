@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-01 06:25:15**
+Last Updated **2024-10-01 18:21:00**
 
 ## 2024-10-01
 
+* [Why bigger is not always better in AI](data/articles/why-bigger-is-not-always.011ede3d/README.md) `technologyreview.com`
+* [PUT CHILDREN FIRST A MOMENT OF CHOICE  FOR SRI LANKA](data/articles/put-children-first-a-mom.9379b477/README.md) `dailymirror.lk`
 * [Are we on the brink of World War III?](data/articles/are-we-on-the-brink-of-w.3f8d5f50/README.md) `dailymirror.lk`
 * [Understanding the message given by Northerners - EDITORIAL](data/articles/understanding-the-messag.9ecfc3b0/README.md) `dailymirror.lk`
 
@@ -15,7 +17,11 @@ Last Updated **2024-10-01 06:25:15**
 * [Triumph of an independent commission – a role model](data/articles/triumph-of-an-independen.395d85f4/README.md) `ft.lk`
 * [President’s invitation for constructive criticism; some points to consider](data/articles/president-s-invitation-f.6a5daf24/README.md) `ft.lk`
 * [Reflecting on the results through railway promises](data/articles/reflecting-on-the-result.4db797c2/README.md) `ft.lk`
+* [Sustainable, future proof and visionary energy policy for Sri Lanka](data/articles/sustainable-future-proof.00981ee5/README.md) `ft.lk`
 * [AKD’s “change” with IMF and RW’s “economic stability”](data/articles/akd-s-change-with-imf-an.157efdc7/README.md) `ft.lk`
+* [The change started, but it will not be ending](data/articles/the-change-started-but-i.abfad45d/README.md) `ft.lk`
+* [5 Ways to Ask Your Boss to Advocate for You](data/articles/5-ways-to-ask-your-boss.f725c880/README.md) `hbr.org`
+* [The Case for More Company Insiders on Boards](data/articles/the-case-for-more-compan.bb2054b7/README.md) `hbr.org`
 * [Supply Chains Belong at the Top of a CEO’s Agenda](data/articles/supply-chains-belong-at.ae3783cf/README.md) `hbr.org`
 * [Plantation workers are poor, destitute, and helpless, but their poetic expressions are marvellous](data/articles/plantation-workers-are-p.78a2f692/README.md) `ft.lk`
 * [Social reformer AKD, Sri Lanka’s 9th President](data/articles/social-reformer-akd-sri.d373a3e1/README.md) `ft.lk`
