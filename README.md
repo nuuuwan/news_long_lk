@@ -2,13 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-02 06:25:09**
+Last Updated **2024-10-02 18:20:06**
 
 ## 2024-10-02
 
+* [How Global Companies Can Succeed in China’s Competitive EV Market](data/articles/how-global-companies-can.e20f495c/README.md) `hbr.org`
+* [Europa Clipper set to look for life-friendly conditions around Jupiter](data/articles/europa-clipper-set-to-lo.37eab2a0/README.md) `technologyreview.com`
 * [Go for the low hanging fruit, Mr. President](data/articles/go-for-the-low-hanging-f.30abdf9c/README.md) `ft.lk`
+* [Spotlight on Education Dishonest tutoring  puts scholarship exam, students in jeopardy](data/articles/spotlight-on-education-d.60d5a17f/README.md) `dailymirror.lk`
 * [Date of LG election from tourism point of view](data/articles/date-of-lg-election-from.68b7f9ac/README.md) `ft.lk`
 * [National list political parties  for General Elections](data/articles/national-list-political.45b9120b/README.md) `dailymirror.lk`
+* [AKD’s protest vote and Sajith Premadasa’s own goal](data/articles/akd-s-protest-vote-and-s.063c31bc/README.md) `dailymirror.lk`
 * [AKD’s protest vote and Sajith Premadasa’s own goal](data/articles/akd-s-protest-vote-and-s.1f06726e/README.md) `dailymirror.lk`
 * [The upcoming General Elections and pitfalls ahead](data/articles/the-upcoming-general-ele.73aede2f/README.md) `dailymirror.lk`
 * [Here, and the road from here](data/articles/here-and-the-road-from-h.8d33eb16/README.md) `ft.lk`
@@ -18,13 +22,17 @@ Last Updated **2024-10-02 06:25:09**
 * [Battle for Parliament](data/articles/battle-for-parliament.47a7ecd4/README.md) `ft.lk`
 * [Sri Lanka Presidential election 2024: A turning point or a false dawn?](data/articles/sri-lanka-presidential-e.0334a8f8/README.md) `ft.lk`
 * [அநுரா குமார திசாநாயக்க ; இலங்கை வானில்  ‘ இடதுசாரி ‘ நட்சத்திரம்](data/articles/அந-ர-க-ம-ர-த-ச-ந-யக-க-இல.3c40de19/README.md) `dbsjeyaraj.com`
+* [Can  the Anura Kumara Dissanayake administration overcome prejudices deeply ingrained in society and within its own ranks, and break out of the ethno-religious vicious cycle which has caused Sri Lanka so much harm?](data/articles/can-the-anura-kumara-dis.53dd7f38/README.md) `dbsjeyaraj.com`
 * [Anura Kumara Dissanayake “did not win”.  Sajith Premadasa with his Oversized Ego nd Hurry to become President Handed Over the Election to  AKD](data/articles/anura-kumara-dissanayake.05f0727c/README.md) `dbsjeyaraj.com`
 * [2024 Climate Tech Companies to Watch: Ceibo and its copper mining tech](data/articles/2024-climate-tech-compan.9ce4f724/README.md) `technologyreview.com`
+* [2024 Climate Tech Companies to Watch: Kairos Power and its molten salt–cooled nuclear reactors](data/articles/2024-climate-tech-compan.c6490d85/README.md) `technologyreview.com`
 * [2024 Climate Tech Companies to Watch: LanzaJet and its next-generation jet fuel](data/articles/2024-climate-tech-compan.e31b36f0/README.md) `technologyreview.com`
 * [2024 Climate Tech Companies to Watch: Pano AI and its fire-detecting AI](data/articles/2024-climate-tech-compan.0a78d802/README.md) `technologyreview.com`
+* [3 Traps on the Way to Becoming a Customer-Centric Company](data/articles/3-traps-on-the-way-to-be.cb0ed0cb/README.md) `hbr.org`
 * [How Proposed SEC Disclosure Requirements Could Help Workers](data/articles/how-proposed-sec-disclos.90624295/README.md) `hbr.org`
 * [Why bigger is not always better in AI](data/articles/why-bigger-is-not-always.011ede3d/README.md) `technologyreview.com`
 * [PUT CHILDREN FIRST A MOMENT OF CHOICE  FOR SRI LANKA](data/articles/put-children-first-a-mom.9379b477/README.md) `dailymirror.lk`
+* [Anura  Kumra Dissanayake will ask the people who elected him as President to give his NPP a big victory at the Parliamentary Elections to stabilise the economy and fulfil  promises.](data/articles/anura-kumra-dissanayake.be757cb0/README.md) `dbsjeyaraj.com`
 * [Are we on the brink of World War III?](data/articles/are-we-on-the-brink-of-w.3f8d5f50/README.md) `dailymirror.lk`
 * [Understanding the message given by Northerners - EDITORIAL](data/articles/understanding-the-messag.9ecfc3b0/README.md) `dailymirror.lk`
 
