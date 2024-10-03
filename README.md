@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-02 18:20:06**
+Last Updated **2024-10-03 06:25:51**
+
+## 2024-10-03
+
+* [The new president’s opportunity to reshape social protection](data/articles/the-new-president-s-oppo.a0726214/README.md) `dailymirror.lk`
+* [Non-violence: the mightiest weapon of social justice](data/articles/non-violence-the-mightie.49a154c5/README.md) `dailymirror.lk`
 
 ## 2024-10-02
 
+* [Public hearings: A key to ensuring integrity in high-level public service appointments](data/articles/public-hearings-a-key-to.5573b18b/README.md) `ft.lk`
+* [Sri Lanka’s People Need a New Debt Deal](data/articles/sri-lanka-s-people-need.1b6e38f5/README.md) `dailymirror.lk`
+* [AKD needs presidency, not supermajority; Sajith as PM means win-win](data/articles/akd-needs-presidency-not.2c1d18ec/README.md) `ft.lk`
+* [Challenges ahead for President Anura Kumara Dissanayake: Navigating Sri Lanka’s political labyrinth](data/articles/challenges-ahead-for-pre.4e2bc451/README.md) `ft.lk`
+* [Our busted bus service](data/articles/our-busted-bus-service.bcba6dd4/README.md) `ft.lk`
+* [Positive market impact of Sri Lanka’s Presidential elections: Key decisions for good governance](data/articles/positive-market-impact-o.156401f4/README.md) `ft.lk`
+* [How to Compassionately Manage an Employee with a Terminal Illness](data/articles/how-to-compassionately-m.432e05c5/README.md) `hbr.org`
+* [Research: When Should Startups Scale?](data/articles/research-when-should-sta.0916e635/README.md) `hbr.org`
 * [How Global Companies Can Succeed in China’s Competitive EV Market](data/articles/how-global-companies-can.e20f495c/README.md) `hbr.org`
 * [Europa Clipper set to look for life-friendly conditions around Jupiter](data/articles/europa-clipper-set-to-lo.37eab2a0/README.md) `technologyreview.com`
 * [Go for the low hanging fruit, Mr. President](data/articles/go-for-the-low-hanging-f.30abdf9c/README.md) `ft.lk`
@@ -181,6 +194,7 @@ Last Updated **2024-10-02 18:20:06**
 * [Global dark clouds could be gathering; stabilisation of economy must be top priority of Presidential candidates](data/articles/global-dark-clouds-could.84eb0d77/README.md) `ft.lk`
 * [Sri Lanka’s workers live on margins, politicians still want their votes](data/articles/sri-lanka-s-workers-live.5ee4c500/README.md) `ft.lk`
 * [The path ahead after the poll](data/articles/the-path-ahead-after-the.f110b6a6/README.md) `ft.lk`
+* [What would a Harris presidency mean for US policy?](data/articles/what-would-a-harris-pres.af07bf32/README.md) `eiu.com`
 * [European Central Bank to pause after September cut](data/articles/european-central-bank-to.de83e5c6/README.md) `eiu.com`
 * [Helping Building Owners Comply with Local Emissions Regulations](data/articles/helping-building-owners.a46855c2/README.md) `hbr.org`
 * [How the Next Generation of Managers Is Using Gen AI](data/articles/how-the-next-generation.c451753c/README.md) `hbr.org`

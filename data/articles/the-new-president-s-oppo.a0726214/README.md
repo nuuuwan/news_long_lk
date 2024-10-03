@@ -1,0 +1,32 @@
+# The new president’s opportunity to reshape social protection
+
+[https://www.dailymirror.lk/opinion/The-new-presidents-opportunity-to-reshape-social-protection/172-292966](https://www.dailymirror.lk/opinion/The-new-presidents-opportunity-to-reshape-social-protection/172-292966)
+
+*12:43 AM, Thursday, October 03, 2024*
+
+Why the National Social Protection Policy must be implemented
+
+With the change in political leadership following the recent election, the fate of this policy is a question that looms larger than ever
+
+On 16 August 2024, Sri Lanka launched a National Social Protection Policy (NSPP). This was a first in the country, which had previously not had a policy but only a host of different programmes (such as free universal health coverage, free education at primary and secondary levels, Samurdhi, and more recently, Aswesuma). The National Social Protection Policy details the rationale, scope and principles of the policy, but does not show any actionable steps as to how the policy will be implemented – the document makes mention of a National Social Protection Strategy (NSPS), but this strategy is not publicly available.
+
+With the change in political leadership following the recent election, the fate of this policy is a question that looms larger than ever. Will the new leaders prioritise the needs of the most vulnerable populations in the country? Whether, and how, the new leadership responds to this question in the weeks ahead will be a telling indicator of their priorities.
+
+The policy and its motivating factors
+
+At the heart of any social protection policy or programme is the objective of reducing poverty and safeguarding individuals from economic risks. It is a key instrument that is aimed at reducing the incidence and depth of poverty in developing countries and targets the most vulnerable segments of the population. To achieve such outcomes, social protection policies provide frameworks for governments to ensure the provision of basic needs delivered in the form of income support, healthcare and livelihood support. The NSPP details some of these outcomes and seeks to provide social protection services with the aim of reaching graduation, where beneficiaries are on a path that leads out of poverty and towards a resilient and sustainable future.
+
+The new NSPP is motivated by two factors. First, the absence of a national policy or strategy for social protection in Sri Lanka, and second, the absence of a lead agency, which has resulted in the lack of coordination in the delivery of social protection services to date. While these two reasons provide a good rationale for the introduction of the policy, surely, the greatest motivation for the development – and more importantly, the implementation – of a National Social Protection Policy must be the economic shocks that Sri Lanka has faced in recent years, which have had a devastating impact on households across the country?
+
+A rationale that is grounded in reality
+
+A compelling case as to why the NSPP needs to become a top priority of the new leadership is highlighted in a recently concluded study by Verité Research, on the impact of the combined effects of the global pandemic and the economic crisis on the most vulnerable workers in five key sectors of the economy (namely, health, education, estates, hotels and tourism and construction). A majority (67 percent) of respondents surveyed as part of this study reported that their monthly earnings were sufficient to meet their expenses prior to the onset of the pandemic and the economic crisis; however, the pandemic severely disrupted this financial stability, and from 2020 to 2022, only 16 percent of respondents maintained sufficient earnings, while a staggering 74 percent found their income inadequate, with an additional 10 percent of those surveyed losing their jobs. Among those who were financially secure before the crisis (i.e. 67 percent of those surveyed), only 23 percent managed to retain adequate earnings during the pandemic, while 68 percent were unable to meet their household expenses with their income, and 9 percent lost their jobs. In the current context, the situation has worsened further, with just 9 percent of all respondents surveyed stating that their earnings are sufficient to cover their expenses, leaving 91 percent unable to do so, and struggling financially. These findings highlight the protracted effects of the pandemic and the economic crisis, and the new face of poverty and vulnerability – particularly among the working population of the country, who had previously experienced economic stability through their employment income.
+
+Who will take the lead?
+
+Both the new President and the new Prime Minister have committed to prioritising social protection. The NPP’s manifesto recognises the importance of social protection, identifying it as a “core responsibility of the state”. The manifesto describes “a universal social protection programme based on a life-cycle approach for all Sri Lankans.” Key principles of the NPP’s social protection programme include social empowerment, inter-ministerial coordination, a life-cycle based approach, and ensuring the efficient, meaningful participation of beneficiaries. The recently launched National Social Protection Policy (NSPP) similarly emphasises a life-cycle approach, inter-ministerial coordination, and holistic delivery of social protection measures. This alignment between the NPP’s manifesto and the recently launched NSPP is promising, as it indicates that the necessary groundwork is in place for the newly elected president and prime minister to drive forward a transformative social protection programme.
+
+With the principles in the manifesto closely matching those in the NSPP, the newly elected president and prime minister are well-positioned to champion a social protection initiative that is designed to improve the living standards of eligible citizens and assist in rebuilding their livelihoods. Translating this policy into action should be a core component in their plans for the country’s economic recovery; prioritising the development of a National Social Protection Strategy will be a step in the right direction.
+
+(Dr. Venya De Silva is a Social Anthropologist and a Research Director at Verité Research. Research support for this article was provided by Isurika Perera, who is a Junior Research Analyst at Verité Research)
+
