@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-03 06:25:51**
+Last Updated **2024-10-03 18:19:45**
 
 ## 2024-10-03
 
+* [Why Gaming Is Good for the Workplace](data/articles/why-gaming-is-good-for-t.c442862e/README.md) `hbr.org`
+* [These 15 companies are innovating in climate tech](data/articles/these-15-companies-are-i.436311b7/README.md) `technologyreview.com`
 * [The new president’s opportunity to reshape social protection](data/articles/the-new-president-s-oppo.a0726214/README.md) `dailymirror.lk`
 * [Non-violence: the mightiest weapon of social justice](data/articles/non-violence-the-mightie.49a154c5/README.md) `dailymirror.lk`
 
@@ -39,6 +41,7 @@ Last Updated **2024-10-03 06:25:51**
 * [Anura Kumara Dissanayake “did not win”.  Sajith Premadasa with his Oversized Ego nd Hurry to become President Handed Over the Election to  AKD](data/articles/anura-kumara-dissanayake.05f0727c/README.md) `dbsjeyaraj.com`
 * [2024 Climate Tech Companies to Watch: Ceibo and its copper mining tech](data/articles/2024-climate-tech-compan.9ce4f724/README.md) `technologyreview.com`
 * [2024 Climate Tech Companies to Watch: Kairos Power and its molten salt–cooled nuclear reactors](data/articles/2024-climate-tech-compan.c6490d85/README.md) `technologyreview.com`
+* [2024 Climate Tech Companies to Watch: Sublime Systems and its method of electrifying cement-making](data/articles/2024-climate-tech-compan.06924195/README.md) `technologyreview.com`
 * [2024 Climate Tech Companies to Watch: LanzaJet and its next-generation jet fuel](data/articles/2024-climate-tech-compan.e31b36f0/README.md) `technologyreview.com`
 * [2024 Climate Tech Companies to Watch: Pano AI and its fire-detecting AI](data/articles/2024-climate-tech-compan.0a78d802/README.md) `technologyreview.com`
 * [3 Traps on the Way to Becoming a Customer-Centric Company](data/articles/3-traps-on-the-way-to-be.cb0ed0cb/README.md) `hbr.org`
