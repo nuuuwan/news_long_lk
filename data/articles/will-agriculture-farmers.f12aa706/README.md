@@ -1,0 +1,74 @@
+# Will agriculture farmers be forced to pay taxes for water?
+
+[https://www.dailymirror.lk/plus/Will-agriculture-farmers-be-forced-to-pay-taxes-for-water/352-293065](https://www.dailymirror.lk/plus/Will-agriculture-farmers-be-forced-to-pay-taxes-for-water/352-293065)
+
+*02:37 AM, Friday, October 04, 2024*
+
+At present, the Irrigation Department of Sri Lanka and the Mahaweli Authority of Sri Lanka ensure the supply of essential water
+
+There are allegations that approval for the National Water Resources Policy was obtained hastily and it was influenced by a proposal from the IMF
+
+It seems that the public nor government officials have a comprehensive knowledge or understanding of
+
+this National Water Resources Policy
+
+According to the policy, an observation of current water resources has been carried out
+
+It has been observed that natural resources are being exploited in a harmful manner due to current social and economic benefits
+
+Water is one of man’s primary needs of humans. Water is a key factor in agriculture as well as for consumption. Throughout history, from the times of ancient kings to future leaders, reservoirs and dams were built to meet the need for water. At present, the Irrigation Department of Sri Lanka and the Mahaweli Authority of Sri Lanka ensure the supply of essential water. Accordingly, water is provided for agriculture, which is one of the country’s basic needs.
+
+Under the purview of the Irrigation Department of Sri Lanka there are 258 reservoirs, including 73 major reservoirs and 185 medium-sized ones. These reservoirs provide water for the cultivation of 800,200 acres of paddy fields. Nearly 1.2 million farmers rely on these reservoirs for the water needed for agriculture. The total water requirement for this is 4,200 million cubic metres, with 95% of the water used for the Maha season. During this time, 1.3 million hectares are cultivated; which helps supply the country with the necessary rice. Vegetables, fruits and other crops are grown according to the nation’s needs.
+
+The mechanism for supplying water has been changed. In 2023, the political authorities began focusing on protecting water resources. Accordingly, attention has been directed toward the introduction of the “National Water Resources Policy of Sri Lanka,”; a policy aimed at creating a state and society that recognises the objectives of a balanced environment to support national development while appreciating the sustainable use of water resources. The initial draft of this policy was presented to the Cabinet, and it received approval on July 10, 2023.
+
+According to Cabinet Decision No. 23/1255/602/006-1, dated July 18, 2023, Sri Lanka’s National Water Resources Policy was approved, as indicated in the relevant draft.  This draft was published by the Government Printing Department and bears the ISBN number 978-955-0611-05-8. When we examine the provisions and policy issues of this National Water Resources Policy, it appears that there are both positive and unfavourable conditions for the country.
+
+Nearly 1.2 million farmers rely on these reservoirs for the water needed for agriculture
+
+Greater attention must be given to the disadvantages identified in this policy. One notable issue is that some of the problematic provisions in the National Water Resources Policy could be more severe than the decision made by former President Gotabaya Rajapaksa to ban chemical fertilizers.
+
+The policy, which was approved by the Cabinet on 10.07.2023 was also given approval to be implemented from that date onwards. However, it was supposed to be presented to Parliament for further approval by a majority vote, which did not happen. There is speculation that this was because it was understood that the disadvantages of the policy could have a negative impact on the presidential election, which concluded on September 21.
+
+There are allegations that the approval of such a National Water Resources Policy in a hasty manner during a Cabinet meeting was influenced by a proposal from the International Monetary Fund (IMF). It is also noted that, prior to presenting and approving this policy at Cabinet level, public opinion should have been sought, but this was not done. Furthermore, it appears that the relevant government officials responsible for managing the reservoirs were not given sufficient understanding of the policy. As a result, neither the public nor government officials have a comprehensive knowledge or understanding of this National Water Resources Policy.
+
+K.B Gunaratne Former Director of Agriculture
+
+According to the policy, an observation of current water resources has been carried out. It has been identified that Sri Lanka’s freshwater systems currently have a total renewable water resource capacity of approximately 52 billion cubic metres of surface water. The ground water capacity is estimated at 7 billion cubic metres, with an additional 7 billion cubic meters of overlapping water. These figures are approximations. Furthermore, the annual water consumption is estimated to be 13 billion cubic metres. These estimates are based on data from 2005.
+
+According to this data, there appears to be no water shortage. However, of the total 13 billion cubic metres of water available, 87% is required for agriculture, 6% for the industrial sector, and 6% for drinking water needs.
+
+Sri Lanka is considered a water-rich nation; receiving approximately 130 billion cubic metres (around 2,000 mm) of rainfall annually. About 90% of the country’s land area is covered by 103 river basins and 90 small coastal basins. Around 2,905 square kilometres are covered by inland water bodies. Approximately 3,540 water springs are distributed across the island. Additionally, 80% of the rural water needs are met by water sourced from dug and tube wells.
+
+However, the excessive use of agricultural chemicals and fertilizers in Sri Lanka’s agriculture sector has led to high levels of iron and nitrate contamination in water. As a result, iron and manganese have been introduced into the water in large concentrations, causing water pollution and reducing the amount of drinkable water available. Furthermore, the uncontrolled abstraction of groundwater for domestic and agricultural purposes, the discharge of effluents from industries, and brackish water intrusion have deteriorated the quality of groundwater in many coastal areas, including Jaffna and Kalpitiya, as noted in the National Water Resources Policy.
+
+The policy further mentions that due to the interdependency between surface and ground water resources, it has been observed that pollution of any one of the two water sources will affect the other. It is also noted that 34 percent of the total cultivated area of the island is used for paddy cultivation and the effective water management, new agricultural technologies and optimised land use have ensured food security. As a result, the demand for water in Sri Lanka has increased. The report emphasises that urgent attention should be given to the importance of integrated water management to meet this demand.
+
+According to the policy, it has been observed that natural resources are being exploited in a harmful manner due to current social and economic benefits. It emphasises that the limited water resources must be used wisely to avoid negatively impacting future generations and environmental aspirations.
+
+Management of water resources is crucial in conservation efforts. The policy highlights the need for a water policy based on fundamental laws and regulations to ensure the sustainable development of water, a priceless yet
+
+The policy also discusses setting a price for water, outlining methods to set plans. It mentions the importance of periodic policy reviews and upgrades through collaboration among stakeholders. Additionally, it proposes the shared management of water-related infrastructure, maintenance, and costs through mutually agreed mechanisms among stakeholders. The exchange of data and information between stakeholders is also suggested, although the specific parties involved in this exchange are not clearly identified in the policy.
+
+It has also been pointed out that periodically elected governments should be acknowledged by all parties as the custodians and facilitators of conserving and managing watershed resources on behalf of the state.  However, it is unclear which party these custodians and facilitators represent and whose interests they are serving.
+
+Moreover, the report mentions in Clause 15 of Section 6.1, concerning government responsibilities, that a new fee system will be introduced for bulk water users and industries that use large volumes of water for commercial purposes. Yet, it is unclear from which sectors these fees will be collected. If, for instance, paddy farmers are considered as large water users, there is a possibility that a fee could be charged for the water used in paddy cultivation under this policy. Furthermore, the report indicates that groups such as farmers and beneficiaries of drinking water, as well as those who have invested in water resources, should be considered key stakeholders. These groups should be viewed as partners in both the progress and conservation of water resources.
+
+New water resources are planned to be managed across major river basins, smaller basins, sub-basins and cascade systems. Dams are also expected to be designed with consideration for agricultural, drinking, ecological, industrial, power generation and recreational needs. It has been stated that the planning of these dams aims to ensure the self-sustainability of water conservation and management within the schemes, within river basin or aquifer, within the province and ultimately within the nation.
+
+State should bear cost
+
+This policy states that the State should bear the cost of managing, operating, and maintaining the infrastructure it has developed, despite the heavy burden. Additionally, it has been underscored that these responsibilities should be proportionately shared by parties that use water extensively for commercial purposes. Cost recovery and sharing methods for commercial farming, urban water supply, commercial inland fishing, hydropower, water-based industries, and water use in recreation and tourism industries will be carried out under the guidance of the National Water Resources Council.
+
+Commenting on this, former Director of Agriculture K.B. Gunaratne said that the National Water Resources Policy is a scheme to privatise water, reservoirs, and water sources. He said that he harbours concerns that this may occur under the conditions set by the International Monetary Fund. Furthermore, he pointed out that if the National Water Resources Policy is implemented, water used for farming could also be subject to a tax fee.
+
+“There are issues with the National Water Resources Council established by this Act. The council is designed to wield significant power in strategic decision-making at the national level. Additionally, the National Water Resources Secretariat is tasked with overseeing new policy formulation, data collection, water assessments, water allocation, demand and supply management, and planning for river basins and other water resources. This institution will be placed under the relevant ministry to support the National Water Resources Council in executing tasks and taking decisions related to water resource management, such as hydrological disaster management, integrated water resource management, and water conservation. Furthermore, the Water Resources Board is responsible for handling appeals from stakeholders regarding matters that do not receive proper solutions like water catchment conservation and water volume distribution. He added that this institution is established by the President based on the recommendations of the minister in charge and the Prime Minister,” said Gunaratne.
+
+As explained by Gunaratne, all three of these institutions are directly influenced by the President. The appointment of members to these institutions is carried out according to the President’s discretion. Therefore, through this policy, the country’s water resources have been brought under the control of the President. Consequently, decisions about the country’s water resources, even if they involve selling them to another country, can be made based on the President’s wishes. This proposal was presented to the Irrigation Engineers’ Association on 19-01-2024, during which the association expressed its opposition to the national water resources policy. The association voiced its concerns through a lengthy letter containing 14 main points, under the heading “With regard to the attempt to draft laws regarding Sri Lanka’s water resources, it is short-sighted and based on unclear and uncertain policy matters,” said Gunaratne. However, a spokesperson for the association pointed out to us that the authorities of the previous government did not provide the association with an opportunity to present its case. As the association points out, a Water Resources Secretariat had been hastily established under the former Prime Minister’s office of the then-existing government on an interim basis. After receiving Cabinet approval, the authorities proceeded without considering the shortcomings highlighted by the Attorney General or the detailed issues raised by the Engineers’ Association. The association also noted that this ambiguously drafted policy was presented to the International Monetary Fund (IMF) as a national policy, highlighting the country’s lack of capacity to prepare effective laws.
+
+The association further added that the National Water Resources Policy had been formulated contrary to the accepted procedures that have been followed in the past when creating national policies. It highlighted that public opinion was not sought for the draft document of the National Water Resources Policy of Sri Lanka, which received Cabinet approval on 10-07-2023. The Attorney General was also made aware of the unclear issues, and approval from the former Secretary of the Department of Irrigation was not obtained. As a result, no official-level discussions had taken place regarding these highly sensitive policy matters.
+
+It remains unclear whether the previous government and its authorities were attempting to initiate a process to sell the country’s water resources. Therefore, if this policy was designed to secure funds from the International Monetary Fund (IMF), it is the responsibility of the newly appointed President and the Cabinet to investigate the matter.
+
+This newspaper attempted to contact the Director General of the Department of Irrigation for clarification, but there was no response. However, both the Director General of Irrigation and the newly appointed Secretary to the Ministry of Irrigation still have the opportunity to provide answers on this matter moving forward.
+

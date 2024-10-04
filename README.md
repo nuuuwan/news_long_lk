@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-04 06:26:11**
+Last Updated **2024-10-04 18:19:19**
 
 ## 2024-10-04
 
@@ -10,11 +10,14 @@ Last Updated **2024-10-04 06:26:11**
 * [Human Rights Watch says UN Rights Council should extend crucial mandate on SL](data/articles/human-rights-watch-says.26ad464d/README.md) `ft.lk`
 * [Pragmatism and peopleism](data/articles/pragmatism-and-peopleism.901f6c2f/README.md) `ft.lk`
 * [Politics, policy and progression in agriculture](data/articles/politics-policy-and-prog.b9230016/README.md) `ft.lk`
+* [A new law in California protects consumers’ brain data. Some think it doesn’t go far enough.](data/articles/a-new-law-in-california.a19be0a8/README.md) `technologyreview.com`
+* [Will agriculture farmers be forced to pay taxes for water?](data/articles/will-agriculture-farmers.f12aa706/README.md) `dailymirror.lk`
 * [Gaza genocide one year on: Middle East on brink of major war](data/articles/gaza-genocide-one-year-o.c3f99a33/README.md) `dailymirror.lk`
 * [Are Sri Lankan voters irresponsible? - EDITORIAL](data/articles/are-sri-lankan-voters-ir.ba41d2c0/README.md) `dailymirror.lk`
 
 ## 2024-10-03
 
+* [How Online Retailers Can Avoid Costly Out-of-Stock Issues](data/articles/how-online-retailers-can.4014fadf/README.md) `hbr.org`
 * [Why Gaming Is Good for the Workplace](data/articles/why-gaming-is-good-for-t.c442862e/README.md) `hbr.org`
 * [These 15 companies are innovating in climate tech](data/articles/these-15-companies-are-i.436311b7/README.md) `technologyreview.com`
 * [The new president’s opportunity to reshape social protection](data/articles/the-new-president-s-oppo.a0726214/README.md) `dailymirror.lk`
