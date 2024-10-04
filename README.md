@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-03 18:19:45**
+Last Updated **2024-10-04 06:26:11**
+
+## 2024-10-04
+
+* [SL renews commitment to multilateral cooperation in pursuit of peace, prosperity, and sustainability](data/articles/sl-renews-commitment-to.ef69aa36/README.md) `ft.lk`
+* [Human Rights Watch says UN Rights Council should extend crucial mandate on SL](data/articles/human-rights-watch-says.26ad464d/README.md) `ft.lk`
+* [Pragmatism and peopleism](data/articles/pragmatism-and-peopleism.901f6c2f/README.md) `ft.lk`
+* [Politics, policy and progression in agriculture](data/articles/politics-policy-and-prog.b9230016/README.md) `ft.lk`
+* [Gaza genocide one year on: Middle East on brink of major war](data/articles/gaza-genocide-one-year-o.c3f99a33/README.md) `dailymirror.lk`
+* [Are Sri Lankan voters irresponsible? - EDITORIAL](data/articles/are-sri-lankan-voters-ir.ba41d2c0/README.md) `dailymirror.lk`
 
 ## 2024-10-03
 
@@ -44,6 +53,7 @@ Last Updated **2024-10-03 18:19:45**
 * [2024 Climate Tech Companies to Watch: Sublime Systems and its method of electrifying cement-making](data/articles/2024-climate-tech-compan.06924195/README.md) `technologyreview.com`
 * [2024 Climate Tech Companies to Watch: LanzaJet and its next-generation jet fuel](data/articles/2024-climate-tech-compan.e31b36f0/README.md) `technologyreview.com`
 * [2024 Climate Tech Companies to Watch: Pano AI and its fire-detecting AI](data/articles/2024-climate-tech-compan.0a78d802/README.md) `technologyreview.com`
+* [2024 Climate Tech Companies to Watch: Solugen and its bio-based chemicals](data/articles/2024-climate-tech-compan.28accfaf/README.md) `technologyreview.com`
 * [3 Traps on the Way to Becoming a Customer-Centric Company](data/articles/3-traps-on-the-way-to-be.cb0ed0cb/README.md) `hbr.org`
 * [How Proposed SEC Disclosure Requirements Could Help Workers](data/articles/how-proposed-sec-disclos.90624295/README.md) `hbr.org`
 * [Why bigger is not always better in AI](data/articles/why-bigger-is-not-always.011ede3d/README.md) `technologyreview.com`
