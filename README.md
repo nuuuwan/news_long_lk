@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-04 18:19:19**
+Last Updated **2024-10-05 06:24:43**
 
 ## 2024-10-04
 
+* [‘National lists’ of political parties for general elections in Sri Lanka](data/articles/national-lists-of-polit.5618b7e1/README.md) `ft.lk`
+* [Role of research providers for building climate-smart and resilient food systems](data/articles/role-of-research-provide.942458a7/README.md) `ft.lk`
+* [Letter to the President: Clarion call for fairness](data/articles/letter-to-the-president.dce394d8/README.md) `ft.lk`
+* [Old political parties back to their old tricks](data/articles/old-political-parties-ba.c8fa1e20/README.md) `ft.lk`
+* [Ranil Wickremesinghe: A courageous gentleman in times of crisis](data/articles/ranil-wickremesinghe-a-c.f52f8e1c/README.md) `ft.lk`
+* [Anura Kumara’s Ascendancy  Within the JVP and Sri Lanka](data/articles/anura-kumara-s-ascendanc.bdba14a0/README.md) `dailymirror.lk`
+* [Seeing the General Election through Presidential Election](data/articles/seeing-the-general-elect.771949ad/README.md) `dailymirror.lk`
+* [Lanka’s economy, the Middle East and the IMF agreement](data/articles/lanka-s-economy-the-midd.78b21490/README.md) `dailymirror.lk`
+* [Research: Why People Will Pay a Premium to Complete a Task Sooner](data/articles/research-why-people-will.4c33f30b/README.md) `hbr.org`
+* [A Guide to Being a Great Panelist](data/articles/a-guide-to-being-a-great.f17dd408/README.md) `hbr.org`
 * [SL renews commitment to multilateral cooperation in pursuit of peace, prosperity, and sustainability](data/articles/sl-renews-commitment-to.ef69aa36/README.md) `ft.lk`
 * [Human Rights Watch says UN Rights Council should extend crucial mandate on SL](data/articles/human-rights-watch-says.26ad464d/README.md) `ft.lk`
 * [Pragmatism and peopleism](data/articles/pragmatism-and-peopleism.901f6c2f/README.md) `ft.lk`
@@ -17,6 +27,7 @@ Last Updated **2024-10-04 18:19:19**
 
 ## 2024-10-03
 
+* [5 Markers of Cyber Resilience That Reveal Key Recovery Readiness Capabilities](data/articles/5-markers-of-cyber-resil.6f6be4c7/README.md) `hbr.org`
 * [How Online Retailers Can Avoid Costly Out-of-Stock Issues](data/articles/how-online-retailers-can.4014fadf/README.md) `hbr.org`
 * [Why Gaming Is Good for the Workplace](data/articles/why-gaming-is-good-for-t.c442862e/README.md) `hbr.org`
 * [These 15 companies are innovating in climate tech](data/articles/these-15-companies-are-i.436311b7/README.md) `technologyreview.com`
@@ -31,6 +42,7 @@ Last Updated **2024-10-04 18:19:19**
 * [Challenges ahead for President Anura Kumara Dissanayake: Navigating Sri Lanka’s political labyrinth](data/articles/challenges-ahead-for-pre.4e2bc451/README.md) `ft.lk`
 * [Our busted bus service](data/articles/our-busted-bus-service.bcba6dd4/README.md) `ft.lk`
 * [Positive market impact of Sri Lanka’s Presidential elections: Key decisions for good governance](data/articles/positive-market-impact-o.156401f4/README.md) `ft.lk`
+* [Impact of US port worker strike will mount over time](data/articles/impact-of-us-port-worker.246cd9be/README.md) `eiu.com`
 * [How to Compassionately Manage an Employee with a Terminal Illness](data/articles/how-to-compassionately-m.432e05c5/README.md) `hbr.org`
 * [Research: When Should Startups Scale?](data/articles/research-when-should-sta.0916e635/README.md) `hbr.org`
 * [How Global Companies Can Succeed in China’s Competitive EV Market](data/articles/how-global-companies-can.e20f495c/README.md) `hbr.org`
@@ -74,6 +86,7 @@ Last Updated **2024-10-04 18:19:19**
 * [Sustainable, future proof and visionary energy policy for Sri Lanka](data/articles/sustainable-future-proof.00981ee5/README.md) `ft.lk`
 * [AKD’s “change” with IMF and RW’s “economic stability”](data/articles/akd-s-change-with-imf-an.157efdc7/README.md) `ft.lk`
 * [The change started, but it will not be ending](data/articles/the-change-started-but-i.abfad45d/README.md) `ft.lk`
+* [What to watch as Sheinbaum’s presidency begins](data/articles/what-to-watch-as-sheinba.81523aa8/README.md) `eiu.com`
 * [5 Ways to Ask Your Boss to Advocate for You](data/articles/5-ways-to-ask-your-boss.f725c880/README.md) `hbr.org`
 * [The Case for More Company Insiders on Boards](data/articles/the-case-for-more-compan.bb2054b7/README.md) `hbr.org`
 * [Supply Chains Belong at the Top of a CEO’s Agenda](data/articles/supply-chains-belong-at.ae3783cf/README.md) `hbr.org`

@@ -1,5 +1,75 @@
 [
   {
+    "title": "\u2018National lists\u2019 of political parties for general elections in Sri Lanka",
+    "url": "https://www.ft.lk/columns/National-lists-of-political-parties-for-general-elections-in-Sri-Lanka/4-767568",
+    "ut": 1728065479.0,
+    "dir_path_unix": "data/articles/national-lists-of-polit.5618b7e1",
+    "time_str_formatted": "11:41 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Role of research providers for building climate-smart and resilient food systems",
+    "url": "https://www.ft.lk/columns/Role-of-research-providers-for-building-climate-smart-and-resilient-food-systems/4-767567",
+    "ut": 1728065338.0,
+    "dir_path_unix": "data/articles/role-of-research-provide.942458a7",
+    "time_str_formatted": "11:38 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Letter to the President: Clarion call for fairness",
+    "url": "https://www.ft.lk/columns/Letter-to-the-President-Clarion-call-for-fairness/4-767566",
+    "ut": 1728065228.0,
+    "dir_path_unix": "data/articles/letter-to-the-president.dce394d8",
+    "time_str_formatted": "11:37 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Old political parties back to their old tricks",
+    "url": "https://www.ft.lk/columns/Old-political-parties-back-to-their-old-tricks/4-767565",
+    "ut": 1728065094.0,
+    "dir_path_unix": "data/articles/old-political-parties-ba.c8fa1e20",
+    "time_str_formatted": "11:34 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Ranil Wickremesinghe: A courageous gentleman in times of crisis",
+    "url": "https://www.ft.lk/opinion/Ranil-Wickremesinghe-A-courageous-gentleman-in-times-of-crisis/14-767564",
+    "ut": 1728064946.0,
+    "dir_path_unix": "data/articles/ranil-wickremesinghe-a-c.f52f8e1c",
+    "time_str_formatted": "11:32 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Anura Kumara\u2019s Ascendancy  Within the JVP and Sri Lanka",
+    "url": "https://www.dailymirror.lk/opinion/Anura-Kumaras-Ascendancy-Within-the-JVP-and-Sri-Lanka/172-293151",
+    "ut": 1728063107.0,
+    "dir_path_unix": "data/articles/anura-kumara-s-ascendanc.bdba14a0",
+    "time_str_formatted": "11:01 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Seeing the General Election through Presidential Election",
+    "url": "https://www.dailymirror.lk/opinion/Seeing-the-General-Election-through-Presidential-Election/172-293139",
+    "ut": 1728060349.0,
+    "dir_path_unix": "data/articles/seeing-the-general-elect.771949ad",
+    "time_str_formatted": "10:15 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Lanka\u2019s economy, the Middle East and the IMF agreement",
+    "url": "https://www.dailymirror.lk/opinion/Lankas-economy-the-Middle-East-and-the-IMF-agreement/172-293138",
+    "ut": 1728060159.0,
+    "dir_path_unix": "data/articles/lanka-s-economy-the-midd.78b21490",
+    "time_str_formatted": "10:12 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "Research: Why People Will Pay a Premium to Complete a Task Sooner",
+    "url": "https://hbr.org/2024/10/research-why-people-will-pay-a-premium-to-complete-a-task-sooner",
+    "ut": 1728024924.0,
+    "dir_path_unix": "data/articles/research-why-people-will.4c33f30b",
+    "time_str_formatted": "12:25 PM, Friday, October 04, 2024"
+  },
+  {
+    "title": "A Guide to Being a Great Panelist",
+    "url": "https://hbr.org/2024/10/a-guide-to-being-a-great-panelist",
+    "ut": 1728023705.0,
+    "dir_path_unix": "data/articles/a-guide-to-being-a-great.f17dd408",
+    "time_str_formatted": "12:05 PM, Friday, October 04, 2024"
+  },
+  {
     "title": "SL renews commitment to multilateral cooperation in pursuit of peace, prosperity, and sustainability",
     "url": "https://www.ft.lk/opinion/SL-renews-commitment-to-multilateral-cooperation-in-pursuit-of-peace-prosperity-and-sustainability/14-767529",
     "ut": 1728001171.0,
@@ -54,6 +124,13 @@
     "ut": 1727986947.0,
     "dir_path_unix": "data/articles/are-sri-lankan-voters-ir.ba41d2c0",
     "time_str_formatted": "01:52 AM, Friday, October 04, 2024"
+  },
+  {
+    "title": "5 Markers of Cyber Resilience That Reveal Key Recovery Readiness Capabilities",
+    "url": "https://hbr.org/sponsored/2024/10/5-markers-of-cyber-resilience-that-reveal-key-recovery-readiness-capabilities",
+    "ut": 1727968666.0,
+    "dir_path_unix": "data/articles/5-markers-of-cyber-resil.6f6be4c7",
+    "time_str_formatted": "08:47 PM, Thursday, October 03, 2024"
   },
   {
     "title": "How Online Retailers Can Avoid Costly Out-of-Stock Issues",
@@ -131,6 +208,13 @@
     "ut": 1727886060.0,
     "dir_path_unix": "data/articles/positive-market-impact-o.156401f4",
     "time_str_formatted": "09:51 PM, Wednesday, October 02, 2024"
+  },
+  {
+    "title": "Impact of US port worker strike will mount over time",
+    "url": "https://www.eiu.com/n/impact-of-us-port-worker-strike-will-mount-over-time/",
+    "ut": 1727863158.0,
+    "dir_path_unix": "data/articles/impact-of-us-port-worker.246cd9be",
+    "time_str_formatted": "03:29 PM, Wednesday, October 02, 2024"
   },
   {
     "title": "How to Compassionately Manage an Employee with a Terminal Illness",
@@ -390,6 +474,13 @@
     "ut": 1727716507.0,
     "dir_path_unix": "data/articles/the-change-started-but-i.abfad45d",
     "time_str_formatted": "10:45 PM, Monday, September 30, 2024"
+  },
+  {
+    "title": "What to watch as Sheinbaum\u2019s presidency begins",
+    "url": "https://www.eiu.com/n/what-to-watch-as-sheinbaums-presidency-begins/",
+    "ut": 1727689724.0,
+    "dir_path_unix": "data/articles/what-to-watch-as-sheinba.81523aa8",
+    "time_str_formatted": "03:18 PM, Monday, September 30, 2024"
   },
   {
     "title": "5 Ways to Ask Your Boss to Advocate for You",
