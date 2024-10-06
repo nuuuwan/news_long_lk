@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-06 06:24:47**
+Last Updated **2024-10-06 18:17:16**
 
 ## 2024-10-05
 
@@ -19,6 +19,7 @@ Last Updated **2024-10-06 06:24:47**
 * [Seeing the General Election through Presidential Election](data/articles/seeing-the-general-elect.771949ad/README.md) `dailymirror.lk`
 * [Lanka’s economy, the Middle East and the IMF agreement](data/articles/lanka-s-economy-the-midd.78b21490/README.md) `dailymirror.lk`
 * [Research: Why People Will Pay a Premium to Complete a Task Sooner](data/articles/research-why-people-will.4c33f30b/README.md) `hbr.org`
+* [5 Steps to Build a Climate-Literate Workforce](data/articles/5-steps-to-build-a-clima.f175c233/README.md) `hbr.org`
 * [A Guide to Being a Great Panelist](data/articles/a-guide-to-being-a-great.f17dd408/README.md) `hbr.org`
 * [SL renews commitment to multilateral cooperation in pursuit of peace, prosperity, and sustainability](data/articles/sl-renews-commitment-to.ef69aa36/README.md) `ft.lk`
 * [Human Rights Watch says UN Rights Council should extend crucial mandate on SL](data/articles/human-rights-watch-says.26ad464d/README.md) `ft.lk`
