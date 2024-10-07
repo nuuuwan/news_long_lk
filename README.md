@@ -2,7 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-06 18:17:16**
+Last Updated **2024-10-07 06:24:39**
+
+## 2024-10-07
+
+* [The Use and Exploitation of  Senior Citizens in Election Campaigns](data/articles/the-use-and-exploitation.512e370d/README.md) `dailymirror.lk`
+* [Crooked Bond Deals and the IMF Trap](data/articles/crooked-bond-deals-and-t.57e55a92/README.md) `dailymirror.lk`
+* [Government caught between election promises and reality - EDITORIAL](data/articles/government-caught-betwee.f7fbe57c/README.md) `dailymirror.lk`
+* [Nine leadership imperatives for new Lankan leader](data/articles/nine-leadership-imperati.dd359bdd/README.md) `ft.lk`
+* [Sri Lanka’s International Sovereign Bonds restructuring – frequently asked questions](data/articles/sri-lanka-s-internationa.1e65b16d/README.md) `ft.lk`
+
+## 2024-10-06
+
+* [Priority matrix for tea sector: Part 1](data/articles/priority-matrix-for-tea.8554a158/README.md) `ft.lk`
+* [AKD should not try out RW’s failed ‘Vel Palama’ to cross to the other side](data/articles/akd-should-not-try-out-r.fa86a107/README.md) `ft.lk`
+* [Humility, empathy and authenticity key between RW defeat and AKD victory](data/articles/humility-empathy-and-aut.69c69015/README.md) `ft.lk`
 
 ## 2024-10-05
 
