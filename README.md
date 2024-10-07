@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-07 06:24:39**
+Last Updated **2024-10-07 18:20:08**
 
 ## 2024-10-07
 
+* [Iranamadu farmers uncertain about their future amidst adverse climate change impacts](data/articles/iranamadu-farmers-uncert.e3ddd632/README.md) `dailymirror.lk`
 * [The Use and Exploitation of  Senior Citizens in Election Campaigns](data/articles/the-use-and-exploitation.512e370d/README.md) `dailymirror.lk`
 * [Crooked Bond Deals and the IMF Trap](data/articles/crooked-bond-deals-and-t.57e55a92/README.md) `dailymirror.lk`
 * [Government caught between election promises and reality - EDITORIAL](data/articles/government-caught-betwee.f7fbe57c/README.md) `dailymirror.lk`
@@ -17,6 +18,7 @@ Last Updated **2024-10-07 06:24:39**
 * [Priority matrix for tea sector: Part 1](data/articles/priority-matrix-for-tea.8554a158/README.md) `ft.lk`
 * [AKD should not try out RW’s failed ‘Vel Palama’ to cross to the other side](data/articles/akd-should-not-try-out-r.fa86a107/README.md) `ft.lk`
 * [Humility, empathy and authenticity key between RW defeat and AKD victory](data/articles/humility-empathy-and-aut.69c69015/README.md) `ft.lk`
+* [Anura   Kumara’s Ascendancy Inside the JVP and his  Political Rise  Within  Sri Lanka.](data/articles/anura-kumara-s-ascendanc.2bdf31ca/README.md) `dbsjeyaraj.com`
 
 ## 2024-10-05
 
@@ -65,6 +67,7 @@ Last Updated **2024-10-07 06:24:39**
 * [How to Compassionately Manage an Employee with a Terminal Illness](data/articles/how-to-compassionately-m.432e05c5/README.md) `hbr.org`
 * [Research: When Should Startups Scale?](data/articles/research-when-should-sta.0916e635/README.md) `hbr.org`
 * [How Global Companies Can Succeed in China’s Competitive EV Market](data/articles/how-global-companies-can.e20f495c/README.md) `hbr.org`
+* [NASA’s Europa Clipper spacecraft is set to look for life-friendly conditions around Jupiter](data/articles/nasa-s-europa-clipper-sp.37eab2a0/README.md) `technologyreview.com`
 * [Europa Clipper set to look for life-friendly conditions around Jupiter](data/articles/europa-clipper-set-to-lo.37eab2a0/README.md) `technologyreview.com`
 * [Go for the low hanging fruit, Mr. President](data/articles/go-for-the-low-hanging-f.30abdf9c/README.md) `ft.lk`
 * [Spotlight on Education Dishonest tutoring  puts scholarship exam, students in jeopardy](data/articles/spotlight-on-education-d.60d5a17f/README.md) `dailymirror.lk`
