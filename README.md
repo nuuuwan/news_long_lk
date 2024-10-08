@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-08 06:24:59**
+Last Updated **2024-10-08 18:18:47**
 
 ## 2024-10-08
 
 * [Formulating a customer experience culture](data/articles/formulating-a-customer-e.314e8fa0/README.md) `ft.lk`
 * [A business case for ESG in a stabilising economy](data/articles/a-business-case-for-esg.32d00022/README.md) `ft.lk`
+* [Why artificial intelligence and clean energy need each other](data/articles/why-artificial-intellige.4d9f5d09/README.md) `technologyreview.com`
 * [Priority matrix for tea sector: Part 2](data/articles/priority-matrix-for-tea.93e935f6/README.md) `ft.lk`
 * [Political rupture in Sri Lanka: What lies ahead?](data/articles/political-rupture-in-sri.0b4330bb/README.md) `ft.lk`
 * [Harini Amarasuriya: First among equals](data/articles/harini-amarasuriya-first.7243b997/README.md) `ft.lk`
+* [Corruption is not the cause](data/articles/corruption-is-not-the-ca.9516c234/README.md) `ft.lk`
 * [Yunus enjoys global goodwill but faces domestic challenges](data/articles/yunus-enjoys-global-good.8e4f8c65/README.md) `dailymirror.lk`
 * [Honorary Advisors?:  A Risky Gamble in Political Strategy](data/articles/honorary-advisors-a-risk.9925d2f8/README.md) `dailymirror.lk`
 * [Choosing Leaders Wisely:  The Importance of Transparency in Political Candidate Selection](data/articles/choosing-leaders-wisely.4ec35bf6/README.md) `dailymirror.lk`
@@ -19,7 +21,10 @@ Last Updated **2024-10-08 06:24:59**
 
 ## 2024-10-07
 
+* [On what legal basis did President Dissanayake call out the armed forces to maintain ‘public order?](data/articles/on-what-legal-basis-did.43f37869/README.md) `dbsjeyaraj.com`
+* [Just as people in the south have begun to reject traditional political parties and leaders, a rejection is also needed in the north and east.](data/articles/just-as-people-in-the-so.83add22c/README.md) `dbsjeyaraj.com`
 * [Streamline Strategic M&A Decisions with a Market Intelligence Platform](data/articles/streamline-strategic-m-a.d643e044/README.md) `hbr.org`
+* [What It Takes to Form a Union — and Where to Begin](data/articles/what-it-takes-to-form-a.0d3033c9/README.md) `hbr.org`
 * [Do Lean Startup Methods Work for Deep Tech?](data/articles/do-lean-startup-methods.4949074c/README.md) `hbr.org`
 * [Iranamadu farmers uncertain about their future amidst adverse climate change impacts](data/articles/iranamadu-farmers-uncert.e3ddd632/README.md) `dailymirror.lk`
 * [The Use and Exploitation of  Senior Citizens in Election Campaigns](data/articles/the-use-and-exploitation.512e370d/README.md) `dailymirror.lk`
@@ -67,6 +72,7 @@ Last Updated **2024-10-08 06:24:59**
 * [How Online Retailers Can Avoid Costly Out-of-Stock Issues](data/articles/how-online-retailers-can.4014fadf/README.md) `hbr.org`
 * [Why Gaming Is Good for the Workplace](data/articles/why-gaming-is-good-for-t.c442862e/README.md) `hbr.org`
 * [These 15 companies are innovating in climate tech](data/articles/these-15-companies-are-i.436311b7/README.md) `technologyreview.com`
+* [AI-generated images can teach robots how to act](data/articles/ai-generated-images-can.9b7e639f/README.md) `technologyreview.com`
 * [The new president’s opportunity to reshape social protection](data/articles/the-new-president-s-oppo.a0726214/README.md) `dailymirror.lk`
 * [Non-violence: the mightiest weapon of social justice](data/articles/non-violence-the-mightie.49a154c5/README.md) `dailymirror.lk`
 
