@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-07 18:20:08**
+Last Updated **2024-10-08 06:24:59**
+
+## 2024-10-08
+
+* [Formulating a customer experience culture](data/articles/formulating-a-customer-e.314e8fa0/README.md) `ft.lk`
+* [A business case for ESG in a stabilising economy](data/articles/a-business-case-for-esg.32d00022/README.md) `ft.lk`
+* [Priority matrix for tea sector: Part 2](data/articles/priority-matrix-for-tea.93e935f6/README.md) `ft.lk`
+* [Political rupture in Sri Lanka: What lies ahead?](data/articles/political-rupture-in-sri.0b4330bb/README.md) `ft.lk`
+* [Harini Amarasuriya: First among equals](data/articles/harini-amarasuriya-first.7243b997/README.md) `ft.lk`
+* [Yunus enjoys global goodwill but faces domestic challenges](data/articles/yunus-enjoys-global-good.8e4f8c65/README.md) `dailymirror.lk`
+* [Honorary Advisors?:  A Risky Gamble in Political Strategy](data/articles/honorary-advisors-a-risk.9925d2f8/README.md) `dailymirror.lk`
+* [Choosing Leaders Wisely:  The Importance of Transparency in Political Candidate Selection](data/articles/choosing-leaders-wisely.4ec35bf6/README.md) `dailymirror.lk`
+* [Kingsley Amis, cookery and pets  but where are our writers?](data/articles/kingsley-amis-cookery-an.4a8aca4d/README.md) `dailymirror.lk`
+* [Elect a Parliament that would not ruin your future -  EDITORIAL](data/articles/elect-a-parliament-that.e438451c/README.md) `dailymirror.lk`
 
 ## 2024-10-07
 
+* [Streamline Strategic M&A Decisions with a Market Intelligence Platform](data/articles/streamline-strategic-m-a.d643e044/README.md) `hbr.org`
+* [Do Lean Startup Methods Work for Deep Tech?](data/articles/do-lean-startup-methods.4949074c/README.md) `hbr.org`
 * [Iranamadu farmers uncertain about their future amidst adverse climate change impacts](data/articles/iranamadu-farmers-uncert.e3ddd632/README.md) `dailymirror.lk`
 * [The Use and Exploitation of  Senior Citizens in Election Campaigns](data/articles/the-use-and-exploitation.512e370d/README.md) `dailymirror.lk`
 * [Crooked Bond Deals and the IMF Trap](data/articles/crooked-bond-deals-and-t.57e55a92/README.md) `dailymirror.lk`
