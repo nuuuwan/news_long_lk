@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-08 18:18:47**
+Last Updated **2024-10-09 06:25:04**
+
+## 2024-10-09
+
+* [Open letter to President: Do we need a new development bank?](data/articles/open-letter-to-president.86310f2e/README.md) `ft.lk`
+* [Call for nine provincial units of development](data/articles/call-for-nine-provincial.c85135de/README.md) `ft.lk`
+* [Foreign observers at polls: Evolution of the concept and practice of election observation](data/articles/foreign-observers-at-pol.f14f9bac/README.md) `ft.lk`
+* [Priority matrix for tea sector: Part 3](data/articles/priority-matrix-for-tea.057493e4/README.md) `ft.lk`
+* [Greece as a lens to understand present political changes](data/articles/greece-as-a-lens-to-unde.6358bb16/README.md) `ft.lk`
 
 ## 2024-10-08
 
+* [Creative Destruction of Sri Lankan politics is currently underway](data/articles/creative-destruction-of.29434a37/README.md) `dailymirror.lk`
+* [Suicide and adverse effects of social media](data/articles/suicide-and-adverse-effe.e926eec7/README.md) `dailymirror.lk`
+* [How to Manage — and Avoid — Mental Fatigue](data/articles/how-to-manage-and-avoid.0d7b9b74/README.md) `hbr.org`
+* [Stop Ignoring Your High Performers](data/articles/stop-ignoring-your-high.31dcb8cf/README.md) `hbr.org`
+* [Adobe wants to make it easier for artists to blacklist their work from AI scraping](data/articles/adobe-wants-to-make-it-e.d21bf8f8/README.md) `technologyreview.com`
 * [Formulating a customer experience culture](data/articles/formulating-a-customer-e.314e8fa0/README.md) `ft.lk`
 * [A business case for ESG in a stabilising economy](data/articles/a-business-case-for-esg.32d00022/README.md) `ft.lk`
 * [Why artificial intelligence and clean energy need each other](data/articles/why-artificial-intellige.4d9f5d09/README.md) `technologyreview.com`
@@ -69,6 +82,7 @@ Last Updated **2024-10-08 18:18:47**
 ## 2024-10-03
 
 * [5 Markers of Cyber Resilience That Reveal Key Recovery Readiness Capabilities](data/articles/5-markers-of-cyber-resil.6f6be4c7/README.md) `hbr.org`
+* [People are using Google study software to make AI podcasts—and they’re weird and amazing](data/articles/people-are-using-google.23c3be4a/README.md) `technologyreview.com`
 * [How Online Retailers Can Avoid Costly Out-of-Stock Issues](data/articles/how-online-retailers-can.4014fadf/README.md) `hbr.org`
 * [Why Gaming Is Good for the Workplace](data/articles/why-gaming-is-good-for-t.c442862e/README.md) `hbr.org`
 * [These 15 companies are innovating in climate tech](data/articles/these-15-companies-are-i.436311b7/README.md) `technologyreview.com`
