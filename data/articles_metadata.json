@@ -1,5 +1,12 @@
 [
   {
+    "title": "Everything comes back to climate tech. Here\u2019s what to watch for next.",
+    "url": "https://www.technologyreview.com/2024/10/10/1105382/climate-tech-watch/",
+    "ut": 1728520200.0,
+    "dir_path_unix": "data/articles/everything-comes-back-to.d7dc6f0a",
+    "time_str_formatted": "06:00 AM, Thursday, October 10, 2024"
+  },
+  {
     "title": "Misinformation lovingly brought to you by Big Tech",
     "url": "https://www.ft.lk/columns/Misinformation-lovingly-brought-to-you-by-Big-Tech/4-767758",
     "ut": 1728505428.0,
@@ -26,6 +33,13 @@
     "ut": 1728495948.0,
     "dir_path_unix": "data/articles/india-and-china-key-for.2021c0e5",
     "time_str_formatted": "11:15 PM, Wednesday, October 09, 2024"
+  },
+  {
+    "title": "Only sanity will help Sri Lanka in balancing ties with India and China",
+    "url": "https://www.dailymirror.lk/opinion/Only-sanity-will-help-Sri-Lanka-in-balancing-ties-with-India-and-China/231-293427",
+    "ut": 1728495160.0,
+    "dir_path_unix": "data/articles/only-sanity-will-help-sr.d3eebe43",
+    "time_str_formatted": "11:02 PM, Wednesday, October 09, 2024"
   },
   {
     "title": "Only sanity will help Sri Lanka in balancing ties with India and China",
@@ -166,6 +180,13 @@
     "ut": 1728358200.0,
     "dir_path_unix": "data/articles/adobe-wants-to-make-it-e.d21bf8f8",
     "time_str_formatted": "09:00 AM, Tuesday, October 08, 2024"
+  },
+  {
+    "title": "Geoffrey Hinton, AI pioneer and figurehead of doomerism, wins Nobel Prize",
+    "url": "https://www.technologyreview.com/2024/10/08/1105221/geoffrey-hinton-just-won-the-nobel-prize-in-physics-for-his-work-on-machine-learning/",
+    "ut": 1728354673.0,
+    "dir_path_unix": "data/articles/geoffrey-hinton-ai-pione.db661cf8",
+    "time_str_formatted": "08:01 AM, Tuesday, October 08, 2024"
   },
   {
     "title": "Formulating a customer experience culture",

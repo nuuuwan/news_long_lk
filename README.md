@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-10 06:25:08**
+Last Updated **2024-10-10 18:19:29**
 
 ## 2024-10-10
 
+* [Everything comes back to climate tech. Here’s what to watch for next.](data/articles/everything-comes-back-to.d7dc6f0a/README.md) `technologyreview.com`
 * [Misinformation lovingly brought to you by Big Tech](data/articles/misinformation-lovingly.eb2ac889/README.md) `ft.lk`
 * [Overcoming common mistakes in customer experience](data/articles/overcoming-common-mistak.9d10097d/README.md) `ft.lk`
 * [From Lebanon to Lanka: Evils of unipolarity, imperatives of resistance](data/articles/from-lebanon-to-lanka-ev.6aa71eb1/README.md) `ft.lk`
@@ -13,6 +14,7 @@ Last Updated **2024-10-10 06:25:08**
 ## 2024-10-09
 
 * [India and China key for Sri Lanka’s full recovery](data/articles/india-and-china-key-for.2021c0e5/README.md) `ft.lk`
+* [Only sanity will help Sri Lanka in balancing ties with India and China](data/articles/only-sanity-will-help-sr.d3eebe43/README.md) `dailymirror.lk`
 * [Only sanity will help Sri Lanka in balancing ties with India and China](data/articles/only-sanity-will-help-sr.8c8c1f3c/README.md) `dailymirror.lk`
 * [Why Sri Lanka must ‘borrow’ from China’s golden harvest](data/articles/why-sri-lanka-must-borro.3ba7e2d3/README.md) `dailymirror.lk`
 * [The man who inspired AKD administration](data/articles/the-man-who-inspired-akd.55ab9de5/README.md) `dailymirror.lk`
@@ -36,6 +38,7 @@ Last Updated **2024-10-10 06:25:08**
 * [How to Manage — and Avoid — Mental Fatigue](data/articles/how-to-manage-and-avoid.0d7b9b74/README.md) `hbr.org`
 * [Stop Ignoring Your High Performers](data/articles/stop-ignoring-your-high.31dcb8cf/README.md) `hbr.org`
 * [Adobe wants to make it easier for artists to blacklist their work from AI scraping](data/articles/adobe-wants-to-make-it-e.d21bf8f8/README.md) `technologyreview.com`
+* [Geoffrey Hinton, AI pioneer and figurehead of doomerism, wins Nobel Prize](data/articles/geoffrey-hinton-ai-pione.db661cf8/README.md) `technologyreview.com`
 * [Formulating a customer experience culture](data/articles/formulating-a-customer-e.314e8fa0/README.md) `ft.lk`
 * [A business case for ESG in a stabilising economy](data/articles/a-business-case-for-esg.32d00022/README.md) `ft.lk`
 * [Why artificial intelligence and clean energy need each other](data/articles/why-artificial-intellige.4d9f5d09/README.md) `technologyreview.com`
