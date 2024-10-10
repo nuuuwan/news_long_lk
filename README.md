@@ -2,14 +2,28 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-09 18:19:32**
+Last Updated **2024-10-10 06:25:08**
+
+## 2024-10-10
+
+* [Misinformation lovingly brought to you by Big Tech](data/articles/misinformation-lovingly.eb2ac889/README.md) `ft.lk`
+* [Overcoming common mistakes in customer experience](data/articles/overcoming-common-mistak.9d10097d/README.md) `ft.lk`
+* [From Lebanon to Lanka: Evils of unipolarity, imperatives of resistance](data/articles/from-lebanon-to-lanka-ev.6aa71eb1/README.md) `ft.lk`
 
 ## 2024-10-09
 
+* [India and China key for Sri Lanka’s full recovery](data/articles/india-and-china-key-for.2021c0e5/README.md) `ft.lk`
+* [Only sanity will help Sri Lanka in balancing ties with India and China](data/articles/only-sanity-will-help-sr.8c8c1f3c/README.md) `dailymirror.lk`
+* [Why Sri Lanka must ‘borrow’ from China’s golden harvest](data/articles/why-sri-lanka-must-borro.3ba7e2d3/README.md) `dailymirror.lk`
+* [The man who inspired AKD administration](data/articles/the-man-who-inspired-akd.55ab9de5/README.md) `dailymirror.lk`
+* [Adapting Electrical Panels to Meet the Future’s More Demanding Loads](data/articles/adapting-electrical-pane.ac2f9d73/README.md) `hbr.org`
+* [The 4 Interview Red Flags Hiring Managers Say Concern Them Most](data/articles/the-4-interview-red-flag.5811ff26/README.md) `hbr.org`
+* [Shift Your Leadership from “Power Over” to “Leading Through”](data/articles/shift-your-leadership-fr.2879f825/README.md) `hbr.org`
 * [Research: The Long-Term Costs of Layoffs](data/articles/research-the-long-term-c.a2189e3f/README.md) `hbr.org`
 * [Open letter to President: Do we need a new development bank?](data/articles/open-letter-to-president.86310f2e/README.md) `ft.lk`
 * [Call for nine provincial units of development](data/articles/call-for-nine-provincial.c85135de/README.md) `ft.lk`
 * [Foreign observers at polls: Evolution of the concept and practice of election observation](data/articles/foreign-observers-at-pol.f14f9bac/README.md) `ft.lk`
+* [Vijaya Kumaratunga:Acting  was his Accredited Profession but Politics was his Chosen Vocation.](data/articles/vijaya-kumaratunga-actin.9e40ff29/README.md) `dbsjeyaraj.com`
 * [ஜே.வி.பி . இயக்கத்தில் அநுர குமார திசாநாயக்கவின் வளர்ச்சியும் இலங்கை அரசியலில் துரித  எழுச்சியும்](data/articles/ஜ-வ-ப-இயக-கத-த-ல-அந-ர-க.d3e5787b/README.md) `dbsjeyaraj.com`
 * [Priority matrix for tea sector: Part 3](data/articles/priority-matrix-for-tea.057493e4/README.md) `ft.lk`
 * [Greece as a lens to understand present political changes](data/articles/greece-as-a-lens-to-unde.6358bb16/README.md) `ft.lk`
