@@ -1,5 +1,12 @@
 [
   {
+    "title": "Constitutional supremacy versus Parliamentary supremacy: Which way for Sri Lanka?",
+    "url": "https://www.ft.lk/columns/Constitutional-supremacy-versus-Parliamentary-supremacy-Which-way-for-Sri-Lanka/4-767820",
+    "ut": 1728608364.0,
+    "dir_path_unix": "data/articles/constitutional-supremacy.b1fe543b",
+    "time_str_formatted": "06:29 AM, Friday, October 11, 2024"
+  },
+  {
     "title": "Is intelligence in the right place?",
     "url": "https://www.ft.lk/columns/Is-intelligence-in-the-right-place/4-767811",
     "ut": 1728607591.0,
@@ -19,6 +26,13 @@
     "ut": 1728606934.0,
     "dir_path_unix": "data/articles/eight-ultimate-challenge.8c9f1d26",
     "time_str_formatted": "06:05 AM, Friday, October 11, 2024"
+  },
+  {
+    "title": "Job title of the future: Digital forest ranger",
+    "url": "https://www.technologyreview.com/2024/10/11/1105063/digital-forest-ranger-martin-roth-job-future/",
+    "ut": 1728606600.0,
+    "dir_path_unix": "data/articles/job-title-of-the-future.a9e8a8d0",
+    "time_str_formatted": "06:00 AM, Friday, October 11, 2024"
   },
   {
     "title": "Why implement the 13th Amendment?",
@@ -70,6 +84,13 @@
     "time_str_formatted": "02:50 PM, Thursday, October 10, 2024"
   },
   {
+    "title": "The High Costs of Chief Revenue Officer Turnover",
+    "url": "https://hbr.org/2024/10/the-high-costs-of-chief-revenue-officer-turnover",
+    "ut": 1728543314.0,
+    "dir_path_unix": "data/articles/the-high-costs-of-chief.bbbfd840",
+    "time_str_formatted": "12:25 PM, Thursday, October 10, 2024"
+  },
+  {
     "title": "Observers warn the US must do more to boost demand for carbon removal",
     "url": "https://www.technologyreview.com/2024/10/10/1105392/experts-warn-the-us-must-do-more-to-boost-demand-for-carbon-removal/",
     "ut": 1728531000.0,
@@ -82,6 +103,13 @@
     "ut": 1728520200.0,
     "dir_path_unix": "data/articles/everything-comes-back-to.d7dc6f0a",
     "time_str_formatted": "06:00 AM, Thursday, October 10, 2024"
+  },
+  {
+    "title": "This octopus-inspired adhesive can stick to just about anything",
+    "url": "https://www.technologyreview.com/2024/10/10/1105396/this-octopus-inspired-adhesive-can-stick-to-just-about-anything/",
+    "ut": 1728516600.0,
+    "dir_path_unix": "data/articles/this-octopus-inspired-ad.299b65db",
+    "time_str_formatted": "05:00 AM, Thursday, October 10, 2024"
   },
   {
     "title": "Misinformation lovingly brought to you by Big Tech",
@@ -166,6 +194,13 @@
     "ut": 1728455703.0,
     "dir_path_unix": "data/articles/research-the-long-term-c.a2189e3f",
     "time_str_formatted": "12:05 PM, Wednesday, October 09, 2024"
+  },
+  {
+    "title": "Google DeepMind leaders share Nobel Prize in chemistry for protein prediction AI",
+    "url": "https://www.technologyreview.com/2024/10/09/1105335/google-deepmind-wins-joint-nobel-prize-in-chemistry-for-protein-prediction-ai/",
+    "ut": 1728439324.0,
+    "dir_path_unix": "data/articles/google-deepmind-leaders.d7ef81d7",
+    "time_str_formatted": "07:32 AM, Wednesday, October 09, 2024"
   },
   {
     "title": "Open letter to President: Do we need a new development bank?",
@@ -623,6 +658,13 @@
     "time_str_formatted": "12:05 PM, Thursday, October 03, 2024"
   },
   {
+    "title": "Conflict in the Middle East: where to now?",
+    "url": "https://www.eiu.com/n/conflict-in-the-middle-east-where-to-now/",
+    "ut": 1727915996.0,
+    "dir_path_unix": "data/articles/conflict-in-the-middle-e.9911c4e5",
+    "time_str_formatted": "06:09 AM, Thursday, October 03, 2024"
+  },
+  {
     "title": "These 15 companies are innovating in climate tech",
     "url": "https://www.technologyreview.com/2024/10/03/1104910/15-climate-tech-companies/",
     "ut": 1727915400.0,
@@ -880,6 +922,13 @@
     "ut": 1727765106.0,
     "dir_path_unix": "data/articles/how-proposed-sec-disclos.90624295",
     "time_str_formatted": "12:15 PM, Tuesday, October 01, 2024"
+  },
+  {
+    "title": "California AI bill veto makes federal rules more unlikely",
+    "url": "https://www.eiu.com/n/california-ai-bill-veto-makes-federal-rules-more-unlikely/",
+    "ut": 1727743023.0,
+    "dir_path_unix": "data/articles/california-ai-bill-veto.f37f3a04",
+    "time_str_formatted": "06:07 AM, Tuesday, October 01, 2024"
   },
   {
     "title": "Why bigger is not always better in AI",

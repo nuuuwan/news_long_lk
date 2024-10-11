@@ -2,13 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-11 06:26:35**
+Last Updated **2024-10-11 18:19:31**
 
 ## 2024-10-11
 
+* [Constitutional supremacy versus Parliamentary supremacy: Which way for Sri Lanka?](data/articles/constitutional-supremacy.b1fe543b/README.md) `ft.lk`
 * [Is intelligence in the right place?](data/articles/is-intelligence-in-the-r.d9713fc9/README.md) `ft.lk`
 * [Economics of IMF-AKD negotiations](data/articles/economics-of-imf-akd-neg.58415a21/README.md) `ft.lk`
 * [Eight ‘ULTIMATE’ challenges in setting up a customer experience culture](data/articles/eight-ultimate-challenge.8c9f1d26/README.md) `ft.lk`
+* [Job title of the future: Digital forest ranger](data/articles/job-title-of-the-future.a9e8a8d0/README.md) `technologyreview.com`
 * [Why implement the 13th Amendment?](data/articles/why-implement-the-13th-a.8cc0af6a/README.md) `dailymirror.lk`
 * [Political Rupture in Sri Lanka - what lies ahead?](data/articles/political-rupture-in-sri.ec4f0f44/README.md) `dailymirror.lk`
 * [“If war crimes aren’t investigated even political leaders might have travel restrictions” -Anura Meddegoda](data/articles/if-war-crimes-aren-t-in.1ec052b8/README.md) `dailymirror.lk`
@@ -19,8 +21,10 @@ Last Updated **2024-10-11 06:26:35**
 * [What Business Leaders Need to Know About Supply Chain Management](data/articles/what-business-leaders-ne.f9ebd9a0/README.md) `hbr.org`
 * [Now, India loves our railway line!](data/articles/now-india-loves-our-rail.3c2bda79/README.md) `dailymirror.lk`
 * [The Importance of Professional-Grade Generative AI in Regulated Sectors](data/articles/the-importance-of-profes.17d89a88/README.md) `hbr.org`
+* [The High Costs of Chief Revenue Officer Turnover](data/articles/the-high-costs-of-chief.bbbfd840/README.md) `hbr.org`
 * [Observers warn the US must do more to boost demand for carbon removal](data/articles/observers-warn-the-us-mu.39c7356a/README.md) `technologyreview.com`
 * [Everything comes back to climate tech. Here’s what to watch for next.](data/articles/everything-comes-back-to.d7dc6f0a/README.md) `technologyreview.com`
+* [This octopus-inspired adhesive can stick to just about anything](data/articles/this-octopus-inspired-ad.299b65db/README.md) `technologyreview.com`
 * [Misinformation lovingly brought to you by Big Tech](data/articles/misinformation-lovingly.eb2ac889/README.md) `ft.lk`
 * [Overcoming common mistakes in customer experience](data/articles/overcoming-common-mistak.9d10097d/README.md) `ft.lk`
 * [From Lebanon to Lanka: Evils of unipolarity, imperatives of resistance](data/articles/from-lebanon-to-lanka-ev.6aa71eb1/README.md) `ft.lk`
@@ -36,6 +40,7 @@ Last Updated **2024-10-11 06:26:35**
 * [The 4 Interview Red Flags Hiring Managers Say Concern Them Most](data/articles/the-4-interview-red-flag.5811ff26/README.md) `hbr.org`
 * [Shift Your Leadership from “Power Over” to “Leading Through”](data/articles/shift-your-leadership-fr.2879f825/README.md) `hbr.org`
 * [Research: The Long-Term Costs of Layoffs](data/articles/research-the-long-term-c.a2189e3f/README.md) `hbr.org`
+* [Google DeepMind leaders share Nobel Prize in chemistry for protein prediction AI](data/articles/google-deepmind-leaders.d7ef81d7/README.md) `technologyreview.com`
 * [Open letter to President: Do we need a new development bank?](data/articles/open-letter-to-president.86310f2e/README.md) `ft.lk`
 * [Call for nine provincial units of development](data/articles/call-for-nine-provincial.c85135de/README.md) `ft.lk`
 * [Foreign observers at polls: Evolution of the concept and practice of election observation](data/articles/foreign-observers-at-pol.f14f9bac/README.md) `ft.lk`
@@ -119,6 +124,7 @@ Last Updated **2024-10-11 06:26:35**
 * [People are using Google study software to make AI podcasts—and they’re weird and amazing](data/articles/people-are-using-google.23c3be4a/README.md) `technologyreview.com`
 * [How Online Retailers Can Avoid Costly Out-of-Stock Issues](data/articles/how-online-retailers-can.4014fadf/README.md) `hbr.org`
 * [Why Gaming Is Good for the Workplace](data/articles/why-gaming-is-good-for-t.c442862e/README.md) `hbr.org`
+* [Conflict in the Middle East: where to now?](data/articles/conflict-in-the-middle-e.9911c4e5/README.md) `eiu.com`
 * [These 15 companies are innovating in climate tech](data/articles/these-15-companies-are-i.436311b7/README.md) `technologyreview.com`
 * [AI-generated images can teach robots how to act](data/articles/ai-generated-images-can.9b7e639f/README.md) `technologyreview.com`
 * [The new president’s opportunity to reshape social protection](data/articles/the-new-president-s-oppo.a0726214/README.md) `dailymirror.lk`
@@ -162,6 +168,7 @@ Last Updated **2024-10-11 06:26:35**
 * [2024 Climate Tech Companies to Watch: Pano AI and its fire-detecting AI](data/articles/2024-climate-tech-compan.0a78d802/README.md) `technologyreview.com`
 * [3 Traps on the Way to Becoming a Customer-Centric Company](data/articles/3-traps-on-the-way-to-be.cb0ed0cb/README.md) `hbr.org`
 * [How Proposed SEC Disclosure Requirements Could Help Workers](data/articles/how-proposed-sec-disclos.90624295/README.md) `hbr.org`
+* [California AI bill veto makes federal rules more unlikely](data/articles/california-ai-bill-veto.f37f3a04/README.md) `eiu.com`
 * [Why bigger is not always better in AI](data/articles/why-bigger-is-not-always.011ede3d/README.md) `technologyreview.com`
 * [PUT CHILDREN FIRST A MOMENT OF CHOICE  FOR SRI LANKA](data/articles/put-children-first-a-mom.9379b477/README.md) `dailymirror.lk`
 * [Anura  Kumra Dissanayake will ask the people who elected him as President to give his NPP a big victory at the Parliamentary Elections to stabilise the economy and fulfil  promises.](data/articles/anura-kumra-dissanayake.be757cb0/README.md) `dbsjeyaraj.com`
