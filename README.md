@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-10 18:19:29**
+Last Updated **2024-10-11 06:26:35**
+
+## 2024-10-11
+
+* [Is intelligence in the right place?](data/articles/is-intelligence-in-the-r.d9713fc9/README.md) `ft.lk`
+* [Economics of IMF-AKD negotiations](data/articles/economics-of-imf-akd-neg.58415a21/README.md) `ft.lk`
+* [Eight ‘ULTIMATE’ challenges in setting up a customer experience culture](data/articles/eight-ultimate-challenge.8c9f1d26/README.md) `ft.lk`
+* [Why implement the 13th Amendment?](data/articles/why-implement-the-13th-a.8cc0af6a/README.md) `dailymirror.lk`
+* [Political Rupture in Sri Lanka - what lies ahead?](data/articles/political-rupture-in-sri.ec4f0f44/README.md) `dailymirror.lk`
+* [“If war crimes aren’t investigated even political leaders might have travel restrictions” -Anura Meddegoda](data/articles/if-war-crimes-aren-t-in.1ec052b8/README.md) `dailymirror.lk`
 
 ## 2024-10-10
 
+* [Gaza War: Journalism is not a crime; suppressing it is](data/articles/gaza-war-journalism-is-n.2323c6aa/README.md) `dailymirror.lk`
+* [What Business Leaders Need to Know About Supply Chain Management](data/articles/what-business-leaders-ne.f9ebd9a0/README.md) `hbr.org`
+* [Now, India loves our railway line!](data/articles/now-india-loves-our-rail.3c2bda79/README.md) `dailymirror.lk`
+* [The Importance of Professional-Grade Generative AI in Regulated Sectors](data/articles/the-importance-of-profes.17d89a88/README.md) `hbr.org`
+* [Observers warn the US must do more to boost demand for carbon removal](data/articles/observers-warn-the-us-mu.39c7356a/README.md) `technologyreview.com`
 * [Everything comes back to climate tech. Here’s what to watch for next.](data/articles/everything-comes-back-to.d7dc6f0a/README.md) `technologyreview.com`
 * [Misinformation lovingly brought to you by Big Tech](data/articles/misinformation-lovingly.eb2ac889/README.md) `ft.lk`
 * [Overcoming common mistakes in customer experience](data/articles/overcoming-common-mistak.9d10097d/README.md) `ft.lk`
