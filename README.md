@@ -2,13 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-12 06:25:05**
+Last Updated **2024-10-12 18:17:15**
+
+## 2024-10-12
+
+* [Can NPP really change the system?](data/articles/can-npp-really-change-th.b13d31c1/README.md) `dailymirror.lk`
+* [AKD’s sincerity in balance -little room to manoeuvre - EDITORIAL](data/articles/akd-s-sincerity-in-balan.483fe59a/README.md) `dailymirror.lk`
+* [When “Comrade”Anura Became the Fifth JVP Leader in 2014](data/articles/when-comrade-anura-becam.0a00fede/README.md) `dailymirror.lk`
 
 ## 2024-10-11
 
 * [Before the music fades away](data/articles/before-the-music-fades-a.85fc7df3/README.md) `ft.lk`
 * [After the Summit of the Future: Charting a path for global climate action](data/articles/after-the-summit-of-the.144f8252/README.md) `ft.lk`
 * [How Companies Can Use LLM-Powered Search to Create Value](data/articles/how-companies-can-use-ll.22b43b6d/README.md) `hbr.org`
+* [How to Navigate a Job Offer from a Competitor](data/articles/how-to-navigate-a-job-of.4cbcc8c2/README.md) `hbr.org`
 * [Constitutional supremacy versus Parliamentary supremacy: Which way for Sri Lanka?](data/articles/constitutional-supremacy.b1fe543b/README.md) `ft.lk`
 * [Is intelligence in the right place?](data/articles/is-intelligence-in-the-r.d9713fc9/README.md) `ft.lk`
 * [Economics of IMF-AKD negotiations](data/articles/economics-of-imf-akd-neg.58415a21/README.md) `ft.lk`
