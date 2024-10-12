@@ -1,5 +1,26 @@
 [
   {
+    "title": "Before the music fades away",
+    "url": "https://www.ft.lk/columns/Before-the-music-fades-away/4-767876",
+    "ut": 1728669157.0,
+    "dir_path_unix": "data/articles/before-the-music-fades-a.85fc7df3",
+    "time_str_formatted": "11:22 PM, Friday, October 11, 2024"
+  },
+  {
+    "title": "After the Summit of the Future: Charting a path for global climate action",
+    "url": "https://www.ft.lk/columns/After-the-Summit-of-the-Future-Charting-a-path-for-global-climate-action/4-767875",
+    "ut": 1728668877.0,
+    "dir_path_unix": "data/articles/after-the-summit-of-the.144f8252",
+    "time_str_formatted": "11:17 PM, Friday, October 11, 2024"
+  },
+  {
+    "title": "How Companies Can Use LLM-Powered Search to Create Value",
+    "url": "https://hbr.org/2024/10/how-companies-can-use-llm-powered-search-to-create-value",
+    "ut": 1728629135.0,
+    "dir_path_unix": "data/articles/how-companies-can-use-ll.22b43b6d",
+    "time_str_formatted": "12:15 PM, Friday, October 11, 2024"
+  },
+  {
     "title": "Constitutional supremacy versus Parliamentary supremacy: Which way for Sri Lanka?",
     "url": "https://www.ft.lk/columns/Constitutional-supremacy-versus-Parliamentary-supremacy-Which-way-for-Sri-Lanka/4-767820",
     "ut": 1728608364.0,
@@ -9994,5 +10015,12 @@
     "ut": 1715311800.0,
     "dir_path_unix": "data/articles/tech-workers-should-shin.d5283edf",
     "time_str_formatted": "09:00 AM, Friday, May 10, 2024"
+  },
+  {
+    "title": "How to Write a Thank You Email After an Interview (with Examples)",
+    "url": "https://hbr.org/2022/11/how-to-write-a-thank-you-email-after-an-interview",
+    "ut": 1669795518.0,
+    "dir_path_unix": "data/articles/how-to-write-a-thank-you.ef85a2da",
+    "time_str_formatted": "01:35 PM, Wednesday, November 30, 2022"
   }
 ]

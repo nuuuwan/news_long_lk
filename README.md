@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-11 18:19:31**
+Last Updated **2024-10-12 06:25:05**
 
 ## 2024-10-11
 
+* [Before the music fades away](data/articles/before-the-music-fades-a.85fc7df3/README.md) `ft.lk`
+* [After the Summit of the Future: Charting a path for global climate action](data/articles/after-the-summit-of-the.144f8252/README.md) `ft.lk`
+* [How Companies Can Use LLM-Powered Search to Create Value](data/articles/how-companies-can-use-ll.22b43b6d/README.md) `hbr.org`
 * [Constitutional supremacy versus Parliamentary supremacy: Which way for Sri Lanka?](data/articles/constitutional-supremacy.b1fe543b/README.md) `ft.lk`
 * [Is intelligence in the right place?](data/articles/is-intelligence-in-the-r.d9713fc9/README.md) `ft.lk`
 * [Economics of IMF-AKD negotiations](data/articles/economics-of-imf-akd-neg.58415a21/README.md) `ft.lk`
@@ -1863,3 +1866,7 @@ Last Updated **2024-10-11 18:19:31**
 * [Intra-party tensions in the US rise over foreign conflicts](data/articles/intra-party-tensions-in.5c37ed1c/README.md) `eiu.com`
 * [EU approves first subsidies for hydrogen projects](data/articles/eu-approves-first-subsid.5ca64453/README.md) `eiu.com`
 * [Tech workers should shine a light on the industry’s secretive work with the military](data/articles/tech-workers-should-shin.d5283edf/README.md) `technologyreview.com`
+
+## 2022-11-30
+
+* [How to Write a Thank You Email After an Interview (with Examples)](data/articles/how-to-write-a-thank-you.ef85a2da/README.md) `hbr.org`
