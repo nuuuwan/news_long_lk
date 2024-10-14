@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-13 18:17:30**
+Last Updated **2024-10-14 06:24:32**
+
+## 2024-10-14
+
+* [‘All stalled  investigations  under former regimes to resume soon’ Public Security Ministry Secretary, Senior DIG (Rtd)  Ravi Seneviratne](data/articles/all-stalled-investigati.f1698ffd/README.md) `dailymirror.lk`
+* [The US could be the biggest loser in the Israel-vs-Arabs war](data/articles/the-us-could-be-the-bigg.2b6ef2ca/README.md) `dailymirror.lk`
+* [The monsoon creating chaos and mayhem - EDITORIAL](data/articles/the-monsoon-creating-cha.de6ff48d/README.md) `dailymirror.lk`
+
+## 2024-10-13
+
+* [Time to drain the swamp](data/articles/time-to-drain-the-swamp.81dd7a66/README.md) `ft.lk`
+* [IPS’s SOE 2024: Manual of growth strategies for AKD](data/articles/ips-s-soe-2024-manual-of.5b7768a1/README.md) `ft.lk`
+* [“Comrade”Anura Began Historic Journey After Becoming  the Fifth  Leader  of JVP  in 2014.](data/articles/comrade-anura-began-his.7b9810cc/README.md) `dbsjeyaraj.com`
 
 ## 2024-10-12
 
