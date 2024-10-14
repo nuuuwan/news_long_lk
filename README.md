@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-14 06:24:32**
+Last Updated **2024-10-14 18:20:07**
 
 ## 2024-10-14
 
+* [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.fbca6e15/README.md) `technologyreview.com`
 * [‘All stalled  investigations  under former regimes to resume soon’ Public Security Ministry Secretary, Senior DIG (Rtd)  Ravi Seneviratne](data/articles/all-stalled-investigati.f1698ffd/README.md) `dailymirror.lk`
 * [The US could be the biggest loser in the Israel-vs-Arabs war](data/articles/the-us-could-be-the-bigg.2b6ef2ca/README.md) `dailymirror.lk`
 * [The monsoon creating chaos and mayhem - EDITORIAL](data/articles/the-monsoon-creating-cha.de6ff48d/README.md) `dailymirror.lk`
@@ -46,6 +47,7 @@ Last Updated **2024-10-14 06:24:32**
 * [The High Costs of Chief Revenue Officer Turnover](data/articles/the-high-costs-of-chief.bbbfd840/README.md) `hbr.org`
 * [Observers warn the US must do more to boost demand for carbon removal](data/articles/observers-warn-the-us-mu.39c7356a/README.md) `technologyreview.com`
 * [Everything comes back to climate tech. Here’s what to watch for next.](data/articles/everything-comes-back-to.d7dc6f0a/README.md) `technologyreview.com`
+* [The weeds are winning](data/articles/the-weeds-are-winning.5953e171/README.md) `technologyreview.com`
 * [This octopus-inspired adhesive can stick to just about anything](data/articles/this-octopus-inspired-ad.299b65db/README.md) `technologyreview.com`
 * [Misinformation lovingly brought to you by Big Tech](data/articles/misinformation-lovingly.eb2ac889/README.md) `ft.lk`
 * [Overcoming common mistakes in customer experience](data/articles/overcoming-common-mistak.9d10097d/README.md) `ft.lk`
