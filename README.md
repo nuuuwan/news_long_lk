@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-14 18:20:07**
+Last Updated **2024-10-15 06:24:56**
+
+## 2024-10-15
+
+* [Harsha’s  Options -Join NPP or Take Over Leadership of SJB Who wants Dr. Harsha de Silva out?](data/articles/harsha-s-options-join-np.81e76891/README.md) `dailymirror.lk`
+* [The New government and foreign debt - EDITORIAL](data/articles/the-new-government-and-f.0919a4c5/README.md) `dailymirror.lk`
+* [VAT hike in Sri Lanka: Who really pays the price?](data/articles/vat-hike-in-sri-lanka-wh.78ec0056/README.md) `ft.lk`
+* [One thousand megawatts of rooftops – solar heaven?](data/articles/one-thousand-megawatts-o.14307615/README.md) `ft.lk`
 
 ## 2024-10-14
 
+* [Digitalisation: Gates must be open for Sri Lankan companies for innovation](data/articles/digitalisation-gates-mus.3aab6f01/README.md) `ft.lk`
+* [What more can Govt. do: Strategies to solidify economic progress post-elections](data/articles/what-more-can-govt-do-st.9d82667a/README.md) `ft.lk`
+* [Education for system change: Proposal for critical thinking and civic responsibility curriculum](data/articles/education-for-system-cha.ea99b53e/README.md) `ft.lk`
+* [Why Marketers Are Spending Less on Social Media](data/articles/why-marketers-are-spendi.05735f7c/README.md) `hbr.org`
+* [What Employers Get Wrong About How People Connect at Work](data/articles/what-employers-get-wrong.c7652c60/README.md) `hbr.org`
 * [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.fbca6e15/README.md) `technologyreview.com`
 * [‘All stalled  investigations  under former regimes to resume soon’ Public Security Ministry Secretary, Senior DIG (Rtd)  Ravi Seneviratne](data/articles/all-stalled-investigati.f1698ffd/README.md) `dailymirror.lk`
 * [The US could be the biggest loser in the Israel-vs-Arabs war](data/articles/the-us-could-be-the-bigg.2b6ef2ca/README.md) `dailymirror.lk`
