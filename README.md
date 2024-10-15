@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-15 06:24:56**
+Last Updated **2024-10-15 18:20:23**
 
 ## 2024-10-15
 
+* [The misuse of the National List in Sri Lanka’s parliamentary elections](data/articles/the-misuse-of-the-nation.9fe25625/README.md) `dailymirror.lk`
+* [A data bottleneck is holding AI science back, says new Nobel winner](data/articles/a-data-bottleneck-is-hol.3acab3fa/README.md) `technologyreview.com`
 * [Harsha’s  Options -Join NPP or Take Over Leadership of SJB Who wants Dr. Harsha de Silva out?](data/articles/harsha-s-options-join-np.81e76891/README.md) `dailymirror.lk`
 * [The New government and foreign debt - EDITORIAL](data/articles/the-new-government-and-f.0919a4c5/README.md) `dailymirror.lk`
 * [VAT hike in Sri Lanka: Who really pays the price?](data/articles/vat-hike-in-sri-lanka-wh.78ec0056/README.md) `ft.lk`
@@ -46,6 +48,7 @@ Last Updated **2024-10-15 06:24:56**
 * [Economics of IMF-AKD negotiations](data/articles/economics-of-imf-akd-neg.58415a21/README.md) `ft.lk`
 * [Eight ‘ULTIMATE’ challenges in setting up a customer experience culture](data/articles/eight-ultimate-challenge.8c9f1d26/README.md) `ft.lk`
 * [Job title of the future: Digital forest ranger](data/articles/job-title-of-the-future.a9e8a8d0/README.md) `technologyreview.com`
+* [These are the best ways to measure your body fat](data/articles/these-are-the-best-ways.68c8bd64/README.md) `technologyreview.com`
 * [Why implement the 13th Amendment?](data/articles/why-implement-the-13th-a.8cc0af6a/README.md) `dailymirror.lk`
 * [Political Rupture in Sri Lanka - what lies ahead?](data/articles/political-rupture-in-sri.ec4f0f44/README.md) `dailymirror.lk`
 * [“If war crimes aren’t investigated even political leaders might have travel restrictions” -Anura Meddegoda](data/articles/if-war-crimes-aren-t-in.1ec052b8/README.md) `dailymirror.lk`
