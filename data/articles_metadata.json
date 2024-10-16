@@ -1,5 +1,12 @@
 [
   {
+    "title": "Super-light materials that help suppress EV battery fires just got a big boost",
+    "url": "https://www.technologyreview.com/2024/10/16/1105504/aerogel-ev-battery-fire/",
+    "ut": 1729044000.0,
+    "dir_path_unix": "data/articles/super-light-materials-th.d75959f2",
+    "time_str_formatted": "07:30 AM, Wednesday, October 16, 2024"
+  },
+  {
     "title": "This election is about the \u201cOpposition\u201d",
     "url": "https://www.ft.lk/columns/This-election-is-about-the-Opposition/4-768010",
     "ut": 1729032997.0,
@@ -19,6 +26,13 @@
     "ut": 1729032517.0,
     "dir_path_unix": "data/articles/what-should-we-expect-of.e045af33",
     "time_str_formatted": "04:18 AM, Wednesday, October 16, 2024"
+  },
+  {
+    "title": "Parliamentary polls Seeing a \u2018System Change\u2019 is now or never",
+    "url": "https://www.dailymirror.lk/plus/Parliamentary-polls-Seeing-a-System-Change-is-now-or-never/352-293860",
+    "ut": 1729014850.0,
+    "dir_path_unix": "data/articles/parliamentary-polls-seei.c450c1bb",
+    "time_str_formatted": "11:24 PM, Tuesday, October 15, 2024"
   },
   {
     "title": "Parliamentary polls Seeing a \u2018System Change\u2019 is now or never",
@@ -3939,6 +3953,13 @@
     "ut": 1724823445.0,
     "dir_path_unix": "data/articles/canada-s-2023-wildfires.141226b2",
     "time_str_formatted": "11:07 AM, Wednesday, August 28, 2024"
+  },
+  {
+    "title": "The year is 2149 and \u2026",
+    "url": "https://www.technologyreview.com/2024/08/28/1096774/sean-michaels-2149-fiction-speculation/",
+    "ut": 1724808600.0,
+    "dir_path_unix": "data/articles/the-year-is-2149-and.60b529e2",
+    "time_str_formatted": "07:00 AM, Wednesday, August 28, 2024"
   },
   {
     "title": "African farmers are using private satellite data to improve crop yields",

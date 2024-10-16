@@ -2,16 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-16 06:25:43**
+Last Updated **2024-10-16 18:20:07**
 
 ## 2024-10-16
 
+* [Super-light materials that help suppress EV battery fires just got a big boost](data/articles/super-light-materials-th.d75959f2/README.md) `technologyreview.com`
 * [This election is about the “Opposition”](data/articles/this-election-is-about-t.6a453303/README.md) `ft.lk`
 * [Turning the right to food into reality: Collective path to a food-secure future](data/articles/turning-the-right-to-foo.b59acae3/README.md) `ft.lk`
 * [What should we expect of our MPs?](data/articles/what-should-we-expect-of.e045af33/README.md) `ft.lk`
 
 ## 2024-10-15
 
+* [Parliamentary polls Seeing a ‘System Change’ is now or never](data/articles/parliamentary-polls-seei.c450c1bb/README.md) `dailymirror.lk`
 * [Parliamentary polls Seeing a ‘System Change’ is now or never](data/articles/parliamentary-polls-seei.07c3bac7/README.md) `dailymirror.lk`
 * [Sajith Premadasa’s wrecking ball has demolished the opposition](data/articles/sajith-premadasa-s-wreck.71623a00/README.md) `dailymirror.lk`
 * [Fresh breeze blowing  o’er Lanka](data/articles/fresh-breeze-blowing-o-e.b499aa31/README.md) `dailymirror.lk`
@@ -710,6 +712,7 @@ Last Updated **2024-10-16 06:25:43**
 * [Is Your Organizational Transformation Veering Off Course?](data/articles/is-your-organizational-t.46262fa2/README.md) `hbr.org`
 * [How to Craft a Memorable Message, According to Science](data/articles/how-to-craft-a-memorable.f1c0e7d9/README.md) `hbr.org`
 * [Canada’s 2023 wildfires produced more emissions than fossil fuels in most countries](data/articles/canada-s-2023-wildfires.141226b2/README.md) `technologyreview.com`
+* [The year is 2149 and …](data/articles/the-year-is-2149-and.60b529e2/README.md) `technologyreview.com`
 * [African farmers are using private satellite data to improve crop yields](data/articles/african-farmers-are-usin.b00df829/README.md) `technologyreview.com`
 * [This startup is making coffee without coffee beans](data/articles/this-startup-is-making-c.6583c5fc/README.md) `technologyreview.com`
 * [Job title of the future: Weather maker](data/articles/job-title-of-the-future.c0179df5/README.md) `technologyreview.com`
