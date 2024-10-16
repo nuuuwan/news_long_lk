@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-15 18:20:23**
+Last Updated **2024-10-16 06:25:43**
+
+## 2024-10-16
+
+* [This election is about the “Opposition”](data/articles/this-election-is-about-t.6a453303/README.md) `ft.lk`
+* [Turning the right to food into reality: Collective path to a food-secure future](data/articles/turning-the-right-to-foo.b59acae3/README.md) `ft.lk`
+* [What should we expect of our MPs?](data/articles/what-should-we-expect-of.e045af33/README.md) `ft.lk`
 
 ## 2024-10-15
 
+* [Parliamentary polls Seeing a ‘System Change’ is now or never](data/articles/parliamentary-polls-seei.07c3bac7/README.md) `dailymirror.lk`
+* [Sajith Premadasa’s wrecking ball has demolished the opposition](data/articles/sajith-premadasa-s-wreck.71623a00/README.md) `dailymirror.lk`
+* [Fresh breeze blowing  o’er Lanka](data/articles/fresh-breeze-blowing-o-e.b499aa31/README.md) `dailymirror.lk`
+* [Technical Considerations for Business Leaders Operationalizing Gen AI](data/articles/technical-considerations.fe2255d1/README.md) `hbr.org`
+* [OpenAI says ChatGPT treats us all the same (most of the time)](data/articles/openai-says-chatgpt-trea.050ff2b5/README.md) `technologyreview.com`
+* [Fertility Clinics Show How the Chain Model Can Improve Health Care](data/articles/fertility-clinics-show-h.5294db82/README.md) `hbr.org`
 * [The misuse of the National List in Sri Lanka’s parliamentary elections](data/articles/the-misuse-of-the-nation.9fe25625/README.md) `dailymirror.lk`
 * [A data bottleneck is holding AI science back, says new Nobel winner](data/articles/a-data-bottleneck-is-hol.3acab3fa/README.md) `technologyreview.com`
 * [Harsha’s  Options -Join NPP or Take Over Leadership of SJB Who wants Dr. Harsha de Silva out?](data/articles/harsha-s-options-join-np.81e76891/README.md) `dailymirror.lk`
@@ -21,6 +33,7 @@ Last Updated **2024-10-15 18:20:23**
 * [Why Marketers Are Spending Less on Social Media](data/articles/why-marketers-are-spendi.05735f7c/README.md) `hbr.org`
 * [What Employers Get Wrong About How People Connect at Work](data/articles/what-employers-get-wrong.c7652c60/README.md) `hbr.org`
 * [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.fbca6e15/README.md) `technologyreview.com`
+* [Africa fights rising hunger by looking to foods of the past](data/articles/africa-fights-rising-hun.d211c33c/README.md) `technologyreview.com`
 * [‘All stalled  investigations  under former regimes to resume soon’ Public Security Ministry Secretary, Senior DIG (Rtd)  Ravi Seneviratne](data/articles/all-stalled-investigati.f1698ffd/README.md) `dailymirror.lk`
 * [The US could be the biggest loser in the Israel-vs-Arabs war](data/articles/the-us-could-be-the-bigg.2b6ef2ca/README.md) `dailymirror.lk`
 * [The monsoon creating chaos and mayhem - EDITORIAL](data/articles/the-monsoon-creating-cha.de6ff48d/README.md) `dailymirror.lk`
