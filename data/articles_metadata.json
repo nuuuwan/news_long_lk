@@ -1,9 +1,23 @@
 [
   {
+    "title": "This lab robot mixes chemicals",
+    "url": "https://www.technologyreview.com/2024/10/17/1105122/this-lab-robot-mixes-chemicals/",
+    "ut": 1729121400.0,
+    "dir_path_unix": "data/articles/this-lab-robot-mixes-che.1097ea1b",
+    "time_str_formatted": "05:00 AM, Thursday, October 17, 2024"
+  },
+  {
     "title": "International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka",
     "url": "https://www.dailymirror.lk/opinion/International-Day-for-the-Eradication-of-Poverty-is-today-Aswesuma-to-Prajashakthi-Considerations-for-future-social-protection-programmes-in-Sri-Lanka/172-293952",
     "ut": 1729114429.0,
     "dir_path_unix": "data/articles/international-day-for-th.d8a6d734",
+    "time_str_formatted": "03:03 AM, Thursday, October 17, 2024"
+  },
+  {
+    "title": "Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka",
+    "url": "https://www.dailymirror.lk/opinion/Aswesuma-to-Prajashakthi-Considerations-for-future-social-protection-programmes-in-Sri-Lanka/172-293952",
+    "ut": 1729114429.0,
+    "dir_path_unix": "data/articles/aswesuma-to-prajashakthi.b723ec73",
     "time_str_formatted": "03:03 AM, Thursday, October 17, 2024"
   },
   {
@@ -166,6 +180,13 @@
     "ut": 1728954303.0,
     "dir_path_unix": "data/articles/a-data-bottleneck-is-hol.3acab3fa",
     "time_str_formatted": "06:35 AM, Tuesday, October 15, 2024"
+  },
+  {
+    "title": "The quest to protect farmworkers from extreme heat",
+    "url": "https://www.technologyreview.com/2024/10/15/1105113/extreme-heat-farmworkers-agriculture-sensor/",
+    "ut": 1728952200.0,
+    "dir_path_unix": "data/articles/the-quest-to-protect-far.df6ead04",
+    "time_str_formatted": "06:00 AM, Tuesday, October 15, 2024"
   },
   {
     "title": "Harsha\u2019s  Options -Join NPP or Take Over Leadership of SJB Who wants Dr. Harsha de Silva out?",

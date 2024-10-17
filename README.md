@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-17 06:25:03**
+Last Updated **2024-10-17 18:21:03**
 
 ## 2024-10-17
 
+* [This lab robot mixes chemicals](data/articles/this-lab-robot-mixes-che.1097ea1b/README.md) `technologyreview.com`
 * [International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka](data/articles/international-day-for-th.d8a6d734/README.md) `dailymirror.lk`
+* [Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka](data/articles/aswesuma-to-prajashakthi.b723ec73/README.md) `dailymirror.lk`
 * [The Benefits of Facilitating Trade Through a Case Study of Forest Permits](data/articles/the-benefits-of-facilita.0342ea36/README.md) `dailymirror.lk`
 * [Poverty, the parent of revolution](data/articles/poverty-the-parent-of-re.1f174f3f/README.md) `dailymirror.lk`
 * [Why, despite my best efforts, I cannot be happy for the NPP win](data/articles/why-despite-my-best-effo.c9cbfeb0/README.md) `ft.lk`
@@ -36,6 +38,7 @@ Last Updated **2024-10-17 06:25:03**
 * [Fertility Clinics Show How the Chain Model Can Improve Health Care](data/articles/fertility-clinics-show-h.5294db82/README.md) `hbr.org`
 * [The misuse of the National List in Sri Lanka’s parliamentary elections](data/articles/the-misuse-of-the-nation.9fe25625/README.md) `dailymirror.lk`
 * [A data bottleneck is holding AI science back, says new Nobel winner](data/articles/a-data-bottleneck-is-hol.3acab3fa/README.md) `technologyreview.com`
+* [The quest to protect farmworkers from extreme heat](data/articles/the-quest-to-protect-far.df6ead04/README.md) `technologyreview.com`
 * [Harsha’s  Options -Join NPP or Take Over Leadership of SJB Who wants Dr. Harsha de Silva out?](data/articles/harsha-s-options-join-np.81e76891/README.md) `dailymirror.lk`
 * [The New government and foreign debt - EDITORIAL](data/articles/the-new-government-and-f.0919a4c5/README.md) `dailymirror.lk`
 * [VAT hike in Sri Lanka: Who really pays the price?](data/articles/vat-hike-in-sri-lanka-wh.78ec0056/README.md) `ft.lk`
