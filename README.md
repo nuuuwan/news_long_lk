@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-16 18:20:07**
+Last Updated **2024-10-17 06:25:03**
+
+## 2024-10-17
+
+* [International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka](data/articles/international-day-for-th.d8a6d734/README.md) `dailymirror.lk`
+* [The Benefits of Facilitating Trade Through a Case Study of Forest Permits](data/articles/the-benefits-of-facilita.0342ea36/README.md) `dailymirror.lk`
+* [Poverty, the parent of revolution](data/articles/poverty-the-parent-of-re.1f174f3f/README.md) `dailymirror.lk`
+* [Why, despite my best efforts, I cannot be happy for the NPP win](data/articles/why-despite-my-best-effo.c9cbfeb0/README.md) `ft.lk`
+* [Can centrist SJB hold against JVP surge for political domination?](data/articles/can-centrist-sjb-hold-ag.a177c4a6/README.md) `ft.lk`
 
 ## 2024-10-16
 
+* [Towards sustainable and secure energy future for Sri Lanka](data/articles/towards-sustainable-and.727d0901/README.md) `ft.lk`
+* [The Sri Lankan woman: Is she empowered?](data/articles/the-sri-lankan-woman-is.f1458d3c/README.md) `ft.lk`
+* [Govt. must hold domestic investigations on war crimes, prosecute offenders, clear name of armed forces](data/articles/govt-must-hold-domestic.0408c8bd/README.md) `ft.lk`
+* [பத்து வருடங்களுக்கு முன்னர் ”தோழர்” அநுர குமார திசாநாயக்க ஜே.வி.பி.யின் ஐந்தாவது தலைவராக வந்தபோது…..!…..](data/articles/பத-த-வர-டங-கள-க-க-ம-ன-னர.61c59624/README.md) `dbsjeyaraj.com`
+* [Video Quick Take: Intercom’s Brian Donahue on How AI Agents Can Be Your First Tier of Customer Service Support](data/articles/video-quick-take-interco.cd733b53/README.md) `hbr.org`
+* [How to Use AI to Build Your Company’s Collective Intelligence](data/articles/how-to-use-ai-to-build-y.47856e73/README.md) `hbr.org`
 * [Super-light materials that help suppress EV battery fires just got a big boost](data/articles/super-light-materials-th.d75959f2/README.md) `technologyreview.com`
 * [This election is about the “Opposition”](data/articles/this-election-is-about-t.6a453303/README.md) `ft.lk`
 * [Turning the right to food into reality: Collective path to a food-secure future](data/articles/turning-the-right-to-foo.b59acae3/README.md) `ft.lk`
