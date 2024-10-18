@@ -2,10 +2,28 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-17 18:21:03**
+Last Updated **2024-10-18 18:19:43**
+
+## 2024-10-18
+
+* [Why Workplace Well-Being Programs Don’t Achieve Better Outcomes](data/articles/why-workplace-well-being.3cf80320/README.md) `hbr.org`
+* [Low hanging fruit for President and his 3-member cabinet](data/articles/low-hanging-fruit-for-pr.0ac081cb/README.md) `ft.lk`
+* [Sri Lanka’s debt repayments and economy post 2025](data/articles/sri-lanka-s-debt-repayme.853b1e85/README.md) `ft.lk`
+* [Financial fraud through social media and online scams: Growing threat in Sri Lanka and globally](data/articles/financial-fraud-through.183de5eb/README.md) `ft.lk`
+* [Oropouche virus is spreading. Here’s what we know.](data/articles/oropouche-virus-is-sprea.3b2699fc/README.md) `technologyreview.com`
+* [Brazen abduction and brutal murder of journalist “Taraki” Sivaram](data/articles/brazen-abduction-and-bru.a19fd669/README.md) `ft.lk`
 
 ## 2024-10-17
 
+* [When the West’s moral decadence fuels Gaza war](data/articles/when-the-west-s-moral-de.c63b042e/README.md) `dailymirror.lk`
+* [Why AKD must achieve the unthinkable](data/articles/why-akd-must-achieve-the.bc871b9f/README.md) `dailymirror.lk`
+* [“Never thought Sajith Premadasa would be a weak leader”– Ajith Mannapperuma](data/articles/never-thought-sajith-pr.5b509f91/README.md) `dailymirror.lk`
+* [Colombo Port City: A Persistent Albatross for Sri Lanka?](data/articles/colombo-port-city-a-pers.5b088f02/README.md) `dailymirror.lk`
+* [Sajith Premadasa has made opposition politics unwinnable. He had the choice of making an alliance with the UNP but he was so insecure that Ranil Wickremesinghe would somehow wrest control of the Party that he turned  it down.](data/articles/sajith-premadasa-has-mad.9e29e396/README.md) `dbsjeyaraj.com`
+* [Dr. Harsha De Silva, with his expertise in economics, experience in governance, and reputation for pragmatism, could emerge as a more favourable candidate to lead the Samagi Jana Balavegaya(SJB)](data/articles/dr-harsha-de-silva-with.58cf5a06/README.md) `dbsjeyaraj.com`
+* [How to Deploy and Scale Generative AI Efficiently and Cost-Effectively](data/articles/how-to-deploy-and-scale.dfbc4bd1/README.md) `hbr.org`
+* [Research: Pay-for-Performance Doesn’t Have to Stress Workers Out](data/articles/research-pay-for-perform.8c2c60c4/README.md) `hbr.org`
+* [Is Your Career Heading in the Right Direction?](data/articles/is-your-career-heading-i.ca644f65/README.md) `hbr.org`
 * [This lab robot mixes chemicals](data/articles/this-lab-robot-mixes-che.1097ea1b/README.md) `technologyreview.com`
 * [International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka](data/articles/international-day-for-th.d8a6d734/README.md) `dailymirror.lk`
 * [Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka](data/articles/aswesuma-to-prajashakthi.b723ec73/README.md) `dailymirror.lk`
@@ -36,6 +54,7 @@ Last Updated **2024-10-17 18:21:03**
 * [Technical Considerations for Business Leaders Operationalizing Gen AI](data/articles/technical-considerations.fe2255d1/README.md) `hbr.org`
 * [OpenAI says ChatGPT treats us all the same (most of the time)](data/articles/openai-says-chatgpt-trea.050ff2b5/README.md) `technologyreview.com`
 * [Fertility Clinics Show How the Chain Model Can Improve Health Care](data/articles/fertility-clinics-show-h.5294db82/README.md) `hbr.org`
+* [Intro to AI: a beginner’s guide to artificial intelligence from MIT Technology Review](data/articles/intro-to-ai-a-beginner-s.24913ee5/README.md) `technologyreview.com`
 * [The misuse of the National List in Sri Lanka’s parliamentary elections](data/articles/the-misuse-of-the-nation.9fe25625/README.md) `dailymirror.lk`
 * [A data bottleneck is holding AI science back, says new Nobel winner](data/articles/a-data-bottleneck-is-hol.3acab3fa/README.md) `technologyreview.com`
 * [The quest to protect farmworkers from extreme heat](data/articles/the-quest-to-protect-far.df6ead04/README.md) `technologyreview.com`
