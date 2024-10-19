@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-19 06:25:00**
+Last Updated **2024-10-19 18:17:32**
 
 ## 2024-10-19
 
+* [Azalea: a science-fiction story](data/articles/azalea-a-science-fiction.c92040a2/README.md) `technologyreview.com`
 * [How Tertiary Education Institutes  can Improve Student Engagement Levels in S. Asia?](data/articles/how-tertiary-education-i.d1789bfd/README.md) `dailymirror.lk`
 * [Dr. Lorna Dewaraja’s book ‘The Muslims of Sri Lanka’   Muslims’ role in Lankan politics and the magnanimity of Sinhala Kings](data/articles/dr-lorna-dewaraja-s-book.15aa45bc/README.md) `dailymirror.lk`
 * [NPP’s struggle against corruption](data/articles/npp-s-struggle-against-c.312bde67/README.md) `dailymirror.lk`
@@ -17,6 +18,8 @@ Last Updated **2024-10-19 06:25:00**
 * [Future of multilateral cooperation at SCO summit](data/articles/future-of-multilateral-c.43e643f5/README.md) `ft.lk`
 * [Towards a climate-smart tourism sector: Building resilience through financial instruments](data/articles/towards-a-climate-smart.cea5fe29/README.md) `ft.lk`
 * [In appreciation of Professor Kumar David](data/articles/in-appreciation-of-profe.ee9c9a94/README.md) `ft.lk`
+* [The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.](data/articles/the-brazen-abduction-and.b9de8a90/README.md) `dbsjeyaraj.com`
+* [“Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges, These experienced politicians should be elected to Parliament,  as part of the Government or the Opposition.”- Former President Ranil Wickremesinghe](data/articles/without-experience-you.b6277bc6/README.md) `dbsjeyaraj.com`
 * [The US presidential election is now a toss-up](data/articles/the-us-presidential-elec.3ed0d1c1/README.md) `eiu.com`
 * [Why Workplace Well-Being Programs Don’t Achieve Better Outcomes](data/articles/why-workplace-well-being.3cf80320/README.md) `hbr.org`
 * [The race to find new materials with AI needs more data. Meta is giving massive amounts away for free.](data/articles/the-race-to-find-new-mat.f437416e/README.md) `technologyreview.com`
