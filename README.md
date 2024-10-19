@@ -2,11 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-18 18:19:43**
+Last Updated **2024-10-19 06:25:00**
+
+## 2024-10-19
+
+* [How Tertiary Education Institutes  can Improve Student Engagement Levels in S. Asia?](data/articles/how-tertiary-education-i.d1789bfd/README.md) `dailymirror.lk`
+* [Dr. Lorna Dewaraja’s book ‘The Muslims of Sri Lanka’   Muslims’ role in Lankan politics and the magnanimity of Sinhala Kings](data/articles/dr-lorna-dewaraja-s-book.15aa45bc/README.md) `dailymirror.lk`
+* [NPP’s struggle against corruption](data/articles/npp-s-struggle-against-c.312bde67/README.md) `dailymirror.lk`
+* [Is government mistaking the masses for asses](data/articles/is-government-mistaking.50140603/README.md) `dailymirror.lk`
 
 ## 2024-10-18
 
+* [How important was India’s help to Sri Lanka in 2022?](data/articles/how-important-was-india.d4525e91/README.md) `ft.lk`
+* [Future of multilateral cooperation at SCO summit](data/articles/future-of-multilateral-c.43e643f5/README.md) `ft.lk`
+* [Towards a climate-smart tourism sector: Building resilience through financial instruments](data/articles/towards-a-climate-smart.cea5fe29/README.md) `ft.lk`
+* [In appreciation of Professor Kumar David](data/articles/in-appreciation-of-profe.ee9c9a94/README.md) `ft.lk`
+* [The US presidential election is now a toss-up](data/articles/the-us-presidential-elec.3ed0d1c1/README.md) `eiu.com`
 * [Why Workplace Well-Being Programs Don’t Achieve Better Outcomes](data/articles/why-workplace-well-being.3cf80320/README.md) `hbr.org`
+* [The race to find new materials with AI needs more data. Meta is giving massive amounts away for free.](data/articles/the-race-to-find-new-mat.f437416e/README.md) `technologyreview.com`
 * [Low hanging fruit for President and his 3-member cabinet](data/articles/low-hanging-fruit-for-pr.0ac081cb/README.md) `ft.lk`
 * [Sri Lanka’s debt repayments and economy post 2025](data/articles/sri-lanka-s-debt-repayme.853b1e85/README.md) `ft.lk`
 * [Financial fraud through social media and online scams: Growing threat in Sri Lanka and globally](data/articles/financial-fraud-through.183de5eb/README.md) `ft.lk`
@@ -19,6 +32,7 @@ Last Updated **2024-10-18 18:19:43**
 * [Why AKD must achieve the unthinkable](data/articles/why-akd-must-achieve-the.bc871b9f/README.md) `dailymirror.lk`
 * [“Never thought Sajith Premadasa would be a weak leader”– Ajith Mannapperuma](data/articles/never-thought-sajith-pr.5b509f91/README.md) `dailymirror.lk`
 * [Colombo Port City: A Persistent Albatross for Sri Lanka?](data/articles/colombo-port-city-a-pers.5b088f02/README.md) `dailymirror.lk`
+* [US hopes to influence Israel’s stance on war](data/articles/us-hopes-to-influence-is.3b7653ac/README.md) `eiu.com`
 * [Sajith Premadasa has made opposition politics unwinnable. He had the choice of making an alliance with the UNP but he was so insecure that Ranil Wickremesinghe would somehow wrest control of the Party that he turned  it down.](data/articles/sajith-premadasa-has-mad.9e29e396/README.md) `dbsjeyaraj.com`
 * [Dr. Harsha De Silva, with his expertise in economics, experience in governance, and reputation for pragmatism, could emerge as a more favourable candidate to lead the Samagi Jana Balavegaya(SJB)](data/articles/dr-harsha-de-silva-with.58cf5a06/README.md) `dbsjeyaraj.com`
 * [How to Deploy and Scale Generative AI Efficiently and Cost-Effectively](data/articles/how-to-deploy-and-scale.dfbc4bd1/README.md) `hbr.org`

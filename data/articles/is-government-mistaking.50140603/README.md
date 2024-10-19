@@ -1,0 +1,46 @@
+# Is government mistaking the masses for asses
+
+[https://www.dailymirror.lk/opinion/Is-government-mistaking-the-masses-for-asses/172-294080](https://www.dailymirror.lk/opinion/Is-government-mistaking-the-masses-for-asses/172-294080)
+
+*12:52 AM, Saturday, October 19, 2024*
+
+In the run-up to the presidential election of 21st September this year, the JVP/NPP political combine was at the forefront of highlighting the problems of the poorer sections of our country. It campaigned on a platform of anti-corruption and protecting the poor and disadvantaged.
+
+It’s been less than a month since the new President Dissanayake was elected to office. Normally regime change in our country has been based on rejection of politics from one party to the second. This year saw a change -people opted for a third party. They voted on policies.
+
+Immediate past President Wickremesinghe was not elected by the public. To his credit, he steadied the ship of state and negotiated an IMF deal and build up the country’s creditworthiness. But steadying the ship of state came at a cost.
+
+The cost of living skyrocketed beyond the means of large sections of the community and the sitting president defeated.
+
+Poverty rates nearly doubled to 23.4 percent in 2024. The official poverty line (OPL)- (the OPL represents an absolute threshold, designed to ensure a person can meet a minimum nutritional intake of 2,030 kcal per day). In January 2024 OPL increased to Rs.17,014, indicating a family of four needed an income of Rs. 100,000 per month.
+
+According to NHS UK an average man needs 2,500kcal a day, an average woman 2,000kcal a day. Recent statistics show, the general average monthly wage in the formal sector of our country is estimated to be between Rs 45,000 to Rs. 60,000. Yet the cost of having 2 square meals daily is over Rs. 100,000 per month.
+
+For a large section of our people, poverty and malnutrition is now a persistent challenge and people could not meet it.
+
+The president’s victory was therefore a call for policy and system change. It brought the young and untested President Dissanayake to power. Dissanayake promised an end to corruption, family bandyism and offer a better deal to the weaker sections of our community.
+
+The empowering of Dissanayake is a despairing last gasp of a desperate people.
+
+It was this despair, that changed the 3 percent vote presidential aspirant Dissanayake received during the November 2019 presidential election to a massive 42 per cent victory five years later.
+
+The new president initially made the correct moves. He informed the IMF he would lessen the burdens laid on poorer sections of the population. He trimmed his Cabinet to four members! Cut security and vehicles provided to Members of Parliament. He also promised reduced prices of specific commodities, a Rs. 3,000 increase to pensioners, subsidised agricultural inputs to farmers and fuel subsidies to fishing communities.
+
+A damned good performance one might be tempted to say. The reality however, is despite the new regime’s promise to alleviate the sufferings of the masses, little seems to have materialised.
+
+The government seems to be sweeping election pledges ‘under the carpet’.
+
+Recently prices of particular commodities which were earlier lowered, saw price increase. Apparently none of the president’s advisors had realised the cost of  producing of a single egg was higher than the selling price ordered by government.
+
+Days later the government announced a price rise of potatoes. Worse, the government has announced an increase in the tax on several food items.
+
+Mysoor dhal -an important source of vegetable protein- will see an increase in tax of .25 cts per kg. A special commodity tax of Rs. 302/- per kg has been imposed on Maldive fish. Fresh and frozen fish, with the exception of processed fish will be taxed at 10% or Rs. 400- per kg -whichever is higher!
+
+Come on President, your fish tax is a blow to our suffering masses. A blow to the solar plexus of the fishing community. Soon they may not have a market for their product as even the richer sections of society may not be able to afford the product.
+
+And, horror of horrors, the political Opposition claims new loans (sale of government bonds) amounting to billions are being spent to cover current expenditure rather than on profitable investment.
+
+If the political opposition is correct the quantum of debt repayment is increasing.
+
+With apologies to Charles Dickens, we may soon have to say “...think again AKD’ president of Sri Lanka.
+
