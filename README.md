@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-19 18:17:32**
+Last Updated **2024-10-20 06:24:52**
 
 ## 2024-10-19
 
@@ -21,6 +21,7 @@ Last Updated **2024-10-19 18:17:32**
 * [The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.](data/articles/the-brazen-abduction-and.b9de8a90/README.md) `dbsjeyaraj.com`
 * [“Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges, These experienced politicians should be elected to Parliament,  as part of the Government or the Opposition.”- Former President Ranil Wickremesinghe](data/articles/without-experience-you.b6277bc6/README.md) `dbsjeyaraj.com`
 * [The US presidential election is now a toss-up](data/articles/the-us-presidential-elec.3ed0d1c1/README.md) `eiu.com`
+* [6 Essential Leadership Skills — and How to Develop Them](data/articles/6-essential-leadership-s.780249ae/README.md) `hbr.org`
 * [Why Workplace Well-Being Programs Don’t Achieve Better Outcomes](data/articles/why-workplace-well-being.3cf80320/README.md) `hbr.org`
 * [The race to find new materials with AI needs more data. Meta is giving massive amounts away for free.](data/articles/the-race-to-find-new-mat.f437416e/README.md) `technologyreview.com`
 * [Low hanging fruit for President and his 3-member cabinet](data/articles/low-hanging-fruit-for-pr.0ac081cb/README.md) `ft.lk`
