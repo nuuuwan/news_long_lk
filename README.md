@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-20 06:24:52**
+Last Updated **2024-10-20 18:18:01**
 
 ## 2024-10-19
 
+* [Ex-Presidents  Chandrika,Ranil and Maithripala were responsible for corruption running rampant in the public/political sector when they handled the reins of executive office.](data/articles/ex-presidents-chandrika.485e2664/README.md) `dbsjeyaraj.com`
+* [The JVP has a bitter history of fiercely opposing all attempts at finding a political solution to the national ethnic problem. There was no place for the phrase ‘devolution of power’ in its political lexicon.](data/articles/the-jvp-has-a-bitter-his.0b55aa97/README.md) `dbsjeyaraj.com`
 * [Azalea: a science-fiction story](data/articles/azalea-a-science-fiction.c92040a2/README.md) `technologyreview.com`
 * [How Tertiary Education Institutes  can Improve Student Engagement Levels in S. Asia?](data/articles/how-tertiary-education-i.d1789bfd/README.md) `dailymirror.lk`
 * [Dr. Lorna Dewaraja’s book ‘The Muslims of Sri Lanka’   Muslims’ role in Lankan politics and the magnanimity of Sinhala Kings](data/articles/dr-lorna-dewaraja-s-book.15aa45bc/README.md) `dailymirror.lk`
