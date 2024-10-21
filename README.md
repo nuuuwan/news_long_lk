@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-21 06:24:35**
+Last Updated **2024-10-21 18:19:26**
 
 ## 2024-10-21
 
@@ -17,6 +17,7 @@ Last Updated **2024-10-21 06:24:35**
 * [World Bank’s Development Trap for Sri Lanka](data/articles/world-bank-s-development.a0b321ba/README.md) `dailymirror.lk`
 * [Conflicting reports and Lanka’s position re- sanctions on UNSG](data/articles/conflicting-reports-and.613b1dab/README.md) `dailymirror.lk`
 * [Patients burnt alive in tents - Auschwitz in reverse?](data/articles/patients-burnt-alive-in.58e4396b/README.md) `dailymirror.lk`
+* [The JVP’s commendable evolution on matters economic has not been paralleled in the ethnic problem arena. The NPP was remarkably reticent on the subject in its  presidential manifesto.  Behind a non-racist façade, the JVP is as regressive about the Tamil question today, as it was in the past.](data/articles/the-jvp-s-commendable-ev.aaed6df9/README.md) `dbsjeyaraj.com`
 
 ## 2024-10-19
 
