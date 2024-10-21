@@ -2,7 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-20 18:18:01**
+Last Updated **2024-10-21 06:24:35**
+
+## 2024-10-21
+
+* [Rights of children with disabilities: Challenge for new President and incoming Government](data/articles/rights-of-children-with.1ac36e12/README.md) `ft.lk`
+
+## 2024-10-20
+
+* [Why two-third majority for NPP?](data/articles/why-two-third-majority-f.8011cbf1/README.md) `ft.lk`
+* [Undue attack on President Anura Kumara Dissanayake and the NPP](data/articles/undue-attack-on-presiden.66beb8be/README.md) `ft.lk`
+* [Sri Lanka, Saudi Arabia to boost trade, investments ties](data/articles/sri-lanka-saudi-arabia-t.633ebdb2/README.md) `dailymirror.lk`
+* [What can AKD (and also SP and RW) learn from Economics Nobel Laureates in 2024?](data/articles/what-can-akd-and-also-sp.1b90538c/README.md) `ft.lk`
+* [World Bank’s Development Trap for Sri Lanka](data/articles/world-bank-s-development.a0b321ba/README.md) `dailymirror.lk`
+* [Conflicting reports and Lanka’s position re- sanctions on UNSG](data/articles/conflicting-reports-and.613b1dab/README.md) `dailymirror.lk`
+* [Patients burnt alive in tents - Auschwitz in reverse?](data/articles/patients-burnt-alive-in.58e4396b/README.md) `dailymirror.lk`
 
 ## 2024-10-19
 
