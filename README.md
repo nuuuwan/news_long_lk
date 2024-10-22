@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-22 06:25:40**
+Last Updated **2024-10-22 18:20:12**
 
 ## 2024-10-22
 
+* [What the Best Leadership Teams Do Right](data/articles/what-the-best-leadership.f18d6e32/README.md) `hbr.org`
+* [HEC in Hambantota Walsapugala farmers urge authorities to release MER for elephants](data/articles/hec-in-hambantota-walsap.47554caa/README.md) `dailymirror.lk`
+* [Would you trust AI to mediate an argument?](data/articles/would-you-trust-ai-to-me.5640bf51/README.md) `technologyreview.com`
 * [The Senanayake Legacy:  Pioneers of  Sri Lanka’s Independence](data/articles/the-senanayake-legacy-pi.af9d03a8/README.md) `dailymirror.lk`
 * [Pakistan’s constitution amended to tighten control over judiciary](data/articles/pakistan-s-constitution.c58d6196/README.md) `dailymirror.lk`
 * [Accountants - Watchdogs or Facilitators of Financial Crimes!](data/articles/accountants-watchdogs-or.5c456bf5/README.md) `dailymirror.lk`
