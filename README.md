@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-21 18:19:26**
+Last Updated **2024-10-22 06:25:40**
+
+## 2024-10-22
+
+* [The Senanayake Legacy:  Pioneers of  Sri Lanka’s Independence](data/articles/the-senanayake-legacy-pi.af9d03a8/README.md) `dailymirror.lk`
+* [Pakistan’s constitution amended to tighten control over judiciary](data/articles/pakistan-s-constitution.c58d6196/README.md) `dailymirror.lk`
+* [Accountants - Watchdogs or Facilitators of Financial Crimes!](data/articles/accountants-watchdogs-or.5c456bf5/README.md) `dailymirror.lk`
+* [The never ending clash with the UNHRC- EDITORIAL](data/articles/the-never-ending-clash-w.7421ebd1/README.md) `dailymirror.lk`
 
 ## 2024-10-21
 
+* [Sri Lanka’s road to global competitiveness: Insights from trade, energy, and agriculture policies](data/articles/sri-lanka-s-road-to-glob.667f68d0/README.md) `ft.lk`
+* [Driving global change: GSCS International and JAAF lead the way in sustainable development](data/articles/driving-global-change-gs.0f9e91e0/README.md) `ft.lk`
+* [Continuing the business of government in between regime or leadership change](data/articles/continuing-the-business.bd01b2eb/README.md) `ft.lk`
+* [Should Sri Lanka allow politicians to play the pork barrel game in the future?](data/articles/should-sri-lanka-allow-p.377e4cc9/README.md) `ft.lk`
+* [Evolution of minimum wages legislation in Sri Lanka: From 2000 to 2024](data/articles/evolution-of-minimum-wag.0d909996/README.md) `ft.lk`
+* [These companies are creating food out of thin air](data/articles/these-companies-are-crea.d9193f6c/README.md) `technologyreview.com`
 * [Rights of children with disabilities: Challenge for new President and incoming Government](data/articles/rights-of-children-with.1ac36e12/README.md) `ft.lk`
 
 ## 2024-10-20
@@ -57,6 +70,7 @@ Last Updated **2024-10-21 18:19:26**
 * [Sajith Premadasa has made opposition politics unwinnable. He had the choice of making an alliance with the UNP but he was so insecure that Ranil Wickremesinghe would somehow wrest control of the Party that he turned  it down.](data/articles/sajith-premadasa-has-mad.9e29e396/README.md) `dbsjeyaraj.com`
 * [Dr. Harsha De Silva, with his expertise in economics, experience in governance, and reputation for pragmatism, could emerge as a more favourable candidate to lead the Samagi Jana Balavegaya(SJB)](data/articles/dr-harsha-de-silva-with.58cf5a06/README.md) `dbsjeyaraj.com`
 * [How to Deploy and Scale Generative AI Efficiently and Cost-Effectively](data/articles/how-to-deploy-and-scale.dfbc4bd1/README.md) `hbr.org`
+* [AI could help people find common ground during deliberations](data/articles/ai-could-help-people-fin.2fc1d78f/README.md) `technologyreview.com`
 * [Research: Pay-for-Performance Doesn’t Have to Stress Workers Out](data/articles/research-pay-for-perform.8c2c60c4/README.md) `hbr.org`
 * [Is Your Career Heading in the Right Direction?](data/articles/is-your-career-heading-i.ca644f65/README.md) `hbr.org`
 * [This lab robot mixes chemicals](data/articles/this-lab-robot-mixes-che.1097ea1b/README.md) `technologyreview.com`
