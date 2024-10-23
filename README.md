@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-22 18:20:12**
+Last Updated **2024-10-23 06:25:00**
+
+## 2024-10-23
+
+* [Sri Lankan corporates can be braver on psychological safety](data/articles/sri-lankan-corporates-ca.fb16db2b/README.md) `ft.lk`
+* [Relevance of neutral foreign policy](data/articles/relevance-of-neutral-for.2fa35fa0/README.md) `ft.lk`
+* [Socialism and Vietnam](data/articles/socialism-and-vietnam.8ef9c112/README.md) `ft.lk`
+* [Embracing change and having a strong, capable team to navigate through transitions are important](data/articles/embracing-change-and-hav.54c942c4/README.md) `ft.lk`
+* [Rise and fall of Ruhunu Rajapaksa dynasty](data/articles/rise-and-fall-of-ruhunu.0b382255/README.md) `ft.lk`
+* [Gammanpila’s ‘Wikileaks’- a Pandora Box or Can of Worms? Campaigner or attention-seeker?](data/articles/gammanpila-s-wikileaks-a.43209ae2/README.md) `dailymirror.lk`
 
 ## 2024-10-22
 
+* [There are cases where SL politicians seek benefits  for their interests - outgoing Japanese ambassador](data/articles/there-are-cases-where-sl.0a1f135a/README.md) `dailymirror.lk`
+* [“Absolute power has failed all leaders”](data/articles/absolute-power-has-fail.973b8fa2/README.md) `dailymirror.lk`
+* [Who are the would- be new guards of Sri Lanka  and what are they saying?](data/articles/who-are-the-would-be-new.fdba106f/README.md) `dailymirror.lk`
+* [Continuing investigations and reports into Easter Sunday killings](data/articles/continuing-investigation.4b38545d/README.md) `dailymirror.lk`
+* [Small Businesses and AI: Accelerating Innovation and Inclusion](data/articles/small-businesses-and-ai.f814258f/README.md) `hbr.org`
+* [How to Avoid Strategy Myopia](data/articles/how-to-avoid-strategy-my.a169bf29/README.md) `hbr.org`
 * [What the Best Leadership Teams Do Right](data/articles/what-the-best-leadership.f18d6e32/README.md) `hbr.org`
 * [HEC in Hambantota Walsapugala farmers urge authorities to release MER for elephants](data/articles/hec-in-hambantota-walsap.47554caa/README.md) `dailymirror.lk`
 * [Would you trust AI to mediate an argument?](data/articles/would-you-trust-ai-to-me.5640bf51/README.md) `technologyreview.com`
@@ -13,6 +28,7 @@ Last Updated **2024-10-22 18:20:12**
 * [Pakistan’s constitution amended to tighten control over judiciary](data/articles/pakistan-s-constitution.c58d6196/README.md) `dailymirror.lk`
 * [Accountants - Watchdogs or Facilitators of Financial Crimes!](data/articles/accountants-watchdogs-or.5c456bf5/README.md) `dailymirror.lk`
 * [The never ending clash with the UNHRC- EDITORIAL](data/articles/the-never-ending-clash-w.7421ebd1/README.md) `dailymirror.lk`
+* [Remembering Legendary Muslim Congress Leader M.H.M.Ashraff on his  76th Birth Anniversary.](data/articles/remembering-legendary-mu.445936ec/README.md) `dbsjeyaraj.com`
 
 ## 2024-10-21
 
