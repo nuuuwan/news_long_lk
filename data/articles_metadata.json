@@ -1,5 +1,19 @@
 [
   {
+    "title": "3 Ways to Manage Moments of Work-Induced Anxiety",
+    "url": "https://hbr.org/2024/10/3-ways-to-manage-moments-of-work-induced-anxiety",
+    "ut": 1729665303.0,
+    "dir_path_unix": "data/articles/3-ways-to-manage-moments.b4c52aae",
+    "time_str_formatted": "12:05 PM, Wednesday, October 23, 2024"
+  },
+  {
+    "title": "Introducing: The AI Hype Index",
+    "url": "https://www.technologyreview.com/2024/10/23/1105192/ai-hype-index-nov-dec-2024/",
+    "ut": 1729646100.0,
+    "dir_path_unix": "data/articles/introducing-the-ai-hype.9b332cac",
+    "time_str_formatted": "06:45 AM, Wednesday, October 23, 2024"
+  },
+  {
     "title": "Sri Lankan corporates can be braver on psychological safety",
     "url": "https://www.ft.lk/columns/Sri-Lankan-corporates-can-be-braver-on-psychological-safety/4-768295",
     "ut": 1729644023.0,
@@ -46,6 +60,13 @@
     "url": "https://www.dailymirror.lk/hard-talk/There-are-cases-where-SL-politicians-seek-benefits-for-their-interests-outgoing-Japanese-ambassador/334-294321",
     "ut": 1729620695.0,
     "dir_path_unix": "data/articles/there-are-cases-where-sl.0a1f135a",
+    "time_str_formatted": "11:41 PM, Tuesday, October 22, 2024"
+  },
+  {
+    "title": "There are cases where SL politicians seek benefits  for their interests - outgoing Japanese ambassador",
+    "url": "https://www.dailymirror.lk/recomended-news/There-are-cases-where-SL-politicians-seek-benefits-for-their-interests-outgoing-Japanese-ambassador/277-294321",
+    "ut": 1729620695.0,
+    "dir_path_unix": "data/articles/there-are-cases-where-sl.b1fccc7c",
     "time_str_formatted": "11:41 PM, Tuesday, October 22, 2024"
   },
   {
@@ -117,6 +138,13 @@
     "ut": 1729550855.0,
     "dir_path_unix": "data/articles/pakistan-s-constitution.c58d6196",
     "time_str_formatted": "04:17 AM, Tuesday, October 22, 2024"
+  },
+  {
+    "title": "How refrigeration ruined fresh food",
+    "url": "https://www.technologyreview.com/2024/10/22/1105184/refrigeration-fresh-food-nicola-twilley-artificial-cooling/",
+    "ut": 1729549800.0,
+    "dir_path_unix": "data/articles/how-refrigeration-ruined.0812a146",
+    "time_str_formatted": "04:00 AM, Tuesday, October 22, 2024"
   },
   {
     "title": "Accountants - Watchdogs or Facilitators of Financial Crimes!",
@@ -481,6 +509,13 @@
     "ut": 1729121400.0,
     "dir_path_unix": "data/articles/this-lab-robot-mixes-che.1097ea1b",
     "time_str_formatted": "05:00 AM, Thursday, October 17, 2024"
+  },
+  {
+    "title": "The quest to figure out farming on Mars",
+    "url": "https://www.technologyreview.com/2024/10/17/1105135/mars-farming-soil-food-humans-farming-agriculture/",
+    "ut": 1729119274.0,
+    "dir_path_unix": "data/articles/the-quest-to-figure-out.69d97f38",
+    "time_str_formatted": "04:24 AM, Thursday, October 17, 2024"
   },
   {
     "title": "International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka",

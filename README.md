@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-23 06:25:00**
+Last Updated **2024-10-23 18:20:00**
 
 ## 2024-10-23
 
+* [3 Ways to Manage Moments of Work-Induced Anxiety](data/articles/3-ways-to-manage-moments.b4c52aae/README.md) `hbr.org`
+* [Introducing: The AI Hype Index](data/articles/introducing-the-ai-hype.9b332cac/README.md) `technologyreview.com`
 * [Sri Lankan corporates can be braver on psychological safety](data/articles/sri-lankan-corporates-ca.fb16db2b/README.md) `ft.lk`
 * [Relevance of neutral foreign policy](data/articles/relevance-of-neutral-for.2fa35fa0/README.md) `ft.lk`
 * [Socialism and Vietnam](data/articles/socialism-and-vietnam.8ef9c112/README.md) `ft.lk`
@@ -16,6 +18,7 @@ Last Updated **2024-10-23 06:25:00**
 ## 2024-10-22
 
 * [There are cases where SL politicians seek benefits  for their interests - outgoing Japanese ambassador](data/articles/there-are-cases-where-sl.0a1f135a/README.md) `dailymirror.lk`
+* [There are cases where SL politicians seek benefits  for their interests - outgoing Japanese ambassador](data/articles/there-are-cases-where-sl.b1fccc7c/README.md) `dailymirror.lk`
 * [“Absolute power has failed all leaders”](data/articles/absolute-power-has-fail.973b8fa2/README.md) `dailymirror.lk`
 * [Who are the would- be new guards of Sri Lanka  and what are they saying?](data/articles/who-are-the-would-be-new.fdba106f/README.md) `dailymirror.lk`
 * [Continuing investigations and reports into Easter Sunday killings](data/articles/continuing-investigation.4b38545d/README.md) `dailymirror.lk`
@@ -26,6 +29,7 @@ Last Updated **2024-10-23 06:25:00**
 * [Would you trust AI to mediate an argument?](data/articles/would-you-trust-ai-to-me.5640bf51/README.md) `technologyreview.com`
 * [The Senanayake Legacy:  Pioneers of  Sri Lanka’s Independence](data/articles/the-senanayake-legacy-pi.af9d03a8/README.md) `dailymirror.lk`
 * [Pakistan’s constitution amended to tighten control over judiciary](data/articles/pakistan-s-constitution.c58d6196/README.md) `dailymirror.lk`
+* [How refrigeration ruined fresh food](data/articles/how-refrigeration-ruined.0812a146/README.md) `technologyreview.com`
 * [Accountants - Watchdogs or Facilitators of Financial Crimes!](data/articles/accountants-watchdogs-or.5c456bf5/README.md) `dailymirror.lk`
 * [The never ending clash with the UNHRC- EDITORIAL](data/articles/the-never-ending-clash-w.7421ebd1/README.md) `dailymirror.lk`
 * [Remembering Legendary Muslim Congress Leader M.H.M.Ashraff on his  76th Birth Anniversary.](data/articles/remembering-legendary-mu.445936ec/README.md) `dbsjeyaraj.com`
@@ -93,6 +97,7 @@ Last Updated **2024-10-23 06:25:00**
 * [Research: Pay-for-Performance Doesn’t Have to Stress Workers Out](data/articles/research-pay-for-perform.8c2c60c4/README.md) `hbr.org`
 * [Is Your Career Heading in the Right Direction?](data/articles/is-your-career-heading-i.ca644f65/README.md) `hbr.org`
 * [This lab robot mixes chemicals](data/articles/this-lab-robot-mixes-che.1097ea1b/README.md) `technologyreview.com`
+* [The quest to figure out farming on Mars](data/articles/the-quest-to-figure-out.69d97f38/README.md) `technologyreview.com`
 * [International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka](data/articles/international-day-for-th.d8a6d734/README.md) `dailymirror.lk`
 * [Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka](data/articles/aswesuma-to-prajashakthi.b723ec73/README.md) `dailymirror.lk`
 * [The Benefits of Facilitating Trade Through a Case Study of Forest Permits](data/articles/the-benefits-of-facilita.0342ea36/README.md) `dailymirror.lk`
