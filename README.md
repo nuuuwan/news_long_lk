@@ -2,13 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-24 06:24:56**
+Last Updated **2024-10-24 18:20:06**
 
 ## 2024-10-24
 
 * [AKD’s call for a ‘powerful’ government: Implications for political system](data/articles/akd-s-call-for-a-powerfu.e398e2fd/README.md) `ft.lk`
 * [Presidential Elections 2024: Lessons for business](data/articles/presidential-elections-2.7f1b8c56/README.md) `ft.lk`
 * [Financing biodiversity and nature amidst debt distress in Sri Lanka](data/articles/financing-biodiversity-a.dcc244e4/README.md) `ft.lk`
+* [Unlicensed Chinese guides rule the roost in local tourism](data/articles/unlicensed-chinese-guide.70ae9f70/README.md) `dailymirror.lk`
 * [The building of a political force for the benefit of the country](data/articles/the-building-of-a-politi.313dcd7c/README.md) `dailymirror.lk`
 * [The colour of the lawmaker who’s  not fake](data/articles/the-colour-of-the-lawmak.2449af98/README.md) `dailymirror.lk`
 * [Let’s join the battle against corruption - EDITORIAL](data/articles/let-s-join-the-battle-ag.fd697876/README.md) `dailymirror.lk`
@@ -16,6 +17,8 @@ Last Updated **2024-10-24 06:24:56**
 
 ## 2024-10-23
 
+* [The Rise and Fall  of the Medamulana  Rajapaksa Dynasty.](data/articles/the-rise-and-fall-of-the.437528bd/README.md) `dbsjeyaraj.com`
+* [A Strategic Approach for Meeting Customer Demand as Quickly as Possible](data/articles/a-strategic-approach-for.5612fe55/README.md) `hbr.org`
 * [3 Ways to Manage Moments of Work-Induced Anxiety](data/articles/3-ways-to-manage-moments.b4c52aae/README.md) `hbr.org`
 * [Introducing: The AI Hype Index](data/articles/introducing-the-ai-hype.9b332cac/README.md) `technologyreview.com`
 * [Sri Lankan corporates can be braver on psychological safety](data/articles/sri-lankan-corporates-ca.fb16db2b/README.md) `ft.lk`
