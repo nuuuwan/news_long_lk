@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-23 18:20:00**
+Last Updated **2024-10-24 06:24:56**
+
+## 2024-10-24
+
+* [AKD’s call for a ‘powerful’ government: Implications for political system](data/articles/akd-s-call-for-a-powerfu.e398e2fd/README.md) `ft.lk`
+* [Presidential Elections 2024: Lessons for business](data/articles/presidential-elections-2.7f1b8c56/README.md) `ft.lk`
+* [Financing biodiversity and nature amidst debt distress in Sri Lanka](data/articles/financing-biodiversity-a.dcc244e4/README.md) `ft.lk`
+* [The building of a political force for the benefit of the country](data/articles/the-building-of-a-politi.313dcd7c/README.md) `dailymirror.lk`
+* [The colour of the lawmaker who’s  not fake](data/articles/the-colour-of-the-lawmak.2449af98/README.md) `dailymirror.lk`
+* [Let’s join the battle against corruption - EDITORIAL](data/articles/let-s-join-the-battle-ag.fd697876/README.md) `dailymirror.lk`
+* [Geopolitical and trade tensions force businesses to review strategies](data/articles/geopolitical-and-trade-t.0c957257/README.md) `eiu.com`
 
 ## 2024-10-23
 
