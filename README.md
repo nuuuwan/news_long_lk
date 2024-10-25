@@ -2,13 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-25 06:25:14**
+Last Updated **2024-10-25 18:19:29**
 
 ## 2024-10-25
 
+* [When You’re Told You’re Not Strategic Enough](data/articles/when-you-re-told-you-re.9002b60b/README.md) `hbr.org`
 * [Security alert: More to it than meets the eye](data/articles/security-alert-more-to-i.ae9b9dc6/README.md) `dailymirror.lk`
 * [The Govt. must study Jack Ma and the ecosystem - EDITORIAL](data/articles/the-govt-must-study-jack.01c128c6/README.md) `dailymirror.lk`
 * [Institute of British Examinations celebrates ISO 9001:2015 certification, announces future expansion plans](data/articles/institute-of-british-exa.8ddea2e8/README.md) `ft.lk`
+* [Sri Lanka needs stable exchange rate mechanism](data/articles/sri-lanka-needs-stable-e.1f5fa6f5/README.md) `ft.lk`
 * [Sri Lanka needs stable exchange rate mechanism](data/articles/sri-lanka-needs-stable-e.03a2b8a1/README.md) `ft.lk`
 * [Ratan Tata’s recipe for business sustainability](data/articles/ratan-tata-s-recipe-for.7dddeb04/README.md) `ft.lk`
 * [Déjà Vu – Travel Advisory](data/articles/déjà-vu-travel-advisory.35e1d008/README.md) `ft.lk`
