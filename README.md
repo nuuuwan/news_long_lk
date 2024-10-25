@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-24 18:20:06**
+Last Updated **2024-10-25 06:25:14**
+
+## 2024-10-25
+
+* [Security alert: More to it than meets the eye](data/articles/security-alert-more-to-i.ae9b9dc6/README.md) `dailymirror.lk`
+* [The Govt. must study Jack Ma and the ecosystem - EDITORIAL](data/articles/the-govt-must-study-jack.01c128c6/README.md) `dailymirror.lk`
+* [Institute of British Examinations celebrates ISO 9001:2015 certification, announces future expansion plans](data/articles/institute-of-british-exa.8ddea2e8/README.md) `ft.lk`
+* [Sri Lanka needs stable exchange rate mechanism](data/articles/sri-lanka-needs-stable-e.03a2b8a1/README.md) `ft.lk`
+* [Ratan Tata’s recipe for business sustainability](data/articles/ratan-tata-s-recipe-for.7dddeb04/README.md) `ft.lk`
+* [Déjà Vu – Travel Advisory](data/articles/déjà-vu-travel-advisory.35e1d008/README.md) `ft.lk`
+* [Celebrating 100 years of Toastmasters International: Journey of empowering voices](data/articles/celebrating-100-years-of.72fd0671/README.md) `ft.lk`
 
 ## 2024-10-24
 
+* [Why Offsites Work — and How to Get the Most Out of Them](data/articles/why-offsites-work-and-ho.159dd32d/README.md) `hbr.org`
+* [A Simple Exercise to Help You Check Your Biases](data/articles/a-simple-exercise-to-hel.b111a957/README.md) `hbr.org`
 * [AKD’s call for a ‘powerful’ government: Implications for political system](data/articles/akd-s-call-for-a-powerfu.e398e2fd/README.md) `ft.lk`
 * [Presidential Elections 2024: Lessons for business](data/articles/presidential-elections-2.7f1b8c56/README.md) `ft.lk`
 * [Financing biodiversity and nature amidst debt distress in Sri Lanka](data/articles/financing-biodiversity-a.dcc244e4/README.md) `ft.lk`
