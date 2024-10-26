@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-25 18:19:29**
+Last Updated **2024-10-26 06:24:32**
+
+## 2024-10-26
+
+* [Maldivian President’s drastic steps to rescue economy](data/articles/maldivian-president-s-dr.e5dfd94d/README.md) `ft.lk`
+* [Sri Lanka Tourism’s “unsung hero” Renton de Alwis](data/articles/sri-lanka-tourism-s-unsu.df7da7bb/README.md) `ft.lk`
+* [Anura Dissanayake and the Formation of the National People’s Power](data/articles/anura-dissanayake-and-th.f824fe2c/README.md) `dailymirror.lk`
+* [Terror attack turned into a political foot ball](data/articles/terror-attack-turned-int.ff89c8e3/README.md) `dailymirror.lk`
+* [Can government overcome problems of impunity and arm twisting](data/articles/can-government-overcome.a24b031d/README.md) `dailymirror.lk`
+* [State-hood and survival: Tamils, Palestinians and self-determination](data/articles/state-hood-and-survival.ea3f30b6/README.md) `ft.lk`
+* [Peradeniya University student struggle of 1975-’76 and State suppression](data/articles/peradeniya-university-st.e853c64b/README.md) `ft.lk`
 
 ## 2024-10-25
 
@@ -18,6 +28,7 @@ Last Updated **2024-10-25 18:19:29**
 
 ## 2024-10-24
 
+* [How Iowa Communities are Focusing on Quality of Life](data/articles/how-iowa-communities-are.fc334057/README.md) `hbr.org`
 * [Why Offsites Work — and How to Get the Most Out of Them](data/articles/why-offsites-work-and-ho.159dd32d/README.md) `hbr.org`
 * [A Simple Exercise to Help You Check Your Biases](data/articles/a-simple-exercise-to-hel.b111a957/README.md) `hbr.org`
 * [AKD’s call for a ‘powerful’ government: Implications for political system](data/articles/akd-s-call-for-a-powerfu.e398e2fd/README.md) `ft.lk`
@@ -138,6 +149,7 @@ Last Updated **2024-10-25 18:19:29**
 * [The Sri Lankan woman: Is she empowered?](data/articles/the-sri-lankan-woman-is.f1458d3c/README.md) `ft.lk`
 * [Govt. must hold domestic investigations on war crimes, prosecute offenders, clear name of armed forces](data/articles/govt-must-hold-domestic.0408c8bd/README.md) `ft.lk`
 * [பத்து வருடங்களுக்கு முன்னர் ”தோழர்” அநுர குமார திசாநாயக்க ஜே.வி.பி.யின் ஐந்தாவது தலைவராக வந்தபோது…..!…..](data/articles/பத-த-வர-டங-கள-க-க-ம-ன-னர.61c59624/README.md) `dbsjeyaraj.com`
+* [Global economic outlook for November 2024](data/articles/global-economic-outlook.d3cc7db8/README.md) `eiu.com`
 * [Video Quick Take: Intercom’s Brian Donahue on How AI Agents Can Be Your First Tier of Customer Service Support](data/articles/video-quick-take-interco.cd733b53/README.md) `hbr.org`
 * [How to Use AI to Build Your Company’s Collective Intelligence](data/articles/how-to-use-ai-to-build-y.47856e73/README.md) `hbr.org`
 * [Super-light materials that help suppress EV battery fires just got a big boost](data/articles/super-light-materials-th.d75959f2/README.md) `technologyreview.com`
