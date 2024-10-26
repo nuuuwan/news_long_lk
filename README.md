@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-26 06:24:32**
+Last Updated **2024-10-26 18:17:28**
 
 ## 2024-10-26
 
@@ -16,6 +16,8 @@ Last Updated **2024-10-26 06:24:32**
 
 ## 2024-10-25
 
+* [பத்திரிகையாளராக மாறிய போராளி ‘ தராக்கி ‘ சிவராம் ; கொடூரமான கடத்தலும் கொலையும்- மீண்டும் விசாரணைக்கு உத்தரவிட்டிருக்கும் ஜனாதிபதி அநுரா குமாரவின் அரசாங்கம்.](data/articles/பத-த-ர-க-ய-ளர-க-ம-ற-ய-ப.dddab209/README.md) `dbsjeyaraj.com`
+* [5 Ways to Deal with a Colleague Who Doesn’t Respect Rules](data/articles/5-ways-to-deal-with-a-co.1759df20/README.md) `hbr.org`
 * [When You’re Told You’re Not Strategic Enough](data/articles/when-you-re-told-you-re.9002b60b/README.md) `hbr.org`
 * [Security alert: More to it than meets the eye](data/articles/security-alert-more-to-i.ae9b9dc6/README.md) `dailymirror.lk`
 * [The Govt. must study Jack Ma and the ecosystem - EDITORIAL](data/articles/the-govt-must-study-jack.01c128c6/README.md) `dailymirror.lk`
