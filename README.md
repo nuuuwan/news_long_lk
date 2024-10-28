@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-28 06:24:36**
+Last Updated **2024-10-28 18:20:24**
 
 ## 2024-10-28
 
 * [Navigating tax reforms: Immediate measures](data/articles/navigating-tax-reforms-i.6ae9e8ad/README.md) `ft.lk`
+* [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ade65bb8/README.md) `dailymirror.lk`
 * [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ee2020f4/README.md) `dailymirror.lk`
 * [Child’s guide to critics of IMF’s Debt Sustainability Analysis](data/articles/child-s-guide-to-critics.7a00532d/README.md) `ft.lk`
 * [“Non-alignment” and Sri Lanka’s foreign policy dilemma](data/articles/non-alignment-and-sri-l.010d9963/README.md) `ft.lk`
