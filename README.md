@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-27 18:17:30**
+Last Updated **2024-10-28 06:24:36**
+
+## 2024-10-28
+
+* [Navigating tax reforms: Immediate measures](data/articles/navigating-tax-reforms-i.6ae9e8ad/README.md) `ft.lk`
+* [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ee2020f4/README.md) `dailymirror.lk`
+* [Child’s guide to critics of IMF’s Debt Sustainability Analysis](data/articles/child-s-guide-to-critics.7a00532d/README.md) `ft.lk`
+* [“Non-alignment” and Sri Lanka’s foreign policy dilemma](data/articles/non-alignment-and-sri-l.010d9963/README.md) `ft.lk`
+* [Israel’s espionage machine – cyber intelligence, moles and money](data/articles/israel-s-espionage-machi.df09d6c4/README.md) `dailymirror.lk`
+* [US-led empire of entrepreneurship drives ME war](data/articles/us-led-empire-of-entrepr.e870f061/README.md) `ft.lk`
+* [Petty politics shouldn’t divert attention from justice to Palestine -  EDITORIAL](data/articles/petty-politics-shouldn-t.ebc5705f/README.md) `dailymirror.lk`
+* [Pareto Analysis of the Jana Balawegaya force](data/articles/pareto-analysis-of-the-j.d318ecb4/README.md) `ft.lk`
 
 ## 2024-10-26
 
