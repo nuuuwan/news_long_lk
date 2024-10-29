@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-29 06:24:48**
+Last Updated **2024-10-29 18:20:35**
 
 ## 2024-10-29
 
+* [Global Outlook: Mexico’s prospects under a new government](data/articles/global-outlook-mexico-s.874d7053/README.md) `eiu.com`
 * [Why Sri Lanka has yet to find its own Lee Kuan Yew](data/articles/why-sri-lanka-has-yet-to.b838463a/README.md) `ft.lk`
 * [Leveraging military skills for success in corporate world](data/articles/leveraging-military-skil.70142823/README.md) `ft.lk`
 * [Nobel Prize for Economics in 2024 and Sri Lanka](data/articles/nobel-prize-for-economic.35e986c8/README.md) `ft.lk`
@@ -18,7 +19,9 @@ Last Updated **2024-10-29 06:24:48**
 
 * [How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power (NPP) in 2019.](data/articles/how-and-why-the-jvp-led.4c52c672/README.md) `dbsjeyaraj.com`
 * [5 Rules for Companies Navigating Geopolitical Volatility](data/articles/5-rules-for-companies-na.b6155c88/README.md) `hbr.org`
+* [Can Startups Thrive in an Age of AI?](data/articles/can-startups-thrive-in-a.89cce629/README.md) `hbr.org`
 * [Navigating tax reforms: Immediate measures](data/articles/navigating-tax-reforms-i.6ae9e8ad/README.md) `ft.lk`
+* [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ff8116c0/README.md) `dailymirror.lk`
 * [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ade65bb8/README.md) `dailymirror.lk`
 * [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ee2020f4/README.md) `dailymirror.lk`
 * [Child’s guide to critics of IMF’s Debt Sustainability Analysis](data/articles/child-s-guide-to-critics.7a00532d/README.md) `ft.lk`
