@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-29 18:20:35**
+Last Updated **2024-10-30 06:25:11**
+
+## 2024-10-30
+
+* [Invest in care – a shared responsibility, a social imperative, and a driver of progress](data/articles/invest-in-care-a-shared.23d5afd4/README.md) `ft.lk`
+* [Postvention: Missing link in suicide prevention](data/articles/postvention-missing-link.6950304a/README.md) `ft.lk`
+* [Who do we not/want to see in the next Parliament?](data/articles/who-do-we-not-want-to-se.7e6883d7/README.md) `ft.lk`
+* [International marketing: Is Sri Lanka aggressive enough?](data/articles/international-marketing.91d29d5d/README.md) `ft.lk`
+* [Debt sustainability options for President AKD](data/articles/debt-sustainability-opti.2c40ff8e/README.md) `ft.lk`
 
 ## 2024-10-29
 
+* [Threat of Islamist extremism is real, don’t play politics with it](data/articles/threat-of-islamist-extre.923614f2/README.md) `dailymirror.lk`
+* [Problems hang fire while government ponders elections](data/articles/problems-hang-fire-while.1ebdf62c/README.md) `dailymirror.lk`
+* [Phishing Attacks Are Evolving. Here’s How to Resist Them.](data/articles/phishing-attacks-are-evo.cfd97a8e/README.md) `hbr.org`
 * [Global Outlook: Mexico’s prospects under a new government](data/articles/global-outlook-mexico-s.874d7053/README.md) `eiu.com`
 * [Why Sri Lanka has yet to find its own Lee Kuan Yew](data/articles/why-sri-lanka-has-yet-to.b838463a/README.md) `ft.lk`
 * [Leveraging military skills for success in corporate world](data/articles/leveraging-military-skil.70142823/README.md) `ft.lk`
@@ -20,6 +31,7 @@ Last Updated **2024-10-29 18:20:35**
 * [How and Why the  JVP led by Anura Dissanayake Formed  the National People’s Power (NPP) in 2019.](data/articles/how-and-why-the-jvp-led.4c52c672/README.md) `dbsjeyaraj.com`
 * [5 Rules for Companies Navigating Geopolitical Volatility](data/articles/5-rules-for-companies-na.b6155c88/README.md) `hbr.org`
 * [Can Startups Thrive in an Age of AI?](data/articles/can-startups-thrive-in-a.89cce629/README.md) `hbr.org`
+* [A Strategic Model to Help Transform Your Tax Function](data/articles/a-strategic-model-to-hel.0bbc976d/README.md) `hbr.org`
 * [Navigating tax reforms: Immediate measures](data/articles/navigating-tax-reforms-i.6ae9e8ad/README.md) `ft.lk`
 * [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ff8116c0/README.md) `dailymirror.lk`
 * [‘Shoot the Messenger’ or ‘Shoot Yourself in the Foot’?](data/articles/shoot-the-messenger-or.ade65bb8/README.md) `dailymirror.lk`
