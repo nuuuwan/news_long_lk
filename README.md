@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-30 06:25:11**
+Last Updated **2024-10-30 18:19:55**
 
 ## 2024-10-30
 
@@ -14,8 +14,10 @@ Last Updated **2024-10-30 06:25:11**
 
 ## 2024-10-29
 
+* [‘Protecting Sri Lanka’s endemic species’  against lucrative and illegal global demands](data/articles/protecting-sri-lanka-s.bda353ca/README.md) `dailymirror.lk`
 * [Threat of Islamist extremism is real, don’t play politics with it](data/articles/threat-of-islamist-extre.923614f2/README.md) `dailymirror.lk`
 * [Problems hang fire while government ponders elections](data/articles/problems-hang-fire-while.1ebdf62c/README.md) `dailymirror.lk`
+* [Ceylon Workers Congress President Saumiyamoorthy Thondaman was the Dynamic Leader of Sri Lanka’s  Hill Country Tamils for many Decades.](data/articles/ceylon-workers-congress.4a586f3f/README.md) `dbsjeyaraj.com`
 * [Phishing Attacks Are Evolving. Here’s How to Resist Them.](data/articles/phishing-attacks-are-evo.cfd97a8e/README.md) `hbr.org`
 * [Global Outlook: Mexico’s prospects under a new government](data/articles/global-outlook-mexico-s.874d7053/README.md) `eiu.com`
 * [Why Sri Lanka has yet to find its own Lee Kuan Yew](data/articles/why-sri-lanka-has-yet-to.b838463a/README.md) `ft.lk`
