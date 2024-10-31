@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-30 18:19:55**
+Last Updated **2024-10-31 06:24:59**
+
+## 2024-10-31
+
+* [‘‘Sri Lanka’s ISB restructure: Debt trap backed by IMF and Ceylon Chamber of Commerce’’](data/articles/sri-lanka-s-isb-restruc.00fa1f07/README.md) `ft.lk`
+* [Irrational behaviour of RW and MR vs. rational behaviour of President AKD](data/articles/irrational-behaviour-of.f36fae6c/README.md) `ft.lk`
+* [How planning ahead can reduce disaster risk and support faster recovery](data/articles/how-planning-ahead-can-r.6079dca7/README.md) `dailymirror.lk`
+* [Examining Elpitiya, Israeli-Zionist beachheads, Anura’s inaction and Prabhakaran’s profile](data/articles/examining-elpitiya-israe.5e8bebd3/README.md) `ft.lk`
+* [Elections belong to the people - EDITORIAL](data/articles/elections-belong-to-the.2ec52f0a/README.md) `dailymirror.lk`
 
 ## 2024-10-30
 
+* [Video Quick Take: Cisco’s Apolak Borthakur on Cybersecurity Solutions and a Way Forward](data/articles/video-quick-take-cisco-s.9f32d907/README.md) `hbr.org`
+* [How to Manage a Distracted Team](data/articles/how-to-manage-a-distract.45936e17/README.md) `hbr.org`
+* [How Big Businesses Can Help Smaller Ones After a Disaster](data/articles/how-big-businesses-can-h.afd37959/README.md) `hbr.org`
 * [Invest in care – a shared responsibility, a social imperative, and a driver of progress](data/articles/invest-in-care-a-shared.23d5afd4/README.md) `ft.lk`
 * [Postvention: Missing link in suicide prevention](data/articles/postvention-missing-link.6950304a/README.md) `ft.lk`
 * [Who do we not/want to see in the next Parliament?](data/articles/who-do-we-not-want-to-se.7e6883d7/README.md) `ft.lk`
@@ -17,6 +28,7 @@ Last Updated **2024-10-30 18:19:55**
 * [‘Protecting Sri Lanka’s endemic species’  against lucrative and illegal global demands](data/articles/protecting-sri-lanka-s.bda353ca/README.md) `dailymirror.lk`
 * [Threat of Islamist extremism is real, don’t play politics with it](data/articles/threat-of-islamist-extre.923614f2/README.md) `dailymirror.lk`
 * [Problems hang fire while government ponders elections](data/articles/problems-hang-fire-while.1ebdf62c/README.md) `dailymirror.lk`
+* [Video Quick Take: Atlassian’s Annie Dean on Collaboration Trends, AI, and New Ways of Working](data/articles/video-quick-take-atlassi.a8a87dcb/README.md) `hbr.org`
 * [Ceylon Workers Congress President Saumiyamoorthy Thondaman was the Dynamic Leader of Sri Lanka’s  Hill Country Tamils for many Decades.](data/articles/ceylon-workers-congress.4a586f3f/README.md) `dbsjeyaraj.com`
 * [Phishing Attacks Are Evolving. Here’s How to Resist Them.](data/articles/phishing-attacks-are-evo.cfd97a8e/README.md) `hbr.org`
 * [Global Outlook: Mexico’s prospects under a new government](data/articles/global-outlook-mexico-s.874d7053/README.md) `eiu.com`
