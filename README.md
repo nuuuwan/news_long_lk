@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-10-31 18:19:30**
+Last Updated **2024-11-01 06:25:43**
+
+## 2024-11-01
+
+* [SWRD, JR et al, tradition or mythology?](data/articles/swrd-jr-et-al-tradition.49bf6f07/README.md) `ft.lk`
+* [The blame game](data/articles/the-blame-game.5b742d63/README.md) `ft.lk`
+* [Reforming governance heralds system change](data/articles/reforming-governance-her.f7153bb8/README.md) `ft.lk`
+* [Digital mindset to solve analogue problems](data/articles/digital-mindset-to-solve.325893a0/README.md) `ft.lk`
+* [Over 150 NGOs urge  world governments to help end war crimes in Gaza](data/articles/over-150-ngos-urge-world.1fe50f5a/README.md) `ft.lk`
+* [WAR CRIMINALS AS TOURISTS:  WHITHER MORALITY?](data/articles/war-criminals-as-tourist.f1086e72/README.md) `dailymirror.lk`
+* [ARCHITECT  OF CHANGE? - EDITORIAL](data/articles/architect-of-change-edit.aeb8331e/README.md) `dailymirror.lk`
+* [“I want to share my experience with the young generation” - Ranil  Willaddarage](data/articles/i-want-to-share-my-expe.bdd487d4/README.md) `dailymirror.lk`
+* [“Absolute power has failed all leaders” -Milinda Rajapaksha](data/articles/absolute-power-has-fail.a7ae3d29/README.md) `dailymirror.lk`
 
 ## 2024-10-31
 
+* [This AI-generated version of Minecraft may represent the future of real-time video generation](data/articles/this-ai-generated-versio.d06b0d48/README.md) `technologyreview.com`
+* [A Toolkit to Help You Manage Uncertainty Around AI](data/articles/a-toolkit-to-help-you-ma.2da73f4d/README.md) `hbr.org`
+* [Research: The Rules of Using Playful Nicknames at Work](data/articles/research-the-rules-of-us.42450e22/README.md) `hbr.org`
 * [‘‘Sri Lanka’s ISB restructure: Debt trap backed by IMF and Ceylon Chamber of Commerce’’](data/articles/sri-lanka-s-isb-restruc.00fa1f07/README.md) `ft.lk`
 * [Irrational behaviour of RW and MR vs. rational behaviour of President AKD](data/articles/irrational-behaviour-of.f36fae6c/README.md) `ft.lk`
 * [How planning ahead can reduce disaster risk and support faster recovery](data/articles/how-planning-ahead-can-r.6079dca7/README.md) `dailymirror.lk`
@@ -14,6 +29,7 @@ Last Updated **2024-10-31 18:19:30**
 
 ## 2024-10-30
 
+* [AI Is Making Frontline Workers’ Jobs Safer and More Accessible](data/articles/ai-is-making-frontline-w.de0c86aa/README.md) `hbr.org`
 * [Video Quick Take: Cisco’s Apolak Borthakur on Cybersecurity Solutions and a Way Forward](data/articles/video-quick-take-cisco-s.9f32d907/README.md) `hbr.org`
 * [How to Manage a Distracted Team](data/articles/how-to-manage-a-distract.45936e17/README.md) `hbr.org`
 * [How Big Businesses Can Help Smaller Ones After a Disaster](data/articles/how-big-businesses-can-h.afd37959/README.md) `hbr.org`
@@ -21,7 +37,9 @@ Last Updated **2024-10-31 18:19:30**
 * [Postvention: Missing link in suicide prevention](data/articles/postvention-missing-link.6950304a/README.md) `ft.lk`
 * [Who do we not/want to see in the next Parliament?](data/articles/who-do-we-not-want-to-se.7e6883d7/README.md) `ft.lk`
 * [International marketing: Is Sri Lanka aggressive enough?](data/articles/international-marketing.91d29d5d/README.md) `ft.lk`
+* [An easier-to-use technique for storing data in DNA is inspired by our cells](data/articles/an-easier-to-use-techniq.c95206c8/README.md) `technologyreview.com`
 * [Debt sustainability options for President AKD](data/articles/debt-sustainability-opti.2c40ff8e/README.md) `ft.lk`
+* [The arrhythmia of our current age](data/articles/the-arrhythmia-of-our-cu.0d73bdf2/README.md) `technologyreview.com`
 
 ## 2024-10-29
 
@@ -167,6 +185,7 @@ Last Updated **2024-10-31 18:19:30**
 * [The  Brazen Abduction and  Brutal Murder of Militant Turned Journalist “Taraki” Sivaram.](data/articles/the-brazen-abduction-and.b9de8a90/README.md) `dbsjeyaraj.com`
 * [“Without experience, you cannot run Parliament, and you cannot achieve the goals we have set. Those who worked with me have the expertise to solve the economic challenges, These experienced politicians should be elected to Parliament,  as part of the Government or the Opposition.”- Former President Ranil Wickremesinghe](data/articles/without-experience-you.b6277bc6/README.md) `dbsjeyaraj.com`
 * [The US presidential election is now a toss-up](data/articles/the-us-presidential-elec.3ed0d1c1/README.md) `eiu.com`
+* [US election: its impact on healthcare](data/articles/us-election-its-impact-o.12549d8f/README.md) `eiu.com`
 * [6 Essential Leadership Skills — and How to Develop Them](data/articles/6-essential-leadership-s.780249ae/README.md) `hbr.org`
 * [Why Workplace Well-Being Programs Don’t Achieve Better Outcomes](data/articles/why-workplace-well-being.3cf80320/README.md) `hbr.org`
 * [The race to find new materials with AI needs more data. Meta is giving massive amounts away for free.](data/articles/the-race-to-find-new-mat.f437416e/README.md) `technologyreview.com`

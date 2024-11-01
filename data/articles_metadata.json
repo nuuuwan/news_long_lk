@@ -1,5 +1,89 @@
 [
   {
+    "title": "SWRD, JR et al, tradition or mythology?",
+    "url": "https://www.ft.lk/columns/SWRD-JR-et-al-tradition-or-mythology/4-768688",
+    "ut": 1730421402.0,
+    "dir_path_unix": "data/articles/swrd-jr-et-al-tradition.49bf6f07",
+    "time_str_formatted": "06:06 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "The blame game",
+    "url": "https://www.ft.lk/columns/The-blame-game/4-768687",
+    "ut": 1730421063.0,
+    "dir_path_unix": "data/articles/the-blame-game.5b742d63",
+    "time_str_formatted": "06:01 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "Reforming governance heralds system change",
+    "url": "https://www.ft.lk/columns/Reforming-governance-heralds-system-change/4-768686",
+    "ut": 1730420830.0,
+    "dir_path_unix": "data/articles/reforming-governance-her.f7153bb8",
+    "time_str_formatted": "05:57 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "Digital mindset to solve analogue problems",
+    "url": "https://www.ft.lk/columns/Digital-mindset-to-solve-analogue-problems/4-768685",
+    "ut": 1730420643.0,
+    "dir_path_unix": "data/articles/digital-mindset-to-solve.325893a0",
+    "time_str_formatted": "05:54 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "Over 150 NGOs urge  world governments to help end war crimes in Gaza",
+    "url": "https://www.ft.lk/opinion/Over-150-NGOs-urge-world-governments-to-help-end-war-crimes-in-Gaza/14-768684",
+    "ut": 1730420436.0,
+    "dir_path_unix": "data/articles/over-150-ngos-urge-world.1fe50f5a",
+    "time_str_formatted": "05:50 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "WAR CRIMINALS AS TOURISTS:  WHITHER MORALITY?",
+    "url": "https://www.dailymirror.lk/opinion/WAR-CRIMINALS-AS-TOURISTS-WHITHER-MORALITY/172-294998",
+    "ut": 1730404440.0,
+    "dir_path_unix": "data/articles/war-criminals-as-tourist.f1086e72",
+    "time_str_formatted": "01:24 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "ARCHITECT  OF CHANGE? - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/ARCHITECT-OF-CHANGE-EDITORIAL/172-294997",
+    "ut": 1730403538.0,
+    "dir_path_unix": "data/articles/architect-of-change-edit.aeb8331e",
+    "time_str_formatted": "01:08 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "\u201cI want to share my experience with the young generation\u201d - Ranil  Willaddarage",
+    "url": "https://www.dailymirror.lk/hard-talk/I-want-to-share-my-experience-with-the-young-generation-Ranil-Willaddarage/334-294995",
+    "ut": 1730401797.0,
+    "dir_path_unix": "data/articles/i-want-to-share-my-expe.bdd487d4",
+    "time_str_formatted": "12:39 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "\u201cAbsolute power has failed all leaders\u201d -Milinda Rajapaksha",
+    "url": "https://www.dailymirror.lk/hard-talk/Absolute-power-has-failed-all-leaders-Milinda-Rajapaksha/334-294994",
+    "ut": 1730401065.0,
+    "dir_path_unix": "data/articles/absolute-power-has-fail.a7ae3d29",
+    "time_str_formatted": "12:27 AM, Friday, November 01, 2024"
+  },
+  {
+    "title": "This AI-generated version of Minecraft may represent the future of real-time video generation",
+    "url": "https://www.technologyreview.com/2024/10/31/1106461/this-ai-generated-minecraft-may-represent-the-future-of-real-time-video-generation/",
+    "ut": 1730367000.0,
+    "dir_path_unix": "data/articles/this-ai-generated-versio.d06b0d48",
+    "time_str_formatted": "03:00 PM, Thursday, October 31, 2024"
+  },
+  {
+    "title": "A Toolkit to Help You Manage Uncertainty Around AI",
+    "url": "https://hbr.org/2024/10/a-toolkit-to-help-you-manage-uncertainty-around-ai",
+    "ut": 1730357739.0,
+    "dir_path_unix": "data/articles/a-toolkit-to-help-you-ma.2da73f4d",
+    "time_str_formatted": "12:25 PM, Thursday, October 31, 2024"
+  },
+  {
+    "title": "Research: The Rules of Using Playful Nicknames at Work",
+    "url": "https://hbr.org/2024/10/research-the-rules-of-using-playful-nicknames-at-work",
+    "ut": 1730357150.0,
+    "dir_path_unix": "data/articles/research-the-rules-of-us.42450e22",
+    "time_str_formatted": "12:15 PM, Thursday, October 31, 2024"
+  },
+  {
     "title": "\u2018\u2018Sri Lanka\u2019s ISB restructure: Debt trap backed by IMF and Ceylon Chamber of Commerce\u2019\u2019",
     "url": "https://www.ft.lk/columns/Sri-Lanka-s-ISB-restructure-Debt-trap-backed-by-IMF-and-Ceylon-Chamber-of-Commerce/4-768633",
     "ut": 1730324097.0,
@@ -33,6 +117,13 @@
     "ut": 1730319559.0,
     "dir_path_unix": "data/articles/elections-belong-to-the.2ec52f0a",
     "time_str_formatted": "01:49 AM, Thursday, October 31, 2024"
+  },
+  {
+    "title": "AI Is Making Frontline Workers\u2019 Jobs Safer and More Accessible",
+    "url": "https://hbr.org/sponsored/2024/10/ai-is-making-frontline-workers-jobs-safer-and-more-accessible",
+    "ut": 1730297473.0,
+    "dir_path_unix": "data/articles/ai-is-making-frontline-w.de0c86aa",
+    "time_str_formatted": "07:41 PM, Wednesday, October 30, 2024"
   },
   {
     "title": "Video Quick Take: Cisco\u2019s Apolak Borthakur on Cybersecurity Solutions and a Way Forward",
@@ -84,11 +175,25 @@
     "time_str_formatted": "06:00 AM, Wednesday, October 30, 2024"
   },
   {
+    "title": "An easier-to-use technique for storing data in DNA is inspired by our cells",
+    "url": "https://www.technologyreview.com/2024/10/30/1106345/a-new-easier-to-use-dna-data-storage-technique-is-inspired-by-our-cells/",
+    "ut": 1730248200.0,
+    "dir_path_unix": "data/articles/an-easier-to-use-techniq.c95206c8",
+    "time_str_formatted": "06:00 AM, Wednesday, October 30, 2024"
+  },
+  {
     "title": "Debt sustainability options for President AKD",
     "url": "https://www.ft.lk/columns/Debt-sustainability-options-for-President-AKD/4-768580",
     "ut": 1730247561.0,
     "dir_path_unix": "data/articles/debt-sustainability-opti.2c40ff8e",
     "time_str_formatted": "05:49 AM, Wednesday, October 30, 2024"
+  },
+  {
+    "title": "The arrhythmia of our current age",
+    "url": "https://www.technologyreview.com/2024/10/30/1106350/the-arrhythmia-of-our-current-age/",
+    "ut": 1730244600.0,
+    "dir_path_unix": "data/articles/the-arrhythmia-of-our-cu.0d73bdf2",
+    "time_str_formatted": "05:00 AM, Wednesday, October 30, 2024"
   },
   {
     "title": "\u2018Protecting Sri Lanka\u2019s endemic species\u2019  against lucrative and illegal global demands",
@@ -873,6 +978,13 @@
     "ut": 1729256260.0,
     "dir_path_unix": "data/articles/the-us-presidential-elec.3ed0d1c1",
     "time_str_formatted": "06:27 PM, Friday, October 18, 2024"
+  },
+  {
+    "title": "US election: its impact on healthcare",
+    "url": "https://www.eiu.com/n/us-election-its-impact-on-healthcare-2/",
+    "ut": 1729238439.0,
+    "dir_path_unix": "data/articles/us-election-its-impact-o.12549d8f",
+    "time_str_formatted": "01:30 PM, Friday, October 18, 2024"
   },
   {
     "title": "6 Essential Leadership Skills \u2014 and How to Develop Them",
