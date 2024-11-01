@@ -2,12 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-01 06:25:43**
+Last Updated **2024-11-01 18:18:50**
 
 ## 2024-11-01
 
 * [SWRD, JR et al, tradition or mythology?](data/articles/swrd-jr-et-al-tradition.49bf6f07/README.md) `ft.lk`
 * [The blame game](data/articles/the-blame-game.5b742d63/README.md) `ft.lk`
+* [How exosomes could become more than just an “anti-aging” fad](data/articles/how-exosomes-could-becom.d60f2a87/README.md) `technologyreview.com`
 * [Reforming governance heralds system change](data/articles/reforming-governance-her.f7153bb8/README.md) `ft.lk`
 * [Digital mindset to solve analogue problems](data/articles/digital-mindset-to-solve.325893a0/README.md) `ft.lk`
 * [Over 150 NGOs urge  world governments to help end war crimes in Gaza](data/articles/over-150-ngos-urge-world.1fe50f5a/README.md) `ft.lk`
@@ -15,12 +16,14 @@ Last Updated **2024-11-01 06:25:43**
 * [ARCHITECT  OF CHANGE? - EDITORIAL](data/articles/architect-of-change-edit.aeb8331e/README.md) `dailymirror.lk`
 * [“I want to share my experience with the young generation” - Ranil  Willaddarage](data/articles/i-want-to-share-my-expe.bdd487d4/README.md) `dailymirror.lk`
 * [“Absolute power has failed all leaders” -Milinda Rajapaksha](data/articles/absolute-power-has-fail.a7ae3d29/README.md) `dailymirror.lk`
+* [“Absolute power has failed all leaders” -Milinda Rajapaksha](data/articles/absolute-power-has-fail.f439581f/README.md) `dailymirror.lk`
 
 ## 2024-10-31
 
 * [This AI-generated version of Minecraft may represent the future of real-time video generation](data/articles/this-ai-generated-versio.d06b0d48/README.md) `technologyreview.com`
 * [A Toolkit to Help You Manage Uncertainty Around AI](data/articles/a-toolkit-to-help-you-ma.2da73f4d/README.md) `hbr.org`
 * [Research: The Rules of Using Playful Nicknames at Work](data/articles/research-the-rules-of-us.42450e22/README.md) `hbr.org`
+* [The surprising barrier that keeps us from building the housing we need](data/articles/the-surprising-barrier-t.07eaad4d/README.md) `technologyreview.com`
 * [‘‘Sri Lanka’s ISB restructure: Debt trap backed by IMF and Ceylon Chamber of Commerce’’](data/articles/sri-lanka-s-isb-restruc.00fa1f07/README.md) `ft.lk`
 * [Irrational behaviour of RW and MR vs. rational behaviour of President AKD](data/articles/irrational-behaviour-of.f36fae6c/README.md) `ft.lk`
 * [How planning ahead can reduce disaster risk and support faster recovery](data/articles/how-planning-ahead-can-r.6079dca7/README.md) `dailymirror.lk`
@@ -40,6 +43,7 @@ Last Updated **2024-11-01 06:25:43**
 * [An easier-to-use technique for storing data in DNA is inspired by our cells](data/articles/an-easier-to-use-techniq.c95206c8/README.md) `technologyreview.com`
 * [Debt sustainability options for President AKD](data/articles/debt-sustainability-opti.2c40ff8e/README.md) `ft.lk`
 * [The arrhythmia of our current age](data/articles/the-arrhythmia-of-our-cu.0d73bdf2/README.md) `technologyreview.com`
+* [அநுர குமார திசாநாயக்கவும் தேசிய மக்கள் சக்தியின் உருவாக்கமும்](data/articles/அந-ர-க-ம-ர-த-ச-ந-யக-கவ-ம.bf01e15f/README.md) `dbsjeyaraj.com`
 
 ## 2024-10-29
 
