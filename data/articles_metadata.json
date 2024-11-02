@@ -1,5 +1,12 @@
 [
   {
+    "title": "How a breakthrough gene-editing tool will help the world cope with climate change",
+    "url": "https://www.technologyreview.com/2024/11/02/1106579/how-a-breakthrough-gene-editing-tool-will-help-the-world-cope-with-climate-change/",
+    "ut": 1730503800.0,
+    "dir_path_unix": "data/articles/how-a-breakthrough-gene.177786db",
+    "time_str_formatted": "05:00 AM, Saturday, November 02, 2024"
+  },
+  {
     "title": "Planning for climate-related human mobility",
     "url": "https://www.ft.lk/columns/Planning-for-climate-related-human-mobility/4-768732",
     "ut": 1730501320.0,
@@ -61,6 +68,13 @@
     "ut": 1730471235.0,
     "dir_path_unix": "data/articles/us-election-a-summary-of.d17babb5",
     "time_str_formatted": "07:57 PM, Friday, November 01, 2024"
+  },
+  {
+    "title": "How to Lead When the Future Feels Unpredictable",
+    "url": "https://hbr.org/2024/11/how-to-lead-when-the-future-feels-unpredictable",
+    "ut": 1730443511.0,
+    "dir_path_unix": "data/articles/how-to-lead-when-the-fut.8494c336",
+    "time_str_formatted": "12:15 PM, Friday, November 01, 2024"
   },
   {
     "title": "SWRD, JR et al, tradition or mythology?",
@@ -159,6 +173,13 @@
     "ut": 1730357150.0,
     "dir_path_unix": "data/articles/research-the-rules-of-us.42450e22",
     "time_str_formatted": "12:15 PM, Thursday, October 31, 2024"
+  },
+  {
+    "title": "Inside a fusion energy facility",
+    "url": "https://www.technologyreview.com/2024/10/31/1106384/inside-a-fusion-energy-facility/",
+    "ut": 1730334600.0,
+    "dir_path_unix": "data/articles/inside-a-fusion-energy-f.b52104a9",
+    "time_str_formatted": "06:00 AM, Thursday, October 31, 2024"
   },
   {
     "title": "The surprising barrier that keeps us from building the housing we need",
