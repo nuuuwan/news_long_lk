@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-01 18:18:50**
+Last Updated **2024-11-02 06:24:55**
+
+## 2024-11-02
+
+* [Planning for climate-related human mobility](data/articles/planning-for-climate-rel.20d0c19f/README.md) `ft.lk`
+* [Sri Lanka elections: Out with the old, in with the new – for Tamils too](data/articles/sri-lanka-elections-out.79dc8725/README.md) `ft.lk`
+* [Other players in  the perfect storm](data/articles/other-players-in-the-per.7486471f/README.md) `ft.lk`
+* [What a Trump or Harris presidency means to the world](data/articles/what-a-trump-or-harris-p.b58110f8/README.md) `ft.lk`
+* [Who pays for these committees and commissions?](data/articles/who-pays-for-these-commi.1cb88776/README.md) `dailymirror.lk`
+* [Let not red herrings draw attention away from problems](data/articles/let-not-red-herrings-dra.9b33b2a2/README.md) `dailymirror.lk`
+* [How Anura Scented   the Sweet Smell of Success in 2024 Presidential Race](data/articles/how-anura-scented-the-sw.7bf97e17/README.md) `dailymirror.lk`
 
 ## 2024-11-01
 
+* [Will the US election end in political chaos?](data/articles/will-the-us-election-end.e6a787d7/README.md) `eiu.com`
+* [US election: a summary of our views](data/articles/us-election-a-summary-of.d17babb5/README.md) `eiu.com`
 * [SWRD, JR et al, tradition or mythology?](data/articles/swrd-jr-et-al-tradition.49bf6f07/README.md) `ft.lk`
 * [The blame game](data/articles/the-blame-game.5b742d63/README.md) `ft.lk`
 * [How exosomes could become more than just an “anti-aging” fad](data/articles/how-exosomes-could-becom.d60f2a87/README.md) `technologyreview.com`
