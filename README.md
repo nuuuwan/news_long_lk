@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-03 06:25:01**
+Last Updated **2024-11-03 18:17:16**
 
 ## 2024-11-02
 
@@ -20,6 +20,7 @@ Last Updated **2024-11-03 06:25:01**
 * [Will the US election end in political chaos?](data/articles/will-the-us-election-end.e6a787d7/README.md) `eiu.com`
 * [US election: a summary of our views](data/articles/us-election-a-summary-of.d17babb5/README.md) `eiu.com`
 * [How to Lead When the Future Feels Unpredictable](data/articles/how-to-lead-when-the-fut.8494c336/README.md) `hbr.org`
+* [Younger Women’s Experiences Show Gender Equity at Work Isn’t Inevitable](data/articles/younger-women-s-experien.a0ee4d55/README.md) `hbr.org`
 * [SWRD, JR et al, tradition or mythology?](data/articles/swrd-jr-et-al-tradition.49bf6f07/README.md) `ft.lk`
 * [The blame game](data/articles/the-blame-game.5b742d63/README.md) `ft.lk`
 * [How exosomes could become more than just an “anti-aging” fad](data/articles/how-exosomes-could-becom.d60f2a87/README.md) `technologyreview.com`
