@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-03 18:17:16**
+Last Updated **2024-11-04 06:24:30**
+
+## 2024-11-04
+
+* [Fears and Hopes in a World of Turmoil](data/articles/fears-and-hopes-in-a-wor.0dcd3661/README.md) `dailymirror.lk`
+* [Emotionally intelligent CFO no longer an oxymoron – they exist](data/articles/emotionally-intelligent.430aea43/README.md) `ft.lk`
+* [People feel Wickremesinghe will come back to revive the economy  if it collapses -Ruwan Wijewardene](data/articles/people-feel-wickremesing.8169b2b1/README.md) `dailymirror.lk`
+* [Why Sri Lanka needs stability, not diplomatic disruption, in London](data/articles/why-sri-lanka-needs-stab.eb83aca8/README.md) `ft.lk`
+* [Addressing the silent crisis: Suicide prevention among students in Sri Lanka](data/articles/addressing-the-silent-cr.cdedf3e9/README.md) `ft.lk`
+* [Lending according to Manoj Akmeemana: A textbook for all](data/articles/lending-according-to-man.a2c0358f/README.md) `ft.lk`
 
 ## 2024-11-02
 
@@ -19,6 +28,7 @@ Last Updated **2024-11-03 18:17:16**
 
 * [Will the US election end in political chaos?](data/articles/will-the-us-election-end.e6a787d7/README.md) `eiu.com`
 * [US election: a summary of our views](data/articles/us-election-a-summary-of.d17babb5/README.md) `eiu.com`
+* [High Performers Need Feedback, Too](data/articles/high-performers-need-fee.aa242e9e/README.md) `hbr.org`
 * [How to Lead When the Future Feels Unpredictable](data/articles/how-to-lead-when-the-fut.8494c336/README.md) `hbr.org`
 * [Younger Women’s Experiences Show Gender Equity at Work Isn’t Inevitable](data/articles/younger-women-s-experien.a0ee4d55/README.md) `hbr.org`
 * [SWRD, JR et al, tradition or mythology?](data/articles/swrd-jr-et-al-tradition.49bf6f07/README.md) `ft.lk`
