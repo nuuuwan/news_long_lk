@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-05 06:24:52**
+Last Updated **2024-11-05 18:19:06**
 
 ## 2024-11-05
 
+* [Legal action to be filed against those who defamed Ravi and Shani](data/articles/legal-action-to-be-filed.8db34c38/README.md) `dailymirror.lk`
 * [Trump doesn’t make the grade in foreign policy, say US experts](data/articles/trump-doesn-t-make-the-g.86dd32c0/README.md) `dailymirror.lk`
 * [Political parties on sale - EDITORIAL](data/articles/political-parties-on-sal.afcf60d4/README.md) `dailymirror.lk`
 
@@ -59,6 +60,7 @@ Last Updated **2024-11-05 06:24:52**
 ## 2024-10-31
 
 * [This AI-generated version of Minecraft may represent the future of real-time video generation](data/articles/this-ai-generated-versio.d06b0d48/README.md) `technologyreview.com`
+* [OpenAI brings a new web search tool to ChatGPT](data/articles/openai-brings-a-new-web.8530a611/README.md) `technologyreview.com`
 * [A Toolkit to Help You Manage Uncertainty Around AI](data/articles/a-toolkit-to-help-you-ma.2da73f4d/README.md) `hbr.org`
 * [Research: The Rules of Using Playful Nicknames at Work](data/articles/research-the-rules-of-us.42450e22/README.md) `hbr.org`
 * [Inside a fusion energy facility](data/articles/inside-a-fusion-energy-f.b52104a9/README.md) `technologyreview.com`

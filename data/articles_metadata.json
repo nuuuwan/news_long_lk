@@ -1,5 +1,12 @@
 [
   {
+    "title": "Legal action to be filed against those who defamed Ravi and Shani",
+    "url": "https://www.dailymirror.lk/plus/Legal-action-to-be-filed-against-those-who-defamed-Ravi-and-Shani/352-295250",
+    "ut": 1730752722.0,
+    "dir_path_unix": "data/articles/legal-action-to-be-filed.8db34c38",
+    "time_str_formatted": "02:08 AM, Tuesday, November 05, 2024"
+  },
+  {
     "title": "Trump doesn\u2019t make the grade in foreign policy, say US experts",
     "url": "https://www.dailymirror.lk/opinion/Trump-doesnt-make-the-grade-in-foreign-policy-say-US-experts/172-295247",
     "ut": 1730750084.0,
@@ -285,6 +292,13 @@
     "ut": 1730367000.0,
     "dir_path_unix": "data/articles/this-ai-generated-versio.d06b0d48",
     "time_str_formatted": "03:00 PM, Thursday, October 31, 2024"
+  },
+  {
+    "title": "OpenAI brings a new web search tool to ChatGPT",
+    "url": "https://www.technologyreview.com/2024/10/31/1106472/chatgpt-now-lets-you-search-the-internet/",
+    "ut": 1730359701.0,
+    "dir_path_unix": "data/articles/openai-brings-a-new-web.8530a611",
+    "time_str_formatted": "12:58 PM, Thursday, October 31, 2024"
   },
   {
     "title": "A Toolkit to Help You Manage Uncertainty Around AI",
