@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-04 18:20:11**
+Last Updated **2024-11-05 06:24:52**
+
+## 2024-11-05
+
+* [Trump doesn’t make the grade in foreign policy, say US experts](data/articles/trump-doesn-t-make-the-g.86dd32c0/README.md) `dailymirror.lk`
+* [Political parties on sale - EDITORIAL](data/articles/political-parties-on-sal.afcf60d4/README.md) `dailymirror.lk`
 
 ## 2024-11-04
 
+* [World beyond island borders](data/articles/world-beyond-island-bord.5c37f3a5/README.md) `ft.lk`
+* [President’s vision of transportation: A change agent or mere rhetoric?](data/articles/president-s-vision-of-tr.711f8488/README.md) `ft.lk`
+* [Combination of experienced and new MPs should be in parliament – S.M. Marikkar](data/articles/combination-of-experienc.6028b16a/README.md) `ft.lk`
+* [“Cocoon” around heads of state: Is there one around President Anura Dissanayake already?](data/articles/cocoon-around-heads-of.ce8f45bd/README.md) `ft.lk`
+* [Webinar: The Importance of Professional-Grade GenAI in Regulated Sectors](data/articles/webinar-the-importance-o.6b583bdb/README.md) `hbr.org`
+* [What to Know About Using “Employers of Record” to Hire Globally](data/articles/what-to-know-about-using.fa0d3f53/README.md) `hbr.org`
 * [Fears and Hopes in a World of Turmoil](data/articles/fears-and-hopes-in-a-wor.0dcd3661/README.md) `dailymirror.lk`
 * [Emotionally intelligent CFO no longer an oxymoron – they exist](data/articles/emotionally-intelligent.430aea43/README.md) `ft.lk`
 * [People feel Wickremesinghe will come back to revive the economy  if it collapses -Ruwan Wijewardene](data/articles/people-feel-wickremesing.38623d2b/README.md) `dailymirror.lk`
