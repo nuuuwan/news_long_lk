@@ -1,5 +1,12 @@
 [
   {
+    "title": "Chabad House in Arugam Bay: Bringing Gaza home?",
+    "url": "https://www.ft.lk/columns/Chabad-House-in-Arugam-Bay-Bringing-Gaza-home/4-768877",
+    "ut": 1730852781.0,
+    "dir_path_unix": "data/articles/chabad-house-in-arugam-b.6a19b576",
+    "time_str_formatted": "05:56 AM, Wednesday, November 06, 2024"
+  },
+  {
     "title": "Why Sri Lanka needs a strong, united parliament now more than ever",
     "url": "https://www.ft.lk/columns/Why-Sri-Lanka-needs-a-strong-united-parliament-now-more-than-ever/4-768876",
     "ut": 1730852405.0,
@@ -35,11 +42,32 @@
     "time_str_formatted": "05:27 AM, Wednesday, November 06, 2024"
   },
   {
+    "title": "Was Israeli intelligence the target of speculated Arugam Bay attack?",
+    "url": "https://www.dailymirror.lk/plus/Was-Israeli-intelligence-the-target-of-speculated-Arugam-Bay-attack/352-295335",
+    "ut": 1730829884.0,
+    "dir_path_unix": "data/articles/was-israeli-intelligence.9b2113b6",
+    "time_str_formatted": "11:34 PM, Tuesday, November 05, 2024"
+  },
+  {
+    "title": "\u201cWe support president\u2019s anti-corruption policy  not one-party state\u201d Eran Wickramaratne",
+    "url": "https://www.dailymirror.lk/recomended-news/We-support-presidents-anti-corruption-policy-not-one-party-state-Eran-Wickramaratne/277-295332",
+    "ut": 1730829011.0,
+    "dir_path_unix": "data/articles/we-support-president-s.00aabe12",
+    "time_str_formatted": "11:20 PM, Tuesday, November 05, 2024"
+  },
+  {
     "title": "\u201cWe support president\u2019s anti-corruption policy  not one-party state\u201d Eran Wickramaratne",
     "url": "https://www.dailymirror.lk/hard-talk/We-support-presidents-anti-corruption-policy-not-one-party-state-Eran-Wickramaratne/334-295332",
     "ut": 1730829011.0,
     "dir_path_unix": "data/articles/we-support-president-s.daaca116",
     "time_str_formatted": "11:20 PM, Tuesday, November 05, 2024"
+  },
+  {
+    "title": "We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe",
+    "url": "https://www.dailymirror.lk/recomended-news/We-are-not-seeking-23rds-in-Parliament-only-a-simple-majority-Chathuranga-Abeysinghe/277-295331",
+    "ut": 1730828832.0,
+    "dir_path_unix": "data/articles/we-are-not-seeking-2-3rd.05474538",
+    "time_str_formatted": "11:17 PM, Tuesday, November 05, 2024"
   },
   {
     "title": "We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe",
@@ -54,6 +82,13 @@
     "ut": 1730793318.0,
     "dir_path_unix": "data/articles/a-guide-to-handing-off-w.c3a600a6",
     "time_str_formatted": "01:25 PM, Tuesday, November 05, 2024"
+  },
+  {
+    "title": "How ChatGPT search paves the way for AI agents",
+    "url": "https://www.technologyreview.com/2024/11/05/1106603/how-chatgpt-search-paves-the-way-for-ai-agents/",
+    "ut": 1730766528.0,
+    "dir_path_unix": "data/articles/how-chatgpt-search-paves.2a7a9778",
+    "time_str_formatted": "05:58 AM, Tuesday, November 05, 2024"
   },
   {
     "title": "Legal action to be filed against those who defamed Ravi and Shani",
@@ -348,6 +383,13 @@
     "ut": 1730367000.0,
     "dir_path_unix": "data/articles/this-ai-generated-versio.d06b0d48",
     "time_str_formatted": "03:00 PM, Thursday, October 31, 2024"
+  },
+  {
+    "title": "AI search could break the web",
+    "url": "https://www.technologyreview.com/2024/10/31/1106504/ai-search-could-break-the-web/",
+    "ut": 1730362800.0,
+    "dir_path_unix": "data/articles/ai-search-could-break-th.89e98b5d",
+    "time_str_formatted": "01:50 PM, Thursday, October 31, 2024"
   },
   {
     "title": "OpenAI brings a new web search tool to ChatGPT",

@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-06 06:24:53**
+Last Updated **2024-11-06 18:19:37**
 
 ## 2024-11-06
 
+* [Chabad House in Arugam Bay: Bringing Gaza home?](data/articles/chabad-house-in-arugam-b.6a19b576/README.md) `ft.lk`
 * [Why Sri Lanka needs a strong, united parliament now more than ever](data/articles/why-sri-lanka-needs-a-st.847bfa93/README.md) `ft.lk`
 * [Rethinking Central Bank independence in Sri Lanka’s development journey](data/articles/rethinking-central-bank.a614f9fb/README.md) `ft.lk`
 * [Central Bank defence of liquidity injections amid “money printing” controversy](data/articles/central-bank-defence-of.ffac5448/README.md) `ft.lk`
@@ -14,9 +15,13 @@ Last Updated **2024-11-06 06:24:53**
 
 ## 2024-11-05
 
+* [Was Israeli intelligence the target of speculated Arugam Bay attack?](data/articles/was-israeli-intelligence.9b2113b6/README.md) `dailymirror.lk`
+* [“We support president’s anti-corruption policy  not one-party state” Eran Wickramaratne](data/articles/we-support-president-s.00aabe12/README.md) `dailymirror.lk`
 * [“We support president’s anti-corruption policy  not one-party state” Eran Wickramaratne](data/articles/we-support-president-s.daaca116/README.md) `dailymirror.lk`
+* [We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe](data/articles/we-are-not-seeking-2-3rd.05474538/README.md) `dailymirror.lk`
 * [We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe](data/articles/we-are-not-seeking-2-3rd.dc458bbd/README.md) `dailymirror.lk`
 * [A Guide to Handing Off Work Before a Vacation](data/articles/a-guide-to-handing-off-w.c3a600a6/README.md) `hbr.org`
+* [How ChatGPT search paves the way for AI agents](data/articles/how-chatgpt-search-paves.2a7a9778/README.md) `technologyreview.com`
 * [Legal action to be filed against those who defamed Ravi and Shani](data/articles/legal-action-to-be-filed.8db34c38/README.md) `dailymirror.lk`
 * [Trump doesn’t make the grade in foreign policy, say US experts](data/articles/trump-doesn-t-make-the-g.86dd32c0/README.md) `dailymirror.lk`
 * [Political parties on sale - EDITORIAL](data/articles/political-parties-on-sal.afcf60d4/README.md) `dailymirror.lk`
@@ -71,6 +76,7 @@ Last Updated **2024-11-06 06:24:53**
 ## 2024-10-31
 
 * [This AI-generated version of Minecraft may represent the future of real-time video generation](data/articles/this-ai-generated-versio.d06b0d48/README.md) `technologyreview.com`
+* [AI search could break the web](data/articles/ai-search-could-break-th.89e98b5d/README.md) `technologyreview.com`
 * [OpenAI brings a new web search tool to ChatGPT](data/articles/openai-brings-a-new-web.8530a611/README.md) `technologyreview.com`
 * [A Toolkit to Help You Manage Uncertainty Around AI](data/articles/a-toolkit-to-help-you-ma.2da73f4d/README.md) `hbr.org`
 * [Research: The Rules of Using Playful Nicknames at Work](data/articles/research-the-rules-of-us.42450e22/README.md) `hbr.org`
