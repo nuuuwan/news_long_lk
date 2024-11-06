@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-05 18:19:06**
+Last Updated **2024-11-06 06:24:53**
+
+## 2024-11-06
+
+* [Why Sri Lanka needs a strong, united parliament now more than ever](data/articles/why-sri-lanka-needs-a-st.847bfa93/README.md) `ft.lk`
+* [Rethinking Central Bank independence in Sri Lanka’s development journey](data/articles/rethinking-central-bank.a614f9fb/README.md) `ft.lk`
+* [Central Bank defence of liquidity injections amid “money printing” controversy](data/articles/central-bank-defence-of.ffac5448/README.md) `ft.lk`
+* [Strategic focus and agility in unpredictable markets](data/articles/strategic-focus-and-agil.e4ccc1e4/README.md) `ft.lk`
+* [“President AKD’s Govt. revolves around policies of RW and MR” – Milinda Rajapaksa](data/articles/president-akd-s-govt-re.faaf9934/README.md) `ft.lk`
 
 ## 2024-11-05
 
+* [“We support president’s anti-corruption policy  not one-party state” Eran Wickramaratne](data/articles/we-support-president-s.daaca116/README.md) `dailymirror.lk`
+* [We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe](data/articles/we-are-not-seeking-2-3rd.dc458bbd/README.md) `dailymirror.lk`
+* [A Guide to Handing Off Work Before a Vacation](data/articles/a-guide-to-handing-off-w.c3a600a6/README.md) `hbr.org`
 * [Legal action to be filed against those who defamed Ravi and Shani](data/articles/legal-action-to-be-filed.8db34c38/README.md) `dailymirror.lk`
 * [Trump doesn’t make the grade in foreign policy, say US experts](data/articles/trump-doesn-t-make-the-g.86dd32c0/README.md) `dailymirror.lk`
 * [Political parties on sale - EDITORIAL](data/articles/political-parties-on-sal.afcf60d4/README.md) `dailymirror.lk`
