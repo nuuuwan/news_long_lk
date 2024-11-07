@@ -2,16 +2,34 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-06 18:19:37**
+Last Updated **2024-11-07 06:25:07**
+
+## 2024-11-07
+
+* [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.d943a10c/README.md) `dailymirror.lk`
+* [“Strategic North will be the gateway for Indian investment” - Elankovan Chandrahasan](data/articles/strategic-north-will-be.a86c525d/README.md) `dailymirror.lk`
+* [General Elections 2024 Time to reject unethical and undemocratic candidates](data/articles/general-elections-2024-t.9529e615/README.md) `dailymirror.lk`
+* [The vibe that a regime creates!](data/articles/the-vibe-that-a-regime-c.7f350e71/README.md) `dailymirror.lk`
+* [Elections in Lanka and the US in a destabilised world - EDITORIAL](data/articles/elections-in-lanka-and-t.1fe24dc7/README.md) `dailymirror.lk`
+* [“NPP Govt. will never fall” – Chathuranga Abeysinghe](data/articles/npp-govt-will-never-fal.786a945b/README.md) `ft.lk`
+* [Truth, lies, national security,  and value of democratic Opposition](data/articles/truth-lies-national-secu.a8353beb/README.md) `ft.lk`
 
 ## 2024-11-06
 
+* [Appreciation: Franklyn Amerasinghe](data/articles/appreciation-franklyn-am.750a4489/README.md) `ft.lk`
+* [Harini or Sajith: Who is more necessary, can contribute more?](data/articles/harini-or-sajith-who-is.f4ca0a76/README.md) `ft.lk`
+* [Coconut: The next ‘tea’ for Sri Lanka?](data/articles/coconut-the-next-tea-for.37d9eabe/README.md) `ft.lk`
+* [Trump’s win is a tragic loss for climate progress](data/articles/trump-s-win-is-a-tragic.76e56771/README.md) `technologyreview.com`
+* [When a Performance Improvement Plan Could Help Your Employee](data/articles/when-a-performance-impro.bc463df1/README.md) `hbr.org`
+* [To Help Your Team Learn, Set Them Up for Productive Failure](data/articles/to-help-your-team-learn.ee3b7185/README.md) `hbr.org`
 * [Chabad House in Arugam Bay: Bringing Gaza home?](data/articles/chabad-house-in-arugam-b.6a19b576/README.md) `ft.lk`
 * [Why Sri Lanka needs a strong, united parliament now more than ever](data/articles/why-sri-lanka-needs-a-st.847bfa93/README.md) `ft.lk`
 * [Rethinking Central Bank independence in Sri Lanka’s development journey](data/articles/rethinking-central-bank.a614f9fb/README.md) `ft.lk`
 * [Central Bank defence of liquidity injections amid “money printing” controversy](data/articles/central-bank-defence-of.ffac5448/README.md) `ft.lk`
 * [Strategic focus and agility in unpredictable markets](data/articles/strategic-focus-and-agil.e4ccc1e4/README.md) `ft.lk`
 * [“President AKD’s Govt. revolves around policies of RW and MR” – Milinda Rajapaksa](data/articles/president-akd-s-govt-re.faaf9934/README.md) `ft.lk`
+* [2024 ஜனாதிபதி தேர்தலில் வெற்றியின் வாசனையை அநுர குமார திசாநாயக்க எவ்வாறு முகர்ந்து பிடித்தார்?](data/articles/2024-ஜன-த-பத-த-ர-தல-ல-வ.d2af2030/README.md) `dbsjeyaraj.com`
+* [Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?](data/articles/who-is-the-mysterious-is.c30b36aa/README.md) `dbsjeyaraj.com`
 
 ## 2024-11-05
 

@@ -1,5 +1,96 @@
 [
   {
+    "title": "\u201cEstate community still looks up to TPA and SJB\u201d - Digambaram",
+    "url": "https://www.dailymirror.lk/hard-talk/Estate-community-still-looks-up-to-TPA-and-SJB-Digambaram/334-295430",
+    "ut": 1730923937.0,
+    "dir_path_unix": "data/articles/estate-community-still.d943a10c",
+    "time_str_formatted": "01:42 AM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "\u201cStrategic North will be the gateway for Indian investment\u201d - Elankovan Chandrahasan",
+    "url": "https://www.dailymirror.lk/hard-talk/Strategic-North-will-be-the-gateway-for-Indian-investment-Elankovan-Chandrahasan/334-295429",
+    "ut": 1730923307.0,
+    "dir_path_unix": "data/articles/strategic-north-will-be.a86c525d",
+    "time_str_formatted": "01:31 AM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "General Elections 2024 Time to reject unethical and undemocratic candidates",
+    "url": "https://www.dailymirror.lk/opinion/General-Elections-2024-Time-to-reject-unethical-and-undemocratic-candidates/172-295428",
+    "ut": 1730922282.0,
+    "dir_path_unix": "data/articles/general-elections-2024-t.9529e615",
+    "time_str_formatted": "01:14 AM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "The vibe that a regime creates!",
+    "url": "https://www.dailymirror.lk/opinion/The-vibe-that-a-regime-creates/172-295427",
+    "ut": 1730921767.0,
+    "dir_path_unix": "data/articles/the-vibe-that-a-regime-c.7f350e71",
+    "time_str_formatted": "01:06 AM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "Elections in Lanka and the US in a destabilised world - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Elections-in-Lanka-and-the-US-in-a-destabilised-world-EDITORIAL/172-295426",
+    "ut": 1730921286.0,
+    "dir_path_unix": "data/articles/elections-in-lanka-and-t.1fe24dc7",
+    "time_str_formatted": "12:58 AM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "\u201cNPP Govt. will never fall\u201d \u2013 Chathuranga Abeysinghe",
+    "url": "https://www.ft.lk/columns/NPP-Govt-will-never-fall-Chathuranga-Abeysinghe/4-768915",
+    "ut": 1730919349.0,
+    "dir_path_unix": "data/articles/npp-govt-will-never-fal.786a945b",
+    "time_str_formatted": "12:25 AM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "Truth, lies, national security,  and value of democratic Opposition",
+    "url": "https://www.ft.lk/columns/Truth-lies-national-security-and-value-of-democratic-Opposition/4-768914",
+    "ut": 1730918633.0,
+    "dir_path_unix": "data/articles/truth-lies-national-secu.a8353beb",
+    "time_str_formatted": "12:13 AM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "Appreciation: Franklyn Amerasinghe",
+    "url": "https://www.ft.lk/columns/Appreciation-Franklyn-Amerasinghe/4-768913",
+    "ut": 1730917607.0,
+    "dir_path_unix": "data/articles/appreciation-franklyn-am.750a4489",
+    "time_str_formatted": "11:56 PM, Wednesday, November 06, 2024"
+  },
+  {
+    "title": "Harini or Sajith: Who is more necessary, can contribute more?",
+    "url": "https://www.ft.lk/columns/Harini-or-Sajith-Who-is-more-necessary-can-contribute-more/4-768910",
+    "ut": 1730916025.0,
+    "dir_path_unix": "data/articles/harini-or-sajith-who-is.f4ca0a76",
+    "time_str_formatted": "11:30 PM, Wednesday, November 06, 2024"
+  },
+  {
+    "title": "Coconut: The next \u2018tea\u2019 for Sri Lanka?",
+    "url": "https://www.ft.lk/columns/Coconut-The-next-tea-for-Sri-Lanka/4-768909",
+    "ut": 1730914379.0,
+    "dir_path_unix": "data/articles/coconut-the-next-tea-for.37d9eabe",
+    "time_str_formatted": "11:02 PM, Wednesday, November 06, 2024"
+  },
+  {
+    "title": "Trump\u2019s win is a tragic loss for climate progress",
+    "url": "https://www.technologyreview.com/2024/11/06/1106712/trumps-win-is-a-tragic-loss-for-climate-progress/",
+    "ut": 1730899013.0,
+    "dir_path_unix": "data/articles/trump-s-win-is-a-tragic.76e56771",
+    "time_str_formatted": "06:46 PM, Wednesday, November 06, 2024"
+  },
+  {
+    "title": "When a Performance Improvement Plan Could Help Your Employee",
+    "url": "https://hbr.org/2024/11/when-a-performance-improvement-plan-could-help-your-employee",
+    "ut": 1730879727.0,
+    "dir_path_unix": "data/articles/when-a-performance-impro.bc463df1",
+    "time_str_formatted": "01:25 PM, Wednesday, November 06, 2024"
+  },
+  {
+    "title": "To Help Your Team Learn, Set Them Up for Productive Failure",
+    "url": "https://hbr.org/2024/11/to-help-your-team-learn-set-them-up-for-productive-failure",
+    "ut": 1730879122.0,
+    "dir_path_unix": "data/articles/to-help-your-team-learn.ee3b7185",
+    "time_str_formatted": "01:15 PM, Wednesday, November 06, 2024"
+  },
+  {
     "title": "Chabad House in Arugam Bay: Bringing Gaza home?",
     "url": "https://www.ft.lk/columns/Chabad-House-in-Arugam-Bay-Bringing-Gaza-home/4-768877",
     "ut": 1730852781.0,
@@ -40,6 +131,20 @@
     "ut": 1730851020.0,
     "dir_path_unix": "data/articles/president-akd-s-govt-re.faaf9934",
     "time_str_formatted": "05:27 AM, Wednesday, November 06, 2024"
+  },
+  {
+    "title": "2024 \u0b9c\u0ba9\u0bbe\u0ba4\u0bbf\u0baa\u0ba4\u0bbf \u0ba4\u0bc7\u0bb0\u0bcd\u0ba4\u0bb2\u0bbf\u0bb2\u0bcd \u0bb5\u0bc6\u0bb1\u0bcd\u0bb1\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0bb5\u0bbe\u0b9a\u0ba9\u0bc8\u0baf\u0bc8 \u0b85\u0ba8\u0bc1\u0bb0 \u0b95\u0bc1\u0bae\u0bbe\u0bb0 \u0ba4\u0bbf\u0b9a\u0bbe\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95 \u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0bae\u0bc1\u0b95\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0baa\u0bbf\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0bb0\u0bcd?",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85007",
+    "ut": 1730839979.0,
+    "dir_path_unix": "data/articles/2024-\u0b9c\u0ba9-\u0ba4-\u0baa\u0ba4-\u0ba4-\u0bb0-\u0ba4\u0bb2-\u0bb2-\u0bb5.d2af2030",
+    "time_str_formatted": "02:22 AM, Wednesday, November 06, 2024"
+  },
+  {
+    "title": "Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85014",
+    "ut": 1730835700.0,
+    "dir_path_unix": "data/articles/who-is-the-mysterious-is.c30b36aa",
+    "time_str_formatted": "01:11 AM, Wednesday, November 06, 2024"
   },
   {
     "title": "Was Israeli intelligence the target of speculated Arugam Bay attack?",
