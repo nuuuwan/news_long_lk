@@ -2,14 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-07 06:25:07**
+Last Updated **2024-11-07 18:18:50**
 
 ## 2024-11-07
 
 * [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.d943a10c/README.md) `dailymirror.lk`
+* [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.727d95f2/README.md) `dailymirror.lk`
+* [“Strategic North will be the gateway for Indian investment” - Elankovan Chandrahasan](data/articles/strategic-north-will-be.8e72e9e8/README.md) `dailymirror.lk`
 * [“Strategic North will be the gateway for Indian investment” - Elankovan Chandrahasan](data/articles/strategic-north-will-be.a86c525d/README.md) `dailymirror.lk`
 * [General Elections 2024 Time to reject unethical and undemocratic candidates](data/articles/general-elections-2024-t.9529e615/README.md) `dailymirror.lk`
 * [The vibe that a regime creates!](data/articles/the-vibe-that-a-regime-c.7f350e71/README.md) `dailymirror.lk`
+* [The vibe that a regime creates!](data/articles/the-vibe-that-a-regime-c.041e5b1d/README.md) `dailymirror.lk`
 * [Elections in Lanka and the US in a destabilised world - EDITORIAL](data/articles/elections-in-lanka-and-t.1fe24dc7/README.md) `dailymirror.lk`
 * [“NPP Govt. will never fall” – Chathuranga Abeysinghe](data/articles/npp-govt-will-never-fal.786a945b/README.md) `ft.lk`
 * [Truth, lies, national security,  and value of democratic Opposition](data/articles/truth-lies-national-secu.a8353beb/README.md) `ft.lk`
@@ -22,6 +25,8 @@ Last Updated **2024-11-07 06:25:07**
 * [Trump’s win is a tragic loss for climate progress](data/articles/trump-s-win-is-a-tragic.76e56771/README.md) `technologyreview.com`
 * [When a Performance Improvement Plan Could Help Your Employee](data/articles/when-a-performance-impro.bc463df1/README.md) `hbr.org`
 * [To Help Your Team Learn, Set Them Up for Productive Failure](data/articles/to-help-your-team-learn.ee3b7185/README.md) `hbr.org`
+* [3 Ways to Temper Your Hypervigilance at Work](data/articles/3-ways-to-temper-your-hy.a2ba0797/README.md) `hbr.org`
+* [The US is about to make a sharp turn on climate policy](data/articles/the-us-is-about-to-make.1578eac0/README.md) `technologyreview.com`
 * [Chabad House in Arugam Bay: Bringing Gaza home?](data/articles/chabad-house-in-arugam-b.6a19b576/README.md) `ft.lk`
 * [Why Sri Lanka needs a strong, united parliament now more than ever](data/articles/why-sri-lanka-needs-a-st.847bfa93/README.md) `ft.lk`
 * [Rethinking Central Bank independence in Sri Lanka’s development journey](data/articles/rethinking-central-bank.a614f9fb/README.md) `ft.lk`
