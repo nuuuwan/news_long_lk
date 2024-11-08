@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-08 06:26:22**
+Last Updated **2024-11-08 18:18:51**
 
 ## 2024-11-08
 
@@ -15,11 +15,14 @@ Last Updated **2024-11-08 06:26:22**
 ## 2024-11-07
 
 * [Easter Sunday attacks:  Govt should be given enough time - Kavinda Jayawardena](data/articles/easter-sunday-attacks-go.b8723994/README.md) `dailymirror.lk`
+* [Easter Sunday attacks:  Govt should be given enough time - Kavinda Jayawardena](data/articles/easter-sunday-attacks-go.9fdf95da/README.md) `dailymirror.lk`
 * [President wants to suppress Easter Sunday attack reports with ulterior motives- Udaya Gammanpila](data/articles/president-wants-to-suppr.ce711cbc/README.md) `dailymirror.lk`
+* [President wants to suppress Easter Sunday attack reports with ulterior motives- Udaya Gammanpila](data/articles/president-wants-to-suppr.437e6712/README.md) `dailymirror.lk`
 * [The Second Coming of Trump: Prospects for war and peace](data/articles/the-second-coming-of-tru.f79c94ae/README.md) `dailymirror.lk`
 * [“government has absolutely no experience” – Rosy Senanayake](data/articles/government-has-absolute.1cf1464c/README.md) `dailymirror.lk`
 * [“We are engaged in a mission  to do clean politics”  – Samanmalee Gunasinghe](data/articles/we-are-engaged-in-a-mis.65cccb79/README.md) `dailymirror.lk`
 * [Don’t Overlook This Critical Skill When Interviewing Executives](data/articles/don-t-overlook-this-crit.3f87374a/README.md) `hbr.org`
+* [Research: Performance Reviews That Actually Motivate Employees](data/articles/research-performance-rev.ad2f70c6/README.md) `hbr.org`
 * [What’s next for reproductive rights in the US](data/articles/what-s-next-for-reproduc.8fce7dc2/README.md) `technologyreview.com`
 * [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.d943a10c/README.md) `dailymirror.lk`
 * [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.727d95f2/README.md) `dailymirror.lk`
