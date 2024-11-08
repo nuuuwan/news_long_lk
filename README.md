@@ -2,15 +2,31 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-07 18:18:50**
+Last Updated **2024-11-08 06:26:22**
+
+## 2024-11-08
+
+* [No space for NPP’s Govt. to do past mistakes as SL can’t survive another crisis: Eran](data/articles/no-space-for-npp-s-govt.aaca1ef1/README.md) `ft.lk`
+* [What Trump’s victory means for Sri Lanka](data/articles/what-trump-s-victory-mea.19e08af5/README.md) `ft.lk`
+* [Building social security system in  Sri Lanka: For the many, and not the few](data/articles/building-social-security.c4cced4b/README.md) `ft.lk`
+* [Digitalisation will fail, unless](data/articles/digitalisation-will-fail.850706c9/README.md) `ft.lk`
+* [Sri Lankan apparel industry is responsible, innovative and agile](data/articles/sri-lankan-apparel-indus.7cd29e36/README.md) `ft.lk`
 
 ## 2024-11-07
 
+* [Easter Sunday attacks:  Govt should be given enough time - Kavinda Jayawardena](data/articles/easter-sunday-attacks-go.b8723994/README.md) `dailymirror.lk`
+* [President wants to suppress Easter Sunday attack reports with ulterior motives- Udaya Gammanpila](data/articles/president-wants-to-suppr.ce711cbc/README.md) `dailymirror.lk`
+* [The Second Coming of Trump: Prospects for war and peace](data/articles/the-second-coming-of-tru.f79c94ae/README.md) `dailymirror.lk`
+* [“government has absolutely no experience” – Rosy Senanayake](data/articles/government-has-absolute.1cf1464c/README.md) `dailymirror.lk`
+* [“We are engaged in a mission  to do clean politics”  – Samanmalee Gunasinghe](data/articles/we-are-engaged-in-a-mis.65cccb79/README.md) `dailymirror.lk`
+* [Don’t Overlook This Critical Skill When Interviewing Executives](data/articles/don-t-overlook-this-crit.3f87374a/README.md) `hbr.org`
+* [What’s next for reproductive rights in the US](data/articles/what-s-next-for-reproduc.8fce7dc2/README.md) `technologyreview.com`
 * [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.d943a10c/README.md) `dailymirror.lk`
 * [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.727d95f2/README.md) `dailymirror.lk`
 * [“Strategic North will be the gateway for Indian investment” - Elankovan Chandrahasan](data/articles/strategic-north-will-be.8e72e9e8/README.md) `dailymirror.lk`
 * [“Strategic North will be the gateway for Indian investment” - Elankovan Chandrahasan](data/articles/strategic-north-will-be.a86c525d/README.md) `dailymirror.lk`
 * [General Elections 2024 Time to reject unethical and undemocratic candidates](data/articles/general-elections-2024-t.9529e615/README.md) `dailymirror.lk`
+* [With the election of Anura Kumara Dissanayake in Sep  2024 the country’s Tamil people will need strong representation in Parliament to assert their rights and long-neglected demands says ITAK Spokesperson M.A.Sumanthiran](data/articles/with-the-election-of-anu.6d0218fe/README.md) `dbsjeyaraj.com`
 * [The vibe that a regime creates!](data/articles/the-vibe-that-a-regime-c.7f350e71/README.md) `dailymirror.lk`
 * [The vibe that a regime creates!](data/articles/the-vibe-that-a-regime-c.041e5b1d/README.md) `dailymirror.lk`
 * [Elections in Lanka and the US in a destabilised world - EDITORIAL](data/articles/elections-in-lanka-and-t.1fe24dc7/README.md) `dailymirror.lk`
