@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-08 18:18:51**
+Last Updated **2024-11-09 06:25:09**
+
+## 2024-11-09
+
+* [Colombo has issues from housing to urban poverty – Ravindra Udayashantha](data/articles/colombo-has-issues-from.020be582/README.md) `dailymirror.lk`
+* [“Peoples verdict against Ranil , not justifiable” - Nimal Lanza](data/articles/peoples-verdict-against.3d5edae0/README.md) `dailymirror.lk`
+* [“My vision is to create a society where women and children are free from abuse, exploitation”  - Apsari Tillakaratne](data/articles/my-vision-is-to-create.3a03f05e/README.md) `dailymirror.lk`
+* [“We must reclaim power from corrupted political and business elites’’ -  Swasthika Arulingam (PSA)](data/articles/we-must-reclaim-power-f.687970ed/README.md) `dailymirror.lk`
+* [A worthless debate over experience of leaders](data/articles/a-worthless-debate-over.c60378c4/README.md) `dailymirror.lk`
+* [Rienzie Wijetilleke: Sons’ tribute](data/articles/rienzie-wijetilleke-sons.0656e18c/README.md) `ft.lk`
 
 ## 2024-11-08
 
+* [Does it matter to the world who the next President of the USA is?](data/articles/does-it-matter-to-the-wo.0a357f3b/README.md) `ft.lk`
+* [“No criss-crossing between political parties for MPs under AKD’s Govt.” – Sunil Watagala](data/articles/no-criss-crossing-betwe.ea10ea7f/README.md) `ft.lk`
+* [A new hope to sweep a House clean?](data/articles/a-new-hope-to-sweep-a-ho.405bdcf9/README.md) `ft.lk`
+* [Muslim Personal Law Reform Action Group has its say over new Govt.’s stance on MMDA](data/articles/muslim-personal-law-refo.d5d5b9fe/README.md) `ft.lk`
+* [US finalises rules curbing outbound investment into China](data/articles/us-finalises-rules-curbi.78fbec02/README.md) `eiu.com`
+* [The Case for Taking a Gap Year Before College](data/articles/the-case-for-taking-a-ga.7fb0fb13/README.md) `hbr.org`
 * [No space for NPP’s Govt. to do past mistakes as SL can’t survive another crisis: Eran](data/articles/no-space-for-npp-s-govt.aaca1ef1/README.md) `ft.lk`
 * [What Trump’s victory means for Sri Lanka](data/articles/what-trump-s-victory-mea.19e08af5/README.md) `ft.lk`
 * [Building social security system in  Sri Lanka: For the many, and not the few](data/articles/building-social-security.c4cced4b/README.md) `ft.lk`
@@ -24,6 +39,7 @@ Last Updated **2024-11-08 18:18:51**
 * [Don’t Overlook This Critical Skill When Interviewing Executives](data/articles/don-t-overlook-this-crit.3f87374a/README.md) `hbr.org`
 * [Research: Performance Reviews That Actually Motivate Employees](data/articles/research-performance-rev.ad2f70c6/README.md) `hbr.org`
 * [What’s next for reproductive rights in the US](data/articles/what-s-next-for-reproduc.8fce7dc2/README.md) `technologyreview.com`
+* [Why AI could eat quantum computing’s lunch](data/articles/why-ai-could-eat-quantum.1e2fe6f9/README.md) `technologyreview.com`
 * [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.d943a10c/README.md) `dailymirror.lk`
 * [“Estate community still looks up to TPA and SJB” - Digambaram](data/articles/estate-community-still.727d95f2/README.md) `dailymirror.lk`
 * [“Strategic North will be the gateway for Indian investment” - Elankovan Chandrahasan](data/articles/strategic-north-will-be.8e72e9e8/README.md) `dailymirror.lk`
@@ -41,6 +57,7 @@ Last Updated **2024-11-08 18:18:51**
 * [Appreciation: Franklyn Amerasinghe](data/articles/appreciation-franklyn-am.750a4489/README.md) `ft.lk`
 * [Harini or Sajith: Who is more necessary, can contribute more?](data/articles/harini-or-sajith-who-is.f4ca0a76/README.md) `ft.lk`
 * [Coconut: The next ‘tea’ for Sri Lanka?](data/articles/coconut-the-next-tea-for.37d9eabe/README.md) `ft.lk`
+* [US election triumph gives Trump a powerful mandate](data/articles/us-election-triumph-give.d406e364/README.md) `eiu.com`
 * [Trump’s win is a tragic loss for climate progress](data/articles/trump-s-win-is-a-tragic.76e56771/README.md) `technologyreview.com`
 * [When a Performance Improvement Plan Could Help Your Employee](data/articles/when-a-performance-impro.bc463df1/README.md) `hbr.org`
 * [To Help Your Team Learn, Set Them Up for Productive Failure](data/articles/to-help-your-team-learn.ee3b7185/README.md) `hbr.org`
