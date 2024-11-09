@@ -2,12 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-09 06:25:09**
+Last Updated **2024-11-09 18:16:43**
 
 ## 2024-11-09
 
+* [Multi-faceted  Tamil Actor Kamal Haasan is a Great Intellectual Among  Indian Film Stars.](data/articles/multi-faceted-tamil-acto.9d5f07b8/README.md) `dbsjeyaraj.com`
 * [Colombo has issues from housing to urban poverty – Ravindra Udayashantha](data/articles/colombo-has-issues-from.020be582/README.md) `dailymirror.lk`
 * [“Peoples verdict against Ranil , not justifiable” - Nimal Lanza](data/articles/peoples-verdict-against.3d5edae0/README.md) `dailymirror.lk`
+* [“ Parliament must be inclusive and representative of all ethnicities, caste and gender. It must also be a space where workers have representatives to speak for them. I am a woman, a Tamil and a Trade Unionist. The people and the politics we represent must have a space in Parliament.”- An Interview with Swasthika Arulingam](data/articles/parliament-must-be-incl.51c6e557/README.md) `dbsjeyaraj.com`
 * [“My vision is to create a society where women and children are free from abuse, exploitation”  - Apsari Tillakaratne](data/articles/my-vision-is-to-create.3a03f05e/README.md) `dailymirror.lk`
 * [“We must reclaim power from corrupted political and business elites’’ -  Swasthika Arulingam (PSA)](data/articles/we-must-reclaim-power-f.687970ed/README.md) `dailymirror.lk`
 * [A worthless debate over experience of leaders](data/articles/a-worthless-debate-over.c60378c4/README.md) `dailymirror.lk`
