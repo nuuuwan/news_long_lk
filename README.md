@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-09 18:16:43**
+Last Updated **2024-11-10 06:25:01**
 
 ## 2024-11-09
 
@@ -38,6 +38,7 @@ Last Updated **2024-11-09 18:16:43**
 * [The Second Coming of Trump: Prospects for war and peace](data/articles/the-second-coming-of-tru.f79c94ae/README.md) `dailymirror.lk`
 * [“government has absolutely no experience” – Rosy Senanayake](data/articles/government-has-absolute.1cf1464c/README.md) `dailymirror.lk`
 * [“We are engaged in a mission  to do clean politics”  – Samanmalee Gunasinghe](data/articles/we-are-engaged-in-a-mis.65cccb79/README.md) `dailymirror.lk`
+* [Boost Your Team’s Productivity by Hiring Force Multipliers](data/articles/boost-your-team-s-produc.fac18c59/README.md) `hbr.org`
 * [Don’t Overlook This Critical Skill When Interviewing Executives](data/articles/don-t-overlook-this-crit.3f87374a/README.md) `hbr.org`
 * [Research: Performance Reviews That Actually Motivate Employees](data/articles/research-performance-rev.ad2f70c6/README.md) `hbr.org`
 * [What’s next for reproductive rights in the US](data/articles/what-s-next-for-reproduc.8fce7dc2/README.md) `technologyreview.com`
