@@ -2,7 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-10 18:16:44**
+Last Updated **2024-11-11 06:24:49**
+
+## 2024-11-11
+
+* [EPDP ready to cooperate with govt, final decision will depend on outcome of polls - Douglas Devananda](data/articles/epdp-ready-to-cooperate.3c619aea/README.md) `dailymirror.lk`
+* [“It will be a National Govt. if we win,” - Dr. Harsha de Silva](data/articles/it-will-be-a-national-g.32a36c49/README.md) `dailymirror.lk`
+* [Only Ranil Wickremesinghe can revive the economy - Former Health Minister Rajitha Senaratne](data/articles/only-ranil-wickremesingh.fd79c2e0/README.md) `dailymirror.lk`
+* [Rise of new faces: Paradigm shift in east Muslim voter behaviour](data/articles/rise-of-new-faces-paradi.2fee7adb/README.md) `ft.lk`
+* [It is immature to depend on one person to solve country’s problem - Imthiaz Bakeer Markar](data/articles/it-is-immature-to-depend.1c7d5222/README.md) `dailymirror.lk`
+* [Urgent need to regulate media coverage of crimes against children](data/articles/urgent-need-to-regulate.6ee6800d/README.md) `ft.lk`
+* [AKD: Abandoning neoliberalism and embracing Kautilyan statism?](data/articles/akd-abandoning-neolibera.6d3dcaff/README.md) `ft.lk`
+* [Representation of minority groups in Parliament is in danger](data/articles/representation-of-minori.d80d8afb/README.md) `ft.lk`
+* [How COPF exposed Sri Lanka’s visa scam](data/articles/how-copf-exposed-sri-lan.f37d1861/README.md) `ft.lk`
+* [‘Once bitten twice shy’  and Thursday’s General election](data/articles/once-bitten-twice-shy-a.983ca435/README.md) `dailymirror.lk`
+
+## 2024-11-10
+
+* [The Tamil polity is severely fragmented today as a result of the leaders of  Tamil Political  parties acting without foresight and failing to realise their historic responsibilities](data/articles/the-tamil-polity-is-seve.44b2458e/README.md) `dbsjeyaraj.com`
 
 ## 2024-11-09
 
