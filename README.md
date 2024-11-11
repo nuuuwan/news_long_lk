@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-11 06:24:49**
+Last Updated **2024-11-11 18:19:32**
 
 ## 2024-11-11
 
+* [Science and technology stories in the age of Trump](data/articles/science-and-technology-s.c5950686/README.md) `technologyreview.com`
 * [EPDP ready to cooperate with govt, final decision will depend on outcome of polls - Douglas Devananda](data/articles/epdp-ready-to-cooperate.3c619aea/README.md) `dailymirror.lk`
 * [“It will be a National Govt. if we win,” - Dr. Harsha de Silva](data/articles/it-will-be-a-national-g.32a36c49/README.md) `dailymirror.lk`
 * [Only Ranil Wickremesinghe can revive the economy - Former Health Minister Rajitha Senaratne](data/articles/only-ranil-wickremesingh.fd79c2e0/README.md) `dailymirror.lk`
@@ -16,6 +17,7 @@ Last Updated **2024-11-11 06:24:49**
 * [Representation of minority groups in Parliament is in danger](data/articles/representation-of-minori.d80d8afb/README.md) `ft.lk`
 * [How COPF exposed Sri Lanka’s visa scam](data/articles/how-copf-exposed-sri-lan.f37d1861/README.md) `ft.lk`
 * [‘Once bitten twice shy’  and Thursday’s General election](data/articles/once-bitten-twice-shy-a.983ca435/README.md) `dailymirror.lk`
+* [“Without reforms SL will be dead in the water” – Dr. Harsha de Silva](data/articles/without-reforms-sl-will.f4fec302/README.md) `ft.lk`
 
 ## 2024-11-10
 
@@ -39,6 +41,7 @@ Last Updated **2024-11-11 06:24:49**
 * [A new hope to sweep a House clean?](data/articles/a-new-hope-to-sweep-a-ho.405bdcf9/README.md) `ft.lk`
 * [Muslim Personal Law Reform Action Group has its say over new Govt.’s stance on MMDA](data/articles/muslim-personal-law-refo.d5d5b9fe/README.md) `ft.lk`
 * [US finalises rules curbing outbound investment into China](data/articles/us-finalises-rules-curbi.78fbec02/README.md) `eiu.com`
+* [How to Answer “Why Should We Hire You?” in an Interview](data/articles/how-to-answer-why-should.eaa55730/README.md) `hbr.org`
 * [The Case for Taking a Gap Year Before College](data/articles/the-case-for-taking-a-ga.7fb0fb13/README.md) `hbr.org`
 * [No space for NPP’s Govt. to do past mistakes as SL can’t survive another crisis: Eran](data/articles/no-space-for-npp-s-govt.aaca1ef1/README.md) `ft.lk`
 * [What Trump’s victory means for Sri Lanka](data/articles/what-trump-s-victory-mea.19e08af5/README.md) `ft.lk`
@@ -89,6 +92,7 @@ Last Updated **2024-11-11 06:24:49**
 * [Central Bank defence of liquidity injections amid “money printing” controversy](data/articles/central-bank-defence-of.ffac5448/README.md) `ft.lk`
 * [Strategic focus and agility in unpredictable markets](data/articles/strategic-focus-and-agil.e4ccc1e4/README.md) `ft.lk`
 * [“President AKD’s Govt. revolves around policies of RW and MR” – Milinda Rajapaksa](data/articles/president-akd-s-govt-re.faaf9934/README.md) `ft.lk`
+* [Life-seeking, ice-melting robots could punch through Europa’s icy shell](data/articles/life-seeking-ice-melting.f1227ee8/README.md) `technologyreview.com`
 * [2024 ஜனாதிபதி தேர்தலில் வெற்றியின் வாசனையை அநுர குமார திசாநாயக்க எவ்வாறு முகர்ந்து பிடித்தார்?](data/articles/2024-ஜன-த-பத-த-ர-தல-ல-வ.d2af2030/README.md) `dbsjeyaraj.com`
 * [Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?](data/articles/who-is-the-mysterious-is.c30b36aa/README.md) `dbsjeyaraj.com`
 
