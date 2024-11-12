@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-12 06:25:10**
+Last Updated **2024-11-12 18:19:32**
 
 ## 2024-11-12
 
+* [Africa’s AI researchers are ready for takeoff](data/articles/africa-s-ai-researchers.2e0e98de/README.md) `technologyreview.com`
 * [Towards building a digital tourism fortress](data/articles/towards-building-a-digit.e656aee1/README.md) `ft.lk`
+* [Towards building a digital tourism fortress](data/articles/towards-building-a-digit.78cd9270/README.md) `ft.lk`
 * [How AKD won the presidency in  a fourteen fold quantum leap](data/articles/how-akd-won-the-presiden.76a7f2d3/README.md) `dailymirror.lk`
 * [Travails of OPD patients](data/articles/travails-of-opd-patients.2a8b0853/README.md) `dailymirror.lk`
 * [Child-friendly  schools](data/articles/child-friendly-schools.c6103ec9/README.md) `dailymirror.lk`
@@ -19,6 +21,7 @@ Last Updated **2024-11-12 06:25:10**
 
 ## 2024-11-11
 
+* [President Anura  Dissanayake Addressing Meeting in Jaffna Assures Tamils that  their Lands Seized by the State would be returned to them but  makes no reference to Greater Power Devolution or a Political Settlement to the Ethnic Question](data/articles/president-anura-dissanay.14797272/README.md) `dbsjeyaraj.com`
 * [To Become a Better Presenter, Look Inward](data/articles/to-become-a-better-prese.33c3cfab/README.md) `hbr.org`
 * [Navigating the New Geopolitics of Tech](data/articles/navigating-the-new-geopo.9fd9ab7b/README.md) `hbr.org`
 * [Science and technology stories in the age of Trump](data/articles/science-and-technology-s.c5950686/README.md) `technologyreview.com`
