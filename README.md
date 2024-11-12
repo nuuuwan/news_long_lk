@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-11 18:19:32**
+Last Updated **2024-11-12 06:25:10**
+
+## 2024-11-12
+
+* [Towards building a digital tourism fortress](data/articles/towards-building-a-digit.e656aee1/README.md) `ft.lk`
+* [How AKD won the presidency in  a fourteen fold quantum leap](data/articles/how-akd-won-the-presiden.76a7f2d3/README.md) `dailymirror.lk`
+* [Travails of OPD patients](data/articles/travails-of-opd-patients.2a8b0853/README.md) `dailymirror.lk`
+* [Child-friendly  schools](data/articles/child-friendly-schools.c6103ec9/README.md) `dailymirror.lk`
+* [“The Promise was a Necessity of the Past: the Word Broken is a Necessity of the Present.”  President Pledges Free Books and Kits for Children!](data/articles/the-promise-was-a-neces.27059355/README.md) `dailymirror.lk`
+* [Voter apathy might produce a distorted picture of the electorate - EDITORIAL](data/articles/voter-apathy-might-produ.387c4121/README.md) `dailymirror.lk`
+* [Lifting import ban on automobiles: Sri Lanka sleepwalks into disaster](data/articles/lifting-import-ban-on-au.d3af990c/README.md) `ft.lk`
+* [Politicisation of Foreign Service: Multidimensional and systemic challenge](data/articles/politicisation-of-foreig.61942fe6/README.md) `ft.lk`
+* [Monitoring and following-up spin-off decisions](data/articles/monitoring-and-following.baac501f/README.md) `ft.lk`
+* [Foreign direct investment opportunities in Sri Lanka: Sector-by-sector analysis](data/articles/foreign-direct-investmen.a2e629ae/README.md) `ft.lk`
 
 ## 2024-11-11
 
+* [To Become a Better Presenter, Look Inward](data/articles/to-become-a-better-prese.33c3cfab/README.md) `hbr.org`
+* [Navigating the New Geopolitics of Tech](data/articles/navigating-the-new-geopo.9fd9ab7b/README.md) `hbr.org`
 * [Science and technology stories in the age of Trump](data/articles/science-and-technology-s.c5950686/README.md) `technologyreview.com`
 * [EPDP ready to cooperate with govt, final decision will depend on outcome of polls - Douglas Devananda](data/articles/epdp-ready-to-cooperate.3c619aea/README.md) `dailymirror.lk`
 * [“It will be a National Govt. if we win,” - Dr. Harsha de Silva](data/articles/it-will-be-a-national-g.32a36c49/README.md) `dailymirror.lk`
