@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-12 18:19:32**
+Last Updated **2024-11-13 06:25:11**
+
+## 2024-11-13
+
+* [Class conflict shattered, politics returned to people](data/articles/class-conflict-shattered.8341f588/README.md) `ft.lk`
+* [Sharing to sustainability](data/articles/sharing-to-sustainabilit.3965ac7a/README.md) `ft.lk`
+* [Eradicate poverty sans charity; create dignity and sustainability](data/articles/eradicate-poverty-sans-c.5abbd85a/README.md) `ft.lk`
 
 ## 2024-11-12
 
+* [Gurunagar Church bombing – justice must be done even after 31 years](data/articles/gurunagar-church-bombing.cf9be0ff/README.md) `dailymirror.lk`
+* [Memories and message of Fr. Michael Rodrigo](data/articles/memories-and-message-of.13432fe6/README.md) `dailymirror.lk`
+* [The President and the Media](data/articles/the-president-and-the-me.e4652edf/README.md) `dailymirror.lk`
+* [General elections and system change](data/articles/general-elections-and-sy.1d86a63c/README.md) `dailymirror.lk`
+* [True AI Transformation Depends on the Power and Capacity of Solid-State Drives](data/articles/true-ai-transformation-d.c8ee7cea/README.md) `hbr.org`
+* [4 Research-Backed Ways to Help Your Team Collaborate Better](data/articles/4-research-backed-ways-t.3d2595eb/README.md) `hbr.org`
 * [Africa’s AI researchers are ready for takeoff](data/articles/africa-s-ai-researchers.2e0e98de/README.md) `technologyreview.com`
 * [Towards building a digital tourism fortress](data/articles/towards-building-a-digit.e656aee1/README.md) `ft.lk`
 * [Towards building a digital tourism fortress](data/articles/towards-building-a-digit.78cd9270/README.md) `ft.lk`

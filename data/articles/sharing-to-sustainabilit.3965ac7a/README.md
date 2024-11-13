@@ -1,0 +1,26 @@
+# Sharing to sustainability
+
+[https://www.ft.lk/columns/Sharing-to-sustainability/4-769189](https://www.ft.lk/columns/Sharing-to-sustainability/4-769189)
+
+*02:15 AM, Wednesday, November 13, 2024*
+
+Companies and schools can significantly reduce their carbon footprint by implementing ride-sharing apps for employees and students
+
+The Sri Lanka Institute of Directors (SLID) recently called upon Sri Lanka’s top business leaders to prioritise Sustainability, Governance, and Diversity (SGD) issues. With the global goal of achieving net-zero carbon emissions by 2050, significant challenges and opportunities lie ahead. While human history demonstrates our capacity for adaptation, tackling these issues requires a collaborative effort.
+
+Sharing resources: A sustainable solution
+
+SLID emphasises the importance of sharing resources as a key strategy for achieving sustainability. Here are two potential areas for fostering a sharing economy:
+
+Underutilised meeting spaces
+
+Numerous fully-equipped conference halls exist in Government buildings, including the Colombo Museum, Mahaweli Centre, Gramodaya Centre, Milloda Centre Fort, BOC auditorium Bristol Street, District Secretariat Building Narahenpita, Foreign Employment head office, Vocational Training Authority, Savsiripaya, Heavy Vehicle Training Centre, Water Board Training Centre Ratmalana, Disaster Recovery Ministry, etc. and school auditoriums. These are only the ones I have been to personally. Definitely the number must be closer to 50 with a collective seating capacity of a couple of thousand seats. Listing these facilities on a user-friendly platform like Booking.com can encourage Government institutions, donors, and even the private sector to utilise them efficiently. This generates additional revenue and promotes events with multi-location attendance capabilities.
+
+Organisation-wide ride-sharing apps
+
+Companies and schools can significantly reduce their carbon footprint by implementing ride-sharing apps for employees and students. This initiative reduces traffic congestion and emissions while fostering a sense of community and shared responsibility within organisations. Additionally, ride-sharing programs within schools leverage existing parental vehicles, addressing safety concerns. This approach also inculcates the value of sharing among younger generations.
+
+Taking action for a sustainable future
+
+By embracing a sharing economy and prioritising SGD principles, we can contribute significantly to a more sustainable future. The Sri Lanka Institute of Directors encourages all stakeholders to adopt these practices and work collaboratively towards a brighter tomorrow.
+
