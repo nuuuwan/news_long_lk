@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-13 06:25:11**
+Last Updated **2024-11-13 18:19:40**
 
 ## 2024-11-13
 
@@ -14,6 +14,7 @@ Last Updated **2024-11-13 06:25:11**
 
 * [Gurunagar Church bombing – justice must be done even after 31 years](data/articles/gurunagar-church-bombing.cf9be0ff/README.md) `dailymirror.lk`
 * [Memories and message of Fr. Michael Rodrigo](data/articles/memories-and-message-of.13432fe6/README.md) `dailymirror.lk`
+* [‘WIN’ urges govt. to address Gender Based Violence](data/articles/win-urges-govt-to-addre.ba8bb2b1/README.md) `dailymirror.lk`
 * [The President and the Media](data/articles/the-president-and-the-me.e4652edf/README.md) `dailymirror.lk`
 * [General elections and system change](data/articles/general-elections-and-sy.1d86a63c/README.md) `dailymirror.lk`
 * [True AI Transformation Depends on the Power and Capacity of Solid-State Drives](data/articles/true-ai-transformation-d.c8ee7cea/README.md) `hbr.org`
