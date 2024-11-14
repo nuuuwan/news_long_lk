@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-13 18:19:40**
+Last Updated **2024-11-14 06:25:16**
+
+## 2024-11-14
+
+* [Trump to secure US rights through tough but fair negotiations](data/articles/trump-to-secure-us-right.e284e702/README.md) `dailymirror.lk`
+* [Dear voters, your valuable vote matters the most! - EDITORIAL](data/articles/dear-voters-your-valuabl.2d10d7e7/README.md) `dailymirror.lk`
 
 ## 2024-11-13
 
+* [Strategy to deflate systemic debt and to support growth](data/articles/strategy-to-deflate-syst.4682f594/README.md) `ft.lk`
+* [Will the 2024 General elections redefine Sri Lanka’s political future?](data/articles/will-the-2024-general-el.0b28a689/README.md) `ft.lk`
+* [Trump’s triumph: American Revolution/counter-revolution and world order](data/articles/trump-s-triumph-american.c4b29477/README.md) `ft.lk`
+* [What we should learn from Nehru](data/articles/what-we-should-learn-fro.decfb44d/README.md) `ft.lk`
+* [Reality will dawn on 15 November; election promises should become legally enforceable](data/articles/reality-will-dawn-on-15.68b6d615/README.md) `ft.lk`
+* [How Anura Kumara Dissanayake Won the Presidency in a Fourteen Fold Quantum Leap from 3% in 2019 to 42% in 2024.](data/articles/how-anura-kumara-dissana.e46c9b04/README.md) `dbsjeyaraj.com`
+* [Let’s End Toxic Productivity](data/articles/let-s-end-toxic-producti.228afff8/README.md) `hbr.org`
+* [Why the U.S. Healthcare System Is So Much Worse Than Its Peers](data/articles/why-the-u-s-healthcare-s.ea7f19c4/README.md) `hbr.org`
+* [Your Employees Are Also Caregivers. Here’s How to Support Them.](data/articles/your-employees-are-also.f20b3404/README.md) `hbr.org`
 * [Class conflict shattered, politics returned to people](data/articles/class-conflict-shattered.8341f588/README.md) `ft.lk`
 * [Sharing to sustainability](data/articles/sharing-to-sustainabilit.3965ac7a/README.md) `ft.lk`
 * [Eradicate poverty sans charity; create dignity and sustainability](data/articles/eradicate-poverty-sans-c.5abbd85a/README.md) `ft.lk`
