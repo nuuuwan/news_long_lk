@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-14 06:25:16**
+Last Updated **2024-11-14 18:20:44**
 
 ## 2024-11-14
 
+* [What’s on the table at this year’s UN climate conference](data/articles/what-s-on-the-table-at-t.983d7e02/README.md) `technologyreview.com`
+* [Spotlight on Dehiattakandiya  Police retaliate after DWC officials bust bush meat trade](data/articles/spotlight-on-dehiattakan.0f2b9179/README.md) `dailymirror.lk`
 * [Trump to secure US rights through tough but fair negotiations](data/articles/trump-to-secure-us-right.e284e702/README.md) `dailymirror.lk`
 * [Dear voters, your valuable vote matters the most! - EDITORIAL](data/articles/dear-voters-your-valuabl.2d10d7e7/README.md) `dailymirror.lk`
 
@@ -52,6 +54,7 @@ Last Updated **2024-11-14 06:25:16**
 * [To Become a Better Presenter, Look Inward](data/articles/to-become-a-better-prese.33c3cfab/README.md) `hbr.org`
 * [Navigating the New Geopolitics of Tech](data/articles/navigating-the-new-geopo.9fd9ab7b/README.md) `hbr.org`
 * [Science and technology stories in the age of Trump](data/articles/science-and-technology-s.c5950686/README.md) `technologyreview.com`
+* [What Africa needs to do to become a major AI player](data/articles/what-africa-needs-to-do.59f081aa/README.md) `technologyreview.com`
 * [EPDP ready to cooperate with govt, final decision will depend on outcome of polls - Douglas Devananda](data/articles/epdp-ready-to-cooperate.3c619aea/README.md) `dailymirror.lk`
 * [“It will be a National Govt. if we win,” - Dr. Harsha de Silva](data/articles/it-will-be-a-national-g.32a36c49/README.md) `dailymirror.lk`
 * [Only Ranil Wickremesinghe can revive the economy - Former Health Minister Rajitha Senaratne](data/articles/only-ranil-wickremesingh.fd79c2e0/README.md) `dailymirror.lk`
