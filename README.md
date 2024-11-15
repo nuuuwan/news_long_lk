@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-14 18:20:44**
+Last Updated **2024-11-15 06:25:00**
+
+## 2024-11-15
+
+* [Sri Lanka’s financial revival: Creating markets that attract, engage, and prosper](data/articles/sri-lanka-s-financial-re.8661b127/README.md) `ft.lk`
+* [US election outcomes and trade policy changes: What it means for Sri Lanka](data/articles/us-election-outcomes-and.5d6edf21/README.md) `ft.lk`
+* [UN arms embargo on Israel: Dead on arrival](data/articles/un-arms-embargo-on-israe.98a7e24b/README.md) `ft.lk`
+* [National Unity Govt. Needs To Include Minority Parties](data/articles/national-unity-govt-need.b999d41f/README.md) `dailymirror.lk`
+* [A call from university teachers for a commitment to free education](data/articles/a-call-from-university-t.2c00e230/README.md) `dailymirror.lk`
+* [The daunting task before the new parliament](data/articles/the-daunting-task-before.2294cbe4/README.md) `dailymirror.lk`
+* [A nation where animals are valued ahead of humans! - EDITORIAL](data/articles/a-nation-where-animals-a.45233524/README.md) `dailymirror.lk`
 
 ## 2024-11-14
 
+* [When Your Manager Is Ineffective — and You Feel Stuck](data/articles/when-your-manager-is-ine.ae63cffe/README.md) `hbr.org`
 * [What’s on the table at this year’s UN climate conference](data/articles/what-s-on-the-table-at-t.983d7e02/README.md) `technologyreview.com`
 * [Spotlight on Dehiattakandiya  Police retaliate after DWC officials bust bush meat trade](data/articles/spotlight-on-dehiattakan.0f2b9179/README.md) `dailymirror.lk`
 * [Trump to secure US rights through tough but fair negotiations](data/articles/trump-to-secure-us-right.e284e702/README.md) `dailymirror.lk`
