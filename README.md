@@ -2,13 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-15 06:25:00**
+Last Updated **2024-11-15 18:21:27**
 
 ## 2024-11-15
 
 * [Sri Lanka’s financial revival: Creating markets that attract, engage, and prosper](data/articles/sri-lanka-s-financial-re.8661b127/README.md) `ft.lk`
 * [US election outcomes and trade policy changes: What it means for Sri Lanka](data/articles/us-election-outcomes-and.5d6edf21/README.md) `ft.lk`
 * [UN arms embargo on Israel: Dead on arrival](data/articles/un-arms-embargo-on-israe.98a7e24b/README.md) `ft.lk`
+* [President AK Dissanayake’s JVP led NPP With 159 Seats Makes History as First Party to get Two-thirds Majority under PR Voting System ; SJB -40,ITAK-8,NDF/UNP-6,SLPP-3,SLMC-3, One MP each for ACMC, DTNA, SB, ACTC, SLLP&Independent Group 14](data/articles/president-ak-dissanayake.cde40a14/README.md) `dbsjeyaraj.com`
+* [Sri Lanka’s Majority Sinhalese as well as Minority Tamils and Muslims Unitedly Responding Positively to President Dissanayake’s Call for a Clean Parliament by Electing 159 MPs but Depleted Weak Opposition may Threaten Fragile Democracy](data/articles/sri-lanka-s-majority-sin.aed710e6/README.md) `dbsjeyaraj.com`
+* [President Anura  Dissanayake’s National People’s Power Contesting Under Compass Symbol  Heads for Landslide Victory with Two-Thirds Majority: JVPled NPP Wins 65% of  Votes Declared so far](data/articles/president-anura-dissanay.6961a8a0/README.md) `dbsjeyaraj.com`
 * [National Unity Govt. Needs To Include Minority Parties](data/articles/national-unity-govt-need.b999d41f/README.md) `dailymirror.lk`
 * [A call from university teachers for a commitment to free education](data/articles/a-call-from-university-t.2c00e230/README.md) `dailymirror.lk`
 * [The daunting task before the new parliament](data/articles/the-daunting-task-before.2294cbe4/README.md) `dailymirror.lk`
@@ -16,7 +19,9 @@ Last Updated **2024-11-15 06:25:00**
 
 ## 2024-11-14
 
+* [What Trump’s Second Term Could Mean for DEI](data/articles/what-trump-s-second-term.1998cb69/README.md) `hbr.org`
 * [When Your Manager Is Ineffective — and You Feel Stuck](data/articles/when-your-manager-is-ine.ae63cffe/README.md) `hbr.org`
+* [How AI Can Help Your Company Set a Budget](data/articles/how-ai-can-help-your-com.55024745/README.md) `hbr.org`
 * [What’s on the table at this year’s UN climate conference](data/articles/what-s-on-the-table-at-t.983d7e02/README.md) `technologyreview.com`
 * [Spotlight on Dehiattakandiya  Police retaliate after DWC officials bust bush meat trade](data/articles/spotlight-on-dehiattakan.0f2b9179/README.md) `dailymirror.lk`
 * [Trump to secure US rights through tough but fair negotiations](data/articles/trump-to-secure-us-right.e284e702/README.md) `dailymirror.lk`
@@ -47,6 +52,7 @@ Last Updated **2024-11-15 06:25:00**
 * [True AI Transformation Depends on the Power and Capacity of Solid-State Drives](data/articles/true-ai-transformation-d.c8ee7cea/README.md) `hbr.org`
 * [4 Research-Backed Ways to Help Your Team Collaborate Better](data/articles/4-research-backed-ways-t.3d2595eb/README.md) `hbr.org`
 * [Africa’s AI researchers are ready for takeoff](data/articles/africa-s-ai-researchers.2e0e98de/README.md) `technologyreview.com`
+* [Generative AI taught a robot dog to scramble around a new environment](data/articles/generative-ai-taught-a-r.1e25c105/README.md) `technologyreview.com`
 * [Towards building a digital tourism fortress](data/articles/towards-building-a-digit.e656aee1/README.md) `ft.lk`
 * [Towards building a digital tourism fortress](data/articles/towards-building-a-digit.78cd9270/README.md) `ft.lk`
 * [How AKD won the presidency in  a fourteen fold quantum leap](data/articles/how-akd-won-the-presiden.76a7f2d3/README.md) `dailymirror.lk`
