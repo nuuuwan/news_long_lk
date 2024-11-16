@@ -1,0 +1,20 @@
+# A New Corporate Playbook for Navigating Political Uncertainty in Latin America
+
+[https://hbr.org/2024/11/a-new-corporate-playbook-for-navigating-political-uncertainty-in-latin-america](https://hbr.org/2024/11/a-new-corporate-playbook-for-navigating-political-uncertainty-in-latin-america)
+
+*01:25 PM, Friday, November 15, 2024*
+
+Roberto Cisneros/Getty Images
+
+Companies operating in Latin America and the Caribbean are facing a dynamic and increasingly complex political landscape. They can no longer rely on alliances with national government leaders in power or costly arbitration when things go awry. Instead, they need better strategies to manage risk. These include proactive social media listening to identify and head off or more quickly respond to looming challenges; a community-centric approach, including investments in projects that provide long-term benefits to ensure local support; partnerships with longstanding local businesses that intimately understand their market dynamics; and more robust contingency planning to ensure business continuity amid political unrest.
+
+In October 2023, First Quantum, operator of one of the world’s largest open-pit copper mines, suffered a major setback as it tried to negotiate a new contract with the government of Panama. Enraged by the terms of the contract and concerned about environmental damage, citizens took to the streets, demanding that the mine be shut down in protests that paralyzed the country.
+
+Read more on Politics
+
+Developing countries,
+
+International business,
+
+Operations and supply chain management,
+

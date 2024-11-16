@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-15 18:21:27**
+Last Updated **2024-11-16 06:25:30**
+
+## 2024-11-16
+
+* [The Anura tsunami and the challenge it is going to face](data/articles/the-anura-tsunami-and-th.e935bf06/README.md) `dailymirror.lk`
+* [A tsunami of political change hits Lanka](data/articles/a-tsunami-of-political-c.115a882c/README.md) `dailymirror.lk`
+* [“NPP, JVP can bring about changes to issues of Tamil community as they can’t be labelled as traitors to the Sinhala cause” Ahilan Kadirgamar](data/articles/npp-jvp-can-bring-about.5bccd3d1/README.md) `dailymirror.lk`
 
 ## 2024-11-15
 
+* [What is the meaning of NPP’s Parliamentary victory?](data/articles/what-is-the-meaning-of-n.3983d53b/README.md) `ft.lk`
+* [General Election 2024: Opportunity to work towards common purpose](data/articles/general-election-2024-op.2eabbdbb/README.md) `ft.lk`
+* [Celebrating Sri Lanka’s “bloodless revolution”](data/articles/celebrating-sri-lanka-s.9d9a332a/README.md) `ft.lk`
+* [Dismantle 76-year charade: Rename and celebrate Independence Day as Memorial Day from 2025 onwards](data/articles/dismantle-76-year-charad.2b17b551/README.md) `ft.lk`
+* [A New Corporate Playbook for Navigating Political Uncertainty in Latin America](data/articles/a-new-corporate-playbook.73a4b1ad/README.md) `hbr.org`
+* [’Tis the Season to Reflect on Your Professional Relationships](data/articles/tis-the-season-to-refle.27348d7d/README.md) `hbr.org`
+* [Why the term “women of childbearing age” is problematic](data/articles/why-the-term-women-of-ch.cc46979a/README.md) `technologyreview.com`
 * [Sri Lanka’s financial revival: Creating markets that attract, engage, and prosper](data/articles/sri-lanka-s-financial-re.8661b127/README.md) `ft.lk`
 * [US election outcomes and trade policy changes: What it means for Sri Lanka](data/articles/us-election-outcomes-and.5d6edf21/README.md) `ft.lk`
 * [UN arms embargo on Israel: Dead on arrival](data/articles/un-arms-embargo-on-israe.98a7e24b/README.md) `ft.lk`
