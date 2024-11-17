@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-17 06:25:06**
+Last Updated **2024-11-17 18:17:59**
 
 ## 2024-11-16
 
@@ -20,6 +20,7 @@ Last Updated **2024-11-17 06:25:06**
 * [Celebrating Sri Lanka’s “bloodless revolution”](data/articles/celebrating-sri-lanka-s.9d9a332a/README.md) `ft.lk`
 * [Dismantle 76-year charade: Rename and celebrate Independence Day as Memorial Day from 2025 onwards](data/articles/dismantle-76-year-charad.2b17b551/README.md) `ft.lk`
 * [A New Corporate Playbook for Navigating Political Uncertainty in Latin America](data/articles/a-new-corporate-playbook.73a4b1ad/README.md) `hbr.org`
+* [How 3 Companies Are Using AI to Mimic Expert Judgement](data/articles/how-3-companies-are-usin.aec47a69/README.md) `hbr.org`
 * [’Tis the Season to Reflect on Your Professional Relationships](data/articles/tis-the-season-to-refle.27348d7d/README.md) `hbr.org`
 * [Why the term “women of childbearing age” is problematic](data/articles/why-the-term-women-of-ch.cc46979a/README.md) `technologyreview.com`
 * [Sri Lanka’s financial revival: Creating markets that attract, engage, and prosper](data/articles/sri-lanka-s-financial-re.8661b127/README.md) `ft.lk`
