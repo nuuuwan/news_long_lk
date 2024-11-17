@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-16 18:18:05**
+Last Updated **2024-11-17 06:25:06**
 
 ## 2024-11-16
 
+* [“Marxism  is not a set philosophy. It is really about providing answers to people’s problems at a particular time and context. We are committed to doing that through development, eliminating rural poverty, rooting out political corruption, achieving social justice and national unity We want to build a clean and beautiful Sri Lanka.” – JVP General Secretary Tilvin Silva.](data/articles/marxism-is-not-a-set-ph.05a82fee/README.md) `dbsjeyaraj.com`
+* [The Historic 2024 Parliamentary Election marks the first time that Sri Lankans of all ethnicities across the country  spoke with a single voice, and placed their faith in a single leader- Anura  Kumara  Dissanayake](data/articles/the-historic-2024-parlia.cfd9edec/README.md) `dbsjeyaraj.com`
+* [President Anura Kumara Dissanayake-led National People’s Power  Emerges as the Unifying Force of Sri Lanka](data/articles/president-anura-kumara-d.9b9d2d71/README.md) `dbsjeyaraj.com`
 * [The Anura tsunami and the challenge it is going to face](data/articles/the-anura-tsunami-and-th.e935bf06/README.md) `dailymirror.lk`
 * [A tsunami of political change hits Lanka](data/articles/a-tsunami-of-political-c.115a882c/README.md) `dailymirror.lk`
 * [“NPP, JVP can bring about changes to issues of Tamil community as they can’t be labelled as traitors to the Sinhala cause” Ahilan Kadirgamar](data/articles/npp-jvp-can-bring-about.5bccd3d1/README.md) `dailymirror.lk`
