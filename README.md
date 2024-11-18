@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-17 18:17:59**
+Last Updated **2024-11-18 06:24:50**
+
+## 2024-11-18
+
+* [Sri Lanka’s maritime transformation: Strategic vision for 2024-2029](data/articles/sri-lanka-s-maritime-tra.4052ad0c/README.md) `ft.lk`
+* [Fragmented Island Unites: Significance of Stunning Victory](data/articles/fragmented-island-unites.f0b5bb74/README.md) `dailymirror.lk`
+* [Lessons from General Election and dangers from international powers - EDITORIAL](data/articles/lessons-from-general-ele.1f6155c1/README.md) `dailymirror.lk`
+* [Rice-price does not follow Law of Gravity](data/articles/rice-price-does-not-foll.05b04c42/README.md) `ft.lk`
+* [What has democracy got to do with unproductive coconut land?](data/articles/what-has-democracy-got-t.47ee4152/README.md) `ft.lk`
+* [IMF must respect voice of Sri Lankan voters](data/articles/imf-must-respect-voice-o.efca0a29/README.md) `ft.lk`
+* [Economic challenges of new Government: Road ahead not smooth, but treacherous](data/articles/economic-challenges-of-n.b151e9c6/README.md) `ft.lk`
 
 ## 2024-11-16
 
