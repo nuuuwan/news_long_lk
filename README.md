@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-18 06:24:50**
+Last Updated **2024-11-18 18:21:38**
 
 ## 2024-11-18
 
+* [The rise of Bluesky, and the splintering of social](data/articles/the-rise-of-bluesky-and.8c9f6521/README.md) `technologyreview.com`
 * [Sri Lanka’s maritime transformation: Strategic vision for 2024-2029](data/articles/sri-lanka-s-maritime-tra.4052ad0c/README.md) `ft.lk`
 * [Fragmented Island Unites: Significance of Stunning Victory](data/articles/fragmented-island-unites.f0b5bb74/README.md) `dailymirror.lk`
 * [Lessons from General Election and dangers from international powers - EDITORIAL](data/articles/lessons-from-general-ele.1f6155c1/README.md) `dailymirror.lk`
@@ -65,6 +66,7 @@ Last Updated **2024-11-18 06:24:50**
 * [Let’s End Toxic Productivity](data/articles/let-s-end-toxic-producti.228afff8/README.md) `hbr.org`
 * [Why the U.S. Healthcare System Is So Much Worse Than Its Peers](data/articles/why-the-u-s-healthcare-s.ea7f19c4/README.md) `hbr.org`
 * [Your Employees Are Also Caregivers. Here’s How to Support Them.](data/articles/your-employees-are-also.f20b3404/README.md) `hbr.org`
+* [The AI lab waging a guerrilla war over exploitative AI](data/articles/the-ai-lab-waging-a-guer.1d98782d/README.md) `technologyreview.com`
 * [Class conflict shattered, politics returned to people](data/articles/class-conflict-shattered.8341f588/README.md) `ft.lk`
 * [Sharing to sustainability](data/articles/sharing-to-sustainabilit.3965ac7a/README.md) `ft.lk`
 * [Eradicate poverty sans charity; create dignity and sustainability](data/articles/eradicate-poverty-sans-c.5abbd85a/README.md) `ft.lk`
