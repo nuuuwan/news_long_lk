@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-19 06:25:21**
+Last Updated **2024-11-19 18:21:09**
 
 ## 2024-11-19
 
+* [‘Another teen dies’ as corporal punishment haunts Sri Lanka again!](data/articles/another-teen-dies-as-co.95070e76/README.md) `dailymirror.lk`
 * [Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of  Jaffna](data/articles/anura-alai-wave-engulfs.0ac0a45f/README.md) `dailymirror.lk`
 * [Youth, victims of manipulative politicos](data/articles/youth-victims-of-manipul.15149a17/README.md) `dailymirror.lk`
 * [Autonomous Weapons, a euphemism for Killer Robots](data/articles/autonomous-weapons-a-eup.37c5cfc1/README.md) `dailymirror.lk`
@@ -18,6 +19,7 @@ Last Updated **2024-11-19 06:25:21**
 * [A ‘tectonic shift’ in  the plate of politics](data/articles/a-tectonic-shift-in-the.1593f181/README.md) `ft.lk`
 * [“Help us fall in love again”: Note to President and new Government of Sri Lanka](data/articles/help-us-fall-in-love-ag.b2b8a842/README.md) `ft.lk`
 * [Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara](data/articles/arugam-bay-is-not-gaza-a.39884684/README.md) `ft.lk`
+* [Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara](data/articles/arugam-bay-is-not-gaza-a.24a6c506/README.md) `ft.lk`
 * [Green Innovation Shows New Markets Don’t Have to Be Disruptive](data/articles/green-innovation-shows-n.39898a6c/README.md) `hbr.org`
 * [Generative AI Is Still Just a Prediction Machine](data/articles/generative-ai-is-still-j.548f2537/README.md) `hbr.org`
 * [The rise of Bluesky, and the splintering of social](data/articles/the-rise-of-bluesky-and.8c9f6521/README.md) `technologyreview.com`
@@ -66,6 +68,7 @@ Last Updated **2024-11-19 06:25:21**
 * [When Your Manager Is Ineffective — and You Feel Stuck](data/articles/when-your-manager-is-ine.ae63cffe/README.md) `hbr.org`
 * [How AI Can Help Your Company Set a Budget](data/articles/how-ai-can-help-your-com.55024745/README.md) `hbr.org`
 * [What’s on the table at this year’s UN climate conference](data/articles/what-s-on-the-table-at-t.983d7e02/README.md) `technologyreview.com`
+* [Google DeepMind has a new way to look inside an AI’s “mind”](data/articles/google-deepmind-has-a-ne.e5f0bf86/README.md) `technologyreview.com`
 * [Spotlight on Dehiattakandiya  Police retaliate after DWC officials bust bush meat trade](data/articles/spotlight-on-dehiattakan.0f2b9179/README.md) `dailymirror.lk`
 * [Trump to secure US rights through tough but fair negotiations](data/articles/trump-to-secure-us-right.e284e702/README.md) `dailymirror.lk`
 * [Dear voters, your valuable vote matters the most! - EDITORIAL](data/articles/dear-voters-your-valuabl.2d10d7e7/README.md) `dailymirror.lk`
