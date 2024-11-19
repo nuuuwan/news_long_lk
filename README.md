@@ -2,12 +2,27 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-18 18:21:38**
+Last Updated **2024-11-19 06:25:21**
+
+## 2024-11-19
+
+* [Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of  Jaffna](data/articles/anura-alai-wave-engulfs.0ac0a45f/README.md) `dailymirror.lk`
+* [Youth, victims of manipulative politicos](data/articles/youth-victims-of-manipul.15149a17/README.md) `dailymirror.lk`
+* [Autonomous Weapons, a euphemism for Killer Robots](data/articles/autonomous-weapons-a-eup.37c5cfc1/README.md) `dailymirror.lk`
+* [Break the paddy mafia!](data/articles/break-the-paddy-mafia.1ffa74c5/README.md) `dailymirror.lk`
+* [Team spirit and political will matter the most- EDITORIAL](data/articles/team-spirit-and-politica.00d46e0e/README.md) `dailymirror.lk`
 
 ## 2024-11-18
 
+* [Poverty of CBSL’s monetary policies: Part 1](data/articles/poverty-of-cbsl-s-moneta.8325f707/README.md) `ft.lk`
+* [A ‘tectonic shift’ in  the plate of politics](data/articles/a-tectonic-shift-in-the.1593f181/README.md) `ft.lk`
+* [“Help us fall in love again”: Note to President and new Government of Sri Lanka](data/articles/help-us-fall-in-love-ag.b2b8a842/README.md) `ft.lk`
+* [Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara](data/articles/arugam-bay-is-not-gaza-a.39884684/README.md) `ft.lk`
+* [Green Innovation Shows New Markets Don’t Have to Be Disruptive](data/articles/green-innovation-shows-n.39898a6c/README.md) `hbr.org`
+* [Generative AI Is Still Just a Prediction Machine](data/articles/generative-ai-is-still-j.548f2537/README.md) `hbr.org`
 * [The rise of Bluesky, and the splintering of social](data/articles/the-rise-of-bluesky-and.8c9f6521/README.md) `technologyreview.com`
 * [Sri Lanka’s maritime transformation: Strategic vision for 2024-2029](data/articles/sri-lanka-s-maritime-tra.4052ad0c/README.md) `ft.lk`
+* [The breadth and the depth of the NPP/JVP’s parliamentary victory is unimagined and unimaginable in rational and historical terms. The new  govt has enough power to do everything it has promised from alleviating economic misery and ending corruption to abolishing the executive presidency and enacting a new constitution.](data/articles/the-breadth-and-the-dept.05f4d119/README.md) `dbsjeyaraj.com`
 * [Fragmented Island Unites: Significance of Stunning Victory](data/articles/fragmented-island-unites.f0b5bb74/README.md) `dailymirror.lk`
 * [Lessons from General Election and dangers from international powers - EDITORIAL](data/articles/lessons-from-general-ele.1f6155c1/README.md) `dailymirror.lk`
 * [Rice-price does not follow Law of Gravity](data/articles/rice-price-does-not-foll.05b04c42/README.md) `ft.lk`
