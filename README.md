@@ -2,10 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-19 18:21:09**
+Last Updated **2024-11-20 06:25:11**
+
+## 2024-11-20
+
+* [Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics](data/articles/remarkable-rise-of-anura.ceebe3e9/README.md) `ft.lk`
+* [New era of hope  and responsibility](data/articles/new-era-of-hope-and-resp.23a0787f/README.md) `ft.lk`
+* [The people have spoken: Can the NPP transform promises into progress?](data/articles/the-people-have-spoken-c.6e2a5ab9/README.md) `ft.lk`
+* [Ministers the country is blessed with](data/articles/ministers-the-country-is.55a652f5/README.md) `ft.lk`
+* [Purge of human jobs: How to profit from AI disruption](data/articles/purge-of-human-jobs-how.293f6ae2/README.md) `ft.lk`
+* [Academics, professionals receive slots in  newly elected Cabinet](data/articles/academics-professionals.ad58dd56/README.md) `dailymirror.lk`
 
 ## 2024-11-19
 
+* [35 Years of Child Rights: A bold call to end violence against Sri Lanka’s children](data/articles/35-years-of-child-rights.b17f31c1/README.md) `dailymirror.lk`
+* [Asia and the Pacific UN conference calls for efforts to make gender equality](data/articles/asia-and-the-pacific-un.f0438d29/README.md) `dailymirror.lk`
+* [Promise and caution: What the NPP epic victory augurs for Sri Lanka](data/articles/promise-and-caution-what.cf06a993/README.md) `dailymirror.lk`
+* [New president, new MPs and a joker in the ‘House’](data/articles/new-president-new-mps-an.0ec24fb3/README.md) `dailymirror.lk`
+* [Balancing Bold, Fast, and Responsible AI Deployment](data/articles/balancing-bold-fast-and.a45f14da/README.md) `hbr.org`
+* [Reframe the Value Proposition of Diversity](data/articles/reframe-the-value-propos.23648fda/README.md) `hbr.org`
+* [What Sets AI-Driven Companies Apart](data/articles/what-sets-ai-driven-comp.5acd0383/README.md) `hbr.org`
 * [‘Another teen dies’ as corporal punishment haunts Sri Lanka again!](data/articles/another-teen-dies-as-co.95070e76/README.md) `dailymirror.lk`
 * [Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of  Jaffna](data/articles/anura-alai-wave-engulfs.0ac0a45f/README.md) `dailymirror.lk`
 * [Youth, victims of manipulative politicos](data/articles/youth-victims-of-manipul.15149a17/README.md) `dailymirror.lk`
