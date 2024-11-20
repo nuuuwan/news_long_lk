@@ -1,5 +1,12 @@
 [
   {
+    "title": "Who\u2019s to blame for climate change? It\u2019s surprisingly complicated.",
+    "url": "https://www.technologyreview.com/2024/11/20/1107015/global-climate-emissions/",
+    "ut": 1732062600.0,
+    "dir_path_unix": "data/articles/who-s-to-blame-for-clima.801f7d95",
+    "time_str_formatted": "06:00 AM, Wednesday, November 20, 2024"
+  },
+  {
     "title": "Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics",
     "url": "https://www.ft.lk/columns/Remarkable-rise-of-Anura-Kumara-Dissanayake-in-Sri-Lankan-politics/4-769434",
     "ut": 1732062472.0,
@@ -35,10 +42,24 @@
     "time_str_formatted": "05:38 AM, Wednesday, November 20, 2024"
   },
   {
+    "title": "Anura \u201cAlai\u201d(Wave) Engulfs  the Tamil Nationalist Stronghold of  Jaffna. JVP/NPP Comes First in Jaffna with Three of Six Seats",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85098",
+    "ut": 1732045294.0,
+    "dir_path_unix": "data/articles/anura-alai-wave-engulfs.df675e83",
+    "time_str_formatted": "01:11 AM, Wednesday, November 20, 2024"
+  },
+  {
     "title": "Academics, professionals receive slots in  newly elected Cabinet",
     "url": "https://www.dailymirror.lk/opinion/Academics-professionals-receive-slots-in-newly-elected-Cabinet/172-296340",
     "ut": 1732042307.0,
     "dir_path_unix": "data/articles/academics-professionals.ad58dd56",
+    "time_str_formatted": "12:21 AM, Wednesday, November 20, 2024"
+  },
+  {
+    "title": "Academics, professionals receive slots in  newly elected Cabinet",
+    "url": "https://www.dailymirror.lk/plus/Academics-professionals-receive-slots-in-newly-elected-Cabinet/352-296340",
+    "ut": 1732042307.0,
+    "dir_path_unix": "data/articles/academics-professionals.9a65ea8b",
     "time_str_formatted": "12:21 AM, Wednesday, November 20, 2024"
   },
   {
@@ -89,6 +110,13 @@
     "ut": 1732002303.0,
     "dir_path_unix": "data/articles/what-sets-ai-driven-comp.5acd0383",
     "time_str_formatted": "01:15 PM, Tuesday, November 19, 2024"
+  },
+  {
+    "title": "8 Questions to Ask About Your Globalization Strategy Right Now",
+    "url": "https://hbr.org/2024/11/8-questions-to-ask-about-your-globalization-strategy-right-now",
+    "ut": 1732001712.0,
+    "dir_path_unix": "data/articles/8-questions-to-ask-about.6c31022d",
+    "time_str_formatted": "01:05 PM, Tuesday, November 19, 2024"
   },
   {
     "title": "\u2018Another teen dies\u2019 as corporal punishment haunts Sri Lanka again!",
@@ -341,6 +369,13 @@
     "ut": 1731655001.0,
     "dir_path_unix": "data/articles/why-the-term-women-of-ch.cc46979a",
     "time_str_formatted": "12:46 PM, Friday, November 15, 2024"
+  },
+  {
+    "title": "How this grassroots effort could make AI voices more diverse",
+    "url": "https://www.technologyreview.com/2024/11/15/1106935/how-this-grassroots-effort-could-make-ai-voices-more-diverse/",
+    "ut": 1731628485.0,
+    "dir_path_unix": "data/articles/how-this-grassroots-effo.20e13df5",
+    "time_str_formatted": "05:24 AM, Friday, November 15, 2024"
   },
   {
     "title": "Sri Lanka\u2019s financial revival: Creating markets that attract, engage, and prosper",

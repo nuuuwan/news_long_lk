@@ -2,16 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-20 06:25:11**
+Last Updated **2024-11-20 18:21:42**
 
 ## 2024-11-20
 
+* [Who’s to blame for climate change? It’s surprisingly complicated.](data/articles/who-s-to-blame-for-clima.801f7d95/README.md) `technologyreview.com`
 * [Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics](data/articles/remarkable-rise-of-anura.ceebe3e9/README.md) `ft.lk`
 * [New era of hope  and responsibility](data/articles/new-era-of-hope-and-resp.23a0787f/README.md) `ft.lk`
 * [The people have spoken: Can the NPP transform promises into progress?](data/articles/the-people-have-spoken-c.6e2a5ab9/README.md) `ft.lk`
 * [Ministers the country is blessed with](data/articles/ministers-the-country-is.55a652f5/README.md) `ft.lk`
 * [Purge of human jobs: How to profit from AI disruption](data/articles/purge-of-human-jobs-how.293f6ae2/README.md) `ft.lk`
+* [Anura “Alai”(Wave) Engulfs  the Tamil Nationalist Stronghold of  Jaffna. JVP/NPP Comes First in Jaffna with Three of Six Seats](data/articles/anura-alai-wave-engulfs.df675e83/README.md) `dbsjeyaraj.com`
 * [Academics, professionals receive slots in  newly elected Cabinet](data/articles/academics-professionals.ad58dd56/README.md) `dailymirror.lk`
+* [Academics, professionals receive slots in  newly elected Cabinet](data/articles/academics-professionals.9a65ea8b/README.md) `dailymirror.lk`
 
 ## 2024-11-19
 
@@ -22,6 +25,7 @@ Last Updated **2024-11-20 06:25:11**
 * [Balancing Bold, Fast, and Responsible AI Deployment](data/articles/balancing-bold-fast-and.a45f14da/README.md) `hbr.org`
 * [Reframe the Value Proposition of Diversity](data/articles/reframe-the-value-propos.23648fda/README.md) `hbr.org`
 * [What Sets AI-Driven Companies Apart](data/articles/what-sets-ai-driven-comp.5acd0383/README.md) `hbr.org`
+* [8 Questions to Ask About Your Globalization Strategy Right Now](data/articles/8-questions-to-ask-about.6c31022d/README.md) `hbr.org`
 * [‘Another teen dies’ as corporal punishment haunts Sri Lanka again!](data/articles/another-teen-dies-as-co.95070e76/README.md) `dailymirror.lk`
 * [Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of  Jaffna](data/articles/anura-alai-wave-engulfs.0ac0a45f/README.md) `dailymirror.lk`
 * [Youth, victims of manipulative politicos](data/articles/youth-victims-of-manipul.15149a17/README.md) `dailymirror.lk`
@@ -67,6 +71,7 @@ Last Updated **2024-11-20 06:25:11**
 * [How 3 Companies Are Using AI to Mimic Expert Judgement](data/articles/how-3-companies-are-usin.aec47a69/README.md) `hbr.org`
 * [’Tis the Season to Reflect on Your Professional Relationships](data/articles/tis-the-season-to-refle.27348d7d/README.md) `hbr.org`
 * [Why the term “women of childbearing age” is problematic](data/articles/why-the-term-women-of-ch.cc46979a/README.md) `technologyreview.com`
+* [How this grassroots effort could make AI voices more diverse](data/articles/how-this-grassroots-effo.20e13df5/README.md) `technologyreview.com`
 * [Sri Lanka’s financial revival: Creating markets that attract, engage, and prosper](data/articles/sri-lanka-s-financial-re.8661b127/README.md) `ft.lk`
 * [US election outcomes and trade policy changes: What it means for Sri Lanka](data/articles/us-election-outcomes-and.5d6edf21/README.md) `ft.lk`
 * [UN arms embargo on Israel: Dead on arrival](data/articles/un-arms-embargo-on-israe.98a7e24b/README.md) `ft.lk`
