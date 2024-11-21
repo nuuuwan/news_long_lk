@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-20 18:21:42**
+Last Updated **2024-11-21 06:25:18**
+
+## 2024-11-21
+
+* [AKD and JVP-NPP’s mega-mandate: Re-founding the nation](data/articles/akd-and-jvp-npp-s-mega-m.e379e7e4/README.md) `ft.lk`
+* [New chapter for Sri Lanka: Call for responsible governance](data/articles/new-chapter-for-sri-lank.110dc76a/README.md) `ft.lk`
+* [The politics of inconveniencing the other must stop!](data/articles/the-politics-of-inconven.fd410654/README.md) `dailymirror.lk`
+* [Another landmark today for Lanka - EDITORIAL](data/articles/another-landmark-today-f.86856139/README.md) `dailymirror.lk`
 
 ## 2024-11-20
 
+* [AI can now create a replica of your personality](data/articles/ai-can-now-create-a-repl.675adebc/README.md) `technologyreview.com`
 * [Who’s to blame for climate change? It’s surprisingly complicated.](data/articles/who-s-to-blame-for-clima.801f7d95/README.md) `technologyreview.com`
 * [Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics](data/articles/remarkable-rise-of-anura.ceebe3e9/README.md) `ft.lk`
 * [New era of hope  and responsibility](data/articles/new-era-of-hope-and-resp.23a0787f/README.md) `ft.lk`
