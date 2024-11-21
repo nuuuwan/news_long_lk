@@ -1,5 +1,12 @@
 [
   {
+    "title": "China\u2019s complicated role in climate change",
+    "url": "https://www.technologyreview.com/2024/11/21/1107092/china-climate-change/",
+    "ut": 1732149000.0,
+    "dir_path_unix": "data/articles/china-s-complicated-role.45a8539b",
+    "time_str_formatted": "06:00 AM, Thursday, November 21, 2024"
+  },
+  {
     "title": "AKD and JVP-NPP\u2019s mega-mandate: Re-founding the nation",
     "url": "https://www.ft.lk/columns/AKD-and-JVP-NPP-s-mega-mandate-Re-founding-the-nation/4-769507",
     "ut": 1732137491.0,
@@ -12,6 +19,13 @@
     "ut": 1732137096.0,
     "dir_path_unix": "data/articles/new-chapter-for-sri-lank.110dc76a",
     "time_str_formatted": "02:41 AM, Thursday, November 21, 2024"
+  },
+  {
+    "title": "\u2018Beautiful Badulla made ugly\u2019 as communities yearn for clean water, sanitary facilities",
+    "url": "https://www.dailymirror.lk/plus/Beautiful-Badulla-made-ugly-as-communities-yearn-for-clean-water-sanitary-facilities/352-296440",
+    "ut": 1732134543.0,
+    "dir_path_unix": "data/articles/beautiful-badulla-made.c6aec8f6",
+    "time_str_formatted": "01:59 AM, Thursday, November 21, 2024"
   },
   {
     "title": "The politics of inconveniencing the other must stop!",
@@ -33,6 +47,20 @@
     "ut": 1732107129.0,
     "dir_path_unix": "data/articles/ai-can-now-create-a-repl.675adebc",
     "time_str_formatted": "06:22 PM, Wednesday, November 20, 2024"
+  },
+  {
+    "title": "How to Use Games to Build Relationships with Your Customers",
+    "url": "https://hbr.org/2024/11/how-to-use-games-to-build-relationships-with-your-customers",
+    "ut": 1732089335.0,
+    "dir_path_unix": "data/articles/how-to-use-games-to-buil.84fdba81",
+    "time_str_formatted": "01:25 PM, Wednesday, November 20, 2024"
+  },
+  {
+    "title": "To Mitigate Gen AI\u2019s Risks, Draw on Your Team\u2019s Collective Judgment",
+    "url": "https://hbr.org/2024/11/to-mitigate-gen-ais-risks-draw-on-your-teams-collective-judgment",
+    "ut": 1732088739.0,
+    "dir_path_unix": "data/articles/to-mitigate-gen-ai-s-ris.bedfaf7d",
+    "time_str_formatted": "01:15 PM, Wednesday, November 20, 2024"
   },
   {
     "title": "Who\u2019s to blame for climate change? It\u2019s surprisingly complicated.",
@@ -152,6 +180,13 @@
     "ut": 1732001712.0,
     "dir_path_unix": "data/articles/8-questions-to-ask-about.6c31022d",
     "time_str_formatted": "01:05 PM, Tuesday, November 19, 2024"
+  },
+  {
+    "title": "How the largest gathering of US police chiefs is talking about AI",
+    "url": "https://www.technologyreview.com/2024/11/19/1106979/how-the-largest-gathering-of-us-police-chiefs-is-talking-about-ai/",
+    "ut": 1731972600.0,
+    "dir_path_unix": "data/articles/how-the-largest-gatherin.1c92ec39",
+    "time_str_formatted": "05:00 AM, Tuesday, November 19, 2024"
   },
   {
     "title": "\u2018Another teen dies\u2019 as corporal punishment haunts Sri Lanka again!",

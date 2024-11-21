@@ -2,18 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-21 06:25:18**
+Last Updated **2024-11-21 18:21:44**
 
 ## 2024-11-21
 
+* [China’s complicated role in climate change](data/articles/china-s-complicated-role.45a8539b/README.md) `technologyreview.com`
 * [AKD and JVP-NPP’s mega-mandate: Re-founding the nation](data/articles/akd-and-jvp-npp-s-mega-m.e379e7e4/README.md) `ft.lk`
 * [New chapter for Sri Lanka: Call for responsible governance](data/articles/new-chapter-for-sri-lank.110dc76a/README.md) `ft.lk`
+* [‘Beautiful Badulla made ugly’ as communities yearn for clean water, sanitary facilities](data/articles/beautiful-badulla-made.c6aec8f6/README.md) `dailymirror.lk`
 * [The politics of inconveniencing the other must stop!](data/articles/the-politics-of-inconven.fd410654/README.md) `dailymirror.lk`
 * [Another landmark today for Lanka - EDITORIAL](data/articles/another-landmark-today-f.86856139/README.md) `dailymirror.lk`
 
 ## 2024-11-20
 
 * [AI can now create a replica of your personality](data/articles/ai-can-now-create-a-repl.675adebc/README.md) `technologyreview.com`
+* [How to Use Games to Build Relationships with Your Customers](data/articles/how-to-use-games-to-buil.84fdba81/README.md) `hbr.org`
+* [To Mitigate Gen AI’s Risks, Draw on Your Team’s Collective Judgment](data/articles/to-mitigate-gen-ai-s-ris.bedfaf7d/README.md) `hbr.org`
 * [Who’s to blame for climate change? It’s surprisingly complicated.](data/articles/who-s-to-blame-for-clima.801f7d95/README.md) `technologyreview.com`
 * [Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics](data/articles/remarkable-rise-of-anura.ceebe3e9/README.md) `ft.lk`
 * [New era of hope  and responsibility](data/articles/new-era-of-hope-and-resp.23a0787f/README.md) `ft.lk`
@@ -34,6 +38,7 @@ Last Updated **2024-11-21 06:25:18**
 * [Reframe the Value Proposition of Diversity](data/articles/reframe-the-value-propos.23648fda/README.md) `hbr.org`
 * [What Sets AI-Driven Companies Apart](data/articles/what-sets-ai-driven-comp.5acd0383/README.md) `hbr.org`
 * [8 Questions to Ask About Your Globalization Strategy Right Now](data/articles/8-questions-to-ask-about.6c31022d/README.md) `hbr.org`
+* [How the largest gathering of US police chiefs is talking about AI](data/articles/how-the-largest-gatherin.1c92ec39/README.md) `technologyreview.com`
 * [‘Another teen dies’ as corporal punishment haunts Sri Lanka again!](data/articles/another-teen-dies-as-co.95070e76/README.md) `dailymirror.lk`
 * [Anura “Alai”(Wave) Engulfs Tamil Nationalist Stronghold of  Jaffna](data/articles/anura-alai-wave-engulfs.0ac0a45f/README.md) `dailymirror.lk`
 * [Youth, victims of manipulative politicos](data/articles/youth-victims-of-manipul.15149a17/README.md) `dailymirror.lk`
