@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-22 06:25:19**
+Last Updated **2024-11-22 18:20:50**
 
 ## 2024-11-22
 
+* [Who should get a uterus transplant? Experts aren’t sure.](data/articles/who-should-get-a-uterus.62ef4899/README.md) `technologyreview.com`
 * [Brand AKD defies marketing theory to win](data/articles/brand-akd-defies-marketi.c6c177e5/README.md) `ft.lk`
 * [A pile of welcome shifts in the plate tectonics of local politics](data/articles/a-pile-of-welcome-shifts.c3dc3636/README.md) `ft.lk`
 * [Prioritise justice and reconciliation following election victory](data/articles/prioritise-justice-and-r.396e3f6c/README.md) `ft.lk`
@@ -18,8 +19,11 @@ Last Updated **2024-11-22 06:25:19**
 
 * [Biden’s legacy: Gaza genocide and now possible nuclear war in Europe](data/articles/biden-s-legacy-gaza-geno.fd44f5c7/README.md) `dailymirror.lk`
 * [The President has a plan that includes everyone - EDITORIAL](data/articles/the-president-has-a-plan.c878ab6d/README.md) `dailymirror.lk`
+* [3 சதவீதத்தில் இருந்து 42 சதவீதமாக பதினான்கு மடங்கு பாய்ச்சலில் அநுர குமார திசாநாயக்க எவ்வாறு ஜனாதிபதி பதவியை வென்றெடுத்தார்?](data/articles/3-சதவ-தத-த-ல-இர-ந-த-42-ச.f20de215/README.md) `dbsjeyaraj.com`
 * [Ethical AI and the Pursuit of Progressive Human Innovation in Canada](data/articles/ethical-ai-and-the-pursu.cec1de24/README.md) `hbr.org`
 * [“Today, all communities across all provinces have trusted us and granted us this power. It is with profound gratitude that I extend my deepest respect and thanks to the people who trusted us.”-President Anura Kumara Dissanayake](data/articles/today-all-communities-a.1809114c/README.md) `dbsjeyaraj.com`
+* [Why Isn’t Healthcare More Personalized?](data/articles/why-isn-t-healthcare-mor.63ac5032/README.md) `hbr.org`
+* [When Expressing Gratitude to Employees, Timing Matters](data/articles/when-expressing-gratitud.3cde6cba/README.md) `hbr.org`
 * [China’s complicated role in climate change](data/articles/china-s-complicated-role.45a8539b/README.md) `technologyreview.com`
 * [AKD and JVP-NPP’s mega-mandate: Re-founding the nation](data/articles/akd-and-jvp-npp-s-mega-m.e379e7e4/README.md) `ft.lk`
 * [New chapter for Sri Lanka: Call for responsible governance](data/articles/new-chapter-for-sri-lank.110dc76a/README.md) `ft.lk`
