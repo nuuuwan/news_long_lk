@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-21 18:21:44**
+Last Updated **2024-11-22 06:25:19**
+
+## 2024-11-22
+
+* [Brand AKD defies marketing theory to win](data/articles/brand-akd-defies-marketi.c6c177e5/README.md) `ft.lk`
+* [A pile of welcome shifts in the plate tectonics of local politics](data/articles/a-pile-of-welcome-shifts.c3dc3636/README.md) `ft.lk`
+* [Prioritise justice and reconciliation following election victory](data/articles/prioritise-justice-and-r.396e3f6c/README.md) `ft.lk`
+* [Sri Lanka’s SMEs: Debt-trapped dilemma](data/articles/sri-lanka-s-smes-debt-tr.8be921c2/README.md) `ft.lk`
+* [Pathway for economic development of Sri Lanka](data/articles/pathway-for-economic-dev.1a80ccbe/README.md) `ft.lk`
+* [After a traumatic change, Bangladesh yet to find its feet](data/articles/after-a-traumatic-change.5bc3601c/README.md) `dailymirror.lk`
+* [Strengthening Sri Lanka’s Flood Rescue Capabilities](data/articles/strengthening-sri-lanka.213f7a83/README.md) `dailymirror.lk`
 
 ## 2024-11-21
 
+* [Biden’s legacy: Gaza genocide and now possible nuclear war in Europe](data/articles/biden-s-legacy-gaza-geno.fd44f5c7/README.md) `dailymirror.lk`
+* [The President has a plan that includes everyone - EDITORIAL](data/articles/the-president-has-a-plan.c878ab6d/README.md) `dailymirror.lk`
+* [Ethical AI and the Pursuit of Progressive Human Innovation in Canada](data/articles/ethical-ai-and-the-pursu.cec1de24/README.md) `hbr.org`
+* [“Today, all communities across all provinces have trusted us and granted us this power. It is with profound gratitude that I extend my deepest respect and thanks to the people who trusted us.”-President Anura Kumara Dissanayake](data/articles/today-all-communities-a.1809114c/README.md) `dbsjeyaraj.com`
 * [China’s complicated role in climate change](data/articles/china-s-complicated-role.45a8539b/README.md) `technologyreview.com`
 * [AKD and JVP-NPP’s mega-mandate: Re-founding the nation](data/articles/akd-and-jvp-npp-s-mega-m.e379e7e4/README.md) `ft.lk`
 * [New chapter for Sri Lanka: Call for responsible governance](data/articles/new-chapter-for-sri-lank.110dc76a/README.md) `ft.lk`
@@ -24,6 +38,7 @@ Last Updated **2024-11-21 18:21:44**
 * [The people have spoken: Can the NPP transform promises into progress?](data/articles/the-people-have-spoken-c.6e2a5ab9/README.md) `ft.lk`
 * [Ministers the country is blessed with](data/articles/ministers-the-country-is.55a652f5/README.md) `ft.lk`
 * [Purge of human jobs: How to profit from AI disruption](data/articles/purge-of-human-jobs-how.293f6ae2/README.md) `ft.lk`
+* [Inside Clear’s ambitions to manage your identity beyond the airport](data/articles/inside-clear-s-ambitions.73a51eeb/README.md) `technologyreview.com`
 * [Anura “Alai”(Wave) Engulfs  the Tamil Nationalist Stronghold of  Jaffna. JVP/NPP Comes First in Jaffna with Three of Six Seats](data/articles/anura-alai-wave-engulfs.df675e83/README.md) `dbsjeyaraj.com`
 * [Academics, professionals receive slots in  newly elected Cabinet](data/articles/academics-professionals.ad58dd56/README.md) `dailymirror.lk`
 * [Academics, professionals receive slots in  newly elected Cabinet](data/articles/academics-professionals.9a65ea8b/README.md) `dailymirror.lk`
