@@ -2,11 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-22 18:20:50**
+Last Updated **2024-11-23 06:25:12**
+
+## 2024-11-23
+
+* [Minority support and a Cabinet without Muslims](data/articles/minority-support-and-a-c.f0276433/README.md) `dailymirror.lk`
+* [Pleasant surprises, sinister events ‘boggle the mind’](data/articles/pleasant-surprises-sinis.9645affa/README.md) `dailymirror.lk`
+* [New govt need space to act on people’s mandate for change](data/articles/new-govt-need-space-to-a.1a81a5ad/README.md) `dailymirror.lk`
+* [New Govt. focuses on Easter bombings 2019 investigation](data/articles/new-govt-focuses-on-east.78bcd5e1/README.md) `ft.lk`
 
 ## 2024-11-22
 
+* [No Muslim in Cabinet: Does that matter?](data/articles/no-muslim-in-cabinet-doe.5e3e5513/README.md) `ft.lk`
+* [A Tamil’s take on  Sri Lanka’s historic 2024 Parliamentary elections](data/articles/a-tamil-s-take-on-sri-la.d7e207a3/README.md) `ft.lk`
+* [To include or not to include a Muslim Minister](data/articles/to-include-or-not-to-inc.ab28e372/README.md) `ft.lk`
+* [President seeks support of all to achieve successful new era](data/articles/president-seeks-support.2220ce85/README.md) `ft.lk`
+* [It’s Time to Reimagine Scale](data/articles/it-s-time-to-reimagine-s.c53b026b/README.md) `hbr.org`
 * [Who should get a uterus transplant? Experts aren’t sure.](data/articles/who-should-get-a-uterus.62ef4899/README.md) `technologyreview.com`
+* [JVP, NPP and the Astounding  Political Ascent  of  President Anura Kumara Dissanayake.](data/articles/jvp-npp-and-the-astoundi.741b02c0/README.md) `dbsjeyaraj.com`
 * [Brand AKD defies marketing theory to win](data/articles/brand-akd-defies-marketi.c6c177e5/README.md) `ft.lk`
 * [A pile of welcome shifts in the plate tectonics of local politics](data/articles/a-pile-of-welcome-shifts.c3dc3636/README.md) `ft.lk`
 * [Prioritise justice and reconciliation following election victory](data/articles/prioritise-justice-and-r.396e3f6c/README.md) `ft.lk`
