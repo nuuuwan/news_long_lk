@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-23 06:25:12**
+Last Updated **2024-11-23 18:19:00**
 
 ## 2024-11-23
 
@@ -18,6 +18,7 @@ Last Updated **2024-11-23 06:25:12**
 * [To include or not to include a Muslim Minister](data/articles/to-include-or-not-to-inc.ab28e372/README.md) `ft.lk`
 * [President seeks support of all to achieve successful new era](data/articles/president-seeks-support.2220ce85/README.md) `ft.lk`
 * [It’s Time to Reimagine Scale](data/articles/it-s-time-to-reimagine-s.c53b026b/README.md) `hbr.org`
+* [25 Tech and Infrastructure Problems to Solve Before We Can Reach Net Zero](data/articles/25-tech-and-infrastructu.900c24ce/README.md) `hbr.org`
 * [Who should get a uterus transplant? Experts aren’t sure.](data/articles/who-should-get-a-uterus.62ef4899/README.md) `technologyreview.com`
 * [JVP, NPP and the Astounding  Political Ascent  of  President Anura Kumara Dissanayake.](data/articles/jvp-npp-and-the-astoundi.741b02c0/README.md) `dbsjeyaraj.com`
 * [Brand AKD defies marketing theory to win](data/articles/brand-akd-defies-marketi.c6c177e5/README.md) `ft.lk`
