@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-25 06:24:53**
+Last Updated **2024-11-25 18:21:23**
 
 ## 2024-11-25
 
+* [Google’s antitrust gut punch and the Trump wild card](data/articles/google-s-antitrust-gut-p.ce93b2ed/README.md) `technologyreview.com`
+* [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e41a4050/README.md) `dailymirror.lk`
 * [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e55052e7/README.md) `dailymirror.lk`
 * [Arugam Bay; hidden currents](data/articles/arugam-bay-hidden-curren.f2a4e0f5/README.md) `ft.lk`
 * [Israel and US stand isolated following increasing EU and Western support for ICC’s decision](data/articles/israel-and-us-stand-isol.874eb3d8/README.md) `ft.lk`
@@ -50,6 +52,7 @@ Last Updated **2024-11-25 06:24:53**
 * [Why Isn’t Healthcare More Personalized?](data/articles/why-isn-t-healthcare-mor.63ac5032/README.md) `hbr.org`
 * [When Expressing Gratitude to Employees, Timing Matters](data/articles/when-expressing-gratitud.3cde6cba/README.md) `hbr.org`
 * [China’s complicated role in climate change](data/articles/china-s-complicated-role.45a8539b/README.md) `technologyreview.com`
+* [Four ways to protect your art from AI](data/articles/four-ways-to-protect-you.7af2d4fa/README.md) `technologyreview.com`
 * [AKD and JVP-NPP’s mega-mandate: Re-founding the nation](data/articles/akd-and-jvp-npp-s-mega-m.e379e7e4/README.md) `ft.lk`
 * [New chapter for Sri Lanka: Call for responsible governance](data/articles/new-chapter-for-sri-lank.110dc76a/README.md) `ft.lk`
 * [‘Beautiful Badulla made ugly’ as communities yearn for clean water, sanitary facilities](data/articles/beautiful-badulla-made.c6aec8f6/README.md) `dailymirror.lk`
