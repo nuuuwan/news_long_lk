@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-24 18:18:16**
+Last Updated **2024-11-25 06:24:53**
+
+## 2024-11-25
+
+* [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e55052e7/README.md) `dailymirror.lk`
+* [Arugam Bay; hidden currents](data/articles/arugam-bay-hidden-curren.f2a4e0f5/README.md) `ft.lk`
+* [Israel and US stand isolated following increasing EU and Western support for ICC’s decision](data/articles/israel-and-us-stand-isol.874eb3d8/README.md) `ft.lk`
+* [ABC of AKD’s plans to handle the ‘Economy Stupid’](data/articles/abc-of-akd-s-plans-to-ha.0293ef2e/README.md) `ft.lk`
+* [Fareed who? The world according to Fareed Zakaria](data/articles/fareed-who-the-world-acc.48684869/README.md) `dailymirror.lk`
+* [Media fears and government’s need to accept criticism - EDITORIAL](data/articles/media-fears-and-governme.056dc154/README.md) `dailymirror.lk`
+* [Testing AKD’s guts](data/articles/testing-akd-s-guts.79c35fba/README.md) `ft.lk`
 
 ## 2024-11-23
 
