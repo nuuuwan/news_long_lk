@@ -2,13 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-25 18:21:23**
+Last Updated **2024-11-26 06:25:13**
+
+## 2024-11-26
+
+* [Jaffna victory is the prized jewel in NPP electoral crown](data/articles/jaffna-victory-is-the-pr.bd16102a/README.md) `dailymirror.lk`
+* [Remembering my father, Eric Cooray](data/articles/remembering-my-father-er.df498679/README.md) `ft.lk`
+* [Pragmatic ethical President](data/articles/pragmatic-ethical-presid.7eda9b20/README.md) `ft.lk`
+* [Honouring the unsung: Real beginnings of the ‘renaissance’](data/articles/honouring-the-unsung-rea.73981524/README.md) `ft.lk`
+* [Global Increase of ‘Grey divorce’](data/articles/global-increase-of-grey.065101f5/README.md) `dailymirror.lk`
+* [Need of the hour, Muslim Cabinet Minister or Rule of Law: Muslim perspective](data/articles/need-of-the-hour-muslim.6390ec26/README.md) `ft.lk`
+* [Rule of law: An acid test for NPP govt - EDITORIAL](data/articles/rule-of-law-an-acid-test.a3493838/README.md) `dailymirror.lk`
 
 ## 2024-11-25
 
+* [When Your High Standards Derail Your Success](data/articles/when-your-high-standards.5b41252d/README.md) `hbr.org`
 * [Google’s antitrust gut punch and the Trump wild card](data/articles/google-s-antitrust-gut-p.ce93b2ed/README.md) `technologyreview.com`
 * [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e41a4050/README.md) `dailymirror.lk`
 * [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e55052e7/README.md) `dailymirror.lk`
+* [Little-known Facts About  Legendary LTTE Leader Veluppillai  Prabhakaran](data/articles/little-known-facts-about.d790ba3e/README.md) `dbsjeyaraj.com`
 * [Arugam Bay; hidden currents](data/articles/arugam-bay-hidden-curren.f2a4e0f5/README.md) `ft.lk`
 * [Israel and US stand isolated following increasing EU and Western support for ICC’s decision](data/articles/israel-and-us-stand-isol.874eb3d8/README.md) `ft.lk`
 * [ABC of AKD’s plans to handle the ‘Economy Stupid’](data/articles/abc-of-akd-s-plans-to-ha.0293ef2e/README.md) `ft.lk`
