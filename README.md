@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-26 06:25:13**
+Last Updated **2024-11-26 18:22:11**
 
 ## 2024-11-26
 
+* [Global Outlook: bilateral relations among Asian BRICS members](data/articles/global-outlook-bilateral.704c98e9/README.md) `eiu.com`
+* [We need to start wrestling with the ethics of AI agents](data/articles/we-need-to-start-wrestli.a3110883/README.md) `technologyreview.com`
 * [Jaffna victory is the prized jewel in NPP electoral crown](data/articles/jaffna-victory-is-the-pr.bd16102a/README.md) `dailymirror.lk`
 * [Remembering my father, Eric Cooray](data/articles/remembering-my-father-er.df498679/README.md) `ft.lk`
 * [Pragmatic ethical President](data/articles/pragmatic-ethical-presid.7eda9b20/README.md) `ft.lk`
@@ -16,11 +18,15 @@ Last Updated **2024-11-26 06:25:13**
 
 ## 2024-11-25
 
+* [Business Tapped Out of the Climate Fight. Here’s How to Get Back In.](data/articles/business-tapped-out-of-t.f0993c41/README.md) `hbr.org`
+* [Set Your Team Up to Collaborate with AI Successfully](data/articles/set-your-team-up-to-coll.36834fc8/README.md) `hbr.org`
 * [When Your High Standards Derail Your Success](data/articles/when-your-high-standards.5b41252d/README.md) `hbr.org`
 * [Google’s antitrust gut punch and the Trump wild card](data/articles/google-s-antitrust-gut-p.ce93b2ed/README.md) `technologyreview.com`
 * [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e41a4050/README.md) `dailymirror.lk`
 * [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e55052e7/README.md) `dailymirror.lk`
 * [Little-known Facts About  Legendary LTTE Leader Veluppillai  Prabhakaran](data/articles/little-known-facts-about.d790ba3e/README.md) `dbsjeyaraj.com`
+* [The  Birth and Growth of the “Maaveerar Naal” (Great Heroes Day) Event.](data/articles/the-birth-and-growth-of.74a030ce/README.md) `dbsjeyaraj.com`
+* [Remembering my father Eric Cooray for his unwavering faith, calm demeanour, and boundless kindness](data/articles/remembering-my-father-er.912e40b7/README.md) `dbsjeyaraj.com`
 * [Arugam Bay; hidden currents](data/articles/arugam-bay-hidden-curren.f2a4e0f5/README.md) `ft.lk`
 * [Israel and US stand isolated following increasing EU and Western support for ICC’s decision](data/articles/israel-and-us-stand-isol.874eb3d8/README.md) `ft.lk`
 * [ABC of AKD’s plans to handle the ‘Economy Stupid’](data/articles/abc-of-akd-s-plans-to-ha.0293ef2e/README.md) `ft.lk`
@@ -63,6 +69,7 @@ Last Updated **2024-11-26 06:25:13**
 * [“Today, all communities across all provinces have trusted us and granted us this power. It is with profound gratitude that I extend my deepest respect and thanks to the people who trusted us.”-President Anura Kumara Dissanayake](data/articles/today-all-communities-a.1809114c/README.md) `dbsjeyaraj.com`
 * [Why Isn’t Healthcare More Personalized?](data/articles/why-isn-t-healthcare-mor.63ac5032/README.md) `hbr.org`
 * [When Expressing Gratitude to Employees, Timing Matters](data/articles/when-expressing-gratitud.3cde6cba/README.md) `hbr.org`
+* [How OpenAI stress-tests its large language models](data/articles/how-openai-stress-tests.b4318880/README.md) `technologyreview.com`
 * [China’s complicated role in climate change](data/articles/china-s-complicated-role.45a8539b/README.md) `technologyreview.com`
 * [Four ways to protect your art from AI](data/articles/four-ways-to-protect-you.7af2d4fa/README.md) `technologyreview.com`
 * [AKD and JVP-NPP’s mega-mandate: Re-founding the nation](data/articles/akd-and-jvp-npp-s-mega-m.e379e7e4/README.md) `ft.lk`
