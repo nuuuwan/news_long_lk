@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-27 06:25:29**
+Last Updated **2024-11-27 18:21:47**
 
 ## 2024-11-27
 
@@ -16,6 +16,7 @@ Last Updated **2024-11-27 06:25:29**
 
 * [A Cabinet without Muslims is not meritocratic but discriminatory](data/articles/a-cabinet-without-muslim.ddde9e5c/README.md) `dailymirror.lk`
 * [Hypocrisy and challenges facing commemorating the dead](data/articles/hypocrisy-and-challenges.dbe02c96/README.md) `dailymirror.lk`
+* [Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.](data/articles/despite-winning-159-seat.585ee383/README.md) `dbsjeyaraj.com`
 * [Research: How “Buy Now, Pay Later” Is Changing Consumer Spending](data/articles/research-how-buy-now-pay.76c3fc94/README.md) `hbr.org`
 * [Do You Really Need a Big Career Change?](data/articles/do-you-really-need-a-big.71c1d946/README.md) `hbr.org`
 * [Global Outlook: bilateral relations among Asian BRICS members](data/articles/global-outlook-bilateral.704c98e9/README.md) `eiu.com`
