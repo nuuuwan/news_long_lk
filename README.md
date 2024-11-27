@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-26 18:22:11**
+Last Updated **2024-11-27 06:25:29**
+
+## 2024-11-27
+
+* [Poverty of CBSL’s monetary policies: Part II](data/articles/poverty-of-cbsl-s-moneta.2dc82c2b/README.md) `ft.lk`
+* [Blunder by new Government: No fertiliser to paddy farmers](data/articles/blunder-by-new-governmen.f7201038/README.md) `ft.lk`
+* [New regime and its representation problem](data/articles/new-regime-and-its-repre.a8a8e1f4/README.md) `ft.lk`
+* [Entrepreneurship in the 21st century](data/articles/entrepreneurship-in-the.315cc3ca/README.md) `ft.lk`
+* [Unveiling the silent stakeholder: Call for farm animal welfare in sustainability reporting](data/articles/unveiling-the-silent-sta.ac687a04/README.md) `ft.lk`
 
 ## 2024-11-26
 
+* [A Cabinet without Muslims is not meritocratic but discriminatory](data/articles/a-cabinet-without-muslim.ddde9e5c/README.md) `dailymirror.lk`
+* [Hypocrisy and challenges facing commemorating the dead](data/articles/hypocrisy-and-challenges.dbe02c96/README.md) `dailymirror.lk`
+* [Research: How “Buy Now, Pay Later” Is Changing Consumer Spending](data/articles/research-how-buy-now-pay.76c3fc94/README.md) `hbr.org`
+* [Do You Really Need a Big Career Change?](data/articles/do-you-really-need-a-big.71c1d946/README.md) `hbr.org`
 * [Global Outlook: bilateral relations among Asian BRICS members](data/articles/global-outlook-bilateral.704c98e9/README.md) `eiu.com`
 * [We need to start wrestling with the ethics of AI agents](data/articles/we-need-to-start-wrestli.a3110883/README.md) `technologyreview.com`
 * [Jaffna victory is the prized jewel in NPP electoral crown](data/articles/jaffna-victory-is-the-pr.bd16102a/README.md) `dailymirror.lk`
