@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-27 18:21:47**
+Last Updated **2024-11-28 06:25:06**
+
+## 2024-11-28
+
+* [Urgent regulatory reforms needed to revitalise construction industry and economy](data/articles/urgent-regulatory-reform.f131a94a/README.md) `ft.lk`
+* [Price of inaction: Sexual harassment’s toll on Sri Lanka’s economy](data/articles/price-of-inaction-sexual.a6ce117b/README.md) `ft.lk`
+* [Domestic abuse in Sri Lanka: Hidden epidemic](data/articles/domestic-abuse-in-sri-la.8e08e6f7/README.md) `ft.lk`
+* [OPR: CBSL’s latest monetary policy tool](data/articles/opr-cbsl-s-latest-moneta.347e2735/README.md) `ft.lk`
 
 ## 2024-11-27
 
+* [Political sociology of JVP-NPP avalanche, establishment collapse and Opposition free-fall](data/articles/political-sociology-of-j.2af14665/README.md) `ft.lk`
+* [Social Policies and the New Regime](data/articles/social-policies-and-the.1b22208b/README.md) `dailymirror.lk`
+* [Come Together to Confront Climate Change.](data/articles/come-together-to-confron.098f8337/README.md) `dailymirror.lk`
+* [A Missed Opportunity Dr. Harsha  could have been the ideal Opposition Leader](data/articles/a-missed-opportunity-dr.28b97202/README.md) `dailymirror.lk`
 * [Poverty of CBSL’s monetary policies: Part II](data/articles/poverty-of-cbsl-s-moneta.2dc82c2b/README.md) `ft.lk`
 * [Blunder by new Government: No fertiliser to paddy farmers](data/articles/blunder-by-new-governmen.f7201038/README.md) `ft.lk`
 * [New regime and its representation problem](data/articles/new-regime-and-its-repre.a8a8e1f4/README.md) `ft.lk`
