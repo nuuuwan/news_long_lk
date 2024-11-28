@@ -2,13 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-28 06:25:06**
+Last Updated **2024-11-28 18:22:14**
 
 ## 2024-11-28
 
+* [Global scrutiny of Adani Group puts pressure on Sri Lanka to rethink major deals](data/articles/global-scrutiny-of-adani.132d2be1/README.md) `dailymirror.lk`
+* [This startup is getting closer to bringing next-generation nuclear to the grid](data/articles/this-startup-is-getting.ce94e5e0/README.md) `technologyreview.com`
 * [Urgent regulatory reforms needed to revitalise construction industry and economy](data/articles/urgent-regulatory-reform.f131a94a/README.md) `ft.lk`
 * [Price of inaction: Sexual harassment’s toll on Sri Lanka’s economy](data/articles/price-of-inaction-sexual.a6ce117b/README.md) `ft.lk`
 * [Domestic abuse in Sri Lanka: Hidden epidemic](data/articles/domestic-abuse-in-sri-la.8e08e6f7/README.md) `ft.lk`
+* [The Tamil people had no other choice but to turn to the NPP because there was no political force among them that could lead them on a practical and sensible political path as an alternative to the Tamil parties.](data/articles/the-tamil-people-had-no.2974d99a/README.md) `dbsjeyaraj.com`
 * [OPR: CBSL’s latest monetary policy tool](data/articles/opr-cbsl-s-latest-moneta.347e2735/README.md) `ft.lk`
 
 ## 2024-11-27
@@ -46,6 +49,7 @@ Last Updated **2024-11-28 06:25:06**
 * [Set Your Team Up to Collaborate with AI Successfully](data/articles/set-your-team-up-to-coll.36834fc8/README.md) `hbr.org`
 * [When Your High Standards Derail Your Success](data/articles/when-your-high-standards.5b41252d/README.md) `hbr.org`
 * [Google’s antitrust gut punch and the Trump wild card](data/articles/google-s-antitrust-gut-p.ce93b2ed/README.md) `technologyreview.com`
+* [How Trump’s tariffs could drive up the cost of batteries, EVs, and more](data/articles/how-trump-s-tariffs-coul.ef0ab785/README.md) `technologyreview.com`
 * [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e41a4050/README.md) `dailymirror.lk`
 * [JVP Reforms, a Template for SJB : NPP Seals Ranil’s IMF Pact](data/articles/jvp-reforms-a-template-f.e55052e7/README.md) `dailymirror.lk`
 * [Little-known Facts About  Legendary LTTE Leader Veluppillai  Prabhakaran](data/articles/little-known-facts-about.d790ba3e/README.md) `dbsjeyaraj.com`
