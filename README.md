@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-29 06:25:19**
+Last Updated **2024-11-29 18:21:44**
 
 ## 2024-11-29
 
+* [The risk of a bird flu pandemic is rising](data/articles/the-risk-of-a-bird-flu-p.31463a36/README.md) `technologyreview.com`
 * [“Ours isn’t a leftist Govt, but one of leftist, democratic and progressive forces’’- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna](data/articles/ours-isn-t-a-leftist-go.d603be59/README.md) `dailymirror.lk`
+* [“Ours isn’t a leftist Govt, but one of leftist, democratic and progressive forces’’- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna](data/articles/ours-isn-t-a-leftist-go.16ab84f6/README.md) `dailymirror.lk`
 * [Solidarity with Palestine or death warrant?](data/articles/solidarity-with-palestin.7189c668/README.md) `dailymirror.lk`
 * [Rise of digital campaigning: How social platforms shaped Sri Lanka’s elections](data/articles/rise-of-digital-campaign.1eabba38/README.md) `ft.lk`
 * [Systems change expected  by the people from NPP Government](data/articles/systems-change-expected.f3ccedbc/README.md) `ft.lk`
@@ -32,6 +34,7 @@ Last Updated **2024-11-29 06:25:19**
 * [Social Policies and the New Regime](data/articles/social-policies-and-the.1b22208b/README.md) `dailymirror.lk`
 * [Come Together to Confront Climate Change.](data/articles/come-together-to-confron.098f8337/README.md) `dailymirror.lk`
 * [A Missed Opportunity Dr. Harsha  could have been the ideal Opposition Leader](data/articles/a-missed-opportunity-dr.28b97202/README.md) `dailymirror.lk`
+* [Considering Quitting? Here’s How to Talk to Your Boss About It.](data/articles/considering-quitting-her.483d3e69/README.md) `hbr.org`
 * [Train Your Brain to Work Creatively with Gen AI](data/articles/train-your-brain-to-work.9eab38c5/README.md) `hbr.org`
 * [Poverty of CBSL’s monetary policies: Part II](data/articles/poverty-of-cbsl-s-moneta.2dc82c2b/README.md) `ft.lk`
 * [Blunder by new Government: No fertiliser to paddy farmers](data/articles/blunder-by-new-governmen.f7201038/README.md) `ft.lk`
@@ -48,6 +51,7 @@ Last Updated **2024-11-29 06:25:19**
 * [Do You Really Need a Big Career Change?](data/articles/do-you-really-need-a-big.71c1d946/README.md) `hbr.org`
 * [Global Outlook: bilateral relations among Asian BRICS members](data/articles/global-outlook-bilateral.704c98e9/README.md) `eiu.com`
 * [We need to start wrestling with the ethics of AI agents](data/articles/we-need-to-start-wrestli.a3110883/README.md) `technologyreview.com`
+* [The way we measure progress in AI is terrible](data/articles/the-way-we-measure-progr.58c9f574/README.md) `technologyreview.com`
 * [Jaffna victory is the prized jewel in NPP electoral crown](data/articles/jaffna-victory-is-the-pr.bd16102a/README.md) `dailymirror.lk`
 * [Remembering my father, Eric Cooray](data/articles/remembering-my-father-er.df498679/README.md) `ft.lk`
 * [Pragmatic ethical President](data/articles/pragmatic-ethical-presid.7eda9b20/README.md) `ft.lk`

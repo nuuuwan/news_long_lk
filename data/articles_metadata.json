@@ -1,9 +1,23 @@
 [
   {
+    "title": "The risk of a bird flu pandemic is rising",
+    "url": "https://www.technologyreview.com/2024/11/29/1107552/risk-of-bird-flu-pandemic-rising/",
+    "ut": 1732836600.0,
+    "dir_path_unix": "data/articles/the-risk-of-a-bird-flu-p.31463a36",
+    "time_str_formatted": "05:00 AM, Friday, November 29, 2024"
+  },
+  {
     "title": "\u201cOurs isn\u2019t a leftist Govt, but one of leftist, democratic and progressive forces\u2019\u2019- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna",
     "url": "https://www.dailymirror.lk/hard-talk/Ours-isnt-a-leftist-Govt-but-one-of-leftist-democratic-and-progressive-forces-Tilvin-Silva-General-Secretary-of-Janatha-Vimukthi-Peramuna/334-297019",
     "ut": 1732830984.0,
     "dir_path_unix": "data/articles/ours-isn-t-a-leftist-go.d603be59",
+    "time_str_formatted": "03:26 AM, Friday, November 29, 2024"
+  },
+  {
+    "title": "\u201cOurs isn\u2019t a leftist Govt, but one of leftist, democratic and progressive forces\u2019\u2019- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna",
+    "url": "https://www.dailymirror.lk/plus/Ours-isnt-a-leftist-Govt-but-one-of-leftist-democratic-and-progressive-forces-Tilvin-Silva-General-Secretary-of-Janatha-Vimukthi-Peramuna/352-297019",
+    "ut": 1732830984.0,
+    "dir_path_unix": "data/articles/ours-isn-t-a-leftist-go.16ab84f6",
     "time_str_formatted": "03:26 AM, Friday, November 29, 2024"
   },
   {
@@ -140,6 +154,13 @@
     "time_str_formatted": "09:21 PM, Wednesday, November 27, 2024"
   },
   {
+    "title": "Considering Quitting? Here\u2019s How to Talk to Your Boss About It.",
+    "url": "https://hbr.org/2024/11/considering-quitting-heres-how-to-talk-to-your-boss-about-it",
+    "ut": 1732694119.0,
+    "dir_path_unix": "data/articles/considering-quitting-her.483d3e69",
+    "time_str_formatted": "01:25 PM, Wednesday, November 27, 2024"
+  },
+  {
     "title": "Train Your Brain to Work Creatively with Gen AI",
     "url": "https://hbr.org/2024/11/train-your-brain-to-work-creatively-with-gen-ai",
     "ut": 1732693536.0,
@@ -228,6 +249,13 @@
     "url": "https://www.technologyreview.com/2024/11/26/1107309/we-need-to-start-wrestling-with-the-ethics-of-ai-agents/",
     "ut": 1732577400.0,
     "dir_path_unix": "data/articles/we-need-to-start-wrestli.a3110883",
+    "time_str_formatted": "05:00 AM, Tuesday, November 26, 2024"
+  },
+  {
+    "title": "The way we measure progress in AI is terrible",
+    "url": "https://www.technologyreview.com/2024/11/26/1107346/the-way-we-measure-progress-in-ai-is-terrible/",
+    "ut": 1732577400.0,
+    "dir_path_unix": "data/articles/the-way-we-measure-progr.58c9f574",
     "time_str_formatted": "05:00 AM, Tuesday, November 26, 2024"
   },
   {
