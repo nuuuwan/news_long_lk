@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-11-28 18:22:14**
+Last Updated **2024-11-29 06:25:19**
+
+## 2024-11-29
+
+* [“Ours isn’t a leftist Govt, but one of leftist, democratic and progressive forces’’- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna](data/articles/ours-isn-t-a-leftist-go.d603be59/README.md) `dailymirror.lk`
+* [Solidarity with Palestine or death warrant?](data/articles/solidarity-with-palestin.7189c668/README.md) `dailymirror.lk`
+* [Rise of digital campaigning: How social platforms shaped Sri Lanka’s elections](data/articles/rise-of-digital-campaign.1eabba38/README.md) `ft.lk`
+* [Systems change expected  by the people from NPP Government](data/articles/systems-change-expected.f3ccedbc/README.md) `ft.lk`
+* [Will NPP Govt. probe killing of JVP leader Rohana Wijeweera?](data/articles/will-npp-govt-probe-kill.4c6139dc/README.md) `ft.lk`
+* [Public support for Govt: Key for successful IMF programs](data/articles/public-support-for-govt.fc0f0a47/README.md) `ft.lk`
+* [The Need to ‘relocate’ and the Might of Floods -EDITORIAL](data/articles/the-need-to-relocate-and.330c69bc/README.md) `dailymirror.lk`
+* [SL kicks off 16 Days of Activism Against Gender-Based Violence](data/articles/sl-kicks-off-16-days-of.23e64e48/README.md) `ft.lk`
 
 ## 2024-11-28
 
+* [10 Ways to Supercharge Your Career](data/articles/10-ways-to-supercharge-y.a5ced45f/README.md) `hbr.org`
 * [Global scrutiny of Adani Group puts pressure on Sri Lanka to rethink major deals](data/articles/global-scrutiny-of-adani.132d2be1/README.md) `dailymirror.lk`
 * [This startup is getting closer to bringing next-generation nuclear to the grid](data/articles/this-startup-is-getting.ce94e5e0/README.md) `technologyreview.com`
 * [Urgent regulatory reforms needed to revitalise construction industry and economy](data/articles/urgent-regulatory-reform.f131a94a/README.md) `ft.lk`
@@ -20,6 +32,7 @@ Last Updated **2024-11-28 18:22:14**
 * [Social Policies and the New Regime](data/articles/social-policies-and-the.1b22208b/README.md) `dailymirror.lk`
 * [Come Together to Confront Climate Change.](data/articles/come-together-to-confron.098f8337/README.md) `dailymirror.lk`
 * [A Missed Opportunity Dr. Harsha  could have been the ideal Opposition Leader](data/articles/a-missed-opportunity-dr.28b97202/README.md) `dailymirror.lk`
+* [Train Your Brain to Work Creatively with Gen AI](data/articles/train-your-brain-to-work.9eab38c5/README.md) `hbr.org`
 * [Poverty of CBSL’s monetary policies: Part II](data/articles/poverty-of-cbsl-s-moneta.2dc82c2b/README.md) `ft.lk`
 * [Blunder by new Government: No fertiliser to paddy farmers](data/articles/blunder-by-new-governmen.f7201038/README.md) `ft.lk`
 * [New regime and its representation problem](data/articles/new-regime-and-its-repre.a8a8e1f4/README.md) `ft.lk`
