@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-01 06:25:50**
+Last Updated **2024-12-01 18:19:41**
 
 ## 2024-11-30
 
+* [As a result of the Tamil nationalist parties splitting and contesting elections as different factions, the parliamentary representation of Tamils ​​from the north and east has been weakened even more than before. Tamil politicians had ignored the warnings given in advance in this regard.](data/articles/as-a-result-of-the-tamil.da89977c/README.md) `dbsjeyaraj.com`
 * [Global negotiation outcomes on climate finance and adaptation: The road ahead after COP29](data/articles/global-negotiation-outco.68579574/README.md) `ft.lk`
 * [Prabhakaran: Forgotten price of a struggle](data/articles/prabhakaran-forgotten-pr.8f8123d5/README.md) `ft.lk`
 * [What was 29% of N-E Tamils’ mandate for NPP Government?](data/articles/what-was-29-of-n-e-tamil.607ac10a/README.md) `ft.lk`
