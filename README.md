@@ -2,17 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-02 06:24:59**
+Last Updated **2024-12-02 18:22:08**
 
 ## 2024-12-02
 
+* [This manga publisher is using Anthropic’s AI to translate Japanese comics into English](data/articles/this-manga-publisher-is.458e77c9/README.md) `technologyreview.com`
 * [New chapter for Sri Lanka: We cannot give something out of nothing](data/articles/new-chapter-for-sri-lank.264bc529/README.md) `ft.lk`
+* [Battling HIV/AIDS Through Awareness and Action](data/articles/battling-hiv-aids-throug.8d200bde/README.md) `dailymirror.lk`
 * [Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?](data/articles/sri-lanka-s-economic-rev.1959dd4c/README.md) `ft.lk`
 * [From manifesto to ministry: Practicality of NPP’s appointments](data/articles/from-manifesto-to-minist.da9ae992/README.md) `ft.lk`
 * [Empowering Sri Lanka’s economic future: Imperative of strengthening SMEs and entrepreneurship](data/articles/empowering-sri-lanka-s-e.d07385ef/README.md) `ft.lk`
 * [Deflationary  Disaster and the Undemocratic Rule of IMF Experts](data/articles/deflationary-disaster-an.729af5f6/README.md) `dailymirror.lk`
 * [The Month of Christmas and Message of Christianity -  EDITORIAL](data/articles/the-month-of-christmas-a.0c9de7ac/README.md) `dailymirror.lk`
 * [Child’s guide to Central Bank’s new monetary policy instrument: Overnight Policy Rate](data/articles/child-s-guide-to-central.1a2912a0/README.md) `ft.lk`
+
+## 2024-12-01
+
+* [Will Anura Kumara  Dissanayake’s NPP Govt  Order an Official  Probe Into the  “Unofficial Execution”  of JVP  Founder – Leader  Rohana Wijeweera 35 Years ago?](data/articles/will-anura-kumara-dissan.a2361098/README.md) `dbsjeyaraj.com`
 
 ## 2024-11-30
 
@@ -47,6 +53,7 @@ Last Updated **2024-12-02 06:24:59**
 * [10 Ways to Supercharge Your Career](data/articles/10-ways-to-supercharge-y.a5ced45f/README.md) `hbr.org`
 * [Global scrutiny of Adani Group puts pressure on Sri Lanka to rethink major deals](data/articles/global-scrutiny-of-adani.132d2be1/README.md) `dailymirror.lk`
 * [This startup is getting closer to bringing next-generation nuclear to the grid](data/articles/this-startup-is-getting.ce94e5e0/README.md) `technologyreview.com`
+* [What’s next for NASA’s giant moon rocket?](data/articles/what-s-next-for-nasa-s-g.a266723f/README.md) `technologyreview.com`
 * [Urgent regulatory reforms needed to revitalise construction industry and economy](data/articles/urgent-regulatory-reform.f131a94a/README.md) `ft.lk`
 * [Price of inaction: Sexual harassment’s toll on Sri Lanka’s economy](data/articles/price-of-inaction-sexual.a6ce117b/README.md) `ft.lk`
 * [Domestic abuse in Sri Lanka: Hidden epidemic](data/articles/domestic-abuse-in-sri-la.8e08e6f7/README.md) `ft.lk`
@@ -66,6 +73,7 @@ Last Updated **2024-12-02 06:24:59**
 * [New regime and its representation problem](data/articles/new-regime-and-its-repre.a8a8e1f4/README.md) `ft.lk`
 * [Entrepreneurship in the 21st century](data/articles/entrepreneurship-in-the.315cc3ca/README.md) `ft.lk`
 * [Unveiling the silent stakeholder: Call for farm animal welfare in sustainability reporting](data/articles/unveiling-the-silent-sta.ac687a04/README.md) `ft.lk`
+* [These AI Minecraft characters did weirdly human stuff all on their own](data/articles/these-ai-minecraft-chara.d9b74ca6/README.md) `technologyreview.com`
 
 ## 2024-11-26
 

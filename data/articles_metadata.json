@@ -1,10 +1,24 @@
 [
   {
+    "title": "This manga publisher is using Anthropic\u2019s AI to translate Japanese comics into English",
+    "url": "https://www.technologyreview.com/2024/12/02/1107562/this-manga-publisher-is-using-anthropics-ai-to-translate-japanese-comics-into-english/",
+    "ut": 1733099244.0,
+    "dir_path_unix": "data/articles/this-manga-publisher-is.458e77c9",
+    "time_str_formatted": "05:57 AM, Monday, December 02, 2024"
+  },
+  {
     "title": "New chapter for Sri Lanka: We cannot give something out of nothing",
     "url": "https://www.ft.lk/columns/New-chapter-for-Sri-Lanka-We-cannot-give-something-out-of-nothing/4-769957",
     "ut": 1733084978.0,
     "dir_path_unix": "data/articles/new-chapter-for-sri-lank.264bc529",
     "time_str_formatted": "01:59 AM, Monday, December 02, 2024"
+  },
+  {
+    "title": "Battling HIV/AIDS Through Awareness and Action",
+    "url": "https://www.dailymirror.lk/plus/Battling-HIVAIDS-Through-Awareness-and-Action/352-297168",
+    "ut": 1733084931.0,
+    "dir_path_unix": "data/articles/battling-hiv-aids-throug.8d200bde",
+    "time_str_formatted": "01:58 AM, Monday, December 02, 2024"
   },
   {
     "title": "Sri Lanka\u2019s economic revival: Traditional 8-hour workday or 6-hour workday?",
@@ -47,6 +61,13 @@
     "ut": 1733078718.0,
     "dir_path_unix": "data/articles/child-s-guide-to-central.1a2912a0",
     "time_str_formatted": "12:15 AM, Monday, December 02, 2024"
+  },
+  {
+    "title": "Will Anura Kumara  Dissanayake\u2019s NPP Govt  Order an Official  Probe Into the  \u201cUnofficial Execution\u201d  of JVP  Founder \u2013 Leader  Rohana Wijeweera 35 Years ago?",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85154",
+    "ut": 1733004185.0,
+    "dir_path_unix": "data/articles/will-anura-kumara-dissan.a2361098",
+    "time_str_formatted": "03:33 AM, Sunday, December 01, 2024"
   },
   {
     "title": "As a result of the Tamil nationalist parties splitting and contesting elections as different factions, the parliamentary representation of Tamils \u200b\u200bfrom the north and east has been weakened even more than before. Tamil politicians had ignored the warnings given in advance in this regard.",
@@ -224,6 +245,13 @@
     "time_str_formatted": "06:00 AM, Thursday, November 28, 2024"
   },
   {
+    "title": "What\u2019s next for NASA\u2019s giant moon rocket?",
+    "url": "https://www.technologyreview.com/2024/11/28/1107511/whats-next-nasas-giant-moon-rocket/",
+    "ut": 1732750200.0,
+    "dir_path_unix": "data/articles/what-s-next-for-nasa-s-g.a266723f",
+    "time_str_formatted": "05:00 AM, Thursday, November 28, 2024"
+  },
+  {
     "title": "Urgent regulatory reforms needed to revitalise construction industry and economy",
     "url": "https://www.ft.lk/columns/Urgent-regulatory-reforms-needed-to-revitalise-construction-industry-and-economy/4-769802",
     "ut": 1732745587.0,
@@ -334,6 +362,13 @@
     "ut": 1732666461.0,
     "dir_path_unix": "data/articles/unveiling-the-silent-sta.ac687a04",
     "time_str_formatted": "05:44 AM, Wednesday, November 27, 2024"
+  },
+  {
+    "title": "These AI Minecraft characters did weirdly human stuff all on their own",
+    "url": "https://www.technologyreview.com/2024/11/27/1107377/a-minecraft-town-of-ai-characters-made-friends-invented-jobs-and-spread-religion/",
+    "ut": 1732657522.0,
+    "dir_path_unix": "data/articles/these-ai-minecraft-chara.d9b74ca6",
+    "time_str_formatted": "03:15 AM, Wednesday, November 27, 2024"
   },
   {
     "title": "A Cabinet without Muslims is not meritocratic but discriminatory",
