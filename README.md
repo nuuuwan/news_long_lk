@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-01 18:19:41**
+Last Updated **2024-12-02 06:24:59**
+
+## 2024-12-02
+
+* [New chapter for Sri Lanka: We cannot give something out of nothing](data/articles/new-chapter-for-sri-lank.264bc529/README.md) `ft.lk`
+* [Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?](data/articles/sri-lanka-s-economic-rev.1959dd4c/README.md) `ft.lk`
+* [From manifesto to ministry: Practicality of NPP’s appointments](data/articles/from-manifesto-to-minist.da9ae992/README.md) `ft.lk`
+* [Empowering Sri Lanka’s economic future: Imperative of strengthening SMEs and entrepreneurship](data/articles/empowering-sri-lanka-s-e.d07385ef/README.md) `ft.lk`
+* [Deflationary  Disaster and the Undemocratic Rule of IMF Experts](data/articles/deflationary-disaster-an.729af5f6/README.md) `dailymirror.lk`
+* [The Month of Christmas and Message of Christianity -  EDITORIAL](data/articles/the-month-of-christmas-a.0c9de7ac/README.md) `dailymirror.lk`
+* [Child’s guide to Central Bank’s new monetary policy instrument: Overnight Policy Rate](data/articles/child-s-guide-to-central.1a2912a0/README.md) `ft.lk`
 
 ## 2024-11-30
 
