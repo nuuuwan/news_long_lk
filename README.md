@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-03 06:25:10**
+Last Updated **2024-12-03 18:21:40**
 
 ## 2024-12-03
 
+* [Nominate someone to our 2025 list of Innovators Under 35](data/articles/nominate-someone-to-our.a0d759bd/README.md) `technologyreview.com`
+* [The death of Deega Danthu II  Authorities in a race against time to reduce Elephant Deaths By Electrocution](data/articles/the-death-of-deega-danth.b6308e49/README.md) `dailymirror.lk`
 * [UN Day for Solidarity with Palestine Bloodshed and Politics: Wake Up!](data/articles/un-day-for-solidarity-wi.13f2b3d0/README.md) `dailymirror.lk`
 * [NPP’s Dilemma over the PTA - EDITORIAL](data/articles/npp-s-dilemma-over-the-p.c88af712/README.md) `dailymirror.lk`
 
@@ -15,6 +17,7 @@ Last Updated **2024-12-03 06:25:10**
 * [Vote on Account and why](data/articles/vote-on-account-and-why.4dcdc577/README.md) `ft.lk`
 * [AKD can be Sri Lanka’s Nelson Mandela – just stay the course](data/articles/akd-can-be-sri-lanka-s-n.1d97f8d6/README.md) `ft.lk`
 * [Expectations are many; avenues are way too few](data/articles/expectations-are-many-av.4fb6492f/README.md) `ft.lk`
+* [What the Last Trump Tariffs Did, According to Researchers](data/articles/what-the-last-trump-tari.f254aa73/README.md) `hbr.org`
 * [This manga publisher is using Anthropic’s AI to translate Japanese comics into English](data/articles/this-manga-publisher-is.458e77c9/README.md) `technologyreview.com`
 * [New chapter for Sri Lanka: We cannot give something out of nothing](data/articles/new-chapter-for-sri-lank.264bc529/README.md) `ft.lk`
 * [Battling HIV/AIDS Through Awareness and Action](data/articles/battling-hiv-aids-throug.8d200bde/README.md) `dailymirror.lk`
@@ -46,6 +49,7 @@ Last Updated **2024-12-03 06:25:10**
 * [யாழ் தமிழ் தேசியவாதக் கோட்டைக்குள் பலமாக அடித்த “அநுர அலை”:  ஆறு யாழ்ப்பாண ஆசனங்களில் மூன்றில் தேசிய மக்கள் சக்தி வெற்றி.](data/articles/ய-ழ-தம-ழ-த-ச-யவ-தக-க-ட-ட.b4f2c7d6/README.md) `dbsjeyaraj.com`
 * [So You Want to Be a Product Manager](data/articles/so-you-want-to-be-a-prod.068e1454/README.md) `hbr.org`
 * [Management By Driving Around](data/articles/management-by-driving-ar.ee252dce/README.md) `hbr.org`
+* [The moon is just the beginning for this waterless concrete](data/articles/the-moon-is-just-the-beg.336c3d20/README.md) `technologyreview.com`
 * [The risk of a bird flu pandemic is rising](data/articles/the-risk-of-a-bird-flu-p.31463a36/README.md) `technologyreview.com`
 * [“Ours isn’t a leftist Govt, but one of leftist, democratic and progressive forces’’- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna](data/articles/ours-isn-t-a-leftist-go.d603be59/README.md) `dailymirror.lk`
 * [“Ours isn’t a leftist Govt, but one of leftist, democratic and progressive forces’’- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna](data/articles/ours-isn-t-a-leftist-go.16ab84f6/README.md) `dailymirror.lk`
