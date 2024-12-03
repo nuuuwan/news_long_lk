@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-02 18:22:08**
+Last Updated **2024-12-03 06:25:10**
+
+## 2024-12-03
+
+* [UN Day for Solidarity with Palestine Bloodshed and Politics: Wake Up!](data/articles/un-day-for-solidarity-wi.13f2b3d0/README.md) `dailymirror.lk`
+* [NPP’s Dilemma over the PTA - EDITORIAL](data/articles/npp-s-dilemma-over-the-p.c88af712/README.md) `dailymirror.lk`
 
 ## 2024-12-02
 
+* [What will it take for a (quick) win on anti-corruption?](data/articles/what-will-it-take-for-a.a9d768c6/README.md) `ft.lk`
+* [Vote on Account and why](data/articles/vote-on-account-and-why.4dcdc577/README.md) `ft.lk`
+* [AKD can be Sri Lanka’s Nelson Mandela – just stay the course](data/articles/akd-can-be-sri-lanka-s-n.1d97f8d6/README.md) `ft.lk`
+* [Expectations are many; avenues are way too few](data/articles/expectations-are-many-av.4fb6492f/README.md) `ft.lk`
 * [This manga publisher is using Anthropic’s AI to translate Japanese comics into English](data/articles/this-manga-publisher-is.458e77c9/README.md) `technologyreview.com`
 * [New chapter for Sri Lanka: We cannot give something out of nothing](data/articles/new-chapter-for-sri-lank.264bc529/README.md) `ft.lk`
 * [Battling HIV/AIDS Through Awareness and Action](data/articles/battling-hiv-aids-throug.8d200bde/README.md) `dailymirror.lk`
