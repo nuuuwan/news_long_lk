@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-03 18:21:40**
+Last Updated **2024-12-04 06:25:40**
+
+## 2024-12-04
+
+* [New Government faces tough questions over IMF U-turn](data/articles/new-government-faces-tou.32f5db9b/README.md) `ft.lk`
+* [Inland Revenue Dept. should understand plight of contractors](data/articles/inland-revenue-dept-shou.2c796662/README.md) `ft.lk`
+* [Tides, from Colombo to Arugam Bay](data/articles/tides-from-colombo-to-ar.c2d7a4f1/README.md) `ft.lk`
 
 ## 2024-12-03
 
+* [Political Opposition is dead](data/articles/political-opposition-is.ba203ac1/README.md) `dailymirror.lk`
+* [The carnival is over and government bares its fangs](data/articles/the-carnival-is-over-and.676b4135/README.md) `dailymirror.lk`
+* [Capture of Aleppo threatens regime stability in Syria](data/articles/capture-of-aleppo-threat.bc4bc71a/README.md) `eiu.com`
+* [Industrial Firms Must Embrace Automation to Remain Competitive](data/articles/industrial-firms-must-em.9d4638c3/README.md) `hbr.org`
+* [Governments Should Be Effective, Not Efficient](data/articles/governments-should-be-ef.8789aa44/README.md) `hbr.org`
+* [The startup trying to turn the web into a database](data/articles/the-startup-trying-to-tu.c9f1477e/README.md) `technologyreview.com`
 * [Nominate someone to our 2025 list of Innovators Under 35](data/articles/nominate-someone-to-our.a0d759bd/README.md) `technologyreview.com`
 * [The death of Deega Danthu II  Authorities in a race against time to reduce Elephant Deaths By Electrocution](data/articles/the-death-of-deega-danth.b6308e49/README.md) `dailymirror.lk`
 * [UN Day for Solidarity with Palestine Bloodshed and Politics: Wake Up!](data/articles/un-day-for-solidarity-wi.13f2b3d0/README.md) `dailymirror.lk`
