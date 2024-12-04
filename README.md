@@ -2,22 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-04 06:25:40**
+Last Updated **2024-12-04 18:22:19**
 
 ## 2024-12-04
 
 * [New Government faces tough questions over IMF U-turn](data/articles/new-government-faces-tou.32f5db9b/README.md) `ft.lk`
 * [Inland Revenue Dept. should understand plight of contractors](data/articles/inland-revenue-dept-shou.2c796662/README.md) `ft.lk`
 * [Tides, from Colombo to Arugam Bay](data/articles/tides-from-colombo-to-ar.c2d7a4f1/README.md) `ft.lk`
+* [The Serial stupidity of  SJB leader Sajith Premadasa whose decision to run against Ranil Wickremesinghe in Presidential election assured the mutual destruction of both and played into the hands of the NPP and Anura Kumara Dissanayake.](data/articles/the-serial-stupidity-of.54c87245/README.md) `dbsjeyaraj.com`
+* [If Chabad-Lubavitch Movement is given a legal foothold in Arugam Bay, it may not be long before our own Muslims are accused of antisemitism and of igniting a pogrom! Imagine with what glee the BBS/Sinhala Ravaya types would hop on that bandwagon.](data/articles/if-chabad-lubavitch-move.347986dd/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-03
 
+* [Makkah pilgrimage that never happened Reflecting on ‘Martinair’ 50 years after the plane crash](data/articles/makkah-pilgrimage-that-n.6ee05dba/README.md) `dailymirror.lk`
 * [Political Opposition is dead](data/articles/political-opposition-is.ba203ac1/README.md) `dailymirror.lk`
 * [The carnival is over and government bares its fangs](data/articles/the-carnival-is-over-and.676b4135/README.md) `dailymirror.lk`
 * [Capture of Aleppo threatens regime stability in Syria](data/articles/capture-of-aleppo-threat.bc4bc71a/README.md) `eiu.com`
 * [Industrial Firms Must Embrace Automation to Remain Competitive](data/articles/industrial-firms-must-em.9d4638c3/README.md) `hbr.org`
 * [Governments Should Be Effective, Not Efficient](data/articles/governments-should-be-ef.8789aa44/README.md) `hbr.org`
 * [The startup trying to turn the web into a database](data/articles/the-startup-trying-to-tu.c9f1477e/README.md) `technologyreview.com`
+* [The search startup trying to turn the web into a database](data/articles/the-search-startup-tryin.c9f1477e/README.md) `technologyreview.com`
 * [Nominate someone to our 2025 list of Innovators Under 35](data/articles/nominate-someone-to-our.a0d759bd/README.md) `technologyreview.com`
 * [The death of Deega Danthu II  Authorities in a race against time to reduce Elephant Deaths By Electrocution](data/articles/the-death-of-deega-danth.b6308e49/README.md) `dailymirror.lk`
 * [UN Day for Solidarity with Palestine Bloodshed and Politics: Wake Up!](data/articles/un-day-for-solidarity-wi.13f2b3d0/README.md) `dailymirror.lk`
@@ -31,6 +35,7 @@ Last Updated **2024-12-04 06:25:40**
 * [Expectations are many; avenues are way too few](data/articles/expectations-are-many-av.4fb6492f/README.md) `ft.lk`
 * [What the Last Trump Tariffs Did, According to Researchers](data/articles/what-the-last-trump-tari.f254aa73/README.md) `hbr.org`
 * [This manga publisher is using Anthropic’s AI to translate Japanese comics into English](data/articles/this-manga-publisher-is.458e77c9/README.md) `technologyreview.com`
+* [What the departing White House chief tech advisor has to say on AI](data/articles/what-the-departing-white.a8d34264/README.md) `technologyreview.com`
 * [New chapter for Sri Lanka: We cannot give something out of nothing](data/articles/new-chapter-for-sri-lank.264bc529/README.md) `ft.lk`
 * [Battling HIV/AIDS Through Awareness and Action](data/articles/battling-hiv-aids-throug.8d200bde/README.md) `dailymirror.lk`
 * [Sri Lanka’s economic revival: Traditional 8-hour workday or 6-hour workday?](data/articles/sri-lanka-s-economic-rev.1959dd4c/README.md) `ft.lk`
