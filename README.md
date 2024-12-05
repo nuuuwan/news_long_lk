@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-04 18:22:19**
+Last Updated **2024-12-05 06:25:25**
+
+## 2024-12-05
+
+* [The NPP Must Know that ‘The Snow Falls Silently’](data/articles/the-npp-must-know-that-t.316cfd93/README.md) `dailymirror.lk`
+* [Preventing Racism Top Priority for AKD Govt](data/articles/preventing-racism-top-pr.e21b444e/README.md) `dailymirror.lk`
+* [Compounding of capital market offences: Call for balanced regulation](data/articles/compounding-of-capital-m.4dc57335/README.md) `ft.lk`
+* [Road much travelled: Identical paths towards fiscal distress in Sri Lanka and the Maldives](data/articles/road-much-travelled-iden.a512fd24/README.md) `ft.lk`
+* [AKD’s rightward neoliberal pivot: Dark debt deal, Tiger tribute coverup](data/articles/akd-s-rightward-neoliber.510028ce/README.md) `ft.lk`
 
 ## 2024-12-04
 
+* [Ethnic reconciliation to win economic struggle](data/articles/ethnic-reconciliation-to.58d4f253/README.md) `ft.lk`
+* [When Your Team Bypasses You to Get Things Done](data/articles/when-your-team-bypasses.c5196142/README.md) `hbr.org`
+* [Would you eat dried microbes? This company hopes so.](data/articles/would-you-eat-dried-micr.c7af0282/README.md) `technologyreview.com`
 * [New Government faces tough questions over IMF U-turn](data/articles/new-government-faces-tou.32f5db9b/README.md) `ft.lk`
 * [Inland Revenue Dept. should understand plight of contractors](data/articles/inland-revenue-dept-shou.2c796662/README.md) `ft.lk`
 * [Tides, from Colombo to Arugam Bay](data/articles/tides-from-colombo-to-ar.c2d7a4f1/README.md) `ft.lk`
@@ -23,6 +34,7 @@ Last Updated **2024-12-04 18:22:19**
 * [The startup trying to turn the web into a database](data/articles/the-startup-trying-to-tu.c9f1477e/README.md) `technologyreview.com`
 * [The search startup trying to turn the web into a database](data/articles/the-search-startup-tryin.c9f1477e/README.md) `technologyreview.com`
 * [Nominate someone to our 2025 list of Innovators Under 35](data/articles/nominate-someone-to-our.a0d759bd/README.md) `technologyreview.com`
+* [How US AI policy might change under Trump](data/articles/how-us-ai-policy-might-c.2938c11d/README.md) `technologyreview.com`
 * [The death of Deega Danthu II  Authorities in a race against time to reduce Elephant Deaths By Electrocution](data/articles/the-death-of-deega-danth.b6308e49/README.md) `dailymirror.lk`
 * [UN Day for Solidarity with Palestine Bloodshed and Politics: Wake Up!](data/articles/un-day-for-solidarity-wi.13f2b3d0/README.md) `dailymirror.lk`
 * [NPP’s Dilemma over the PTA - EDITORIAL](data/articles/npp-s-dilemma-over-the-p.c88af712/README.md) `dailymirror.lk`
