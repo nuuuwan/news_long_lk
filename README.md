@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-05 06:25:25**
+Last Updated **2024-12-05 18:22:15**
 
 ## 2024-12-05
 
+* [Alternative meat could help the climate. Will anyone eat it?](data/articles/alternative-meat-could-h.6f14778d/README.md) `technologyreview.com`
 * [The NPP Must Know that ‘The Snow Falls Silently’](data/articles/the-npp-must-know-that-t.316cfd93/README.md) `dailymirror.lk`
 * [Preventing Racism Top Priority for AKD Govt](data/articles/preventing-racism-top-pr.e21b444e/README.md) `dailymirror.lk`
 * [Compounding of capital market offences: Call for balanced regulation](data/articles/compounding-of-capital-m.4dc57335/README.md) `ft.lk`
@@ -15,7 +16,9 @@ Last Updated **2024-12-05 06:25:25**
 ## 2024-12-04
 
 * [Ethnic reconciliation to win economic struggle](data/articles/ethnic-reconciliation-to.58d4f253/README.md) `ft.lk`
+* [How to Prepare Your Company for AI Incidents](data/articles/how-to-prepare-your-comp.020c57e6/README.md) `hbr.org`
 * [When Your Team Bypasses You to Get Things Done](data/articles/when-your-team-bypasses.c5196142/README.md) `hbr.org`
+* [The Strategic Power of Hope](data/articles/the-strategic-power-of-h.3dc84e8a/README.md) `hbr.org`
 * [Would you eat dried microbes? This company hopes so.](data/articles/would-you-eat-dried-micr.c7af0282/README.md) `technologyreview.com`
 * [New Government faces tough questions over IMF U-turn](data/articles/new-government-faces-tou.32f5db9b/README.md) `ft.lk`
 * [Inland Revenue Dept. should understand plight of contractors](data/articles/inland-revenue-dept-shou.2c796662/README.md) `ft.lk`
