@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-05 18:22:15**
+Last Updated **2024-12-06 06:25:15**
+
+## 2024-12-06
+
+* [National security only through national harmony](data/articles/national-security-only-t.bc2ec8f1/README.md) `ft.lk`
+* [What we know about Flexible Inflation Targeting](data/articles/what-we-know-about-flexi.8b728295/README.md) `ft.lk`
 
 ## 2024-12-05
 
+* [Trump threatens to let loose hell on Middle East](data/articles/trump-threatens-to-let-l.513dace9/README.md) `dailymirror.lk`
+* [Christmas decorations and poverty in Colombo! - EDITORIAL](data/articles/christmas-decorations-an.5f4f7bc4/README.md) `dailymirror.lk`
 * [Alternative meat could help the climate. Will anyone eat it?](data/articles/alternative-meat-could-h.6f14778d/README.md) `technologyreview.com`
 * [The NPP Must Know that ‘The Snow Falls Silently’](data/articles/the-npp-must-know-that-t.316cfd93/README.md) `dailymirror.lk`
 * [Preventing Racism Top Priority for AKD Govt](data/articles/preventing-racism-top-pr.e21b444e/README.md) `dailymirror.lk`
@@ -22,6 +29,7 @@ Last Updated **2024-12-05 18:22:15**
 * [Would you eat dried microbes? This company hopes so.](data/articles/would-you-eat-dried-micr.c7af0282/README.md) `technologyreview.com`
 * [New Government faces tough questions over IMF U-turn](data/articles/new-government-faces-tou.32f5db9b/README.md) `ft.lk`
 * [Inland Revenue Dept. should understand plight of contractors](data/articles/inland-revenue-dept-shou.2c796662/README.md) `ft.lk`
+* [How the Ukraine-Russia war is reshaping the tech sector in Eastern Europe](data/articles/how-the-ukraine-russia-w.750c20fd/README.md) `technologyreview.com`
 * [Tides, from Colombo to Arugam Bay](data/articles/tides-from-colombo-to-ar.c2d7a4f1/README.md) `ft.lk`
 * [The Serial stupidity of  SJB leader Sajith Premadasa whose decision to run against Ranil Wickremesinghe in Presidential election assured the mutual destruction of both and played into the hands of the NPP and Anura Kumara Dissanayake.](data/articles/the-serial-stupidity-of.54c87245/README.md) `dbsjeyaraj.com`
 * [If Chabad-Lubavitch Movement is given a legal foothold in Arugam Bay, it may not be long before our own Muslims are accused of antisemitism and of igniting a pogrom! Imagine with what glee the BBS/Sinhala Ravaya types would hop on that bandwagon.](data/articles/if-chabad-lubavitch-move.347986dd/README.md) `dbsjeyaraj.com`
