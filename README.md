@@ -2,17 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-06 06:25:15**
+Last Updated **2024-12-06 18:21:34**
 
 ## 2024-12-06
 
+* [LAUGFS Rubber Secures double Gold at ICQCC 2024](data/articles/laugfs-rubber-secures-do.53655e7e/README.md) `ft.lk`
 * [National security only through national harmony](data/articles/national-security-only-t.bc2ec8f1/README.md) `ft.lk`
+* [3 things that didn’t make the 10 Breakthrough Technologies of 2025 list](data/articles/3-things-that-didn-t-mak.94fccea7/README.md) `technologyreview.com`
 * [What we know about Flexible Inflation Targeting](data/articles/what-we-know-about-flexi.8b728295/README.md) `ft.lk`
+* [யாழ்ப்பாண வெற்றி  தேசிய மக்கள் சக்தியின் தேர்தல் கிரீடத்தில் பெறுமதியான  அணிகலன்: யாழ்ப்பாணத்தில் தேசிய மககள் சக்தி ஏன், எவ்வாறு வெற்றி பெற்றது?](data/articles/ய-ழ-ப-ப-ண-வ-ற-ற-த-ச-ய-மக.b852d07f/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-05
 
 * [Trump threatens to let loose hell on Middle East](data/articles/trump-threatens-to-let-l.513dace9/README.md) `dailymirror.lk`
 * [Christmas decorations and poverty in Colombo! - EDITORIAL](data/articles/christmas-decorations-an.5f4f7bc4/README.md) `dailymirror.lk`
+* [Designing a Responsible AI Program? Start with this Checklist](data/articles/designing-a-responsible.060a1c62/README.md) `hbr.org`
+* [Research: When Prototypes Don’t Yield Useful Insights](data/articles/research-when-prototypes.656455e0/README.md) `hbr.org`
 * [Alternative meat could help the climate. Will anyone eat it?](data/articles/alternative-meat-could-h.6f14778d/README.md) `technologyreview.com`
 * [The NPP Must Know that ‘The Snow Falls Silently’](data/articles/the-npp-must-know-that-t.316cfd93/README.md) `dailymirror.lk`
 * [Preventing Racism Top Priority for AKD Govt](data/articles/preventing-racism-top-pr.e21b444e/README.md) `dailymirror.lk`
@@ -23,6 +28,7 @@ Last Updated **2024-12-06 06:25:15**
 ## 2024-12-04
 
 * [Ethnic reconciliation to win economic struggle](data/articles/ethnic-reconciliation-to.58d4f253/README.md) `ft.lk`
+* [OpenAI’s new defense contract completes its military pivot](data/articles/openai-s-new-defense-con.cc58e058/README.md) `technologyreview.com`
 * [How to Prepare Your Company for AI Incidents](data/articles/how-to-prepare-your-comp.020c57e6/README.md) `hbr.org`
 * [When Your Team Bypasses You to Get Things Done](data/articles/when-your-team-bypasses.c5196142/README.md) `hbr.org`
 * [The Strategic Power of Hope](data/articles/the-strategic-power-of-h.3dc84e8a/README.md) `hbr.org`
