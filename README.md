@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-06 18:21:34**
+Last Updated **2024-12-07 06:25:23**
+
+## 2024-12-07
+
+* [Premier Tamil party ITAK is on top in Batticaloa but down in Jaffna](data/articles/premier-tamil-party-itak.be77e9cc/README.md) `dailymirror.lk`
+* [Tilvin and provincial councils](data/articles/tilvin-and-provincial-co.67f47303/README.md) `dailymirror.lk`
+* [Who are shooting the Messengers?](data/articles/who-are-shooting-the-mes.937f399a/README.md) `dailymirror.lk`
+* [All at sea?](data/articles/all-at-sea.cac1a6bd/README.md) `ft.lk`
+* [Sri Lanka’s energy independence through climate finance](data/articles/sri-lanka-s-energy-indep.6b998b5d/README.md) `ft.lk`
 
 ## 2024-12-06
 
+* [Blueprint for new Constitution](data/articles/blueprint-for-new-consti.71b6fc95/README.md) `ft.lk`
 * [LAUGFS Rubber Secures double Gold at ICQCC 2024](data/articles/laugfs-rubber-secures-do.53655e7e/README.md) `ft.lk`
 * [National security only through national harmony](data/articles/national-security-only-t.bc2ec8f1/README.md) `ft.lk`
 * [3 things that didn’t make the 10 Breakthrough Technologies of 2025 list](data/articles/3-things-that-didn-t-mak.94fccea7/README.md) `technologyreview.com`
@@ -28,6 +37,7 @@ Last Updated **2024-12-06 18:21:34**
 ## 2024-12-04
 
 * [Ethnic reconciliation to win economic struggle](data/articles/ethnic-reconciliation-to.58d4f253/README.md) `ft.lk`
+* [Creeping erosion of civil liberties in Italy](data/articles/creeping-erosion-of-civi.b388362a/README.md) `eiu.com`
 * [OpenAI’s new defense contract completes its military pivot](data/articles/openai-s-new-defense-con.cc58e058/README.md) `technologyreview.com`
 * [How to Prepare Your Company for AI Incidents](data/articles/how-to-prepare-your-comp.020c57e6/README.md) `hbr.org`
 * [When Your Team Bypasses You to Get Things Done](data/articles/when-your-team-bypasses.c5196142/README.md) `hbr.org`
@@ -139,6 +149,7 @@ Last Updated **2024-12-06 18:21:34**
 * [A Cabinet without Muslims is not meritocratic but discriminatory](data/articles/a-cabinet-without-muslim.ddde9e5c/README.md) `dailymirror.lk`
 * [Hypocrisy and challenges facing commemorating the dead](data/articles/hypocrisy-and-challenges.dbe02c96/README.md) `dailymirror.lk`
 * [Despite Winning 159 Seats, the 3 MP Success in Jaffna is the Prized Jewel in the NPP’s  Electoral Crown.](data/articles/despite-winning-159-seat.585ee383/README.md) `dbsjeyaraj.com`
+* [The opening salvos of a new trade war](data/articles/the-opening-salvos-of-a.a6272c5e/README.md) `eiu.com`
 * [Research: How “Buy Now, Pay Later” Is Changing Consumer Spending](data/articles/research-how-buy-now-pay.76c3fc94/README.md) `hbr.org`
 * [Do You Really Need a Big Career Change?](data/articles/do-you-really-need-a-big.71c1d946/README.md) `hbr.org`
 * [Global Outlook: bilateral relations among Asian BRICS members](data/articles/global-outlook-bilateral.704c98e9/README.md) `eiu.com`
