@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-07 18:19:50**
+Last Updated **2024-12-08 06:25:17**
 
 ## 2024-12-07
 
@@ -15,6 +15,8 @@ Last Updated **2024-12-07 18:19:50**
 ## 2024-12-06
 
 * [Blueprint for new Constitution](data/articles/blueprint-for-new-consti.71b6fc95/README.md) `ft.lk`
+* [How to Create Value Systematically with Gen AI](data/articles/how-to-create-value-syst.ba528b7c/README.md) `hbr.org`
+* [When You Have Two Bosses — and They Don’t Talk to Each Other](data/articles/when-you-have-two-bosses.efc08e52/README.md) `hbr.org`
 * [LAUGFS Rubber Secures double Gold at ICQCC 2024](data/articles/laugfs-rubber-secures-do.53655e7e/README.md) `ft.lk`
 * [National security only through national harmony](data/articles/national-security-only-t.bc2ec8f1/README.md) `ft.lk`
 * [3 things that didn’t make the 10 Breakthrough Technologies of 2025 list](data/articles/3-things-that-didn-t-mak.94fccea7/README.md) `technologyreview.com`
