@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-08 06:25:17**
+Last Updated **2024-12-08 18:19:52**
 
 ## 2024-12-07
 
+* [Sweet and Sour Election Results for Ilankai Thamil Arasuk Katchi(ITAK).: On Top in Batticaloa but Down in Jaffna.](data/articles/sweet-and-sour-election.6bb618cd/README.md) `dbsjeyaraj.com`
 * [Premier Tamil party ITAK is on top in Batticaloa but down in Jaffna](data/articles/premier-tamil-party-itak.be77e9cc/README.md) `dailymirror.lk`
 * [Tilvin and provincial councils](data/articles/tilvin-and-provincial-co.67f47303/README.md) `dailymirror.lk`
 * [Who are shooting the Messengers?](data/articles/who-are-shooting-the-mes.937f399a/README.md) `dailymirror.lk`
@@ -17,6 +18,7 @@ Last Updated **2024-12-08 06:25:17**
 * [Blueprint for new Constitution](data/articles/blueprint-for-new-consti.71b6fc95/README.md) `ft.lk`
 * [How to Create Value Systematically with Gen AI](data/articles/how-to-create-value-syst.ba528b7c/README.md) `hbr.org`
 * [When You Have Two Bosses — and They Don’t Talk to Each Other](data/articles/when-you-have-two-bosses.efc08e52/README.md) `hbr.org`
+* [Taylor Swift and the Strategic Genius of the Eras Tour](data/articles/taylor-swift-and-the-str.8df76822/README.md) `hbr.org`
 * [LAUGFS Rubber Secures double Gold at ICQCC 2024](data/articles/laugfs-rubber-secures-do.53655e7e/README.md) `ft.lk`
 * [National security only through national harmony](data/articles/national-security-only-t.bc2ec8f1/README.md) `ft.lk`
 * [3 things that didn’t make the 10 Breakthrough Technologies of 2025 list](data/articles/3-things-that-didn-t-mak.94fccea7/README.md) `technologyreview.com`
