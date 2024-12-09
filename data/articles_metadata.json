@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI\u2019s \u201c12 days of shipmas\u201d tell us a lot about the AI arms race",
+    "url": "https://www.technologyreview.com/2024/12/09/1108136/openais-12-days-of-shipmas-tell-us-a-lot-about-the-ai-arms-race/",
+    "ut": 1733701707.0,
+    "dir_path_unix": "data/articles/openai-s-12-days-of-ship.e2044e6c",
+    "time_str_formatted": "05:18 AM, Monday, December 09, 2024"
+  },
+  {
+    "title": "Warning for patients! Medical procurement issues cause  shortage of over  300 vital medicines",
+    "url": "https://www.dailymirror.lk/recomended-news/Warning-for-patients-Medical-procurement-issues-cause-shortage-of-over-300-vital-medicines/277-297674",
+    "ut": 1733689000.0,
+    "dir_path_unix": "data/articles/warning-for-patients-med.55ec2d1d",
+    "time_str_formatted": "01:46 AM, Monday, December 09, 2024"
+  },
+  {
     "title": "Provincial Council polls should bridge democratic deficit",
     "url": "https://www.dailymirror.lk/opinion/Provincial-Council-polls-should-bridge-democratic-deficit/172-297670",
     "ut": 1733686189.0,
@@ -166,6 +180,13 @@
     "ut": 1733384132.0,
     "dir_path_unix": "data/articles/research-when-prototypes.656455e0",
     "time_str_formatted": "01:05 PM, Thursday, December 05, 2024"
+  },
+  {
+    "title": "The US Department of Defense is investing in deepfake detection",
+    "url": "https://www.technologyreview.com/2024/12/05/1107961/the-us-department-of-defense-is-investing-in-deepfake-detection/",
+    "ut": 1733369400.0,
+    "dir_path_unix": "data/articles/the-us-department-of-def.ee73f097",
+    "time_str_formatted": "09:00 AM, Thursday, December 05, 2024"
   },
   {
     "title": "Alternative meat could help the climate. Will anyone eat it?",

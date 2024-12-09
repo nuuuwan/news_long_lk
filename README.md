@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-09 06:25:05**
+Last Updated **2024-12-09 18:22:05**
 
 ## 2024-12-09
 
+* [OpenAI’s “12 days of shipmas” tell us a lot about the AI arms race](data/articles/openai-s-12-days-of-ship.e2044e6c/README.md) `technologyreview.com`
+* [Warning for patients! Medical procurement issues cause  shortage of over  300 vital medicines](data/articles/warning-for-patients-med.55ec2d1d/README.md) `dailymirror.lk`
 * [Provincial Council polls should bridge democratic deficit](data/articles/provincial-council-polls.1747e9d0/README.md) `dailymirror.lk`
 * [Crocodile tears over Lanka, while covering genocide in Palestine - EDITORIAL](data/articles/crocodile-tears-over-lan.d9ecdb3c/README.md) `dailymirror.lk`
 
@@ -42,6 +44,7 @@ Last Updated **2024-12-09 06:25:05**
 * [Christmas decorations and poverty in Colombo! - EDITORIAL](data/articles/christmas-decorations-an.5f4f7bc4/README.md) `dailymirror.lk`
 * [Designing a Responsible AI Program? Start with this Checklist](data/articles/designing-a-responsible.060a1c62/README.md) `hbr.org`
 * [Research: When Prototypes Don’t Yield Useful Insights](data/articles/research-when-prototypes.656455e0/README.md) `hbr.org`
+* [The US Department of Defense is investing in deepfake detection](data/articles/the-us-department-of-def.ee73f097/README.md) `technologyreview.com`
 * [Alternative meat could help the climate. Will anyone eat it?](data/articles/alternative-meat-could-h.6f14778d/README.md) `technologyreview.com`
 * [The NPP Must Know that ‘The Snow Falls Silently’](data/articles/the-npp-must-know-that-t.316cfd93/README.md) `dailymirror.lk`
 * [Preventing Racism Top Priority for AKD Govt](data/articles/preventing-racism-top-pr.e21b444e/README.md) `dailymirror.lk`
