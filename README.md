@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-08 18:19:52**
+Last Updated **2024-12-09 06:25:05**
+
+## 2024-12-09
+
+* [Provincial Council polls should bridge democratic deficit](data/articles/provincial-council-polls.1747e9d0/README.md) `dailymirror.lk`
+* [Crocodile tears over Lanka, while covering genocide in Palestine - EDITORIAL](data/articles/crocodile-tears-over-lan.d9ecdb3c/README.md) `dailymirror.lk`
+
+## 2024-12-08
+
+* [Taxes: Two cheers  and a few suggestions](data/articles/taxes-two-cheers-and-a-f.fa9bf6b5/README.md) `ft.lk`
+* [Financial sector should shoulder heavy burden on promoting growth via new market products](data/articles/financial-sector-should.824b92b1/README.md) `ft.lk`
 
 ## 2024-12-07
 
@@ -16,6 +26,7 @@ Last Updated **2024-12-08 18:19:52**
 ## 2024-12-06
 
 * [Blueprint for new Constitution](data/articles/blueprint-for-new-consti.71b6fc95/README.md) `ft.lk`
+* [What Companies Should Be Asking Their Security Teams Right Now](data/articles/what-companies-should-be.af30a430/README.md) `hbr.org`
 * [How to Create Value Systematically with Gen AI](data/articles/how-to-create-value-syst.ba528b7c/README.md) `hbr.org`
 * [When You Have Two Bosses — and They Don’t Talk to Each Other](data/articles/when-you-have-two-bosses.efc08e52/README.md) `hbr.org`
 * [Taylor Swift and the Strategic Genius of the Eras Tour](data/articles/taylor-swift-and-the-str.8df76822/README.md) `hbr.org`
