@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-09 18:22:05**
+Last Updated **2024-12-10 06:25:45**
+
+## 2024-12-10
+
+* [NPP’s pragmatism and the political economy](data/articles/npp-s-pragmatism-and-the.7485a26c/README.md) `ft.lk`
+* [To not sweat the small stuff in education: Decentralise and delegate responsibilities](data/articles/to-not-sweat-the-small-s.6f20e7d6/README.md) `ft.lk`
+* [Sri Lanka electricity sector growth: Challenges ahead](data/articles/sri-lanka-electricity-se.7ffba868/README.md) `ft.lk`
+* [Why is crony capitalism so strong and widespread?](data/articles/why-is-crony-capitalism.a055e5af/README.md) `dailymirror.lk`
+* [Rice issue: Only tough action would work - EDITORIAL](data/articles/rice-issue-only-tough-ac.ae22f52d/README.md) `dailymirror.lk`
 
 ## 2024-12-09
 
+* [10 Questions to Help Business Leaders Navigate AI Adoption](data/articles/10-questions-to-help-bus.f5e285b1/README.md) `hbr.org`
+* [Protect Your Organization from Cyber Threats With a Zero Trust Approach](data/articles/protect-your-organizatio.6c5f4e46/README.md) `hbr.org`
+* [How to use Sora, OpenAI’s new video generating tool](data/articles/how-to-use-sora-openai-s.487418d2/README.md) `technologyreview.com`
 * [OpenAI’s “12 days of shipmas” tell us a lot about the AI arms race](data/articles/openai-s-12-days-of-ship.e2044e6c/README.md) `technologyreview.com`
 * [Warning for patients! Medical procurement issues cause  shortage of over  300 vital medicines](data/articles/warning-for-patients-med.55ec2d1d/README.md) `dailymirror.lk`
 * [Provincial Council polls should bridge democratic deficit](data/articles/provincial-council-polls.1747e9d0/README.md) `dailymirror.lk`
@@ -36,6 +47,7 @@ Last Updated **2024-12-09 18:22:05**
 * [National security only through national harmony](data/articles/national-security-only-t.bc2ec8f1/README.md) `ft.lk`
 * [3 things that didn’t make the 10 Breakthrough Technologies of 2025 list](data/articles/3-things-that-didn-t-mak.94fccea7/README.md) `technologyreview.com`
 * [What we know about Flexible Inflation Targeting](data/articles/what-we-know-about-flexi.8b728295/README.md) `ft.lk`
+* [What China’s critical mineral ban means for the US](data/articles/what-china-s-critical-mi.ac79af4b/README.md) `technologyreview.com`
 * [யாழ்ப்பாண வெற்றி  தேசிய மக்கள் சக்தியின் தேர்தல் கிரீடத்தில் பெறுமதியான  அணிகலன்: யாழ்ப்பாணத்தில் தேசிய மககள் சக்தி ஏன், எவ்வாறு வெற்றி பெற்றது?](data/articles/ய-ழ-ப-ப-ண-வ-ற-ற-த-ச-ய-மக.b852d07f/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-05
