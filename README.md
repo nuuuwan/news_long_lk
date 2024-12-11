@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-11 06:25:38**
+Last Updated **2024-12-11 18:22:10**
 
 ## 2024-12-11
 
@@ -12,7 +12,9 @@ Last Updated **2024-12-11 06:25:38**
 
 ## 2024-12-10
 
+* [Tour guides should adopt new technology to promote tourism- WFTGA Ambassador](data/articles/tour-guides-should-adopt.96b42a4e/README.md) `dailymirror.lk`
 * [Tour guides should adopt new technology to promote tourism- WFTGA Ambassador](data/articles/tour-guides-should-adopt.b3a1c303/README.md) `dailymirror.lk`
+* [AUBREY. V. RAYMOND A noble man with sterling qualities](data/articles/aubrey-v-raymond-a-noble.73d2f8e4/README.md) `dailymirror.lk`
 * [AUBREY. V. RAYMOND A noble man with sterling qualities](data/articles/aubrey-v-raymond-a-noble.5b45a25a/README.md) `dailymirror.lk`
 * [When guardians of  justice are more corrupt than politics…](data/articles/when-guardians-of-justic.e8f70452/README.md) `dailymirror.lk`
 * [Can AKD bring big time rice millers to book](data/articles/can-akd-bring-big-time-r.374ddb5c/README.md) `dailymirror.lk`
@@ -34,6 +36,7 @@ Last Updated **2024-12-11 06:25:38**
 * [How to use Sora, OpenAI’s new video generating tool](data/articles/how-to-use-sora-openai-s.487418d2/README.md) `technologyreview.com`
 * [3 Reasons Change Initiatives Fail — and How to Ensure Yours Succeeds](data/articles/3-reasons-change-initiat.e4922fb0/README.md) `hbr.org`
 * [OpenAI’s “12 days of shipmas” tell us a lot about the AI arms race](data/articles/openai-s-12-days-of-ship.e2044e6c/README.md) `technologyreview.com`
+* [The world’s next big environmental problem could come from space](data/articles/the-world-s-next-big-env.ed0774a1/README.md) `technologyreview.com`
 * [Warning for patients! Medical procurement issues cause  shortage of over  300 vital medicines](data/articles/warning-for-patients-med.55ec2d1d/README.md) `dailymirror.lk`
 * [Provincial Council polls should bridge democratic deficit](data/articles/provincial-council-polls.1747e9d0/README.md) `dailymirror.lk`
 * [Crocodile tears over Lanka, while covering genocide in Palestine - EDITORIAL](data/articles/crocodile-tears-over-lan.d9ecdb3c/README.md) `dailymirror.lk`
