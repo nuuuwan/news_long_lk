@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-10 18:23:09**
+Last Updated **2024-12-11 06:25:38**
+
+## 2024-12-11
+
+* [House of Cards: Sri Lanka’s sovereign bond fiasco and precarious balancing act of Central Bank](data/articles/house-of-cards-sri-lanka.4cb4a04b/README.md) `ft.lk`
+* [Open letter to Education Ministry Secretary](data/articles/open-letter-to-education.c505b87b/README.md) `ft.lk`
+* [‘AKD Govt. continues IMF agreement ignoring people’s mandate’](data/articles/akd-govt-continues-imf.42ac5173/README.md) `ft.lk`
 
 ## 2024-12-10
 
+* [Tour guides should adopt new technology to promote tourism- WFTGA Ambassador](data/articles/tour-guides-should-adopt.b3a1c303/README.md) `dailymirror.lk`
+* [AUBREY. V. RAYMOND A noble man with sterling qualities](data/articles/aubrey-v-raymond-a-noble.5b45a25a/README.md) `dailymirror.lk`
+* [When guardians of  justice are more corrupt than politics…](data/articles/when-guardians-of-justic.e8f70452/README.md) `dailymirror.lk`
+* [Can AKD bring big time rice millers to book](data/articles/can-akd-bring-big-time-r.374ddb5c/README.md) `dailymirror.lk`
+* [AI Thinks Differently Than People Do. Here’s Why That Matters.](data/articles/ai-thinks-differently-th.cad9b137/README.md) `hbr.org`
+* [Is Your Company’s Problem Complicated? Or Complex?](data/articles/is-your-company-s-proble.5cdd4155/README.md) `hbr.org`
 * [AI’s hype and antitrust problem is coming under scrutiny](data/articles/ai-s-hype-and-antitrust.34aa2018/README.md) `technologyreview.com`
 * [Environmental groups demand Lalkantha to withdraw statement on wild animals](data/articles/environmental-groups-dem.bba02c37/README.md) `dailymirror.lk`
 * [NPP’s pragmatism and the political economy](data/articles/npp-s-pragmatism-and-the.7485a26c/README.md) `ft.lk`
