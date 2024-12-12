@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-11 18:22:10**
+Last Updated **2024-12-12 06:26:33**
+
+## 2024-12-12
+
+* [AKD-NPP’s March of Folly: Deeper into the debt labyrinth](data/articles/akd-npp-s-march-of-folly.c9e00368/README.md) `ft.lk`
+* [Boys and girls: Dilemma in international sports](data/articles/boys-and-girls-dilemma-i.d2ae5342/README.md) `ft.lk`
+* [Ride the wave: why the stock market is worth your time](data/articles/ride-the-wave-why-the-st.7987e114/README.md) `ft.lk`
+* [Challenges and opportunities in financial sector](data/articles/challenges-and-opportuni.78c3fae4/README.md) `ft.lk`
+* [ACCOMPLISHMENT OF PLEDGES GIVEN AT THE ELECTIONS:IS IT FEASIBLE ?](data/articles/accomplishment-of-pledge.739571f3/README.md) `dailymirror.lk`
+* [1971 Indo-Pakistan War Legendary Pakistan Navy Submarine and Pakistan Navy War College in Lahore](data/articles/1971-indo-pakistan-war-l.ec3b918b/README.md) `dailymirror.lk`
+* [A Silent Epidemic: Tackling Mental Health Challenges Among Sri Lanka’s Students](data/articles/a-silent-epidemic-tackli.ef191ed4/README.md) `dailymirror.lk`
+* [Perhaps the Eyes of Lady Justice May not be Blindfolded Anymore…](data/articles/perhaps-the-eyes-of-lady.081deb4b/README.md) `dailymirror.lk`
 
 ## 2024-12-11
 
+* [Bluesky has an impersonator problem](data/articles/bluesky-has-an-impersona.eb552e3a/README.md) `technologyreview.com`
 * [House of Cards: Sri Lanka’s sovereign bond fiasco and precarious balancing act of Central Bank](data/articles/house-of-cards-sri-lanka.4cb4a04b/README.md) `ft.lk`
 * [Open letter to Education Ministry Secretary](data/articles/open-letter-to-education.c505b87b/README.md) `ft.lk`
 * [‘AKD Govt. continues IMF agreement ignoring people’s mandate’](data/articles/akd-govt-continues-imf.42ac5173/README.md) `ft.lk`
