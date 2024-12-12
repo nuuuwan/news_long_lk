@@ -2,18 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-12 06:26:33**
+Last Updated **2024-12-12 18:22:32**
 
 ## 2024-12-12
 
+* [China banned exports of a few rare minerals to the US. Things could get messier.](data/articles/china-banned-exports-of.a5efc585/README.md) `technologyreview.com`
 * [AKD-NPP’s March of Folly: Deeper into the debt labyrinth](data/articles/akd-npp-s-march-of-folly.c9e00368/README.md) `ft.lk`
 * [Boys and girls: Dilemma in international sports](data/articles/boys-and-girls-dilemma-i.d2ae5342/README.md) `ft.lk`
 * [Ride the wave: why the stock market is worth your time](data/articles/ride-the-wave-why-the-st.7987e114/README.md) `ft.lk`
 * [Challenges and opportunities in financial sector](data/articles/challenges-and-opportuni.78c3fae4/README.md) `ft.lk`
+* [Illegal cultivations  put Nilgala Forest in jeopardy](data/articles/illegal-cultivations-put.f019cc65/README.md) `dailymirror.lk`
 * [ACCOMPLISHMENT OF PLEDGES GIVEN AT THE ELECTIONS:IS IT FEASIBLE ?](data/articles/accomplishment-of-pledge.739571f3/README.md) `dailymirror.lk`
 * [1971 Indo-Pakistan War Legendary Pakistan Navy Submarine and Pakistan Navy War College in Lahore](data/articles/1971-indo-pakistan-war-l.ec3b918b/README.md) `dailymirror.lk`
 * [A Silent Epidemic: Tackling Mental Health Challenges Among Sri Lanka’s Students](data/articles/a-silent-epidemic-tackli.ef191ed4/README.md) `dailymirror.lk`
 * [Perhaps the Eyes of Lady Justice May not be Blindfolded Anymore…](data/articles/perhaps-the-eyes-of-lady.081deb4b/README.md) `dailymirror.lk`
+* [தமிழரசு கட்சி மட்டக்களப்பில் பெற்ற பெருவெற்றியும் யாழ்ப்பாணத்தில் அடைந்த படுதோல்வியும்](data/articles/தம-ழரச-கட-ச-மட-டக-களப-ப.81d98b0a/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-11
 
