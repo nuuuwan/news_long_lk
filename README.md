@@ -2,13 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-13 06:25:45**
+Last Updated **2024-12-13 18:21:57**
 
 ## 2024-12-13
 
 * [Mannar’s wind turbines: Greenwashing on a giant scale](data/articles/mannar-s-wind-turbines-g.d6fca54d/README.md) `ft.lk`
 * [Justice for All calls for reform in the wake of political change](data/articles/justice-for-all-calls-fo.828ddf3b/README.md) `ft.lk`
 * [“Let us become exemplary forbearers of a proud nation”: AKD](data/articles/let-us-become-exemplary.b1018e4b/README.md) `ft.lk`
+* [Sri Lankan  opposition parties have strengthened the hand of the JVP/NPP government to proceed with its assault on the living conditions of workers and the poor.](data/articles/sri-lankan-opposition-pa.7be027fc/README.md) `dbsjeyaraj.com`
 * [MMDA reform is not repeal:  New Govt. must counter fearmongering and resistance to justice](data/articles/mmda-reform-is-not-repea.70d436c3/README.md) `ft.lk`
 * [Syria: The grim reality behind the celebration](data/articles/syria-the-grim-reality-b.3f8435ea/README.md) `dailymirror.lk`
 
@@ -16,6 +17,9 @@ Last Updated **2024-12-13 06:25:45**
 
 * [Thumbing Through Pages Made Heavy by VAT- EDITORIAL](data/articles/thumbing-through-pages-m.e8261822/README.md) `dailymirror.lk`
 * [Ilankai Thamil Arasuk Katchi celebrates 75th birth anniversary](data/articles/ilankai-thamil-arasuk-ka.79e2c9b2/README.md) `ft.lk`
+* [How AMD’s Lisa Su Is Thinking About AI](data/articles/how-amd-s-lisa-su-is-thi.055202fc/README.md) `hbr.org`
+* [What Is Agentic AI, and How Will It Change Work?](data/articles/what-is-agentic-ai-and-h.021ea73f/README.md) `hbr.org`
+* [6 Lessons from Companies That Shut Down Their Business in Russia](data/articles/6-lessons-from-companies.1701d562/README.md) `hbr.org`
 * [China banned exports of a few rare minerals to the US. Things could get messier.](data/articles/china-banned-exports-of.a5efc585/README.md) `technologyreview.com`
 * [AKD-NPP’s March of Folly: Deeper into the debt labyrinth](data/articles/akd-npp-s-march-of-folly.c9e00368/README.md) `ft.lk`
 * [Boys and girls: Dilemma in international sports](data/articles/boys-and-girls-dilemma-i.d2ae5342/README.md) `ft.lk`
@@ -30,6 +34,7 @@ Last Updated **2024-12-13 06:25:45**
 
 ## 2024-12-11
 
+* [Israeli entry to Golan Heights buffer zone angers Egypt](data/articles/israeli-entry-to-golan-h.a0da1208/README.md) `eiu.com`
 * [Bluesky has an impersonator problem](data/articles/bluesky-has-an-impersona.eb552e3a/README.md) `technologyreview.com`
 * [House of Cards: Sri Lanka’s sovereign bond fiasco and precarious balancing act of Central Bank](data/articles/house-of-cards-sri-lanka.4cb4a04b/README.md) `ft.lk`
 * [Open letter to Education Ministry Secretary](data/articles/open-letter-to-education.c505b87b/README.md) `ft.lk`
@@ -46,6 +51,7 @@ Last Updated **2024-12-13 06:25:45**
 * [AI Thinks Differently Than People Do. Here’s Why That Matters.](data/articles/ai-thinks-differently-th.cad9b137/README.md) `hbr.org`
 * [Is Your Company’s Problem Complicated? Or Complex?](data/articles/is-your-company-s-proble.5cdd4155/README.md) `hbr.org`
 * [AI’s hype and antitrust problem is coming under scrutiny](data/articles/ai-s-hype-and-antitrust.34aa2018/README.md) `technologyreview.com`
+* [We saw a demo of the new AI system powering Anduril’s vision for war](data/articles/we-saw-a-demo-of-the-new.db0fe3a8/README.md) `technologyreview.com`
 * [Environmental groups demand Lalkantha to withdraw statement on wild animals](data/articles/environmental-groups-dem.bba02c37/README.md) `dailymirror.lk`
 * [NPP’s pragmatism and the political economy](data/articles/npp-s-pragmatism-and-the.7485a26c/README.md) `ft.lk`
 * [To not sweat the small stuff in education: Decentralise and delegate responsibilities](data/articles/to-not-sweat-the-small-s.6f20e7d6/README.md) `ft.lk`
@@ -60,6 +66,7 @@ Last Updated **2024-12-13 06:25:45**
 * [Protect Your Organization from Cyber Threats With a Zero Trust Approach](data/articles/protect-your-organizatio.6c5f4e46/README.md) `hbr.org`
 * [How to use Sora, OpenAI’s new video generating tool](data/articles/how-to-use-sora-openai-s.487418d2/README.md) `technologyreview.com`
 * [3 Reasons Change Initiatives Fail — and How to Ensure Yours Succeeds](data/articles/3-reasons-change-initiat.e4922fb0/README.md) `hbr.org`
+* [Syria at crossroads after fall of Baathist regime](data/articles/syria-at-crossroads-afte.5e1d89fc/README.md) `eiu.com`
 * [OpenAI’s “12 days of shipmas” tell us a lot about the AI arms race](data/articles/openai-s-12-days-of-ship.e2044e6c/README.md) `technologyreview.com`
 * [The world’s next big environmental problem could come from space](data/articles/the-world-s-next-big-env.ed0774a1/README.md) `technologyreview.com`
 * [Warning for patients! Medical procurement issues cause  shortage of over  300 vital medicines](data/articles/warning-for-patients-med.55ec2d1d/README.md) `dailymirror.lk`

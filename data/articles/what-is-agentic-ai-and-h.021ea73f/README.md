@@ -1,0 +1,16 @@
+# What Is Agentic AI, and How Will It Change Work?
+
+[https://hbr.org/2024/12/what-is-agentic-ai-and-how-will-it-change-work](https://hbr.org/2024/12/what-is-agentic-ai-and-how-will-it-change-work)
+
+*01:25 PM, Thursday, December 12, 2024*
+
+Jonathan Kitchen/Getty Images
+
+From the early days of mechanical automatons to more recent conversational bots, scientists and engineers have dreamed of a future where AI systems can work and act intelligently and independently. Recent advances in agentic AI bring that autonomous future a step closer to reality. With their supercharged reasoning and execution capabilities, agentic AI systems promise to transform many aspects of human-machine collaboration. The agentic AI prize could be great, with the promise of greater productivity, innovation and insights for the human workforce. But so, too, are the risks: the potential for bias, mistakes, and inappropriate use. Early action by business and government leaders now will help set the right course for agentic AI development, so that its benefits can be achieved safely and fairly.
+
+The way humans interact and collaborate with AI is taking a dramatic leap forward with agentic AI. Think: AI-powered agents that can plan your next trip overseas and make all the travel arrangements; humanlike bots that act as virtual caregivers for the elderly; or AI-powered supply-chain specialists that can optimize inventories on the fly in response to fluctuations in real-time demand. These are just some of the possibilities opened up by the coming era of agentic AI.
+
+Read more on Generative AI
+
+Personal productivity
+

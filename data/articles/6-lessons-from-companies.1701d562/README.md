@@ -1,0 +1,42 @@
+# 6 Lessons from Companies That Shut Down Their Business in Russia
+
+[https://hbr.org/2024/12/6-lessons-from-companies-that-shut-down-their-business-in-russia](https://hbr.org/2024/12/6-lessons-from-companies-that-shut-down-their-business-in-russia)
+
+*01:15 PM, Thursday, December 12, 2024*
+
+Konstantin Zavrazhin/Getty Images
+
+Increasingly, companies are being pressured to decouple from regions that customers, employees, politicians, advocacy groups, and even leaders deem politically fraught. This can pose a dilemma for executives, as research both shows that fast decision-making is vital, but some circumstances require deliberation and care. Interviews with 16 leaders from 10 companies who faced pressure to exit Russia after the 2022 invasion of Ukraine offer six lessons for organizations facing similar situations: 1. Public opinion expects immediate and binary decisions. 2. For consumer brands, speed may trump deliberation. 3. B2B firms may have more time to calculate. 4. Even 1% of sales can be 100% of a company’s reputation with employees. 5. Business and brand value initially took a hit, but CEOs still feel good about having done the right thing. 6. Crisis offers an opportunity to rethink and restructure.
+
+Rising tensions between the U.S. and China, escalating turmoil in the Middle East, scrutiny over the climate-friendliness of the supply chain, and other similar issues are forcing companies into a new dilemma: how to manage business decisions that are driven not by profits nor a company’s own strategic planning but are based on moral and societal values. Pressures for decoupling from dangerous, politically fraught regions will make these situations more common.
+
+Crisis Management Course
+
+Accelerate your career with Harvard ManageMentor®. HBR Learning’s online leadership training helps you hone your skills with courses like Crisis Management. Earn badges to share on LinkedIn and your resume. Access more than 40 courses trusted by Fortune 500 companies.
+
+Learn how to manage uncertainty, dispel rumors, and help your team recover.
+
+Learn More & See All Courses
+
+Read more on Crisis management
+
+Crisis communication,
+
+Social and global issues,
+
+International relations,
+
+Business and society,
+
+Society and business relations,
+
+Corporate governance,
+
+Corporate social responsibility,
+
+International business,
+
+Operations and supply chain management,
+
+Organizational decision making
+
