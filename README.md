@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-12 18:22:32**
+Last Updated **2024-12-13 06:25:45**
+
+## 2024-12-13
+
+* [Mannar’s wind turbines: Greenwashing on a giant scale](data/articles/mannar-s-wind-turbines-g.d6fca54d/README.md) `ft.lk`
+* [Justice for All calls for reform in the wake of political change](data/articles/justice-for-all-calls-fo.828ddf3b/README.md) `ft.lk`
+* [“Let us become exemplary forbearers of a proud nation”: AKD](data/articles/let-us-become-exemplary.b1018e4b/README.md) `ft.lk`
+* [MMDA reform is not repeal:  New Govt. must counter fearmongering and resistance to justice](data/articles/mmda-reform-is-not-repea.70d436c3/README.md) `ft.lk`
+* [Syria: The grim reality behind the celebration](data/articles/syria-the-grim-reality-b.3f8435ea/README.md) `dailymirror.lk`
 
 ## 2024-12-12
 
+* [Thumbing Through Pages Made Heavy by VAT- EDITORIAL](data/articles/thumbing-through-pages-m.e8261822/README.md) `dailymirror.lk`
+* [Ilankai Thamil Arasuk Katchi celebrates 75th birth anniversary](data/articles/ilankai-thamil-arasuk-ka.79e2c9b2/README.md) `ft.lk`
 * [China banned exports of a few rare minerals to the US. Things could get messier.](data/articles/china-banned-exports-of.a5efc585/README.md) `technologyreview.com`
 * [AKD-NPP’s March of Folly: Deeper into the debt labyrinth](data/articles/akd-npp-s-march-of-folly.c9e00368/README.md) `ft.lk`
 * [Boys and girls: Dilemma in international sports](data/articles/boys-and-girls-dilemma-i.d2ae5342/README.md) `ft.lk`
