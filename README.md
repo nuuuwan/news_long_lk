@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-14 06:25:22**
+Last Updated **2024-12-14 18:19:24**
 
 ## 2024-12-14
 
@@ -17,6 +17,7 @@ Last Updated **2024-12-14 06:25:22**
 ## 2024-12-13
 
 * [How Gen AI and Analytical AI Differ — and When to Use Each](data/articles/how-gen-ai-and-analytica.a577269c/README.md) `hbr.org`
+* [Joining a Professional Group Where Everyone Already Knows Each Other](data/articles/joining-a-professional-g.afa0e9d3/README.md) `hbr.org`
 * [How Silicon Valley is disrupting democracy](data/articles/how-silicon-valley-is-di.2061b16c/README.md) `technologyreview.com`
 * [Mannar’s wind turbines: Greenwashing on a giant scale](data/articles/mannar-s-wind-turbines-g.d6fca54d/README.md) `ft.lk`
 * [Justice for All calls for reform in the wake of political change](data/articles/justice-for-all-calls-fo.828ddf3b/README.md) `ft.lk`
