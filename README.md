@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-13 18:21:57**
+Last Updated **2024-12-14 06:25:22**
+
+## 2024-12-14
+
+* [Ranwala’s Title  Outweighs Rice and Coconuts](data/articles/ranwala-s-title-outweigh.7da3f596/README.md) `dailymirror.lk`
+* [President Gets his Sums Wrong; MP’s Drop Bogus Doctorates](data/articles/president-gets-his-sums.921b1a9d/README.md) `dailymirror.lk`
+* [LTTE Political Strategist  Anton Balasingham:  A Personal Account.](data/articles/ltte-political-strategis.5fbec900/README.md) `dailymirror.lk`
+* [Issues Sri Lanka should take up with New Delhi](data/articles/issues-sri-lanka-should.c854ce4c/README.md) `ft.lk`
+* [Heavenly duties or hellish efforts?](data/articles/heavenly-duties-or-helli.d60657a0/README.md) `ft.lk`
+* [Need to safeguard people’s mandate on AKD and NPP](data/articles/need-to-safeguard-people.36066f14/README.md) `ft.lk`
+* [“Government failing on promises”: Sajith Premadasa highlights key issues](data/articles/government-failing-on-p.a6905367/README.md) `ft.lk`
 
 ## 2024-12-13
 
+* [How Gen AI and Analytical AI Differ — and When to Use Each](data/articles/how-gen-ai-and-analytica.a577269c/README.md) `hbr.org`
+* [How Silicon Valley is disrupting democracy](data/articles/how-silicon-valley-is-di.2061b16c/README.md) `technologyreview.com`
 * [Mannar’s wind turbines: Greenwashing on a giant scale](data/articles/mannar-s-wind-turbines-g.d6fca54d/README.md) `ft.lk`
 * [Justice for All calls for reform in the wake of political change](data/articles/justice-for-all-calls-fo.828ddf3b/README.md) `ft.lk`
 * [“Let us become exemplary forbearers of a proud nation”: AKD](data/articles/let-us-become-exemplary.b1018e4b/README.md) `ft.lk`
