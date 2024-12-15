@@ -2,13 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-14 18:19:24**
+Last Updated **2024-12-15 06:25:15**
 
 ## 2024-12-14
 
+* [Sri Lanka’s Premier Tamil Political Party Ilankai Thamil Arasuk Katchi(ITAK) Celebrates 75th Birth Anniversary.](data/articles/sri-lanka-s-premier-tami.0c9849d6/README.md) `dbsjeyaraj.com`
 * [Ranwala’s Title  Outweighs Rice and Coconuts](data/articles/ranwala-s-title-outweigh.7da3f596/README.md) `dailymirror.lk`
 * [President Gets his Sums Wrong; MP’s Drop Bogus Doctorates](data/articles/president-gets-his-sums.921b1a9d/README.md) `dailymirror.lk`
 * [LTTE Political Strategist  Anton Balasingham:  A Personal Account.](data/articles/ltte-political-strategis.5fbec900/README.md) `dailymirror.lk`
+* [Beyond “Big Brother” : Reframing India-Sri Lanka Relations Under  President Dissanayake](data/articles/beyond-big-brother-refra.b820b353/README.md) `dbsjeyaraj.com`
+* [Sri Lankan President Anura Kumara  Dissanayake  Undertakes his First State Visit Abroad After Winning the Presidency in September; Three Day Visit to India  from  December 15 to 17](data/articles/sri-lankan-president-anu.75061c43/README.md) `dbsjeyaraj.com`
 * [Issues Sri Lanka should take up with New Delhi](data/articles/issues-sri-lanka-should.c854ce4c/README.md) `ft.lk`
 * [Heavenly duties or hellish efforts?](data/articles/heavenly-duties-or-helli.d60657a0/README.md) `ft.lk`
 * [Need to safeguard people’s mandate on AKD and NPP](data/articles/need-to-safeguard-people.36066f14/README.md) `ft.lk`
@@ -18,6 +21,7 @@ Last Updated **2024-12-14 18:19:24**
 
 * [How Gen AI and Analytical AI Differ — and When to Use Each](data/articles/how-gen-ai-and-analytica.a577269c/README.md) `hbr.org`
 * [Joining a Professional Group Where Everyone Already Knows Each Other](data/articles/joining-a-professional-g.afa0e9d3/README.md) `hbr.org`
+* [Continuing the Work of DEI, No Matter What Your Company Calls It](data/articles/continuing-the-work-of-d.9fa0861a/README.md) `hbr.org`
 * [How Silicon Valley is disrupting democracy](data/articles/how-silicon-valley-is-di.2061b16c/README.md) `technologyreview.com`
 * [Mannar’s wind turbines: Greenwashing on a giant scale](data/articles/mannar-s-wind-turbines-g.d6fca54d/README.md) `ft.lk`
 * [Justice for All calls for reform in the wake of political change](data/articles/justice-for-all-calls-fo.828ddf3b/README.md) `ft.lk`
