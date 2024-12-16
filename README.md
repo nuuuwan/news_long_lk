@@ -2,7 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-15 18:19:17**
+Last Updated **2024-12-16 06:24:59**
+
+## 2024-12-16
+
+* [Building ‘generational companies’ through Japanese business practices](data/articles/building-generational-co.a1c3728f/README.md) `ft.lk`
+* [Education reforms should reckon matters if connected to market by generating creative capital](data/articles/education-reforms-should.a6d3f21b/README.md) `ft.lk`
+* [Fall of the Assad Dynasty: What is Next for Syria?](data/articles/fall-of-the-assad-dynast.e68bc235/README.md) `dailymirror.lk`
+* [Cricket’s Fall from Grace and AKD’s Loss of Face - EDITORIAL](data/articles/cricket-s-fall-from-grac.3033c69c/README.md) `dailymirror.lk`
+
+## 2024-12-15
+
+* [As Dissanayake visits, India must embrace Sri Lanka’s new dawn](data/articles/as-dissanayake-visits-in.c00e1131/README.md) `ft.lk`
+* [Increasing tax revenue without hiking tax burden](data/articles/increasing-tax-revenue-w.60079324/README.md) `ft.lk`
+* [Critique on Engineering Council of Sri Lanka, its Act and conduct](data/articles/critique-on-engineering.dc29c452/README.md) `ft.lk`
 
 ## 2024-12-14
 
