@@ -2,12 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-17 06:25:40**
+Last Updated **2024-12-17 18:22:18**
 
 ## 2024-12-17
 
+* [Anawilundawa ANRM Project: Where people, nature thrive hand in hand with mangroves](data/articles/anawilundawa-anrm-projec.50a0dcfe/README.md) `dailymirror.lk`
+* [Beyond Big Brother: Reframing India-Sri Lanka Relations Under Dissanayake](data/articles/beyond-big-brother-refra.de61c5c9/README.md) `dailymirror.lk`
+* [Faking Degrees: A Thriving industry in South Asia](data/articles/faking-degrees-a-thrivin.4fca19df/README.md) `dailymirror.lk`
 * [Speaker’s Credentials: Academic or Leadership Qualities?](data/articles/speaker-s-credentials-ac.fa082f05/README.md) `dailymirror.lk`
 * [AKD’s India Tour and Ethnic Probleme-EDITORIAL](data/articles/akd-s-india-tour-and-eth.9cee8bf0/README.md) `dailymirror.lk`
+* [AI’s search for more energy is growing more urgent](data/articles/ai-s-search-for-more-ene.295e82b9/README.md) `technologyreview.com`
 * [Engaging civil society to further support education system in Sri Lanka](data/articles/engaging-civil-society-t.6f3d1398/README.md) `ft.lk`
 * [Misalignment: Unnoticed culprit in organisational ineffectiveness](data/articles/misalignment-unnoticed-c.487d042f/README.md) `ft.lk`
 * [Has NPP Government ever thought about cleaning this “vulgarised society”?](data/articles/has-npp-government-ever.8849954a/README.md) `ft.lk`
@@ -17,6 +21,7 @@ Last Updated **2024-12-17 06:25:40**
 ## 2024-12-16
 
 * [4 Listening Skills Leaders Need to Master](data/articles/4-listening-skills-leade.6b4bfb74/README.md) `hbr.org`
+* [An Early-Warning System Will Make Your Supply Chain More Resilient](data/articles/an-early-warning-system.68caa5ca/README.md) `hbr.org`
 * [Google’s big week was a flex for the power of big tech](data/articles/google-s-big-week-was-a.85452af1/README.md) `technologyreview.com`
 * [Building ‘generational companies’ through Japanese business practices](data/articles/building-generational-co.a1c3728f/README.md) `ft.lk`
 * [A plea for national consensus to resolve  Sri Lanka’s  human-elephant conflict](data/articles/a-plea-for-national-cons.ea90776a/README.md) `dailymirror.lk`
@@ -79,6 +84,7 @@ Last Updated **2024-12-17 06:25:40**
 
 ## 2024-12-11
 
+* [Google’s new Project Astra could be generative AI’s killer app](data/articles/google-s-new-project-ast.54b3788f/README.md) `technologyreview.com`
 * [Israeli entry to Golan Heights buffer zone angers Egypt](data/articles/israeli-entry-to-golan-h.a0da1208/README.md) `eiu.com`
 * [Bluesky has an impersonator problem](data/articles/bluesky-has-an-impersona.eb552e3a/README.md) `technologyreview.com`
 * [House of Cards: Sri Lanka’s sovereign bond fiasco and precarious balancing act of Central Bank](data/articles/house-of-cards-sri-lanka.4cb4a04b/README.md) `ft.lk`
