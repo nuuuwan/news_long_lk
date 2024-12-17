@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-16 18:22:00**
+Last Updated **2024-12-17 06:25:40**
+
+## 2024-12-17
+
+* [Speaker’s Credentials: Academic or Leadership Qualities?](data/articles/speaker-s-credentials-ac.fa082f05/README.md) `dailymirror.lk`
+* [AKD’s India Tour and Ethnic Probleme-EDITORIAL](data/articles/akd-s-india-tour-and-eth.9cee8bf0/README.md) `dailymirror.lk`
+* [Engaging civil society to further support education system in Sri Lanka](data/articles/engaging-civil-society-t.6f3d1398/README.md) `ft.lk`
+* [Misalignment: Unnoticed culprit in organisational ineffectiveness](data/articles/misalignment-unnoticed-c.487d042f/README.md) `ft.lk`
+* [Has NPP Government ever thought about cleaning this “vulgarised society”?](data/articles/has-npp-government-ever.8849954a/README.md) `ft.lk`
+* [Reforming Sri Lanka’s public sector: Pathway to sustainable development](data/articles/reforming-sri-lanka-s-pu.65265a73/README.md) `ft.lk`
+* [Hidden cost of traffic lights: Colombo’s silent economic burden](data/articles/hidden-cost-of-traffic-l.bd7400b9/README.md) `ft.lk`
 
 ## 2024-12-16
 
+* [4 Listening Skills Leaders Need to Master](data/articles/4-listening-skills-leade.6b4bfb74/README.md) `hbr.org`
 * [Google’s big week was a flex for the power of big tech](data/articles/google-s-big-week-was-a.85452af1/README.md) `technologyreview.com`
 * [Building ‘generational companies’ through Japanese business practices](data/articles/building-generational-co.a1c3728f/README.md) `ft.lk`
 * [A plea for national consensus to resolve  Sri Lanka’s  human-elephant conflict](data/articles/a-plea-for-national-cons.ea90776a/README.md) `dailymirror.lk`
@@ -35,6 +46,7 @@ Last Updated **2024-12-16 18:22:00**
 
 ## 2024-12-13
 
+* [Google’s big week was a flex for the power of big tech](data/articles/google-s-big-week-was-a.3fe9eb97/README.md) `technologyreview.com`
 * [How Gen AI and Analytical AI Differ — and When to Use Each](data/articles/how-gen-ai-and-analytica.a577269c/README.md) `hbr.org`
 * [Joining a Professional Group Where Everyone Already Knows Each Other](data/articles/joining-a-professional-g.afa0e9d3/README.md) `hbr.org`
 * [Continuing the Work of DEI, No Matter What Your Company Calls It](data/articles/continuing-the-work-of-d.9fa0861a/README.md) `hbr.org`
