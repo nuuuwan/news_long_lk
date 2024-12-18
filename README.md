@@ -2,21 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-18 06:25:25**
+Last Updated **2024-12-18 18:21:18**
 
 ## 2024-12-18
 
+* [This is where the data to build AI comes from](data/articles/this-is-where-the-data-t.82c3eed8/README.md) `technologyreview.com`
 * [Yukthi outraged by extractive external debt restructuring agreement](data/articles/yukthi-outraged-by-extra.f43b2fb3/README.md) `ft.lk`
 * [Violating people’s sovereignty](data/articles/violating-people-s-sover.600639f3/README.md) `ft.lk`
 * [National security only through national harmony – a response](data/articles/national-security-only-t.0b9cbaa5/README.md) `ft.lk`
 
 ## 2024-12-17
 
+* [AMAN Dialogue 2025 aims to foster collaboration among maritime nations - Adm. Ashraf](data/articles/aman-dialogue-2025-aims.25eb15f1/README.md) `dailymirror.lk`
 * [AMAN Dialogue 2025 aims to foster collaboration among maritime nations - Adm. Ashraf](data/articles/aman-dialogue-2025-aims.dd908450/README.md) `dailymirror.lk`
 * [More Symbolism and Less Substance in President’s Visit to India](data/articles/more-symbolism-and-less.06fe0255/README.md) `dailymirror.lk`
 * [Sri Lanka’s ‘Fourth Estate’ Rising from the Ashes](data/articles/sri-lanka-s-fourth-estat.d13f4ba6/README.md) `dailymirror.lk`
 * [Where Humans Still Have the Edge on AI](data/articles/where-humans-still-have.690b7e79/README.md) `hbr.org`
 * [Why Mentoring Programs Fail — and How to Make Them Worthwhile](data/articles/why-mentoring-programs-f.c4daf870/README.md) `hbr.org`
+* [6 Questions to Find Out How Your Employees Are Really Doing](data/articles/6-questions-to-find-out.fdc9f3e3/README.md) `hbr.org`
 * [A woman in the US is the third person to receive a gene-edited pig kidney](data/articles/a-woman-in-the-us-is-the.043a9e46/README.md) `technologyreview.com`
 * [Anawilundawa ANRM Project: Where people, nature thrive hand in hand with mangroves](data/articles/anawilundawa-anrm-projec.50a0dcfe/README.md) `dailymirror.lk`
 * [Beyond Big Brother: Reframing India-Sri Lanka Relations Under Dissanayake](data/articles/beyond-big-brother-refra.de61c5c9/README.md) `dailymirror.lk`
@@ -69,6 +72,7 @@ Last Updated **2024-12-18 06:25:25**
 * [How Gen AI and Analytical AI Differ — and When to Use Each](data/articles/how-gen-ai-and-analytica.a577269c/README.md) `hbr.org`
 * [Joining a Professional Group Where Everyone Already Knows Each Other](data/articles/joining-a-professional-g.afa0e9d3/README.md) `hbr.org`
 * [Continuing the Work of DEI, No Matter What Your Company Calls It](data/articles/continuing-the-work-of-d.9fa0861a/README.md) `hbr.org`
+* [AI’s emissions are about to skyrocket even further](data/articles/ai-s-emissions-are-about.ed77e734/README.md) `technologyreview.com`
 * [How Silicon Valley is disrupting democracy](data/articles/how-silicon-valley-is-di.2061b16c/README.md) `technologyreview.com`
 * [Mannar’s wind turbines: Greenwashing on a giant scale](data/articles/mannar-s-wind-turbines-g.d6fca54d/README.md) `ft.lk`
 * [Justice for All calls for reform in the wake of political change](data/articles/justice-for-all-calls-fo.828ddf3b/README.md) `ft.lk`
