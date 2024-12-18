@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-17 18:22:18**
+Last Updated **2024-12-18 06:25:25**
+
+## 2024-12-18
+
+* [Yukthi outraged by extractive external debt restructuring agreement](data/articles/yukthi-outraged-by-extra.f43b2fb3/README.md) `ft.lk`
+* [Violating people’s sovereignty](data/articles/violating-people-s-sover.600639f3/README.md) `ft.lk`
+* [National security only through national harmony – a response](data/articles/national-security-only-t.0b9cbaa5/README.md) `ft.lk`
 
 ## 2024-12-17
 
+* [AMAN Dialogue 2025 aims to foster collaboration among maritime nations - Adm. Ashraf](data/articles/aman-dialogue-2025-aims.dd908450/README.md) `dailymirror.lk`
+* [More Symbolism and Less Substance in President’s Visit to India](data/articles/more-symbolism-and-less.06fe0255/README.md) `dailymirror.lk`
+* [Sri Lanka’s ‘Fourth Estate’ Rising from the Ashes](data/articles/sri-lanka-s-fourth-estat.d13f4ba6/README.md) `dailymirror.lk`
+* [Where Humans Still Have the Edge on AI](data/articles/where-humans-still-have.690b7e79/README.md) `hbr.org`
+* [Why Mentoring Programs Fail — and How to Make Them Worthwhile](data/articles/why-mentoring-programs-f.c4daf870/README.md) `hbr.org`
+* [A woman in the US is the third person to receive a gene-edited pig kidney](data/articles/a-woman-in-the-us-is-the.043a9e46/README.md) `technologyreview.com`
 * [Anawilundawa ANRM Project: Where people, nature thrive hand in hand with mangroves](data/articles/anawilundawa-anrm-projec.50a0dcfe/README.md) `dailymirror.lk`
 * [Beyond Big Brother: Reframing India-Sri Lanka Relations Under Dissanayake](data/articles/beyond-big-brother-refra.de61c5c9/README.md) `dailymirror.lk`
 * [Faking Degrees: A Thriving industry in South Asia](data/articles/faking-degrees-a-thrivin.4fca19df/README.md) `dailymirror.lk`
@@ -20,6 +32,8 @@ Last Updated **2024-12-17 18:22:18**
 
 ## 2024-12-16
 
+* [“People from all the Provinces – North, South, East, and West—representing diverse communities  contributed to our mandate.As a leader entrusted with such an important responsibility by my people, I clearly understand that the essence of democracy lies in the coexistence of diverse political views and groups.”- President Dissanayake in New Delhi](data/articles/people-from-all-the-pro.2e33c06f/README.md) `dbsjeyaraj.com`
+* [A Guide to Managing Interconnected AI Systems](data/articles/a-guide-to-managing-inte.91594b21/README.md) `hbr.org`
 * [4 Listening Skills Leaders Need to Master](data/articles/4-listening-skills-leade.6b4bfb74/README.md) `hbr.org`
 * [An Early-Warning System Will Make Your Supply Chain More Resilient](data/articles/an-early-warning-system.68caa5ca/README.md) `hbr.org`
 * [Google’s big week was a flex for the power of big tech](data/articles/google-s-big-week-was-a.85452af1/README.md) `technologyreview.com`
