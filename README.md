@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-19 06:25:40**
+Last Updated **2024-12-19 18:21:25**
 
 ## 2024-12-19
 
+* [Three pieces of good news on climate change in 2024](data/articles/three-pieces-of-good-new.0b1e0f80/README.md) `technologyreview.com`
+* [Childhood bullying and economic impact](data/articles/childhood-bullying-and-e.9917db11/README.md) `ft.lk`
 * [Childhood bullying and economic impact](data/articles/childhood-bullying-and-e.bee1d94e/README.md) `ft.lk`
 * [Children first: Proposal for protection and promotion of child rights submitted to President](data/articles/children-first-proposal.3cb41115/README.md) `ft.lk`
 * [Sharing empathy with children this festive season](data/articles/sharing-empathy-with-chi.ccd77c08/README.md) `ft.lk`
@@ -18,6 +20,9 @@ Last Updated **2024-12-19 06:25:40**
 
 ## 2024-12-18
 
+* [Contract Negotiations Should Be Collaborative, Not Adversarial](data/articles/contract-negotiations-sh.34df0c5e/README.md) `hbr.org`
+* [How to Create Products That Grow with Their Users](data/articles/how-to-create-products-t.7326f29d/README.md) `hbr.org`
+* [Is AI the Right Tool to Solve That Problem?](data/articles/is-ai-the-right-tool-to.ecefde0b/README.md) `hbr.org`
 * [This is where the data to build AI comes from](data/articles/this-is-where-the-data-t.82c3eed8/README.md) `technologyreview.com`
 * [Yukthi outraged by extractive external debt restructuring agreement](data/articles/yukthi-outraged-by-extra.f43b2fb3/README.md) `ft.lk`
 * [Violating people’s sovereignty](data/articles/violating-people-s-sover.600639f3/README.md) `ft.lk`
@@ -39,6 +44,7 @@ Last Updated **2024-12-19 06:25:40**
 * [Faking Degrees: A Thriving industry in South Asia](data/articles/faking-degrees-a-thrivin.4fca19df/README.md) `dailymirror.lk`
 * [Speaker’s Credentials: Academic or Leadership Qualities?](data/articles/speaker-s-credentials-ac.fa082f05/README.md) `dailymirror.lk`
 * [AKD’s India Tour and Ethnic Probleme-EDITORIAL](data/articles/akd-s-india-tour-and-eth.9cee8bf0/README.md) `dailymirror.lk`
+* [The 8 worst technology failures of 2024](data/articles/the-8-worst-technology-f.ec3917db/README.md) `technologyreview.com`
 * [AI’s search for more energy is growing more urgent](data/articles/ai-s-search-for-more-ene.295e82b9/README.md) `technologyreview.com`
 * [Engaging civil society to further support education system in Sri Lanka](data/articles/engaging-civil-society-t.6f3d1398/README.md) `ft.lk`
 * [Misalignment: Unnoticed culprit in organisational ineffectiveness](data/articles/misalignment-unnoticed-c.487d042f/README.md) `ft.lk`

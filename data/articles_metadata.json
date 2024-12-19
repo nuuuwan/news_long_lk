@@ -1,5 +1,19 @@
 [
   {
+    "title": "Three pieces of good news on climate change in 2024",
+    "url": "https://www.technologyreview.com/2024/12/19/1109054/good-climate-news/",
+    "ut": 1734568200.0,
+    "dir_path_unix": "data/articles/three-pieces-of-good-new.0b1e0f80",
+    "time_str_formatted": "06:00 AM, Thursday, December 19, 2024"
+  },
+  {
+    "title": "Childhood bullying and economic impact",
+    "url": "https://www.ft.lk/columns/Childhood-bullying-and-economic-impact/4-770709",
+    "ut": 1734556661.0,
+    "dir_path_unix": "data/articles/childhood-bullying-and-e.9917db11",
+    "time_str_formatted": "02:47 AM, Thursday, December 19, 2024"
+  },
+  {
     "title": "Childhood bullying and economic impact",
     "url": "https://www.ft.lk/opinion/Childhood-bullying-and-economic-impact/14-770709",
     "ut": 1734556661.0,
@@ -61,6 +75,27 @@
     "ut": 1734547795.0,
     "dir_path_unix": "data/articles/akd-s-delhi-success-end.7bb3fd6c",
     "time_str_formatted": "12:19 AM, Thursday, December 19, 2024"
+  },
+  {
+    "title": "Contract Negotiations Should Be Collaborative, Not Adversarial",
+    "url": "https://hbr.org/2024/12/contract-negotiations-should-be-collaborative-not-adversarial",
+    "ut": 1734508524.0,
+    "dir_path_unix": "data/articles/contract-negotiations-sh.34df0c5e",
+    "time_str_formatted": "01:25 PM, Wednesday, December 18, 2024"
+  },
+  {
+    "title": "How to Create Products That Grow with Their Users",
+    "url": "https://hbr.org/2024/12/how-to-create-products-that-grow-with-their-users",
+    "ut": 1734507948.0,
+    "dir_path_unix": "data/articles/how-to-create-products-t.7326f29d",
+    "time_str_formatted": "01:15 PM, Wednesday, December 18, 2024"
+  },
+  {
+    "title": "Is AI the Right Tool to Solve That Problem?",
+    "url": "https://hbr.org/2024/12/is-ai-the-right-tool-to-solve-that-problem",
+    "ut": 1734507300.0,
+    "dir_path_unix": "data/articles/is-ai-the-right-tool-to.ecefde0b",
+    "time_str_formatted": "01:05 PM, Wednesday, December 18, 2024"
   },
   {
     "title": "This is where the data to build AI comes from",
@@ -187,6 +222,13 @@
     "ut": 1734396198.0,
     "dir_path_unix": "data/articles/akd-s-india-tour-and-eth.9cee8bf0",
     "time_str_formatted": "06:13 AM, Tuesday, December 17, 2024"
+  },
+  {
+    "title": "The 8 worst technology failures of 2024",
+    "url": "https://www.technologyreview.com/2024/12/17/1108883/the-8-worst-technology-failures-of-2024/",
+    "ut": 1734395400.0,
+    "dir_path_unix": "data/articles/the-8-worst-technology-f.ec3917db",
+    "time_str_formatted": "06:00 AM, Tuesday, December 17, 2024"
   },
   {
     "title": "AI\u2019s search for more energy is growing more urgent",
