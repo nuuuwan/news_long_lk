@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-18 18:21:18**
+Last Updated **2024-12-19 06:25:40**
+
+## 2024-12-19
+
+* [Childhood bullying and economic impact](data/articles/childhood-bullying-and-e.bee1d94e/README.md) `ft.lk`
+* [Children first: Proposal for protection and promotion of child rights submitted to President](data/articles/children-first-proposal.3cb41115/README.md) `ft.lk`
+* [Sharing empathy with children this festive season](data/articles/sharing-empathy-with-chi.ccd77c08/README.md) `ft.lk`
+* [Indo-Lanka ties intact, tightrope walk ahead for Sino-Lanka ties](data/articles/indo-lanka-ties-intact-t.be212bac/README.md) `dailymirror.lk`
+* [System changes to rout out political corruption at  grass root level](data/articles/system-changes-to-rout-o.ae6d1d9d/README.md) `dailymirror.lk`
+* [A nation’s people see power in the word ‘sorry’](data/articles/a-nation-s-people-see-po.cbb5e0b7/README.md) `dailymirror.lk`
+* [Exposing corruption: Better late than never - EDITORIAL](data/articles/exposing-corruption-bett.c204c335/README.md) `dailymirror.lk`
+* [Lessons from Bangladesh’s foreign power purchases](data/articles/lessons-from-bangladesh.b219b76b/README.md) `ft.lk`
+* [AKD’s Delhi success, ‘end of crisis’ announcement, axial Anuranomics shift](data/articles/akd-s-delhi-success-end.7bb3fd6c/README.md) `ft.lk`
 
 ## 2024-12-18
 
@@ -10,6 +22,7 @@ Last Updated **2024-12-18 18:21:18**
 * [Yukthi outraged by extractive external debt restructuring agreement](data/articles/yukthi-outraged-by-extra.f43b2fb3/README.md) `ft.lk`
 * [Violating people’s sovereignty](data/articles/violating-people-s-sover.600639f3/README.md) `ft.lk`
 * [National security only through national harmony – a response](data/articles/national-security-only-t.0b9cbaa5/README.md) `ft.lk`
+* [AI is changing how we study bird migration](data/articles/ai-is-changing-how-we-st.a4aae42e/README.md) `technologyreview.com`
 
 ## 2024-12-17
 

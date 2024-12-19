@@ -1,0 +1,24 @@
+# Exposing corruption: Better late than never - EDITORIAL
+
+[https://www.dailymirror.lk/opinion/Exposing-corruption-Better-late-than-never-EDITORIAL/172-298440](https://www.dailymirror.lk/opinion/Exposing-corruption-Better-late-than-never-EDITORIAL/172-298440)
+
+*01:09 AM, Thursday, December 19, 2024*
+
+Recently, former President Mahinda Rajapaksa posted a photo on his official Facebook page where he was posing alongside members of his security detail. The photo caption thanked all security personnel who had provided protection to him and his family over the years. The photo was posted after the Sri Lanka Police Headquarters issued a statement which revealed that an annual expenditure of Rs. 1.1 billion had been incurred to provide protection for former presidents. Out of this amount, the largest share was allocated for the security of former President Mahinda Rajapaksa.
+
+As a result, 100 security personnel assigned to Mahinda Rajapaksa were relieved of duties. In a video, they were seen worshipping the former President before leaving the former President’s residence. Addressing Parliament on Monday, Minister of Public Security Ananda Wijepala said that a staggering Rs. 1.5 billion had been spent on the security of former presidents over the past 11 and a half months. He then read out the expenses borne by tri-forces, Presidential Secretariat and the Police for providing security to each one of the former Presidents including Mrs. Hema Premadasa, spouse of late Ranasinghe Premadasa.
+
+For example, a sum of Rs. 328 million, Rs. 55 million and Rs. 327 million have been spent by the tri-forces, Presidential Secretariat and the Police respectively to provide security to former President Mahinda Rajapaksa. The total is Rs. 710 million. Similarly a total of Rs. 207 million, Rs. 307 million, Rs. 110 million and Rs. 33 million have been spent to provide protection for Maithripala Sirisena, Gotabaya Rajapaksa, Chandrika Bandaranaike Kumaratunga and Mrs. Premadasa respectively. Even though former President Ranil Wickremesinghe served the country for three months, the total expenses borne for his security detail was Rs. 82 million.
+
+These aren’t merely numbers but money that could have been put into good use. The Police for instance are public servants and people often hate the Police for accepting bribes in place of imposing fines. If their salaries anomalies were resolved and the Police cadre was well taken care of, they wouldn’t certainly be resorting to such activities. The same applies to military officers deployed to provide VIP protection.
+
+Amidst the ongoing education qualifications saga in Parliament, Chief Government Whip Dr. Nalinda Jayatissa added a little bit of more icing to the cake when he read out a list of names of former politicians who have obtained staggering amounts of money from the President’s Fund between 2005 and 2024.
+
+Passed in 1978, the President’s Fund Act provided for the establishment of a President’s Fund for the provision of funds for the relief of poverty, advancement of education or knowledge, advancement of religion or for any other purposes beneficial or of interest to the public. There were some ministers who had taken as many as Rs. 300 million from this Fund to seek medical treatments abroad. But there have been numerous instances when requests from citizens to obtain funds from the President’s Fund to treat critical illnesses were often disregarded or patients had to wait in long queues to obtain the required funds.
+
+It is in such a backdrop that a majority of former policymakers had obtained funds from the President’s Fund to treat their ailments and illnesses. It had been rather customary for many of them to visit Singapore’s Mount Elizabeth hospital to get regular health checkups while people in their own country, had to languish in queues to obtain critical and essential medicines.
+
+If the President’s Fund was utilised properly, it would have benefited many deserving patients and taxpayers’ money would have been put into good use. But in this country, policymakers have lived off taxpayers’ money for the longest time. These revelations speak for themselves. However the irony of the situation is that some of these politicians are no more and whether there’s a mechanism in place to retrieve this money remains a question.
+
+In his remarks, Dr. Jayatissa said that many opposition MPs who complain of a dearth of coconuts and rice are actually upset and are trying to create a crisis because they are unable to rob people’s money anymore. The government seems to be walking the talk in terms of exposing corruption that had taken place over the years. They need to start from somewhere and perhaps this is a good start to understand how a fund established for the poor was used by the powerful!
+
