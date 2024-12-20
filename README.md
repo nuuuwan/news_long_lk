@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-19 18:21:25**
+Last Updated **2024-12-20 06:25:00**
+
+## 2024-12-20
+
+* [Overview of Sri Lanka’s Speakers from Francis Molamure to Asoka Ranwala](data/articles/overview-of-sri-lanka-s.bdd2378a/README.md) `ft.lk`
+* [“Will ensure 2022-23 crisis never recurs in Sri Lanka”: President tells Parliament](data/articles/will-ensure-2022-23-cri.a9f3d986/README.md) `ft.lk`
+* [How India and Sri Lanka can go from aid to trade](data/articles/how-india-and-sri-lanka.4bba9390/README.md) `ft.lk`
+* [Beyond qualifications: Essence of leadership](data/articles/beyond-qualifications-es.08124245/README.md) `ft.lk`
+* [Politics aside: 5 critical steps to safeguard Sri Lanka’s hard-won gains in 2025](data/articles/politics-aside-5-critica.c936b1db/README.md) `ft.lk`
+* [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.03da21ad/README.md) `dailymirror.lk`
+* [Should Specialist Doctors Retire so ‘young’?](data/articles/should-specialist-doctor.2f612335/README.md) `dailymirror.lk`
 
 ## 2024-12-19
 

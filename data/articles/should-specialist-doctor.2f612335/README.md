@@ -1,0 +1,22 @@
+# Should Specialist Doctors Retire so ‘young’?
+
+[https://www.dailymirror.lk/opinion/Should-Specialist-Doctors-Retire-so-young/172-298521](https://www.dailymirror.lk/opinion/Should-Specialist-Doctors-Retire-so-young/172-298521)
+
+*02:27 AM, Friday, December 20, 2024*
+
+As Sri Lanka gets ready for Christmas in December, there will be some aged government workers who will be getting ready for retirement. That sounds painful, especially for specialist doctors who have to retire at age 60 by December 31 this year. However, there can be some good news for them given that the Ministry of Public Administration takes steps to gazette a ruling by the Court of Appeal to extend the retirement age of specialist doctors serving at government hospitals to age 63.
+
+Should a fit man who is a medical practitioner retire at age 63? This writer’s mind drifts to the old man fighting sharks in the sea and making a valiant effort to bring home his catch in Hemingway’s Nobel Prize winning novel ‘The Old Man and Sea’, here the old fisherman is defeated by the circumstances around him. Be it doctor or fisherman, when the authorities who pay you start talking about retirement, the whole scenario pops the question ‘is the party over for you?’.
+
+This article isn’t about the medical practitioner or specialist who has minted money in private practice; something which is possible after a doctor horns the skill of managing to juggle state employment in a government hospital and private practice. This column is about the doctor who dedicates his life and times to treating the ill, who frequent government hospitals. These are the doctors who people remember for going beyond the call of duty and ensuring the less fortunate receive an extended lifeline. Should such heroes of the people retire at 60?
+
+Then we have to take into consideration there being a dearth of specialist doctors in Sri Lanka. Many specialist doctors have emmigrated abroad in search of greener pastures. The vacancies they have created in the medical profession must be considered. This is why those in the medical profession are earnestly awaiting the move by the Ministry of Public Administration to gazette a ruling by the Appeal Court so that the retirement age for doctors in public service would be extended to 63 years.
+
+Of course critics would find enough ammunition here to start a debate on what negative effects extending the retirement age of doctors would have on unemployment. The unemployment aspect must also be considered in a country where it’s a fad for a section of middle-aged critics who are eager to pass on the baton to ‘the next generation’ and reiterate ‘our days of deciding the future are over’. If specialist doctors must be retained through the proposed age revision, they must be ‘the best in the business’ and work with the same zest shown by promising young medical practitioners who are now recognised as specialists.
+
+Life expectancy has increased and global trends are to extend the retirement age to 65. Hence governments must strike a balance between how many would retire in the near future and what ‘material’ is available as replacements.
+
+Other professionals who can relate to this debate are nurses and even teachers. These professionals have to retire by age 55 and if needed can ask for extensions till they reach age 57. They have to retire by age 60. There is also the burden on the treasury when government specialist doctors retire the moment they reach a pensionable age and then join the public sector as secretaries. Concerns have been raised about such retired professionals drawing a pension and a salary which then taxes the government coffers.
+
+Surely, we will show lion hearts to talk on behalf of dedicated specialist doctors, that are nearing retirement, so that they could continue service after December 31 this year. This writer, like many other professional scribes in the newspaper industry, can vouch for the quality of work that years of experience brings; regardless of whatever the profession. Many years ago a renowned cartoonist and a columnist, who was a household name, reached retirement age. The workers’ union wanted them out and replaced by two promising youth. The publisher said yes to the union chief on the condition that the replacements meet the standard of the two veterans. The union representatives went on the back foot and the two veterans got an extended stay at the newspaper. End of story!
+
