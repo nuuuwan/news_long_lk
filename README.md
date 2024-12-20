@@ -2,20 +2,27 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-20 06:25:00**
+Last Updated **2024-12-20 18:19:34**
 
 ## 2024-12-20
 
+* [Waqf or Habs? Urgent need for strong and independent Waqf Board](data/articles/waqf-or-habs-urgent-need.f8cb9580/README.md) `ft.lk`
+* [Politics of MMDA reform and system change](data/articles/politics-of-mmda-reform.386e4384/README.md) `ft.lk`
 * [Overview of Sri Lanka’s Speakers from Francis Molamure to Asoka Ranwala](data/articles/overview-of-sri-lanka-s.bdd2378a/README.md) `ft.lk`
 * [“Will ensure 2022-23 crisis never recurs in Sri Lanka”: President tells Parliament](data/articles/will-ensure-2022-23-cri.a9f3d986/README.md) `ft.lk`
 * [How India and Sri Lanka can go from aid to trade](data/articles/how-india-and-sri-lanka.4bba9390/README.md) `ft.lk`
+* [Drugs like Ozempic now make up 5% of prescriptions in the US](data/articles/drugs-like-ozempic-now-m.da122393/README.md) `technologyreview.com`
 * [Beyond qualifications: Essence of leadership](data/articles/beyond-qualifications-es.08124245/README.md) `ft.lk`
 * [Politics aside: 5 critical steps to safeguard Sri Lanka’s hard-won gains in 2025](data/articles/politics-aside-5-critica.c936b1db/README.md) `ft.lk`
 * [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.03da21ad/README.md) `dailymirror.lk`
+* [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.96a309fb/README.md) `dailymirror.lk`
 * [Should Specialist Doctors Retire so ‘young’?](data/articles/should-specialist-doctor.2f612335/README.md) `dailymirror.lk`
 
 ## 2024-12-19
 
+* [“பாலா அண்ணை “: அரசியல் ஆலோசகர் அன்டன் ஸ்ரனிஸ்லோஸ் பாலசிங்கத்துடனான அனுபவங்களின்  நினைவுகள்.](data/articles/ப-ல-அண-ண-அரச-யல-ஆல-சகர.18d6b941/README.md) `dbsjeyaraj.com`
+* [Digital Twins Aren’t Just for Big Businesses](data/articles/digital-twins-aren-t-jus.d7ba7fca/README.md) `hbr.org`
+* [Why Your Finance Team Should Help Make Big AI Decisions](data/articles/why-your-finance-team-sh.6ee9d5b6/README.md) `hbr.org`
 * [Three pieces of good news on climate change in 2024](data/articles/three-pieces-of-good-new.0b1e0f80/README.md) `technologyreview.com`
 * [Childhood bullying and economic impact](data/articles/childhood-bullying-and-e.9917db11/README.md) `ft.lk`
 * [Childhood bullying and economic impact](data/articles/childhood-bullying-and-e.bee1d94e/README.md) `ft.lk`
