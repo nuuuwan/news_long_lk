@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-21 06:25:04**
+Last Updated **2024-12-21 18:17:04**
 
 ## 2024-12-21
 
@@ -18,6 +18,7 @@ Last Updated **2024-12-21 06:25:04**
 
 ## 2024-12-20
 
+* [2024 Was a Bad Year for Sustainability](data/articles/2024-was-a-bad-year-for.0227b620/README.md) `hbr.org`
 * [Research: Why Forming Diverse Teams Is Harder in Uncertain Times](data/articles/research-why-forming-div.97a656a4/README.md) `hbr.org`
 * [The 10 Most Popular HBR Articles of 2024](data/articles/the-10-most-popular-hbr.62f0adc1/README.md) `hbr.org`
 * [How Honda Is Approaching Resource Circulation](data/articles/how-honda-is-approaching.c4f84f1b/README.md) `hbr.org`
