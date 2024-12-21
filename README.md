@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-20 18:19:34**
+Last Updated **2024-12-21 06:25:04**
+
+## 2024-12-21
+
+* [The sagging Indian interest in 13 A](data/articles/the-sagging-indian-inter.5b86a2a5/README.md) `dailymirror.lk`
+* [Recognising friend from foe and avoiding ‘Catch-22 situations’](data/articles/recognising-friend-from.cbddceb9/README.md) `dailymirror.lk`
+* [Going from  Aid to Trade:  a Story of Lanka and India](data/articles/going-from-aid-to-trade.9b04cc64/README.md) `dailymirror.lk`
+* [Japan’s Specified Skilled Worker Programme Helps 200 Youngsters  Complete the Programme](data/articles/japan-s-specified-skille.3dc0b13a/README.md) `dailymirror.lk`
+* [Request to Repeal the Prevention of Terrorism Act, Online Safety Act, and Other Repressive Laws](data/articles/request-to-repeal-the-pr.528606be/README.md) `dailymirror.lk`
+* [Human rights and inhuman wrongs](data/articles/human-rights-and-inhuman.9666b741/README.md) `ft.lk`
+* [Climate change adaptation, biodiversity conservation, and the means of implementation](data/articles/climate-change-adaptatio.507c65c0/README.md) `ft.lk`
+* [Is Sri Lanka ready to face a possible dementia epidemic?](data/articles/is-sri-lanka-ready-to-fa.69e7d1ca/README.md) `ft.lk`
+* [Untold lessons: Economic insights from history for Sri Lanka’s crisis](data/articles/untold-lessons-economic.ce868503/README.md) `ft.lk`
 
 ## 2024-12-20
 
+* [Research: Why Forming Diverse Teams Is Harder in Uncertain Times](data/articles/research-why-forming-div.97a656a4/README.md) `hbr.org`
+* [The 10 Most Popular HBR Articles of 2024](data/articles/the-10-most-popular-hbr.62f0adc1/README.md) `hbr.org`
+* [How Honda Is Approaching Resource Circulation](data/articles/how-honda-is-approaching.c4f84f1b/README.md) `hbr.org`
 * [Waqf or Habs? Urgent need for strong and independent Waqf Board](data/articles/waqf-or-habs-urgent-need.f8cb9580/README.md) `ft.lk`
 * [Politics of MMDA reform and system change](data/articles/politics-of-mmda-reform.386e4384/README.md) `ft.lk`
 * [Overview of Sri Lanka’s Speakers from Francis Molamure to Asoka Ranwala](data/articles/overview-of-sri-lanka-s.bdd2378a/README.md) `ft.lk`
