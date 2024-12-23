@@ -2,7 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-22 18:17:24**
+Last Updated **2024-12-23 06:25:23**
+
+## 2024-12-23
+
+* [A man who sold women for $10 now](data/articles/a-man-who-sold-women-for.e840bf73/README.md) `dailymirror.lk`
+* [World Meditation Day celebrated in Sri Lanka](data/articles/world-meditation-day-cel.a3ecfe92/README.md) `dailymirror.lk`
+* [Is ‘the Writing  on the Wall’  for the 13th Constitutional Amendment?](data/articles/is-the-writing-on-the-wa.f03c3c9a/README.md) `dailymirror.lk`
+* [After the PTA: ATA or nothing?](data/articles/after-the-pta-ata-or-not.1cd7d0ea/README.md) `dailymirror.lk`
+* [Christ’s message of peace amid the reality of war - EDITORIAL](data/articles/christ-s-message-of-peac.68ecf179/README.md) `dailymirror.lk`
+* [Sri Lanka’s IMF deal: Turning point, but caution is key](data/articles/sri-lanka-s-imf-deal-tur.93443154/README.md) `ft.lk`
+
+## 2024-12-22
+
+* [Rumpus about campus qualifications](data/articles/rumpus-about-campus-qual.aaa9f4af/README.md) `ft.lk`
+* [Central Bank, NGO Secretariat and weaponisation of Financial Action Task Force](data/articles/central-bank-ngo-secreta.431e69f5/README.md) `ft.lk`
+* [Removing ban on vehicle imports: Is it a prudent plan?](data/articles/removing-ban-on-vehicle.c9fc274f/README.md) `ft.lk`
+* [Civil society organisations do have active role to play in economic developments](data/articles/civil-society-organisati.8a031680/README.md) `ft.lk`
+* [From  Francis Molamure in 1931  to  Asoka Ranwala in 2024 :  An  Overview  of Sri Lanka’s Speakers.](data/articles/from-francis-molamure-in.b03805dc/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-21
 
