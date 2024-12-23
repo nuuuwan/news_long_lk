@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-23 06:25:23**
+Last Updated **2024-12-23 18:19:19**
 
 ## 2024-12-23
 
+* [President Disanayaka’s visit to India: Opportunities, challenges, and the path ahead](data/articles/president-disanayaka-s-v.1f9f460e/README.md) `dailymirror.lk`
+* [Will we ever trust robots?](data/articles/will-we-ever-trust-robot.26649057/README.md) `technologyreview.com`
 * [A man who sold women for $10 now](data/articles/a-man-who-sold-women-for.e840bf73/README.md) `dailymirror.lk`
 * [World Meditation Day celebrated in Sri Lanka](data/articles/world-meditation-day-cel.a3ecfe92/README.md) `dailymirror.lk`
 * [Is ‘the Writing  on the Wall’  for the 13th Constitutional Amendment?](data/articles/is-the-writing-on-the-wa.f03c3c9a/README.md) `dailymirror.lk`
@@ -50,6 +52,7 @@ Last Updated **2024-12-23 06:25:23**
 * [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.03da21ad/README.md) `dailymirror.lk`
 * [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.96a309fb/README.md) `dailymirror.lk`
 * [Should Specialist Doctors Retire so ‘young’?](data/articles/should-specialist-doctor.2f612335/README.md) `dailymirror.lk`
+* [BOJ stays put as the economy faces mounting risks](data/articles/boj-stays-put-as-the-eco.a6cbcf61/README.md) `eiu.com`
 
 ## 2024-12-19
 
