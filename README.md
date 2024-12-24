@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-23 18:19:19**
+Last Updated **2024-12-24 06:25:04**
+
+## 2024-12-24
+
+* [Can Sri Lanka avoid borrowing from international bondholders in the coming years?](data/articles/can-sri-lanka-avoid-borr.be35c1ee/README.md) `ft.lk`
+* [Economic crisis and household debt in the north](data/articles/economic-crisis-and-hous.2ce332aa/README.md) `ft.lk`
+* [Climate resilience: Critical need for Sri Lankan salt industry](data/articles/climate-resilience-criti.5ff62ea2/README.md) `ft.lk`
+* [Challenges of collaborative governance for Sri Lanka: Divided path ahead](data/articles/challenges-of-collaborat.c2aea162/README.md) `ft.lk`
+* [Continuity in change](data/articles/continuity-in-change.c8d7349d/README.md) `ft.lk`
+* [What’s next with India-Sri Lanka ties post President Dissanayake’s Visit?](data/articles/what-s-next-with-india-s.70d2dd7b/README.md) `dailymirror.lk`
 
 ## 2024-12-23
 
+* [Beyond the Title: Parliament Needs a Focus on Expertise](data/articles/beyond-the-title-parliam.a590e423/README.md) `dailymirror.lk`
+* [Economic crisis and household debt in the north](data/articles/economic-crisis-and-hous.7879b61b/README.md) `dailymirror.lk`
+* [A humanitarian approach to resolve the Northern fishermen issue - EDITORIAL](data/articles/a-humanitarian-approach.88fb4a32/README.md) `dailymirror.lk`
+* [Why Global Sustainability Efforts Will Continue Despite Trump](data/articles/why-global-sustainabilit.9980fe34/README.md) `hbr.org`
 * [President Disanayaka’s visit to India: Opportunities, challenges, and the path ahead](data/articles/president-disanayaka-s-v.1f9f460e/README.md) `dailymirror.lk`
 * [Will we ever trust robots?](data/articles/will-we-ever-trust-robot.26649057/README.md) `technologyreview.com`
 * [A man who sold women for $10 now](data/articles/a-man-who-sold-women-for.e840bf73/README.md) `dailymirror.lk`
@@ -60,6 +73,7 @@ Last Updated **2024-12-23 18:19:19**
 * [Digital Twins Aren’t Just for Big Businesses](data/articles/digital-twins-aren-t-jus.d7ba7fca/README.md) `hbr.org`
 * [Why Your Finance Team Should Help Make Big AI Decisions](data/articles/why-your-finance-team-sh.6ee9d5b6/README.md) `hbr.org`
 * [Three pieces of good news on climate change in 2024](data/articles/three-pieces-of-good-new.0b1e0f80/README.md) `technologyreview.com`
+* [Digital twins of human organs are here. They’re set to transform medical treatment.](data/articles/digital-twins-of-human-o.e232eb90/README.md) `technologyreview.com`
 * [Childhood bullying and economic impact](data/articles/childhood-bullying-and-e.9917db11/README.md) `ft.lk`
 * [Childhood bullying and economic impact](data/articles/childhood-bullying-and-e.bee1d94e/README.md) `ft.lk`
 * [Children first: Proposal for protection and promotion of child rights submitted to President](data/articles/children-first-proposal.3cb41115/README.md) `ft.lk`
