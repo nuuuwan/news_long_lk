@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-24 06:25:04**
+Last Updated **2024-12-24 18:19:18**
 
 ## 2024-12-24
 
+* [The humans behind the robots](data/articles/the-humans-behind-the-ro.58f136f1/README.md) `technologyreview.com`
 * [Can Sri Lanka avoid borrowing from international bondholders in the coming years?](data/articles/can-sri-lanka-avoid-borr.be35c1ee/README.md) `ft.lk`
 * [Economic crisis and household debt in the north](data/articles/economic-crisis-and-hous.2ce332aa/README.md) `ft.lk`
 * [Climate resilience: Critical need for Sri Lankan salt industry](data/articles/climate-resilience-criti.5ff62ea2/README.md) `ft.lk`
@@ -18,15 +19,18 @@ Last Updated **2024-12-24 06:25:04**
 * [Beyond the Title: Parliament Needs a Focus on Expertise](data/articles/beyond-the-title-parliam.a590e423/README.md) `dailymirror.lk`
 * [Economic crisis and household debt in the north](data/articles/economic-crisis-and-hous.7879b61b/README.md) `dailymirror.lk`
 * [A humanitarian approach to resolve the Northern fishermen issue - EDITORIAL](data/articles/a-humanitarian-approach.88fb4a32/README.md) `dailymirror.lk`
+* [Are You the Cause of Your Team’s Change Fatigue?](data/articles/are-you-the-cause-of-you.473e3b89/README.md) `hbr.org`
 * [Why Global Sustainability Efforts Will Continue Despite Trump](data/articles/why-global-sustainabilit.9980fe34/README.md) `hbr.org`
 * [President Disanayaka’s visit to India: Opportunities, challenges, and the path ahead](data/articles/president-disanayaka-s-v.1f9f460e/README.md) `dailymirror.lk`
 * [Will we ever trust robots?](data/articles/will-we-ever-trust-robot.26649057/README.md) `technologyreview.com`
 * [A man who sold women for $10 now](data/articles/a-man-who-sold-women-for.e840bf73/README.md) `dailymirror.lk`
 * [World Meditation Day celebrated in Sri Lanka](data/articles/world-meditation-day-cel.a3ecfe92/README.md) `dailymirror.lk`
 * [Is ‘the Writing  on the Wall’  for the 13th Constitutional Amendment?](data/articles/is-the-writing-on-the-wa.f03c3c9a/README.md) `dailymirror.lk`
+* [Five of my Favourite  Christmas Carols – How they Originated and Became Widely Popular](data/articles/five-of-my-favourite-chr.f7473882/README.md) `dbsjeyaraj.com`
 * [After the PTA: ATA or nothing?](data/articles/after-the-pta-ata-or-not.1cd7d0ea/README.md) `dailymirror.lk`
 * [Christ’s message of peace amid the reality of war - EDITORIAL](data/articles/christ-s-message-of-peac.68ecf179/README.md) `dailymirror.lk`
 * [Sri Lanka’s IMF deal: Turning point, but caution is key](data/articles/sri-lanka-s-imf-deal-tur.93443154/README.md) `ft.lk`
+* [Kandy-born MG Ramachandran (MGR) was Uncrowned King of Tamil Cinema   and Chief Minister of Tamil Nadu State](data/articles/kandy-born-mg-ramachandr.a220cc4a/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-22
 
@@ -62,6 +66,7 @@ Last Updated **2024-12-24 06:25:04**
 * [Drugs like Ozempic now make up 5% of prescriptions in the US](data/articles/drugs-like-ozempic-now-m.da122393/README.md) `technologyreview.com`
 * [Beyond qualifications: Essence of leadership](data/articles/beyond-qualifications-es.08124245/README.md) `ft.lk`
 * [Politics aside: 5 critical steps to safeguard Sri Lanka’s hard-won gains in 2025](data/articles/politics-aside-5-critica.c936b1db/README.md) `ft.lk`
+* [Why childhood vaccines are a public health success story](data/articles/why-childhood-vaccines-a.3a04c0b9/README.md) `technologyreview.com`
 * [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.03da21ad/README.md) `dailymirror.lk`
 * [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.96a309fb/README.md) `dailymirror.lk`
 * [Should Specialist Doctors Retire so ‘young’?](data/articles/should-specialist-doctor.2f612335/README.md) `dailymirror.lk`
