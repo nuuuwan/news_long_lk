@@ -2,19 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-25 06:25:11**
+Last Updated **2024-12-25 18:19:09**
 
 ## 2024-12-25
 
 * [Has NPP Government burnt its finger with IMF?](data/articles/has-npp-government-burnt.c95b1a0f/README.md) `ft.lk`
 * [Ecuador’s debt for nature swap: Innovative bond restructuring – lessons for Sri Lanka](data/articles/ecuador-s-debt-for-natur.97c616ed/README.md) `ft.lk`
 * [President’s Fund is a tragedy](data/articles/president-s-fund-is-a-tr.3ff6b0d3/README.md) `ft.lk`
+* [Revisiting a year of Roundtables, MIT Technology Review’s subscriber-only events](data/articles/revisiting-a-year-of-rou.53441100/README.md) `technologyreview.com`
 
 ## 2024-12-24
 
 * [A roller-coaster of a year and finally hope Blame ‘Seeya’ that country is out of restricted default](data/articles/a-roller-coaster-of-a-ye.1e099d34/README.md) `dailymirror.lk`
+* [A roller-coaster of a year and finally hope](data/articles/a-roller-coaster-of-a-ye.1de69262/README.md) `dailymirror.lk`
 * [In the season of peace and dignity, whither Lanka?](data/articles/in-the-season-of-peace-a.4d26895a/README.md) `dailymirror.lk`
 * [Video Quick Take: Schneider Electric’s Charise Le on Working In Sustainability](data/articles/video-quick-take-schneid.e96b21ab/README.md) `hbr.org`
+* [New Managers: You Don’t Need to Know It All](data/articles/new-managers-you-don-t-n.961d31b5/README.md) `hbr.org`
+* [The Power of Small Acts of Inclusion](data/articles/the-power-of-small-acts.a514add0/README.md) `hbr.org`
 * [The humans behind the robots](data/articles/the-humans-behind-the-ro.58f136f1/README.md) `technologyreview.com`
 * [Can Sri Lanka avoid borrowing from international bondholders in the coming years?](data/articles/can-sri-lanka-avoid-borr.be35c1ee/README.md) `ft.lk`
 * [Economic crisis and household debt in the north](data/articles/economic-crisis-and-hous.2ce332aa/README.md) `ft.lk`
@@ -76,6 +80,7 @@ Last Updated **2024-12-25 06:25:11**
 * [Beyond qualifications: Essence of leadership](data/articles/beyond-qualifications-es.08124245/README.md) `ft.lk`
 * [Politics aside: 5 critical steps to safeguard Sri Lanka’s hard-won gains in 2025](data/articles/politics-aside-5-critica.c936b1db/README.md) `ft.lk`
 * [Why childhood vaccines are a public health success story](data/articles/why-childhood-vaccines-a.3a04c0b9/README.md) `technologyreview.com`
+* [The next generation of neural networks could live in hardware](data/articles/the-next-generation-of-n.ada43986/README.md) `technologyreview.com`
 * [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.03da21ad/README.md) `dailymirror.lk`
 * [Will life end at 40 for comatose SAARC?](data/articles/will-life-end-at-40-for.96a309fb/README.md) `dailymirror.lk`
 * [Should Specialist Doctors Retire so ‘young’?](data/articles/should-specialist-doctor.2f612335/README.md) `dailymirror.lk`

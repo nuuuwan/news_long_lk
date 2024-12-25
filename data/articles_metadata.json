@@ -21,10 +21,24 @@
     "time_str_formatted": "06:12 AM, Wednesday, December 25, 2024"
   },
   {
+    "title": "Revisiting a year of Roundtables, MIT Technology Review\u2019s subscriber-only events",
+    "url": "https://www.technologyreview.com/2024/12/25/1109371/revisiting-a-year-of-roundtables-mit-technology-reviews-subscriber-only-events/",
+    "ut": 1735083000.0,
+    "dir_path_unix": "data/articles/revisiting-a-year-of-rou.53441100",
+    "time_str_formatted": "05:00 AM, Wednesday, December 25, 2024"
+  },
+  {
     "title": "A roller-coaster of a year and finally hope Blame \u2018Seeya\u2019 that country is out of restricted default",
     "url": "https://www.dailymirror.lk/opinion/A-roller-coaster-of-a-year-and-finally-hope-Blame-Seeya-that-country-is-out-of-restricted-default/172-298826",
     "ut": 1735064612.0,
     "dir_path_unix": "data/articles/a-roller-coaster-of-a-ye.1e099d34",
+    "time_str_formatted": "11:53 PM, Tuesday, December 24, 2024"
+  },
+  {
+    "title": "A roller-coaster of a year and finally hope",
+    "url": "https://www.dailymirror.lk/opinion/A-roller-coaster-of-a-year-and-finally-hope/172-298826",
+    "ut": 1735064612.0,
+    "dir_path_unix": "data/articles/a-roller-coaster-of-a-ye.1de69262",
     "time_str_formatted": "11:53 PM, Tuesday, December 24, 2024"
   },
   {
@@ -40,6 +54,20 @@
     "ut": 1735029014.0,
     "dir_path_unix": "data/articles/video-quick-take-schneid.e96b21ab",
     "time_str_formatted": "02:00 PM, Tuesday, December 24, 2024"
+  },
+  {
+    "title": "New Managers: You Don\u2019t Need to Know It All",
+    "url": "https://hbr.org/2024/12/new-managers-you-dont-need-to-know-it-all",
+    "ut": 1735026353.0,
+    "dir_path_unix": "data/articles/new-managers-you-don-t-n.961d31b5",
+    "time_str_formatted": "01:15 PM, Tuesday, December 24, 2024"
+  },
+  {
+    "title": "The Power of Small Acts of Inclusion",
+    "url": "https://hbr.org/2024/12/the-power-of-small-acts-of-inclusion",
+    "ut": 1735025723.0,
+    "dir_path_unix": "data/articles/the-power-of-small-acts.a514add0",
+    "time_str_formatted": "01:05 PM, Tuesday, December 24, 2024"
   },
   {
     "title": "The humans behind the robots",
@@ -382,6 +410,13 @@
     "url": "https://www.technologyreview.com/2024/12/20/1109087/childhood-vaccines-public-health-success/",
     "ut": 1734651000.0,
     "dir_path_unix": "data/articles/why-childhood-vaccines-a.3a04c0b9",
+    "time_str_formatted": "05:00 AM, Friday, December 20, 2024"
+  },
+  {
+    "title": "The next generation of neural networks could live in hardware",
+    "url": "https://www.technologyreview.com/2024/12/20/1109183/the-next-generation-of-neural-networks-could-live-in-hardware/",
+    "ut": 1734651000.0,
+    "dir_path_unix": "data/articles/the-next-generation-of-n.ada43986",
     "time_str_formatted": "05:00 AM, Friday, December 20, 2024"
   },
   {
