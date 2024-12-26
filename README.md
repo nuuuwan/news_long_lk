@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-26 06:24:45**
+Last Updated **2024-12-26 18:19:19**
+
+## 2024-12-26
+
+* [This international surveillance project aims to protect wheat from deadly diseases](data/articles/this-international-surve.2f0c1922/README.md) `technologyreview.com`
 
 ## 2024-12-25
 
+* [Tsunami Survivors of Hambantota still relate tales of trauma and communal harmony](data/articles/tsunami-survivors-of-ham.e83c881f/README.md) `dailymirror.lk`
 * [Has NPP Government burnt its finger with IMF?](data/articles/has-npp-government-burnt.c95b1a0f/README.md) `ft.lk`
 * [Ecuador’s debt for nature swap: Innovative bond restructuring – lessons for Sri Lanka](data/articles/ecuador-s-debt-for-natur.97c616ed/README.md) `ft.lk`
 * [President’s Fund is a tragedy](data/articles/president-s-fund-is-a-tr.3ff6b0d3/README.md) `ft.lk`
