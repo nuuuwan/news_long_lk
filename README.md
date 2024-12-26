@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-25 18:19:09**
+Last Updated **2024-12-26 06:24:45**
 
 ## 2024-12-25
 
@@ -10,6 +10,7 @@ Last Updated **2024-12-25 18:19:09**
 * [Ecuador’s debt for nature swap: Innovative bond restructuring – lessons for Sri Lanka](data/articles/ecuador-s-debt-for-natur.97c616ed/README.md) `ft.lk`
 * [President’s Fund is a tragedy](data/articles/president-s-fund-is-a-tr.3ff6b0d3/README.md) `ft.lk`
 * [Revisiting a year of Roundtables, MIT Technology Review’s subscriber-only events](data/articles/revisiting-a-year-of-rou.53441100/README.md) `technologyreview.com`
+* [These stunning images trace ships’ routes as they move](data/articles/these-stunning-images-tr.0098803c/README.md) `technologyreview.com`
 
 ## 2024-12-24
 
