@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-26 18:19:19**
+Last Updated **2024-12-27 06:25:07**
+
+## 2024-12-27
+
+* [Recap of 2024 on economic perspective](data/articles/recap-of-2024-on-economi.45c582b9/README.md) `ft.lk`
+* [Speakers of Sri Lanka: “Honourable” guardians of Parliament’s sovereignty](data/articles/speakers-of-sri-lanka-ho.a59cd2aa/README.md) `ft.lk`
 
 ## 2024-12-26
 
+* [What can the recent Speaker’s resignation teach us about politics in the digital era?](data/articles/what-can-the-recent-spea.04af0b75/README.md) `dailymirror.lk`
+* [Sri Lanka’s role in the Rohingya Crisis AND The Palestine issue IN THE BACKDROP OF CHRISTMAS](data/articles/sri-lanka-s-role-in-the.0ee44d5c/README.md) `dailymirror.lk`
+* [Christ-less West vs. Christ-filled Palestinian resilience](data/articles/christ-less-west-vs-chri.a8b00771/README.md) `dailymirror.lk`
+* [Don’t hate traffic cops for making you do a breathalyser - EDITORIAL](data/articles/don-t-hate-traffic-cops.47e0f73e/README.md) `dailymirror.lk`
+* [The Charts that Help Make Sense of 2024](data/articles/the-charts-that-help-mak.4515499a/README.md) `hbr.org`
 * [This international surveillance project aims to protect wheat from deadly diseases](data/articles/this-international-surve.2f0c1922/README.md) `technologyreview.com`
 
 ## 2024-12-25
