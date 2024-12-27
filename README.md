@@ -2,12 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-27 06:25:07**
+Last Updated **2024-12-27 18:19:34**
 
 ## 2024-12-27
 
+* [Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track](data/articles/sri-lanka-s-ill-fated-lr.49ad0a9e/README.md) `ft.lk`
+* [Driving Sri Lanka’s future:  How Ministry of Digital Economy can transform nation](data/articles/driving-sri-lanka-s-futu.ebc6925d/README.md) `ft.lk`
+* [Red baby elephants, Ranil as godfather and dangerous external liaisons](data/articles/red-baby-elephants-ranil.76a5d8e6/README.md) `ft.lk`
 * [Recap of 2024 on economic perspective](data/articles/recap-of-2024-on-economi.45c582b9/README.md) `ft.lk`
+* [The world’s first industrial-scale plant for green steel promises a cleaner future](data/articles/the-world-s-first-indust.e11badea/README.md) `technologyreview.com`
 * [Speakers of Sri Lanka: “Honourable” guardians of Parliament’s sovereignty](data/articles/speakers-of-sri-lanka-ho.a59cd2aa/README.md) `ft.lk`
+* [Is “ the Writing on the Wall” for  the Thirteenth  Constitutional Amendment?](data/articles/is-the-writing-on-the-wa.0308b5cc/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-26
 
@@ -36,6 +41,7 @@ Last Updated **2024-12-27 06:25:07**
 * [New Managers: You Don’t Need to Know It All](data/articles/new-managers-you-don-t-n.961d31b5/README.md) `hbr.org`
 * [The Power of Small Acts of Inclusion](data/articles/the-power-of-small-acts.a514add0/README.md) `hbr.org`
 * [The humans behind the robots](data/articles/the-humans-behind-the-ro.58f136f1/README.md) `technologyreview.com`
+* [Here are MIT Technology Review’s best-performing stories of 2024](data/articles/here-are-mit-technology.245209a0/README.md) `technologyreview.com`
 * [Can Sri Lanka avoid borrowing from international bondholders in the coming years?](data/articles/can-sri-lanka-avoid-borr.be35c1ee/README.md) `ft.lk`
 * [Economic crisis and household debt in the north](data/articles/economic-crisis-and-hous.2ce332aa/README.md) `ft.lk`
 * [Climate resilience: Critical need for Sri Lankan salt industry](data/articles/climate-resilience-criti.5ff62ea2/README.md) `ft.lk`
