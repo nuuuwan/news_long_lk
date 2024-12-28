@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-27 18:19:34**
+Last Updated **2024-12-28 06:24:47**
+
+## 2024-12-28
+
+* [Is Sri Lanka out of bankruptcy?](data/articles/is-sri-lanka-out-of-bank.684f4c33/README.md) `dailymirror.lk`
+* [Year 2024 - the good, the bad, and the silly](data/articles/year-2024-the-good-the-b.1fce7150/README.md) `dailymirror.lk`
+* [“Their bodies had to be thrown into the sea”:  The heart-wrenching plight of Rohingya Refugees](data/articles/their-bodies-had-to-be.df837c8f/README.md) `dailymirror.lk`
+* [The JVP-led NPP Govt.’s Envisaged Constitution and the 13th Amendment](data/articles/the-jvp-led-npp-govt-s-e.dfa7e92a/README.md) `dailymirror.lk`
+* [New year for global climate  action: Road to Belém in 2025](data/articles/new-year-for-global-clim.54f642ae/README.md) `ft.lk`
+* [Chinese Navy hospital ship ‘Peace Ark’ in Mission Harmony 2024](data/articles/chinese-navy-hospital-sh.b4e5836f/README.md) `ft.lk`
 
 ## 2024-12-27
 
+* [Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track (Part II of II)](data/articles/sri-lanka-s-ill-fated-lr.592ff0e3/README.md) `ft.lk`
+* [Cost of living pandemic and food security](data/articles/cost-of-living-pandemic.3e569e1a/README.md) `ft.lk`
 * [Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track](data/articles/sri-lanka-s-ill-fated-lr.49ad0a9e/README.md) `ft.lk`
 * [Driving Sri Lanka’s future:  How Ministry of Digital Economy can transform nation](data/articles/driving-sri-lanka-s-futu.ebc6925d/README.md) `ft.lk`
 * [Red baby elephants, Ranil as godfather and dangerous external liaisons](data/articles/red-baby-elephants-ranil.76a5d8e6/README.md) `ft.lk`
