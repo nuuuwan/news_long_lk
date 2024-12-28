@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-28 06:24:47**
+Last Updated **2024-12-28 18:17:22**
 
 ## 2024-12-28
 
@@ -17,6 +17,7 @@ Last Updated **2024-12-28 06:24:47**
 
 * [Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track (Part II of II)](data/articles/sri-lanka-s-ill-fated-lr.592ff0e3/README.md) `ft.lk`
 * [Cost of living pandemic and food security](data/articles/cost-of-living-pandemic.3e569e1a/README.md) `ft.lk`
+* [Our Favorite Management Tips of 2024](data/articles/our-favorite-management.6fd80475/README.md) `hbr.org`
 * [Sri Lanka’s ill-fated LRT – following a train of thought  from policy derailment to being back on the right track](data/articles/sri-lanka-s-ill-fated-lr.49ad0a9e/README.md) `ft.lk`
 * [Driving Sri Lanka’s future:  How Ministry of Digital Economy can transform nation](data/articles/driving-sri-lanka-s-futu.ebc6925d/README.md) `ft.lk`
 * [Red baby elephants, Ranil as godfather and dangerous external liaisons](data/articles/red-baby-elephants-ranil.76a5d8e6/README.md) `ft.lk`
