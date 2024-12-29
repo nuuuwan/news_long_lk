@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-28 18:17:22**
+Last Updated **2024-12-29 06:25:02**
 
 ## 2024-12-28
 
+* [The Speakers of Sri Lanka from 1931 to 2024 Served as  the  “Honourable ”   Guardians of Parliamentary Supremacy.](data/articles/the-speakers-of-sri-lank.8906ea3b/README.md) `dbsjeyaraj.com`
 * [Is Sri Lanka out of bankruptcy?](data/articles/is-sri-lanka-out-of-bank.684f4c33/README.md) `dailymirror.lk`
 * [Year 2024 - the good, the bad, and the silly](data/articles/year-2024-the-good-the-b.1fce7150/README.md) `dailymirror.lk`
 * [“Their bodies had to be thrown into the sea”:  The heart-wrenching plight of Rohingya Refugees](data/articles/their-bodies-had-to-be.df837c8f/README.md) `dailymirror.lk`
