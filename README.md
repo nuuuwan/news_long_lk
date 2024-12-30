@@ -2,7 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-29 18:16:58**
+Last Updated **2024-12-30 06:25:01**
+
+## 2024-12-30
+
+* [The year 2024 looks scary; but the future looks worse](data/articles/the-year-2024-looks-scar.6aa363cb/README.md) `dailymirror.lk`
+* [The cataclysmic year 2024 draws to an end…- EDITORIAL](data/articles/the-cataclysmic-year-202.20178a15/README.md) `dailymirror.lk`
+
+## 2024-12-29
+
+* [AKD and ETCA with India: Trap or opportunity?](data/articles/akd-and-etca-with-india.6306d540/README.md) `ft.lk`
+* [Country moving over to renewable energy](data/articles/country-moving-over-to-r.7e8b2909/README.md) `ft.lk`
+* [Good governance a pre-requisite for economic development:  Mr. President, you are on right path](data/articles/good-governance-a-pre-re.a09ab4f0/README.md) `ft.lk`
+* [All about tax deadlines](data/articles/all-about-tax-deadlines.be844bd3/README.md) `ft.lk`
+* [Sri Lanka’s green bonds must demonstrate climate impact measurement: MTI](data/articles/sri-lanka-s-green-bonds.67438e56/README.md) `ft.lk`
 
 ## 2024-12-28
 
