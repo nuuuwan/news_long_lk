@@ -2,12 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-30 06:25:01**
+Last Updated **2024-12-30 18:19:23**
 
 ## 2024-12-30
 
+* [China wants to restore the sea with high-tech marine ranches](data/articles/china-wants-to-restore-t.3dd45dc5/README.md) `technologyreview.com`
+* [Feeding wild elephants and its repercussions](data/articles/feeding-wild-elephants-a.0d9ca275/README.md) `dailymirror.lk`
+* [2024  டிசம்பர் 16 ஆம் திகதி இந்திய — இலங்கை  கூட்டறிக்கையில் 13 வது திருத்தம் குறித்து வெளிப்படையாக குறிப்பிடப்படாதது அரசியலமைப்புக்கான 13  வது திருத்தத்துக்கு நேரப்போகும் கதிக்கான முன்னறிவிப்பு ?](data/articles/2024-ட-சம-பர-16-ஆம-த-கத.f73fa900/README.md) `dbsjeyaraj.com`
 * [The year 2024 looks scary; but the future looks worse](data/articles/the-year-2024-looks-scar.6aa363cb/README.md) `dailymirror.lk`
+* [Chabad House is a religious space belonging to the Chabad-Lubavitch Hasidic Movement which is deeply aligned with Israel’s ultra-right and the IDF.](data/articles/chabad-house-is-a-religi.bee8b777/README.md) `dbsjeyaraj.com`
 * [The cataclysmic year 2024 draws to an end…- EDITORIAL](data/articles/the-cataclysmic-year-202.20178a15/README.md) `dailymirror.lk`
+* [It would be useful to consider how far Gajendrakumar Ponnambalam, who has been an MP for a long time has been able to move forward and reach  his goals by adopting his ideologically stubborn political stance so far.](data/articles/it-would-be-useful-to-co.f4bc4881/README.md) `dbsjeyaraj.com`
 
 ## 2024-12-29
 
