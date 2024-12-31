@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-30 18:19:23**
+Last Updated **2024-12-31 06:25:02**
+
+## 2024-12-31
+
+* [HOW CAN THE NEW GOVERNMENT BEST TAKE CARE OF OUR CHILDREN and YOUTH?](data/articles/how-can-the-new-governme.2dc2a763/README.md) `dailymirror.lk`
+* [Corruption during human misery How billions of tsunami aid disappeared without a trace](data/articles/corruption-during-human.d505176d/README.md) `dailymirror.lk`
+* [Ten veteran journalists honoured at 69th  Sri Lanka Press Association anniversary](data/articles/ten-veteran-journalists.741f3933/README.md) `dailymirror.lk`
+* [‘A thriving nation, a beautiful life’ Hundred Days of President’s Journey](data/articles/a-thriving-nation-a-bea.6ee122c9/README.md) `dailymirror.lk`
+* [System change and bureaucracy -EDITORIAL](data/articles/system-change-and-bureau.d86111f3/README.md) `dailymirror.lk`
 
 ## 2024-12-30
 
+* [Forensic auditing](data/articles/forensic-auditing.3a3a55ed/README.md) `ft.lk`
+* [Preventing corruption at bureaucratic level](data/articles/preventing-corruption-at.e6e4f778/README.md) `ft.lk`
+* [Sri Lanka’s crisis: Short and long run](data/articles/sri-lanka-s-crisis-short.e63a79ec/README.md) `ft.lk`
+* [Case for smart sizing public service](data/articles/case-for-smart-sizing-pu.9c8c0430/README.md) `ft.lk`
+* [Revival of trade promotion office by NPP essential](data/articles/revival-of-trade-promoti.9adde889/README.md) `ft.lk`
 * [China wants to restore the sea with high-tech marine ranches](data/articles/china-wants-to-restore-t.3dd45dc5/README.md) `technologyreview.com`
 * [Feeding wild elephants and its repercussions](data/articles/feeding-wild-elephants-a.0d9ca275/README.md) `dailymirror.lk`
 * [2024  டிசம்பர் 16 ஆம் திகதி இந்திய — இலங்கை  கூட்டறிக்கையில் 13 வது திருத்தம் குறித்து வெளிப்படையாக குறிப்பிடப்படாதது அரசியலமைப்புக்கான 13  வது திருத்தத்துக்கு நேரப்போகும் கதிக்கான முன்னறிவிப்பு ?](data/articles/2024-ட-சம-பர-16-ஆம-த-கத.f73fa900/README.md) `dbsjeyaraj.com`
