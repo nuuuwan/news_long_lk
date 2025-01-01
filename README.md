@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-01 06:25:07**
+Last Updated **2025-01-01 18:18:26**
 
 ## 2025-01-01
 
+* [Year 2024 Review](data/articles/year-2024-review.2edcd1c2/README.md) `dailymirror.lk`
+* [The Vera C. Rubin Observatory is ready to transform our understanding of the cosmos](data/articles/the-vera-c-rubin-observa.4ecfebe3/README.md) `technologyreview.com`
 * [Why didn’t Sri Lanka end up like Bangladesh?](data/articles/why-didn-t-sri-lanka-end.e0a25519/README.md) `ft.lk`
 * [Restoring efficiency and integrity: Reforming board practices in State Owned Agencies](data/articles/restoring-efficiency-and.af604e85/README.md) `ft.lk`
 * [Twenty-five thoughts for 2025: Essentials for excellence](data/articles/twenty-five-thoughts-for.d63c2912/README.md) `ft.lk`
@@ -19,6 +21,8 @@ Last Updated **2025-01-01 06:25:07**
 * [Challenges and opportunities for India in crisis-ridden Myanmar](data/articles/challenges-and-opportuni.5f4798d2/README.md) `dailymirror.lk`
 * [2025 - A year of growth or complacency for the Government ?](data/articles/2025-a-year-of-growth-or.01c97364/README.md) `dailymirror.lk`
 * [Price controls in a market economy - could it work?](data/articles/price-controls-in-a-mark.fb84883e/README.md) `dailymirror.lk`
+* [“Jehovah, Thou hast promised,,The isles shall wait for Thee,” – A Hymn for Ceylon-            By Rev.W.S. Senior](data/articles/jehovah-thou-hast-promi.a5d156ca/README.md) `dbsjeyaraj.com`
+* [What’s the Most Impactful Thing You Learned This Year?](data/articles/what-s-the-most-impactfu.1a1a6246/README.md) `hbr.org`
 * [The AI Hype Index: Robot pets, simulated humans, and Apple’s AI text summaries](data/articles/the-ai-hype-index-robot.91800165/README.md) `technologyreview.com`
 * [HOW CAN THE NEW GOVERNMENT BEST TAKE CARE OF OUR CHILDREN and YOUTH?](data/articles/how-can-the-new-governme.2dc2a763/README.md) `dailymirror.lk`
 * [Corruption during human misery How billions of tsunami aid disappeared without a trace](data/articles/corruption-during-human.d505176d/README.md) `dailymirror.lk`
