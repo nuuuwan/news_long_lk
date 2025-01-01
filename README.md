@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2024-12-31 18:19:09**
+Last Updated **2025-01-01 06:25:07**
+
+## 2025-01-01
+
+* [Why didn’t Sri Lanka end up like Bangladesh?](data/articles/why-didn-t-sri-lanka-end.e0a25519/README.md) `ft.lk`
+* [Restoring efficiency and integrity: Reforming board practices in State Owned Agencies](data/articles/restoring-efficiency-and.af604e85/README.md) `ft.lk`
+* [Twenty-five thoughts for 2025: Essentials for excellence](data/articles/twenty-five-thoughts-for.d63c2912/README.md) `ft.lk`
+* [AKD: Expedient Marxist?](data/articles/akd-expedient-marxist.05e31ba7/README.md) `ft.lk`
+* [Berlin Wall, Rajapaksa rule and Lanka’s road from bankruptcy](data/articles/berlin-wall-rajapaksa-ru.a93c932f/README.md) `ft.lk`
 
 ## 2024-12-31
 
+* [Solution to rice crisis a litmus test for Govt.](data/articles/solution-to-rice-crisis.a0354471/README.md) `dailymirror.lk`
+* [A NEW YEAR IN THE UNIVERSE A TIME TO BEGIN AFRESH](data/articles/a-new-year-in-the-univer.b3ef8042/README.md) `dailymirror.lk`
+* [Challenges and opportunities for India in crisis-ridden Myanmar](data/articles/challenges-and-opportuni.5f4798d2/README.md) `dailymirror.lk`
+* [2025 - A year of growth or complacency for the Government ?](data/articles/2025-a-year-of-growth-or.01c97364/README.md) `dailymirror.lk`
+* [Price controls in a market economy - could it work?](data/articles/price-controls-in-a-mark.fb84883e/README.md) `dailymirror.lk`
 * [The AI Hype Index: Robot pets, simulated humans, and Apple’s AI text summaries](data/articles/the-ai-hype-index-robot.91800165/README.md) `technologyreview.com`
 * [HOW CAN THE NEW GOVERNMENT BEST TAKE CARE OF OUR CHILDREN and YOUTH?](data/articles/how-can-the-new-governme.2dc2a763/README.md) `dailymirror.lk`
 * [Corruption during human misery How billions of tsunami aid disappeared without a trace](data/articles/corruption-during-human.d505176d/README.md) `dailymirror.lk`
