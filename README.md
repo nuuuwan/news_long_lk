@@ -2,16 +2,28 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-01 18:18:26**
+Last Updated **2025-01-02 06:24:53**
+
+## 2025-01-02
+
+* [Mother of Altair victim to sue CIS for alleged negligence](data/articles/mother-of-altair-victim.7184b050/README.md) `dailymirror.lk`
+* [Sri Lanka’s private sector needs to rethink ESG](data/articles/sri-lanka-s-private-sect.23f2420b/README.md) `ft.lk`
+* [Policies to uplift construction industry with sustainability](data/articles/policies-to-uplift-const.b0a62a62/README.md) `ft.lk`
+* [Grieved parties must note that ‘this regime is still quite popular’](data/articles/grieved-parties-must-not.8ff75e55/README.md) `dailymirror.lk`
+* [STI: Tri forces for 2025](data/articles/sti-tri-forces-for-2025.76789a9b/README.md) `ft.lk`
+* [Could ‘Clean Sri Lanka’ rebuild a fractured nation? - EDITORIAL](data/articles/could-clean-sri-lanka-re.eed710b0/README.md) `dailymirror.lk`
+* [NPP’s great U-turn, India-China implications, emergent new left, SJB’s self-sabotage](data/articles/npp-s-great-u-turn-india.81cd7b78/README.md) `ft.lk`
 
 ## 2025-01-01
 
 * [Year 2024 Review](data/articles/year-2024-review.2edcd1c2/README.md) `dailymirror.lk`
 * [The Vera C. Rubin Observatory is ready to transform our understanding of the cosmos](data/articles/the-vera-c-rubin-observa.4ecfebe3/README.md) `technologyreview.com`
 * [Why didn’t Sri Lanka end up like Bangladesh?](data/articles/why-didn-t-sri-lanka-end.e0a25519/README.md) `ft.lk`
+* [No Govt can cut direct taxes, maintain high military expenditure, keep white elephants like Sri Lankan going, manage the debt burden, and keep the economy afloat, without imposing huge burdens on ordinary masses.](data/articles/no-govt-can-cut-direct-t.9b63492f/README.md) `dbsjeyaraj.com`
 * [Restoring efficiency and integrity: Reforming board practices in State Owned Agencies](data/articles/restoring-efficiency-and.af604e85/README.md) `ft.lk`
 * [Twenty-five thoughts for 2025: Essentials for excellence](data/articles/twenty-five-thoughts-for.d63c2912/README.md) `ft.lk`
 * [AKD: Expedient Marxist?](data/articles/akd-expedient-marxist.05e31ba7/README.md) `ft.lk`
+* [Berlin Wall, Rajapaksa rule and Lanka’s road from bankruptcy](data/articles/berlin-wall-rajapaksa-ru.1f0979f2/README.md) `ft.lk`
 * [Berlin Wall, Rajapaksa rule and Lanka’s road from bankruptcy](data/articles/berlin-wall-rajapaksa-ru.a93c932f/README.md) `ft.lk`
 
 ## 2024-12-31
@@ -22,6 +34,7 @@ Last Updated **2025-01-01 18:18:26**
 * [2025 - A year of growth or complacency for the Government ?](data/articles/2025-a-year-of-growth-or.01c97364/README.md) `dailymirror.lk`
 * [Price controls in a market economy - could it work?](data/articles/price-controls-in-a-mark.fb84883e/README.md) `dailymirror.lk`
 * [“Jehovah, Thou hast promised,,The isles shall wait for Thee,” – A Hymn for Ceylon-            By Rev.W.S. Senior](data/articles/jehovah-thou-hast-promi.a5d156ca/README.md) `dbsjeyaraj.com`
+* [The biggest AI flops of 2024](data/articles/the-biggest-ai-flops-of.292193f2/README.md) `technologyreview.com`
 * [What’s the Most Impactful Thing You Learned This Year?](data/articles/what-s-the-most-impactfu.1a1a6246/README.md) `hbr.org`
 * [The AI Hype Index: Robot pets, simulated humans, and Apple’s AI text summaries](data/articles/the-ai-hype-index-robot.91800165/README.md) `technologyreview.com`
 * [HOW CAN THE NEW GOVERNMENT BEST TAKE CARE OF OUR CHILDREN and YOUTH?](data/articles/how-can-the-new-governme.2dc2a763/README.md) `dailymirror.lk`
