@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-02 06:24:53**
+Last Updated **2025-01-02 18:19:15**
 
 ## 2025-01-02
 
+* [How wind tech hopes to help decarbonize cargo shipping](data/articles/how-wind-tech-hopes-to-h.0a2b0b6b/README.md) `technologyreview.com`
 * [Mother of Altair victim to sue CIS for alleged negligence](data/articles/mother-of-altair-victim.7184b050/README.md) `dailymirror.lk`
 * [Sri Lanka’s private sector needs to rethink ESG](data/articles/sri-lanka-s-private-sect.23f2420b/README.md) `ft.lk`
 * [Policies to uplift construction industry with sustainability](data/articles/policies-to-uplift-const.b0a62a62/README.md) `ft.lk`
