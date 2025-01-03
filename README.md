@@ -2,21 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-03 06:25:26**
+Last Updated **2025-01-03 18:19:10**
 
 ## 2025-01-03
 
 * [Unintentional setbacks: How bureaucracies can contribute to policy failures during implementation](data/articles/unintentional-setbacks-h.8315ea38/README.md) `ft.lk`
 * [Do they know it’s Christmas?](data/articles/do-they-know-it-s-christ.188ffe92/README.md) `ft.lk`
 * [Psychological toll of online child sexual abuse: Call for rights-based approaches](data/articles/psychological-toll-of-on.f366bd37/README.md) `ft.lk`
+* [How poop could help feed the planet](data/articles/how-poop-could-help-feed.72658b64/README.md) `technologyreview.com`
 * [For a working people’s Budget in 2025](data/articles/for-a-working-people-s-b.b86baa95/README.md) `ft.lk`
 * [Office to beaches: Rise of digital nomads and Japanese-style workation](data/articles/office-to-beaches-rise-o.92042394/README.md) `ft.lk`
+* [Is environment unsuitable for UNHRC to help Rohingya people in Sri Lanka?](data/articles/is-environment-unsuitabl.95f58dd0/README.md) `dailymirror.lk`
 
 ## 2025-01-02
 
 * [From one annus horribilis to another: Can greetings change our fate?](data/articles/from-one-annus-horribili.08124866/README.md) `dailymirror.lk`
 * [The art of advertising a new political culture - EDITORIAL](data/articles/the-art-of-advertising-a.6f5813af/README.md) `dailymirror.lk`
 * [How a True Hybrid Platform Can Boost Decision-Making and Growth](data/articles/how-a-true-hybrid-platfo.e270331a/README.md) `hbr.org`
+* [3 Ways to Make All Your Stakeholders Feel Heard](data/articles/3-ways-to-make-all-your.14afb306/README.md) `hbr.org`
 * [6 Ways AI Changed Business in 2024, According to Executives](data/articles/6-ways-ai-changed-busine.769a99b0/README.md) `hbr.org`
 * [How wind tech hopes to help decarbonize cargo shipping](data/articles/how-wind-tech-hopes-to-h.0a2b0b6b/README.md) `technologyreview.com`
 * [How wind tech could help decarbonize cargo shipping](data/articles/how-wind-tech-could-help.0a2b0b6b/README.md) `technologyreview.com`
