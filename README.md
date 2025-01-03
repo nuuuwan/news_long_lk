@@ -2,11 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-02 18:19:15**
+Last Updated **2025-01-03 06:25:26**
+
+## 2025-01-03
+
+* [Unintentional setbacks: How bureaucracies can contribute to policy failures during implementation](data/articles/unintentional-setbacks-h.8315ea38/README.md) `ft.lk`
+* [Do they know it’s Christmas?](data/articles/do-they-know-it-s-christ.188ffe92/README.md) `ft.lk`
+* [Psychological toll of online child sexual abuse: Call for rights-based approaches](data/articles/psychological-toll-of-on.f366bd37/README.md) `ft.lk`
+* [For a working people’s Budget in 2025](data/articles/for-a-working-people-s-b.b86baa95/README.md) `ft.lk`
+* [Office to beaches: Rise of digital nomads and Japanese-style workation](data/articles/office-to-beaches-rise-o.92042394/README.md) `ft.lk`
 
 ## 2025-01-02
 
+* [From one annus horribilis to another: Can greetings change our fate?](data/articles/from-one-annus-horribili.08124866/README.md) `dailymirror.lk`
+* [The art of advertising a new political culture - EDITORIAL](data/articles/the-art-of-advertising-a.6f5813af/README.md) `dailymirror.lk`
+* [How a True Hybrid Platform Can Boost Decision-Making and Growth](data/articles/how-a-true-hybrid-platfo.e270331a/README.md) `hbr.org`
+* [6 Ways AI Changed Business in 2024, According to Executives](data/articles/6-ways-ai-changed-busine.769a99b0/README.md) `hbr.org`
 * [How wind tech hopes to help decarbonize cargo shipping](data/articles/how-wind-tech-hopes-to-h.0a2b0b6b/README.md) `technologyreview.com`
+* [How wind tech could help decarbonize cargo shipping](data/articles/how-wind-tech-could-help.0a2b0b6b/README.md) `technologyreview.com`
 * [Mother of Altair victim to sue CIS for alleged negligence](data/articles/mother-of-altair-victim.7184b050/README.md) `dailymirror.lk`
 * [Sri Lanka’s private sector needs to rethink ESG](data/articles/sri-lanka-s-private-sect.23f2420b/README.md) `ft.lk`
 * [Policies to uplift construction industry with sustainability](data/articles/policies-to-uplift-const.b0a62a62/README.md) `ft.lk`
