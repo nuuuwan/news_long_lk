@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-04 06:24:50**
+Last Updated **2025-01-04 18:17:51**
 
 ## 2025-01-04
 
+* [தேசிய மக்கள் சக்தி அரசாங்கத்தின் உத்தேச அரசியலமைப்பும் 13 வது திருத்தமும்: 13 வது திருத்தத்தில் உள்ள அதிகாரப்பரவலாக்கல் அளவு புதிய அரசியலமைப்பில் சேர்த்துக் கொள்ளப்படுமா இல்லையா என்பதே முக்கியமான கேள்வியாகும்.](data/articles/த-ச-ய-மக-கள-சக-த-அரச-ங-க.5fe89064/README.md) `dbsjeyaraj.com`
 * [Life and Times of LTTE’s Ex-Jaffna Commander “Col” Kittu](data/articles/life-and-times-of-ltte-s.9e54fb43/README.md) `dailymirror.lk`
 
 ## 2025-01-03
@@ -30,6 +31,7 @@ Last Updated **2025-01-04 06:24:50**
 * [From one annus horribilis to another: Can greetings change our fate?](data/articles/from-one-annus-horribili.08124866/README.md) `dailymirror.lk`
 * [The art of advertising a new political culture - EDITORIAL](data/articles/the-art-of-advertising-a.6f5813af/README.md) `dailymirror.lk`
 * [How a True Hybrid Platform Can Boost Decision-Making and Growth](data/articles/how-a-true-hybrid-platfo.e270331a/README.md) `hbr.org`
+* [Parents Are Minimizing Work Relationships to Make Time for Childcare](data/articles/parents-are-minimizing-w.5d87d0e8/README.md) `hbr.org`
 * [3 Ways to Make All Your Stakeholders Feel Heard](data/articles/3-ways-to-make-all-your.14afb306/README.md) `hbr.org`
 * [6 Ways AI Changed Business in 2024, According to Executives](data/articles/6-ways-ai-changed-busine.769a99b0/README.md) `hbr.org`
 * [How wind tech hopes to help decarbonize cargo shipping](data/articles/how-wind-tech-hopes-to-h.0a2b0b6b/README.md) `technologyreview.com`
