@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-03 18:19:10**
+Last Updated **2025-01-04 06:24:50**
+
+## 2025-01-04
+
+* [Life and Times of LTTE’s Ex-Jaffna Commander “Col” Kittu](data/articles/life-and-times-of-ltte-s.9e54fb43/README.md) `dailymirror.lk`
 
 ## 2025-01-03
 
+* [System change and ushering value-based society](data/articles/system-change-and-usheri.38a657a3/README.md) `ft.lk`
+* [Portable speakers problem of Sri Lanka tourism](data/articles/portable-speakers-proble.7b4e9634/README.md) `ft.lk`
+* [Clean Sri Lanka vs. bureaucratic breaks](data/articles/clean-sri-lanka-vs-burea.91e87590/README.md) `dailymirror.lk`
+* [The President and the ‘state of the nation’](data/articles/the-president-and-the-st.1bd5b627/README.md) `dailymirror.lk`
+* [Climate-smart start-ups and entrepreneurship in Sri Lanka](data/articles/climate-smart-start-ups.70e13780/README.md) `ft.lk`
+* [Research: Do New Hires Really Understand Your Policies?](data/articles/research-do-new-hires-re.f7d0907e/README.md) `hbr.org`
+* [5 Ways to Deal with Flaky Colleagues Early in Your Career](data/articles/5-ways-to-deal-with-flak.b707366f/README.md) `hbr.org`
 * [Unintentional setbacks: How bureaucracies can contribute to policy failures during implementation](data/articles/unintentional-setbacks-h.8315ea38/README.md) `ft.lk`
 * [Do they know it’s Christmas?](data/articles/do-they-know-it-s-christ.188ffe92/README.md) `ft.lk`
 * [Psychological toll of online child sexual abuse: Call for rights-based approaches](data/articles/psychological-toll-of-on.f366bd37/README.md) `ft.lk`
