@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-05 06:24:56**
+Last Updated **2025-01-05 18:17:37**
+
+## 2025-01-05
+
+* [Life and Times of  Jaffna’s Former Tiger  Commander  Sathasivampillai Krishnakumar alias  “Col” Kittu.](data/articles/life-and-times-of-jaffna.5d15c42e/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-04
 
