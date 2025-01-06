@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-05 18:17:37**
+Last Updated **2025-01-06 06:25:12**
+
+## 2025-01-06
+
+* [‘ETH-PORAYA’ with humans needs a science-based approach](data/articles/eth-poraya-with-humans.e5981725/README.md) `dailymirror.lk`
 
 ## 2025-01-05
 
+* [There’s still no justice 40 years after  Fr. Bastian was killed](data/articles/there-s-still-no-justice.13d1f446/README.md) `dailymirror.lk`
+* [Self-Sufficiency in the New Year](data/articles/self-sufficiency-in-the.2fdcec43/README.md) `dailymirror.lk`
+* [Unfulfilled dreams and government’s forgotten promises  - EDITORIAL](data/articles/unfulfilled-dreams-and-g.a1647e09/README.md) `dailymirror.lk`
+* [AKD and Clean Sri Lanka project: Good start but much more needed to done at ground level](data/articles/akd-and-clean-sri-lanka.4ad7ac6e/README.md) `ft.lk`
+* [Clean minds essential for a Clean Sri Lanka](data/articles/clean-minds-essential-fo.af3973ab/README.md) `ft.lk`
 * [Life and Times of  Jaffna’s Former Tiger  Commander  Sathasivampillai Krishnakumar alias  “Col” Kittu.](data/articles/life-and-times-of-jaffna.5d15c42e/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-04
