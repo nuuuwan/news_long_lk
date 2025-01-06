@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-06 06:25:12**
+Last Updated **2025-01-06 18:20:09**
 
 ## 2025-01-06
 
+* [AI means the end of internet search as we’ve known it](data/articles/ai-means-the-end-of-inte.69ae4781/README.md) `technologyreview.com`
+* [Graveside memorial service to mark  16th  anniversary  of Lasantha’s assassination On Wednesday 8 January 9 a.m. at Borella Kanatte](data/articles/graveside-memorial-servi.71475e1e/README.md) `dbsjeyaraj.com`
 * [‘ETH-PORAYA’ with humans needs a science-based approach](data/articles/eth-poraya-with-humans.e5981725/README.md) `dailymirror.lk`
 
 ## 2025-01-05
