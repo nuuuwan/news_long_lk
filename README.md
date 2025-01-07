@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-07 06:25:32**
+Last Updated **2025-01-07 18:21:05**
 
 ## 2025-01-07
 
+* [What’s next for our privacy?](data/articles/what-s-next-for-our-priv.00e63136/README.md) `technologyreview.com`
+* [Frustrated families urge to bring back loved ones trafficked to Russo-Ukrainian War](data/articles/frustrated-families-urge.dd6e0990/README.md) `dailymirror.lk`
 * [How to reform public sector:  Essential asset management solution](data/articles/how-to-reform-public-sec.59d9505f/README.md) `ft.lk`
 * [Should the govt. follow the manifesto or not?](data/articles/should-the-govt-follow-t.5139c7ed/README.md) `dailymirror.lk`
 * [Country needs a strong and responsible Opposition](data/articles/country-needs-a-strong-a.998b8196/README.md) `dailymirror.lk`
@@ -16,6 +18,7 @@ Last Updated **2025-01-07 06:25:32**
 
 * [Mahaweli Water Security Project: AKD’s first failure in the making?](data/articles/mahaweli-water-security.ba31cbb9/README.md) `ft.lk`
 * [Promoting local private university education](data/articles/promoting-local-private.f87ebabd/README.md) `ft.lk`
+* [Forcible repatriation of Rohingiyans to persecuting State will violate customary international law](data/articles/forcible-repatriation-of.d31f8495/README.md) `ft.lk`
 * [Why You’re Chronically Overcommitted](data/articles/why-you-re-chronically-o.b2b25ae6/README.md) `hbr.org`
 * [How to Make Everyone Great at Data](data/articles/how-to-make-everyone-gre.e97fc840/README.md) `hbr.org`
 * [AI means the end of internet search as we’ve known it](data/articles/ai-means-the-end-of-inte.69ae4781/README.md) `technologyreview.com`
@@ -46,6 +49,8 @@ Last Updated **2025-01-07 06:25:32**
 * [Research: Do New Hires Really Understand Your Policies?](data/articles/research-do-new-hires-re.f7d0907e/README.md) `hbr.org`
 * [5 Ways to Deal with Flaky Colleagues Early in Your Career](data/articles/5-ways-to-deal-with-flak.b707366f/README.md) `hbr.org`
 * [Research: When CEOs Use War Metaphors, Analysts Worry](data/articles/research-when-ceos-use-w.cb48d1f7/README.md) `hbr.org`
+* [Green steel: 10 Breakthrough Technologies 2025](data/articles/green-steel-10-breakthro.06551597/README.md) `technologyreview.com`
+* [Stem-cell therapies that work: 10 Breakthrough Technologies 2025](data/articles/stem-cell-therapies-that.d0c24a48/README.md) `technologyreview.com`
 * [Unintentional setbacks: How bureaucracies can contribute to policy failures during implementation](data/articles/unintentional-setbacks-h.8315ea38/README.md) `ft.lk`
 * [Do they know it’s Christmas?](data/articles/do-they-know-it-s-christ.188ffe92/README.md) `ft.lk`
 * [Psychological toll of online child sexual abuse: Call for rights-based approaches](data/articles/psychological-toll-of-on.f366bd37/README.md) `ft.lk`
