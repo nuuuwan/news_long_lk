@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-06 18:20:09**
+Last Updated **2025-01-07 06:25:32**
+
+## 2025-01-07
+
+* [How to reform public sector:  Essential asset management solution](data/articles/how-to-reform-public-sec.59d9505f/README.md) `ft.lk`
+* [Should the govt. follow the manifesto or not?](data/articles/should-the-govt-follow-t.5139c7ed/README.md) `dailymirror.lk`
+* [Country needs a strong and responsible Opposition](data/articles/country-needs-a-strong-a.998b8196/README.md) `dailymirror.lk`
+* [I was 10 years old when Lasantha Wickrematunge was assassinated](data/articles/i-was-10-years-old-when.9cb1ac8a/README.md) `ft.lk`
+* [Restore functioning of postal services in original building of Colombo General Post Office](data/articles/restore-functioning-of-p.994f5838/README.md) `ft.lk`
 
 ## 2025-01-06
 
+* [Mahaweli Water Security Project: AKD’s first failure in the making?](data/articles/mahaweli-water-security.ba31cbb9/README.md) `ft.lk`
+* [Promoting local private university education](data/articles/promoting-local-private.f87ebabd/README.md) `ft.lk`
+* [Why You’re Chronically Overcommitted](data/articles/why-you-re-chronically-o.b2b25ae6/README.md) `hbr.org`
+* [How to Make Everyone Great at Data](data/articles/how-to-make-everyone-gre.e97fc840/README.md) `hbr.org`
 * [AI means the end of internet search as we’ve known it](data/articles/ai-means-the-end-of-inte.69ae4781/README.md) `technologyreview.com`
 * [Graveside memorial service to mark  16th  anniversary  of Lasantha’s assassination On Wednesday 8 January 9 a.m. at Borella Kanatte](data/articles/graveside-memorial-servi.71475e1e/README.md) `dbsjeyaraj.com`
 * [‘ETH-PORAYA’ with humans needs a science-based approach](data/articles/eth-poraya-with-humans.e5981725/README.md) `dailymirror.lk`

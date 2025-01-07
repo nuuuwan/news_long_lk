@@ -1,0 +1,22 @@
+# Country needs a strong and responsible Opposition
+
+[https://www.dailymirror.lk/opinion/Country-needs-a-strong-and-responsible-Opposition/172-299589](https://www.dailymirror.lk/opinion/Country-needs-a-strong-and-responsible-Opposition/172-299589)
+
+*01:33 AM, Tuesday, January 07, 2025*
+
+Political history is full of anecdotes involving famous personalities. Here is one such story involving one of the prominent leaders of the Ceylon Communist Party (CCP) Pieter Keuneman.
+
+The Sino-Soviet split or the souring of relations between the People’s Republic of China (PRC) and the Union of Soviet Socialist Republics (USSR) in 1963 which was primarily caused by doctrinal divergences that arose from their different interpretations and practical applications of Marxism–Leninism had its trickle-down effect in the communist parties in almost all third world countries.
+
+In Sri Lanka too, a group supportive of the Communist Party of China (CPC) led by veteran trade unionist Nagalingam Shanmugathasan, commonly known among leftists of the day as “Shan” broke away from the CCP in the same year.
+
+Pieter Keuneman had then reportedly suggested to his colleagues to brand Shan as an agent of the CIA, the US government’s external intelligence arm. When his colleagues bewildered by his suggestion questioned as to how they could prove it, the veteran leftist leader had laughingly said ‘We don’t need to prove it, but he would have to travel across the country disproving it.”
+
+The current Opposition parties seem to follow the Keuneman theory these days to distract the National People’s Power (NPP) government of President Anura Kumara Dissanayake (AKD). They, even before AKD won the Presidential election in September last year have been spreading various stories about the NPP and now doing the same about its government in a way the government cannot ignore them. During the Presidential election campaign, they have been saying that the supporters of the Opposition would be physically harassed, the Kandy Perahera would be banned, the investors would leave the country, and the IMF would discontinue its programme in Sri Lanka, if AKD won the election. Nothing of the sort happened.
+
+They, subsequent to AKD coming to power, claimed that the government was borrowing money to meet the day-to-day expenses which not only the government but also the Central Bank had to deny. Then they alleged that the government was printing money which was also denied both by the government and the Central Bank. Former President Ranil Wickremesinghe later dropped a bombshell claiming that the Dissanayake government was not releasing funds to increase the salaries of public sector employees as decided by the Cabinet during his time. Minister Vijitha Herath had to deny that the Wickremesinghe government had allocated funds for it. Then there was an issue with titles attached to the names of the ruling party members followed by alleged love affairs of government members.
+
+Despite the country having just come out of bankruptcy, it is not out of the woods, according to the IMF. Leaving bankruptcy status hardly means that the country is on the right track, it just means that we are no longer defaulters. Yet, we achieved that status not by developing the country, the industrial and agricultural sectors, but mainly by borrowing from the IMF and other international financial institutions as well as by deferring repayment of external debts through a debt restructuring process. That hardly ensures the country’s ability to repay the external debts when we would have to do so. This points to the fact that titles attached to the names of MPs or their love affairs are irrelevant in the face of what lurks ahead.
+
+For a country to have a strong and responsible Opposition is paramount for a healthy democracy. It is more so when the government is very strong with more than two thirds majority in Parliament and almost all its members of Parliament are novice. Hence, the Opposition must be able to address issues that affect the lives of the people, a responsibility that should not be replaced with trivial issues. Serious politics on the part of the Opposition parties would press the government to keep its promises or help itself to win over the people.
+
