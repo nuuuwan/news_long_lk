@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-07 18:21:05**
+Last Updated **2025-01-08 06:25:43**
+
+## 2025-01-08
+
+* [Qua Vadis Sri Lanka – where are we heading?](data/articles/qua-vadis-sri-lanka-wher.5d6aad89/README.md) `ft.lk`
+* [BRICS countries’ effort to dedollarisation just wishful thinking](data/articles/brics-countries-effort-t.74883416/README.md) `ft.lk`
+* [Clean Sri Lanka and digital economy initiatives: New pragmatic face of NPP?](data/articles/clean-sri-lanka-and-digi.c9669bf8/README.md) `ft.lk`
+* [Sri Lanka’s foreign policy balance will be key in 2025](data/articles/sri-lanka-s-foreign-poli.49912bc4/README.md) `ft.lk`
 
 ## 2025-01-07
 
+* [Should Cleaning  Sri Lanka be more than Click- bait Sri Lanka?](data/articles/should-cleaning-sri-lank.63d6aa8c/README.md) `dailymirror.lk`
+* [Like ‘Rip Van Winkle’,  our Premier awakens..](data/articles/like-rip-van-winkle-our.95b2385b/README.md) `dailymirror.lk`
 * [What’s next for our privacy?](data/articles/what-s-next-for-our-priv.00e63136/README.md) `technologyreview.com`
 * [Frustrated families urge to bring back loved ones trafficked to Russo-Ukrainian War](data/articles/frustrated-families-urge.dd6e0990/README.md) `dailymirror.lk`
 * [How to reform public sector:  Essential asset management solution](data/articles/how-to-reform-public-sec.59d9505f/README.md) `ft.lk`
