@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-08 06:25:43**
+Last Updated **2025-01-08 18:20:18**
 
 ## 2025-01-08
 
@@ -13,10 +13,12 @@ Last Updated **2025-01-08 06:25:43**
 
 ## 2025-01-07
 
+* [Petroleum Corporation’s bonus payments stir controversy](data/articles/petroleum-corporation-s.002248ad/README.md) `dailymirror.lk`
 * [Should Cleaning  Sri Lanka be more than Click- bait Sri Lanka?](data/articles/should-cleaning-sri-lank.63d6aa8c/README.md) `dailymirror.lk`
 * [Like ‘Rip Van Winkle’,  our Premier awakens..](data/articles/like-rip-van-winkle-our.95b2385b/README.md) `dailymirror.lk`
 * [What’s next for our privacy?](data/articles/what-s-next-for-our-priv.00e63136/README.md) `technologyreview.com`
 * [Frustrated families urge to bring back loved ones trafficked to Russo-Ukrainian War](data/articles/frustrated-families-urge.dd6e0990/README.md) `dailymirror.lk`
+* [President Anura Kumara Dissanayake to  be in  China from January 14 to 17 2025 on second state visit abroad one month after Indian visit: will be accompanied by Minister of Foreign AffairsVijitha Herath, and Transport Minister  Bimal Rathnayake; Debt treatment and bilateral development cooperation  expected to be discussed in Beijing](data/articles/president-anura-kumara-d.37b044b8/README.md) `dbsjeyaraj.com`
 * [How to reform public sector:  Essential asset management solution](data/articles/how-to-reform-public-sec.59d9505f/README.md) `ft.lk`
 * [Should the govt. follow the manifesto or not?](data/articles/should-the-govt-follow-t.5139c7ed/README.md) `dailymirror.lk`
 * [Country needs a strong and responsible Opposition](data/articles/country-needs-a-strong-a.998b8196/README.md) `dailymirror.lk`
