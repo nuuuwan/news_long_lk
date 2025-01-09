@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-08 18:20:18**
+Last Updated **2025-01-09 06:25:04**
+
+## 2025-01-09
+
+* [Sri Lanka power sector reforms: Way forward](data/articles/sri-lanka-power-sector-r.62a21c06/README.md) `ft.lk`
+* [Construction industry to Government: New set of proposals for year 2025](data/articles/construction-industry-to.638b194d/README.md) `ft.lk`
+* [“It’s essential to have honest, capable individuals with integrity in political positions”- Lacille De Silva](data/articles/it-s-essential-to-have.10acce02/README.md) `dailymirror.lk`
+* [Reopening of Notre  Dame de Paris](data/articles/reopening-of-notre-dame.95454abd/README.md) `dailymirror.lk`
+* [The messenger shouldn’t be shot even in the darkest  of times.. - EDITORIAL](data/articles/the-messenger-shouldn-t.16c6742c/README.md) `dailymirror.lk`
+* [Sri Lanka’s economic turmoil in ‘70s: Reflections and realities through Aththa newspaper](data/articles/sri-lanka-s-economic-tur.540148d3/README.md) `ft.lk`
+* [System closure, Anura’s foundation, devolution’s downfall, Namal’s challenges](data/articles/system-closure-anura-s-f.8c786051/README.md) `ft.lk`
+* [From JVP to NPP: Through the eyes of a former military officer](data/articles/from-jvp-to-npp-through.2e489f2a/README.md) `ft.lk`
 
 ## 2025-01-08
 
+* [How Founders Can Avoid the Deception Trap](data/articles/how-founders-can-avoid-t.7ec4c153/README.md) `hbr.org`
+* [Why Retailers Are Turning to Third-Party Marketplaces](data/articles/why-retailers-are-turnin.9f943720/README.md) `hbr.org`
+* [How to Build a Strategy for Coming Trade Battles](data/articles/how-to-build-a-strategy.4e420d48/README.md) `hbr.org`
 * [Qua Vadis Sri Lanka – where are we heading?](data/articles/qua-vadis-sri-lanka-wher.5d6aad89/README.md) `ft.lk`
 * [BRICS countries’ effort to dedollarisation just wishful thinking](data/articles/brics-countries-effort-t.74883416/README.md) `ft.lk`
 * [Clean Sri Lanka and digital economy initiatives: New pragmatic face of NPP?](data/articles/clean-sri-lanka-and-digi.c9669bf8/README.md) `ft.lk`
