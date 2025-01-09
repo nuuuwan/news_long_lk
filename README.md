@@ -2,12 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-09 06:25:04**
+Last Updated **2025-01-09 18:20:08**
 
 ## 2025-01-09
 
+* [2025 is a critical year for climate tech](data/articles/2025-is-a-critical-year.d12ea7de/README.md) `technologyreview.com`
 * [Sri Lanka power sector reforms: Way forward](data/articles/sri-lanka-power-sector-r.62a21c06/README.md) `ft.lk`
 * [Construction industry to Government: New set of proposals for year 2025](data/articles/construction-industry-to.638b194d/README.md) `ft.lk`
+* [Lasantha Wickrematunge  A national hero’s enduring legacy](data/articles/lasantha-wickrematunge-a.0367abc0/README.md) `dailymirror.lk`
+* [“It’s essential to have honest, capable individuals with integrity in political positions”- Lacille De Silva](data/articles/it-s-essential-to-have.7fad8fbc/README.md) `dailymirror.lk`
 * [“It’s essential to have honest, capable individuals with integrity in political positions”- Lacille De Silva](data/articles/it-s-essential-to-have.10acce02/README.md) `dailymirror.lk`
 * [Reopening of Notre  Dame de Paris](data/articles/reopening-of-notre-dame.95454abd/README.md) `dailymirror.lk`
 * [The messenger shouldn’t be shot even in the darkest  of times.. - EDITORIAL](data/articles/the-messenger-shouldn-t.16c6742c/README.md) `dailymirror.lk`
@@ -47,6 +50,7 @@ Last Updated **2025-01-09 06:25:04**
 * [Why You’re Chronically Overcommitted](data/articles/why-you-re-chronically-o.b2b25ae6/README.md) `hbr.org`
 * [How to Make Everyone Great at Data](data/articles/how-to-make-everyone-gre.e97fc840/README.md) `hbr.org`
 * [AI means the end of internet search as we’ve known it](data/articles/ai-means-the-end-of-inte.69ae4781/README.md) `technologyreview.com`
+* [Driving into the future](data/articles/driving-into-the-future.47826538/README.md) `technologyreview.com`
 * [Graveside memorial service to mark  16th  anniversary  of Lasantha’s assassination On Wednesday 8 January 9 a.m. at Borella Kanatte](data/articles/graveside-memorial-servi.71475e1e/README.md) `dbsjeyaraj.com`
 * [‘ETH-PORAYA’ with humans needs a science-based approach](data/articles/eth-poraya-with-humans.e5981725/README.md) `dailymirror.lk`
 

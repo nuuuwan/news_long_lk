@@ -1,5 +1,12 @@
 [
   {
+    "title": "2025 is a critical year for climate tech",
+    "url": "https://www.technologyreview.com/2025/01/09/1109867/climate-breakthrough-technologies/",
+    "ut": 1736382600.0,
+    "dir_path_unix": "data/articles/2025-is-a-critical-year.d12ea7de",
+    "time_str_formatted": "06:00 AM, Thursday, January 09, 2025"
+  },
+  {
     "title": "Sri Lanka power sector reforms: Way forward",
     "url": "https://www.ft.lk/columns/Sri-Lanka-power-sector-reforms-Way-forward/4-771592",
     "ut": 1736377095.0,
@@ -12,6 +19,20 @@
     "ut": 1736376523.0,
     "dir_path_unix": "data/articles/construction-industry-to.638b194d",
     "time_str_formatted": "04:18 AM, Thursday, January 09, 2025"
+  },
+  {
+    "title": "Lasantha Wickrematunge  A national hero\u2019s enduring legacy",
+    "url": "https://www.dailymirror.lk/news-features/Lasantha-Wickrematunge-A-national-heros-enduring-legacy/131-299750",
+    "ut": 1736375822.0,
+    "dir_path_unix": "data/articles/lasantha-wickrematunge-a.0367abc0",
+    "time_str_formatted": "04:07 AM, Thursday, January 09, 2025"
+  },
+  {
+    "title": "\u201cIt\u2019s essential to have honest, capable individuals with integrity in political positions\u201d- Lacille De Silva",
+    "url": "https://www.dailymirror.lk/recomended-news/Its-essential-to-have-honest-capable-individuals-with-integrity-in-political-positions-Lacille-De-Silva/277-299749",
+    "ut": 1736375041.0,
+    "dir_path_unix": "data/articles/it-s-essential-to-have.7fad8fbc",
+    "time_str_formatted": "03:54 AM, Thursday, January 09, 2025"
   },
   {
     "title": "\u201cIt\u2019s essential to have honest, capable individuals with integrity in political positions\u201d- Lacille De Silva",
@@ -222,6 +243,13 @@
     "ut": 1736127000.0,
     "dir_path_unix": "data/articles/ai-means-the-end-of-inte.69ae4781",
     "time_str_formatted": "07:00 AM, Monday, January 06, 2025"
+  },
+  {
+    "title": "Driving into the future",
+    "url": "https://www.technologyreview.com/2025/01/06/1108691/driving-into-the-future/",
+    "ut": 1736123400.0,
+    "dir_path_unix": "data/articles/driving-into-the-future.47826538",
+    "time_str_formatted": "06:00 AM, Monday, January 06, 2025"
   },
   {
     "title": "Graveside memorial service to mark  16th  anniversary  of Lasantha\u2019s assassination On Wednesday 8 January 9 a.m. at Borella Kanatte",
