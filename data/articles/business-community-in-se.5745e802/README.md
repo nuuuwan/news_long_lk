@@ -1,0 +1,22 @@
+# Business community in search of level playing field - EDITORIAL
+
+[https://www.dailymirror.lk/opinion/Business-community-in-search-of-level-playing-field-EDITORIAL/172-299826](https://www.dailymirror.lk/opinion/Business-community-in-search-of-level-playing-field-EDITORIAL/172-299826)
+
+*10:59 PM, Thursday, January 09, 2025*
+
+When we see the sunny beaches in Sri Lanka, lush green tea bushes and the tourism hotspots oozing with potential, there is hope on the horizon for Sri Lankans. There is President Anura Kumara Dissanayake also in the equation in terms of ensuring that Sri Lankans have hope for the future. The difference between the natural assets a country possesses and a man who is a leader and made of bone, muscle and skin is that the latter has a lifespan which is shorter than the former. Hence we must get the best out of this leader who, in keeping with the Constitution of Sri Lanka, can have a maximum service period of functioning as President for only two terms; and that’s if he wins a second presidential election. If Dissanayake gets two terms as President he would be on the hot seat for 10 years.
+
+On the other hand, the assets we have, as mentioned above, must be primarily for Sri Lankans to utilize and do business. The problem starts when foreigners on tourist visas engage in businesses and eat into the earning opportunities of locals.
+
+Recently in Parliament, SJB Member of Parliament Mujibur Rahman had raised questions about Israeli nationals with tourist visas engaging in business activities in Sri Lanka. This had prompted Prime Minister Harini Amarasuriya to respond. She had even acknowledged that foreigners with tourist visas engaging in businesses here forced the government of Sri Lanka to deem it as an issue which needs to be addressed.
+
+We need a leader who identifies when his own men are napping. Right now Sri Lanka’s best locations are used for films, but these productions have a heavy Indian influence. Initially we heard of an Indo-Sri Lanka film project which was ‘shot’ utilizing the picturesque ‘Nine Arches Bridge’. Sri Lankan Railways received Rs. 23 million as a ‘gift’, but the rail service was severely affected during the shooting and inconvenienced commuters. The other recent film project done on this island was the shooting of Gautama Buddha Matha. One positive feature in making this film was that the cast comprised local artistes too. They blended well with the Indian artistes who were hired for the film.
+
+Assets in Sri Lanka ought to be used in creations by foreigners, but there must be something in return for Sri Lanka. Whenever foreign government representatives landed in Singapore with business proposals, its former Prime Minister Lee Kuan Yew would always have a stock question ready for them: “What’s in it for Singapore”. If the larger portion of the benefits from any deal was for the foreign country, then that project probably became a nonstarter.
+
+Sri Lanka has for far too long engaged foreign entities here on business ventures and never really benefitted from them. Foreigners have the habit of milking our country dry when they come up with business proposals. The first highway project running from Colombo to Hambantota had a first phase where it only stretched to Galle. Then we saw the construction of the Katunayake Highway and subsequently the Colombo Outer Circular Expressway. There was much talk at the time these facilities were brand new and opened for public use that they would be leased to Chinese entities.
+
+When foreigners work here, they are involved in projects that lift the country from a development perspective. When the British conquered Sri Lanka and introduced tea here, the added benefit of having these foreigners on our soil was that the tea business forced the country to also build a comprehensive road and railway systems. The same can be said about the Chinese interests here; there are benefits for Sri Lanka. What about the much talked about new Israeli Chabad Houses that are going to come up in Sri Lanka? There is news that 24 hour security is being provided to already existing Chabad Houses on the coastal belts here. The worst of it all is that these Israelis here on vacation are engaging in businesses and eating into the opportunities of Sri Lankans. This must be stopped.
+
+There is an old saying that ‘it’s not the qualifications one possesses, it’s what he does with them’. These NPP lawmakers, who are very highly qualified, must create an even playing field for locals in the midst of a foreign competition here.
+

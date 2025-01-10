@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-09 18:20:08**
+Last Updated **2025-01-10 06:24:55**
+
+## 2025-01-10
+
+* [A sad sorry sordid tale of two lands – and one stateless people](data/articles/a-sad-sorry-sordid-tale.dce85ac2/README.md) `ft.lk`
+* [Tiger “Col.” Charles was mastermind behind Katunayake Airport attack](data/articles/tiger-col-charles-was-ma.fe22247f/README.md) `ft.lk`
+* [Sri Lanka – from crisis to confusion](data/articles/sri-lanka-from-crisis-to.5a910dd4/README.md) `ft.lk`
+* [Sri Lanka’s strategic foreign engagement: President AKD’s upcoming visit to China and economic implications](data/articles/sri-lanka-s-strategic-fo.36f52cda/README.md) `ft.lk`
 
 ## 2025-01-09
 
+* [Surge in Islamophobia: A fitting Israeli welcome for Trump](data/articles/surge-in-islamophobia-a.6649241d/README.md) `dailymirror.lk`
+* [Business community in search of level playing field - EDITORIAL](data/articles/business-community-in-se.5745e802/README.md) `dailymirror.lk`
+* [What Companies Succeeding with AI Do Differently](data/articles/what-companies-succeedin.426dad21/README.md) `hbr.org`
+* [What Effective CEOs Do After Their First 90 Days](data/articles/what-effective-ceos-do-a.ccbffabf/README.md) `hbr.org`
+* [சதாசிவம்பிள்ளை கிருஷ்ணகுமார் என்ற இயற்பெயரைக் கொண்ட விடுதலை புலிகளின் அன்றைய யாழ்ப்பாண மாவட்ட தளபதி ‘ கேணல் ‘ கிட்டுவின் வாழ்வும் காலமும்](data/articles/சத-ச-வம-ப-ள-ள-க-ர-ஷ-ணக-ம.9f087b1e/README.md) `dbsjeyaraj.com`
 * [2025 is a critical year for climate tech](data/articles/2025-is-a-critical-year.d12ea7de/README.md) `technologyreview.com`
 * [Sri Lanka power sector reforms: Way forward](data/articles/sri-lanka-power-sector-r.62a21c06/README.md) `ft.lk`
 * [Construction industry to Government: New set of proposals for year 2025](data/articles/construction-industry-to.638b194d/README.md) `ft.lk`
