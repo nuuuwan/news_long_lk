@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-10 06:24:55**
+Last Updated **2025-01-10 18:19:47**
 
 ## 2025-01-10
 
@@ -10,11 +10,13 @@ Last Updated **2025-01-10 06:24:55**
 * [Tiger “Col.” Charles was mastermind behind Katunayake Airport attack](data/articles/tiger-col-charles-was-ma.fe22247f/README.md) `ft.lk`
 * [Sri Lanka – from crisis to confusion](data/articles/sri-lanka-from-crisis-to.5a910dd4/README.md) `ft.lk`
 * [Sri Lanka’s strategic foreign engagement: President AKD’s upcoming visit to China and economic implications](data/articles/sri-lanka-s-strategic-fo.36f52cda/README.md) `ft.lk`
+* [Transboundary air pollution : For how long should Sri Lankans suffer due to poor air quality levels?](data/articles/transboundary-air-pollut.c3811d46/README.md) `dailymirror.lk`
 
 ## 2025-01-09
 
 * [Surge in Islamophobia: A fitting Israeli welcome for Trump](data/articles/surge-in-islamophobia-a.6649241d/README.md) `dailymirror.lk`
 * [Business community in search of level playing field - EDITORIAL](data/articles/business-community-in-se.5745e802/README.md) `dailymirror.lk`
+* [Can President Anura Kumara Dissanayake  who came in with a mandate to end corruption, clean up his own parliament and ensure that both politicians and bureaucrats end their habits of bribes and commissions to get work done Under the ‘Clean Sri Lanka’ programme ?](data/articles/can-president-anura-kuma.201e724d/README.md) `dbsjeyaraj.com`
 * [What Companies Succeeding with AI Do Differently](data/articles/what-companies-succeedin.426dad21/README.md) `hbr.org`
 * [What Effective CEOs Do After Their First 90 Days](data/articles/what-effective-ceos-do-a.ccbffabf/README.md) `hbr.org`
 * [சதாசிவம்பிள்ளை கிருஷ்ணகுமார் என்ற இயற்பெயரைக் கொண்ட விடுதலை புலிகளின் அன்றைய யாழ்ப்பாண மாவட்ட தளபதி ‘ கேணல் ‘ கிட்டுவின் வாழ்வும் காலமும்](data/articles/சத-ச-வம-ப-ள-ள-க-ர-ஷ-ணக-ம.9f087b1e/README.md) `dbsjeyaraj.com`
@@ -46,6 +48,7 @@ Last Updated **2025-01-10 06:24:55**
 * [Should Cleaning  Sri Lanka be more than Click- bait Sri Lanka?](data/articles/should-cleaning-sri-lank.63d6aa8c/README.md) `dailymirror.lk`
 * [Like ‘Rip Van Winkle’,  our Premier awakens..](data/articles/like-rip-van-winkle-our.95b2385b/README.md) `dailymirror.lk`
 * [What’s next for our privacy?](data/articles/what-s-next-for-our-priv.00e63136/README.md) `technologyreview.com`
+* [How optimistic are you about AI’s future?](data/articles/how-optimistic-are-you-a.9ff31182/README.md) `technologyreview.com`
 * [Frustrated families urge to bring back loved ones trafficked to Russo-Ukrainian War](data/articles/frustrated-families-urge.dd6e0990/README.md) `dailymirror.lk`
 * [President Anura Kumara Dissanayake to  be in  China from January 14 to 17 2025 on second state visit abroad one month after Indian visit: will be accompanied by Minister of Foreign AffairsVijitha Herath, and Transport Minister  Bimal Rathnayake; Debt treatment and bilateral development cooperation  expected to be discussed in Beijing](data/articles/president-anura-kumara-d.37b044b8/README.md) `dbsjeyaraj.com`
 * [How to reform public sector:  Essential asset management solution](data/articles/how-to-reform-public-sec.59d9505f/README.md) `ft.lk`
