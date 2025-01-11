@@ -2,10 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-10 18:19:47**
+Last Updated **2025-01-11 06:25:11**
+
+## 2025-01-11
+
+* [Residents of Mullivaikkal provide support and show solidarity to Rohingya asylum seekers](data/articles/residents-of-mullivaikka.a66dea20/README.md) `dailymirror.lk`
+* [A serious soul-searching is a must for the Opposition](data/articles/a-serious-soul-searching.2e42ee4b/README.md) `dailymirror.lk`
+* [AKD of a hundred days](data/articles/akd-of-a-hundred-days.1b91548e/README.md) `dailymirror.lk`
+* [How Tiger  “Col” Kittu Disappointed Vijaya Kumaratunga and Deceived Lalith Athulathmudali](data/articles/how-tiger-col-kittu-disa.614f83b9/README.md) `dailymirror.lk`
+* [Austerity and oligarchy: Top vs. Bottom](data/articles/austerity-and-oligarchy.b35836c4/README.md) `ft.lk`
+* [Remembering my friend Lasantha Wickrematunge](data/articles/remembering-my-friend-la.6a790f95/README.md) `ft.lk`
+* [Has Sri Lanka’s Tamil question been resolved?](data/articles/has-sri-lanka-s-tamil-qu.44cc8ab0/README.md) `ft.lk`
+* [Drug shortages: Most serious symptom arising from several causes](data/articles/drug-shortages-most-seri.69435c29/README.md) `ft.lk`
 
 ## 2025-01-10
 
+* [A sad sorry tale of two lands – and  one stateless people (Part II of II)](data/articles/a-sad-sorry-tale-of-two.7b450421/README.md) `ft.lk`
+* [Connect Your Learning Programs to Your Company’s Strategy](data/articles/connect-your-learning-pr.9da280ce/README.md) `hbr.org`
+* [What the 2024 CrowdStrike Glitch Can Teach Us About Cyber Risk](data/articles/what-the-2024-crowdstrik.fc80050c/README.md) `hbr.org`
+* [Are You Checked Out at Work?](data/articles/are-you-checked-out-at-w.c453bd07/README.md) `hbr.org`
 * [A sad sorry sordid tale of two lands – and one stateless people](data/articles/a-sad-sorry-sordid-tale.dce85ac2/README.md) `ft.lk`
 * [Tiger “Col.” Charles was mastermind behind Katunayake Airport attack](data/articles/tiger-col-charles-was-ma.fe22247f/README.md) `ft.lk`
 * [Sri Lanka – from crisis to confusion](data/articles/sri-lanka-from-crisis-to.5a910dd4/README.md) `ft.lk`
@@ -34,6 +49,7 @@ Last Updated **2025-01-10 18:19:47**
 
 ## 2025-01-08
 
+* [House speaker election highlights Republican divisions](data/articles/house-speaker-election-h.b1f44f48/README.md) `eiu.com`
 * [How Founders Can Avoid the Deception Trap](data/articles/how-founders-can-avoid-t.7ec4c153/README.md) `hbr.org`
 * [Why Retailers Are Turning to Third-Party Marketplaces](data/articles/why-retailers-are-turnin.9f943720/README.md) `hbr.org`
 * [How to Build a Strategy for Coming Trade Battles](data/articles/how-to-build-a-strategy.4e420d48/README.md) `hbr.org`
@@ -47,6 +63,7 @@ Last Updated **2025-01-10 18:19:47**
 * [Petroleum Corporation’s bonus payments stir controversy](data/articles/petroleum-corporation-s.002248ad/README.md) `dailymirror.lk`
 * [Should Cleaning  Sri Lanka be more than Click- bait Sri Lanka?](data/articles/should-cleaning-sri-lank.63d6aa8c/README.md) `dailymirror.lk`
 * [Like ‘Rip Van Winkle’,  our Premier awakens..](data/articles/like-rip-van-winkle-our.95b2385b/README.md) `dailymirror.lk`
+* [South Asian water security comes into focus](data/articles/south-asian-water-securi.a34e92a8/README.md) `eiu.com`
 * [What’s next for our privacy?](data/articles/what-s-next-for-our-priv.00e63136/README.md) `technologyreview.com`
 * [How optimistic are you about AI’s future?](data/articles/how-optimistic-are-you-a.9ff31182/README.md) `technologyreview.com`
 * [Frustrated families urge to bring back loved ones trafficked to Russo-Ukrainian War](data/articles/frustrated-families-urge.dd6e0990/README.md) `dailymirror.lk`
@@ -62,6 +79,7 @@ Last Updated **2025-01-10 18:19:47**
 * [Mahaweli Water Security Project: AKD’s first failure in the making?](data/articles/mahaweli-water-security.ba31cbb9/README.md) `ft.lk`
 * [Promoting local private university education](data/articles/promoting-local-private.f87ebabd/README.md) `ft.lk`
 * [Forcible repatriation of Rohingiyans to persecuting State will violate customary international law](data/articles/forcible-repatriation-of.d31f8495/README.md) `ft.lk`
+* [Saudi Arabia renews diplomatic push in Syria and Yemen](data/articles/saudi-arabia-renews-dipl.1f865285/README.md) `eiu.com`
 * [Why You’re Chronically Overcommitted](data/articles/why-you-re-chronically-o.b2b25ae6/README.md) `hbr.org`
 * [How to Make Everyone Great at Data](data/articles/how-to-make-everyone-gre.e97fc840/README.md) `hbr.org`
 * [AI means the end of internet search as we’ve known it](data/articles/ai-means-the-end-of-inte.69ae4781/README.md) `technologyreview.com`

@@ -1,0 +1,86 @@
+# Drug shortages: Most serious symptom arising from several causes
+
+[https://www.ft.lk/columns/Drug-shortages-Most-serious-symptom-arising-from-several-causes/4-771685](https://www.ft.lk/columns/Drug-shortages-Most-serious-symptom-arising-from-several-causes/4-771685)
+
+*12:00 AM, Saturday, January 11, 2025*
+
+A concerted effort is required on the part of governments, drug manufacturers, charities and healthcare providers to ensure that only drugs of acceptable quality reach the patient
+
+Drug shortages in the country have made headlines for a long time. Emergency procurement has happened on numerous occasions. Even Ministers of Health reportedly visited one or two countries to undertake such emergency procurement! Clearly, the root causes have neither been investigated nor addressed even if some causes had been identified
+
+Fixing the drug shortage and being out of stock of drugs is a complex issue as its causes lie in several areas. However, shortages arise from the inability to supply the demand that has been worked out and quantified. In saying this, other key factors such as the criticality of quality assured drugs being imported and released to the public, and maintenance of quality throughout the supply chain including in storage locations is vital as use of drugs that are substandard has far reaching effects on patients and the supply chain
+
+It is very common for public hospital patients to be given prescriptions by Government medical practitioners to buy such drugs from private pharmacies. Besides doing this for drugs that are out of stock, it is possible that it is done for drugs which are not stocked in public hospitals as they are outside the formulary of the health department but prescribed by doctors as a drug of choice for some health conditions. In this regard, the role played by private sector marketing personnel in promoting particular drugs that are outside the national formulary should not be underestimated
+
+Attention has largely focused on the increasing availability of deliberately falsified drugs, but substandard medicines are also reaching patients because of poor manufacturing and quality-control practices in the production of genuine drugs (either branded or generic). Substandard medicines are widespread and represent a threat to health because they can inadvertently lead to healthcare failures, such as antibiotic resistance and the spread of disease within a community, as well as death or additional illness in individuals
+
+“It takes nine months to complete the drug procurement process, thus there is no immediate solution to address various glitches in the system. In order to address the importance of tackling the root causes of the issue and introducing a comprehensive plan to address it, we have to study the problem, identify the factors that sustain it, and present a clear plan for its resolution. If the public sees that we are genuinely working on solutions and we communicate a plan, they will support it” – Deputy Minister of Health Dr. Hansaka Wijemuni
+
+https://island.lk/govt-aims-to-resolve-chronic-drug-shortage-by-2026-health-ministry/
+
+The Sri Lanka Medical Association says that the country’s total pharmaceutical expenditure covering both State and private sectors in 2022 was estimated at Rs. 163 billion per annum, and about Rs. 58 billion for the State sector and Rs. 105 billion for private sector (https://slma.lk/wp-content/uploads/2023/05/newsletter_APRIL_
+
+2023_PROOF_compressed.pdf). However, despite this, drug shortages and out of stock situations persist depriving patients of a fundamental human right.
+
+Drug shortages and being out of stock of drugs is commonly understood as a supply issue. However, even if the supply side was perfect and worked efficiently and effectively, it will only supply the items and quantities of drugs that were demanded. If demand computation was inaccurate, what is supplied will be inaccurate as the supply side is only geared to supply what is demanded. Quantifying demand is a complex issue as many factors have direct and indirect linkages to the demand for drugs. However, it is critical to be as accurate as possible with the quantification of demand for drugs. If this is not done, the result is not only shortages of some drugs but also an excess stock of some others.
+
+Often, there is significant wastage of funds provided for drug procurement as these excess stocks expire before use and large amounts of money which could have been used to procure drugs that are in short supply, is wasted. In some countries this waste is estimated to be more than 30% of the drug budget.
+
+It is not uncommon for health authorities in many developing countries to address the symptoms or effects of several causes that create issues such as drug shortages, overlooking the causes. Such a reaction is understandable especially where acute shortages of essential drugs are concerned and where emergency procurement of such drugs could be a necessity. However, it is also not uncommon to create drug shortages by design, and resort to emergency procurement as such a practice presents opportunities to deviate from standard government procurement procedures and buy drugs at exorbitant prices. Such procurement obviously benefits those responsible for creating shortages.
+
+Directly and indirectly linked components in the supply chain
+
+Drug procurement is only one component of a medical supply system. There are several other directly and indirectly linked components in the supply chain. Quality assurance, inventory management, store keeping and stock management, transportation, morbidity data analysis, clinical assessments and drug prescriptions, monitoring unforeseen disease outbreaks and seasonal morbidity patterns are some of these. The entire system operates as a chain of activities, each interlinked, and inter dependent. Consequently, if one activity in the chain is inefficient, ineffective and sub optimal, it effects the performance of the next activity that follows. Consequently, the entire chain malfunctions.
+
+Although there is no starting point in a chain, in a medical supply chain, forecasting demand for drugs could be considered the starting point, as the end objective of the exercise is to supply what has been forecast as demand. As stated earlier, it is logical therefore that the success of a medical supply system rests largely, although not exclusively, on accurate demand estimations that have relevancy to patient needs as determined by medical practitioners.
+
+An efficient and effective information system is vital in a medical supply chain as such a system could provide information needed for decision making within the key components of the chain. It is imperative of course for the Information to be accurate as inaccurate information will lead to incorrect decisions.
+
+In terms of decision making, particularly regarding which drugs to procure and how much of such drugs should be procured, different methods could be adopted based on accurate information on usable hand stock availability (without counting expired, quality not assured or damaged stock), morbidity forecasts and priorities, availability of funding, etc.
+
+The WHO essential drugs classification, rules such as the Pareto rule where the number of drugs costing a major component of the budget (as a general rule, 80% of a drug budget goes for 20% of drugs although this rule can have variations), rationalisation of the formulary which can reduce the number of similar drugs being imported or manufactured to treat similar diseases identified in a Pharmacology Classifications of Drugs (Drug Classifications). Classification means grouping medications by similarities. For example, it is based on medical value of drugs and the risk of inappropriate or misuse.
+
+In Sri Lanka such a classification was at the centre of drug policies formulated by an expert committee led by late Professor Senaka Bibile in 1972 during the Government led by Sirimavo Bandaranaike. These policies led to the formation of the State Pharmaceuticals Corporation of which Professor Bibile was the first Chairman.
+
+Drastic reduction in number of drugs
+
+These policies witnessed the drastic reduction in number of drugs in the national formulary and systematic rationalisation of prescribing habits.
+
+The requirement, for the first time, to import and distribute drugs by their generic names rather than their brand names, was another major revolutionary step taken by Professor Bibile and the expert committee and this saw the ability for an increased number of overseas manufacturers noted for their excellence in manufacturing generic drugs, to take part if worldwide tenders invited by the State Pharmaceuticals Corporation and offer considerable reductions in price of drugs.
+
+While many developing countries and the WHO adopted these policies, Sri Lanka subsequently veered away from them after the election of the new Government in 1977 which introduced an open economic policy resulting in deviation from the Bibile policies. Although many Presidents and Prime Ministers who succeeded Mrs Bandaranaike have all vowed to reintroduce the Senaka Bibile policies, none have delivered on their promises.
+
+As stated in the Wikipedia, “the Sri Lanka experience became a model for the rest of the world. The policy was supported by the World Health Organization and other United Nations agencies with enormous benefit to Third World countries. The United Nations Conference on Trade and Development Secretariat examined the Sri Lankan experience, concluding that an analysis of the Sri Lankan model could give other developing countries an insight into ways of formulating, developing and implementing integrated national pharmaceutical policies. With Bibile’s assistance, it published “Case Studies in the Transfer of Technology: Pharmaceutical Policies in Sri Lanka”. This document has proved to be a very valuable guideline for developing countries intending to initiate pharmaceutical reforms. Translated into other languages, it may be found with health planners of almost every Third World country”.
+
+While it may not be possible or even feasible now to wind back to the entirety of the policies of 1972, from a broader perspective, the key policy of rationalization of the National Formulary and how it applies to the public sector and the private sector needs to be considered. While this policy seems to operate to some extent for the public health sector, it does not seem to apply for the private sector which is responsible for a significant component of drug imports to the country. Rationalisation of drug imports for the private sector and reduction in the number of similar drugs under pharmacological groupings is something that needs to be considered by the NPP government if they are keen on re visiting the Senaka Bibile policies.
+
+The Deputy Ministers statement that “In order to address the importance of tackling the root causes of the issue and introducing a comprehensive plan to address it, we have to study the problem, identify the factors that sustain it, and present a clear plan for its resolution”, is clearly what is needed to develop a plan of action with immediate and short term solutions, and medium to long term solutions.
+
+Drug shortages in the country have made headlines for a long time. Emergency procurement has happened on numerous occasions. Even Ministers of Health reportedly visited one or two countries to undertake such emergency procurement! Clearly, the root causes have neither been investigated nor addressed even if some causes had been identified.
+
+Identify the root causes
+
+So, as the Deputy Minister has stated, the problem must be studied, meaning, an assessment has to be carried out of the medical supply chain to identify the root causes that result in drug shortages. It is understood that a recent study has been done by the health department with technical assistance and funding by WHO/ADB.
+
+This could be used and its findings and recommendations considered by the Minister and Deputy Minister for the health department to develop a plan of action to avoid/minimise drug shortages and drug out of stock situations. As stated earlier in this article, the direct and indirect links within the supply chain which impact on the accuracy of demand quantification needs to be clearly understood and attended to in developing a plan of action.
+
+When one refers to drug shortages, these relate to shortages in public hospitals which are supplied by the State while private hospitals do their own procurement or are supplied by private pharmacies and other importers. It is interesting to note that many private pharmacies operate outside public hospitals which often are out of stock of some key drugs.
+
+It is very common for public hospital patients to be given prescriptions by Government medical practitioners to buy such drugs from private pharmacies. Besides doing this for drugs that are out of stock, it is possible that it is done for drugs which are not stocked in public hospitals as they are outside the formulary of the health department but prescribed by doctors as a drug of choice for some health conditions. In this regard, the role played by private sector marketing personnel in promoting particular drugs that are outside the national formulary should not be underestimated.
+
+While the State owned and run pharmacy outlets, the Osu Salas, as well as Osu Sala franchises operate in the market, the retail market is dominated by the privately owned and run pharmacies who can source many drugs that are outside the national formulary.
+
+Fixing the drug shortage and being out of stock of drugs is a complex issue as its causes lie in several areas. However, shortages arise from the inability to supply the demand that has been worked out and quantified. In saying this, other key factors such as the criticality of quality assured drugs being imported and released to the public, and maintenance of quality throughout the supply chain including in storage locations is vital as use of drugs that are substandard has far reaching effects on patients and the supply chain.
+
+As stated in the abstract of a paper titled Substandard drugs: a potential crisis for public health by Atholl Johnston and David W Holt (https://pmc.ncbi.nlm.nih.gov/articles/PMC4137817/# :~:text =Substandard %20medicines%20are%20widespread%20and,or%20additional%20illness%20in%20individuals), poor-quality medicines present a serious public health problem, particularly in emerging economies and developing countries, and may have a significant impact on the national clinical and economic burden.
+
+Increasing availability of falsified drugs and substandard medicines
+
+Attention has largely focused on the increasing availability of deliberately falsified drugs, but substandard medicines are also reaching patients because of poor manufacturing and quality-control practices in the production of genuine drugs (either branded or generic). Substandard medicines are widespread and represent a threat to health because they can inadvertently lead to healthcare failures, such as antibiotic resistance and the spread of disease within a community, as well as death or additional illness in individuals.
+
+This article reviews the different aspects of substandard drug formulation that can occur (for example, pharmacological variability between drug batches or between generic and originator drugs, incorrect drug quantity and presence of impurities). The possible means of addressing substandard manufacturing practices are also discussed. A concerted effort is required on the part of governments, drug manufacturers, charities and healthcare providers to ensure that only drugs of acceptable quality reach the patient.
+
+In a nutshell, this summarises the quality issue pertaining to drugs, and the impact on the health of patients, but also on the supply chain, specifically on the demand that had had been forecast and how it could change due to effects arising from consuming substandard quality drugs, and also the inability to use drugs that are determined as substandard, and eventually, the impact on what is being supplied. Predesigned and planned introduction of sub-standard quality drugs is an inhuman and unjust practice and as the above abstract points out, it is unfortunately not an uncommon phenomenon. The increasing availability of deliberately falsified drugs, and substandard medicines reaching patients because of poor manufacturing and quality-control practices is something that needs to be arrested by authorities.
+
+As outlined in this article, many factors contribute to the inaccuracies in demand forecasting which then leads to drugs being out of stock, drug shortages, excess stock of some drugs and wastage that follows due to expiry prior to use. To avoid or minimise this, the focus has to be on the accuracy of demand forecasting and ways and means of achieving this goal. It is no doubt a complex exercise, but unless it is done, the medical supply chain will continue to be dysfunctional and drug shortages will continue to make headlines.
+
