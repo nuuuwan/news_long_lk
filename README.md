@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-12 06:25:04**
+Last Updated **2025-01-12 18:17:08**
 
 ## 2025-01-11
 
 * [Anthropic’s chief scientist on 5 ways agents will be even better in 2025](data/articles/anthropic-s-chief-scient.bb6728c9/README.md) `technologyreview.com`
+* [Army -Tiger Prisoner Exchange: How “Col” Kittu Disappointed Vijaya  Kumaratunga and Deceived Lalith Athulathmudali](data/articles/army-tiger-prisoner-exch.48276f6d/README.md) `dbsjeyaraj.com`
 * [Residents of Mullivaikkal provide support and show solidarity to Rohingya asylum seekers](data/articles/residents-of-mullivaikka.a66dea20/README.md) `dailymirror.lk`
 * [A serious soul-searching is a must for the Opposition](data/articles/a-serious-soul-searching.2e42ee4b/README.md) `dailymirror.lk`
 * [AKD of a hundred days](data/articles/akd-of-a-hundred-days.1b91548e/README.md) `dailymirror.lk`
