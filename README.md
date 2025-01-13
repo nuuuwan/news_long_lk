@@ -2,12 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-13 06:25:00**
+Last Updated **2025-01-13 18:20:45**
 
 ## 2025-01-12
 
 * [English: What our politicians failed to understand](data/articles/english-what-our-politic.a72ca5b5/README.md) `dailymirror.lk`
 * [Local elections, rising poverty and the Aswesuma grant - EDITORIAL](data/articles/local-elections-rising-p.2bf484d3/README.md) `dailymirror.lk`
+* [The  ‘76 year old curse’ that President Anura Kumara Dissanayake and his NPP vowed to put an end to, does not show any signs of  abating. The political ‘honeymoon’ is now well and truly over. It is time that the Govt starts  performing.](data/articles/the-76-year-old-curse-th.1e39713f/README.md) `dbsjeyaraj.com`
+* [Will the  New President and the New Government Ensure Justice for the  Enforced Disappearances and Kilings of Catholic and Protestant  Christian Priests?](data/articles/will-the-new-president-a.9c3604ff/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-11
 
@@ -66,6 +68,7 @@ Last Updated **2025-01-13 06:25:00**
 * [BRICS countries’ effort to dedollarisation just wishful thinking](data/articles/brics-countries-effort-t.74883416/README.md) `ft.lk`
 * [Clean Sri Lanka and digital economy initiatives: New pragmatic face of NPP?](data/articles/clean-sri-lanka-and-digi.c9669bf8/README.md) `ft.lk`
 * [Sri Lanka’s foreign policy balance will be key in 2025](data/articles/sri-lanka-s-foreign-poli.49912bc4/README.md) `ft.lk`
+* [What’s next for AI in 2025](data/articles/what-s-next-for-ai-in-20.c7f238c1/README.md) `technologyreview.com`
 
 ## 2025-01-07
 
