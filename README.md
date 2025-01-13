@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-12 18:17:08**
+Last Updated **2025-01-13 06:25:00**
+
+## 2025-01-12
+
+* [English: What our politicians failed to understand](data/articles/english-what-our-politic.a72ca5b5/README.md) `dailymirror.lk`
+* [Local elections, rising poverty and the Aswesuma grant - EDITORIAL](data/articles/local-elections-rising-p.2bf484d3/README.md) `dailymirror.lk`
 
 ## 2025-01-11
 
