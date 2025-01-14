@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-13 18:20:45**
+Last Updated **2025-01-14 06:25:16**
+
+## 2025-01-13
+
+* [Wide ranging fallout of Trudeau’s exit from Canadian Premiership](data/articles/wide-ranging-fallout-of.acf16bc7/README.md) `dailymirror.lk`
+* [Why do successive governments fail in taming the rice mafia? - EDITORIAL](data/articles/why-do-successive-govern.4b7c2455/README.md) `dailymirror.lk`
+* [The Insidious Effects of Hurrying](data/articles/the-insidious-effects-of.2daab116/README.md) `hbr.org`
+* [Mark Zuckerberg and the power of the media](data/articles/mark-zuckerberg-and-the.b22eaa91/README.md) `technologyreview.com`
+* [How to Work for a Hands-Off Manager When You’re Fully Remote](data/articles/how-to-work-for-a-hands.e2e48ef9/README.md) `hbr.org`
+* [How Labor-Management Partnerships Can Deliver Outsized Results](data/articles/how-labor-management-par.0c35d7cb/README.md) `hbr.org`
 
 ## 2025-01-12
 
@@ -47,6 +56,7 @@ Last Updated **2025-01-13 18:20:45**
 * [What Effective CEOs Do After Their First 90 Days](data/articles/what-effective-ceos-do-a.ccbffabf/README.md) `hbr.org`
 * [சதாசிவம்பிள்ளை கிருஷ்ணகுமார் என்ற இயற்பெயரைக் கொண்ட விடுதலை புலிகளின் அன்றைய யாழ்ப்பாண மாவட்ட தளபதி ‘ கேணல் ‘ கிட்டுவின் வாழ்வும் காலமும்](data/articles/சத-ச-வம-ப-ள-ள-க-ர-ஷ-ணக-ம.9f087b1e/README.md) `dbsjeyaraj.com`
 * [2025 is a critical year for climate tech](data/articles/2025-is-a-critical-year.d12ea7de/README.md) `technologyreview.com`
+* [A New York legislator wants to pick up the pieces of the dead California AI bill](data/articles/a-new-york-legislator-wa.337b993f/README.md) `technologyreview.com`
 * [Sri Lanka power sector reforms: Way forward](data/articles/sri-lanka-power-sector-r.62a21c06/README.md) `ft.lk`
 * [Construction industry to Government: New set of proposals for year 2025](data/articles/construction-industry-to.638b194d/README.md) `ft.lk`
 * [Lasantha Wickrematunge  A national hero’s enduring legacy](data/articles/lasantha-wickrematunge-a.0367abc0/README.md) `dailymirror.lk`
