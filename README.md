@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-14 06:25:16**
+Last Updated **2025-01-14 18:18:34**
+
+## 2025-01-14
+
+* [What’s next for nuclear power](data/articles/what-s-next-for-nuclear.10ef3710/README.md) `technologyreview.com`
 
 ## 2025-01-13
 
@@ -43,6 +47,7 @@ Last Updated **2025-01-14 06:25:16**
 * [Tiger “Col.” Charles was mastermind behind Katunayake Airport attack](data/articles/tiger-col-charles-was-ma.fe22247f/README.md) `ft.lk`
 * [Sri Lanka – from crisis to confusion](data/articles/sri-lanka-from-crisis-to.5a910dd4/README.md) `ft.lk`
 * [Sri Lanka’s strategic foreign engagement: President AKD’s upcoming visit to China and economic implications](data/articles/sri-lanka-s-strategic-fo.36f52cda/README.md) `ft.lk`
+* [How the US is preparing for a potential bird flu pandemic](data/articles/how-the-us-is-preparing.04ad8d4c/README.md) `technologyreview.com`
 * [Veteran Playback singer P. Jayachandran, who died on January 9, 2025 had a unique voice and went on to sing some of the best solo and duet numbers in Tamil films, but without a trace of Malayalam, his mother tongue, in his Tamil songs.](data/articles/veteran-playback-singer.f5d118fd/README.md) `dbsjeyaraj.com`
 * [Transboundary air pollution : For how long should Sri Lankans suffer due to poor air quality levels?](data/articles/transboundary-air-pollut.c3811d46/README.md) `dailymirror.lk`
 
