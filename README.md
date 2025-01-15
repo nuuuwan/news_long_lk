@@ -2,20 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-15 06:25:02**
+Last Updated **2025-01-15 18:18:52**
 
 ## 2025-01-15
 
+* [One man’s mission to turn Delkanda pola to indoor basketball court](data/articles/one-man-s-mission-to-tur.4b5111d5/README.md) `ft.lk`
 * [AKD, newly embraced neoliberalism and Mark Carney’s attack on market values](data/articles/akd-newly-embraced-neoli.a5cc0025/README.md) `ft.lk`
 * [Democratic discipline: How Sri Lanka’s political transformation strengthens China ties](data/articles/democratic-discipline-ho.9ec50ba8/README.md) `ft.lk`
+* [Shanmuganathan Ravishankar alias “Col” Charles  was a Low Profile Tiger who  Masterminded High Profile   Attacks Outside North and East.](data/articles/shanmuganathan-ravishank.37c40c01/README.md) `dbsjeyaraj.com`
+* [Rescued from hell!  A Sri Lankan recalls the darkest days inside a Myanmar cyber  slave camp](data/articles/rescued-from-hell-a-sri.79b677d3/README.md) `dailymirror.lk`
 * [Democratic discipline  How Sri Lanka’s political transformation strengthens ties with China](data/articles/democratic-discipline-ho.c1105344/README.md) `dailymirror.lk`
 * [RESPIRE 2025 to empower healthcare professionals, public to improve respiratory health outcomes](data/articles/respire-2025-to-empower.8d163588/README.md) `dailymirror.lk`
 * [“Clean Sri Lanka”, Executive Presidency and Media Freedom](data/articles/clean-sri-lanka-executi.9e81db84/README.md) `dailymirror.lk`
 * [President’s China visit: Reboot the Dragon](data/articles/president-s-china-visit.4b441268/README.md) `dailymirror.lk`
 * [Lanka: Where many are let down by so few](data/articles/lanka-where-many-are-let.f8cfe550/README.md) `dailymirror.lk`
+* [Several decades of degrading and downgrading English following ‘Sinhala Only’ in 1956, have created a massive stumbling block to studying English It is now very hard for Sri Lanka to get out of this linguistic and cultural poverty trap.](data/articles/several-decades-of-degra.d85b756a/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-14
 
+* [For China, Sri Lanka under President Dissanayake’s  leadership presents an opportunity to demonstrate how its Belt and Road Initiative can evolve to meet contemporary development challenges.](data/articles/for-china-sri-lanka-unde.cd0f5ee6/README.md) `dbsjeyaraj.com`
 * [Make Better Strategic Decisions Around Slow-Developing Technology](data/articles/make-better-strategic-de.55ed1252/README.md) `hbr.org`
 * [How to Keep Up with the News Without Getting Overwhelmed](data/articles/how-to-keep-up-with-the.3b6871f0/README.md) `hbr.org`
 * [What’s next for nuclear power](data/articles/what-s-next-for-nuclear.10ef3710/README.md) `technologyreview.com`
