@@ -2,11 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-14 18:18:34**
+Last Updated **2025-01-15 06:25:02**
+
+## 2025-01-15
+
+* [AKD, newly embraced neoliberalism and Mark Carney’s attack on market values](data/articles/akd-newly-embraced-neoli.a5cc0025/README.md) `ft.lk`
+* [Democratic discipline: How Sri Lanka’s political transformation strengthens China ties](data/articles/democratic-discipline-ho.9ec50ba8/README.md) `ft.lk`
+* [Democratic discipline  How Sri Lanka’s political transformation strengthens ties with China](data/articles/democratic-discipline-ho.c1105344/README.md) `dailymirror.lk`
+* [RESPIRE 2025 to empower healthcare professionals, public to improve respiratory health outcomes](data/articles/respire-2025-to-empower.8d163588/README.md) `dailymirror.lk`
+* [“Clean Sri Lanka”, Executive Presidency and Media Freedom](data/articles/clean-sri-lanka-executi.9e81db84/README.md) `dailymirror.lk`
+* [President’s China visit: Reboot the Dragon](data/articles/president-s-china-visit.4b441268/README.md) `dailymirror.lk`
+* [Lanka: Where many are let down by so few](data/articles/lanka-where-many-are-let.f8cfe550/README.md) `dailymirror.lk`
 
 ## 2025-01-14
 
+* [Make Better Strategic Decisions Around Slow-Developing Technology](data/articles/make-better-strategic-de.55ed1252/README.md) `hbr.org`
+* [How to Keep Up with the News Without Getting Overwhelmed](data/articles/how-to-keep-up-with-the.3b6871f0/README.md) `hbr.org`
 * [What’s next for nuclear power](data/articles/what-s-next-for-nuclear.10ef3710/README.md) `technologyreview.com`
+* [Here’s our forecast for AI this year](data/articles/here-s-our-forecast-for.7c39619b/README.md) `technologyreview.com`
 
 ## 2025-01-13
 
