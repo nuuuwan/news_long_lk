@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-15 18:18:52**
+Last Updated **2025-01-16 06:25:17**
+
+## 2025-01-16
+
+* [How to make Legal Education work for the 21st Century?](data/articles/how-to-make-legal-educat.8249d0bc/README.md) `dailymirror.lk`
+* [Should we fear the unknown associated with this NPP regime?](data/articles/should-we-fear-the-unkno.f6bd3c8a/README.md) `dailymirror.lk`
+* [Could ‘Clean Sri Lanka’ eliminate the junk food menace? - EDITORIAL](data/articles/could-clean-sri-lanka-el.3a52c0b9/README.md) `dailymirror.lk`
+* [Your pricing is right, when customers complain, but still buy](data/articles/your-pricing-is-right-wh.3e3da252/README.md) `ft.lk`
+* [Is AKD following LKY?](data/articles/is-akd-following-lky.5c434c39/README.md) `ft.lk`
+* [Visa free or free visa? The good and the bad](data/articles/visa-free-or-free-visa-t.5b1f0dcc/README.md) `ft.lk`
+* [Dilemma of power inside our Parliament](data/articles/dilemma-of-power-inside.e681ce84/README.md) `ft.lk`
+* [Electoral-shock, crisis continuity, centre-right convergence and left lines](data/articles/electoral-shock-crisis-c.f3134ae0/README.md) `ft.lk`
 
 ## 2025-01-15
 
+* [UK-China relations are set for a pragmatic restart](data/articles/uk-china-relations-are-s.25fe8ce6/README.md) `eiu.com`
+* [Stop Relying on Others for Validation at Work](data/articles/stop-relying-on-others-f.cec8296b/README.md) `hbr.org`
 * [One man’s mission to turn Delkanda pola to indoor basketball court](data/articles/one-man-s-mission-to-tur.4b5111d5/README.md) `ft.lk`
 * [AKD, newly embraced neoliberalism and Mark Carney’s attack on market values](data/articles/akd-newly-embraced-neoli.a5cc0025/README.md) `ft.lk`
 * [Democratic discipline: How Sri Lanka’s political transformation strengthens China ties](data/articles/democratic-discipline-ho.9ec50ba8/README.md) `ft.lk`
@@ -30,6 +43,7 @@ Last Updated **2025-01-15 18:18:52**
 
 * [Wide ranging fallout of Trudeau’s exit from Canadian Premiership](data/articles/wide-ranging-fallout-of.acf16bc7/README.md) `dailymirror.lk`
 * [Why do successive governments fail in taming the rice mafia? - EDITORIAL](data/articles/why-do-successive-govern.4b7c2455/README.md) `dailymirror.lk`
+* [Japan PM visit to Malaysia and Indonesia shows ASEAN pivot](data/articles/japan-pm-visit-to-malays.2c4f00b9/README.md) `eiu.com`
 * [The Insidious Effects of Hurrying](data/articles/the-insidious-effects-of.2daab116/README.md) `hbr.org`
 * [Mark Zuckerberg and the power of the media](data/articles/mark-zuckerberg-and-the.b22eaa91/README.md) `technologyreview.com`
 * [How to Work for a Hands-Off Manager When You’re Fully Remote](data/articles/how-to-work-for-a-hands.e2e48ef9/README.md) `hbr.org`
@@ -58,6 +72,7 @@ Last Updated **2025-01-15 18:18:52**
 ## 2025-01-10
 
 * [A sad sorry tale of two lands – and  one stateless people (Part II of II)](data/articles/a-sad-sorry-tale-of-two.7b450421/README.md) `ft.lk`
+* [Iran looks to shore up regional ties](data/articles/iran-looks-to-shore-up-r.801b9a62/README.md) `eiu.com`
 * [Connect Your Learning Programs to Your Company’s Strategy](data/articles/connect-your-learning-pr.9da280ce/README.md) `hbr.org`
 * [What the 2024 CrowdStrike Glitch Can Teach Us About Cyber Risk](data/articles/what-the-2024-crowdstrik.fc80050c/README.md) `hbr.org`
 * [Are You Checked Out at Work?](data/articles/are-you-checked-out-at-w.c453bd07/README.md) `hbr.org`
