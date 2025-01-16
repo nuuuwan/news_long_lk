@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-16 06:25:17**
+Last Updated **2025-01-16 18:19:25**
 
 ## 2025-01-16
 
+* [Interest in nuclear power is surging. Is it enough to build new reactors?](data/articles/interest-in-nuclear-powe.fc5c04a3/README.md) `technologyreview.com`
 * [How to make Legal Education work for the 21st Century?](data/articles/how-to-make-legal-educat.8249d0bc/README.md) `dailymirror.lk`
 * [Should we fear the unknown associated with this NPP regime?](data/articles/should-we-fear-the-unkno.f6bd3c8a/README.md) `dailymirror.lk`
 * [Could ‘Clean Sri Lanka’ eliminate the junk food menace? - EDITORIAL](data/articles/could-clean-sri-lanka-el.3a52c0b9/README.md) `dailymirror.lk`
@@ -29,6 +30,7 @@ Last Updated **2025-01-16 06:25:17**
 * [“Clean Sri Lanka”, Executive Presidency and Media Freedom](data/articles/clean-sri-lanka-executi.9e81db84/README.md) `dailymirror.lk`
 * [President’s China visit: Reboot the Dragon](data/articles/president-s-china-visit.4b441268/README.md) `dailymirror.lk`
 * [Lanka: Where many are let down by so few](data/articles/lanka-where-many-are-let.f8cfe550/README.md) `dailymirror.lk`
+* [After 15 months of War in Gaza , Israel and Hamas sign a ceasefire deal. Donald Trump provided the X factor by putting heat on Binyamin Netanyahu, who insists the war isn’t over yet -The Economist.](data/articles/after-15-months-of-war-i.9a386780/README.md) `dbsjeyaraj.com`
 * [Several decades of degrading and downgrading English following ‘Sinhala Only’ in 1956, have created a massive stumbling block to studying English It is now very hard for Sri Lanka to get out of this linguistic and cultural poverty trap.](data/articles/several-decades-of-degra.d85b756a/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-14
@@ -48,6 +50,7 @@ Last Updated **2025-01-16 06:25:17**
 * [Mark Zuckerberg and the power of the media](data/articles/mark-zuckerberg-and-the.b22eaa91/README.md) `technologyreview.com`
 * [How to Work for a Hands-Off Manager When You’re Fully Remote](data/articles/how-to-work-for-a-hands.e2e48ef9/README.md) `hbr.org`
 * [How Labor-Management Partnerships Can Deliver Outsized Results](data/articles/how-labor-management-par.0c35d7cb/README.md) `hbr.org`
+* [Inside the strange limbo facing millions of IVF embryos](data/articles/inside-the-strange-limbo.dfca0e9a/README.md) `technologyreview.com`
 
 ## 2025-01-12
 
