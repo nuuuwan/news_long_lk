@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-16 18:19:25**
+Last Updated **2025-01-17 06:25:22**
+
+## 2025-01-17
+
+* [Clean Sri Lanka: Lesson from Lenin](data/articles/clean-sri-lanka-lesson-f.5b008135/README.md) `ft.lk`
+* [Sri Lankan expats: Missing vote](data/articles/sri-lankan-expats-missin.dad1aaac/README.md) `ft.lk`
+* [Reforming Sri Lanka’s business immigration: Path from grey markets to growth](data/articles/reforming-sri-lanka-s-bu.adc36cef/README.md) `ft.lk`
+* [This is not expansion of tax net but expansion of net of inefficiency](data/articles/this-is-not-expansion-of.8594358a/README.md) `ft.lk`
+* [Panacea for transfer pricing with APA framework only for MNC not for locals](data/articles/panacea-for-transfer-pri.15c1571d/README.md) `ft.lk`
+* [Ceasefire deal: Blessed are the Palestinians](data/articles/ceasefire-deal-blessed-a.37b763bf/README.md) `dailymirror.lk`
+* [China’s inspirational tales of socialism have pulling power! - EDITORIAL](data/articles/china-s-inspirational-ta.6f9a3769/README.md) `dailymirror.lk`
 
 ## 2025-01-16
 
@@ -10,6 +20,7 @@ Last Updated **2025-01-16 18:19:25**
 * [How to make Legal Education work for the 21st Century?](data/articles/how-to-make-legal-educat.8249d0bc/README.md) `dailymirror.lk`
 * [Should we fear the unknown associated with this NPP regime?](data/articles/should-we-fear-the-unkno.f6bd3c8a/README.md) `dailymirror.lk`
 * [Could ‘Clean Sri Lanka’ eliminate the junk food menace? - EDITORIAL](data/articles/could-clean-sri-lanka-el.3a52c0b9/README.md) `dailymirror.lk`
+* [Sri Lanka Secures  $ 3.7  Billion Foreign Direct Investment From Sinopec to set up State of the Art Oil Refinery with 200,000 Barrels Capacity in Hambantota District During President Anura Kumara Dissanayake’s State Visit to China](data/articles/sri-lanka-secures-3-7-bi.d31ae11a/README.md) `dbsjeyaraj.com`
 * [Your pricing is right, when customers complain, but still buy](data/articles/your-pricing-is-right-wh.3e3da252/README.md) `ft.lk`
 * [Is AKD following LKY?](data/articles/is-akd-following-lky.5c434c39/README.md) `ft.lk`
 * [Visa free or free visa? The good and the bad](data/articles/visa-free-or-free-visa-t.5b1f0dcc/README.md) `ft.lk`
@@ -19,6 +30,7 @@ Last Updated **2025-01-16 18:19:25**
 ## 2025-01-15
 
 * [UK-China relations are set for a pragmatic restart](data/articles/uk-china-relations-are-s.25fe8ce6/README.md) `eiu.com`
+* [Don’t Wait for Promotion Cycles to Advocate for Your Best Employees](data/articles/don-t-wait-for-promotion.84b16cb2/README.md) `hbr.org`
 * [Stop Relying on Others for Validation at Work](data/articles/stop-relying-on-others-f.cec8296b/README.md) `hbr.org`
 * [One man’s mission to turn Delkanda pola to indoor basketball court](data/articles/one-man-s-mission-to-tur.4b5111d5/README.md) `ft.lk`
 * [AKD, newly embraced neoliberalism and Mark Carney’s attack on market values](data/articles/akd-newly-embraced-neoli.a5cc0025/README.md) `ft.lk`
