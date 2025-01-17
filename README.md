@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-17 06:25:22**
+Last Updated **2025-01-17 18:18:26**
 
 ## 2025-01-17
 
@@ -11,11 +11,13 @@ Last Updated **2025-01-17 06:25:22**
 * [Reforming Sri Lanka’s business immigration: Path from grey markets to growth](data/articles/reforming-sri-lanka-s-bu.adc36cef/README.md) `ft.lk`
 * [This is not expansion of tax net but expansion of net of inefficiency](data/articles/this-is-not-expansion-of.8594358a/README.md) `ft.lk`
 * [Panacea for transfer pricing with APA framework only for MNC not for locals](data/articles/panacea-for-transfer-pri.15c1571d/README.md) `ft.lk`
+* [Deciding the fate of “leftover” embryos](data/articles/deciding-the-fate-of-lef.9b2c0bfc/README.md) `technologyreview.com`
 * [Ceasefire deal: Blessed are the Palestinians](data/articles/ceasefire-deal-blessed-a.37b763bf/README.md) `dailymirror.lk`
 * [China’s inspirational tales of socialism have pulling power! - EDITORIAL](data/articles/china-s-inspirational-ta.6f9a3769/README.md) `dailymirror.lk`
 
 ## 2025-01-16
 
+* [Don’t Let Growth Muddle Your Company’s Strategy](data/articles/don-t-let-growth-muddle.2d2e71e4/README.md) `hbr.org`
 * [Interest in nuclear power is surging. Is it enough to build new reactors?](data/articles/interest-in-nuclear-powe.fc5c04a3/README.md) `technologyreview.com`
 * [How to make Legal Education work for the 21st Century?](data/articles/how-to-make-legal-educat.8249d0bc/README.md) `dailymirror.lk`
 * [Should we fear the unknown associated with this NPP regime?](data/articles/should-we-fear-the-unkno.f6bd3c8a/README.md) `dailymirror.lk`
