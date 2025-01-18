@@ -2,18 +2,30 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-17 18:18:26**
+Last Updated **2025-01-18 06:25:11**
+
+## 2025-01-18
+
+* [UNP-SJB rift,  a matter of ego](data/articles/unp-sjb-rift-a-matter-of.20356e8c/README.md) `dailymirror.lk`
+* [No end to killings in Palestine despite ‘Peace Agreement’](data/articles/no-end-to-killings-in-pa.00aa7277/README.md) `dailymirror.lk`
+* [Geopolitical dynamics, tension, and strategic significance  of seaport locations](data/articles/geopolitical-dynamics-te.e3fe351e/README.md) `ft.lk`
+* [Land for a colossus](data/articles/land-for-a-colossus.f089dac8/README.md) `ft.lk`
+* [Remembering Professor Sudarshan Seneviratne (1949-2024)](data/articles/remembering-professor-su.8f8ba3e7/README.md) `ft.lk`
 
 ## 2025-01-17
 
+* [Driving Sustainability by Forging Ties with Indigenous Businesses in Canada](data/articles/driving-sustainability-b.3d54662e/README.md) `hbr.org`
+* [The Surprising Power of Team Rituals](data/articles/the-surprising-power-of.f87ee644/README.md) `hbr.org`
 * [Clean Sri Lanka: Lesson from Lenin](data/articles/clean-sri-lanka-lesson-f.5b008135/README.md) `ft.lk`
 * [Sri Lankan expats: Missing vote](data/articles/sri-lankan-expats-missin.dad1aaac/README.md) `ft.lk`
 * [Reforming Sri Lanka’s business immigration: Path from grey markets to growth](data/articles/reforming-sri-lanka-s-bu.adc36cef/README.md) `ft.lk`
+* [We need to protect the protocol that runs Bluesky](data/articles/we-need-to-protect-the-p.dcbd2600/README.md) `technologyreview.com`
 * [This is not expansion of tax net but expansion of net of inefficiency](data/articles/this-is-not-expansion-of.8594358a/README.md) `ft.lk`
 * [Panacea for transfer pricing with APA framework only for MNC not for locals](data/articles/panacea-for-transfer-pri.15c1571d/README.md) `ft.lk`
 * [Deciding the fate of “leftover” embryos](data/articles/deciding-the-fate-of-lef.9b2c0bfc/README.md) `technologyreview.com`
 * [Ceasefire deal: Blessed are the Palestinians](data/articles/ceasefire-deal-blessed-a.37b763bf/README.md) `dailymirror.lk`
 * [China’s inspirational tales of socialism have pulling power! - EDITORIAL](data/articles/china-s-inspirational-ta.6f9a3769/README.md) `dailymirror.lk`
+* [The “ MGR” Mystique: Unique  Phenomenon of MG Ramachandran in  the Cinematic Politics of Tamil Nadu.](data/articles/the-mgr-mystique-unique.c6914901/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-16
 
@@ -34,6 +46,7 @@ Last Updated **2025-01-17 18:18:26**
 * [UK-China relations are set for a pragmatic restart](data/articles/uk-china-relations-are-s.25fe8ce6/README.md) `eiu.com`
 * [Don’t Wait for Promotion Cycles to Advocate for Your Best Employees](data/articles/don-t-wait-for-promotion.84b16cb2/README.md) `hbr.org`
 * [Stop Relying on Others for Validation at Work](data/articles/stop-relying-on-others-f.cec8296b/README.md) `hbr.org`
+* [Meta’s new AI model can translate speech from more than 100 languages](data/articles/meta-s-new-ai-model-can.6526248d/README.md) `technologyreview.com`
 * [One man’s mission to turn Delkanda pola to indoor basketball court](data/articles/one-man-s-mission-to-tur.4b5111d5/README.md) `ft.lk`
 * [AKD, newly embraced neoliberalism and Mark Carney’s attack on market values](data/articles/akd-newly-embraced-neoli.a5cc0025/README.md) `ft.lk`
 * [Democratic discipline: How Sri Lanka’s political transformation strengthens China ties](data/articles/democratic-discipline-ho.9ec50ba8/README.md) `ft.lk`
