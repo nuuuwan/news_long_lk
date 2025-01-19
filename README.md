@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-19 06:25:00**
+Last Updated **2025-01-19 18:16:40**
 
 ## 2025-01-18
 
@@ -18,6 +18,7 @@ Last Updated **2025-01-19 06:25:00**
 
 * [Driving Sustainability by Forging Ties with Indigenous Businesses in Canada](data/articles/driving-sustainability-b.3d54662e/README.md) `hbr.org`
 * [The Surprising Power of Team Rituals](data/articles/the-surprising-power-of.f87ee644/README.md) `hbr.org`
+* [To Jumpstart Creativity, Try These 8 Prompts](data/articles/to-jumpstart-creativity.bc3e7be7/README.md) `hbr.org`
 * [Research: Why Some Companies Weather Trade Wars Better Than Others](data/articles/research-why-some-compan.b02a3ff6/README.md) `hbr.org`
 * [Clean Sri Lanka: Lesson from Lenin](data/articles/clean-sri-lanka-lesson-f.5b008135/README.md) `ft.lk`
 * [Sri Lankan expats: Missing vote](data/articles/sri-lankan-expats-missin.dad1aaac/README.md) `ft.lk`
