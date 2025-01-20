@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-19 18:16:40**
+Last Updated **2025-01-20 06:25:11**
+
+## 2025-01-20
+
+* [Importance, challenges and opportunities of ship chandling industry in Sri Lanka](data/articles/importance-challenges-an.4aff9ccd/README.md) `ft.lk`
+* [Surviving a crumbling economic order](data/articles/surviving-a-crumbling-ec.e708fedf/README.md) `ft.lk`
+* [ODI compilation: Unsolicited debt and transformative growth manual for AKD Government](data/articles/odi-compilation-unsolici.68e9e68c/README.md) `ft.lk`
+* [Advance Income Tax on interest](data/articles/advance-income-tax-on-in.c603db5b/README.md) `ft.lk`
+* [How Tiger  ‘Col’  Kittu lost a leg when a bomb was thrown at him in Jaffna](data/articles/how-tiger-col-kittu-lost.a44d534a/README.md) `dailymirror.lk`
+* [Finance Capital,  GDP Growth and  Sri Lanka’s Economic Depression](data/articles/finance-capital-gdp-grow.683f3eba/README.md) `dailymirror.lk`
+* [The President eats his words, but with aplomb - EDITORIAL](data/articles/the-president-eats-his-w.a577a106/README.md) `dailymirror.lk`
 
 ## 2025-01-18
 
