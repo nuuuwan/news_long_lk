@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-20 06:25:11**
+Last Updated **2025-01-20 18:19:25**
 
 ## 2025-01-20
 
+* [The second wave of AI coding is here](data/articles/the-second-wave-of-ai-co.16e9b35a/README.md) `technologyreview.com`
 * [Importance, challenges and opportunities of ship chandling industry in Sri Lanka](data/articles/importance-challenges-an.4aff9ccd/README.md) `ft.lk`
 * [Surviving a crumbling economic order](data/articles/surviving-a-crumbling-ec.e708fedf/README.md) `ft.lk`
 * [ODI compilation: Unsolicited debt and transformative growth manual for AKD Government](data/articles/odi-compilation-unsolici.68e9e68c/README.md) `ft.lk`
@@ -46,6 +47,7 @@ Last Updated **2025-01-20 06:25:11**
 * [Don’t Let Growth Muddle Your Company’s Strategy](data/articles/don-t-let-growth-muddle.2d2e71e4/README.md) `hbr.org`
 * [How to Write a Job Description That Actually Gets People to Apply](data/articles/how-to-write-a-job-descr.682eb006/README.md) `hbr.org`
 * [Interest in nuclear power is surging. Is it enough to build new reactors?](data/articles/interest-in-nuclear-powe.fc5c04a3/README.md) `technologyreview.com`
+* [What to expect from Neuralink in 2025](data/articles/what-to-expect-from-neur.e42e3e17/README.md) `technologyreview.com`
 * [How to make Legal Education work for the 21st Century?](data/articles/how-to-make-legal-educat.8249d0bc/README.md) `dailymirror.lk`
 * [Should we fear the unknown associated with this NPP regime?](data/articles/should-we-fear-the-unkno.f6bd3c8a/README.md) `dailymirror.lk`
 * [Could ‘Clean Sri Lanka’ eliminate the junk food menace? - EDITORIAL](data/articles/could-clean-sri-lanka-el.3a52c0b9/README.md) `dailymirror.lk`
