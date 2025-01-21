@@ -2,17 +2,30 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-20 18:19:25**
+Last Updated **2025-01-21 06:25:20**
+
+## 2025-01-21
+
+* [Lankan movement hails Trump for opposing LGBTQIA++ Woke values](data/articles/lankan-movement-hails-tr.c6ab260f/README.md) `dailymirror.lk`
+* [Tariff reduction would not solve power related issues - EDITORIAL](data/articles/tariff-reduction-would-n.2dfef67a/README.md) `dailymirror.lk`
+* [Erosion of sportsmanship in Sri Lanka’s school rugby](data/articles/erosion-of-sportsmanship.60c27d07/README.md) `ft.lk`
+* [Need of the hour is Eravur Textile Manufacturing Zone](data/articles/need-of-the-hour-is-erav.29503955/README.md) `ft.lk`
+* [Sri Lanka: From debt default to transformative growth](data/articles/sri-lanka-from-debt-defa.d4a667e1/README.md) `ft.lk`
 
 ## 2025-01-20
 
+* [Unshackling Sri Lanka: Strategies to reduce fossil fuel dependency and risks in power generation](data/articles/unshackling-sri-lanka-st.a0f2d1aa/README.md) `ft.lk`
+* [Is irrational pricing causing medicine shortages in Sri Lanka?](data/articles/is-irrational-pricing-ca.f76931e9/README.md) `ft.lk`
+* [To Increase Your Shareholders’ Loyalty, Understand What Matters to Them](data/articles/to-increase-your-shareho.4d120173/README.md) `hbr.org`
 * [The second wave of AI coding is here](data/articles/the-second-wave-of-ai-co.16e9b35a/README.md) `technologyreview.com`
 * [Importance, challenges and opportunities of ship chandling industry in Sri Lanka](data/articles/importance-challenges-an.4aff9ccd/README.md) `ft.lk`
 * [Surviving a crumbling economic order](data/articles/surviving-a-crumbling-ec.e708fedf/README.md) `ft.lk`
 * [ODI compilation: Unsolicited debt and transformative growth manual for AKD Government](data/articles/odi-compilation-unsolici.68e9e68c/README.md) `ft.lk`
 * [Advance Income Tax on interest](data/articles/advance-income-tax-on-in.c603db5b/README.md) `ft.lk`
 * [How Tiger  ‘Col’  Kittu lost a leg when a bomb was thrown at him in Jaffna](data/articles/how-tiger-col-kittu-lost.a44d534a/README.md) `dailymirror.lk`
+* [If Sri Lanka is to be truly ‘Clean,’ the President must commit himself to bringing about a fundamental change in the mindset of the majority community on the ethnic issue. This is essential for a Clean Sri Lanka to be complete.](data/articles/if-sri-lanka-is-to-be-tr.803b83b9/README.md) `dbsjeyaraj.com`
 * [Finance Capital,  GDP Growth and  Sri Lanka’s Economic Depression](data/articles/finance-capital-gdp-grow.683f3eba/README.md) `dailymirror.lk`
+* [Veteran Journalist and Doughty Defender of Press Freedom Victor Ivan Passes away:Editors Guild Expresses Profound Sorrow.](data/articles/veteran-journalist-and-d.3c79b4f6/README.md) `dbsjeyaraj.com`
 * [The President eats his words, but with aplomb - EDITORIAL](data/articles/the-president-eats-his-w.a577a106/README.md) `dailymirror.lk`
 
 ## 2025-01-18
@@ -31,6 +44,7 @@ Last Updated **2025-01-20 18:19:25**
 * [The Surprising Power of Team Rituals](data/articles/the-surprising-power-of.f87ee644/README.md) `hbr.org`
 * [To Jumpstart Creativity, Try These 8 Prompts](data/articles/to-jumpstart-creativity.bc3e7be7/README.md) `hbr.org`
 * [Research: Why Some Companies Weather Trade Wars Better Than Others](data/articles/research-why-some-compan.b02a3ff6/README.md) `hbr.org`
+* [OpenAI has created an AI model for longevity science](data/articles/openai-has-created-an-ai.70ea2d46/README.md) `technologyreview.com`
 * [Clean Sri Lanka: Lesson from Lenin](data/articles/clean-sri-lanka-lesson-f.5b008135/README.md) `ft.lk`
 * [Sri Lankan expats: Missing vote](data/articles/sri-lankan-expats-missin.dad1aaac/README.md) `ft.lk`
 * [Reforming Sri Lanka’s business immigration: Path from grey markets to growth](data/articles/reforming-sri-lanka-s-bu.adc36cef/README.md) `ft.lk`

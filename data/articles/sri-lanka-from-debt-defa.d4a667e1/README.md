@@ -1,0 +1,40 @@
+# Sri Lanka: From debt default to transformative growth
+
+[https://www.ft.lk/columns/Sri-Lanka-From-debt-default-to-transformative-growth/4-771998](https://www.ft.lk/columns/Sri-Lanka-From-debt-default-to-transformative-growth/4-771998)
+
+*12:11 AM, Tuesday, January 21, 2025*
+
+“Sri Lanka: From debt default to transformative growth” provides a deep understanding of why Sri Lanka fell into its worst economic crisis. Ganeshan Wignaraja and Dirk Willem te Velde, have shaped this collection of essays by distinguished experts into a masterpiece where it combines data driven analysis with pragmatic policy recommendations. It not only correctly diagnoses Sri Lanka’s economic crisis but also shows the pathway for transformative growth.
+
+The book starts off with an exploration of Sri Lanka’s economic crisis of 2022 which led to Sri Lanka’s first sovereign debt default. It also examines the complex interplay of domestic mismanagement, external events such as the Russia-Ukraine war and structural vulnerabilities that led to this state for the Sri Lankan economy. The book revolves around the topics of debt, monetary and fiscal policies and trade and investment policies.
+
+The first few chapters look deeper into Sri Lanka’s sovereign debt evolution and how it was unsustainable when looking at its trajectory. These chapters look at the decisions related to borrowing and its effects over decades. There was also the shift in borrowing from largely bilaterals and multilaterals, towards the international sovereign bondholders which meant that Sri Lanka’s debt moved increasingly from concessional to commercial borrowing. This meant the interest rates were also higher and the grace periods were much lower. The book looks at innovative mechanisms like debt for nature swaps which would not only address the fiscal challenge but also the environmental challenge.
+
+Monetary and fiscal policies
+
+The second phase of the book revolves around the important topics of monetary and fiscal policy in Sri Lanka. The macroeconomic stabilisation measures which included tightening monetary policy and fiscal consolidation along with fiscal reforms are spelt out in detail. Sri Lanka is also a model example where inflation was curbed in less than a year with effective monetary policies by the Central Bank led by its Governor Nandalal Weerasinghe. But the book states that in order to achieve fiscal sustainability in the medium to long term, structural reforms are essential, especially related to revenue collection and state owned enterprise reforms.
+
+Trade and foreign direct investment
+
+The third phase of the book looks into trade and foreign direct investment landscape where the authors penning the essays in this section have outlined points to enhancing Sri Lanka’s competitiveness and integration into global markets. Essays in this section advocate and give the argument for targeted trade agreements on a bilateral and regional level and the need to reduce bureaucratic red tape. It extends to the potential benefits of joining Regional Comprehensive Economic Partnership (RCEP) offering perspectives on opportunities and risks associated with joining this regional trade agreement. It also gives the case for furthering bilateral trade agreements Sri Lanka already has in place.
+
+Key reform priorities
+
+Last section of the book covers governance and accountability. One of the authors pushes the point that a major cause of Sri Lanka’s crisis is the lack of Government accountability. This has led to a carefree attitude towards public spending and policymaking which has been rather focused on instant gratification and targeted largely towards winning the next election, rather than for the long term betterment of the country.
+
+Strengths of the book
+
+The book gives a diverse perspective with contributions from a global panel of experts ranging from academic excellence to experts with decades of experience in practical policymaking. The authors of the essays in the book include Ashanthi Abayasekara, Sirimal Abeyratne, Derrick Abudu, Chandranath Amarasekara, Ravinath Ariyasinha, Yohannes Ayele, Yunnan Chen, Indrajit Coomaraswamy, Frederique Dahan, Shantayanan Devarajan, M. Ganeshamoorthy, Hazel Granger, Tom Hart, Michael Iveson, Murtaza Jafferjee, Sujeetha Jagajeevan, Maximiliano Mendez-Parra, Nandalal Weerasinghe, Phyllis Papadavid, Roshan Perera, Sheryllin Raga, Gregory Smith, Dirk Willem te Velde and Ganeshan Wignaraja.
+
+The book also balances macroeconomic analysis with specific sector oriented insights presenting a comprehensive roadmap for policymakers. Recommendations are data driven backed by empirical evidence and the book offers 27 targeted policy recommendations identifying actionable proposals to specific structural causes.
+
+“Sri Lanka: From debt default to transformative growth” is a well laid out argument to understanding Sri Lanka’s economic crisis and recovery. Its detailed analysis and realistic recommendations make it a must read for policymakers, academics and international stakeholders who have invested in Sri Lanka’s future. The book’s focus on a growth model that covers sustainability, inclusivity and accountability makes the book cover many different perspectives to drive policymaking for a better Sri Lanka.
+
+This book is much more than analysing the root causes of Sri Lanka’s descent into economic collapse. It is an economic plan offering lessons not just for Sri Lanka but for many other nations facing similar crises.
+
+The digital version of the book can be downloaded on the link below:
+
+https://odi.org/en/publications/sri-lanka-from-debt-default-to-transformative-growth/
+
+(The writer is an Economist and is a Director at Ernst & Young Sri Lanka. He is a regular columnist for the International Monetary Fund on public finance management and he was a Consultant at the Asian Development Bank. The views expressed in this article are strictly the writer’s own personal opinions.)
+

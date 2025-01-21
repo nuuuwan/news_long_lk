@@ -1,0 +1,30 @@
+# Need of the hour is Eravur Textile Manufacturing Zone
+
+[https://www.ft.lk/opinion/Need-of-the-hour-is-Eravur-Textile-Manufacturing-Zone/14-771999](https://www.ft.lk/opinion/Need-of-the-hour-is-Eravur-Textile-Manufacturing-Zone/14-771999)
+
+*12:13 AM, Tuesday, January 21, 2025*
+
+By Joint Apparel Association Forum
+
+With tourism having rebounded with great fanfare during the first two weeks of January, there has been a calling for the rightful heightening of investment and focus on the tourism industry. However, a point of concern has been that such parties are also arguing for the redirection of funds and deemphasis from a long-fought-for effort by the apparel industry in Sri Lanka, namely the dedicated textile manufacturing zone in Eravur, Batticaloa.
+
+Located over a span of 300 acres, the zone has been designed and will provide opportunities for multiple verticals relating to the manufacture of textiles. Manufacturers can establish textile dying, washing, knitting, weaving and other associated plants in this dedicated area, complete with a host of amenities and facilities including a sea outfall which would be connected to a central wastewater treatment plant with pre-cleared environmental approvals for all products.
+
+Reduce foreign exchange expenditure
+
+First conceptualised by the Joint Apparel Association Forum, this fabric processing park aims to reduce foreign exchange expenditure on the import of raw materials and their associated shipping and lead times. There will also be greater transparency and traceability within the supply chain, which is the direction that global legislation is moving in through multiple pieces of legislation in our primary markets of the USA, the EU and the UK. With the increase in availability of locally sourced fabric, not only has similar initiatives such as the Fabric Park in Thulhiriya led to increased employment opportunities in higher-skilled sectors within the apparel industry. It has enabled the country to increase its value addition and resultant dollar earnings to the final finished good, at present reaching approximately 55% as per research conducted by the Forum.
+
+Accounting for 5.8% of Sri Lanka’s GDP in 2023 the apparel and textile sector generated approximately $ 4.8 billion in revenue of which $ 338 million were from the direct textile export industry. As the single largest industrial exporter, it amounted to 52.6% of all industrial exports in 2023 and as such will continue to be a primary employer in the country and a source of much-needed skills generation for the blue-collar workforce in the country. With the government pushing for higher exports in the next few years, initiatives such as the Eravur zone will be a key component in allowing the industry to reach the ambitious targets being set.
+
+As such all stakeholders must be made aware of the critical importance of sustaining the focus and effort towards fully realising the benefits of the investments that have been undertaken.
+
+Taking advantage of these efforts and emboldened by the consistency displayed by the Board of Investments. Investments have commenced in the zone as reported by Extraordinary Gazette in August 2024 with Jay Jay Textiles Lanka Ltd. having undertaken an investment for the manufacture and processing of fabrics for export including indirect exports.
+
+Goal of the new Government
+
+The goal of the new Government must be now not to let off the accelerator but to double down and engage the apparel and textile industries to uncover how best to capture investment for the remaining space within the zone to realise its full potential in doing so ensure the future of Sri Lanka Apparel which played a key role in sustaining the nation through the tumult of the preceding few years beginning with COVID-19 and continuing through the economic crisis of 2022.
+
+The JAAF, as the apex apparel industry body in Sri Lanka is of the point of view that we cannot win tomorrow in the same manner yesterday was won. With that spirit in mind, JAAF has been leading the argument as to why Sri Lanka should not only be the foremost sustainable ready-made garment sourcing destination but also that which can create a state-of-the-art textile and fabric solutions which are of central importance for the apparel industry to move into higher value-addition products and categories.
+
+With a wave of due diligence and transparency regulatory efforts sequentially coming into force in the lead-up to 2030 from across buyer markets in the EU, USA and beyond. The JAAF is of the view that through the operationalisation of the investments in Eravur, Sri Lanka Apparel will be positioned to take advantage of the aforementioned regulatory developments. As such, we are hopeful that focus will not be lost on the potential that lies in the apparel industry. The Eravur textile zone is the key that unlocks the future of Sri Lanka apparel and with its unlocking, we are confident that the apparel industry will once again prove an exception and lead Sri Lanka’s prospects as the nation enters the second quarter of the 21st century.
+

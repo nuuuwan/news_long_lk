@@ -1,0 +1,86 @@
+# If Sri Lanka is to be truly ‘Clean,’ the President must commit himself to bringing about a fundamental change in the mindset of the majority community on the ethnic issue. This is essential for a Clean Sri Lanka to be complete.
+
+[https://dbsjeyaraj.com/dbsj/?p=85393](https://dbsjeyaraj.com/dbsj/?p=85393)
+
+*01:11 AM, Monday, January 20, 2025*
+
+Veeragathy Thanabalasingham
+
+President Anura Kumara Dissanayake’s ambitious Clean Sri Lanka project has received both positive and negative comments.
+
+During the Parliamentary Election campaign, the President told the nation that his Government would launch a special project with the aim of making Sri Lanka the cleanest country in the Asian region.
+
+However, following criticism that arose as a result of the initial approach of the Presidential Task Force appointed to Clean Sri Lanka, Government leaders were compelled to explain that the project was not limited to simply cleaning the environment or removing extra equipment installed on buses and three-wheelers, but had a broader objective of addressing various problems of society in general.
+
+Speaking at the launch of Clean Sri Lanka on 1 January, President Dissanayake declared that the new year marked the beginning of a new political culture in Sri Lanka.
+
+“We aim to abolish practices such as nepotism, abuse of power against the people, and the creation of a political elite that prioritises personal interests over the public good. We are committed to creating a political culture that is in line with the aspirations of the people. Therefore, it is necessary to heal our society and create a system with new values and principles,” he said.
+
+Prime Minister Dr. Harini Amarasuriya, who recently explained the objectives of Clean Sri Lanka, said that the Government was confident that the project would bring about positive changes in Sri Lankan society and was committed to create and implement social, moral, and environmental principles to build Sri Lanka as a developed country.
+
+The Prime Minister also stated that their ultimate goal was to transform Sri Lanka into a beautiful nation with “smiling people” by setting values and norms for interaction and human relations at all levels of society through the principle of good governance.
+
+Based on explanations given by Government leaders regarding Clean Sri Lanka, their goal is to transform Sri Lanka into a country with a people who follow strong moral values.
+
+They say they are committed to create awareness among the people on the need for not only environmental cleanliness but also cultural cleanliness. They also say that the Government is concerned with promoting a qualitative change in people’s behaviour (how to think, how to feel, how to act) in order to build a better society.
+
+Showing the right path
+
+After an unprecedented people’s uprising demanding a system change, the people who rejected the political parties that represented the traditional political establishment brought the National People’s Power (NPP) to power. They expect a completely different leadership style and governance from President Dissanayake and the Government led by him.
+
+Even if the people want a change in the previous order, the ordinary people cannot be expected to have a clear idea of what the new system or new political culture should be. The political leadership of the country should guide them in that regard.
+
+Political leaders who have ruled so far have not only misled the people but have also used wrong beliefs and prejudices among the people to their advantage in order to strengthen their power.
+
+Leaders who should have shown the people the right path have, under the guise of respecting the sentiments of the people, promoted political policies and action that have strengthened wrong ideas among the people. That is the root cause of many of the problems the country is facing today.
+
+Therefore, the extent to which President Dissanayake can adopt an approach to dealing with problems different to the approach of previous rulers will give credibility to his declarations about creating a society with a new culture and new values.
+
+Sri Lanka continues to remain a society divided along ethnic lines due to past politics. Healthy changes in inter-ethnic relations are essential if any qualitative change is to be brought about in society.
+
+A misinterpreted message?
+
+Although the President and Government leaders have declared that they will never allow racist politics and religious extremism to reappear in the country, their actions have not shown any clear signs of alleviating the mistrust and suspicions that have been rooted in communal politics to date.
+
+It is unfortunate that no new cultural orientation or propensity has been demonstrated even in the appointment of members to the Presidential Task Force responsible for Clean Sri Lanka.
+
+As the Government claims, if there is to be a morally-based change in the thinking of Sri Lankan society, it is necessary to have a change of heart among the people that respects the legitimate aspirations of ethnic minority communities. There must also be a clear understanding of the national ethnic problem.
+
+For the first time in Sri Lanka’s electoral history, a national political party with a southern Sinhala leadership has won more parliamentary seats than political parties that have traditionally represented minority communities in the Northern and Eastern Provinces.
+
+The President and the Government seem to have misinterpreted the message of this historic victory achieved by the NPP, which views its victory as marking the beginning of a new phase of Sri Lankan politics in which ‘national unity,’ rather than achieving ethnic political agendas, has become a shared political goal across all communities.
+
+In the words of Prof. Jayadeva Uyangoda, an eminent political scientist in Sri Lanka, concerning the reasonable arguments put forward in the political debate regarding the election results, the “overwhelming support that the NPP obtained in districts with Tamil and Muslim majorities should not be over-interpreted to negate the political validity of devolution and other nationalist gains and aspirations. This particular election outcome should not be weaponised to invalidate the demand for political equality, which has been a key aspiration of the minority ethnic communities throughout the post-independence decades.”
+
+The talk of a new political culture will only be meaningful if President Dissanayake and the Government use the overwhelming support for the NPP across the country to address the legitimate political aspirations of minority communities and to remove the deeply entrenched misconceptions among the majority community about the devolution of power.
+
+President Dissanayake, who stated in his election manifesto that the NPP Government would guarantee equality, democracy, and the devolution of political and administrative power to every Local Government authority, district, and province, made no mention of the 13th Amendment, the only legal provision in the Sri Lankan Constitution on devolution.
+
+Speaking amid the controversy that erupted following former President Ranil Wickremesinghe’s announcement that he would fully implement the amendment step by step, Dissanayake said that if the Tamil people believed that the 13th Amendment (13A) would be a solution to their problems, the NPP then had no problem with it.
+
+The current Prime Minister also said at that time that the amendment, which has been in the Constitution for a long time, should be fully implemented. However, as opposition to Wickremesinghe’s initiative intensified among southern nationalist forces, both of them stopped talking about it.
+
+Since becoming President, Dissanayake has avoided speaking about the solution to the national ethnic problem or the 13th Amendment. No one knows what will happen to the amendment during the new constitutional drafting process that the Government says will be carried out in three years. But if the ethnic issue is ignored, no constitutional reform plan will have any legitimacy or relevance.
+
+However, why are the leaders of the NPP, who claim to have made major changes in their previous policies and approach in line with the demands of current domestic and international political situations, acting only selectively in relaxing their hardline positions on the political solution to the ethnic problem and devolution of power? They should explain the difference between themselves and the hardline Sinhala nationalist political forces in this regard.
+
+How is President Dissanayake, who is committed to creating a new political culture and a society with moral values and ethics, going to bring about a qualitative change in the thinking of the people without changing his party’s ideological stance against devolution? What are the limitations of the qualitative change he claims?
+
+Despite the armed insurgency against the July 1987 Indo-Sri Lanka Peace Accord, after entering the democratic political mainstream, the Janatha Vimukthi Peramuna (JVP) contested elections and participated in the Provincial Council system. Although the JVP opposed the 13th Amendment, claiming that it was imposed by Indian ‘expansionists,’ why is it reluctant to soften its stand on the issue of devolution, given the current close ties with India?
+
+As the only political leader with enormous credibility among the Sinhalese people in southern Sri Lanka at present, President Dissanayake is undoubtedly in a position to win over the minds of the majority community and prevail upon them on the need to respect and recognise the legitimate political aspirations of the minority communities and devolution. Unlike previous presidents, if he does not seize this rare opportunity that history has given him, no one else will be able to do so in the near future.
+
+There is no point in simply saying that the Provincial Councils will not be abolished in three years before the new constitution is brought into effect. On the contrary, if the President summons the political courage to hold early Provincial Council Elections and implement the powers of the 13th Amendment to the greatest extent possible, it will certainly give impetus to processes towards the qualitative change in values and ethics that he and the Government are striving to bring about in Sri Lankan society. It will also go a long way in preventing the resurgence of racist politics on both sides of the ethnic divide.
+
+The President need not worry about whether the Tamil parties want the amendment or not. Whether the Tamil parties get further alienated from the Tamil people or not depends on the way the Government behaves.
+
+The reason for emphasising the implementation of the 13th Amendment with extra emphasis here is the belief that Sri Lanka has no chance of seeing anything other than the provision for devolution of power it currently has in the foreseeable future.
+
+There is no point in talking about a new political culture and moral values without any positive change in the sentiments of the south on the national ethnic problem. Also, the problems of the minority communities will not be naturally resolved if the NPP Government says that it respects all races equally and will not allow racial politics again.
+
+If the main goal of the Clean Sri Lanka project is to bring about a qualitative change in the thinking and behaviour of people, it is imperative to undertake processes to change the deep-rooted sentiments against devolution of power among the people in the south.
+
+If Sri Lanka is to be truly ‘Clean,’ the President must commit himself to bringing about a fundamental change in the mindset of the majority community on the ethnic issue. This is essential for a Clean Sri Lanka to be complete.
+
+Courtesy:Sunday Morning
+

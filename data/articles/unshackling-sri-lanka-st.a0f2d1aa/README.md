@@ -1,0 +1,60 @@
+# Unshackling Sri Lanka: Strategies to reduce fossil fuel dependency and risks in power generation
+
+[https://www.ft.lk/columns/Unshackling-Sri-Lanka-Strategies-to-reduce-fossil-fuel-dependency-and-risks-in-power-generation/4-771995](https://www.ft.lk/columns/Unshackling-Sri-Lanka-Strategies-to-reduce-fossil-fuel-dependency-and-risks-in-power-generation/4-771995)
+
+*10:36 PM, Monday, January 20, 2025*
+
+Renewable energy is more cost-effective compared to several fossil fuel power generation alternatives
+
+Sri Lanka’s power sector faces technical, financial, and competitive challenges affecting its sustainability. Among these challenges, the overdependence on fossil fuels such as oil, coal, and gas for power generation is particularly significant. This paper examines strategies to reduce economic and financial risks in Sri Lanka’s power sector, particularly those from heavy reliance on imported fossil fuels.
+
+Economic implications of fossil fuel dependence
+
+Sri Lanka’s power sector relies heavily on thermal plants using oil and coal, with plans to incorporate liquefied natural gas. In 2023, fossil fuels accounted for 50% of power generation. This dependency poses risks such as price volatility and supply chain disruptions. High prices of oil, gas, and coal increase costs for power generation, resulting in higher electricity tariffs and a less competitive industry. Unpredictable prices make utility operations challenging. Currency depreciation increases local costs, as seen recently. Sri Lanka’s commitment to reducing this dependence to 30% or less through harnessing renewable energy resources by 2030 is a move in the right direction.
+
+Fossil fuel imports contribute to trade deficits and affect the national currency, adding to the overall economic strain. Sri Lanka spent about $ 400 million on petroleum fuels and nearly $ 500 million on coal in 2023 for power generation.
+
+The rising import prices of oil, gas, and coal increase economic risks and price volatility makes planning difficult. When the price of one fossil fuel spikes, it often triggers price increases in the others, leading to simultaneous cost surges across the energy sector. Figure 1 shows fossil fuel prices from 2000 to 2024, highlighting monthly variations and their correlations.
+
+In contrast, there is often an inverse relationship between wind speed and solar radiation in Sri Lanka. So that when wind generation is low, solar generation is high and vice versa. High wind speeds during monsoons often coincide with lower solar insolation due to cloud cover and atmospheric disturbances. Using diverse renewable energy plants distributed nationwide can reduce renewable electricity generation variability.
+
+CEB encounters challenges in managing energy costs, keeping stable electricity rates, and sustaining financial viability. Unpredictability due to limited energy source diversity contributes to these challenges. Climate change and changes in rainfall patterns add to the unpredictability.
+
+Politics matter too. In 2022, before CEB adopted cost-reflective tariffs, CEB lost Rs. 200 billion. Now, cost-reflective tariffs lead to consumers bearing the burden of high fuel prices, causing public discontent. Fuel price drops lead to windfall profits for CEB and bad publicity for CEB, until PUCSL adjusts tariffs. Delays in approving tariff reductions cause public discontent.
+
+Mitigation strategiesDiversification of energy sources
+
+One way to lower the risks associated with overdependence on fossil fuels is to diversify the energy mix. Sri Lanka has great potential for wind, solar, and hydropower energy. The majority of the hydropower potential is utilised. Notably, advances in technology and cost reductions have made solar and wind power cost-competitive. According to Lazard’s June 2024 report, “LCOE +”, renewable energy is more cost-effective compared to several fossil fuel power generation alternatives. See Figure 2. With advances in utility-scale battery storage, variability in wind and solar generation can be managed. The Lazard estimates are based on US conditions. Technologies like solar photovoltaics (PV) are cheaper in Sri Lanka due to lower labour and technology costs.
+
+Generating electricity from gas will be very expensive for Sri Lanka. Japanese import price of LNG was 4-9 times more than US pipeline gas price in 2024 – it would be even more costly for Sri Lanka. Additionally, Sri Lanka must cover the full infrastructure cost to import and deliver the gas, potentially more-than doubling the already high cost in the early years when gas demand is low.
+
+There is widespread opportunity for PV in Sri Lanka. PV systems are in operation at different scales, with a total installed capacity of about 900 MW in 2023. There are 10 MW utility-scale installations, smaller floating solar PV demonstrations, 1-5 MW installations close to grid sub-stations, and rooftop solar systems are an increasingly common sight. CEB is contracting for 100 MW PV installations. In the future, PV-battery micro grids could supply rural electricity and help reduce demand for fossil-fuelled generation and reduce transmission and distribution losses. A US National Renewable Energy Laboratory study estimated the technical wind power potential in Sri Lanka is about 20,000 MW (about five times today’s total installed generation capacity). As of 2023, about 270 megawatts of wind power plants are in operation.
+
+Government policies to remove barriers for renewable energy can boost private investment and speed up the transition to cleaner energy. Investing in renewables enhances energy security by cutting reliance on imported fossil fuels. Sri Lanka aims to generate 70% of its energy from renewables by 2030, reducing overdependence on fossil fuels.
+
+Investing in utility scale energy storage solutions
+
+Energy storage systems, like utility-scale batteries or pumped hydro storage, can solve renewable energy intermittency problems. These systems store excess energy during high production and release it when needed, ensuring a stable electricity supply. Investing in storage technologies enhances grid stability and reliability. Battery storage has made significant technological and cost advancements. CEB’s interest in these technologies is promising.
+
+Improving energy efficiency
+
+Improving energy efficiency is important for Sri Lanka. It can lower dependence on imported fossil fuels and postpone the need for upgrades to transmission and distribution systems. Implementing energy efficiency measures in industrial, commercial, and residential sectors, along with investments in smart controls and demand management, can provide significant benefits. Transitioning from oil-fuelled transport to electric transport is beneficial. With 75% of petroleum imports used for transport (nearly $ 3 billion in 2023), switching to electric transport can lead to substantial foreign exchange savings. Sri Lanka can enhance energy efficiency through better policies, financial incentives, regulations, and knowledge and technology sharing.
+
+Strengthening power infrastructure
+
+Upgrading and modernising the power infrastructure is essential to mitigate technical risks. This includes improving grid reliability, improving power system control and management, enhancing transmission and distribution networks, and investing in smart grid technologies. A robust infrastructure can better manage the integration of renewable energy sources and reduce the risk of power outages.
+
+Policy and regulatory framework
+
+A strong policy, regulatory framework, and good governance are essential for these strategies’ success. The Government can create clear policies to support renewable energy, offer incentives to encourage diverse energy sources, and ensure a stable investment climate. Regulatory measures should promote competition and innovation in the power sector. Transparency and good governance are vital, and the NPP Government’s commitment to these principles is encouraging.
+
+The Electricity Act No. 36 of 2024 was a move in the right direction. Its aim of unbundling the power sector and encouraging greater private sector participation is crucial to improving sector performance. It would boost competition, enhance efficiency, and attract private investment. It allows better regulatory oversight. I hope that the new NPP Government will continue to build on this positive progress.
+
+Ensuring credibility of data and integrity of the power planning process
+
+Using credible data and unbiased analysis is vital for Sri Lanka’s power planning to minimize risks. Accurate predictions depend on reliable data, while transparent analysis ensures energy decisions are merit-based, fostering trust among stakeholders. This approach promotes sustainable and economical energy solutions, reducing market uncertainties and resource risks. However, the CEB’s draft 2025-2044 Long Term Generation Expansion Plan is flawed. It assumes fuel prices will remain unchanged for 20 years, overlooks declining renewable energy costs, and likely overestimates electricity demand. Improvements are needed.
+
+Addressing economic risks in Sri Lanka’s power sector requires a comprehensive strategy. This involves diversifying the energy mix, investing in renewable energy sources, improving energy efficiency, strengthening power infrastructure, adopting supportive policies, fostering an investment-friendly environment, and implementing effective planning. By employing these measures, Sri Lanka can mitigate economic risks, enhance energy security, reduce environmental impact, and create a more stable and competitive electricity supply industry.
+
+(The writer is a former Lead Energy Specialist, The World Bank, Washington DC, USA.)
+
