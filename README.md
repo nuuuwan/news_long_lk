@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-21 06:25:20**
+Last Updated **2025-01-21 18:19:02**
 
 ## 2025-01-21
 
+* [Why it’s so hard to use AI to diagnose cancer](data/articles/why-it-s-so-hard-to-use.f76d3dd3/README.md) `technologyreview.com`
 * [Lankan movement hails Trump for opposing LGBTQIA++ Woke values](data/articles/lankan-movement-hails-tr.c6ab260f/README.md) `dailymirror.lk`
 * [Tariff reduction would not solve power related issues - EDITORIAL](data/articles/tariff-reduction-would-n.2dfef67a/README.md) `dailymirror.lk`
 * [Erosion of sportsmanship in Sri Lanka’s school rugby](data/articles/erosion-of-sportsmanship.60c27d07/README.md) `ft.lk`
