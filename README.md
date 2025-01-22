@@ -2,13 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-21 18:19:02**
+Last Updated **2025-01-22 06:25:19**
+
+## 2025-01-22
+
+* [Clean Sri Lanka:  How and by who?](data/articles/clean-sri-lanka-how-and.26dbdbc6/README.md) `ft.lk`
+* [Budget 2025: Adjusting and adapting inside IMF prison](data/articles/budget-2025-adjusting-an.46d5bea2/README.md) `ft.lk`
 
 ## 2025-01-21
 
+* [“SJB and UNP should agree on an electoral pact”: Digambaram](data/articles/sjb-and-unp-should-agre.06fc5802/README.md) `dailymirror.lk`
+* [Rohingya’s testimonies - Who are they and why are they in Sri Lanka?](data/articles/rohingya-s-testimonies-w.4e7bf44f/README.md) `dailymirror.lk`
+* [Paddy cultivation and rice production: issues and recommended solutions](data/articles/paddy-cultivation-and-ri.0b031e7e/README.md) `dailymirror.lk`
+* [The second coming of Donald Trump and the electability of demagoguery](data/articles/the-second-coming-of-don.0a559db5/README.md) `dailymirror.lk`
+* [Lankan Presidents wash dirty linen while the public starve](data/articles/lankan-presidents-wash-d.8d39e826/README.md) `dailymirror.lk`
+* [OpenAI ups its lobbying efforts nearly seven-fold](data/articles/openai-ups-its-lobbying.2b3f84b9/README.md) `technologyreview.com`
+* [The impact of US tariffs on China: three scenarios](data/articles/the-impact-of-us-tariffs.fa359f67/README.md) `eiu.com`
 * [Why it’s so hard to use AI to diagnose cancer](data/articles/why-it-s-so-hard-to-use.f76d3dd3/README.md) `technologyreview.com`
 * [Lankan movement hails Trump for opposing LGBTQIA++ Woke values](data/articles/lankan-movement-hails-tr.c6ab260f/README.md) `dailymirror.lk`
 * [Tariff reduction would not solve power related issues - EDITORIAL](data/articles/tariff-reduction-would-n.2dfef67a/README.md) `dailymirror.lk`
+* [Sri Lankan Media Spotlights President Dissanayake’s “Tightrope Walk “between China and India.Editorials,Cartoons and Commentaries Focus on AKD’s “Balancing Act”  While Engaging with Two Powerful Countries](data/articles/sri-lankan-media-spotlig.7e9d2024/README.md) `dbsjeyaraj.com`
 * [Erosion of sportsmanship in Sri Lanka’s school rugby](data/articles/erosion-of-sportsmanship.60c27d07/README.md) `ft.lk`
 * [Need of the hour is Eravur Textile Manufacturing Zone](data/articles/need-of-the-hour-is-erav.29503955/README.md) `ft.lk`
 * [Sri Lanka: From debt default to transformative growth](data/articles/sri-lanka-from-debt-defa.d4a667e1/README.md) `ft.lk`

@@ -1,0 +1,54 @@
+# The second coming of Donald Trump and the electability of demagoguery
+
+[https://www.dailymirror.lk/opinion/The-second-coming-of-Donald-Trump-and-the-electability-of-demagoguery/172-300623](https://www.dailymirror.lk/opinion/The-second-coming-of-Donald-Trump-and-the-electability-of-demagoguery/172-300623)
+
+*11:12 PM, Tuesday, January 21, 2025*
+
+On Monday, the United States of America swore in as its 47th president, Donald J Trump, a convicted felon who made a remarkable comeback, ditching jail time by virtue of getting elected to the highest office of the most powerful democracy in the world.
+
+If that happened anywhere else in the world, the very legitimacy of the democratic process would have been questioned.
+
+Trump’s America may offer a unique case of extreme political polarisation where a narcissistic billionaire property developer with a history of serial bankruptcy and a record of racism and misogyny has successfully managed to cosplay as the saviour of the average American. The vibes of his inauguration smacked the mixture of Italy in the 1930s and the more humanized version of the European far right- though Mr Trump is a brazen demagogue compared to any of his European ideological peers.
+
+Delivering his inauguration speech- a boastful and vindictive campaign-styled harangue-, Mr Trump denigrated his predecessor, calling it a ‘radical corrupt government’, and repeated his demagogic claims that other countries are emptying their prisons and mental hospitals into America. He promised to reverse a ‘terrible betrayal, many betrayals’ and declared an emergency at the country’s Southern border, promising to send troops to repel a ‘disastrous invasion’.
+
+He pledged to take the Panama Canal from the sovereign state of Panama, rename the Gulf of Mexico as the Gulf of America and make Americans proud, prosperous and rich.
+
+A CNN fact check found that Mr Trump made about 20 false claims in his inauguration speech, much of the falsehood he had repeated in the past, and pivoted his presidential campaign.
+
+Mr Trump, though, has already cashed in his presidency. A day before his taking oath, he launched a cryptocurrency, a meme coin, which immediately rocketed into a US$ 15 billion market cap before tanking by 60 per cent. The Trump family, through two affiliates, own 80 per cent of tokens, which would, on paper, make him five times richer than he was before. Not to be outdone, wife Melania launched a token of her own, which also soared in value before dropping by half. There was a time when the US Justice Department and SEC were up in arms against token offerings- terming them as unauthorised securities.
+
+Now, the US has a veritable Nigerian prince at its helm, with an extreme degree of conflict of interest.
+
+Gone are the days when Americans advised the rest of the world of consensus politics.
+
+Though Mr Trump said he would not weaponise the enormous powers of the state against his opponents, his predecessor was not taking chances. Hours before the end of his term, outgoing president Joe Biden pre-emptively issued presidential clemency to members of his family and senior members of his administration to guard them against a potential political witch-hunt.
+
+On his first day in office, Mr Trump issued over 100 executive orders, including revoking 78 Biden-era policies. Among other executive orders, he granted presidential pardons for over 1500 January 6th rioters; he withdrew America from the Paris Climate Agreement and the World Health Organization and announced a presidential decree to revoke birth right citizenship, a measure that would run against the 14th amendment of the US Constitution.
+
+He sacked the senior Justice Department leadership and unlocked new powers to deal with immigrants by declaring an emergency on the Southern border.
+
+Mr Trump would preside over four years of extreme political polarization, demagoguery and broadly normalised contempt for immigrants at home.
+
+However, anyone who ponders how these gravity-defining changes in America would affect the rest of the world - America’s allies and foes, and those who are neither- might have to look into how America got there in the first place. As 19th-century writer Alexis de Tocqueville, in one of the most celebrated works on American democracy, observed internal structures, value systems, and institutions of a country have an enduring effect on how it conducts business at home and abroad.
+
+America is in the throes of a civilizational crisis. The vast majority of Mr Trump’s MAGA followers are hankering about the trouble-free pre-civil rights era when minorities knew their places and did meagre jobs while the average White American school dropout would find secure employment and a decent pay check. That era ended when China, with its cheap and abundant labour, replaced the United States as the world’s manufacturing hub, leading to the deindustrialization of America’s Rust Belt. The sense of physical and psychological displacement of the White working class was further exacerbated by the sight of a small number of better-educated minorities and immigrants landing in cushy tech and managerial jobs, which were, until then, the preserve of the Whites. The opposition of Trump’s most devoted followers to the H1B visa, which grants barely 80,000 visas to highly skilled foreign nationals to come and work in America, emanates from this rancour.
+
+America is also in the middle of a culture war as a sizable number of its conservative public is offended by  Critical race theory, LGBTQ activism and wokesim of the left, though the American left, often demonised in the Conservative narrative, is a milder version of its ideological peers in Europe, let alone in Asia or Latin America.
+
+Donald Trump exploited these grievances of an electorally consequential portion of the population. Rising inflation, economic woes, and incumbency fatigue helped him reach out to a sizable portion of people who did not share his demagoguery but were too tired to bother about it.
+
+Mr Trump has threatened to impose 10 per cent import taxes on Canada and Mexico from February 1 and threatened China with a 60 per cent tax. He is signalling a skewed form of economic diplomacy, or more accurately, economic blackmail, where the countries are forced to grant concessions to be in the good books of America. However, Trump’s tariff would provoke tit-for-tat, leading to a trade war with China.
+
+He may impose additional tariffs on America’s allies, such as India, Vietnam and the Philippines, which, in return, have a toll on America’s security cooperation in Indo Pacific region.
+
+As much as Mr Trump may revel in bullying the small states and dependent allies, he would thread carefully with big bullies. Trump holds a degree of respect for autocrats, which he rarely extends to fellow democrats. Most likely, Putin would have his way with Ukraine, while Xi Jinping would find Trump’s America less troublesome in Beijing’s approach to Taiwan. Perhaps the only good thing in Trump’s presidency would be a swift end to the intractable war in Ukraine, though it would be in Russia’s terms.
+
+However, should Trump’s transactional foreign policy spill into the security cooperation with its regional allies in the Indo-Pacific, including China’s neighbours and Japan and South Korea, that would create a void in geopolitics, which China itself would try to fill in.
+
+Trump’s presidency may not necessarily be bad for smaller and largely indifferent states such as Sri Lanka- though should Trump choose to impose a universal tariff on all imports, that would affect the Sri Lankan economy, considering that the US is the country’s main export market.
+
+Otherwise,  under the Trump presidency, America would look more inward, leaving smaller states to themselves and to pick their foreign relations. In such a scenario, replacing the lost American goodwill with alternative sources is not difficult. The Chinese have deeper pockets.
+
+Follow @RangaJayasuriya on X
+
