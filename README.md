@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-22 06:25:19**
+Last Updated **2025-01-22 18:19:39**
 
 ## 2025-01-22
 
@@ -11,6 +11,7 @@ Last Updated **2025-01-22 06:25:19**
 
 ## 2025-01-21
 
+* [“SJB and UNP should agree on an electoral pact”: Digambaram](data/articles/sjb-and-unp-should-agre.8351a4b6/README.md) `dailymirror.lk`
 * [“SJB and UNP should agree on an electoral pact”: Digambaram](data/articles/sjb-and-unp-should-agre.06fc5802/README.md) `dailymirror.lk`
 * [Rohingya’s testimonies - Who are they and why are they in Sri Lanka?](data/articles/rohingya-s-testimonies-w.4e7bf44f/README.md) `dailymirror.lk`
 * [Paddy cultivation and rice production: issues and recommended solutions](data/articles/paddy-cultivation-and-ri.0b031e7e/README.md) `dailymirror.lk`
@@ -18,6 +19,9 @@ Last Updated **2025-01-22 06:25:19**
 * [Lankan Presidents wash dirty linen while the public starve](data/articles/lankan-presidents-wash-d.8d39e826/README.md) `dailymirror.lk`
 * [OpenAI ups its lobbying efforts nearly seven-fold](data/articles/openai-ups-its-lobbying.2b3f84b9/README.md) `technologyreview.com`
 * [The impact of US tariffs on China: three scenarios](data/articles/the-impact-of-us-tariffs.fa359f67/README.md) `eiu.com`
+* [Research: Incivility at Work Silences Everyone, But Especially Women](data/articles/research-incivility-at-w.4dd7e41b/README.md) `hbr.org`
+* [How to Make Your Team’s Work More Visible](data/articles/how-to-make-your-team-s.8b0a3cd7/README.md) `hbr.org`
+* [There can be no winners in a US-China AI arms race](data/articles/there-can-be-no-winners.d6a8ce92/README.md) `technologyreview.com`
 * [Why it’s so hard to use AI to diagnose cancer](data/articles/why-it-s-so-hard-to-use.f76d3dd3/README.md) `technologyreview.com`
 * [Lankan movement hails Trump for opposing LGBTQIA++ Woke values](data/articles/lankan-movement-hails-tr.c6ab260f/README.md) `dailymirror.lk`
 * [Tariff reduction would not solve power related issues - EDITORIAL](data/articles/tariff-reduction-would-n.2dfef67a/README.md) `dailymirror.lk`
