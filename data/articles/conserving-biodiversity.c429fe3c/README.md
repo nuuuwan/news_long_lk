@@ -1,0 +1,24 @@
+# Conserving biodiversity for future generations - EDITORIAL
+
+[https://www.dailymirror.lk/opinion/Conserving-biodiversity-for-future-generations-EDITORIAL/172-300729](https://www.dailymirror.lk/opinion/Conserving-biodiversity-for-future-generations-EDITORIAL/172-300729)
+
+*01:16 AM, Thursday, January 23, 2025*
+
+Habitat fragmentation due to human activities has posed significant threats to biodiversity on this planet. With deforestation, many endemic plant and animal species are struggling for survival. Urban road development and agricultural practices create further divides within natural ecosystems. Shrinking habitats means a lower survival rate for animals given that a smaller size of land possesses less food for them, while increasing the rate of competition with other species.
+
+It is in this backdrop that conservationists have discussed the need to have places of conservation, such as zoos to educate people about the natural world. While some may argue that wild animals need to be kept in their natural habitats, for some species it may be most suitable to live in a captive environment that could guarantee their wellbeing and safety. In the past, animals that were mistreated in circuses or pets that have been abandoned were provided with a safer living environment in zoos.
+
+Last year, a group of scientists declared the extinction of the Slender-Billed Curlew, a migratory shorebird that once bred in western Siberia and wintered around the Mediterranean. Similar to this bird, many animals have become extinct. According to the Smithsonian Natural History Museum, future generations may not be able to see the Dodo bird, woolly mammoth, Tasmanian tiger, the Golden Toad and the St. Helena Olive Tree among several other extinct animal and plant species. Today, the most complete dodo specimens on public display are two fossilized skeletons, one on the dodo’s native island of Mauritius and the other in Durban, South Africa.
+
+The extinction of an animal also causes an imbalance to the predator-prey composition within natural ecosystems. From a scientific perspective, if a group of prey were to become extinct, it is not certain that the group below it on the food chain could provide the predator with the nutrients or volume of food it would need. If it reaches that point, it is entirely possible that the predator could become extinct. Therefore, when the hierarchy has been wiped out, the survival rates of the layer below would be enhanced, resulting in overpopulation for example, thereby disturbing the natural order.
+
+Farmers in rural areas of Sri Lanka are faced with a significant crisis due to the overpopulation of peacocks. Many conservationists attribute it to the reduction of the Sri Lankan golden jackal (Canis aureus naria). Jackals played the role of a predator in the food web but due to habitat fragmentation and disruptions in the food web, Sri Lanka’s golden jackal population is now on the decline.
+
+At the moment, Sri Lanka is in the midst of an aggravating human-wildlife conflict. The ever-aggravating Human-Elephant Conflict continues to claim the lives of elephants and humans. Photos of elephants that had either met with an accident or had been shot dead or that had been electrocuted have become a regular sight on social media. Added to that are claims of toque macaques and giant squirrels causing significant crop damage.
+
+During a recent interview, President Anura Kumara Dissanayake explained how many elephant corridors for instance have been encroached. He said that plans are underway to reopen these important migratory routes for elephants as means of resolving the HEC. He also explained how elephants that lived in the Central Highlands moved towards Minneriya National Park. He recalled how Samuel Baker hunted all elephants living in Horton Plains to extinction. As such, the entire ecosystem has been disrupted to a point where it has become rather difficult to resolve these matters overnight.
+
+As much as zoos are needed for conservation purposes, it is also important to provide adequate care for these beings when they are being held in captivity. The death of ‘Sakifo’, the only Sumatran orang-utan at the Dehiwela Zoo raises alarming concerns regarding the quality of care that these animals receive.
+
+At the time of passing, Sakifo was only 15 years old whereas the maximum lifespan of an orang-utan living in the wild is 50 years. Therefore it is the responsibility of respective authorities to ensure the wellbeing of all animals. After all, biodiversity conservation is a topmost priority today and as humans, we need to appreciate the ecosystem services carried out by these species which in turn benefit human wellbeing and quality of life.
+

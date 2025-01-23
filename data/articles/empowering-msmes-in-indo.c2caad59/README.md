@@ -1,0 +1,68 @@
+# Empowering MSMEs in Indonesia Through Improved Financing
+
+[https://hbr.org/sponsored/2025/01/empowering-msmes-in-indonesia-through-improved-financing](https://hbr.org/sponsored/2025/01/empowering-msmes-in-indonesia-through-improved-financing)
+
+*07:59 PM, Wednesday, January 22, 2025*
+
+Micro, small, and medium-sized enterprises (MSMEs) are the backbone of Indonesia’s economy, representing more than 60% of its gross domestic product (GDP) and nearly 97% of its workforce.
+
+But the value credit banks lend to this segment does not represent its importance. Only 7% of Indonesia’s credit goes to MSMEs, due to the low financial literacy and poor business management and accounting in this segment that hinders banks from conducting credit feasibility analysis.
+
+To provide subsidized financing access for MSMEs and support financial inclusion, business empowerment, and national economic growth, Indonesia in 2007 launched the Kredit Usaha Rakyat, or People’s Business Loan, program (KUR). The program’s ultimate goal is to enable MSMEs to “graduate” from government-subsidized loans to commercial loans, granting them access to better rates, more-stable funding, and higher credit limits, thereby enhancing their financial independence and growth potential.
+
+By building financial literacy and digitizing MSMEs, the program’s intent is to reduce the financial access gap, strengthening MSMEs as Indonesia’s main driver of growth and economic equity.
+
+The Business Loan Evolution
+
+Over the past decade, KUR has focused on expanding MSMEs’ financing access, enhancing MSMEs’ competitiveness, and supporting economic growth. To achieve this mission, Indonesia has modified the program in three phases.
+
+In the first phase, Indonesia gradually reduced KUR interest rates and expanded the pool of recipients, opening doors for MSMEs underserved by financial institutions, increasing the volume of loans, and boosting MSMEs’ confidence in using KUR financing to expand their businesses.
+
+When the pandemic hit in 2020, KUR shifted its priorities to sustaining MSMEs through the resulting recession by further reducing interest rates and offering additional subsidies to serve the most vulnerable business segments. KUR significantly increased its loans, driving national economic recovery and maintaining employment levels.
+
+In the recovery phase, starting in 2023, KUR returned to its pre-pandemic policy objectives of optimizing loan disbursement, including targeting digitally based productive sectors.
+
+Throughout the past decade’s policy transformations, KUR has accelerated economic growth, reaching 57 million business owners by 2023, and improved MSMEs’ socioeconomic conditions.
+
+The average turnover for MSMEs taking these loans has increased 60%, and their employment absorption has risen by more than 25%. Businesses receiving KUR loans saw substantial increases in spending on education and health care, and GDP in these businesses’ districts and cities rose faster than in those not receiving the loans.
+
+After nearly a decade as the backbone of MSME financing, KUR now faces five structural challenges to its sustainability:
+
+1. Limited Loan Eligibility
+
+The number of eligible KUR recipients is narrowing and will reach its saturation point by 2029, according to the BRI Research Institute. Today, only 3 million to 4 million recipients qualify for the loans, down from 7.6
+
+2. Deteriorating Credit Quality
+
+The nonperforming loan (NPL) rate, including loans overdue by more than 90 days or classified as substandard, doubtful, or bad debts, has risen to over 1 million since the start of the pandemic—. To remain viable and sustainable, KUR requires better risk management.
+
+3. More Claims on Guarantees
+
+The number of claims on KUR guarantees has risen, according to BRI. Along with the rising NPL trend, that pressure increases the risk burden for lending banks, as well as for their guarantee institutions, whose leverage and risk-bearing capacity may be depleted if the trends continue. The domino effect raises guarantee premium costs, which could raise financing interest rates for MSMEs.
+
+4. MSMEs’ Graduation Rate
+
+More than 45% of KUR recipients are eligible for graduation to commercial credit, but a lack of readiness among debtors reduces the impact of this program.
+
+Since the pandemic, some KUR recipients have struggled with payment discipline and .
+
+After implementing its pandemic and post-pandemic policies, KUR now needs to refine its disbursement strategy to ensure greater economic and social impact. The right approach involves focusing on targeted recipient selection to prioritize digitally productive and growth-ready MSMEs, enhancing risk mitigation through robust monitoring and evaluation systems, and integrating advanced digital tools to streamline processes and expand outreach.
+
+These more adaptive and sustainable policy strategies include:
+
+1. Developing a graduation scheme based on business capacity and providing technical assistance to debtors to prepare them for the transition to commercial credit.
+
+2. Optimizing credit ceilings and using a risk-based approach to maintain the quality of disbursement.
+
+3. Strengthening stakeholder synergy by improving coordination between the government, disbursing banks, and guarantee institutions to design effective policies.
+
+4. Empowering MSMEs with digital tools, including an online single submission platform and a preemployment portal.
+
+KUR has proved its value as a strategic instrument in supporting the growth of MSMEs and the economy. Since its introduction, the program has expanded financial access and created significant social and economic impacts, particularly in rural areas.
+
+However, addressing challenges like recipient saturation and declining credit quality requires a more adaptive approach. With the right strategies, KUR can continue to strengthen MSMEs, empower more people, and advance financial inclusion in Indonesia
+
+Supari is the micro business director at PT Bank Rakyat Indonesia (BRI) Tbk. He oversees the implementation and management of the Kredit Usaha Rakyat program at BRI, focusing on expanding financial inclusion for Indonesia’s micro, small, and medium-sized enterprises (MSMEs). His work emphasizes digital transformation, financial literacy, and risk management to support sustainable economic growth.
+
+Learn more about Kredit Usaha Rakyat (KUR) and lending to micro, small, and medium-sized enterprises (MSMEs) at Bank Rakyat Indonesia (BRI).
+

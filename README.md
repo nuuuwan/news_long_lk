@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-22 18:19:39**
+Last Updated **2025-01-23 06:25:20**
+
+## 2025-01-23
+
+* [Citizens’ right of access to information](data/articles/citizens-right-of-access.a0c9b1a9/README.md) `ft.lk`
+* [India, China, Anura: Escalation spiral of external enmeshing and entrenchment](data/articles/india-china-anura-escala.e068553a/README.md) `ft.lk`
+* [Not all road incidents are accidents: Time to call out “neglidents”](data/articles/not-all-road-incidents-a.eacf7539/README.md) `ft.lk`
+* [Gross Official Reserves – the bitter reality hidden](data/articles/gross-official-reserves.b5d27c43/README.md) `ft.lk`
+* [As World Economic Forum Annual Meeting 2025 opens, leaders call for renewed global collaboration in intelligent age](data/articles/as-world-economic-forum.ec2bed0f/README.md) `ft.lk`
+* [English Medium: Policy, Politics, Psychology and Potential](data/articles/english-medium-policy-po.c2faa99b/README.md) `dailymirror.lk`
+* [Saving Sri Lanka’s biodiversity one nutritious meal at a time](data/articles/saving-sri-lanka-s-biodi.1782845e/README.md) `dailymirror.lk`
+* [Can we enfranchise expatriate  workers without biometric-based IDs?](data/articles/can-we-enfranchise-expat.a049fd57/README.md) `dailymirror.lk`
+* [The journey of Victor Ivan….From making bombs till the pen nib exploded!](data/articles/the-journey-of-victor-iv.ba6a42a3/README.md) `dailymirror.lk`
+* [Conserving biodiversity for future generations - EDITORIAL](data/articles/conserving-biodiversity.c429fe3c/README.md) `dailymirror.lk`
 
 ## 2025-01-22
 
+* [Empowering MSMEs in Indonesia Through Improved Financing](data/articles/empowering-msmes-in-indo.c2caad59/README.md) `hbr.org`
 * [Clean Sri Lanka:  How and by who?](data/articles/clean-sri-lanka-how-and.26dbdbc6/README.md) `ft.lk`
 * [Budget 2025: Adjusting and adapting inside IMF prison](data/articles/budget-2025-adjusting-an.46d5bea2/README.md) `ft.lk`
 
