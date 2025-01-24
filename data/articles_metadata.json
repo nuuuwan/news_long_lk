@@ -1,5 +1,68 @@
 [
   {
+    "title": "Why was the name of Jaffna Cultural Centre changed suddenly by India?",
+    "url": "https://www.ft.lk/columns/Why-was-the-name-of-Jaffna-Cultural-Centre-changed-suddenly-by-India/4-772165",
+    "ut": 1737678897.0,
+    "dir_path_unix": "data/articles/why-was-the-name-of-jaff.ddf25d47",
+    "time_str_formatted": "06:04 AM, Friday, January 24, 2025"
+  },
+  {
+    "title": "Clean Sri Lanka \u2013 cleansing the soul of the country",
+    "url": "https://www.ft.lk/columns/Clean-Sri-Lanka-cleansing-the-soul-of-the-country/4-772164",
+    "ut": 1737678529.0,
+    "dir_path_unix": "data/articles/clean-sri-lanka-cleansin.c7f2ee16",
+    "time_str_formatted": "05:58 AM, Friday, January 24, 2025"
+  },
+  {
+    "title": "Beyond economic malaise: Charting  Sri Lanka\u2019s future for prosperity",
+    "url": "https://www.dailymirror.lk/opinion/Beyond-economic-malaise-Charting-Sri-Lankas-future-for-prosperity/172-300820",
+    "ut": 1737655178.0,
+    "dir_path_unix": "data/articles/beyond-economic-malaise.80dd407f",
+    "time_str_formatted": "11:29 PM, Thursday, January 23, 2025"
+  },
+  {
+    "title": "Manifest Destiny: Trump\u2019s speech raises fears of fascism",
+    "url": "https://www.dailymirror.lk/opinion/Manifest-Destiny-Trumps-speech-raises-fears-of-fascism/172-300818",
+    "ut": 1737654302.0,
+    "dir_path_unix": "data/articles/manifest-destiny-trump-s.d429538d",
+    "time_str_formatted": "11:15 PM, Thursday, January 23, 2025"
+  },
+  {
+    "title": "Fearing the Richard who died - EDITORIAL",
+    "url": "https://www.dailymirror.lk/opinion/Fearing-the-Richard-who-died-EDITORIAL/172-300814",
+    "ut": 1737653999.0,
+    "dir_path_unix": "data/articles/fearing-the-richard-who.5b380fad",
+    "time_str_formatted": "11:09 PM, Thursday, January 23, 2025"
+  },
+  {
+    "title": "How AI Is Changing the ROI of Customer Service",
+    "url": "https://hbr.org/sponsored/2025/01/how-ai-is-changing-the-roi-of-customer-service",
+    "ut": 1737631776.0,
+    "dir_path_unix": "data/articles/how-ai-is-changing-the-r.819a2262",
+    "time_str_formatted": "04:59 PM, Thursday, January 23, 2025"
+  },
+  {
+    "title": "What\u2019s next for robots",
+    "url": "https://www.technologyreview.com/2025/01/23/1110496/whats-next-for-robots/",
+    "ut": 1737621596.0,
+    "dir_path_unix": "data/articles/what-s-next-for-robots.8d405871",
+    "time_str_formatted": "02:09 PM, Thursday, January 23, 2025"
+  },
+  {
+    "title": "8 Lessons from the Career of Softbank\u2019s Masayoshi Son",
+    "url": "https://hbr.org/2025/01/8-lessons-from-the-career-of-softbanks-masayoshi-son",
+    "ut": 1737618945.0,
+    "dir_path_unix": "data/articles/8-lessons-from-the-caree.30e352f0",
+    "time_str_formatted": "01:25 PM, Thursday, January 23, 2025"
+  },
+  {
+    "title": "A Bad Communication Strategy Around Sustainability Can Leave You Legally Exposed",
+    "url": "https://hbr.org/2025/01/a-bad-communication-strategy-around-sustainability-can-leave-you-legally-exposed",
+    "ut": 1737618310.0,
+    "dir_path_unix": "data/articles/a-bad-communication-stra.9db5486c",
+    "time_str_formatted": "01:15 PM, Thursday, January 23, 2025"
+  },
+  {
     "title": "This is what might happen if the US withdraws from the WHO",
     "url": "https://www.technologyreview.com/2025/01/23/1110460/us-withdraws-from-the-who/",
     "ut": 1737598517.0,
@@ -194,6 +257,13 @@
     "ut": 1737443535.0,
     "dir_path_unix": "data/articles/there-can-be-no-winners.d6a8ce92",
     "time_str_formatted": "12:42 PM, Tuesday, January 21, 2025"
+  },
+  {
+    "title": "A new company plans to use Earth as a chemical reactor",
+    "url": "https://www.technologyreview.com/2025/01/21/1110131/ammonia-addis-energy/",
+    "ut": 1737437400.0,
+    "dir_path_unix": "data/articles/a-new-company-plans-to-u.9c3dab40",
+    "time_str_formatted": "11:00 AM, Tuesday, January 21, 2025"
   },
   {
     "title": "Why it\u2019s so hard to use AI to diagnose cancer",

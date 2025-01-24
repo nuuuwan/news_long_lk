@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-23 18:19:39**
+Last Updated **2025-01-24 06:24:59**
+
+## 2025-01-24
+
+* [Why was the name of Jaffna Cultural Centre changed suddenly by India?](data/articles/why-was-the-name-of-jaff.ddf25d47/README.md) `ft.lk`
+* [Clean Sri Lanka – cleansing the soul of the country](data/articles/clean-sri-lanka-cleansin.c7f2ee16/README.md) `ft.lk`
 
 ## 2025-01-23
 
+* [Beyond economic malaise: Charting  Sri Lanka’s future for prosperity](data/articles/beyond-economic-malaise.80dd407f/README.md) `dailymirror.lk`
+* [Manifest Destiny: Trump’s speech raises fears of fascism](data/articles/manifest-destiny-trump-s.d429538d/README.md) `dailymirror.lk`
+* [Fearing the Richard who died - EDITORIAL](data/articles/fearing-the-richard-who.5b380fad/README.md) `dailymirror.lk`
+* [How AI Is Changing the ROI of Customer Service](data/articles/how-ai-is-changing-the-r.819a2262/README.md) `hbr.org`
+* [What’s next for robots](data/articles/what-s-next-for-robots.8d405871/README.md) `technologyreview.com`
+* [8 Lessons from the Career of Softbank’s Masayoshi Son](data/articles/8-lessons-from-the-caree.30e352f0/README.md) `hbr.org`
+* [A Bad Communication Strategy Around Sustainability Can Leave You Legally Exposed](data/articles/a-bad-communication-stra.9db5486c/README.md) `hbr.org`
 * [This is what might happen if the US withdraws from the WHO](data/articles/this-is-what-might-happe.20502058/README.md) `technologyreview.com`
 * [Citizens’ right of access to information](data/articles/citizens-right-of-access.a0c9b1a9/README.md) `ft.lk`
 * [India, China, Anura: Escalation spiral of external enmeshing and entrenchment](data/articles/india-china-anura-escala.e068553a/README.md) `ft.lk`
@@ -40,6 +52,7 @@ Last Updated **2025-01-23 18:19:39**
 * [Research: Incivility at Work Silences Everyone, But Especially Women](data/articles/research-incivility-at-w.4dd7e41b/README.md) `hbr.org`
 * [How to Make Your Team’s Work More Visible](data/articles/how-to-make-your-team-s.8b0a3cd7/README.md) `hbr.org`
 * [There can be no winners in a US-China AI arms race](data/articles/there-can-be-no-winners.d6a8ce92/README.md) `technologyreview.com`
+* [A new company plans to use Earth as a chemical reactor](data/articles/a-new-company-plans-to-u.9c3dab40/README.md) `technologyreview.com`
 * [Why it’s so hard to use AI to diagnose cancer](data/articles/why-it-s-so-hard-to-use.f76d3dd3/README.md) `technologyreview.com`
 * [Lankan movement hails Trump for opposing LGBTQIA++ Woke values](data/articles/lankan-movement-hails-tr.c6ab260f/README.md) `dailymirror.lk`
 * [Tariff reduction would not solve power related issues - EDITORIAL](data/articles/tariff-reduction-would-n.2dfef67a/README.md) `dailymirror.lk`
