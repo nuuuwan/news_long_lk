@@ -2,18 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-24 06:24:59**
+Last Updated **2025-01-24 18:18:46**
 
 ## 2025-01-24
 
 * [Why was the name of Jaffna Cultural Centre changed suddenly by India?](data/articles/why-was-the-name-of-jaff.ddf25d47/README.md) `ft.lk`
 * [Clean Sri Lanka – cleansing the soul of the country](data/articles/clean-sri-lanka-cleansin.c7f2ee16/README.md) `ft.lk`
+* [The US withdrawal from the WHO will hurt us all](data/articles/the-us-withdrawal-from-t.c6a04060/README.md) `technologyreview.com`
 
 ## 2025-01-23
 
 * [Beyond economic malaise: Charting  Sri Lanka’s future for prosperity](data/articles/beyond-economic-malaise.80dd407f/README.md) `dailymirror.lk`
 * [Manifest Destiny: Trump’s speech raises fears of fascism](data/articles/manifest-destiny-trump-s.d429538d/README.md) `dailymirror.lk`
 * [Fearing the Richard who died - EDITORIAL](data/articles/fearing-the-richard-who.5b380fad/README.md) `dailymirror.lk`
+* [யாழ்ப்பாண கலாசார மையத்தின் பெயர் திடீரென்று இந்தியாவினால்  திருவள்ளுவர் கலாசார மையமாக மாற்றப்பட்டது ஏன்?](data/articles/ய-ழ-ப-ப-ண-கல-ச-ர-ம-யத-த.a7bd5f89/README.md) `dbsjeyaraj.com`
 * [How AI Is Changing the ROI of Customer Service](data/articles/how-ai-is-changing-the-r.819a2262/README.md) `hbr.org`
 * [What’s next for robots](data/articles/what-s-next-for-robots.8d405871/README.md) `technologyreview.com`
 * [8 Lessons from the Career of Softbank’s Masayoshi Son](data/articles/8-lessons-from-the-caree.30e352f0/README.md) `hbr.org`
@@ -48,6 +50,7 @@ Last Updated **2025-01-24 06:24:59**
 * [The second coming of Donald Trump and the electability of demagoguery](data/articles/the-second-coming-of-don.0a559db5/README.md) `dailymirror.lk`
 * [Lankan Presidents wash dirty linen while the public starve](data/articles/lankan-presidents-wash-d.8d39e826/README.md) `dailymirror.lk`
 * [OpenAI ups its lobbying efforts nearly seven-fold](data/articles/openai-ups-its-lobbying.2b3f84b9/README.md) `technologyreview.com`
+* [OpenAI has upped its lobbying efforts nearly sevenfold](data/articles/openai-has-upped-its-lob.2b3f84b9/README.md) `technologyreview.com`
 * [The impact of US tariffs on China: three scenarios](data/articles/the-impact-of-us-tariffs.fa359f67/README.md) `eiu.com`
 * [Research: Incivility at Work Silences Everyone, But Especially Women](data/articles/research-incivility-at-w.4dd7e41b/README.md) `hbr.org`
 * [How to Make Your Team’s Work More Visible](data/articles/how-to-make-your-team-s.8b0a3cd7/README.md) `hbr.org`
