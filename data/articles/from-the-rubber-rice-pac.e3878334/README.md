@@ -1,0 +1,34 @@
+# From the Rubber-Rice Pact to Oil for land deals
+
+[https://www.dailymirror.lk/opinion/From-the-Rubber-Rice-Pact-to-Oil-for-land-deals/172-300935](https://www.dailymirror.lk/opinion/From-the-Rubber-Rice-Pact-to-Oil-for-land-deals/172-300935)
+
+*11:25 PM, Friday, January 24, 2025*
+
+A plethora of changes are taking place in our land since the presidential election of September 2024 and general election which followed in November 2024. Yet, some things remain unchanged. Our country’s External Debt reached USD 56.6 billion in September 2024, compared with 55.9 USD billion in the previous quarter. This debt has to be paid off.
+
+The projected repayments in the period 2021 - 2025 is expected to be USD 4.432 billion. In other words we have to find new avenues to repay the debt in a timely fashion or bankruptcy will be staring us in the face as it did in 2022.
+
+Foreign Exchange Reserves in the country decreased to USD 6091 million in December from USD 6451 million in November of 2024. In simple terms, it means our foreign exchange earnings are not sufficient to repay our foreign debt.
+
+This is one of the major challenges facing our recently elected government -most of whose members are first-timers in the seats of power. So how can we keep the country afloat while standing firm on earlier stated principles?
+
+In the past, whenever our country was facing economic challenges it has been mainly India or China who have come to our rescue. It was no surprise therefore when our newly elected president made the first two presidential visits to India and China.
+
+Shortly after independence, in 1952, our country was in danger of being unable to purchase requirements in rice in the international market (due to the sudden drop in prices of natural rubber) -a result of the US flooding the world market with artificial rubber.
+
+The US rejected calls from our then government to help despite there being a possibility of starvation here country-wide. During this time the government of China came to our aid via a barter scheme exchanging rubber for rice. China in fact valued our rubber at above market rates and helped the country avert a famine-like situation.
+
+More recently, when our country declared itself bankrupt it was India which came to our help offering us a USD 4 billion credit line to help us tide over the crisis. Our ‘Western’ friends however mouthed empty phrases of support.
+
+Both our President and his political party the NPP, need to be congratulated for the about turn they made from the political positions they had taken regarding the ‘evil designs’ of India and China they publicly manifested at the time they sat in the Opposition benches in parliament.
+
+Then MP Dissanayake had earlier categorised Chinese investments, loans and whatever else they may have been involved in, as turning Lanka into their pocket borough. He also berated Indian investments in our island nation suggesting it a form of Indian expansionism. Targeted were Indian investments in oil farms at Trincomalee and the wind farms at Mannar. On return from his Indian visit, the government claimed it would ‘review’ this programme.
+
+Realpolitik, especially when one is in power, has an obnoxious method of forcing political mind-change. Unlike Donald Trump in the US, our president cannot threaten to take over third countries, tax goods or even take over parts of other countries -as for example Trumpian threats to the Panama Canal or even distant Greenland- for America’s benefit.
+
+Faced with this dilemma, our President had to go back on his criticisms. Today he is calling for more investments from China in addition to agreeing for Chinese investments to set up an oil refinery in Hambantota together with 500 acres of land for the purpose. Subsequently our Foreign Minister Vijitha Herath confirmed that the Chinese have asked for an extra 250 acres of land for this purpose
+
+Reality has hit the new government smack on its nose. Forgotten are the past demonstrations they supported against providing 700 acres of land for an industrial development zone, in Hambantota. No more talk of Indian expansionism.
+
+Now, facing an existential threat, the president and his party view the problem differently. While we congratulate our president’s realpolitik, we believe it is only fit to remind him and his government that the new deals they have struck are not exchange of goods, but gives every appearance of bartering away parts of the country.
+

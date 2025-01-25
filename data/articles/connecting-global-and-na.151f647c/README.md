@@ -1,0 +1,44 @@
+# Connecting global and national level: Climate finance in the wake of COP29
+
+[https://www.ft.lk/columns/Connecting-global-and-national-level-Climate-finance-in-the-wake-of-COP29/4-772192](https://www.ft.lk/columns/Connecting-global-and-national-level-Climate-finance-in-the-wake-of-COP29/4-772192)
+
+*11:35 PM, Friday, January 24, 2025*
+
+There are many open questions and issues to be addressed on climate finance in 2025 and beyond
+
+The last United Nations Climate Change Conference 2024 (COP29) ended on 24 November in Baku, Azerbaijan. While climate finance was one of the headline topics of the conference and while the decision on a new global finance goal represents a milestone, there are still many open questions to be addressed in 2025 and beyond.
+
+To keep global warming limited and protect those on the frontlines of climate change, finance is a key enabler for meaningful interventions across all sectors and areas. But how can the necessary resources be mobilised to support vulnerable developing countries such as Sri Lanka? How does money from global funds effectively reach the national and local level, and how are other challenges—such as inflation or sovereign debt—affecting this process?
+
+COP29 outcomes and key decisions
+
+COP29 marks the starting point for a new era of climate finance. Among the most significant outcomes is the establishment of a new collective quantified goal on climate finance (NCQG), which has been set at an amount of “at least $ 300 billion per year by 2035” from a wide variety of sources, for which developed country Parties will take the lead. In addition, the decision calls on all actors to work together to scale up climate finance from all public and private sources to “at least $ 1.3 trillion per year by 2035.”
+
+This decision, though a step forward, left many stakeholders concerned about whether these amounts—and the wording around their mobilisation—is sufficient to address the vast and growing needs of developing countries. According to the NCQG decision itself, the costed needs for implementing the current Nationally Determined Contributions (NDCs) of developing nations range between $ 5.1 trillion and $ 6.8 trillion up until 2030, with adaptation alone requiring an annual $ 215–387 billion.
+
+In addition to the new finance goal, COP29 advanced discussions on the underlying architecture of climate finance and the work of different funds and entities in delivering climate finance. The United Nations Framework Convention on Climate Change (UNFCCC) established a financial mechanism to provide resources for climate action to developing countries. This financial mechanism currently has three operating entities (the Green Climate Fund, the Global Environment Facility, and the Fund for Responding to Loss and Damage) as well as several special funds, such as the Adaptation Fund or the Special Climate Change Fund.
+
+These funds constitute the primary access point for climate finance, including much of what will be mobilised under the NCQG. However, the different funds have different mandates, access modalities, and funding windows, which are not always easy to navigate for vulnerable developing countries. Furthermore, climate finance does not exist within a vacuum but is situated within the existing global financial architecture, including the International Monetary Fund and multilateral development banks. Accordingly, the NCQG decision highlights the importance of not only mobilising climate finance at scale, but also of reforming this global financial architecture and removing systemic barriers and disenablers.
+
+Climate finance and the global financial architecture
+
+In addition to climate change impacts—such as floods, prolonged droughts, or agricultural pests and diseases—and the costs of climate action, developing countries often face a range of other financial challenges and constraints. These include disproportionately high borrowing costs due to perceived risks, making it difficult to secure affordable financing; limited fiscal space and strained public budgets, which can be exacerbated by unexpected shocks or global supply chain disruptions; unsustainable levels of sovereign debt; high inflation and costs of living; or limited access to foreign currency.
+
+In recent years, various proposals have been made to reform or enhance the existing institutional architecture of the global financial system and mainstream climate considerations into its frameworks and operational modalities. For example, this includes the Bridgetown Initiative, the Accra-Marrakesh Agenda, or the Paris Pact for People and Planet. From climate-resilient debt clauses to the use of special drawing rights to a complete overhaul of the existing system, these discussions are increasingly taking centre stage in multilateral forums.
+
+Regarding climate finance, emerging initiatives outside the UNFCCC space are also gaining traction. For instance, the Global Shield against Climate Risks, championed by the G7 and V20, seeks to provide pre-arranged financial solutions, such as climate insurance, and financial support for disaster-prone countries. These mechanisms aim to close gaps left by the UNFCCC funds and address immediate resilience needs, making them a potential additional source of finance for developing countries.
+
+Connecting global funds with national and local needs
+
+At the national or local level, those in need of finance—including developing country governments, local authorities, communities, and other actors—often lack capacities or resources to effectively access the global funds and funding mechanisms outlined above. Barriers include stringent eligibility criteria, detailed documentation requirements, time-consuming processes, and high transaction costs that entail, for example, preparing proposals, conducting feasibility studies, and complying with reporting requirements.
+
+To ensure that climate finance reaches its intended beneficiaries, it is essential to establish clear linkages between global funding mechanisms and national and local priorities. At the global level, this means streamlining processes, simplifying application and reporting procedures, standardising eligibility criteria, reducing transaction costs, and establishing direct access modalities for local actors. At the national level, country ownership and a strong role in identifying priorities for climate action could ensure alignment between Nationally Determined Contributions, National Adaptation Plans, global goals—such as the temperature goal and the global adaptation goal of the Paris Agreement—and available financial resources and funding streams.
+
+In addition, developing countries need to build technical and institutional capacities to navigate complex funding mechanisms, investing in training, knowledge-sharing platforms, and advisory support. Furthermore, domestic financial systems should be primed to make optimal use of climate finance and use grants and concessional finance to catalyse larger resources through blended finance facilities, public-private partnerships, and relevant financial instruments. Technology and innovation, such as digital tools and data-driven approaches, could also help to improve transparency, monitoring, and impact assessment for climate finance, ensuring that resources are used efficiently.
+
+Opportunities and the way forward
+
+The outcomes of COP29 offer an entry point for further work on bridging the gap between global funds and the needs of vulnerable countries. Proactive engagement with international mechanisms, alongside the creation of enabling conditions at the domestic level, could unlock much-needed resources to tackle climate-related challenges. By prioritising equitable and inclusive access to climate finance, streamlining processes, and fostering innovation, the global community must ensure that developing countries are not left behind. Achieving this vision requires sustained collaboration and shared accountability at all levels.
+
+(The writer works as Director: Research & Knowledge Management at SLYCAN Trust, a non-profit think tank. His work focuses on climate change, adaptation, resilience, ecosystem conservation, just transition, human mobility, and a range of related issues. He holds a Master’s degree in Education from the University of Cologne, Germany and is a regular contributor to several international and local media outlets.)
+

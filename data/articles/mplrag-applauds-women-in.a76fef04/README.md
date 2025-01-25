@@ -1,0 +1,30 @@
+# MPLRAG applauds women in Parliament prioritising child rights
+
+[https://www.ft.lk/opinion/MPLRAG-applauds-women-in-Parliament-prioritising-child-rights/14-772201](https://www.ft.lk/opinion/MPLRAG-applauds-women-in-Parliament-prioritising-child-rights/14-772201)
+
+*12:02 AM, Saturday, January 25, 2025*
+
+Minister Saroja Savithri Paulraj
+
+The Muslim Personal Law Reform Action Group (MPLRAG) in a statement has applauded the Women Parliamentarians’ Caucus of Sri Lanka, under the leadership of Minister Saroja Savithri Paulraj, for prioritising law reform relating to children and specifically for calling to enforce a common minimum age of marriage for all communities.
+
+The focus on children and also family law reforms is crucial at a time when the country and this current Government are responding to poverty, the impact of poverty on children, children’s education and opportunities for development. Family law reform, including addressing child marriage, is inextricably linked to equality and economic justice, said MPLRAG.
+
+It also said the following via its statement:
+
+The inequalities experienced by women and children have severe and life-long impacts on their economic conditions and life trajectories.
+
+The Sri Lankan state has long-recognised that adolescents and children marrying before 18 years is detrimental to their health, education and wellbeing. Freedom from child-marriage is a basic standard of state protection that should apply to all children in the country irrespective of religion and ethnicity. Muslim girls and boys, being citizens of this country, deserve equality and fundamental rights. While the Sri Lankan state guarantees and protects the rights of all citizens to enjoy their culture, traditions and freedom of religion, it is the responsibility of the state to also ensure that child rights are not compromised in the name of culture and religion.
+
+We draw your attention to the fact that the provisions of the Muslim Marriage and Divorce Act of 1951 (MMDA), a colonial law with several un-Islamic provisions, excludes Muslim children from state protection and guarantees. There is ample precedent in Islamic jurisprudence and Islamic legal tradition that centres human welfare and safeguards the wellbeing of the child, including access to education. This is reflected in the most recent reforms raising the minimum age of marriage in many Muslim countries, including the Maldives, Indonesia and the UAE.
+
+The MMDA’s discrimination against Muslim children of Sri Lanka must end once and for all, and urgently.
+
+There has been over forty years of research, consultation and debate on MMDA reform, driven by affected women, activists, legal experts and Islamic scholars. Never before in the history of Sri Lanka has there been such broad-based support for MMDA reforms from within Muslim and other Sri Lankan communities. The latest is the report of the 2020 Advisory Committee to the Ministry of Justice (comprising academics, lawyers and Islamic scholars, including from the ACJU). There was broad consensus on almost all areas of concern, including the recommendation to raise the minimum age to 18 without exceptions. Since then, a draft amendment Bill was prepared by the Ministry of Justice, but this has not progressed thereafter.
+
+The delays in implementing this reform have been purely due to a lack of political will to address urgent concerns that have affected generations of Muslim girls and women. The de-prioritisation of Muslim women’s rights is deeply concerning and will see many more women and girls continue to face injustice. MMDA reform has remained an urgent national women and human rights issue.
+
+We commend the Women Parliamentarians’ Caucus of Sri Lanka for their initiative and urge the government to ensure a minimum age of marriage of 18 years, without exceptions, for all citizens. We also urge Minister Saroja Savithri Paulraj, the Women Parliamentarians’ Caucus of Sri Lanka and the Ministry of Justice to concurrently advance the long-overdue comprehensive reform of the MMDA to end discrimination and inequality for Muslim women and girls under this archaic colonial law.
+
+Muslim Personal Law Reform Action Group (MPLRAG) is an independent and volunteer-led lobby group consisting of Muslim women lawyers, advocates, activists and researchers working towards advancing Muslim women’s rights and access to justice in Sri Lanka.
+

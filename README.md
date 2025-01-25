@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-24 18:18:46**
+Last Updated **2025-01-25 06:24:56**
+
+## 2025-01-25
+
+* [Ripple effects of Trump’s 2.0 economic policies: Navigating uncertainty in Sri Lanka](data/articles/ripple-effects-of-trump.d6958977/README.md) `ft.lk`
+* [MPLRAG applauds women in Parliament prioritising child rights](data/articles/mplrag-applauds-women-in.a76fef04/README.md) `ft.lk`
+* [Pathfinder Foundation hosts webinar on Sri Lanka’s path  to global economic integration](data/articles/pathfinder-foundation-ho.9dfb4750/README.md) `ft.lk`
 
 ## 2025-01-24
 
+* [Mother’s Movement in Sri Lanka applauds Trump’s fight against LGBTQIA++ woke values](data/articles/mother-s-movement-in-sri.cbdee843/README.md) `ft.lk`
+* [Connecting global and national level: Climate finance in the wake of COP29](data/articles/connecting-global-and-na.151f647c/README.md) `ft.lk`
+* [The Presidential row over security and mansions](data/articles/the-presidential-row-ove.78759955/README.md) `dailymirror.lk`
+* [From the Rubber-Rice Pact to Oil for land deals](data/articles/from-the-rubber-rice-pac.e3878334/README.md) `dailymirror.lk`
+* [HEC: A long-term solution for country’s sake](data/articles/hec-a-long-term-solution.2dcc9151/README.md) `dailymirror.lk`
+* [Tech Giants, Political Winds,  and the Erosion of Digital Accountability](data/articles/tech-giants-political-wi.ce79563f/README.md) `dailymirror.lk`
 * [Why was the name of Jaffna Cultural Centre changed suddenly by India?](data/articles/why-was-the-name-of-jaff.ddf25d47/README.md) `ft.lk`
 * [Clean Sri Lanka – cleansing the soul of the country](data/articles/clean-sri-lanka-cleansin.c7f2ee16/README.md) `ft.lk`
 * [The US withdrawal from the WHO will hurt us all](data/articles/the-us-withdrawal-from-t.c6a04060/README.md) `technologyreview.com`
@@ -21,6 +33,7 @@ Last Updated **2025-01-24 18:18:46**
 * [8 Lessons from the Career of Softbank’s Masayoshi Son](data/articles/8-lessons-from-the-caree.30e352f0/README.md) `hbr.org`
 * [A Bad Communication Strategy Around Sustainability Can Leave You Legally Exposed](data/articles/a-bad-communication-stra.9db5486c/README.md) `hbr.org`
 * [This is what might happen if the US withdraws from the WHO](data/articles/this-is-what-might-happe.20502058/README.md) `technologyreview.com`
+* [Why the next energy race is for underground hydrogen](data/articles/why-the-next-energy-race.271b6219/README.md) `technologyreview.com`
 * [Citizens’ right of access to information](data/articles/citizens-right-of-access.a0c9b1a9/README.md) `ft.lk`
 * [India, China, Anura: Escalation spiral of external enmeshing and entrenchment](data/articles/india-china-anura-escala.e068553a/README.md) `ft.lk`
 * [Not all road incidents are accidents: Time to call out “neglidents”](data/articles/not-all-road-incidents-a.eacf7539/README.md) `ft.lk`
