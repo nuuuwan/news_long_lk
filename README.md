@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-25 06:24:56**
+Last Updated **2025-01-25 18:16:21**
 
 ## 2025-01-25
 
@@ -18,6 +18,8 @@ Last Updated **2025-01-25 06:24:56**
 * [From the Rubber-Rice Pact to Oil for land deals](data/articles/from-the-rubber-rice-pac.e3878334/README.md) `dailymirror.lk`
 * [HEC: A long-term solution for country’s sake](data/articles/hec-a-long-term-solution.2dcc9151/README.md) `dailymirror.lk`
 * [Tech Giants, Political Winds,  and the Erosion of Digital Accountability](data/articles/tech-giants-political-wi.ce79563f/README.md) `dailymirror.lk`
+* [If You Want Your Team to Use Gen AI, Focus on Trust](data/articles/if-you-want-your-team-to.f311a45e/README.md) `hbr.org`
+* [Why Feedback Can Make Work More Meaningful](data/articles/why-feedback-can-make-wo.1b9eb63a/README.md) `hbr.org`
 * [Why was the name of Jaffna Cultural Centre changed suddenly by India?](data/articles/why-was-the-name-of-jaff.ddf25d47/README.md) `ft.lk`
 * [Clean Sri Lanka – cleansing the soul of the country](data/articles/clean-sri-lanka-cleansin.c7f2ee16/README.md) `ft.lk`
 * [The US withdrawal from the WHO will hurt us all](data/articles/the-us-withdrawal-from-t.c6a04060/README.md) `technologyreview.com`
