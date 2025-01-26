@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-26 06:24:43**
+Last Updated **2025-01-26 18:15:54**
 
 ## 2025-01-25
 
+* [தளபதி கிட்டு மீதான கொலை முயற்சி:  காயமடைந்த போதிலும், கிட்டு தனது மக்னம் 357 துப்பாக்கியை எடுத்து குண்டை எறிந்துவிட்டு தப்பியோடிய நபரை நோக்கி சரயாரியாக சுட்டார்.](data/articles/தளபத-க-ட-ட-ம-த-ன-க-ல-ம-ய.4028d197/README.md) `dbsjeyaraj.com`
 * [Ripple effects of Trump’s 2.0 economic policies: Navigating uncertainty in Sri Lanka](data/articles/ripple-effects-of-trump.d6958977/README.md) `ft.lk`
 * [MPLRAG applauds women in Parliament prioritising child rights](data/articles/mplrag-applauds-women-in.a76fef04/README.md) `ft.lk`
 * [Pathfinder Foundation hosts webinar on Sri Lanka’s path  to global economic integration](data/articles/pathfinder-foundation-ho.9dfb4750/README.md) `ft.lk`
