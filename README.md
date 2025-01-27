@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-27 06:24:54**
+Last Updated **2025-01-27 18:19:20**
 
 ## 2025-01-27
 
+* [Useful quantum computing is inevitable—and increasingly imminent](data/articles/useful-quantum-computing.5aae6707/README.md) `technologyreview.com`
+* [Name of Jaffna Cultural Centre  is  Suddenly  Renamed after Poet Thiruvalluvar and   Abruptly Re- changed  to  Jaffna Thiruvalluvar Cultural Centre after  Protests](data/articles/name-of-jaffna-cultural.dc92763b/README.md) `dbsjeyaraj.com`
 * [“Col” Kittu, comrades kill themselves  to prevent capture by Indian Navy](data/articles/col-kittu-comrades-kill.74a0b371/README.md) `dailymirror.lk`
 * [Emotional Resilience: How to bounce back and thrive](data/articles/emotional-resilience-how.10d0c8c6/README.md) `dailymirror.lk`
 * [Fall of Ego in ‘Old’ Elephant and ‘Redundant’ Telephone](data/articles/fall-of-ego-in-old-eleph.e4cfbd6e/README.md) `dailymirror.lk`
