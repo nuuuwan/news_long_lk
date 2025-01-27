@@ -2,7 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-26 18:15:54**
+Last Updated **2025-01-27 06:24:54**
+
+## 2025-01-27
+
+* [“Col” Kittu, comrades kill themselves  to prevent capture by Indian Navy](data/articles/col-kittu-comrades-kill.74a0b371/README.md) `dailymirror.lk`
+* [Emotional Resilience: How to bounce back and thrive](data/articles/emotional-resilience-how.10d0c8c6/README.md) `dailymirror.lk`
+* [Fall of Ego in ‘Old’ Elephant and ‘Redundant’ Telephone](data/articles/fall-of-ego-in-old-eleph.e4cfbd6e/README.md) `dailymirror.lk`
+* [Inflated egos, hypocrisy, and difficulties in keeping election promises EDITORIAL](data/articles/inflated-egos-hypocrisy.1ab36348/README.md) `dailymirror.lk`
+
+## 2025-01-26
+
+* [Hidden risks of covert activities masquerading as tourism: Threat to global security](data/articles/hidden-risks-of-covert-a.1ba0b17e/README.md) `ft.lk`
+* [Nexus Research Policy Dialogue: Can Sri Lanka exist, survive, and prosper without India?](data/articles/nexus-research-policy-di.f86efa57/README.md) `ft.lk`
+* [Disease of elite control: 30 years of losing touch](data/articles/disease-of-elite-control.7c84d609/README.md) `ft.lk`
 
 ## 2025-01-25
 

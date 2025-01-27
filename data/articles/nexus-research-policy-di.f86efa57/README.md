@@ -1,0 +1,94 @@
+# Nexus Research Policy Dialogue: Can Sri Lanka exist, survive, and prosper without India?
+
+[https://www.ft.lk/columns/Nexus-Research-Policy-Dialogue-Can-Sri-Lanka-exist-survive-and-prosper-without-India/4-772229](https://www.ft.lk/columns/Nexus-Research-Policy-Dialogue-Can-Sri-Lanka-exist-survive-and-prosper-without-India/4-772229)
+
+*10:25 PM, Sunday, January 26, 2025*
+
+Resuscitated Nexus Research Group
+
+Last week, I happened to be one of the two speakers and a panellist at a public policy dialogue on the theme ‘India, with or without’ hosted by the new thinktank in Colombo, Nexus Research, headed by the former Parliamentarian and university don, Professor Charitha Herath, as its current head. The other speaker was the Colombo based Law and Security Studies Centre’s Executive Director Nilanthan Niruthan.1 The dialogue was facilitated by former Parliamentarian Karu Paranawithana and attended by an invitee group made up of diplomats, politicians, business leaders, professionals, and journalists who have interest in economic and foreign policies being framed or about to be framed in Sri Lanka.
+
+Since the relationship with India is a current and a critical issue for Sri Lanka, the organisers at the thinktank had chosen it as the theme of the inaugural policy dialogue. Nexus Research, established some two decades ago, had been in a dormant form before it was resuscitated recently to create public awareness of the crucial issues facing Sri Lanka. Nexus Research Group has called itself a public policy thinktank conducting policy research and promoting public engagement thereby bridging policy and practice through dialogue, research and advocacy.2
+
+Nilanthan spoke on Sri Lanka’s foreign and security relations with India, while I tackled economic relations. It was a rare instance in which both speakers spoke the same language holding the view that both global and local imperatives have dictated Sri Lanka to have a close relationship with India.
+
+Nilanthan drew the attention of the audience to five misconceptions which Sri Lankans are having about its foreign relations. Since Sri Lanka is a sovereign country, the general belief, said Nilanthan, which many are having is that it has the full freedom, formally called autonomy, to decide on how it should chart its course in the hostile international waters. Following this freedom, the only constraint that the country facing is the need for balancing its acts suitably to be in line with emerging adversities. Both these positions are wrong because sovereignty does not necessarily guarantee that a country has full freedom in its foreign affairs. What Nilanthan said was that only a country which is both economically and politically powerful can exercise its freedom and act on its own. Others are simply followers, and Sri Lanka falls into this category.
+
+One way to resolve the issue is to draw a clear policy document and continue to follow it without deviations. There are powerful global blocks today, China-Russia nexus on one side, and USA and the Western world, on the other. India being an important player in the global arena has the luxury of being in both blocks. Non-alignment is a forgotten concept today, and the best course for survival and success for Sri Lanka is to be aligned to a powerful neighbour like India which will be respected by both blocks. This is because these blocks have bigger issues to tackle than being worried about a small nation like Sri Lanka.
+
+Opportunities with India
+
+Nilanthan also said that Sri Lanka can harness many opportunities by teaming with India. It can tap to its advantage the fast-growing industrial economy in India, ensure energy security for the country with Indian support, access to markets through Indian exporters, have a strong defence cooperation to minimise the country’s ever increasing defence expenditure and thwart any external invasion, and look for developing joint spheres of interest like research and development, promoting human skills and competencies, and harvesting marine resources in the Indian Ocean. His conclusion was, because of these imperatives, Sri Lanka cannot do without India.
+
+I spoke before Nilanthan and had reached the conclusion he had made via common economic factors relating to Sri Lanka and India. Some excerpts of my speech are as follows.
+
+Economic relations are made by building networks among countries. This reminds me of the latest book by Oxford-trained historian of Sapiens fame, Yuval Noah Harari under the title Nexus: A Brief History of Networks from the Stone Age to AI.3 These networks give immense power to people some acquire such power by being connected to mythological divine forces. Harari had referred to a Greek mythology in which the boy Phaethon had commanded Sun God’s chariot to find that he did not know how to control its speed and make a safe landing. He eventually becomes a fireball and falls to the earth.4 Phaethon’s disaster reminds me of two other stories.
+
+One relates to Bhikkhu Rohitassa in the Rohitassa Sutta preached by the Buddha.5 In this Sutta, the Bhikkhu Rohitassa having gained spiritual powers to travel fast had tried to find the end of the universe but died in the venture without reaching the goal. Having been born in the heaven due to his meritorious acts, he had wondered why he could not find the end of the universe. Having appeared before the Buddha in his divine form, he had asked the Buddha the same question. The Buddha’s reply had been that one need not travel in the universe to find its end. He could find it just by examining the six-foot human body referring to the equivalence of the microcosm and macrocosm.
+
+The other relates to an actual story in which two youngsters making a fun motorbike ride had failed to control the speed and perished to death by colliding head-on with a lorry.6
+
+Power and need for discipline
+
+In my view, the moral of all the three stories is the same. One who gets power, either through divinity or by building laborious networks, should also learn how to control it, and if necessary, to reverse it. Power without these characteristics will destroy the holder. This is applicable to relationships with countries as well. Through networking, two or more countries can synergise the power they have newly acquired. But if it goes at high speed without an inbuilt control mechanism, the very same power will be the source of destruction. When Sri Lanka has economic relations with India, this principle should be adhered to.
+
+Small country versus large country
+
+There are two misconceptions which have to be corrected. One is that economic transactions are being conducted between countries and therefore, small countries, because of their low bargaining power, are unable to gain equal benefits as large countries. If this claim is correct, Singapore which is a small country by its economic size cannot do any fruitful transaction with a giant like USA. But Singapore does trade with USA successfully. This is because economic transactions take place between individuals and corporates which are guided by agreements acceptable to both by following market prices. Therefore, I, a very small entity, can buy an iPhone from Apple, a giant in industry, without being cheated by it.
+
+Geopolitics beyond borders
+
+The second misconception is that principles of economics prevail all throughout the globe when connections are made, and transactions are done. That is also not true. Economic principles dominate when decisions are made by research institutions or central banks. But outside them and within the borders, it is politics that prevail. Outside the borders, it is geopolitics that rule over the transactions. India is also driven by this geopolitical consideration when it enters an economic transaction with Sri Lanka. It has two interests.
+
+One is that it does not like to have a chaos-infested neighbour to its south. The other is that it does not want a rival to exploit Sri Lanka’s disabilities and pose a security threat to India. As a result, India always considers Sri Lanka as a protectorate. This is beneficial to Sri Lanka too. Like a prodigal son returning to his father after he has been hit by an unsolvable disaster, Sri Lanka at any time can turn to India for redress.
+
+Sri Lanka: smart player of the game
+
+In the past, Sri Lanka has played this game with India to its advantage. I recall two instances, one during the height of the battle with LTTE in 2008 and the other during the deepest economic crisis in 2022. In the first instance, Sri Lanka’s application for a standby facility from IMF to replenish the depleting foreign reserves had not been processed promptly by the Fund due to some unknown reasons. When there was not any sign of it being approved, the Indian Finance Minister at the time, the late Pranab Mukherjee, Head of the Sri Lanka’s constituency in IMF, is reported to have told the Fund that if it does not approve of that facility, India will provide the needed funds to Sri Lanka. This did the trick, and the standby facility was promptly approved.
+
+In the second instance, when Sri Lanka faced a severe liquidity crisis in 2022 with no sufficient foreign exchange reserves to supply the essential goods to people like medicines, fuel and cooking gas, it was India which came first to Sri Lanka’s rescue. It postponed the outstanding Sri Lanka payments to Asian Clearing Union and granted a credit line to meet urgent imports till the country could secure a funding facility from IMF. Further, it also served as a member of the official creditor committee with France and Japan that planned for the restructuring of the country’s borrowings from bilateral sources, though it was not a member of the Paris Club.
+
+Indian leadership in this case was a strong helping hand for Sri Lanka to finalise the debt restructuring involved. One may argue that India did so with its self-interest in mind. However, India’s helping hand in both these instances was a commendable gesture given the fact that the country needed such help very badly to get out of the chaotic situation.
+
+Past trade relations with India
+
+Sri Lanka and India being close neighbours, it is natural that both these nations should have a vibrant trade relation with each other. In early days, merchants from Far East visited South Indian Ports to buy export goods from Sri Lanka7. But during the latter part of the first millennium, this entrepot trade shifted from south Indian ports to ports in Sri Lanka making it an important trading centre along the East-West marine route8. Sri Lankan numismatist, Osmund Bopearachchi has established through archaeological findings the presence of Sri Lankan traders in South India and Tamil traders in Sri Lanka9.
+
+Hence, historical evidence has revealed that, as in under trade agreements, it has been a two-way traffic and not trade from India to Sri Lanka alone or vice versa. Both the previous CEPA and ETCA had elaboratively identified these goods to be traded between the two countries under duty free conditions. But this list may need further updating today and it is the responsibility of the ETCA negotiators from each country to make a hard negotiation of same.
+
+Sri Lanka can seek economic protection from India
+
+Sri Lanka has only a four-and-a-half-decade experience of trade with India under trade agreements. The first Indo-Lanka Free Trade Agreement or ILFTA, signed in December 1998, was in effect since January 2000. This trade agreement covers only the visible merchandise goods and not services. But why should Sri Lanka go for a free trade agreement with India when the global trade has become almost free with the average global tariff rate has fallen to 2% by 2022? Several reasons. The global trade as a share of the world gross domestic product or GDP has increased from 20% in 2000 to 29% in 2022. But Sri Lanka’s share of exports in the world’s GDP has declined by about 38% during this period and it has remained even less than 0.1% over these years. In contrast, India’s share has increased by about 176% from 0.7% to 1.8% during this period10.
+
+Given this perilous state, Sri Lanka should naturally jump the bandwagon of India and seek to harness the positive outcomes that would emanate from that relationship. What this means is that though the global tariff rates have declined, Sri Lanka had not been able to benefit from it by competing independently with its competitors. Hence, the support which it can marshal from a dynamic and expanding nation like India is to be utilised fully by developing bilateral trade relations.
+
+In the case of ILFTA, India is viewed as an economy with higher competitive advantage over those in Sri Lanka. Hence, Indian competition is feared by Sri Lankan counterparts because they, still being infants in business, cannot successfully compete with Indian products. As a result, it is feared that Indian goods will flood the market displacing Sri Lankan producers. This fear has an element of validity, but it had been successfully addressed in ILFTA by having a list of goods which do not come within the agreement. This list, known as negative list, is longer in the case of Indian goods coming to Sri Lanka containing 1,180 goods and shorter in the case of Sri Lankan goods going to India covering only 429 goods11. This negative list does not enjoy tariff relief and, hence, should be traded under normal trading conditions.
+
+According to EDB, on average, about 70% of Sri Lanka’s exports to India during 2000-13 had been made under ISLFTA, while Indian products coming to Sri Lanka under the agreement had been only 17%12. Hence, the fear that ILFTA has caused a free flow of Indian goods to Sri Lanka is not warranted. These negative lists were introduced to ILFTA to protect domestic industries and thereby allay the fears of local producers. However, an economic analyst has found that the list has negatively contributed to the growth of the protected industries harnessing both the comparative and competitive advantages and preventing both countries to get the maximum benefit from trade liberalisation initiative13. What is suggested here is that countries should expose themselves to free trade arrangements without prohibitive strings attached to them.
+
+Based on this analysis, one can conclude that Sri Lanka cannot do without India on economic grounds.
+
+1https://classedusl.com/
+
+2https://x.com/NexusLK
+
+3Harari, Yuval Noah, 2024, Nexus: A Brief History of Information Networks from the Stone Age to AI, Fern Press, UK.
+
+5https://www.accesstoinsight.org/tipitaka/an/an04/an04.045.than.html
+
+6https://www.hirunews.lk/goldfmnews/261220/teenagers-fun-ride-ends-in-a-tragic-death-two-19-year-olds-runover-and-killed-video-photos
+
+7De Silva, K M, 2005, A History of Sri Lanka, Vijitha Yapa, Colombo p 45.
+
+8Siriweera, W I, 1994, A Study of the Economic History of Pre-modern Sri Lanka, Vikas, Delhi, p 133.
+
+9https://books.openedition.org/ifp/7871#:~:text=Tamil%20Nadu%20and%20Sri%20Lanka,a%20different%20and%20important%20context.
+
+10https://ourworldindata.org/grapher/share-of-global-merchandise-exports?tab=table&time=earliest..latest&country=Africa+%28UN%29~Asia+%28UN%29~Europe+%28UN%29~Northern+America+%28UN%29~Latin+America+and+the+Caribbean+%28UN%29~Developing+regions~Least+Developed+Countries+%28LDCs%29~Northern+Africa+%28UN%29~Sub-Saharan+Africa+%28UN%29~Oceania+%28UN%29~LKA~IND
+
+11EDB, 2014, Indo-Sri Lanka Free Trade Agreement, unpublished mimeograph, Colombo.
+
+13Perera, M S S, 2008, Impact of the Indo-Lanka Free Trade Agreement on the Sri Lankan Economy: A Computable General Equilibrium Analysis, South Asia Economic Journal, 9:1, p 1-50.
+
+(The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at [email protected].)
+

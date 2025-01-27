@@ -1,0 +1,50 @@
+# Fall of Ego in ‘Old’ Elephant and ‘Redundant’ Telephone
+
+[https://www.dailymirror.lk/opinion/Fall-of-Ego-in-Old-Elephant-and-Redundant-Telephone/172-300984](https://www.dailymirror.lk/opinion/Fall-of-Ego-in-Old-Elephant-and-Redundant-Telephone/172-300984)
+
+*01:28 AM, Monday, January 27, 2025*
+
+Good, Bad and Ugly of Malimawa
+
+Meanwhile, the opposition, which is largely responsible for the economic disaster and has typically limped on the back foot following a heavy loss, is experiencing an unprecedented surge of energy
+
+Good: Malimawa facilitated the leaders of the UNP and SJB to set aside their egos and come together.  Bad: It gave CORRUPT politicians an opportunity to stage a comeback. Ugly: The egos shed by the above were quickly picked up by some malimawa ministers.
+
+This is not an attempt to unfairly criticize the new rulers. On the contrary, it is an acknowledgment that they require time and space to adjust to their new roles as members of the government—a significant shift from their decades-long experience as part of the opposition. They have successfully implemented several cost-saving measures. Governing demands, a vastly different skill-set and mindset from critiquing and opposing policies, and it is only fair to give them time to adapt to these responsibilities. However, they must remain composed and avoid responding impulsively to the experienced opposition, and becoming a laughingstock in the eyes of the people.
+
+The rift between the United National Party (UNP) and the Samagi Jana Balawegaya (SJB) has never stemmed from fundamental policy differences or ideological divides. Instead, it has been characterized by personal ambitions and a struggle for dominance within the party, driven largely by egos and competing personalities. At its core, the conflict has revolved around leadership and control, with both factions vying for authority and influence.
+
+Fortunately, these leadership disputes now seem to have been resolved, fostering greater internal cohesion. Both sides appear to have set aside their personal rivalries and come to a consensus on leadership arrangements, which is a promising step forward for their collective political strength. Without this reconciliation, the rift would have continued to fester, further eroding their potential and weakening their influence in the political arena.
+
+Thwart, Opposition Scoring Amidst Dissatisfaction
+
+President has a mission though, Malimawa, with their unplanned and amateurish approach, have consistently failed to meet their targets. Their lack of strategic foresight has led to missed opportunities, and their hasty, reactionary measures have failed to instil confidence among the people. The situation has been further exacerbated by vituperative rhetoric, which, while intended to rally support, has temporarily damaged their credibility, alienating key stakeholders. This inflammatory language has created division, distracting from the real issues at hand. Meanwhile, the opposition, which is largely responsible for the economic disaster and has typically limped on the back foot following a heavy loss, is experiencing an unprecedented surge of energy. Fuelled by growing dissatisfaction and frustration, they are making significant strides in regaining the support they once lost, gradually winning back the trust of a disillusioned electorate.
+
+That said, this also serves as an offering of constructive advice. Transitioning from opposition to governance comes with immense challenges, not least of which is the ability to strike a balance between implementing policies and addressing the myriad expectations of the public. While criticism is an inevitable part of political discourse, it must be tempered with an understanding of the difficulties involved in navigating these uncharted waters.
+
+Constructive feedback can serve as a valuable tool to guide them in this transition, helping them avoid pitfalls and focus on the larger goal of delivering effective governance.
+
+In this light, the emphasis is not on undermining their efforts but on supporting their growth in these new roles through thoughtful and well-meaning suggestions that prioritise the nation’s welfare above all else.
+
+Arrogant remarks such as, “We don’t take such claims above knee level,” in response to journalists raising valid concerns about the credentials of the Speaker, or dismissive statements like, “No gods can ever match the amount allocated in the budget for health,” in reaction to a substantial hospital donation, clearly reflect the hubris that often accompanies those consumed by absolute power.  “Making false statements is a democratic right”—“It was “Ranil’s free distribution of rice that caused the shortages”—“Stop eating Pol Sambol and Kirihodi” add to their misery. We all know the government is not responsible for coconut or salt shortage.
+
+Such statements not only trivialise valid concerns but also expose a troubling sense of entitlement and detachment from the very people leaders are meant to serve. Ignoring legitimate questions about governance undermines the fundamental principles of accountability, while diminishing acts of philanthropy disrespects the collective goodwill of individuals and communities striving to address urgent needs. These contributions often fill critical gaps that policies and budgets fail to address effectively.
+
+The rhetoric of arrogance carries broader consequences: it erodes trust in institutions, alienates citizens, and fosters resentment among those who seek genuine progress and transparency. Leaders entrusted with power must recognize the responsibility they bear—not to dismiss criticism or overshadow private generosity, but to create an environment where constructive dialogue, accountability, and respect thrive.
+
+A government that values humility and embraces contributions from all sectors—be they individuals, organizations, or individuals —has the potential to inspire collective effort toward meaningful progress. Arrogance may provide temporary dominance, but it is humility, accountability, and mutual respect that form the cornerstone of enduring governance and a harmonious society.
+
+Turning Promises into Action: Malimawa’s Roadmap for Change
+
+Other areas that malimawa needs to focus are, providing urgent relief to farmers who were badly affected by the recent adverse weather, work with international agencies on recovering looted money hoarded in foreign banks by past regimes, introduction of necessary constitutional reforms to abolish Executive Presidency and remove all constitutional clauses that allowed politicians to abuse state resources.
+
+Malimawa must also prioritise several critical areas to address the nation’s pressing challenges. Providing immediate relief to farmers severely impacted by recent adverse weather conditions is essential. Agriculture remains the backbone of rural communities, and neglecting the needs of these farmers, risks exacerbating poverty, food insecurity, and economic instability. Timely interventions, such as compensation packages, subsidies, and support for re-cultivation efforts, are vital to help farmers recover and rebuild their livelihoods.
+
+Equally important is collaborating with international agencies to trace and recover illicit wealth stashed in foreign banks by previous regimes. The misappropriation of public funds has not only drained the national economy but also deepened public disillusionment with governance. Recovering these assets and reinvesting them in public services, infrastructure, and debt repayment would contribute significantly to national progress while sending a clear message that corruption will no longer be tolerated.
+
+Additionally, Malimawa must focus on introducing comprehensive constitutional reforms, particularly the abolition of the Executive Presidency. This institution has long been criticized for concentrating excessive power in a single individual, often at the expense of democratic principles and institutional checks and balances. Replacing it with a more accountable and representative system would strengthen democratic governance. Furthermore, removing constitutional provisions that enable politicians to exploit state resources for personal or political gain is critical for restoring public trust and promoting integrity in public office.
+
+By addressing these areas—farmer relief, anti-corruption efforts, and constitutional reforms—Malimawa can demonstrate its commitment to meaningful change and establish a strong foundation for long-term stability and development.
+
+Writer can be contacted [email protected]
+
