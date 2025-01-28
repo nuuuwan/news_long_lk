@@ -1,0 +1,36 @@
+# Clean Sri Lanka for social transformation and system change
+
+[https://www.ft.lk/columns/Clean-Sri-Lanka-for-social-transformation-and-system-change/4-772317](https://www.ft.lk/columns/Clean-Sri-Lanka-for-social-transformation-and-system-change/4-772317)
+
+*02:35 AM, Tuesday, January 28, 2025*
+
+What one calls participatory democracy cannot be successful and would lose its vitality in a society which remains obsessively selfish and indifferent towards common good
+
+Engaging voluntarily to keep one’s environment clean is a noble act which also helps easing the financial burden of a government. For example, if the taskforce appointed by AKD is going to recommend rules and regulations to maintain a clean environment, then the Government needs to pay for those who would be appointed to execute those rules. The fund for such payment must come from the tax revenue. Ultimately the burden falls on the taxpayer
+
+President AKD launched the project with a taskforce to “uplift society to greater heights through social, environmental and ethical revival”. Already there is a chorus of criticisms trying to ridicule and trivialise this project. Understandably those criticisms lack any rationality and echo only the frustration of a humiliated bunch of local politicians
+
+After more than three-quarters of a century Sri Lanka is set to undergo a radical but peaceful systemic change, an ideal originated from and promoted by a new generation of citizens who having witnessed the extent of corruption in political governance and experienced the cost of economic mismanagement demanded an end to the ancient regime. The new President Anura Kumara Dissanayake (AKD) and the new JVP/NPP coalition Government are in power because of the political awakening created by this generation.
+
+The systemic change encompasses the transformation of not only the nation’s political culture and governance, and mode of economic management but also the reinvigoration of society’s civic consciousness to consummate the new paradigm. In essence, what is set to be accomplished during the current term of this Government is nothing less than a revolutionary transformation of the socio-economic, political and civic spectrum of this country to usher in a new era.
+
+It is in this context the significance of the recently launched project Clean Sri Lanka (CSL) needs to be evaluated. President AKD launched the project with a taskforce to “uplift society to greater heights through social, environmental and ethical revival”. Already there is a chorus of criticisms trying to ridicule and trivialise this project. Understandably those criticisms lack any rationality and echo only the frustration of a humiliated bunch of local politicians.
+
+Who should undertake this task?
+
+CSL has been advertised as a project for a “cleaner, greener and more sustainable” country on the model of Singapore for example. But the question is who should undertake this task. Is it by the Government and its agencies alone, or, by the citizenry, or by both. Sadly, and historically since independence at least, Sri Lankans have been brought up in a culture of dependency. People have been trained to expect the Government to do almost everything to make their life comfortable. This dependency mentality in turn has prevented the growth of civic consciousness involving an awareness and understanding of their role as citizens including their rights and obligations, and more importantly, participation in society.
+
+Civic consciousness means that individual interests are connected to the well-being of the wider community. What one calls participatory democracy cannot be successful and would lose its vitality in a society which remains obsessively selfish and indifferent towards common good. Recently one parliamentarian was talking about the intolerable uncleanliness of toilets in the trains. But this problem had been there since railway transport was introduced during the colonial era. It is not the creation of the NPP Government. In fact, all public toilets in Sri Lanka are a health problem. People should realise that a public amenity is there to increase their own private comfort and to take care of that amenity is one’s civic duty.
+
+Inculcating knowledge about civic consciousness
+
+How does one inculcate the knowledge about civic consciousness? It should be imparted not only through formal education in schools and colleges but also through informal education through one’s family and more importantly through religious institutions and other volunteer associations. As a Muslim myself I have never listened to a sermon delivered by an imam on the importance of public hygiene and what a Muslim should do to keep public surrounding clean and tidy. The emphasis has always been on personal hygiene. I cannot speak for other religions.
+
+Engaging voluntarily to keep one’s environment clean is a noble act which also helps easing the financial burden of a government. For example, if the taskforce appointed by AKD is going to recommend rules and regulations to maintain a clean environment, then the Government needs to pay for those who would be appointed to execute those rules. The fund for such payment must come from the tax revenue. Ultimately the burden falls on the taxpayer.
+
+In fact, CSL is not a novel project. A.T. Ariyaratna’s Sarvodaya movement born in 1970s pioneered the ideals of CSL and Sarvodaya’s volunteering spirit spread to more than 15,000 underprivileged communities. Even Sirimavo’s leftist coalition government’s project to get school children involved in shramadana work was inspired by Sarvodaya ideals. But, with the ushering in of JR’s open economy and promotion of private interest above public interest Sarvodaya ideals were pushed to the backstage. Now AKD is giving a new lease of life to the ideals of Sarvodaya through the CSL project. CSL should be welcomed and not ridiculed.
+
+Civic consciousness also involves attitudinal and behavioural changes among citizens. In Sri Lanka’s multicultural and multi-ethnic polity, the idea that the rights and obligations of an Appuhamy are the same as those of an Arumugam or Abdulla and that the duty of keeping the country’s physical and communal environment clean and peaceful demands a collective effort from everyone needs to be ingrained in the minds of the people. The new Government needs every assistance from all private and social institutions to create a cleaner, greener and more sustainable environment which would ease the transformation towards a new system.
+
+(The writer is a retired economist, W. Australia.)
+

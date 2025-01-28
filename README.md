@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-27 18:19:20**
+Last Updated **2025-01-28 06:25:11**
+
+## 2025-01-28
+
+* [Restart Sri Lanka with Startup  Sri Lanka: Leveraging tax benefits  to foster innovation and growth](data/articles/restart-sri-lanka-with-s.770e383a/README.md) `ft.lk`
+* [Sri Lanka has higher corporate tax rate and lower revenue collection](data/articles/sri-lanka-has-higher-cor.21a3a4b3/README.md) `ft.lk`
+* [Clean Sri Lanka for social transformation and system change](data/articles/clean-sri-lanka-for-soci.6a040578/README.md) `ft.lk`
+* [“The myth that arthritic diseases does not have a solution needs to be eradicated,”  - Dr. Himantha Atukorale](data/articles/the-myth-that-arthritic.21924e27/README.md) `dailymirror.lk`
+* [Challenge of recovering billions of dollars stashed away abroad](data/articles/challenge-of-recovering.ccb1a358/README.md) `dailymirror.lk`
+* [Is NPP theory on crimes and politics still valid? - EDITORIAL](data/articles/is-npp-theory-on-crimes.92f47f0c/README.md) `dailymirror.lk`
 
 ## 2025-01-27
 
+* [Pain points and pleasure points of an Odyssey – Part I](data/articles/pain-points-and-pleasure.6a719f10/README.md) `ft.lk`
+* [The Download: China’s DeepSeek, and useful quantum computing](data/articles/the-download-china-s-dee.3358bb98/README.md) `technologyreview.com`
 * [Useful quantum computing is inevitable—and increasingly imminent](data/articles/useful-quantum-computing.5aae6707/README.md) `technologyreview.com`
 * [Name of Jaffna Cultural Centre  is  Suddenly  Renamed after Poet Thiruvalluvar and   Abruptly Re- changed  to  Jaffna Thiruvalluvar Cultural Centre after  Protests](data/articles/name-of-jaffna-cultural.dc92763b/README.md) `dbsjeyaraj.com`
 * [“Col” Kittu, comrades kill themselves  to prevent capture by Indian Navy](data/articles/col-kittu-comrades-kill.74a0b371/README.md) `dailymirror.lk`
@@ -50,6 +61,7 @@ Last Updated **2025-01-27 18:19:20**
 * [What’s next for robots](data/articles/what-s-next-for-robots.8d405871/README.md) `technologyreview.com`
 * [8 Lessons from the Career of Softbank’s Masayoshi Son](data/articles/8-lessons-from-the-caree.30e352f0/README.md) `hbr.org`
 * [A Bad Communication Strategy Around Sustainability Can Leave You Legally Exposed](data/articles/a-bad-communication-stra.9db5486c/README.md) `hbr.org`
+* [OpenAI launches Operator—an agent that can use a computer for you](data/articles/openai-launches-operator.d5510d55/README.md) `technologyreview.com`
 * [This is what might happen if the US withdraws from the WHO](data/articles/this-is-what-might-happe.20502058/README.md) `technologyreview.com`
 * [Why the next energy race is for underground hydrogen](data/articles/why-the-next-energy-race.271b6219/README.md) `technologyreview.com`
 * [Citizens’ right of access to information](data/articles/citizens-right-of-access.a0c9b1a9/README.md) `ft.lk`

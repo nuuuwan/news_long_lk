@@ -1,0 +1,26 @@
+# Is NPP theory on crimes and politics still valid? - EDITORIAL
+
+[https://www.dailymirror.lk/opinion/Is-NPP-theory-on-crimes-and-politics-still-valid-EDITORIAL/172-301088](https://www.dailymirror.lk/opinion/Is-NPP-theory-on-crimes-and-politics-still-valid-EDITORIAL/172-301088)
+
+*01:18 AM, Tuesday, January 28, 2025*
+
+The “Clean Sri Lanka” project of the National People’s Power (NPP) government led by President Anura Kumara Dissanayake covers every aspect of life of Sri Lankans and Sri Lankan society including environment, governance and attitudes of individuals.
+
+Based on the purpose of the project only corrupt people – financially as well as morally – would oppose it. However, there seem to be conflicts among people over the priorities of the project, with every individual or group preferring the authorities to start it from where they hate most.
+
+Nevertheless, hardly anybody would disagree with the suggestion that minimizing crimes should be one of the top most priorities. The NPP leaders, before they rose to power strongly floated the idea that crimes are a phenomenon that is nurtured by corrupt politicians and hence it could be eradicated by eliminating the political patronage for them. Despite the nexus between most crimes as well as the underworld and politics being undeniable, the theory that crimes totally stem and depend on politics is yet to be established.
+
+Even if the NPP theory is well accepted, it is they who are in the saddle now and they should be able now to implement the remedy they suggested. Given the impact of the criminals on the economic development, especially on the foreign investments, the urgency in addressing the issue would hardly be contested by society. The incident where an Omani investor in Katana was to leave the country in 2023 following threats by a local politician is still fresh in our minds.  There have also been reports of criminals wielding their power against various businesses and public transport industry.
+
+The government seems to have realized the urgency of the matter with the recent order by the Public Security Ministry for those who own weapons to hand over them to the authorities on a temporary basis. The recent shooting spree might also have prompted the government’s move. In order to highlight a related vital aspect of the issue – the proliferation of small arms - we reproduce here a part of an Editorial the Daily Mirror carried in July 2023 when one of the occasional waves of crimes had become an important major topic among the populace.
+
+“During Gotabaya Rajapaksa’s tenure as the Defence Secretary a commission called “National Commission Against Proliferation of Illicit Small Arms (NCAPISA)” was established to co-ordinate approaches to small arms-related problems in Sri Lanka. NCAPISA initiated a survey conducted by Safer World with its partners, the University of Kelaniya, the Marga Institute and the Centre for Integrated Communication Research and Advocacy, within the framework of the United Nations Office for Disarmament Affairs (UN ODA).
+
+“The report of the survey that was released in 2008 said “There is no reliable basis to estimate the number of illicit small arms available in Sri Lanka.” However, about ten years prior to the release of this report the then Deputy Defence Minister Anuruddha Ratwatte had once told Parliament that around 15,000 illicit weapons were circulating in the southern parts of the country, primarily owing to the two armed conflicts in the North and the South.
+
+“Also, former minister Anura Bandaranaike citing the reasons for the crime wave that erupted then had once told Parliament that thousands of weapons were distributed among political parties to counter the JVP/DJV during the southern armed conflict in 1988/89. He said one political party was given two lorry loads of weapons.
+
+“The above “Survey Report on the Prevalence of Illicit Small Arms in Sri Lanka” cited several sources of these illicit weapons among members of society. It said “to an increasing extent, illicit military-type small arms appear to be proliferating as a knock-on effect of the conflict between the Government of Sri Lanka and the LTTE. Supply of weapons to underworld gangs is very commonly ascribed to deserters, but also linked to currently-serving security/police force personnel supplying small arms for purchase or hire. Some key informants emphasized the LTTE as the key source of supply.” The report further said, “The level of public knowledge of how to obtain an illicit small arm is substantial.” (Remember this was in 2008)
+
+These facts point out that crimes could only be minimized through a comprehensive programme and not by individual police stations acting on haphazard information or incidents.
+
