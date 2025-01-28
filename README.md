@@ -2,13 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-28 06:25:11**
+Last Updated **2025-01-28 18:18:34**
 
 ## 2025-01-28
 
 * [Restart Sri Lanka with Startup  Sri Lanka: Leveraging tax benefits  to foster innovation and growth](data/articles/restart-sri-lanka-with-s.770e383a/README.md) `ft.lk`
 * [Sri Lanka has higher corporate tax rate and lower revenue collection](data/articles/sri-lanka-has-higher-cor.21a3a4b3/README.md) `ft.lk`
 * [Clean Sri Lanka for social transformation and system change](data/articles/clean-sri-lanka-for-soci.6a040578/README.md) `ft.lk`
+* [“The myth that arthritic diseases does not have a solution needs to be eradicated,”  - Dr. Himantha Atukorale](data/articles/the-myth-that-arthritic.275a7d58/README.md) `dailymirror.lk`
 * [“The myth that arthritic diseases does not have a solution needs to be eradicated,”  - Dr. Himantha Atukorale](data/articles/the-myth-that-arthritic.21924e27/README.md) `dailymirror.lk`
 * [Challenge of recovering billions of dollars stashed away abroad](data/articles/challenge-of-recovering.ccb1a358/README.md) `dailymirror.lk`
 * [Is NPP theory on crimes and politics still valid? - EDITORIAL](data/articles/is-npp-theory-on-crimes.92f47f0c/README.md) `dailymirror.lk`
@@ -16,6 +17,10 @@ Last Updated **2025-01-28 06:25:11**
 ## 2025-01-27
 
 * [Pain points and pleasure points of an Odyssey – Part I](data/articles/pain-points-and-pleasure.6a719f10/README.md) `ft.lk`
+* [Creating urban tourism opportunities in Colombo through soft power](data/articles/creating-urban-tourism-o.cf3aae8f/README.md) `ft.lk`
+* [3 Ways AI Is Changing How Companies Work](data/articles/3-ways-ai-is-changing-ho.a2946030/README.md) `hbr.org`
+* [Research: How Companies Can Support Managers They Send Abroad](data/articles/research-how-companies-c.081841a9/README.md) `hbr.org`
+* [What TikTok’s Fate Will Mean for Global Business](data/articles/what-tiktok-s-fate-will.d19b12ff/README.md) `hbr.org`
 * [The Download: China’s DeepSeek, and useful quantum computing](data/articles/the-download-china-s-dee.3358bb98/README.md) `technologyreview.com`
 * [Useful quantum computing is inevitable—and increasingly imminent](data/articles/useful-quantum-computing.5aae6707/README.md) `technologyreview.com`
 * [Name of Jaffna Cultural Centre  is  Suddenly  Renamed after Poet Thiruvalluvar and   Abruptly Re- changed  to  Jaffna Thiruvalluvar Cultural Centre after  Protests](data/articles/name-of-jaffna-cultural.dc92763b/README.md) `dbsjeyaraj.com`
