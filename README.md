@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-28 18:18:34**
+Last Updated **2025-01-29 06:25:00**
+
+## 2025-01-29
+
+* [Strengthening Sri Lanka’s export sector: Call for strategic Government support](data/articles/strengthening-sri-lanka.9dc5e625/README.md) `ft.lk`
+* [Boom and slump of Sri Lankan Railway – mirror of the country](data/articles/boom-and-slump-of-sri-la.ec09b817/README.md) `ft.lk`
+* [Vulnerable visitors: Test of a nation’s conscience](data/articles/vulnerable-visitors-test.557cbe5f/README.md) `ft.lk`
 
 ## 2025-01-28
 
+* [Rev. Dr. Harold Panditharatne, a virtuoso enigma of our times](data/articles/rev-dr-harold-pandithara.dae0e643/README.md) `dailymirror.lk`
+* [Towards a common goal… Opposition parties unite to save perks of former Presidents!](data/articles/towards-a-common-goal-op.ac311cdd/README.md) `dailymirror.lk`
+* [Standing up to a bullying US President](data/articles/standing-up-to-a-bullyin.7f3bf050/README.md) `dailymirror.lk`
+* [3 Policies to Guide a Pro-Growth, Pro-Worker Economy Under Trump](data/articles/3-policies-to-guide-a-pr.cc9e6e48/README.md) `hbr.org`
+* [Mice with two dads have been created using CRISPR](data/articles/mice-with-two-dads-have.475d7061/README.md) `technologyreview.com`
 * [Restart Sri Lanka with Startup  Sri Lanka: Leveraging tax benefits  to foster innovation and growth](data/articles/restart-sri-lanka-with-s.770e383a/README.md) `ft.lk`
 * [Sri Lanka has higher corporate tax rate and lower revenue collection](data/articles/sri-lanka-has-higher-cor.21a3a4b3/README.md) `ft.lk`
 * [Clean Sri Lanka for social transformation and system change](data/articles/clean-sri-lanka-for-soci.6a040578/README.md) `ft.lk`
