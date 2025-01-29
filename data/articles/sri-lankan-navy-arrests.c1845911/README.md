@@ -1,0 +1,48 @@
+# Sri Lankan Navy Arrests 13 Indians  Poaching in  Lankan Waters off Valvettithurai; Two Fishermen Slightly Injured in Accidental Fire Hospitalised; Indian Foreign Ministry Summons Sri Lankan acting High Commissioner in New Delhi and Lodges Strong Protest
+
+[https://dbsjeyaraj.com/dbsj/?p=85451](https://dbsjeyaraj.com/dbsj/?p=85451)
+
+*06:00 PM, Tuesday, January 28, 2025*
+
+India has lodged a “strong protest” against a Sri Lankan Navy patrol which fired at an Indian fishing boat in the early hours of Tuesday, causing “serious injuries” to two fishermen, according to the Ministry of External Affairs (MEA). Sri Lanka, however, claimed that the Indian fishermen were illegally fishing in its territorial waters, and had attempted to “assault” its naval officers, adding that two fishermen received “slight injuries” due to an “accidental fire”.
+
+The MEA summoned the Acting High Commissioner of Sri Lanka in New Delhi and lodged a strong protest over the incident. “Our High Commission in Colombo has also raised the matter with the Ministry of Foreign Affairs of the Sri Lankan government,” the MEA said in a statement.
+
+This is the latest incident in a long-running conflict, with 540 Indian fishermen facing arrest on charges of illegal fishing in 2024.
+
+‘Use of force unacceptable’
+
+The Sri Lankan Navy arrested 13 fishermen from Tamil Nadu and Puducherry aboard a Karaikal fishing boat, on charges of trespassing and fishing in the island nation’s waters. The fishermen had ventured into the sea from Puducherry’s Karaikal fishing harbour on Sunday (January 26, 2025) morning.
+
+Sources in the Fisheries Department in Karaikal said the arrested fishermen have been identified as K. Manikkavel (39), N. Dhinesh (30), R. Karthikesan (27), C. Senthamizh (27), R. Maivizhinathan (22), and M. Vetrivel (28), from Karaikal district; V. Navendhu (34), K. Rajendran (36), and R. Ramki (30), from Mayiladuthurai district; and P. Sasikumar (26), K. Nanthakumar (30), V. Babu (31), and M. Kumaran (28), from Nagapattinam district.
+
+According to the MEA, two of the 13 fishermen suffered “serious injuries” and are currently receiving treatment at the Jaffna Teaching Hospital. Three other fishermen sustained minor injuries.
+
+Officials from the Indian Consulate in Jaffna are extending all possible assistance to the fishermen, the MEA said, emphasising India’s position on treating issues pertaining to fishermen in a “humane and humanitarian manner”.
+
+“The use of force is not acceptable under any circumstances whatsoever. Existing understandings between the two Governments in this regard must be strictly observed,” the MEA added.
+
+‘Aggressive and hostile’
+
+The Sri Lankan Navy, on the other hand, accused the Indian fishermen of attempting to “assault” naval personnel and “snatch a firearm from a naval officer”, thus “endangering the lives of the naval personnel.”
+
+“In the process, an accidental fire has taken place, causing slight injuries to two Indian fishermen,” it said in a statement issued on Tuesday (January 28, 2025).
+
+According to the Lankan Navy’s account, its Northern Naval Command observed “a cluster of Indian fishing boats poaching in Sri Lankan waters” off Valvettithurai, Jaffna, in the late hours of January 27, 2025.
+
+The patrol seized an Indian fishing boat that “remained in Sri Lankan waters…collecting the fishing harvest”, the statement said, adding that the fishermen “acted aggressively, maneuvering their fishing boat in a hostile manner and behaving confrontationally”.
+
+Long-running conflict
+
+The incident marks the latest escalation in a long-running conflict in the Palk Strait that affects fishermen on both sides. The India-Sri Lanka fisheries conflict, involving fishermen from Tamil Nadu and northern Sri Lanka, has persisted for well over a decade, with Indian fishermen periodically facing arrest for fishing illegally in Sri Lanka’s territorial waters. In 2024, over 540 Indian fishermen were arrested by the Sri Lankan Navy on charges of illegal fishing. In January 2025 so far, over 60 fishermen from India have been arrested, according to official sources.
+
+Sri Lankan fishermen — who are still recovering from a brutal, three decade-long war — have also been demanding that their Indian counterparts stop using the destructive bottom trawling method of fishing, which severely impacts the marine ecosystem, and is banned in Sri Lanka.
+
+The enduring problem was also discussed during Sri Lankan President Anura Kumara Dissanayake’s visit to New Delhi in December 2024. The joint statement issued following his meeting with Prime Minister Narendra Modi said the leaders “underscored the need to take measures to avoid any aggressive behaviour or violence,” while acknowledging the issues faced by fishermen on both sides.
+
+The leaders “expressed confidence” that “a long lasting and mutually acceptable solution could be achieved” through dialogue and constructive engagement.
+
+Fishermen assaulted Navy personnel: Sri Lanka
+
+The Sri Lankan Navy, on the other hand, accused the Indian fishermen of attempting to “assault” naval personnel and “snatch a firearm from a naval officer”, “endangering the lives of the naval personnel.”
+

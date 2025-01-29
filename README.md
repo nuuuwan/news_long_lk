@@ -2,19 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-29 06:25:00**
+Last Updated **2025-01-29 18:18:29**
 
 ## 2025-01-29
 
 * [Strengthening Sri Lanka’s export sector: Call for strategic Government support](data/articles/strengthening-sri-lanka.9dc5e625/README.md) `ft.lk`
 * [Boom and slump of Sri Lankan Railway – mirror of the country](data/articles/boom-and-slump-of-sri-la.ec09b817/README.md) `ft.lk`
 * [Vulnerable visitors: Test of a nation’s conscience](data/articles/vulnerable-visitors-test.557cbe5f/README.md) `ft.lk`
+* [Three reasons Meta will struggle with community fact-checking](data/articles/three-reasons-meta-will.22ac997f/README.md) `technologyreview.com`
+* [How Sathasivampillai Krishnakumar alias “Col” Kittu and his  Comrades at arms, set fire to their ship “Ahat”  and  Killed   Themselves to Prevent Being  Captured by the Indian Navy in International Waters](data/articles/how-sathasivampillai-kri.e77f5f6f/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-28
 
 * [Rev. Dr. Harold Panditharatne, a virtuoso enigma of our times](data/articles/rev-dr-harold-pandithara.dae0e643/README.md) `dailymirror.lk`
 * [Towards a common goal… Opposition parties unite to save perks of former Presidents!](data/articles/towards-a-common-goal-op.ac311cdd/README.md) `dailymirror.lk`
 * [Standing up to a bullying US President](data/articles/standing-up-to-a-bullyin.7f3bf050/README.md) `dailymirror.lk`
+* [Canada’s Conservative Party Leader Pierre Poilievre says he would “lead the world in seeking prosecutions in international courts” against Sri Lankan officials accused of war crimes if elected as Canada’s next prime minister](data/articles/canada-s-conservative-pa.faf1f597/README.md) `dbsjeyaraj.com`
+* [Sri Lankan Navy Arrests 13 Indians  Poaching in  Lankan Waters off Valvettithurai; Two Fishermen Slightly Injured in Accidental Fire Hospitalised; Indian Foreign Ministry Summons Sri Lankan acting High Commissioner in New Delhi and Lodges Strong Protest](data/articles/sri-lankan-navy-arrests.c1845911/README.md) `dbsjeyaraj.com`
 * [3 Policies to Guide a Pro-Growth, Pro-Worker Economy Under Trump](data/articles/3-policies-to-guide-a-pr.cc9e6e48/README.md) `hbr.org`
 * [Mice with two dads have been created using CRISPR](data/articles/mice-with-two-dads-have.475d7061/README.md) `technologyreview.com`
 * [Restart Sri Lanka with Startup  Sri Lanka: Leveraging tax benefits  to foster innovation and growth](data/articles/restart-sri-lanka-with-s.770e383a/README.md) `ft.lk`
@@ -61,6 +65,7 @@ Last Updated **2025-01-29 06:25:00**
 * [From the Rubber-Rice Pact to Oil for land deals](data/articles/from-the-rubber-rice-pac.e3878334/README.md) `dailymirror.lk`
 * [HEC: A long-term solution for country’s sake](data/articles/hec-a-long-term-solution.2dcc9151/README.md) `dailymirror.lk`
 * [Tech Giants, Political Winds,  and the Erosion of Digital Accountability](data/articles/tech-giants-political-wi.ce79563f/README.md) `dailymirror.lk`
+* [How a top Chinese AI model overcame US sanctions](data/articles/how-a-top-chinese-ai-mod.61e9635a/README.md) `technologyreview.com`
 * [If You Want Your Team to Use Gen AI, Focus on Trust](data/articles/if-you-want-your-team-to.f311a45e/README.md) `hbr.org`
 * [Why Feedback Can Make Work More Meaningful](data/articles/why-feedback-can-make-wo.1b9eb63a/README.md) `hbr.org`
 * [Why was the name of Jaffna Cultural Centre changed suddenly by India?](data/articles/why-was-the-name-of-jaff.ddf25d47/README.md) `ft.lk`
