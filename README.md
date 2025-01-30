@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-29 18:18:29**
+Last Updated **2025-01-30 06:25:17**
+
+## 2025-01-30
+
+* [Will NPP neutralise Namal?  Will UNP sabotage Sajith?](data/articles/will-npp-neutralise-nama.7613078d/README.md) `ft.lk`
+* [Is GDP the only metric to measure success of a country?](data/articles/is-gdp-the-only-metric-t.124bbb16/README.md) `ft.lk`
+* [Collective for Social Media Declaration expresses concerns about lack of clarity on policy reform](data/articles/collective-for-social-me.586c760e/README.md) `ft.lk`
+* [CEO, appointment and succession: Board’s most critical responsibility](data/articles/ceo-appointment-and-succ.13386c9a/README.md) `ft.lk`
+* [Time to put some of our national heroes on the celebratory list](data/articles/time-to-put-some-of-our.3a1c4b74/README.md) `dailymirror.lk`
+* [What is Sri Lanka’s approach to tackle transboundary air pollution?  - EDITORIAL](data/articles/what-is-sri-lanka-s-appr.f0b4f832/README.md) `dailymirror.lk`
 
 ## 2025-01-29
 

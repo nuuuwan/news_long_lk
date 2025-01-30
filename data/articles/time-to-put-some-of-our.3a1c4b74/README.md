@@ -1,0 +1,34 @@
+# Time to put some of our national heroes on the celebratory list
+
+[https://www.dailymirror.lk/opinion/Time-to-put-some-of-our-national-heroes-on-the-celebratory-list/172-301285](https://www.dailymirror.lk/opinion/Time-to-put-some-of-our-national-heroes-on-the-celebratory-list/172-301285)
+
+*02:04 AM, Thursday, January 30, 2025*
+
+Sri Lanka will celebrate its 77th Independence Day on February 4 (File Photo)
+
+The present regime can put certain records right and recognise past heroes who deserve mention. It is not essential to play politics when a nation battered in all departments celebrates another chapter of ‘Independence Day’
+
+The Independence Day celebrated in Sri Lanka on February 4 must be given new meaning. We are just days away from celebrating the 77th edition of celebrating Independence from the British. But we have over the years given prominence to individuals (State leaders of the past) who were not very true to the nation when ushering in independence. Some of them were instrumental in having deals or understandings with the British as to how Ceylon should be governed in the early years after independence.
+
+Migettuwatte Gunananda thera
+
+Weera Madugalle Disawe
+
+Some of these individuals were even presented with knighthoods and titles afforded to locals who were faithful to the British Empire. Questions are raised as to how the Government of Sri Lanka (GoSL), has over the years, forgotten to even mention the names of some of our real heroes in the likes of Weera Monarawila Keppetipola, Weera Madugalle Dissawe, Migettuwatte Gunananda Thera, Weerapuran Appu, Gongalegoda Banda, Anagarika Dharmapala, Butawe Rate Rala, Kohukumbure Rate Rala, Kiwulegedara Mohottala, Kataragama Mahamethme Rala in the month of February when extravagant celebrations have taken place in the name of celebrating independence?
+
+For the record, when Maithripala Sirisena was President, he took the initiative to reverse a decision taken by the British Colonial rulers to name 19 Sri Lankans as traitors. That decision taken in 2016 made us reflect on our history and see what parts of it must be cherished and who should be celebrated. These are days when podcasts and content on YouTube channels are freely contesting some of Sri Lanka’s celebrated or controversial happenings jotted down in the history books of the island. Popular podcaster Gemunu Wanninayake in his YouTube channel titled ‘Power Hour’ conveys a message to the public- through interviewee Nandana Weerarathne- that some parts of the island’s recorded history must be questioned. Weeraratne questions the validity of a happening where the country’s history tells us that Ehelepola Kumarahami’s infants were killed and their heads were crushed using pixel and mortar. According to the podcast, the King at that time, Sri Vikrama Rajasinha, acknowledged the drowning of Ehelepola Kumarihami, but refused to acknowledge that Kumarihami’s infants were brutally killed, as told in Sri Lanka’s history. Apparently that part of history about the infants comes from the log entry in the personal diary, maintained by a British official stationed here in Ceylon. The sad part is that this part of history is included in Sri Lankan textbooks for schoolchildren.
+
+Before Mahinda Rajapaksa became President and finished the civil war, there were other heroes who were worthy of mention and appreciation. One such person was King Sri Vickrama Rajasinha. Though Sri Vickrama Rajasinha (our last King to sit on the throne) is perceived to have been an enemy of the Sinhala people, he had his moments of basking in glory and showing his prowess as a ruler. He had also helped Buddhism despite being a Hindu.
+
+There are stories from our history that this king had dug up some graves and displaced skulls unearthed from them to drive fear into the British invaders to this island. But we hardly mention his name during independence celebrations. And why Mahinda Rajapaksa, as of now, and all of a sudden? Just the other day, former Deputy Speaker Ajith Rajapaksa said that when former President Mahinda Rajapaksa dies, his remains should be preserved for posterity. Sri Lankans, battered and seasoned after going through decades of hardship, are now not in any way inclined towards making heroes in a hurry.
+
+We remember from our history books about the heroics of Butawe Rate Rala, who was in fact a member of an indigenous clan. He too was brutally killed by the British. But the GoSL over the years has invited for state events, like Independence Day, the aboriginal people from Dambana in Mahiyangana and ignored individuals remaining from the clan related to a hero like Butawe Rate Rala, largely for political reasons. Some of our true war heroes have been played down for selfish political gains.
+
+We also remember maestros in their chosen professions like George Keyt (Paintings) and Lionel Wendt (photography) for their contributions to this country’s art and culture. Keyt worked with temples in doing their paintings and Wendt made his share of contributions with his camera; capturing on reel Sri Lankan dance among many other aesthetic events this island is famous for. Though having English names, these two individuals were very closely connected to Sri Lankan traditional roots through their work, hence the need to consider them as two of our national heroes.
+
+When President Anura Kumara Dissanayake was campaigning as a candidate in the run-up to the presidential elections, he often touched on the topic of being sensitive to the needs of other communities. We are all aware that Sri Lanka is multi-cultural and multi-religious. In November every year (which falls in the period of Il in the Sinhala calendar) people in Uva-Wellassa commemorate two stalwarts in the likes of Weera Madugalla Disawe and Weera Monarawila Kepettipola Maha Disawe for their contributions made to back a Sinhala rebellion against the British.
+
+This event takes place in the form of an alms giving which is given by surviving members of the Madugalle clan and the date set aside for this is November 26. If this clan has this event this year, it will mark 207 years after the Uva-Wellassa rebellion.
+
+The present regime can put certain records right and recognise past heroes who deserve mention. It is not essential to play politics when a nation battered in all departments celebrates another chapter of ‘Independence Day’.
+

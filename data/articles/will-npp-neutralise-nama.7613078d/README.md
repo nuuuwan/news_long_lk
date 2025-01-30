@@ -1,0 +1,118 @@
+# Will NPP neutralise Namal?  Will UNP sabotage Sajith?
+
+[https://www.ft.lk/columns/Will-NPP-neutralise-Namal-Will-UNP-sabotage-Sajith/4-772426](https://www.ft.lk/columns/Will-NPP-neutralise-Namal-Will-UNP-sabotage-Sajith/4-772426)
+
+*06:10 AM, Thursday, January 30, 2025*
+
+Mahinda arriving from Welikada for his mother’s funeral, while framed for murder by Govt.
+
+Pre-emptive detention before LG polls?
+
+Will SJB-UNP bloc sideline Sajith?
+
+“Did we take power to give it again? ...We aren’t going to give it again, sonny (“putho”). We shall exercise fifteen times the effort we made to obtain it, to retain power. [To] Keep it. We can’t let this go...”
+
+– Deputy Minister of Defence, Maj. Gen Aruna Jayasekara, in Beliatta.
+
+(https://www.youtube.com/watch?v=IDM8u1pXc3E&t=4s)
+
+The truculent declaration of transparently undemocratic intent made by the Deputy Minister of Defence must be read together with President Dissanayake’s remark in his recent Katukurunda speech that “They [the Opposition] will have to be like that [i.e., lamenting] for another one-and-half decades” and his assertion in Tambuttegama that this NPP Govt “will win in 2028 too”. It reminds me of JR Jayewardene’s infamous line of 1982: “I say to you, roll up the electoral map, you won’t need it for another ten years”. That outlook, acted upon, opened 30 years of internal wars and external intervention.
+
+Such hubris from a President who won only 42% of the vote even after counting the preference votes, unlike all his predecessors who made it over the 50% mark, must be viewed against the backdrop of the Anuradhapura District Cooperative Board election (in the Sinhala heartland) where the Opposition group (SJB, SLPP, Independents) won 13 seats while the ruling NPP won none.
+
+I’m hardly a Trump fan – quite the contrary--but he did sign a raft of decrees giving effect to his election pledges and the mandate he received, in some cases repealing President Biden’s decisions. Anura Dissanayake did the exact opposite: he signed deals which his predecessor and opponent President Wickremesinghe had agreed to and the JVP-NPP had opposed (with ISB holders, Indian and Chinese investors), and ignored or reversed the election pledges he had made (debt audit, alternative Debt Sustainability Assessment, re-set with the IMF).
+
+If members of diverse Opposition parties can unite at Cooperative Society elections and defeat the NPP, surely that is the formula for success? Shouldn’t this semi-spontaneous grassroots model be replicated at the national level someday as a ‘Grand Alliance’ of the Opposition?
+
+Military vs. Millers?
+
+A crucial declaration by President AKD has been overlooked by the commentariat.
+
+‘Claiming that no one will be allowed to sell rice beyond the controlled price, President Anura Kumara Dissanayake said rice mills will be taken under army control if they fail to agree to the mechanism of the government.
+
+“…We will take the mills under the army’s control if they fail to agree to our plan,” he said.
+
+The President said after the mills which fail to agree to government mechanism were taken under army control, army personnel will be stationed in the mill to take records of rice issued by the mill and will monitor at which price the rice is issued to shops. “The mill will function under its managers and operate by its employees” he explained.
+
+When asked if such a move is democratic, the President said it is absurd talking about democracy when it comes to rice in this country…’
+
+(https://www.dailymirror.lk/breaking-news/Rice-mills-will-be-taken-under-armys-control-if-they-fail-to-agree-to-government-mechanism-President/108-300695)
+
+Confirmation of the DM story came from the Daily News: ‘Army to be deployed to non-compliant rice mills--President’. (https://www.dailynews.lk/2025/01/22/admin-catagories/breaking-news/709015/army-to-be-deployed-to-non-compliant-rice-mills-president/)
+
+This reminded me of the ban on rice transport and the road barriers erected during the Sirimavo-NM regime of 1970-’77 which had the effect of restricting rice consumption to fewer days of the week, and the suggestion of LSSP Minister Leslie Goonewardene that private lorries be ‘nationalised’ (statised). The latter suggestion was not implemented, but unluckily for that government, the former policy was.
+
+AKD and comrades seem totally ignorant of the historical fact that the socialist and communist tradition made colossal blunders in the area of state intervention in agriculture, and had to backtrack in the face of rural resistance and famine.
+
+Lenin’s NEP was a retreat from the preceding period of ‘War Communism’ which entailed among other things the requisitioning by the Red Army of grain surpluses from rich peasants who were accused of hoarding. It was the NEP with its ample play for private property and market forces in agriculture which enabled food supply to be restored.
+
+Mao’s post-revolutionary bouts of state-interventionist agrarian policies caused famine. It took Deng Xiaoping’s unleashing of market forces in agriculture to generate surpluses which caused the accumulation of vast savings among the peasantry which were invested in industry.
+
+Ho Chi Minh’s Vietnam alienated the peasantry during a brief period when Truong Chinh was handling agrarian policy. President Ho apologised to the peasants, sidelined the errant comrade for a while, and won back the support of the peasantry.
+
+If AKD knows any of this, he wouldn’t threaten to pit the Army against big mill owners.
+
+It is also richly ironic that he is threatening local owners of big provincial rice mills, self-made businessmen, while having signed agreements which make him the darling of the foreign and local sovereign bond-holders (i.e., big finance capital), foreign companies which will be given contracts in Hambantota and Trincomalee, and Sri Lanka’s grossly undertaxed top corporates.
+
+Sri Lanka is nobody’s satellite
+
+Currently, Colombo is being subjected to the foreign relations equivalent of neoliberalism’s watchword ‘There Is No Alternative’ (TINA), with proxy policy intellectuals asserting that ‘there is no alternative’ to choosing India over China.
+
+We must have the fullest and friendliest possible relationship with all powers, short of anything that manifestly or potentially harms our basic national interests.
+
+It is harmful to allow any power to entrench itself on any significant part of the territory of this small island. Independence and sovereignty are relative, not absolute, but it is vital to seek to maximise or optimise rather than minimise our strategic autonomy.
+
+We are indebted, almost bankrupt. As in personal life, such a situation shouldn’t generate a recommendation/decision to be a drug-pusher, prostitute or sex slave, it should not be so in external relations and foreign policy. Sri Lanka must never be anyone’s satellite or vassal-state.
+
+Pre-emptive detention?
+
+Vijaya Kumaratunga was arrested and detained in Army custody by President JR Jayewardene in 1982. He did so on trumped up charges that accused Vijaya and his loyalists of being ‘Naxalites’ – a term for Indian Maoists who led a rural rebellion in Naxalbari. JR arrested Vijaya because he was the best orator in the SLFP, and the UNP wanted him out of commission before the holding of the Referendum which enabled the Government to extend the life of Parliament.
+
+In 1984, Vijaya contested the Mahara by-election which he had won on the first two counts. Then the electricity mysteriously went down and on the third count it was discovered that he had lost. Earlier in the campaign Vijaya was shot at and his bodyguard took the shotgun blast intended for Vijaya and died. The highest UNP politician in overall charge of the Mahara by-election was Minister Ranil Wickremesinghe.
+
+In 1988, the JVP got Vijaya out of the way permanently so that he couldn’t run for Chief Minister of the Western Province at the first-ever Provincial Council elections which the JVP-DJV insisted everyone should boycott. Death was the price of disobedience. They shot him in the chest and face so his visage of martyrdom couldn’t be exhibited at the funeral.
+
+My betting is that Namal Rajapaksa will be locked up on charges of ‘financial turpitude’ just before the Local Government election this year.
+
+AKD should be informed that Mahinda Rajapaksa had to attend his mother’s funeral in handcuffs while a prisoner at Welikada. It helped elect him President.
+
+Namal’s and Sajith’s situations
+
+The two main players in the democratic opposition aren’t talking about what they should be, from a strategic point of view. Sajith and Namal aren’t exploring an equation of mutually accommodation which can rebuild a strong Social Democratic or moderate-centrist political force in Sri Lanka.
+
+It should be easy for moderate-centrist parties to arrive at an agreement because the Constitution makes for power-sharing: there are two important posts, the President and the PM. But political rationality – or more grandly, Political Reason--has long fled our shores and therefore, there will be no such division of labour.
+
+In five years, the citizens will make the decision for them by swinging hard to one over the other and breaking the deadlock by ensuring a win which ejects the regime. That is not an ideal outcome because no personality or party ticks all the correct boxes.
+
+On the increasingly crucial issue of national independence, sovereignty and the territorial integrity of the island, Namal Rajapaksa and the SLPP have the edge, because of the Mahinda Rajapaksa and broad SLFP heritage. It is not that Sajith has a lesser heritage in this subject, given that his father was Ranasinghe Premadasa, but he seems to be trying to live down his father while Namal seems to be trying to live up to his. On economics though, Sajith’s development thinking is superior to anyone else’s.
+
+Matters become complicated because of the parties each of them leads. Namal may follow in his father’s footsteps and champion the navigation of the country in a manner that reduces external encroachment to an unavoidable minimum, but his patri al interest will be vitiated by another strand that coexists with that of Mahinda Rajapaksa within the SLPP, and that is the Gotabaya heritage of mono-ethnic, mono-religious, supremacism.
+
+While the nation can be united on the basis of the MR heritage, model and ideology, it can and will be divided if the GR heritage comes into play. The GR ideology will drive the minorities to seek alliance and patronage from this or that foreign power or bloc of powers, making national unity which is necessary for the safeguarding of national independence, sovereignty and territorial integrity, impossible.
+
+As for Sajith, while some of his father’s patriotism is deeply embedded and he avoided Ranil’s line on the war and Mangala Samaraweera’s on Geneva, the dominant ideology of the party he leads is insufficiently demarcated from that of Ranil’s UNP. Sajith and the SJB are commendably anti-racist, but inasmuch as they seem to be for external economic integration without limits on dependency, are heavily inclined towards the West and the Quad, and are insufficiently committed to the unitary state (promising a new Constitution which seems open-ended), their credibility and role in defending national independence , sovereignty and territorial integrity are self-limited.
+
+To put the SLPP and by extension himself on a winning trajectory, Namal has to put his party through the therapeutic, cathartic exercise of deeply examining the reasons for the Great Triple Fall: 2015, 2022, 2024.
+
+2015: Having handsomely won the 2010 Presidential election with General Sarath Fonseka as his rival, Mahinda Rajapaksa lost in 2015 because his winning bloc of 2005 and 2010 were fissured by the arrest and incarceration of Sarath Fonseka; the ideology of pseudo-kingship manufactured by monks and flattering ideologues; the death by shooting of Bharatha Lakshman Premachandra by the monitoring minister of the Ministry of Defence or his bodyguards; the Rathupaswela and Welikada massacres; the rise and patronage of the Bodu Bala Sena and the Islamophobic violence at Aluthgama; the degradation of international affairs and the serial defeats at the UNHRC Geneva after the inexplicable appointment of Sajin Vass Gunawardena, illiterate in international relations as the Monitoring MP of the Foreign Ministry and the Presidential Advisor on International Relations.
+
+2022: The alienation of the Catholic and Christian Communities by a perceived coverup of culpability for the Easter massacre; the alienation of the Muslim community by the patronage of the BBS; stimulated Islamophobia after the Easter massacre by pro-Gotabaya elements and the Dr Shafi hysteria over alleged forced sterilisations and the forced cremation within 24 hrs. of the bodies of Muslim victims of COVID; the alienation of the largely Sinhala-Buddhists peasant vote including in the deep South by the insane policy of Gotabaya Rajapaksa of imposing an island wide overnight ban on the use of chemical fertiliser-weedicides-pesticides; the loss of state revenue by a massive slashing of taxes and revenue from export crops which had been devastated without fertiliser; the spending for the import of food due to the harvest crashing; and the shortages of essential fuel and gas caused by the avoidable payout of foreign currency owed the sovereign bondholders. The result was not merely the massive popular uprising but the utter absence of any popular opposition to it, and the widening sympathy within the military barracks for the Aragalaya.
+
+2024: Electoral near-decimation due to SLPP complicity or silence during the plummeting of living conditions under Gotabaya Rajapaksa’s lunatic policies; electing Ranil Wickremesinghe in parliament as President; remaining in Cabinet during his painful period of mass austerity and economic constriction; and defecting from Mahinda’s side to Ranil’s during the Presidential election. The party was saved from extinction by Namal Rajapaksa’s strategically smart and courageous decision to run for President.
+
+None of the Three Great Defeats – 2015, 2022, 2024—were primarily due to Mahinda Rajapaksa or a mass rejection of him, which is why after the shock of the 2015 defeat, huge numbers of people streamed to Medamulana to urge him to return to politics, which he did, only to have the rug pulled from under him by Basil and Gotabaya. The Three Great Defeats were primarily the results of the polarising policies and actions of Gotabaya Rajapaksa as Secretary/Defence and then President, and of Basil Rajapaksa and their supportive or proxy caucuses.
+
+Writing in these pages, SJB Working Committee member Kusum Wijetilleke has an outstanding, definitive critique on the SJB-UNP ‘Unite the Right’ project. (https://www.ft.lk/columns/Disease-of-elite-control-30-years-of-losing-touch/4-772228)
+
+I’d add that the SJB has entered talks with Ranil’s UNP with a confused collective mind. It hasn’t asked itself and the UNP five crucial political questions:
+
+(I) What are the reasons for the UNP’s defeat at Presidential elections for three decades, from 1994 to 2024?
+
+(II) Though UNP and SJB propagandists attribute it to Sinhala nationalism, why didn’t that factor which was ascendant in 1987-88 prevent Ranasinghe Premadasa from winning the Presidential, Parliamentary and Local authorities elections and being the last UNP leader to be elected to the country’s leadership? Furthermore, Sinhala nationalism had retreated in 2024 and Ranil Wickremesinghe had the administrative advantage of incumbency, but why did he come third—not even second-- at the presidential election?
+
+(III) Given that Ranil has extended his leadership of the UNP by six years, why suppose that unity or a united front with the UNP is more asset than liability?
+
+(IV) Since Ranil’s economic doctrine was followed by serial electoral defeats (2004, 2019, 2024) why continue to endorse it, instead of embracing President Premadasa’s economic doctrine which produced serial electoral victories?
+
+(V) If the SJB pitches itself (as its spokespersons are doing now) as a party of the Right and the intended alliance with the UNP as a project to ‘unite the Right’, how can it attract the centre-left nationalist SLPP and SLFP voters who have shifted left to the NPP and will shift back to a renovated SLPP if the only alternative is the Right which it has never voted for, instead of a progressive Centre?
+
