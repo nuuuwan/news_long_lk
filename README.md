@@ -2,19 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-30 06:25:17**
+Last Updated **2025-01-30 18:18:55**
 
 ## 2025-01-30
 
 * [Will NPP neutralise Namal?  Will UNP sabotage Sajith?](data/articles/will-npp-neutralise-nama.7613078d/README.md) `ft.lk`
 * [Is GDP the only metric to measure success of a country?](data/articles/is-gdp-the-only-metric-t.124bbb16/README.md) `ft.lk`
 * [Collective for Social Media Declaration expresses concerns about lack of clarity on policy reform](data/articles/collective-for-social-me.586c760e/README.md) `ft.lk`
+* [Three questions about the future of US climate tech under Trump](data/articles/three-questions-about-th.cba364b4/README.md) `technologyreview.com`
 * [CEO, appointment and succession: Board’s most critical responsibility](data/articles/ceo-appointment-and-succ.13386c9a/README.md) `ft.lk`
+* [Little Hamdi’s missing kidney still a mystery](data/articles/little-hamdi-s-missing-k.c1f03463/README.md) `dailymirror.lk`
 * [Time to put some of our national heroes on the celebratory list](data/articles/time-to-put-some-of-our.3a1c4b74/README.md) `dailymirror.lk`
 * [What is Sri Lanka’s approach to tackle transboundary air pollution?  - EDITORIAL](data/articles/what-is-sri-lanka-s-appr.f0b4f832/README.md) `dailymirror.lk`
 
 ## 2025-01-29
 
+* [How Deconstructing Jobs Can Change Your Organization](data/articles/how-deconstructing-jobs.d41ae889/README.md) `hbr.org`
+* [Research: Trying to Pick the “Best of the Best” Is the Wrong Approach](data/articles/research-trying-to-pick.1a5e68ae/README.md) `hbr.org`
 * [Strengthening Sri Lanka’s export sector: Call for strategic Government support](data/articles/strengthening-sri-lanka.9dc5e625/README.md) `ft.lk`
 * [Boom and slump of Sri Lankan Railway – mirror of the country](data/articles/boom-and-slump-of-sri-la.ec09b817/README.md) `ft.lk`
 * [Vulnerable visitors: Test of a nation’s conscience](data/articles/vulnerable-visitors-test.557cbe5f/README.md) `ft.lk`
