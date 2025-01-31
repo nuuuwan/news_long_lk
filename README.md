@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-31 06:24:49**
+Last Updated **2025-01-31 18:18:35**
 
 ## 2025-01-31
 
@@ -16,6 +16,7 @@ Last Updated **2025-01-31 06:24:49**
 
 * [Why DeepSeek Shouldn’t Have Been a Surprise](data/articles/why-deepseek-shouldn-t-h.ff6bfee9/README.md) `hbr.org`
 * [5 Signs Your Optimism Is Hurting Your Team](data/articles/5-signs-your-optimism-is.acd4a777/README.md) `hbr.org`
+* [Research: What Explains the “Vibecession”?](data/articles/research-what-explains-t.354c226c/README.md) `hbr.org`
 * [Will NPP neutralise Namal?  Will UNP sabotage Sajith?](data/articles/will-npp-neutralise-nama.7613078d/README.md) `ft.lk`
 * [Is GDP the only metric to measure success of a country?](data/articles/is-gdp-the-only-metric-t.124bbb16/README.md) `ft.lk`
 * [Collective for Social Media Declaration expresses concerns about lack of clarity on policy reform](data/articles/collective-for-social-me.586c760e/README.md) `ft.lk`
@@ -46,6 +47,7 @@ Last Updated **2025-01-31 06:24:49**
 * [Sri Lankan Navy Arrests 13 Indians  Poaching in  Lankan Waters off Valvettithurai; Two Fishermen Slightly Injured in Accidental Fire Hospitalised; Indian Foreign Ministry Summons Sri Lankan acting High Commissioner in New Delhi and Lodges Strong Protest](data/articles/sri-lankan-navy-arrests.c1845911/README.md) `dbsjeyaraj.com`
 * [3 Policies to Guide a Pro-Growth, Pro-Worker Economy Under Trump](data/articles/3-policies-to-guide-a-pr.cc9e6e48/README.md) `hbr.org`
 * [Mice with two dads have been created using CRISPR](data/articles/mice-with-two-dads-have.475d7061/README.md) `technologyreview.com`
+* [AI’s energy obsession just got a reality check](data/articles/ai-s-energy-obsession-ju.0007828a/README.md) `technologyreview.com`
 * [Restart Sri Lanka with Startup  Sri Lanka: Leveraging tax benefits  to foster innovation and growth](data/articles/restart-sri-lanka-with-s.770e383a/README.md) `ft.lk`
 * [Sri Lanka has higher corporate tax rate and lower revenue collection](data/articles/sri-lanka-has-higher-cor.21a3a4b3/README.md) `ft.lk`
 * [Clean Sri Lanka for social transformation and system change](data/articles/clean-sri-lanka-for-soci.6a040578/README.md) `ft.lk`
