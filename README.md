@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-30 18:18:55**
+Last Updated **2025-01-31 06:24:49**
+
+## 2025-01-31
+
+* [Fiscal and redistributive reform: Burden of interest costs](data/articles/fiscal-and-redistributiv.c0c87c2e/README.md) `ft.lk`
+* [Economy, economics and economists](data/articles/economy-economics-and-ec.fb532dc7/README.md) `ft.lk`
+* [Oversight committees for ministries: Where did that come from?](data/articles/oversight-committees-for.dcdaafb7/README.md) `ft.lk`
+* [Trump’s clean-out Gaza plan: A reprehensible licence for ethnic cleansing](data/articles/trump-s-clean-out-gaza-p.6d14464a/README.md) `dailymirror.lk`
+* [Crushing mafias isn’t easy as crushing coconuts! - EDITORIAL](data/articles/crushing-mafias-isn-t-ea.1372d0eb/README.md) `dailymirror.lk`
 
 ## 2025-01-30
 
+* [Why DeepSeek Shouldn’t Have Been a Surprise](data/articles/why-deepseek-shouldn-t-h.ff6bfee9/README.md) `hbr.org`
+* [5 Signs Your Optimism Is Hurting Your Team](data/articles/5-signs-your-optimism-is.acd4a777/README.md) `hbr.org`
 * [Will NPP neutralise Namal?  Will UNP sabotage Sajith?](data/articles/will-npp-neutralise-nama.7613078d/README.md) `ft.lk`
 * [Is GDP the only metric to measure success of a country?](data/articles/is-gdp-the-only-metric-t.124bbb16/README.md) `ft.lk`
 * [Collective for Social Media Declaration expresses concerns about lack of clarity on policy reform](data/articles/collective-for-social-me.586c760e/README.md) `ft.lk`
@@ -14,9 +24,11 @@ Last Updated **2025-01-30 18:18:55**
 * [Little Hamdi’s missing kidney still a mystery](data/articles/little-hamdi-s-missing-k.c1f03463/README.md) `dailymirror.lk`
 * [Time to put some of our national heroes on the celebratory list](data/articles/time-to-put-some-of-our.3a1c4b74/README.md) `dailymirror.lk`
 * [What is Sri Lanka’s approach to tackle transboundary air pollution?  - EDITORIAL](data/articles/what-is-sri-lanka-s-appr.f0b4f832/README.md) `dailymirror.lk`
+* [Former Ilankai Thamil Arasuk Katchi Leader and Ex- Jaffna MP  “Maavai” Senathirajah Passes away on 29 January  at the age of 82.](data/articles/former-ilankai-thamil-ar.c5bee830/README.md) `dbsjeyaraj.com`
 
 ## 2025-01-29
 
+* [Research: Humble Leaders Inspire Others to Step Up](data/articles/research-humble-leaders.131c0ef7/README.md) `hbr.org`
 * [How Deconstructing Jobs Can Change Your Organization](data/articles/how-deconstructing-jobs.d41ae889/README.md) `hbr.org`
 * [Research: Trying to Pick the “Best of the Best” Is the Wrong Approach](data/articles/research-trying-to-pick.1a5e68ae/README.md) `hbr.org`
 * [Strengthening Sri Lanka’s export sector: Call for strategic Government support](data/articles/strengthening-sri-lanka.9dc5e625/README.md) `ft.lk`

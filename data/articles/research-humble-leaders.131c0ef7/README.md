@@ -1,0 +1,30 @@
+# Research: Humble Leaders Inspire Others to Step Up
+
+[https://hbr.org/2025/01/research-humble-leaders-inspire-others-to-step-up](https://hbr.org/2025/01/research-humble-leaders-inspire-others-to-step-up)
+
+*01:25 PM, Wednesday, January 29, 2025*
+
+Hill Street Studios/Getty Images
+
+Humble leadership is recognized as a powerful asset in today’s business world, fostering teamwork, trust, and employee well-being. New research reveals that humble leaders not only model gracious behavior but also ignite leadership ambition in their subordinates. Through studies conducted in China and several Western countries, the research found that humble leaders who acknowledge mistakes, value team contributions, and welcome feedback significantly enhance their employees’ workplace status, boosting their motivation to lead. This effect is particularly pronounced among highly individualistic employees who prioritize personal uniqueness and growth because they feel more recognized and empowered by humble leaders. However, collectivist-minded employees may not experience the same benefits, highlighting the need for organizations to combine humble leadership with additional leadership development practices to ensure all employees feel empowered and motivated.
+
+Humble leadership has gained recognition as a powerful asset in today’s business world. Humble leaders are celebrated for fostering teamwork, building trust, and enhancing employee well-being. However, our research uncovers a previously undocumented benefit: humble leaders do not just model gracious behavior among their subordinates; they ignite leadership ambition in them, too.
+
+Leading People Course
+
+Accelerate your career with Harvard ManageMentor®. HBR Learning’s online leadership training helps you hone your skills with courses like Leading People. Earn badges to share on LinkedIn and your resume. Access more than 40 courses trusted by Fortune 500 companies.
+
+What you need to know about being in charge.
+
+Learn More & See All Courses
+
+Readers Also Viewed These Items
+
+The Communicating for Success Collection: Craft Clear, Persuasive Messages that Drive Results
+
+HBR Daily Leader: Everyday Wisdom for Exceptional Leadership
+
+Read more on Leadership and managing people
+
+and Leadership styles
+
