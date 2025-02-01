@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-01-31 18:18:35**
+Last Updated **2025-02-01 06:24:51**
+
+## 2025-02-01
+
+* [Ceylon’s untold stories: Why historical fiction matters for modern narratives](data/articles/ceylon-s-untold-stories.d3b70e0b/README.md) `ft.lk`
 
 ## 2025-01-31
 
+* [Get serious about our reserve position to avoid another crisis](data/articles/get-serious-about-our-re.1353a6ee/README.md) `ft.lk`
+* [Navigating growth challenges in Sri Lanka](data/articles/navigating-growth-challe.df16abab/README.md) `ft.lk`
+* [Insuring the uninsurable: Climate risk and role of insurance industry](data/articles/insuring-the-uninsurable.b584b950/README.md) `ft.lk`
+* [Honouring a visionary: In memoriam of Samy M. Pasupati’s extraordinary journey](data/articles/honouring-a-visionary-in.510c5935/README.md) `ft.lk`
+* [DeepSeek might not be such good news for energy after all](data/articles/deepseek-might-not-be-su.e7d92b21/README.md) `technologyreview.com`
 * [Fiscal and redistributive reform: Burden of interest costs](data/articles/fiscal-and-redistributiv.c0c87c2e/README.md) `ft.lk`
 * [Economy, economics and economists](data/articles/economy-economics-and-ec.fb532dc7/README.md) `ft.lk`
 * [Oversight committees for ministries: Where did that come from?](data/articles/oversight-committees-for.dcdaafb7/README.md) `ft.lk`
@@ -22,6 +31,7 @@ Last Updated **2025-01-31 18:18:35**
 * [Collective for Social Media Declaration expresses concerns about lack of clarity on policy reform](data/articles/collective-for-social-me.586c760e/README.md) `ft.lk`
 * [Three questions about the future of US climate tech under Trump](data/articles/three-questions-about-th.cba364b4/README.md) `technologyreview.com`
 * [CEO, appointment and succession: Board’s most critical responsibility](data/articles/ceo-appointment-and-succ.13386c9a/README.md) `ft.lk`
+* [This quantum computer built on server racks paves the way to bigger machines](data/articles/this-quantum-computer-bu.5d0898fe/README.md) `technologyreview.com`
 * [Little Hamdi’s missing kidney still a mystery](data/articles/little-hamdi-s-missing-k.c1f03463/README.md) `dailymirror.lk`
 * [Time to put some of our national heroes on the celebratory list](data/articles/time-to-put-some-of-our.3a1c4b74/README.md) `dailymirror.lk`
 * [What is Sri Lanka’s approach to tackle transboundary air pollution?  - EDITORIAL](data/articles/what-is-sri-lanka-s-appr.f0b4f832/README.md) `dailymirror.lk`
