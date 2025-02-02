@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-02 06:24:37**
+Last Updated **2025-02-02 18:15:55**
+
+## 2025-02-02
+
+* [Senior ITAK Leader  Somasundaram “Maavai” Senathirajah was a Symbol of Tamil Political Resistance Against Majoritarian Hegemony.](data/articles/senior-itak-leader-somas.04e1354f/README.md) `dbsjeyaraj.com`
 
 ## 2025-02-01
 
