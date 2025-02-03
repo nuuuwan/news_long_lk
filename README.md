@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-03 06:24:51**
+Last Updated **2025-02-03 18:18:26**
 
 ## 2025-02-03
 
+* [OpenAI’s new agent can compile detailed reports on practically any topic](data/articles/openai-s-new-agent-can-c.1d1c21dc/README.md) `technologyreview.com`
 * [What will NPP Govt. deliver  for unsung migrant heroes on 77th Independence Day celebration?](data/articles/what-will-npp-govt-deliv.aba59d80/README.md) `ft.lk`
 * [Inflation targeting: CB should now drive vehicle by looking through front windscreen and not at rear view mirror](data/articles/inflation-targeting-cb-s.423c6f70/README.md) `ft.lk`
 * [Gift, grant, and agitation against a ‘great’ empire in its final days: Part 1](data/articles/gift-grant-and-agitation.453494b2/README.md) `ft.lk`
