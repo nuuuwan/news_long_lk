@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-02 18:15:55**
+Last Updated **2025-02-03 06:24:51**
+
+## 2025-02-03
+
+* [What will NPP Govt. deliver  for unsung migrant heroes on 77th Independence Day celebration?](data/articles/what-will-npp-govt-deliv.aba59d80/README.md) `ft.lk`
+* [Inflation targeting: CB should now drive vehicle by looking through front windscreen and not at rear view mirror](data/articles/inflation-targeting-cb-s.423c6f70/README.md) `ft.lk`
+* [Gift, grant, and agitation against a ‘great’ empire in its final days: Part 1](data/articles/gift-grant-and-agitation.453494b2/README.md) `ft.lk`
 
 ## 2025-02-02
 
@@ -19,6 +25,7 @@ Last Updated **2025-02-02 18:15:55**
 * [Insuring the uninsurable: Climate risk and role of insurance industry](data/articles/insuring-the-uninsurable.b584b950/README.md) `ft.lk`
 * [Honouring a visionary: In memoriam of Samy M. Pasupati’s extraordinary journey](data/articles/honouring-a-visionary-in.510c5935/README.md) `ft.lk`
 * [DeepSeek might not be such good news for energy after all](data/articles/deepseek-might-not-be-su.e7d92b21/README.md) `technologyreview.com`
+* [6 Lessons for Startups from a Museum Dedicated to Failure](data/articles/6-lessons-for-startups-f.5b295ff8/README.md) `hbr.org`
 * [Fiscal and redistributive reform: Burden of interest costs](data/articles/fiscal-and-redistributiv.c0c87c2e/README.md) `ft.lk`
 * [Economy, economics and economists](data/articles/economy-economics-and-ec.fb532dc7/README.md) `ft.lk`
 * [Oversight committees for ministries: Where did that come from?](data/articles/oversight-committees-for.dcdaafb7/README.md) `ft.lk`
