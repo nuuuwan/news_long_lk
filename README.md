@@ -2,18 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-04 06:25:12**
+Last Updated **2025-02-04 18:19:38**
 
 ## 2025-02-04
 
+* [Three things to know as the dust settles from DeepSeek](data/articles/three-things-to-know-as.04754bf8/README.md) `technologyreview.com`
 * [“Sri Lanka in Crisis – A Lost Generation” makes powerful return](data/articles/sri-lanka-in-crisis-a-l.57bf3fa1/README.md) `ft.lk`
 * [W.A. Silva’s 135th birth anniversary celebrated with series of literary events honouring enduring legacy](data/articles/w-a-silva-s-135th-birth.bdeb407f/README.md) `ft.lk`
+* [மாவை சேனாதிராஜா: பேரினவாத மேலாதிக்கத்துக்கு எதிரான  தமிழர் அரசியல்  உரிமைப் போராட்டத்தின் ஐந்து தசாப்தங்களுக்கும் அதிகமான சின்னம்](data/articles/ம-வ-ச-ன-த-ர-ஜ-ப-ர-னவ-த-ம.129747f8/README.md) `dbsjeyaraj.com`
 * [Go well Lokka: A final farewell](data/articles/go-well-lokka-a-final-fa.471bed57/README.md) `ft.lk`
 * [So-called ‘deep state’ must be legitimised by Act of Parliament](data/articles/so-called-deep-state-mus.c09a6bb2/README.md) `ft.lk`
 * [IMF’s nod for non-privatisation of SOEs](data/articles/imf-s-nod-for-non-privat.2c0971dc/README.md) `ft.lk`
 
 ## 2025-02-03
 
+* [How to Encourage the Right Kind of Conflict on Your Team](data/articles/how-to-encourage-the-rig.61b28d82/README.md) `hbr.org`
 * [4 Questions to Ask Before You Invest In a Workplace Wellness App](data/articles/4-questions-to-ask-befor.d1c427db/README.md) `hbr.org`
 * [OpenAI’s new agent can compile detailed reports on practically any topic](data/articles/openai-s-new-agent-can-c.1d1c21dc/README.md) `technologyreview.com`
 * [What will NPP Govt. deliver  for unsung migrant heroes on 77th Independence Day celebration?](data/articles/what-will-npp-govt-deliv.aba59d80/README.md) `ft.lk`
@@ -35,7 +38,9 @@ Last Updated **2025-02-04 06:25:12**
 * [Insuring the uninsurable: Climate risk and role of insurance industry](data/articles/insuring-the-uninsurable.b584b950/README.md) `ft.lk`
 * [Honouring a visionary: In memoriam of Samy M. Pasupati’s extraordinary journey](data/articles/honouring-a-visionary-in.510c5935/README.md) `ft.lk`
 * [DeepSeek might not be such good news for energy after all](data/articles/deepseek-might-not-be-su.e7d92b21/README.md) `technologyreview.com`
+* [OpenAI releases its new o3-mini reasoning model for free](data/articles/openai-releases-its-new.67732af9/README.md) `technologyreview.com`
 * [6 Lessons for Startups from a Museum Dedicated to Failure](data/articles/6-lessons-for-startups-f.5b295ff8/README.md) `hbr.org`
+* [How DeepSeek ripped up the AI playbook—and why everyone’s going to follow its lead](data/articles/how-deepseek-ripped-up-t.17e701e9/README.md) `technologyreview.com`
 * [How measuring vaccine hesitancy could help health professionals tackle it](data/articles/how-measuring-vaccine-he.a291c966/README.md) `technologyreview.com`
 * [Fiscal and redistributive reform: Burden of interest costs](data/articles/fiscal-and-redistributiv.c0c87c2e/README.md) `ft.lk`
 * [Economy, economics and economists](data/articles/economy-economics-and-ec.fb532dc7/README.md) `ft.lk`

@@ -1,5 +1,12 @@
 [
   {
+    "title": "Three things to know as the dust settles from DeepSeek",
+    "url": "https://www.technologyreview.com/2025/02/04/1110918/three-things-to-know-as-the-dust-settles-from-deepseek/",
+    "ut": 1738625400.0,
+    "dir_path_unix": "data/articles/three-things-to-know-as.04754bf8",
+    "time_str_formatted": "05:00 AM, Tuesday, February 04, 2025"
+  },
+  {
     "title": "\u201cSri Lanka in Crisis \u2013 A Lost Generation\u201d makes powerful return",
     "url": "https://www.ft.lk/opinion/Sri-Lanka-in-Crisis-A-Lost-Generation-makes-powerful-return/14-772624",
     "ut": 1738617668.0,
@@ -12,6 +19,13 @@
     "ut": 1738616872.0,
     "dir_path_unix": "data/articles/w-a-silva-s-135th-birth.bdeb407f",
     "time_str_formatted": "02:37 AM, Tuesday, February 04, 2025"
+  },
+  {
+    "title": "\u0bae\u0bbe\u0bb5\u0bc8 \u0b9a\u0bc7\u0ba9\u0bbe\u0ba4\u0bbf\u0bb0\u0bbe\u0b9c\u0bbe: \u0baa\u0bc7\u0bb0\u0bbf\u0ba9\u0bb5\u0bbe\u0ba4 \u0bae\u0bc7\u0bb2\u0bbe\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b8e\u0ba4\u0bbf\u0bb0\u0bbe\u0ba9  \u0ba4\u0bae\u0bbf\u0bb4\u0bb0\u0bcd \u0b85\u0bb0\u0b9a\u0bbf\u0baf\u0bb2\u0bcd  \u0b89\u0bb0\u0bbf\u0bae\u0bc8\u0baa\u0bcd \u0baa\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0b90\u0ba8\u0bcd\u0ba4\u0bc1 \u0ba4\u0b9a\u0bbe\u0baa\u0bcd\u0ba4\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0b85\u0ba4\u0bbf\u0b95\u0bae\u0bbe\u0ba9 \u0b9a\u0bbf\u0ba9\u0bcd\u0ba9\u0bae\u0bcd",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85488",
+    "ut": 1738611691.0,
+    "dir_path_unix": "data/articles/\u0bae-\u0bb5-\u0b9a-\u0ba9-\u0ba4-\u0bb0-\u0b9c-\u0baa-\u0bb0-\u0ba9\u0bb5-\u0ba4-\u0bae.129747f8",
+    "time_str_formatted": "01:11 AM, Tuesday, February 04, 2025"
   },
   {
     "title": "Go well Lokka: A final farewell",
@@ -33,6 +47,13 @@
     "ut": 1738610128.0,
     "dir_path_unix": "data/articles/imf-s-nod-for-non-privat.2c0971dc",
     "time_str_formatted": "12:45 AM, Tuesday, February 04, 2025"
+  },
+  {
+    "title": "How to Encourage the Right Kind of Conflict on Your Team",
+    "url": "https://hbr.org/2025/02/how-to-encourage-the-right-kind-of-conflict-on-your-team",
+    "ut": 1738568725.0,
+    "dir_path_unix": "data/articles/how-to-encourage-the-rig.61b28d82",
+    "time_str_formatted": "01:15 PM, Monday, February 03, 2025"
   },
   {
     "title": "4 Questions to Ask Before You Invest In a Workplace Wellness App",
@@ -119,11 +140,25 @@
     "time_str_formatted": "04:13 PM, Friday, January 31, 2025"
   },
   {
+    "title": "OpenAI releases its new o3-mini reasoning model for free",
+    "url": "https://www.technologyreview.com/2025/01/31/1110757/openai-makes-its-reasoning-model-for-free/",
+    "ut": 1738312200.0,
+    "dir_path_unix": "data/articles/openai-releases-its-new.67732af9",
+    "time_str_formatted": "02:00 PM, Friday, January 31, 2025"
+  },
+  {
     "title": "6 Lessons for Startups from a Museum Dedicated to Failure",
     "url": "https://hbr.org/2025/01/6-lessons-for-startups-from-a-museum-dedicated-to-failure",
     "ut": 1738309503.0,
     "dir_path_unix": "data/articles/6-lessons-for-startups-f.5b295ff8",
     "time_str_formatted": "01:15 PM, Friday, January 31, 2025"
+  },
+  {
+    "title": "How DeepSeek ripped up the AI playbook\u2014and why everyone\u2019s going to follow its lead",
+    "url": "https://www.technologyreview.com/2025/01/31/1110740/how-deepseek-ripped-up-the-ai-playbook-and-why-everyones-going-to-follow-it/",
+    "ut": 1738303097.0,
+    "dir_path_unix": "data/articles/how-deepseek-ripped-up-t.17e701e9",
+    "time_str_formatted": "11:28 AM, Friday, January 31, 2025"
   },
   {
     "title": "How measuring vaccine hesitancy could help health professionals tackle it",
