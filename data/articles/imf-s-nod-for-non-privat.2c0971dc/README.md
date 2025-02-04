@@ -1,0 +1,38 @@
+# IMF’s nod for non-privatisation of SOEs
+
+[https://www.ft.lk/columns/IMF-s-nod-for-non-privatisation-of-SOEs/4-772597](https://www.ft.lk/columns/IMF-s-nod-for-non-privatisation-of-SOEs/4-772597)
+
+*12:45 AM, Tuesday, February 04, 2025*
+
+IMF’s retraction within three months of the new Government shows not only its confidence in AKD/NNP governance but also its appreciation of what the Government has accomplished so far
+
+Sri Lanka needs to engage in economic planning. The shortages that are currently experienced in essentials such as rice, coconuts, eggs and salt are not because the country has no resources to achieve self-sufficiency in those items but because of sheer neglect by previous Governments which hoped that market forces would take care of them. The market needs State direction under a strategic economic plan drawn by the State
+
+IMF’s willingness to remove its conditionality of privatising loss-making State-Owned Enterprises (SOEs) to continue funding Sri Lanka’s economic restructuring program is another testimony to its growing confidence on the new Government’s determination and ability to eradicate corruption and improve efficiency in economic management and political governance. That conditionality when originally presented as part of the IMF package to the then President Ranil Wickremesinghe and Government under him they accepted it without a murmur, because they didn’t have the courage and resolve to stop the rot that was bankrupting SOEs and making them a pain on national budgeting.
+
+IMF’s retraction within three months of the new Government shows not only its confidence in AKD/NNP governance but also its appreciation of what the Government has accomplished so far. In light of this development, members of the parliament opposition, most of whom are unelected and entered through the backdoor, should stop their puerile criticisms of trivial shortcomings from a team whose learning curve is declining rapidly. Let the dogs bark, caravan should move.
+
+Unpredictability of happenings outside the country
+
+However, the economic challenge is formidable given the unpredictability of happenings outside the country. Who would have expected for example that a country which had been fiercely advocating free trade and open economy as substitutes to foreign aid suddenly declare a tariff war as President Trump has done in USA? Even IMF would have been caught by surprise. It is going to worsen the cost-of-living pandemic all over the world.
+
+Just recently, when addressing the Export Development Council of Ministers, President AKD announced that the country should earn an export revenue of $ 30 billion by year 2030. In 2024 that revenue reached the highest level so far of $ 16.1 billion and is expected to increase to $ 18.2 in 2025. When that announcement was made Trump was yet to declare his tariff war against imports particularly from Canada, Mexico, and China. This would have wider ramifications for smaller economies like Sri Lanka whose apparel industry for example rely substantially on US market. Without earning surplus in balance of trade Sri Lanka cannot get out of its debt burden. But what could any Government do in the face of persistent external volatility? This is why economic predictions are like shooting a rusty gun at a bird flying in dark clouds. Kenneth Galbraith repeatedly said that economists make astrology respectable. Even then a methodical approach with careful planning could achieve a lot to achieve set targets. This is what the new Government needs to do. The forthcoming Budget expected to be presented on the 17th this month should throw some light on which direction the Government is heading.
+
+Not a bunch of ideological crusaders
+
+Contrary to what the critics have been saying, President AKD and his NPP team have shown that they are pragmatists and not a bunch of ideological crusaders. AKD’s foreign travels to India and China so far and to the Middle East soon are unavoidable in search of new and friendly destinations for Sri Lankan exports and new sources for foreign investment. What is unique about his travels is that they are extremely economical unlike the lavish journeys undertaken by former presidents.
+
+Sri Lanka has a lot to learn from China’s economic experience of how an economy conditioned by ideology and remained comparatively backward for long rose to a level to challenge the economic might of America within a period of fifty years. China embraced the market after 1976 but did not allow the market to determine the destiny of the economy. Instead, the market was allowed to operate within the parameters set by the state’s Five-Year Plans.
+
+Even the famous Walmart retail chain for example when entered China in 1996 was not allowed to open its retail stores wherever it wanted to but was directed by the government where it should. Accordingly, the first store was opened in the city of Shenzhen. Today, after reaching a peak of 424 stores in 2018 the number of Walmart retail stores has fallen to 322 in 2023, and Walmart has integrated with the local Meituan’s distribution platform.
+
+One may argue that China is such a large country and economy and therefore a small economy like Sri Lanka cannot hope for such achievement. The point to understand is not the scale but the methodology. In that sense, what is good for the goose should also be good for the gander.
+
+Economic planning has become a discredited exercise especially after neo-liberalism took control of major economies. Those economies today are in trouble. President Trump’s desperate moves not only to introduce trade barriers but also to engage in border expansion like his wish to make Canada the 51st state of USA and take Greenland from Denmark illustrate the failure of US honeymoon with free market capitalism. His policy towards immigration is also partly because of the narrowing capacity of US economy to sustain larger population.
+
+Sri Lanka needs to engage in economic planning. The shortages that are currently experienced in essentials such as rice, coconuts, eggs and salt are not because the country has no resources to achieve self-sufficiency in those items but because of sheer neglect by previous Governments which hoped that market forces would take care of them. The market needs State direction under a strategic economic plan drawn by the State.
+
+True that the previous planning experience under the Sirimavo Leftist Coalition was a total disaster. But that was because of the plan’s inflexibility and planners’ slavishness to ideology. Unlike those ideologues the current team of leaders are proving to be quick learners and pragmatists. With people’s backing there is hope that the Sri Lankan economy will emerge more stable, resourceful and equitable after five years.
+
+(The writer is a retired economist, W. Australia.)
+

@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-03 18:18:26**
+Last Updated **2025-02-04 06:25:12**
+
+## 2025-02-04
+
+* [“Sri Lanka in Crisis – A Lost Generation” makes powerful return](data/articles/sri-lanka-in-crisis-a-l.57bf3fa1/README.md) `ft.lk`
+* [W.A. Silva’s 135th birth anniversary celebrated with series of literary events honouring enduring legacy](data/articles/w-a-silva-s-135th-birth.bdeb407f/README.md) `ft.lk`
+* [Go well Lokka: A final farewell](data/articles/go-well-lokka-a-final-fa.471bed57/README.md) `ft.lk`
+* [So-called ‘deep state’ must be legitimised by Act of Parliament](data/articles/so-called-deep-state-mus.c09a6bb2/README.md) `ft.lk`
+* [IMF’s nod for non-privatisation of SOEs](data/articles/imf-s-nod-for-non-privat.2c0971dc/README.md) `ft.lk`
 
 ## 2025-02-03
 
+* [4 Questions to Ask Before You Invest In a Workplace Wellness App](data/articles/4-questions-to-ask-befor.d1c427db/README.md) `hbr.org`
 * [OpenAI’s new agent can compile detailed reports on practically any topic](data/articles/openai-s-new-agent-can-c.1d1c21dc/README.md) `technologyreview.com`
 * [What will NPP Govt. deliver  for unsung migrant heroes on 77th Independence Day celebration?](data/articles/what-will-npp-govt-deliv.aba59d80/README.md) `ft.lk`
 * [Inflation targeting: CB should now drive vehicle by looking through front windscreen and not at rear view mirror](data/articles/inflation-targeting-cb-s.423c6f70/README.md) `ft.lk`
@@ -27,6 +36,7 @@ Last Updated **2025-02-03 18:18:26**
 * [Honouring a visionary: In memoriam of Samy M. Pasupati’s extraordinary journey](data/articles/honouring-a-visionary-in.510c5935/README.md) `ft.lk`
 * [DeepSeek might not be such good news for energy after all](data/articles/deepseek-might-not-be-su.e7d92b21/README.md) `technologyreview.com`
 * [6 Lessons for Startups from a Museum Dedicated to Failure](data/articles/6-lessons-for-startups-f.5b295ff8/README.md) `hbr.org`
+* [How measuring vaccine hesitancy could help health professionals tackle it](data/articles/how-measuring-vaccine-he.a291c966/README.md) `technologyreview.com`
 * [Fiscal and redistributive reform: Burden of interest costs](data/articles/fiscal-and-redistributiv.c0c87c2e/README.md) `ft.lk`
 * [Economy, economics and economists](data/articles/economy-economics-and-ec.fb532dc7/README.md) `ft.lk`
 * [Oversight committees for ministries: Where did that come from?](data/articles/oversight-committees-for.dcdaafb7/README.md) `ft.lk`
@@ -398,6 +408,7 @@ Last Updated **2025-02-03 18:18:26**
 * [5 Ways to Deal with Flaky Colleagues Early in Your Career](data/articles/5-ways-to-deal-with-flak.b707366f/README.md) `hbr.org`
 * [Research: When CEOs Use War Metaphors, Analysts Worry](data/articles/research-when-ceos-use-w.cb48d1f7/README.md) `hbr.org`
 * [Stem-cell therapies that work: 10 Breakthrough Technologies 2025](data/articles/stem-cell-therapies-that.d0c24a48/README.md) `technologyreview.com`
+* [10 Breakthrough Technologies 2025](data/articles/10-breakthrough-technolo.bff71104/README.md) `technologyreview.com`
 * [Green steel: 10 Breakthrough Technologies 2025](data/articles/green-steel-10-breakthro.06551597/README.md) `technologyreview.com`
 * [Unintentional setbacks: How bureaucracies can contribute to policy failures during implementation](data/articles/unintentional-setbacks-h.8315ea38/README.md) `ft.lk`
 * [Do they know it’s Christmas?](data/articles/do-they-know-it-s-christ.188ffe92/README.md) `ft.lk`
