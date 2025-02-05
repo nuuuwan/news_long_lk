@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-04 18:19:38**
+Last Updated **2025-02-05 06:25:09**
+
+## 2025-02-05
+
+* [Opposition in denial](data/articles/opposition-in-denial.84a070e2/README.md) `ft.lk`
+* [Why should deadly mosquitos win war against humans?](data/articles/why-should-deadly-mosqui.21299a15/README.md) `ft.lk`
+* [How smart cities could revolutionise Sri Lanka’s urban landscape](data/articles/how-smart-cities-could-r.fd604976/README.md) `ft.lk`
+* [CEO’s model for digital transformation: Reimagining your business](data/articles/ceo-s-model-for-digital.26b42f18/README.md) `ft.lk`
+* [DeepSeek disruption: Lessons for business firms and nations](data/articles/deepseek-disruption-less.50144523/README.md) `ft.lk`
 
 ## 2025-02-04
 
+* [Research: How Boards Can Increase CEO Accountability](data/articles/research-how-boards-can.17277425/README.md) `hbr.org`
+* [7 Habits to Stay Focused in a World Full of Distractions](data/articles/7-habits-to-stay-focused.aba223e8/README.md) `hbr.org`
+* [How the Rubin Observatory will help us understand dark matter and dark energy](data/articles/how-the-rubin-observator.e6121240/README.md) `technologyreview.com`
 * [Three things to know as the dust settles from DeepSeek](data/articles/three-things-to-know-as.04754bf8/README.md) `technologyreview.com`
 * [“Sri Lanka in Crisis – A Lost Generation” makes powerful return](data/articles/sri-lanka-in-crisis-a-l.57bf3fa1/README.md) `ft.lk`
 * [W.A. Silva’s 135th birth anniversary celebrated with series of literary events honouring enduring legacy](data/articles/w-a-silva-s-135th-birth.bdeb407f/README.md) `ft.lk`

@@ -1,0 +1,24 @@
+# Research: How Boards Can Increase CEO Accountability
+
+[https://hbr.org/2025/02/research-how-boards-can-increase-ceo-accountability](https://hbr.org/2025/02/research-how-boards-can-increase-ceo-accountability)
+
+*01:25 PM, Tuesday, February 04, 2025*
+
+Kenishirotie/Getty Images
+
+CEOs are seldom dismissed when the company they lead underperforms, in part because they wield considerable power over the board. So how can boards more effectively enforce CEO accountability in the face of poor performance? The authors recently analyzed boards of 865 U.S.-listed manufacturing firms between 2010 and 2020 and identified an often-overlooked source of accountability principles: the military. Boards with directors who have military experience, they found, are more decisive in addressing CEO underperformance, often opting to dismiss the CEO when necessary. In this article, they discuss three key accountability principles that these directors have brought with them from the military — and explain how any board can make use of these principles in overseeing their company’s CEO.
+
+When a company starts to struggle, all eyes turn to the CEO. Shareholders demand results, employees seek direction, and internal contenders begin analyzing vulnerabilities and positioning themselves for the top job. There’s a strong expectation for the CEO to resolve the problem or face removal. But not always in the boardroom, where directors are reluctant to make bold, decisive moves and instead engage in drawn-out debates that sidestep critical issues. Even in the face of recurring underperformance, many boards choose to retain their CEOs for extended periods.
+
+Readers Also Viewed These Items
+
+Why Are We Here?: Creating a Work Culture Everyone Wants
+
+The Execution Premium: Linking Strategy to Operations for Competitive Advantage
+
+Read more on Corporate governance
+
+Management philosophy
+
+and Leadership development
+
