@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-05 18:19:50**
+Last Updated **2025-02-06 06:25:16**
+
+## 2025-02-06
+
+* [Promoting breeds vulnerable to CLSD has to stop](data/articles/promoting-breeds-vulnera.bcc856a8/README.md) `ft.lk`
+* [Harry J: The Sri Lankan Jack Welch](data/articles/harry-j-the-sri-lankan-j.f923cb3e/README.md) `ft.lk`
+* [Chaos & Pattern: Godfrey Gunatilleke’s cathedral of words](data/articles/chaos-pattern-godfrey-gu.368edb0a/README.md) `ft.lk`
 
 ## 2025-02-05
 
+* [Don’t Let Bad Time Management Undermine Your Leadership](data/articles/don-t-let-bad-time-manag.5d76367e/README.md) `hbr.org`
+* [Supersonic planes are inching toward takeoff. That could be a problem.](data/articles/supersonic-planes-are-in.22a7c9aa/README.md) `technologyreview.com`
 * [Opposition in denial](data/articles/opposition-in-denial.1a5025c3/README.md) `ft.lk`
 * [Opposition in denial](data/articles/opposition-in-denial.84a070e2/README.md) `ft.lk`
 * [Why should deadly mosquitos win war against humans?](data/articles/why-should-deadly-mosqui.21299a15/README.md) `ft.lk`
@@ -17,6 +25,7 @@ Last Updated **2025-02-05 18:19:50**
 
 ## 2025-02-04
 
+* [What DeepSeek Signals About Where AI Is Headed](data/articles/what-deepseek-signals-ab.1b04a98a/README.md) `hbr.org`
 * [Research: How Boards Can Increase CEO Accountability](data/articles/research-how-boards-can.17277425/README.md) `hbr.org`
 * [7 Habits to Stay Focused in a World Full of Distractions](data/articles/7-habits-to-stay-focused.aba223e8/README.md) `hbr.org`
 * [Four Chinese AI startups to watch beyond DeepSeek](data/articles/four-chinese-ai-startups.e88c67f7/README.md) `technologyreview.com`
@@ -33,6 +42,7 @@ Last Updated **2025-02-05 18:19:50**
 
 * [How to Encourage the Right Kind of Conflict on Your Team](data/articles/how-to-encourage-the-rig.61b28d82/README.md) `hbr.org`
 * [4 Questions to Ask Before You Invest In a Workplace Wellness App](data/articles/4-questions-to-ask-befor.d1c427db/README.md) `hbr.org`
+* [Anthropic has a new way to protect large language models against jailbreaks](data/articles/anthropic-has-a-new-way.b9ad57e6/README.md) `technologyreview.com`
 * [OpenAI’s new agent can compile detailed reports on practically any topic](data/articles/openai-s-new-agent-can-c.1d1c21dc/README.md) `technologyreview.com`
 * [What will NPP Govt. deliver  for unsung migrant heroes on 77th Independence Day celebration?](data/articles/what-will-npp-govt-deliv.aba59d80/README.md) `ft.lk`
 * [Inflation targeting: CB should now drive vehicle by looking through front windscreen and not at rear view mirror](data/articles/inflation-targeting-cb-s.423c6f70/README.md) `ft.lk`

@@ -1,5 +1,40 @@
 [
   {
+    "title": "Promoting breeds vulnerable to CLSD has to stop",
+    "url": "https://www.ft.lk/opinion/Promoting-breeds-vulnerable-to-CLSD-has-to-stop/14-772700",
+    "ut": 1738797509.0,
+    "dir_path_unix": "data/articles/promoting-breeds-vulnera.bcc856a8",
+    "time_str_formatted": "04:48 AM, Thursday, February 06, 2025"
+  },
+  {
+    "title": "Harry J: The Sri Lankan Jack Welch",
+    "url": "https://www.ft.lk/columns/Harry-J-The-Sri-Lankan-Jack-Welch/4-772699",
+    "ut": 1738797392.0,
+    "dir_path_unix": "data/articles/harry-j-the-sri-lankan-j.f923cb3e",
+    "time_str_formatted": "04:46 AM, Thursday, February 06, 2025"
+  },
+  {
+    "title": "Chaos & Pattern: Godfrey Gunatilleke\u2019s cathedral of words",
+    "url": "https://www.ft.lk/columns/Chaos-Pattern-Godfrey-Gunatilleke-s-cathedral-of-words/4-772697",
+    "ut": 1738796722.0,
+    "dir_path_unix": "data/articles/chaos-pattern-godfrey-gu.368edb0a",
+    "time_str_formatted": "04:35 AM, Thursday, February 06, 2025"
+  },
+  {
+    "title": "Don\u2019t Let Bad Time Management Undermine Your Leadership",
+    "url": "https://hbr.org/2025/02/dont-let-bad-time-management-undermine-your-leadership",
+    "ut": 1738741515.0,
+    "dir_path_unix": "data/articles/don-t-let-bad-time-manag.5d76367e",
+    "time_str_formatted": "01:15 PM, Wednesday, February 05, 2025"
+  },
+  {
+    "title": "Supersonic planes are inching toward takeoff. That could be a problem.",
+    "url": "https://www.technologyreview.com/2025/02/05/1111002/supersonic-planes-climate/",
+    "ut": 1738736096.0,
+    "dir_path_unix": "data/articles/supersonic-planes-are-in.22a7c9aa",
+    "time_str_formatted": "11:44 AM, Wednesday, February 05, 2025"
+  },
+  {
     "title": "Opposition in denial",
     "url": "https://www.ft.lk/columns/Opposition-in-denial/4-772667",
     "ut": 1738713988.0,
@@ -54,6 +89,13 @@
     "ut": 1738698065.0,
     "dir_path_unix": "data/articles/sri-lanka-has-been-waiti.a6e0a4e8",
     "time_str_formatted": "01:11 AM, Wednesday, February 05, 2025"
+  },
+  {
+    "title": "What DeepSeek Signals About Where AI Is Headed",
+    "url": "https://hbr.org/2025/02/what-deepseek-signals-about-where-ai-is-headed",
+    "ut": 1738667884.0,
+    "dir_path_unix": "data/articles/what-deepseek-signals-ab.1b04a98a",
+    "time_str_formatted": "04:48 PM, Tuesday, February 04, 2025"
   },
   {
     "title": "Research: How Boards Can Increase CEO Accountability",
@@ -145,6 +187,13 @@
     "ut": 1738568142.0,
     "dir_path_unix": "data/articles/4-questions-to-ask-befor.d1c427db",
     "time_str_formatted": "01:05 PM, Monday, February 03, 2025"
+  },
+  {
+    "title": "Anthropic has a new way to protect large language models against jailbreaks",
+    "url": "https://www.technologyreview.com/2025/02/03/1110849/anthropic-has-a-new-way-to-protect-large-language-models-against-jailbreaks/",
+    "ut": 1738562414.0,
+    "dir_path_unix": "data/articles/anthropic-has-a-new-way.b9ad57e6",
+    "time_str_formatted": "11:30 AM, Monday, February 03, 2025"
   },
   {
     "title": "OpenAI\u2019s new agent can compile detailed reports on practically any topic",
