@@ -2,16 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-06 06:25:16**
+Last Updated **2025-02-06 18:20:15**
 
 ## 2025-02-06
 
+* [Progressive taxation policies for new era](data/articles/progressive-taxation-pol.97ac1bab/README.md) `ft.lk`
+* [What a return to supersonic flight could mean for climate change](data/articles/what-a-return-to-superso.fadbe15a/README.md) `technologyreview.com`
 * [Promoting breeds vulnerable to CLSD has to stop](data/articles/promoting-breeds-vulnera.bcc856a8/README.md) `ft.lk`
 * [Harry J: The Sri Lankan Jack Welch](data/articles/harry-j-the-sri-lankan-j.f923cb3e/README.md) `ft.lk`
 * [Chaos & Pattern: Godfrey Gunatilleke’s cathedral of words](data/articles/chaos-pattern-godfrey-gu.368edb0a/README.md) `ft.lk`
 
 ## 2025-02-05
 
+* [The Challenge of Navigating U.S. Employment Law in 2025](data/articles/the-challenge-of-navigat.caa0e3ca/README.md) `hbr.org`
 * [Don’t Let Bad Time Management Undermine Your Leadership](data/articles/don-t-let-bad-time-manag.5d76367e/README.md) `hbr.org`
 * [Supersonic planes are inching toward takeoff. That could be a problem.](data/articles/supersonic-planes-are-in.22a7c9aa/README.md) `technologyreview.com`
 * [Opposition in denial](data/articles/opposition-in-denial.1a5025c3/README.md) `ft.lk`
@@ -66,6 +69,7 @@ Last Updated **2025-02-06 06:25:16**
 * [OpenAI releases its new o3-mini reasoning model for free](data/articles/openai-releases-its-new.67732af9/README.md) `technologyreview.com`
 * [6 Lessons for Startups from a Museum Dedicated to Failure](data/articles/6-lessons-for-startups-f.5b295ff8/README.md) `hbr.org`
 * [How DeepSeek ripped up the AI playbook—and why everyone’s going to follow its lead](data/articles/how-deepseek-ripped-up-t.17e701e9/README.md) `technologyreview.com`
+* [Qatar plays key role in Israel-Hamas ceasefire deal](data/articles/qatar-plays-key-role-in.0439f9aa/README.md) `eiu.com`
 * [How measuring vaccine hesitancy could help health professionals tackle it](data/articles/how-measuring-vaccine-he.a291c966/README.md) `technologyreview.com`
 * [Fiscal and redistributive reform: Burden of interest costs](data/articles/fiscal-and-redistributiv.c0c87c2e/README.md) `ft.lk`
 * [Economy, economics and economists](data/articles/economy-economics-and-ec.fb532dc7/README.md) `ft.lk`
@@ -78,6 +82,7 @@ Last Updated **2025-02-06 06:25:16**
 * [Why DeepSeek Shouldn’t Have Been a Surprise](data/articles/why-deepseek-shouldn-t-h.ff6bfee9/README.md) `hbr.org`
 * [5 Signs Your Optimism Is Hurting Your Team](data/articles/5-signs-your-optimism-is.acd4a777/README.md) `hbr.org`
 * [Research: What Explains the “Vibecession”?](data/articles/research-what-explains-t.354c226c/README.md) `hbr.org`
+* [Fed pauses, but rate-cutting cycle is not over](data/articles/fed-pauses-but-rate-cutt.8b411e47/README.md) `eiu.com`
 * [Will NPP neutralise Namal?  Will UNP sabotage Sajith?](data/articles/will-npp-neutralise-nama.7613078d/README.md) `ft.lk`
 * [Is GDP the only metric to measure success of a country?](data/articles/is-gdp-the-only-metric-t.124bbb16/README.md) `ft.lk`
 * [Collective for Social Media Declaration expresses concerns about lack of clarity on policy reform](data/articles/collective-for-social-me.586c760e/README.md) `ft.lk`
@@ -109,6 +114,7 @@ Last Updated **2025-02-06 06:25:16**
 * [Sri Lankan Navy Arrests 13 Indians  Poaching in  Lankan Waters off Valvettithurai; Two Fishermen Slightly Injured in Accidental Fire Hospitalised; Indian Foreign Ministry Summons Sri Lankan acting High Commissioner in New Delhi and Lodges Strong Protest](data/articles/sri-lankan-navy-arrests.c1845911/README.md) `dbsjeyaraj.com`
 * [3 Policies to Guide a Pro-Growth, Pro-Worker Economy Under Trump](data/articles/3-policies-to-guide-a-pr.cc9e6e48/README.md) `hbr.org`
 * [Mice with two dads have been created using CRISPR](data/articles/mice-with-two-dads-have.475d7061/README.md) `technologyreview.com`
+* [What DeepSeek means for AI](data/articles/what-deepseek-means-for.c2a15252/README.md) `eiu.com`
 * [AI’s energy obsession just got a reality check](data/articles/ai-s-energy-obsession-ju.0007828a/README.md) `technologyreview.com`
 * [Restart Sri Lanka with Startup  Sri Lanka: Leveraging tax benefits  to foster innovation and growth](data/articles/restart-sri-lanka-with-s.770e383a/README.md) `ft.lk`
 * [Sri Lanka has higher corporate tax rate and lower revenue collection](data/articles/sri-lanka-has-higher-cor.21a3a4b3/README.md) `ft.lk`
