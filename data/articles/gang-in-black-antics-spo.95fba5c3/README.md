@@ -1,0 +1,84 @@
+# Gang in black antics spoil ITAK leader Maavai Senathirajah’s funeral
+
+[https://www.ft.lk/columns/Gang-in-black-antics-spoil-ITAK-leader-Maavai-Senathirajah-s-funeral/4-772764](https://www.ft.lk/columns/Gang-in-black-antics-spoil-ITAK-leader-Maavai-Senathirajah-s-funeral/4-772764)
+
+*05:58 AM, Friday, February 07, 2025*
+
+Somasundaram Senathirajah
+
+Former Jaffna district Parliamentarian and ex-Ilankai Thamil Arasuk Katchi (ITAK) President Somasundaram Senathirajah known widely as “Maavai” Senathirajah passed away in the Intensive Care Unit of the Jaffna Teaching Hospital on 29 January 2025. The veteran Tamil political leader’s funeral was held at his residence in Maaviddapuram on 2 February 2025. The cremation was at the Thanchankaadu Hindu cemetery in Maaviddapuram on the same day.
+
+A very large number of people including politicians of different hues paid their respects and also participated in the funeral proceedings. Various condolence messages were also issued. Among those who paid their respects personally in the days prior to the funeral ceremony were President Anura Kumara Dissanayake, Sri Lanka Muslim Congress leader Rauff Hakeem and Sri Lanka Podujana Peramuna (SLPP) national list MP Namal Rajapaksa.
+
+Several political party leaders and representatives spoke at the funeral on Sunday 2 February. These included Tamil Progressive Alliance (TPA) President Mano Ganesan, All Ceylon Makkal Congress (ACMC) leader Rishad Bathiudeen, Ceylon Workers Congress (CWC) General-Secretary Jeevan Thondaman, People’s Liberation Organization of Tamil Eelam (PLOTE) leader Dharmalingam Siddharthan, Eelam People’s Revolutionary Liberation Front (EPRLF) leader Suresh Premachandran and United National Party (UNP) Chairman Wajira Abeywardana who represented party leader and former president Ranil Wickremesinghe.
+
+Maavai Senathirajah born on 27 October 1942, became a member of the Ilankai Thamil Arasuk Katchi known in English as the Federal Party (FP) in 1960 as an 18-year-old student. He served as the ITAK’s youth front leader, general secretary and president at different times. As a youthful political activist Senathirajah was involved in many non-violent political protests and suffered imprisonment for nearly seven years in eight different prisons. Senathirajah also served as a parliamentarian for 25 years.
+
+Maavai Senathirajah was the last of the ITAK stalwarts who had been active in the party from the days of co-founder cum leader Samuel James Veluppillai Chelvanayagam. Maavai was a veteran of 65 years vintage in the ITAK. Yet his body was not laid in state for people to pay their respects at the ITAK headquarters on Martin Road, Jaffna. Furthermore a large number of ITAK frontline leaders including the party’s acting leader C.V.K. Sivagnanam, Acting Secretary Dr. P. Sathialingam, Party Spokesperson M.A. Sumanthiran and Administrative Secretary Xavier Kulanayagam were not present at the funeral on Sunday.
+
+Gang dressed in black
+
+A key reason for many ITAK party leaders and stalwarts being absent from the funeral was due to a campaign of harassment and intimidation. A gang of intoxicated thugs dressed in black had been accosting and threatening some people arriving at or departing from the funeral house. There had been a few scuffles also. This was on Friday and Saturday before the funeral on Sunday.
+
+It was due to this that many ITAK leaders and senior stalwarts avoided the funeral. It was easily possible for them to have countered the black gang’s violence by bringing along their supporters in large numbers. This may have resulted in a violent confrontation. The ITAK seniors did not want that to happen as the sanctity of the funeral would have been violated. It would have been an insult to Senathirajah’s memory.
+
+Besides no decent person would be a part of any act disrupting a solemn funeral.
+
+As a result many people who had associated with Maavai for several decades and had been helpful to him in many ways did not attend the funeral. A typical example in this regard is ITAK Administrative Secretary Xavier Kulanayagam whose relationship with Maavai has been unique.
+
+So most of the ITAK seniors and prominent leaders kept away from the funeral. Some like Sivagnanam, Sathiyalingam and Sumanthiran had earlier visited the Senathirajah residence and condoled with the family. They had been graciously received by Maavai’s wife Bavaani, daughter Tharaka and sons Kalaiamuthan and Aaraavamuthan.
+
+Another despicable act was also perpetrated during the funeral. Several banners with the images of 18 persons were hung in the vicinity of the funeral house. There was a caption stating that these people were responsible for the death of Senathirajah. They were warned not to attend the funeral. Former Valigamam north Pradeshiya Sabha Chairman Sukirthan pulled down most of these banners when the funeral was in progress. Yet two banners were prominently displayed at the Thellippalai junction and at the Thachchankaadu cemetery.
+
+Who were these 18 persons and why were they being blamed for Maavai’s death? The display of banners was part of an insidious plot to tarnish the image of leading ITAK office-bearers. All 18 persons being unfairly accused are members of the ITAK’s governing body the “Mathiya Seyal Kuzhu” or central working committee. What had happened was this.
+
+Maavai Senathirajah was a much confused man during the final phase of his life. A coterie within the ITAK – aided and abetted by extraneous elements – was allegedly manipulating him in a bid to undermine a faction of the ITAK. Maavai had been persuaded to announce his resignation as ITAK President shortly before the 2024 Parliamentary election. He had then remained aloof from most ITAK candidates except Sivagnanam Shritharan. He was also perceived as being supportive of a breakaway group of the ITAK contesting as independents under the mango symbol.
+
+Most members of the ITAK were annoyed with Senathirajah’s conduct. They wanted Senathirajah’s resignation letter to be accepted and acted upon. The party secy Dr. Sathialingam therefore sent a letter to Senathirajah querying whether his resignation letter was to be accepted. There was no response. Then 18 members of the Central Working Committee wrote a letter urging that Senathirajah’s resignation be accepted. A delegation led by former Northern Provincial Councillor and lawyer Kesavan Sayanthan went to Maavai and requested him to retire from office gracefully.
+
+Thereafter Senathirajah’s son Kalaiamuthan interceded with the party on his father’s behalf. He wanted an honourable and dignified exit for Maavai. This was agreed to. Senathirajah quit the ITAK presidency voluntarily. The senior vice president C.V.K. Sivagnanam was elected ITAK acting leader. Senathirajah was made the head of the 12-member Politburo. There was also a move to bestow the title of “Perunthalaiver” (great leader) on Senathirajah. This proposal was shot down by Sivagnanam Shritharan on the grounds that there was no such enabling provision in the ITAK party constitution.
+
+Unfortunately Senathirajah suffered a brain concussion after a fall in the bathroom of his residence at Maaviddapuram on 26 January. He was admitted to the Thellippalai Base Hospital where a brain haemorrhage was detected. Senathirajah was then transferred to the Jaffna Teaching Hospital and placed under intensive care. He passed away on 29 January without regaining consciousness.
+
+“Dirty” campaign launched
+
+Maavai’s fall and hospitalisation paved the way for a “dirty” campaign to be launched. It was alleged that the letter signed by 18 Central Working Committee members and its consequences had affected Senathirajah badly. It was said without any substantial evidence that it was the impact of this letter which caused Senathirajah to slip and fall in the bathroom. As such the 18 signatories were to blame as the cause of Maavai’s death. This vicious campaign was conducted via social media and YouTube.
+
+It is this campaign that was continued at the time of the funeral. A group of young men was lodged in a house about 150 to 200 metres away from Maavai Senathirajah’s house. They were dressed in black trousers and black tee-shirts and shirts. The black gang was a group of “outsiders” enjoying the patronage of some other politicians in the ITAK. Some of them have been identified as being from Kilinochchi and Batticaloa.
+
+Members of this gang in black intimidated and threatened persons attending the funeral. Some were accosted while arriving and others when departing. It is suspected that the son of an ITAK parliamentarian communicated by phone and issued directives to the gang in black. The gang would then pounce on their “prey”. The funeral attendees were told that they were forbidden to attend the funeral and abused. There were a few scuffles when physical force was used. Many of the black shirts appeared to be drunk.
+
+Most of the persons targeted were members of the ITAK Central Committee. They were told they are being denied entry at the funeral because they were responsible for Maavai’s death. In fact a prominent MP at the funeral house “welcomed” an ITAK Central Committee Member saying, “Here is another of the 18”. There were however a few instances of non-ITAK Central Committee Members also being targeted.
+
+Among those on whom intimidatory attempts were made are Wanni district MP Raviharan, former Northern Provincial Councillor and ITAK Joint Treasurer Kamaleswaran, former Trincomalee Urban Council Chairman “Supra” Selvarajah, ex-Batticaloa Mayor Saravanabavaan, ITAK youth front leader Seyon Krishnapillai and ITAK Central Committee member Peter Ilanchezhiyan.
+
+Sumanthiran and Shanakiyan
+
+The prime targets of the black shirted fraternity were former Jaffna MP Mathiaparanan Abraham Sumanthiran and Batticaloa MP Shanakkiyan Rasamanickam. Shanakkiyan however is currently in Turkey and was not in Sri Lanka when Maavai passed away. As for Sumanthiran, he and his wife Savitri travelled overnight by car from Colombo and reached Jaffna in the wee hours of the morning on Saturday.
+
+Upon arriving in Jaffna, the couple set off to Maavuddapuram at 7 a.m. They were well received by Mrs. Bavaani Senathirajah and the children. Sumanthiran also gave a YouTube interview about Maavai. It is reliably learnt that members of the “black gang” were fast asleep at the time after paying homage to Bachus during night. So they missed Sumanthiran.
+
+It is also suspected that the banners with 18 persons were put up by two different groups. The banners in the vicinity of the Senathirajah residence were hung by the gang dressed in black. The banners elsewhere such as the Thellippalai junction and Thachchankaadu cemetery were allegedly hung by activists of a Tamil political party that is an avowed enemy of the ITAK. It is suspected that this party had exploited the inner-party divisions within the ITAK in this instance.
+
+It is indeed a pity that a loyal ITAK leader like Senathirajah’s body was not laid in state at the party office for people to pay their respects. Apparently Senathirajah’s body was handed over by hospital authorities to ITAK Jaffna district MP and Parliamentary group leader Sivagnanam Shritharan.
+
+Though party members wanted the body to be taken to the Martin Road party office in Jaffna first, Shritharan took it instead to Maaviddapuram. Subsequently ITAK acting president C.V.K. Sivagnanam and Secretary Dr. P. Sathialingam requested the Senathirajah family to permit the body to be taken to the party office. But the family did not want the body to be moved from their home.
+
+Shritharan master of ceremonies
+
+The master of ceremonies at the funeral was Jaffna MP Shritharan. He parked himself at the funeral house and was on hand to welcome and receive dignitaries and VIPs including President AKD. Shritharan also presided at the event where speeches were made.
+
+An unsavoury aspect of the speeches was that some speakers made overt political speeches attacking and criticising people. The chief culprits reportedly were Batticaloa MP Gnanamuthu Srinesan, Jaffna University lecturer Manickavasagam Ilampiraiyan and Senathirajah’s younger brother Somasundaram Thangarajah who delivered the vote of thanks. Shritharan’s inability or unwillingness to prevent these offensive speeches or restrain the speakers has come in for much criticism.
+
+It is a norm in Tamil cultural practices to forget the past at least temporarily at a funeral. Even traditional adversaries and enemies are welcomed and treated with courtesy if and when attending funerals. Funerals with their emotional baggage also provide opportunities for rapprochement and reconciliation.
+
+Against this backdrop, Maavai Senathirajah’s funeral could have been utilised to play down intra-party differences and promote greater unity within the party. Sadly that opportunity seems to have been missed due to lack of foresight and statesmanship on the part of Shritharan who was in charge of funeral arrangements.
+
+Worse still, the divisions within the ITAK may worsen to the point of no return as a result of the attempts to prevent a key section of the party from attending the funeral. It is sad indeed that the funeral of Maavai Senathirajah has been spoiled and marred by the antics of the gang dressed in black. After preventing the attendance of many ITAK leaders at the funeral through intimidatory tactics, a malicious campaign is underway criticising leaders who did not attend Maavai’s funeral for not paying their respects.
+
+Ultimate casualty ITAK
+
+It must be noted that Maavai’s wife Bavaani implored everyone concerned to act responsibly and not deter anyone from attending her husband’s funeral. Sadly these wise words fell on the deaf ears of puny minds indulging in petty politics. The motivating factor was not concern for Maavai but the egoistic impulse to undermine perceived rivals. The ultimate casualty is the ITAK.
+
+(The writer can be reached at [email protected].)
+

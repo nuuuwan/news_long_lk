@@ -1,0 +1,38 @@
+# A failed state; self-inflicted, can it be fixed or is it an unrealisable reality? Part 2
+
+[https://www.ft.lk/columns/A-failed-state-self-inflicted-can-it-be-fixed-or-is-it-an-unrealisable-reality-Part-2/4-772763](https://www.ft.lk/columns/A-failed-state-self-inflicted-can-it-be-fixed-or-is-it-an-unrealisable-reality-Part-2/4-772763)
+
+*05:53 AM, Friday, February 07, 2025*
+
+A significant amount of FDIs and diffusion of knowledge or know-how is required to develop our industries
+
+On 18 October 2022, on the Guest Column of the Daily FT, an article I wrote carried the above heading (https://www.ft.lk/columns/A-failed-state-self-inflicted-can-it-be-fixed-or-is-it-an-unrealisable-reality/4-741039). Over two years have lapsed since and we have witnessed what some may call the “Wenasa” (the “Change”).
+
+I was encouraged to put pen to paper when I saw an article published on Daily Mirror on 15 January 2025 reported under the title ‘Stinking Beira to get attention finally; Joint cleaning project to kickoff today’. What drew my attention was the fact that the responsibility of the Beira Lake was devolved among many Government authorities. According to the article the basin of the Beira Lake is vested with the Sri Lanka Ports Authority (SLPA), whilst the responsibility of the water body comes under Sri Lanka Land Reclamation and Development Corporation (SLLRDC). The banks and outer edge of the lake belong to the Urban Development Authority (UDA) and the walking paths around the lake come under CMC. One may be inclined to question if the fish in the lake belongs to the Fisheries Ministry!
+
+Deep-rooted corruption and inefficiencies
+
+The pathetic situation highlights the deep-rooted corruption and inefficiencies evident in this beautiful Sri Lanka. Mushrooming new ministries along with an entourage of ministry staff with a ballooning cost finally borne by the tax paying public. When responsibilities are devolved without clear objectives of achieving an outcome, we are doomed to fail. Interestingly, a subsequent article published on 20 January 2025, by the same newspaper states that the cleaning has ceased with garbage still remaining unattended around the Seema Malaka, which is one of the main tourist attractions that Colombo city has to offer (Daily Mirror exposure on stinking Beira alerts authorities Daily Mirror - Sri Lanka https://www.dailymirror.lk › front-page › Daily-Mirror-...) The present Government with a two-third mandate has its work cut-out to clean up the mess that was not addressed by successive Governments. A well thought through approach with structural changes within the Government machinery with the desired outcome as the main objective should be the need of the hour. The desired outcome should be measurable, what gets measured gets done.
+
+We must identify what our “crown jewels” are and prioritise our factors of production with required Government policy intervention. The well-intended “Clean Sri Lanka” should have very clear measurable goals. We must first learn to imagine a “Clean Sri Lanka” and then be constructive and pragmatic but hopeful at the same time. Government policy should combine idealism with realism, otherwise execution risk would be more prevalent. There are many global MNCs producing goods and services much larger in value than what we produce in this small island nation rampant with inefficiencies and struggling to prioritise its scares factors of production (land, labour, capital, entrepreneurship) in an efficient manner. Technology like money should be infused to factors of production to increase output.
+
+Still not out of the woods
+
+Sri Lanka has made a remarkable economic recovery since declaring bankruptcy two and half years ago demonstrating resilience and the will to succeed. However, we are still not out of the woods. We have a very thin wallet but expensive tastes and we have always lived beyond our means. Austerity is the need of the hour and we have been prescribed the standard treatment of fiscal consolidation (reduce Govt. spending and increase taxes) and inflation targeted monetary policy (raising interest rates and reduce money supply to combat inflation).
+
+I questioned in my previous article whether this standard prescription alone would work? Or should it be augmented by growth enhancing transformative reforms. Whilst we recorded a remarkable 5% GDP growth last year, albeit it from a very low base (GDP contracted for successive six quarters; Q1 2022 to Q2 2023 with -12.4% recorded as the highest contraction in Q4 2022) and under-utilised production capacity. It is imperative that Sri Lanka needs to attract new capital flows to grow GDP beyond pre-pandemic levels once we restore our normal production capacity.
+
+Where would this new capital flow come from? How can we leverage our crown jewels to route new capital? Do we have a long-term strategy in place? An assessment of FDI flows as depicted in Chart 1 shows our poor performance relative to our competition in South and South East Asia. After all we are not the only girl on the beach!
+
+I am not surprised to read the given data which confirms recent remarks by President Anura Kumara Dissanayake that securing approval for investment requires clearance from 82 different institutions over 2.5 years. The World Bank has estimated GDP growth at 3% whilst the Government has estimated a 4% growth. This subdued growth is not sufficient to recover 25% of our population suffering from poverty. We must grow beyond 6% for the common man to reap the prosperity of economic growth and it would take a decade for us to completely (almost) eradicate poverty and converge into a developed nation.
+
+Dominance of Asian economies
+
+Dominance of Asian economies in the coming decades is going to be more prevalent. According to estimates, China, India, S. Korea, Indonesia, and Japan will make up half of the world’s top 10 economies. We must find ways to latch-on to supply chains of these Asian giants. A significant amount of FDIs and diffusion of knowledge or know-how is required to develop our industries. The competitive indicators of selected regional countries as depicted in Chart 2 clearly show how uncompetitive Sri Lanka is in attracting foreign private capital.
+
+Contrary to the view of few theoreticians and academics, foreign investors attribute a sizeable premium to compensate for the country risk and hence Sri Lanka must provide incentives by way of tax holidays to attract FDIs. Tax concessions are not a shelter from global competition but it should be FDI linked. These fiscal incentives should be only granted to identified businesses who meet the required investment criteria and should include a sunset clause. Once we attract adequate FDIs and doing business indicators improve, the argument to provide tax concessions would no longer suffice. Look at the evolution of Singapore in the past four decades, they systematically provided attractive tax incentives and rebates to develop identified sectors and even to-date they provide such incentives to attract capital and talent. India provides production linked tax incentives and rebates and such subsidies costed them $ 45 billion or 1.2% of GDP in 2023.
+
+The newly elected President will surely have a 10-year mandate if he is able to clearly identify what the country’s crown jewels are and march his troops with clear long-terms goals with visible runs on the board. The first innings would be crucial to cement a win.
+
+(The writer is attached to one of the largest Public-Private-Partnership Projects in Sri Lanka. The views expressed in this column are his own and not reflective of the organisation he represents.)
+

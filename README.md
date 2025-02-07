@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-06 18:20:15**
+Last Updated **2025-02-07 06:24:54**
+
+## 2025-02-07
+
+* [Sri Lanka stands to lose millions of dollars in aid over President Trump’s move](data/articles/sri-lanka-stands-to-lose.08ea4f85/README.md) `ft.lk`
+* [Constitutional crisis and radical democratic possibility](data/articles/constitutional-crisis-an.01ca1404/README.md) `ft.lk`
+* [Gang in black antics spoil ITAK leader Maavai Senathirajah’s funeral](data/articles/gang-in-black-antics-spo.95fba5c3/README.md) `ft.lk`
+* [A failed state; self-inflicted, can it be fixed or is it an unrealisable reality? Part 2](data/articles/a-failed-state-self-infl.4e7a6836/README.md) `ft.lk`
+* [Beyond administration: Strategic complexity and significance of HRM](data/articles/beyond-administration-st.5a874f7a/README.md) `ft.lk`
 
 ## 2025-02-06
 
