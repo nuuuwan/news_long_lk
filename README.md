@@ -2,22 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-07 06:24:54**
+Last Updated **2025-02-07 18:19:18**
 
 ## 2025-02-07
 
+* [History, fiction, and stories we choose to believe](data/articles/history-fiction-and-stor.fcc7f1fa/README.md) `ft.lk`
 * [Sri Lanka stands to lose millions of dollars in aid over President Trump’s move](data/articles/sri-lanka-stands-to-lose.08ea4f85/README.md) `ft.lk`
 * [Constitutional crisis and radical democratic possibility](data/articles/constitutional-crisis-an.01ca1404/README.md) `ft.lk`
 * [Gang in black antics spoil ITAK leader Maavai Senathirajah’s funeral](data/articles/gang-in-black-antics-spo.95fba5c3/README.md) `ft.lk`
 * [A failed state; self-inflicted, can it be fixed or is it an unrealisable reality? Part 2](data/articles/a-failed-state-self-infl.4e7a6836/README.md) `ft.lk`
 * [Beyond administration: Strategic complexity and significance of HRM](data/articles/beyond-administration-st.5a874f7a/README.md) `ft.lk`
+* [From COBOL to chaos: Elon Musk, DOGE, and the Evil Housekeeper Problem](data/articles/from-cobol-to-chaos-elon.198d923d/README.md) `technologyreview.com`
 
 ## 2025-02-06
 
+* [How to Give Yourself More Space to Think](data/articles/how-to-give-yourself-mor.8ca867f6/README.md) `hbr.org`
 * [Progressive taxation policies for new era](data/articles/progressive-taxation-pol.97ac1bab/README.md) `ft.lk`
 * [What a return to supersonic flight could mean for climate change](data/articles/what-a-return-to-superso.fadbe15a/README.md) `technologyreview.com`
 * [Promoting breeds vulnerable to CLSD has to stop](data/articles/promoting-breeds-vulnera.bcc856a8/README.md) `ft.lk`
 * [Harry J: The Sri Lankan Jack Welch](data/articles/harry-j-the-sri-lankan-j.f923cb3e/README.md) `ft.lk`
+* [Humanlike “teeth” have been grown in mini pigs](data/articles/humanlike-teeth-have-bee.ea334567/README.md) `technologyreview.com`
 * [Chaos & Pattern: Godfrey Gunatilleke’s cathedral of words](data/articles/chaos-pattern-godfrey-gu.368edb0a/README.md) `ft.lk`
 
 ## 2025-02-05
