@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-08 06:24:56**
+Last Updated **2025-02-08 18:16:33**
 
 ## 2025-02-08
 
@@ -14,6 +14,8 @@ Last Updated **2025-02-08 06:24:56**
 * [Time for a shift on  LGBTQIA+ rights – A response](data/articles/time-for-a-shift-on-lgbt.2ac02aef/README.md) `ft.lk`
 * [Somasundaram ‘Mavai’ Senathirajah and formidable legacy  in Tamil nationalist politics](data/articles/somasundaram-mavai-senat.b35316b1/README.md) `ft.lk`
 * [Digital economy and Sri Lanka: Cross-sectional perspective](data/articles/digital-economy-and-sri.a90d9905/README.md) `ft.lk`
+* [“கேணல்”  கிட்டு என்ற சதாசிவம்பிள்ளை கிருஷ்ணகுமாரின் வாழ்வும் மரணமும் உண்மையிலேயே வடக்கு போராளி ஒருவரின் வீரகாவியம்.](data/articles/க-ணல-க-ட-ட-என-ற-சத-ச-வம.6818b9d4/README.md) `dbsjeyaraj.com`
+* [The issue is not whether Mahinda Rajapaksa deserves an official residence or not. The issue is whether retired presidents should be maintained in such princely style – especially in a country where poverty has doubled since 2019 due mainly to the inane governance of the Rajapaksa family](data/articles/the-issue-is-not-whether.a8a6b458/README.md) `dbsjeyaraj.com`
 * [These documents are influencing the DOGE-sphere’s agenda](data/articles/these-documents-are-infl.4a01221b/README.md) `technologyreview.com`
 * [5 Questions to Help Your Team Make Better Decisions](data/articles/5-questions-to-help-your.ee2308cb/README.md) `hbr.org`
 * [When Does a Regional Approach to DEI Make Sense for Multinational Companies?](data/articles/when-does-a-regional-app.ecdd5368/README.md) `hbr.org`
