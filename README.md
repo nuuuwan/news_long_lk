@@ -2,10 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-07 18:19:18**
+Last Updated **2025-02-08 06:24:56**
+
+## 2025-02-08
+
+* [Cultural property, colonialism, and the fight for repatriation: Sri Lankan perspective](data/articles/cultural-property-coloni.5778fd5c/README.md) `ft.lk`
 
 ## 2025-02-07
 
+* [Trump, oil and Palestine](data/articles/trump-oil-and-palestine.6089eba2/README.md) `ft.lk`
+* [Time for a shift on  LGBTQIA+ rights – A response](data/articles/time-for-a-shift-on-lgbt.2ac02aef/README.md) `ft.lk`
+* [Somasundaram ‘Mavai’ Senathirajah and formidable legacy  in Tamil nationalist politics](data/articles/somasundaram-mavai-senat.b35316b1/README.md) `ft.lk`
+* [Digital economy and Sri Lanka: Cross-sectional perspective](data/articles/digital-economy-and-sri.a90d9905/README.md) `ft.lk`
+* [These documents are influencing the DOGE-sphere’s agenda](data/articles/these-documents-are-infl.4a01221b/README.md) `technologyreview.com`
+* [5 Questions to Help Your Team Make Better Decisions](data/articles/5-questions-to-help-your.ee2308cb/README.md) `hbr.org`
+* [When Does a Regional Approach to DEI Make Sense for Multinational Companies?](data/articles/when-does-a-regional-app.ecdd5368/README.md) `hbr.org`
+* [When Your Coworkers Got Laid Off — But You Didn’t](data/articles/when-your-coworkers-got.888987e6/README.md) `hbr.org`
 * [History, fiction, and stories we choose to believe](data/articles/history-fiction-and-stor.fcc7f1fa/README.md) `ft.lk`
 * [Sri Lanka stands to lose millions of dollars in aid over President Trump’s move](data/articles/sri-lanka-stands-to-lose.08ea4f85/README.md) `ft.lk`
 * [Constitutional crisis and radical democratic possibility](data/articles/constitutional-crisis-an.01ca1404/README.md) `ft.lk`
@@ -19,6 +31,7 @@ Last Updated **2025-02-07 18:19:18**
 * [How to Give Yourself More Space to Think](data/articles/how-to-give-yourself-mor.8ca867f6/README.md) `hbr.org`
 * [Progressive taxation policies for new era](data/articles/progressive-taxation-pol.97ac1bab/README.md) `ft.lk`
 * [What a return to supersonic flight could mean for climate change](data/articles/what-a-return-to-superso.fadbe15a/README.md) `technologyreview.com`
+* [An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it](data/articles/an-ai-chatbot-told-a-use.e64a9646/README.md) `technologyreview.com`
 * [Promoting breeds vulnerable to CLSD has to stop](data/articles/promoting-breeds-vulnera.bcc856a8/README.md) `ft.lk`
 * [Harry J: The Sri Lankan Jack Welch](data/articles/harry-j-the-sri-lankan-j.f923cb3e/README.md) `ft.lk`
 * [Humanlike “teeth” have been grown in mini pigs](data/articles/humanlike-teeth-have-bee.ea334567/README.md) `technologyreview.com`
