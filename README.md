@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-08 18:16:33**
+Last Updated **2025-02-09 06:24:42**
 
 ## 2025-02-08
 
@@ -31,6 +31,7 @@ Last Updated **2025-02-08 18:16:33**
 ## 2025-02-06
 
 * [How to Give Yourself More Space to Think](data/articles/how-to-give-yourself-mor.8ca867f6/README.md) `hbr.org`
+* [10 Signs of a Toxic Boss — and How to Protect Yourself](data/articles/10-signs-of-a-toxic-boss.723a9d6f/README.md) `hbr.org`
 * [Progressive taxation policies for new era](data/articles/progressive-taxation-pol.97ac1bab/README.md) `ft.lk`
 * [What a return to supersonic flight could mean for climate change](data/articles/what-a-return-to-superso.fadbe15a/README.md) `technologyreview.com`
 * [An AI chatbot told a user how to kill himself—but the company doesn’t want to “censor” it](data/articles/an-ai-chatbot-told-a-use.e64a9646/README.md) `technologyreview.com`
