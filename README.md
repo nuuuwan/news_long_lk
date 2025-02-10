@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-10 06:24:27**
+Last Updated **2025-02-10 18:19:22**
 
 ## 2025-02-10
 
@@ -14,6 +14,8 @@ Last Updated **2025-02-10 06:24:27**
 ## 2025-02-09
 
 * [“Gang in Black” Mars  ITAK Leader Maavai Senathirajah’s Funeral by Intimidating Attendees.](data/articles/gang-in-black-mars-itak.f241234d/README.md) `dbsjeyaraj.com`
+* [The Eminently Predictable  Public Uproar Over the Attorney-General’s Personal Directive to the CID to Release Three  key Suspects Relating to the Magisterial Inquiry into the 2009 Assassination of “Sunday Leader” Editor Lasantha Wickrematunge](data/articles/the-eminently-predictabl.a997f4a6/README.md) `dbsjeyaraj.com`
+* [Mavai Senathirajah is an example not only of how a leader of a political party should not act, but also of how a party should not treat its senior leader.](data/articles/mavai-senathirajah-is-an.6d800470/README.md) `dbsjeyaraj.com`
 
 ## 2025-02-08
 
