@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-09 18:16:13**
+Last Updated **2025-02-10 06:24:27**
+
+## 2025-02-10
+
+* [Verses for Palestine: A GLF perspective](data/articles/verses-for-palestine-a-g.f9c9d25c/README.md) `ft.lk`
+* [Galle Literary Festival 2025 concludes with success](data/articles/galle-literary-festival.9b36ab7c/README.md) `ft.lk`
+* [Time to bring back medical expense deductions: Call for economic and social justice](data/articles/time-to-bring-back-medic.4573d480/README.md) `ft.lk`
+* [Dr. Lalithadheera’s treatise: Human capital is an economic miracle](data/articles/dr-lalithadheera-s-treat.30cc47c0/README.md) `ft.lk`
+
+## 2025-02-09
+
+* [“Gang in Black” Mars  ITAK Leader Maavai Senathirajah’s Funeral by Intimidating Attendees.](data/articles/gang-in-black-mars-itak.f241234d/README.md) `dbsjeyaraj.com`
 
 ## 2025-02-08
 
