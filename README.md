@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-10 18:19:22**
+Last Updated **2025-02-11 06:24:56**
+
+## 2025-02-11
+
+* [Islamic banking and finance: Lucrative opportunity for NPP Government](data/articles/islamic-banking-and-fina.985a70dc/README.md) `ft.lk`
 
 ## 2025-02-10
 
+* [Advocating for clean Foreign Service: Challenges ahead](data/articles/advocating-for-clean-for.4619470f/README.md) `ft.lk`
+* [Sri Lanka’s tourism crossroads: Growth by design or chaos by default](data/articles/sri-lanka-s-tourism-cros.d881c5b1/README.md) `ft.lk`
+* [Priorities in focus: Will Budget 2025 address Sri Lanka’s agricultural challenges?](data/articles/priorities-in-focus-will.75e313aa/README.md) `ft.lk`
+* [How to Answer “Walk Me Through Your Resume”](data/articles/how-to-answer-walk-me-th.c2ad8f61/README.md) `hbr.org`
+* [7 Questions to Decode Your Manager’s Priorities](data/articles/7-questions-to-decode-yo.9cdb82ce/README.md) `hbr.org`
 * [Verses for Palestine: A GLF perspective](data/articles/verses-for-palestine-a-g.f9c9d25c/README.md) `ft.lk`
 * [Galle Literary Festival 2025 concludes with success](data/articles/galle-literary-festival.9b36ab7c/README.md) `ft.lk`
 * [Time to bring back medical expense deductions: Call for economic and social justice](data/articles/time-to-bring-back-medic.4573d480/README.md) `ft.lk`
