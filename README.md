@@ -2,11 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-11 06:24:56**
+Last Updated **2025-02-11 18:19:43**
 
 ## 2025-02-11
 
+* [Can AI help DOGE slash government budgets? It’s complex.](data/articles/can-ai-help-doge-slash-g.3104da70/README.md) `technologyreview.com`
+* [The Rajapaksas are  now practicing for their  third comeback. Unlike in 2019/20 Rajapaksas cannot return on their own steam. They will need other help to open doors for them.](data/articles/the-rajapaksas-are-now-p.7b706aed/README.md) `dbsjeyaraj.com`
 * [Islamic banking and finance: Lucrative opportunity for NPP Government](data/articles/islamic-banking-and-fina.985a70dc/README.md) `ft.lk`
+* [மாவை சேனாதிராஜாவின் இறுதிச்சடங்குகளை குதியாட்டங்களினால் களங்கப்படுத்திய கறுப்புச்சட்டை கும்பல்](data/articles/ம-வ-ச-ன-த-ர-ஜ-வ-ன-இற-த-ச.e8de32e0/README.md) `dbsjeyaraj.com`
 
 ## 2025-02-10
 
@@ -15,6 +18,7 @@ Last Updated **2025-02-11 06:24:56**
 * [Priorities in focus: Will Budget 2025 address Sri Lanka’s agricultural challenges?](data/articles/priorities-in-focus-will.75e313aa/README.md) `ft.lk`
 * [How to Answer “Walk Me Through Your Resume”](data/articles/how-to-answer-walk-me-th.c2ad8f61/README.md) `hbr.org`
 * [7 Questions to Decode Your Manager’s Priorities](data/articles/7-questions-to-decode-yo.9cdb82ce/README.md) `hbr.org`
+* [How to Build a Power Map for Your Project](data/articles/how-to-build-a-power-map.a37fcf11/README.md) `hbr.org`
 * [Verses for Palestine: A GLF perspective](data/articles/verses-for-palestine-a-g.f9c9d25c/README.md) `ft.lk`
 * [Galle Literary Festival 2025 concludes with success](data/articles/galle-literary-festival.9b36ab7c/README.md) `ft.lk`
 * [Time to bring back medical expense deductions: Call for economic and social justice](data/articles/time-to-bring-back-medic.4573d480/README.md) `ft.lk`
@@ -48,7 +52,9 @@ Last Updated **2025-02-11 06:24:56**
 * [Gang in black antics spoil ITAK leader Maavai Senathirajah’s funeral](data/articles/gang-in-black-antics-spo.95fba5c3/README.md) `ft.lk`
 * [A failed state; self-inflicted, can it be fixed or is it an unrealisable reality? Part 2](data/articles/a-failed-state-self-infl.4e7a6836/README.md) `ft.lk`
 * [Beyond administration: Strategic complexity and significance of HRM](data/articles/beyond-administration-st.5a874f7a/README.md) `ft.lk`
+* [How the tiny microbes in your mouth could be putting your health at risk](data/articles/how-the-tiny-microbes-in.f6cadcb6/README.md) `technologyreview.com`
 * [From COBOL to chaos: Elon Musk, DOGE, and the Evil Housekeeper Problem](data/articles/from-cobol-to-chaos-elon.198d923d/README.md) `technologyreview.com`
+* [Meta has an AI for brain typing, but it’s stuck in the lab](data/articles/meta-has-an-ai-for-brain.8a49614d/README.md) `technologyreview.com`
 
 ## 2025-02-06
 
