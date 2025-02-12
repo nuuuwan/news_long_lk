@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-11 18:19:43**
+Last Updated **2025-02-12 06:25:20**
+
+## 2025-02-12
+
+* [When cowards try to be heroes](data/articles/when-cowards-try-to-be-h.73fd4f1f/README.md) `ft.lk`
+* [Sri Lanka has great opportunity to become major destination for fee-paying foreign students](data/articles/sri-lanka-has-great-oppo.898e0eee/README.md) `ft.lk`
+* [Building stronger UK-Sri Lanka partnership for the future](data/articles/building-stronger-uk-sri.dcd6d6ee/README.md) `ft.lk`
+* [Public petition demanding repeal of Prevention of Terrorism Act and removal or reduction of VAT](data/articles/public-petition-demandin.bc0c6b77/README.md) `ft.lk`
 
 ## 2025-02-11
 
+* [The Legal Landscape Around DEI Is Shifting. Your Messaging Should, Too.](data/articles/the-legal-landscape-arou.764e308f/README.md) `hbr.org`
+* [AI crawler wars threaten to make the web more closed for everyone](data/articles/ai-crawler-wars-threaten.e7a860d3/README.md) `technologyreview.com`
 * [Can AI help DOGE slash government budgets? It’s complex.](data/articles/can-ai-help-doge-slash-g.3104da70/README.md) `technologyreview.com`
 * [The Rajapaksas are  now practicing for their  third comeback. Unlike in 2019/20 Rajapaksas cannot return on their own steam. They will need other help to open doors for them.](data/articles/the-rajapaksas-are-now-p.7b706aed/README.md) `dbsjeyaraj.com`
 * [Islamic banking and finance: Lucrative opportunity for NPP Government](data/articles/islamic-banking-and-fina.985a70dc/README.md) `ft.lk`

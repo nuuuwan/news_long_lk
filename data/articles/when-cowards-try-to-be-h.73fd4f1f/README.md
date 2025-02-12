@@ -1,0 +1,34 @@
+# When cowards try to be heroes
+
+[https://www.ft.lk/columns/When-cowards-try-to-be-heroes/4-772944](https://www.ft.lk/columns/When-cowards-try-to-be-heroes/4-772944)
+
+*06:19 AM, Wednesday, February 12, 2025*
+
+If the so-called Muslim leaders in the Opposition have nothing positive to contribute to this invaluable effort, let them at least keep their mouths shut without making fools of themselves
+
+Over the recent weeks two issues relating to Muslims had resurfaced to catch attention from the local media, one concerning that controversial cremation of COVID-dead Muslims during the Presidency of Gotabaya Rajapaksa (GR), and the other about Rohingya Muslim refugees who started arriving in Sri Lanka since 2008 when Mahinda Rajapaksa (MR) was President.
+
+A good number of those refugees is reported to have found permanent abode in this Buddhist country, which is historically renowned for its hospitality and magnanimity particularly towards Muslims. But what is puzzling is the timing and motive of those who are trying to champion these causes in their effort to emerge as heroes perhaps to cover up their previous cowardice over the same issues.
+
+To begin with, there is absolutely no reason to absolve GR and his team of fake scientists for their sacrilegious act of cremating COVID-dead Muslims. Nowhere in the world except in Sri Lanka, was this religious crime committed. GR clearly acted on the pseudo-scientific advice provided not by virologists or medical experts but by a soil scientist who believed that COVID dead bodies if buried could spread the virus through underground water. No medical opinion anywhere in the world corroborated her view.
+
+22 Muslim representatives
+
+Be that as it may, when GR issued the order for cremation there were 22 Muslim representatives sitting on both sides of the Parliament including the one personally appointed by GR as his Minister of Justice. Did any of them openly challenge the President on his contumelious executive order? What would have been the international impact for example had all 22 of those MPs quietly walked out of the Parliament in protest and boycotted the sessions thereafter until that order was rescinded? It may be that one or two of them might have quietly whispered into GR’s ears about the growing Muslim anger. If so, he listened to it casually and then ignored the complaint.
+
+Even the Mufti and head of the All Ceylon Jamiyyathul Ulema – the so-called apex Muslim religious body at that time, did not have the guts to condemn GR’s decision publicly, but instead was advising his community how to bury the ashes according to the so-called shariah. All these leaders shamefully and cowardly waited until the Catholic Cardinal to his credit raised his voice and appealed GR to allow Muslims to perform their religious obligation towards the dead.
+
+The same cowardliness was exhibited over the issue of Rohingyas. None of the Muslim politicians had the courage to stand up against Mahinda Rajapaksa’s decision to spread the red carpet to welcome Myanmar’s notorious Bhikkhu Asin Wirathu, the “Face of Terror” as Time captioned his appearance, who openly encouraged the killing and expulsion of Rohingya Muslims. MR’s politically motivated welcome to this man certainly won the support of the local Bodu Bala Sena Buddhist supremacist outfit, which later unleashed their own venom against local Muslims. Thus, on the issues of cremation and plight of Rohingya Muslims, local Muslim politicians of that time failed to act with conviction and courage and remained muted so that not to jeopardise their own future in relations with Rajapaksas.
+
+Rekindling the lost causes
+
+Now with a new President and Government they are trying to become heroes of lost causes by demanding yesterday’s culprits to be brought before justice and financial compensation paid to families that fell victims to that sacrilegious horror. Why didn’t they raise these matters at least when Ranil Wickremesinghe was President and why now? The only reason is to avenge the humiliation they and their parties or coalitions suffered at the hands of NPP at the last General Election. They started their revenge with condemning the Government for not appointing a Muslim to the Cabinet and when that fizzled out they are rekindling the lost causes so that they can at least send a message to the Muslim community that they are the warriors dedicated to fight for and win the rights of Muslims.
+
+That tactic is bound to fail, because the younger generation of Muslims like their counterparts in other communities are politically more enlightened than those of the old. They belong to the post-Aragalaya political renaissance which has no place for identity politics. The AKD-led NPP governance was swept into power on one crucial issue i.e., cleaning up the corrupt political culture which over three quarters of a century had corroded the elements of democracy and kept this fertile, talented and skilled multi-ethnic country disunited and immiserised.
+
+Although the economic challenge is proving to be increasingly formidable due to shocking developments happening outside Sri Lanka, and therefore the expected revival and growth may take longer even with IMF assistance, the new Government’s resolve to clean up political governance and eradicate corruption at all levels should create a new environment for democracy to prosper. The clean Sri Lanka project is more than just keeping the physical environment appealing and healthy. That project also includes cleaning the governance ledgers and bringing to books the key players of the old order who mismanaged everything, broke the public trust and built their private fortunes while remaining in power.
+
+If the so-called Muslim leaders in the Opposition have nothing positive to contribute to this invaluable effort, let them at least keep their mouths shut without making fools of themselves.
+
+(The writer is a retired economist, W. Australia.)
+
