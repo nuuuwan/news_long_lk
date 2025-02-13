@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-12 18:20:10**
+Last Updated **2025-02-13 06:25:23**
+
+## 2025-02-13
+
+* [Something rotten in the state – root causes of Sri Lanka’s  ‘fertiliser policy fiasco’ and a slew of effects on the economy](data/articles/something-rotten-in-the.85fdceb4/README.md) `ft.lk`
+* [Understanding India’s strategic role in Sri Lanka](data/articles/understanding-india-s-st.d316079b/README.md) `ft.lk`
+* [It’s not monkey business that made the grid unstable](data/articles/it-s-not-monkey-business.0937fe80/README.md) `ft.lk`
+* [In Dependence Day, SJB’s structural crisis, Mahinda as exception](data/articles/in-dependence-day-sjb-s.5bd4aa96/README.md) `ft.lk`
 
 ## 2025-02-12
 
+* [How Constructive Dissent Can Unlock Your Team’s Innovation](data/articles/how-constructive-dissent.ad5f0135/README.md) `hbr.org`
+* [The Hidden Toll of Meeting Hangovers](data/articles/the-hidden-toll-of-meeti.e634ff67/README.md) `hbr.org`
 * [When cowards try to be heroes](data/articles/when-cowards-try-to-be-h.73fd4f1f/README.md) `ft.lk`
 * [Sri Lanka has great opportunity to become major destination for fee-paying foreign students](data/articles/sri-lanka-has-great-oppo.898e0eee/README.md) `ft.lk`
 * [Building stronger UK-Sri Lanka partnership for the future](data/articles/building-stronger-uk-sri.dcd6d6ee/README.md) `ft.lk`
@@ -13,6 +22,8 @@ Last Updated **2025-02-12 18:20:10**
 
 ## 2025-02-11
 
+* [Uganda deploys additional troops to DRC](data/articles/uganda-deploys-additiona.f69f5a2c/README.md) `eiu.com`
+* [Trump escalates metals tariffs, but leaves room for talks](data/articles/trump-escalates-metals-t.7a486b49/README.md) `eiu.com`
 * [Research: When Is Leniency the Right Response to Employee Misconduct?](data/articles/research-when-is-lenienc.7b892ba1/README.md) `hbr.org`
 * [How AI Can Help Managers Think Through Problems](data/articles/how-ai-can-help-managers.641ee02c/README.md) `hbr.org`
 * [The Legal Landscape Around DEI Is Shifting. Your Messaging Should, Too.](data/articles/the-legal-landscape-arou.764e308f/README.md) `hbr.org`
@@ -28,6 +39,7 @@ Last Updated **2025-02-12 18:20:10**
 * [Advocating for clean Foreign Service: Challenges ahead](data/articles/advocating-for-clean-for.4619470f/README.md) `ft.lk`
 * [Sri Lanka’s tourism crossroads: Growth by design or chaos by default](data/articles/sri-lanka-s-tourism-cros.d881c5b1/README.md) `ft.lk`
 * [Priorities in focus: Will Budget 2025 address Sri Lanka’s agricultural challenges?](data/articles/priorities-in-focus-will.75e313aa/README.md) `ft.lk`
+* [Iraq pushes for deeper ties with Europe](data/articles/iraq-pushes-for-deeper-t.58a3f14c/README.md) `eiu.com`
 * [How to Answer “Walk Me Through Your Resume”](data/articles/how-to-answer-walk-me-th.c2ad8f61/README.md) `hbr.org`
 * [7 Questions to Decode Your Manager’s Priorities](data/articles/7-questions-to-decode-yo.9cdb82ce/README.md) `hbr.org`
 * [How to Build a Power Map for Your Project](data/articles/how-to-build-a-power-map.a37fcf11/README.md) `hbr.org`
