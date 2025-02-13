@@ -2,18 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-13 06:25:23**
+Last Updated **2025-02-13 18:19:45**
 
 ## 2025-02-13
 
+* [What a major battery fire means for the future of energy storage](data/articles/what-a-major-battery-fir.50b299b7/README.md) `technologyreview.com`
 * [Something rotten in the state – root causes of Sri Lanka’s  ‘fertiliser policy fiasco’ and a slew of effects on the economy](data/articles/something-rotten-in-the.85fdceb4/README.md) `ft.lk`
 * [Understanding India’s strategic role in Sri Lanka](data/articles/understanding-india-s-st.d316079b/README.md) `ft.lk`
 * [It’s not monkey business that made the grid unstable](data/articles/it-s-not-monkey-business.0937fe80/README.md) `ft.lk`
 * [In Dependence Day, SJB’s structural crisis, Mahinda as exception](data/articles/in-dependence-day-sjb-s.5bd4aa96/README.md) `ft.lk`
+* [“Sri Lanka  Thaayae”:     How the National Anthem  Written by Ananda Samarakoon     was Translated into Tamil  by “Pundit” M. Nallathamby  with  Government Approval.](data/articles/sri-lanka-thaayae-how-t.2214711c/README.md) `dbsjeyaraj.com`
 
 ## 2025-02-12
 
 * [How Constructive Dissent Can Unlock Your Team’s Innovation](data/articles/how-constructive-dissent.ad5f0135/README.md) `hbr.org`
+* [Research: A Better Way to Keep Tabs on Your Remote Workforce](data/articles/research-a-better-way-to.e19407c2/README.md) `hbr.org`
 * [The Hidden Toll of Meeting Hangovers](data/articles/the-hidden-toll-of-meeti.e634ff67/README.md) `hbr.org`
 * [When cowards try to be heroes](data/articles/when-cowards-try-to-be-h.73fd4f1f/README.md) `ft.lk`
 * [Sri Lanka has great opportunity to become major destination for fee-paying foreign students](data/articles/sri-lanka-has-great-oppo.898e0eee/README.md) `ft.lk`
@@ -29,6 +32,7 @@ Last Updated **2025-02-13 06:25:23**
 * [The Legal Landscape Around DEI Is Shifting. Your Messaging Should, Too.](data/articles/the-legal-landscape-arou.764e308f/README.md) `hbr.org`
 * [AI crawler wars threaten to make the web more closed for everyone](data/articles/ai-crawler-wars-threaten.e7a860d3/README.md) `technologyreview.com`
 * [Can AI help DOGE slash government budgets? It’s complex.](data/articles/can-ai-help-doge-slash-g.3104da70/README.md) `technologyreview.com`
+* [The dream of offshore rocket launches is finally blasting off](data/articles/the-dream-of-offshore-ro.2d432b40/README.md) `technologyreview.com`
 * [“Nagaichuvai Mannan” Nagesh: The Comedy King of Tamil Cinema](data/articles/nagaichuvai-mannan-nage.f276c544/README.md) `dbsjeyaraj.com`
 * [The Rajapaksas are  now practicing for their  third comeback. Unlike in 2019/20 Rajapaksas cannot return on their own steam. They will need other help to open doors for them.](data/articles/the-rajapaksas-are-now-p.7b706aed/README.md) `dbsjeyaraj.com`
 * [Islamic banking and finance: Lucrative opportunity for NPP Government](data/articles/islamic-banking-and-fina.985a70dc/README.md) `ft.lk`
