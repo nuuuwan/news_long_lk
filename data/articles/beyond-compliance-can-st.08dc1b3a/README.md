@@ -1,0 +1,38 @@
+# Beyond compliance: Can stock exchange and accounting bodies drive corporate environmental reporting?
+
+[https://www.ft.lk/columns/Beyond-compliance-Can-stock-exchange-and-accounting-bodies-drive-corporate-environmental-reporting/4-773026](https://www.ft.lk/columns/Beyond-compliance-Can-stock-exchange-and-accounting-bodies-drive-corporate-environmental-reporting/4-773026)
+
+*05:49 AM, Friday, February 14, 2025*
+
+As Sri Lanka navigates economic recovery and a shifting global sustainability landscape, corporate environmental disclosures are no longer just a box-ticking exercise – they are a necessity for long-term resilience. Investors, trade partners, and regulatory bodies worldwide are demanding greater transparency on climate and sustainability risks and impacts. Businesses that fail to meet these expectations risk losing out on investments, export opportunities, and long-term competitiveness. With the mandatory adoption of Sri Lanka Financial Reporting Standards (SLFRS S1 and S2) from January 2025, the country’s corporate sector is at a pivotal juncture.
+
+A recent report by CSF (“Acronyms and Accountability: Strategic Insights on Corporate Environmental Disclosures in Sri Lanka”) explored a roadmap to build an effective and credible national strategy for environmental reporting in Sri Lanka. The report highlighted that Colombo Stock Exchange (CSE) and the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) have a unique opportunity – and responsibility – to shape the future of sustainability reporting. Their role is not just to enforce compliance but to transform corporate accountability, ensuring that reporting translates into meaningful climate action. The question is, how quickly and cohesively can they step up?
+
+The reporting dichotomy: Compliance vs. Impact
+
+Despite increasing awareness, corporate environmental disclosures in Sri Lanka remain fragmented. Some of the country’s largest and most influential companies are yet to adopt any formal reporting frameworks, and even those that do often see it as an exercise in ticking boxes rather than an opportunity to drive long-term value.
+
+The recently mandated SLFRS Sustainability Standards by CA Sri Lanka for CSE-listed companies aim to change compliance-driven reporting by mandating disclosures on climate risks, governance, and environmental impact. Early indications suggest that only a handful of Sri Lankan companies are prepared to implement this framework. Many businesses lack the internal capacity, data systems, and cross-departmental collaboration needed to meet these requirements. This disconnect between mandatory requirements and preparedness of reporting companies has created a situation where businesses are publishing sustainability reports where tree-planting initiatives and beach clean-ups are used to project a green image, while material sustainability issues are overlooked.
+
+Driving meaningful corporate sustainability requires a mix of incentives and regulations. Companies that invest in sustainable practices should not find themselves at a disadvantage compared to those that do the bare minimum. Ideally, a carrots-and-sticks approach is necessary, where proactive companies are rewarded while tightening oversight on those lagging behind. This is where the CSE and CA Sri Lanka must take the lead.
+
+A national roadmap for environmental reporting
+
+To navigate the complexities of sustainability reporting, Sri Lanka needs a national strategy that provides companies with a phased, structured approach to compliance. Countries like Singapore, Malaysia, and Thailand have demonstrated that stock exchanges and accounting bodies can play a decisive role in shaping corporate sustainability. CSE and CA Sri Lanka must follow suit, by taking the lead with formulating a national roadmap and driving standardisation of environmental disclosures.
+
+A sector-based approach could offer a logical starting point. Instead of mandating immediate compliance across all industries, reporting requirements could be rolled out in phases, beginning with the highest-impact sectors. Export-driven industries, which already face pressure from international sustainability regulations, can be prioritised. Once the leading players have adopted robust reporting frameworks, sustainability expectations will naturally cascade down to their supply chain partners. Over time, reporting obligations can expand to include a broader range of businesses, ensuring a comprehensive transformation of corporate sustainability practices.
+
+Another key area of focus needs to be emissions reporting. One of the biggest challenges for businesses, particularly in developing economies, is tracking Scope 3 emissions – or simply put, emissions that occur indirectly across supply chains. These emissions often account for the majority of a company’s carbon footprint, but their complexity makes them difficult to quantify. A well-designed national roadmap would first introduce mandatory Scope 1 and 2 reporting of direct and purchased emissions across supply chains, allowing companies to build internal data systems, and gradually work towards tracking Scope 3 emissions.
+
+The reality is that businesses need time and support to meet these new expectations. A phased, sector-specific approach ensures that companies are not overwhelmed, while also creating momentum for wider adoption. The role of CSE and CA Sri Lanka in setting these milestones and monitoring progress will be crucial.
+
+Creating a Sri Lankan Sustainability Reporting Index
+
+One of the most effective ways to accelerate sustainability reporting in Sri Lanka is to introduce a system of benchmarking and recognition. The Thailand Sustainability Investment (THSI) Index offers a compelling example of how stock exchanges can drive corporate ESG performance.
+
+Sri Lanka could develop a similar sustainability reporting index, ranking publicly-listed companies based on the quality, transparency, and impact of their environmental disclosures. This would not only serve as a public accountability tool, but also create positive competition among businesses, encouraging them to improve their sustainability performance year after year. Over time, the index could be integrated into regulatory frameworks, linking strong sustainability performance with tangible incentives such as tax benefits, priority access to green financing, or lower interest rates for sustainability-linked loans, while poor performance could face increased scrutiny.
+
+Sri Lanka stands at a crossroads in its sustainability reporting journey. The SLFRS standards offer an opportunity to bring structure and consistency to corporate disclosures, but without active leadership from the CSE and accounting bodies, many businesses will lag behind. The path forward requires more than just regulatory enforcement. Companies need clear roadmaps, phased implementation plans, and a system of incentives to ensure that sustainability reporting is not just about compliance, but about real impact. The question is not whether Sri Lankan companies should adopt sustainability reporting, but how effectively they can turn it into a strategic advantage. If done right, this shift will not only enhance corporate accountability but also strengthen Sri Lanka’s position in global markets, attract responsible investment, and drive long-term economic resilience.
+
+(The writer is a Researcher at Centre for a Smart Future (CSF), in the Nature, Climate, and Economy research programme. CSF is an interdisciplinary policy think tank focusing on an inclusive and sustainable economic recovery for Sri Lanka. Visit www.csf-asia.org/knowledge-insights for more.)
+

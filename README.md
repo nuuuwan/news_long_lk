@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-13 18:19:45**
+Last Updated **2025-02-14 06:24:52**
+
+## 2025-02-14
+
+* [Military format analysis: Balancing Chinese and Indian strategic interests](data/articles/military-format-analysis.a50c6e03/README.md) `ft.lk`
+* [Rajavarothayam Sampanthan: Leader of Sri Lankan Tamils from 2010 to 2024](data/articles/rajavarothayam-sampantha.382f59ab/README.md) `ft.lk`
+* [Beyond compliance: Can stock exchange and accounting bodies drive corporate environmental reporting?](data/articles/beyond-compliance-can-st.08dc1b3a/README.md) `ft.lk`
+* [The Gaadi-shian Effect on the Sinhala cinema](data/articles/the-gaadi-shian-effect-o.29f69efc/README.md) `ft.lk`
+* [Rise of neo-conglomerates: Obsessive focus on core competencies](data/articles/rise-of-neo-conglomerate.2248ba88/README.md) `ft.lk`
 
 ## 2025-02-13
 
