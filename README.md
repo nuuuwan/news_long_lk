@@ -2,19 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-14 06:24:52**
+Last Updated **2025-02-14 18:19:52**
 
 ## 2025-02-14
 
 * [Military format analysis: Balancing Chinese and Indian strategic interests](data/articles/military-format-analysis.a50c6e03/README.md) `ft.lk`
 * [Rajavarothayam Sampanthan: Leader of Sri Lankan Tamils from 2010 to 2024](data/articles/rajavarothayam-sampantha.382f59ab/README.md) `ft.lk`
+* [Budgeting for future – prioritising inclusion and equity](data/articles/budgeting-for-future-pri.eee9136e/README.md) `ft.lk`
 * [Beyond compliance: Can stock exchange and accounting bodies drive corporate environmental reporting?](data/articles/beyond-compliance-can-st.08dc1b3a/README.md) `ft.lk`
 * [The Gaadi-shian Effect on the Sinhala cinema](data/articles/the-gaadi-shian-effect-o.29f69efc/README.md) `ft.lk`
 * [Rise of neo-conglomerates: Obsessive focus on core competencies](data/articles/rise-of-neo-conglomerate.2248ba88/README.md) `ft.lk`
+* [A woman made her AI voice clone say “arse.” Then she got banned.](data/articles/a-woman-made-her-ai-voic.240aea3b/README.md) `technologyreview.com`
 
 ## 2025-02-13
 
 * [What a major battery fire means for the future of energy storage](data/articles/what-a-major-battery-fir.50b299b7/README.md) `technologyreview.com`
+* [The AI relationship revolution is already here](data/articles/the-ai-relationship-revo.882e82c5/README.md) `technologyreview.com`
 * [Something rotten in the state – root causes of Sri Lanka’s  ‘fertiliser policy fiasco’ and a slew of effects on the economy](data/articles/something-rotten-in-the.85fdceb4/README.md) `ft.lk`
 * [Understanding India’s strategic role in Sri Lanka](data/articles/understanding-india-s-st.d316079b/README.md) `ft.lk`
 * [It’s not monkey business that made the grid unstable](data/articles/it-s-not-monkey-business.0937fe80/README.md) `ft.lk`
@@ -30,6 +33,7 @@ Last Updated **2025-02-14 06:24:52**
 * [Sri Lanka has great opportunity to become major destination for fee-paying foreign students](data/articles/sri-lanka-has-great-oppo.898e0eee/README.md) `ft.lk`
 * [Building stronger UK-Sri Lanka partnership for the future](data/articles/building-stronger-uk-sri.dcd6d6ee/README.md) `ft.lk`
 * [Public petition demanding repeal of Prevention of Terrorism Act and removal or reduction of VAT](data/articles/public-petition-demandin.bc0c6b77/README.md) `ft.lk`
+* [Robots are bringing new life to extinct species](data/articles/robots-are-bringing-new.bbbb398e/README.md) `technologyreview.com`
 
 ## 2025-02-11
 
