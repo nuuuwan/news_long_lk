@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-14 18:19:52**
+Last Updated **2025-02-15 06:24:48**
+
+## 2025-02-15
+
+* [Weaponisation of Financial Action Task Force and impact on CSOs](data/articles/weaponisation-of-financi.ebdddfd1/README.md) `ft.lk`
+* [Financing climate action: Adaptation finance gap](data/articles/financing-climate-action.85b319cf/README.md) `ft.lk`
+* [Lasantha’s daughter expresses regret over BASL stand](data/articles/lasantha-s-daughter-expr.523ef615/README.md) `ft.lk`
 
 ## 2025-02-14
 
+* [Buses do not kill; bus drivers do: One dies every 3 hours in road accidents](data/articles/buses-do-not-kill-bus-dr.5b9fed1b/README.md) `ft.lk`
 * [Military format analysis: Balancing Chinese and Indian strategic interests](data/articles/military-format-analysis.a50c6e03/README.md) `ft.lk`
 * [Rajavarothayam Sampanthan: Leader of Sri Lankan Tamils from 2010 to 2024](data/articles/rajavarothayam-sampantha.382f59ab/README.md) `ft.lk`
 * [Budgeting for future – prioritising inclusion and equity](data/articles/budgeting-for-future-pri.eee9136e/README.md) `ft.lk`
