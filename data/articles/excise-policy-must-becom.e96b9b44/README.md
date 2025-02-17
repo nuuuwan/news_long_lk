@@ -1,0 +1,36 @@
+# Excise policy must become sensible and sustainable
+
+[https://www.ft.lk/opinion/Excise-policy-must-become-sensible-and-sustainable/14-773108](https://www.ft.lk/opinion/Excise-policy-must-become-sensible-and-sustainable/14-773108)
+
+*04:14 AM, Monday, February 17, 2025*
+
+The percentage of Government earnings from the tobacco industry and its revenue potential has dropped as a result of this pricing nightmare
+
+Alcohol and smoking are ingrained in our society and have been for hundreds of years, as popular history would dictate. There is reason why Sri Lanka always turns up amongst the top five consumers of alcohol per capita annually. If anyone wants to fix or control it – that is good and well. But let us go about it in the right manner, without distorting and running away from truths
+
+The recent excise tax-based price increase on cigarettes and alcohol, the third within a space of just two years, has pushed consumers, revellers, tipplers and even tourists to the brink, but despite that some vested quarters maintain there is more flesh to be got. This is becoming akin to a snowball’s chance in hell.
+
+The price of cigarettes and alcohol in Sri Lanka is exorbitant. For instance, a 1-litre bottle of a popular spirit is a mere GBP45 ($ 56) at supermarkets in the UK. The same product is $ 90 at Dubai Duty Free and a whopping $ 125 at Sri Lanka’s Duty Free. Thus, the sale value of this product on regular shelves in Colombo needs little wonder. But as is customary, much of the hype sits over cigarette pricing and there is constant prattle over the matter.
+
+With the recent hike of Rs. 10, Sri Lanka’s most popular cigarette brand is now Rs. 160 a stick, which in terms of per capita earnings, makes Sri Lanka the most expensive place in the world for cigarettes as the WHO reported. Smuggled brands like Manchester and Davidoff are just Rs. 80-100 a stick, whilst as of mid-2024, the market saw an influx of smuggled capsulated cigarettes in Colombo at just Rs. 120, filling the void created by Dunhill Switch. It is estimated that the Government revenue impact of capsuled cigarettes is ~Rs. 20 billion.
+
+Returning to the point on pricing, there seems to be a plethora of media coverage by heavily foreign funded research agencies – with its blinkers on to avoid seeing illicit products – harps on how price increases bring increased revenue to Ceylon Tobacco Company, and how the tax percentage of price increases have reduced over the years. Naturally, a Rs. 10 increase now when the price of stick is Rs. 150 is going to be smaller in percentage compared to when it was less than Rs. 100 in 2017. Legal cigarette volumes are down to just Rs. 2 billion last year, a drop of over 500 million sticks.
+
+The percentage of Government earnings from the tobacco industry and its revenue potential has dropped as a result of this pricing nightmare. The fabled reduction of health costs is not coming true in a market that is now dominated by illicit products. The Department of Customs estimated over 1 billion smuggles cigarettes made their way into the market last year, this is notwithstanding the growth and presence of beedis, which now sits at over six billion sticks annually. However, these very real elements are ignored by the anti-tobacco lobby and agencies like Verite Research that receive funding from agencies like Bloomberg Philanthropies. These vested institutions don’t like to get their hands dirty in the dark and criminally-backed realm of illicit markets. They feel safer dabbling with legal entities that hardly present a threat or challenge.
+
+Verite in a recent article, post the price increase, whilst lamenting of tax-in-price percentage, states there are “two simple goals of cigarette taxation”. One is to reduce consumption, in line with economic and health policy goals, by maintaining or reducing the affordability of cigarettes. Two is to achieve the global benchmark target for the percentage of the tax in the price of a cigarette (tax-in-price).
+
+There is no question or argument against the first objective. But this is only feasible when it happens in a scenario where there is no prevalence of a mammoth grey market that is priced Rs. 80 or less than legal products. Developed markets globally have failed to wipe out grey markets, and Sri Lanka too certainly has failed in that endeavour. Bhutan more recently banned tobacco products, and before a decade had passed, reversed the decision thanks to a flurry of illicit products that flooded the country with no revenue to government and achieving no public health objective. This then leads to a question over the relevance of point number two. When people are smoking and dying consuming more illicits over legal products due to price; tax-in-price of cigarettes should hardly become a primary concern.
+
+Conflicting points of view
+
+It appears Government and its officials are getting conflicting points of view from advisors – if any of them still are. Verite and some of its senior personnel position themselves as progressive think tanks, and were even appointed to advisory committees in the previous government.
+
+Contrary to this position, Advocata has dismissed the argument that cigarettes are not indexed to inflation as “absolute nonsense” and termed Sri Lanka’s tobacco tax policy as distortionary and terribly regressive. They are the one of the few groups who have pointed to the creation of a huge illicit market opening doors to serious corruption vulnerability, due to inequitable tax design. They also alluded to the sufferings of the bottom-end of the income pyramid, where blue collar workers are pushed to consume oral tobacco, which is a serious killer, and no rich household is bearing that cost.
+
+Two trains of thought, and sadly successive Sri Lankan Governments have chosen the answer that is popular on paper. A mere walk on the street amply demonstrates how far removed these theories are from reality, and just how large a volume of illicit cigarettes has flooded the market. Alcohol and smoking are ingrained in our society and have been for hundreds of years, as popular history would dictate. There is reason why Sri Lanka always turns up amongst the top five consumers of alcohol per capita annually.
+
+If anyone wants to fix or control it – that is good and well. But let us go about it in the right manner, without distorting and running away from truths. The arguments put forth by Verite and some of the anti-tobacco lobby is vested. The head of one such unit affiliated to a medical council claimed that Government does not need the 15% of tax revenue it receives annually from alcohol and tobacco. It is important that relevant subject specialists comment on such matters and not get carried away by romanticised fascinations.
+
+(The writer is a Senior Research Associate attached to a leading Auditor in Colombo specialising in consumer behaviour, product and trade policy.)
+

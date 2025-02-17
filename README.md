@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-16 18:18:02**
+Last Updated **2025-02-17 06:25:12**
+
+## 2025-02-17
+
+* [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.e96b9b44/README.md) `ft.lk`
+* [Trump’s misfiring trump card: weaponising tariffs and immiserating own citizens](data/articles/trump-s-misfiring-trump.9d682944/README.md) `ft.lk`
+* [Colonel Henry Olcott and the Buddhist Kingdom of Lion](data/articles/colonel-henry-olcott-and.15c3dfc2/README.md) `ft.lk`
+* [In loving memory of Angela Malik  Kadirgamar (22.06.1930 – 17.11.2024)](data/articles/in-loving-memory-of-ange.62412f2f/README.md) `ft.lk`
+* [Government borrowing and debt sustainability: Lessons from  Sri Lanka’s crisis and path to recovery](data/articles/government-borrowing-and.c6fb4791/README.md) `ft.lk`
 
 ## 2025-02-16
 
