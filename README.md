@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-17 06:25:12**
+Last Updated **2025-02-17 18:20:23**
 
 ## 2025-02-17
 
+* [This artist collaborates with AI and robots](data/articles/this-artist-collaborates.b185bfec/README.md) `technologyreview.com`
+* [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.29aae78e/README.md) `ft.lk`
 * [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.e96b9b44/README.md) `ft.lk`
 * [Trump’s misfiring trump card: weaponising tariffs and immiserating own citizens](data/articles/trump-s-misfiring-trump.9d682944/README.md) `ft.lk`
 * [Colonel Henry Olcott and the Buddhist Kingdom of Lion](data/articles/colonel-henry-olcott-and.15c3dfc2/README.md) `ft.lk`
@@ -36,6 +38,7 @@ Last Updated **2025-02-17 06:25:12**
 ## 2025-02-13
 
 * [What a major battery fire means for the future of energy storage](data/articles/what-a-major-battery-fir.50b299b7/README.md) `technologyreview.com`
+* [Motor neuron diseases took their voices. AI is bringing them back.](data/articles/motor-neuron-diseases-to.dca33b91/README.md) `technologyreview.com`
 * [The AI relationship revolution is already here](data/articles/the-ai-relationship-revo.882e82c5/README.md) `technologyreview.com`
 * [Something rotten in the state – root causes of Sri Lanka’s  ‘fertiliser policy fiasco’ and a slew of effects on the economy](data/articles/something-rotten-in-the.85fdceb4/README.md) `ft.lk`
 * [Understanding India’s strategic role in Sri Lanka](data/articles/understanding-india-s-st.d316079b/README.md) `ft.lk`

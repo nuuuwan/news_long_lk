@@ -1,5 +1,19 @@
 [
   {
+    "title": "This artist collaborates with AI and robots",
+    "url": "https://www.technologyreview.com/2025/02/17/1111387/ai-sougwen-chung-art-robots-collaboration/",
+    "ut": 1739748600.0,
+    "dir_path_unix": "data/articles/this-artist-collaborates.b185bfec",
+    "time_str_formatted": "05:00 AM, Monday, February 17, 2025"
+  },
+  {
+    "title": "Excise policy must become sensible and sustainable",
+    "url": "https://www.ft.lk/columns/Excise-policy-must-become-sensible-and-sustainable/4-773108",
+    "ut": 1739745870.0,
+    "dir_path_unix": "data/articles/excise-policy-must-becom.29aae78e",
+    "time_str_formatted": "04:14 AM, Monday, February 17, 2025"
+  },
+  {
     "title": "Excise policy must become sensible and sustainable",
     "url": "https://www.ft.lk/opinion/Excise-policy-must-become-sensible-and-sustainable/14-773108",
     "ut": 1739745870.0,
@@ -124,6 +138,13 @@
     "ut": 1739406607.0,
     "dir_path_unix": "data/articles/what-a-major-battery-fir.50b299b7",
     "time_str_formatted": "06:00 AM, Thursday, February 13, 2025"
+  },
+  {
+    "title": "Motor neuron diseases took their voices. AI is bringing them back.",
+    "url": "https://www.technologyreview.com/2025/02/13/1111882/motor-neuron-diseases-took-their-voices-ai-bringing-them-back/",
+    "ut": 1739405655.0,
+    "dir_path_unix": "data/articles/motor-neuron-diseases-to.dca33b91",
+    "time_str_formatted": "05:44 AM, Thursday, February 13, 2025"
   },
   {
     "title": "The AI relationship revolution is already here",
