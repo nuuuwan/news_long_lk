@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-17 18:20:23**
+Last Updated **2025-02-18 06:25:15**
+
+## 2025-02-18
+
+* [Teachers’ perception of online child safety: Call for urgent intervention](data/articles/teachers-perception-of-o.9eddd905/README.md) `ft.lk`
+* [Sri Lanka moves to digitalise Intellectual Property Office with WIPO support: A response](data/articles/sri-lanka-moves-to-digit.2ece8c44/README.md) `ft.lk`
+* [Maha Kumbh 2025:  Destination branding at its best](data/articles/maha-kumbh-2025-destinat.1793604c/README.md) `ft.lk`
+* [Clean Sri Lanka and noise pollution – Part I](data/articles/clean-sri-lanka-and-nois.48a924fb/README.md) `ft.lk`
 
 ## 2025-02-17
 
+* [Is Sri Lanka turning around?](data/articles/is-sri-lanka-turning-aro.6bfbb49f/README.md) `ft.lk`
 * [This artist collaborates with AI and robots](data/articles/this-artist-collaborates.b185bfec/README.md) `technologyreview.com`
 * [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.29aae78e/README.md) `ft.lk`
 * [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.e96b9b44/README.md) `ft.lk`
@@ -17,6 +25,10 @@ Last Updated **2025-02-17 18:20:23**
 ## 2025-02-16
 
 * [ஸ்ரீலங்கா தாயே” இலங்கையின்  தேசிய கீதத்தின் படிமுறை வளர்ச்சி மற்றும் சுதந்திரத்துக்கு பிறகு அது தமிழில் இசைக்கப்படும் வரலாறு](data/articles/ஸ-ர-லங-க-த-ய-இலங-க-ய-ன-த.81fe1075/README.md) `dbsjeyaraj.com`
+* [Singing the National Anthem in Tamil is  an Excellent  Example of Being Sri Lankan and Being Tamil.](data/articles/singing-the-national-ant.a30d56f7/README.md) `dbsjeyaraj.com`
+* [Evergreen Memories of Actor-Politician Vijaya Kumaratunga](data/articles/evergreen-memories-of-ac.8b3782fd/README.md) `dbsjeyaraj.com`
+* [The NPP/JVP is not racist. But it’s more non-racist than anti-racist, preferring to shelve thorny issues in favour of sugary rhetoric about unity, fraternity and peace. That suffices to keep the racist floods at bay,for now.](data/articles/the-npp-jvp-is-not-racis.bcbb4aa9/README.md) `dbsjeyaraj.com`
+* [Lasantha Wickrematunge’s killers are probably laughing up their sleeves as public attention remains focused on the  Driver abduction case. This may  be exactly what the ‘Deep State’ forces wanted all along.](data/articles/lasantha-wickrematunge-s.b473591b/README.md) `dbsjeyaraj.com`
 
 ## 2025-02-15
 
