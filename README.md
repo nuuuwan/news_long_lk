@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-18 06:25:15**
+Last Updated **2025-02-18 18:19:31**
 
 ## 2025-02-18
 
+* [How to have a child in the digital age](data/articles/how-to-have-a-child-in-t.c18e711b/README.md) `technologyreview.com`
 * [Teachers’ perception of online child safety: Call for urgent intervention](data/articles/teachers-perception-of-o.9eddd905/README.md) `ft.lk`
 * [Sri Lanka moves to digitalise Intellectual Property Office with WIPO support: A response](data/articles/sri-lanka-moves-to-digit.2ece8c44/README.md) `ft.lk`
 * [Maha Kumbh 2025:  Destination branding at its best](data/articles/maha-kumbh-2025-destinat.1793604c/README.md) `ft.lk`
@@ -13,6 +14,7 @@ Last Updated **2025-02-18 06:25:15**
 
 ## 2025-02-17
 
+* [Wetlands and the cities](data/articles/wetlands-and-the-cities.0f989ed1/README.md) `ft.lk`
 * [Is Sri Lanka turning around?](data/articles/is-sri-lanka-turning-aro.6bfbb49f/README.md) `ft.lk`
 * [This artist collaborates with AI and robots](data/articles/this-artist-collaborates.b185bfec/README.md) `technologyreview.com`
 * [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.29aae78e/README.md) `ft.lk`
@@ -45,6 +47,7 @@ Last Updated **2025-02-18 06:25:15**
 * [Beyond compliance: Can stock exchange and accounting bodies drive corporate environmental reporting?](data/articles/beyond-compliance-can-st.08dc1b3a/README.md) `ft.lk`
 * [The Gaadi-shian Effect on the Sinhala cinema](data/articles/the-gaadi-shian-effect-o.29f69efc/README.md) `ft.lk`
 * [Rise of neo-conglomerates: Obsessive focus on core competencies](data/articles/rise-of-neo-conglomerate.2248ba88/README.md) `ft.lk`
+* [My sex doll is mad at me: A short story](data/articles/my-sex-doll-is-mad-at-me.fd13329c/README.md) `technologyreview.com`
 * [A woman made her AI voice clone say “arse.” Then she got banned.](data/articles/a-woman-made-her-ai-voic.240aea3b/README.md) `technologyreview.com`
 
 ## 2025-02-13

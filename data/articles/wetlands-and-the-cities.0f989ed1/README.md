@@ -1,0 +1,46 @@
+# Wetlands and the cities
+
+[https://www.ft.lk/opinion/Wetlands-and-the-cities/14-773151](https://www.ft.lk/opinion/Wetlands-and-the-cities/14-773151)
+
+*11:59 PM, Monday, February 17, 2025*
+
+Little has been achieved to better the conditions of this sanctuary in the past decade
+
+The fact that wetland values are overlooked is now threatening their existence. This land is faced with many environmental challenges, including deforestation and dumping garbage. In addition to these issues, the area is threatened by pollution and the expansion of urban areas. Domestic and industrial effluent and pollutants discharged into river and other waterways are a threat to the survival of fresh water fish and the surrounding birds. Another prevalent threat to the country’s wetlands is illegal encroachment
+
+Wetlands are defined as ‘Lands that are transitional between terrestrial and aquatic eco-systems where the water table is usually at or near the surface or where the land is covered by shallow water (Mitsch and Gosselink 1986). Wetlands provide many services and commodities to humanity. Wetlands are in many cases integral parts of larger landscapes, their functions and values to the people in these landscapes depend on both their extent and their location. Each wetland is thus ecologically unique.
+
+Wetlands provide extractable resources such as fish, fodder and fuel wood. These sites because of their pleasing appearance serve as recreation areas much needed in the cities. Most importantly wetlands on a large scale, serve as refuges of biodiversity. Wetlands are highly productive ecosystems that provide the world with nearly two-thirds of its fish harvest. They take many forms including marshes, estuaries, mudflats, mires, ponds, fens, pocosins, swamps, deltas, coral reefs, billabongs, lagoons, shallow seas, bogs, lakes, and floodplains. There are also human-made wetlands such as fish and shrimp ponds, farm ponds, irrigated agricultural land, salt pans, reservoirs, gravel pits, sewage farms and canals.
+
+Diversity of wetlands in Sri Lanka has a vast network of inland water bodies. The natural freshwater habitats of the island consist of rivers and their tributaries, extensive marshes, and many permanent or seasonal ponds. The rivers flow more or less radially through a distance of about 4,563 km, particularly numerous in the wet zone. The extensive marshes are either connected to rivers or represent seasonally contracted flood plains isolated from the rivers.
+
+Although the country is not endowed with natural lakes, there are many water bodies that have been created in the flood plains of the major rivers. These are known as villus, and cover a total area of about 12,500 ha. Many of the largest villus are situated in the Mahaweli River system in the east. Additionally, there are many reservoirs constructed during the period of the ancient kings. Sri Lanka in fact has one of the most elaborate and well-designed ancient irrigation systems that have ever existed in the world (South Indian and Sri Lankan wetlands).
+
+One of the most threatened habitats of the world
+
+Current status of wetlands is one of the most threatened habitats of the world. The rapidly expanding human population, large scale changes in land use/land cover, burgeoning development projects and improper use of watersheds have caused substantial decline of wetland resources of the country. Significant losses have resulted from conversion of wetlands into other uses such as industrial, agricultural and urban developmental activities resulting in adverse hydrological perturbations. The island’s wetlands are being encroached upon by industrial facilities, roads and settlements, and this needs to be prevented or carefully controlled, especially inside protected areas.
+
+The Bundala National Park in Sri Lanka for instance, is threatened by a number of proposed developments in its immediate vicinity; the Hambantota ‘mega-city’: an oil refinery, harbour, airport, hotels, etc. Development projects should be reviewed through environmental impact assessments and, if necessary, revised in order to reconcile the needs of nature conservation and economic development. The filling up of wet areas with soil constitutes acute loss whereas the gradual elimination of forest cover with subsequent erosion and sedimentation of the wetlands over many years occur.
+
+Although to a lesser extent, unsustainable levels of grazing and fishing activities have also resulted in degradation of wetlands (South Indian and Sri Lankan wetlands). The interaction of man with wetlands during the last few decades has been of concern largely due to the rapid population growth – accompanied by intensified industrial, commercial and residential development further leading to pollution of wetlands by domestic, industrial sewage, and agricultural run-offs as fertilisers, insecticides and feedlot wastes.
+
+The fact that wetland values are overlooked is now threatening their existence. This land is faced with many environmental challenges, including deforestation and dumping garbage. In addition to these issues, the area is threatened by pollution and the expansion of urban areas. Domestic and industrial effluent and pollutants discharged into river and other waterways are a threat to the survival of fresh water fish and the surrounding birds. Another prevalent threat to the country’s wetlands is illegal encroachment.
+
+History of protection
+
+The second Ramsar site, Anaiwillundawa Tank, Sanctuary was declared on 3 August 2001. However, the sad fact remains after 11 years of being party to a pact to protect all “areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed six metres” respective authorities in Sri Lanka are still immune to the destruction and turn a blind eye over this most important wetland located within the periphery of the commercial capital – the Bellanwila Attidiya sanctuary.
+
+Bellanwila-Attidiya is undoubtedly the most written about and talked about sanctuary, declared under the Fauna and Flora Protection Ordinance on 25 July 1990. Yet, little has been achieved to better the conditions of this sanctuary in the past decade. The degradation increases day by day. It may be listed as one of the 42 internationally important wetlands in Asia.
+
+The characteristics of a biotic community are generally determined by the features of the habitats in which it is found. The present avifaunal study conducted at Bellanwila Attidiya Marsh in close proximity to Colombo city. The study focused on comparing composition of bird communities, ascertaining the relationship of the bird community to vegetational structure at the Bellanwila Attidiya as well as to determine the typical guild structure of a bird community. The study was conducted over four months from March to June.
+
+For the Avifaunal survey, 40 Visual Circular Plots were marked along each transect at 100 m intervals. Each transect was surveyed for 10 days, both morning (0630 – 0930 hrs) and evening (1500 – 1800 hrs). Habitat assessments were conducted in quadrates of 10 x 10 m along each transect. A total of 355 birds belonging to 41 species and belonging to 32 families were recorded from Bellanwila Attidiya Marsh. The terrestrial habitat had a greater species richness and abundance than other three habitats, with 28 species and 145 individuals being recorded in the Bellanwila Attidiya Marsh.
+
+Nevertheless, a large proportion of the species (65%) were shared between the four habitats and none of the species were common for all four habitats. The most common species were the house crow with 14 in marsh and 27 in terrestrial habitats. Considering vegetation characteristics, the greatest plant diversity was observed in the terrestrial habitats and included a range of home garden trees such as King Coconut (Cocuc nusifera), Mango (Mangifera Indica) and Ambaralla (Spondias dulcis). Much of the marshy areas were covered with Wellatha trees (Anonaglabra) and reeds.
+
+The present study suggests that the Bellanwila Attidiya Marsh, although it is a naturally created area for birds, today most of the area is covered with garbage, land filling and illegal encroachments by humans.
+
+(The writer holds a Phd, MSc (Env.Sc), BSc, T.Eng, C.Env, Botanic
+
+garden Mgmt. (Oxford UK).)
+
