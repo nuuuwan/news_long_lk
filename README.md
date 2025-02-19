@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-18 18:19:31**
+Last Updated **2025-02-19 06:25:12**
+
+## 2025-02-19
+
+* [Upali Wijewardene: Sri Lanka’s immensely popular indigenous tycoon](data/articles/upali-wijewardene-sri-la.99b3289f/README.md) `ft.lk`
 
 ## 2025-02-18
 
