@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-19 06:25:12**
+Last Updated **2025-02-19 18:19:05**
 
 ## 2025-02-19
 
+* [Clean Sri Lanka and noise pollution – Part I](data/articles/clean-sri-lanka-and-nois.7ee166ad/README.md) `ft.lk`
+* [Wetlands and the cities](data/articles/wetlands-and-the-cities.ef990c98/README.md) `ft.lk`
+* [Sri Lankan banking sector outlook: Post-Budget](data/articles/sri-lankan-banking-secto.3bce4200/README.md) `ft.lk`
+* [Doctorates in industry as key performance indicator: Advancing Sri Lanka’s industrial and economic growth](data/articles/doctorates-in-industry-a.853faa27/README.md) `ft.lk`
+* [Congress used to evaluate emerging technologies. Let’s do it again.](data/articles/congress-used-to-evaluat.86c4ae93/README.md) `technologyreview.com`
 * [Upali Wijewardene: Sri Lanka’s immensely popular indigenous tycoon](data/articles/upali-wijewardene-sri-la.99b3289f/README.md) `ft.lk`
 
 ## 2025-02-18
@@ -20,6 +25,7 @@ Last Updated **2025-02-19 06:25:12**
 
 * [Wetlands and the cities](data/articles/wetlands-and-the-cities.0f989ed1/README.md) `ft.lk`
 * [Is Sri Lanka turning around?](data/articles/is-sri-lanka-turning-aro.6bfbb49f/README.md) `ft.lk`
+* [Adventures in the genetic time machine](data/articles/adventures-in-the-geneti.5a738f55/README.md) `technologyreview.com`
 * [This artist collaborates with AI and robots](data/articles/this-artist-collaborates.b185bfec/README.md) `technologyreview.com`
 * [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.29aae78e/README.md) `ft.lk`
 * [Excise policy must become sensible and sustainable](data/articles/excise-policy-must-becom.e96b9b44/README.md) `ft.lk`
