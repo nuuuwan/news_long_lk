@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-20 06:25:02**
+Last Updated **2025-02-20 18:20:46**
 
 ## 2025-02-20
 
+* [What’s driving electricity demand? It isn’t just AI and data centers.](data/articles/what-s-driving-electrici.a48f4e93/README.md) `technologyreview.com`
 * [Clean Sri Lanka and noise pollution – Part II](data/articles/clean-sri-lanka-and-nois.68da2e61/README.md) `ft.lk`
 * [AKD paves the path towards reconciliation](data/articles/akd-paves-the-path-towar.daca43f5/README.md) `ft.lk`
 * [A chance from China and JVP-NPP’s Angunakolapelessa axiom](data/articles/a-chance-from-china-and.cedfd6ac/README.md) `ft.lk`
@@ -19,11 +20,13 @@ Last Updated **2025-02-20 06:25:02**
 * [Wetlands and the cities](data/articles/wetlands-and-the-cities.ef990c98/README.md) `ft.lk`
 * [Sri Lankan banking sector outlook: Post-Budget](data/articles/sri-lankan-banking-secto.3bce4200/README.md) `ft.lk`
 * [Doctorates in industry as key performance indicator: Advancing Sri Lanka’s industrial and economic growth](data/articles/doctorates-in-industry-a.853faa27/README.md) `ft.lk`
+* [Upali Wijewardene : Sri Lanka’s Immensely Popular Indigenous Tycoon.](data/articles/upali-wijewardene-sri-la.d640cb3d/README.md) `dbsjeyaraj.com`
 * [Congress used to evaluate emerging technologies. Let’s do it again.](data/articles/congress-used-to-evaluat.86c4ae93/README.md) `technologyreview.com`
 * [Upali Wijewardene: Sri Lanka’s immensely popular indigenous tycoon](data/articles/upali-wijewardene-sri-la.99b3289f/README.md) `ft.lk`
 
 ## 2025-02-18
 
+* [Nokia is putting the first cellular network on the moon](data/articles/nokia-is-putting-the-fir.128bf213/README.md) `technologyreview.com`
 * [Inside China’s electric-vehicle-to-humanoid-robot pivot](data/articles/inside-china-s-electric.37675e9a/README.md) `technologyreview.com`
 * [How to have a child in the digital age](data/articles/how-to-have-a-child-in-t.c18e711b/README.md) `technologyreview.com`
 * [Teachers’ perception of online child safety: Call for urgent intervention](data/articles/teachers-perception-of-o.9eddd905/README.md) `ft.lk`

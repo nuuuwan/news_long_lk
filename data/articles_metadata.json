@@ -1,5 +1,12 @@
 [
   {
+    "title": "What\u2019s driving electricity demand? It isn\u2019t just AI and data centers.",
+    "url": "https://www.technologyreview.com/2025/02/20/1112119/electricity-demand-2025/",
+    "ut": 1740011400.0,
+    "dir_path_unix": "data/articles/what-s-driving-electrici.a48f4e93",
+    "time_str_formatted": "06:00 AM, Thursday, February 20, 2025"
+  },
+  {
     "title": "Clean Sri Lanka and noise pollution \u2013 Part II",
     "url": "https://www.ft.lk/columns/Clean-Sri-Lanka-and-noise-pollution-Part-II/4-773274",
     "ut": 1740002247.0,
@@ -70,6 +77,13 @@
     "time_str_formatted": "06:30 AM, Wednesday, February 19, 2025"
   },
   {
+    "title": "Upali Wijewardene : Sri Lanka\u2019s Immensely Popular Indigenous Tycoon.",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85587",
+    "ut": 1739924717.0,
+    "dir_path_unix": "data/articles/upali-wijewardene-sri-la.d640cb3d",
+    "time_str_formatted": "05:55 AM, Wednesday, February 19, 2025"
+  },
+  {
     "title": "Congress used to evaluate emerging technologies. Let\u2019s do it again.",
     "url": "https://www.technologyreview.com/2025/02/19/1111573/congress-office-technology-assessment-emerging-innovation/",
     "ut": 1739921400.0,
@@ -82,6 +96,13 @@
     "ut": 1739912243.0,
     "dir_path_unix": "data/articles/upali-wijewardene-sri-la.99b3289f",
     "time_str_formatted": "02:27 AM, Wednesday, February 19, 2025"
+  },
+  {
+    "title": "Nokia is putting the first cellular network on the moon",
+    "url": "https://www.technologyreview.com/2025/02/18/1111984/nokia-is-putting-the-first-cellular-network-on-the-moon/",
+    "ut": 1739835000.0,
+    "dir_path_unix": "data/articles/nokia-is-putting-the-fir.128bf213",
+    "time_str_formatted": "05:00 AM, Tuesday, February 18, 2025"
   },
   {
     "title": "Inside China\u2019s electric-vehicle-to-humanoid-robot pivot",
