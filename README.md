@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-19 18:19:05**
+Last Updated **2025-02-20 06:25:02**
+
+## 2025-02-20
+
+* [Clean Sri Lanka and noise pollution – Part II](data/articles/clean-sri-lanka-and-nois.68da2e61/README.md) `ft.lk`
+* [AKD paves the path towards reconciliation](data/articles/akd-paves-the-path-towar.daca43f5/README.md) `ft.lk`
+* [A chance from China and JVP-NPP’s Angunakolapelessa axiom](data/articles/a-chance-from-china-and.cedfd6ac/README.md) `ft.lk`
+* [Budget 2025: Reviewing focus on trade and competitiveness](data/articles/budget-2025-reviewing-fo.2ba08271/README.md) `ft.lk`
+* [Reimagining Sri Lankan cuisine: Bringing Paradise to Sri Lanka](data/articles/reimagining-sri-lankan-c.21476104/README.md) `ft.lk`
 
 ## 2025-02-19
 
+* [How the Hospitality Sector Can Become More Energy-Efficient](data/articles/how-the-hospitality-sect.7c92b894/README.md) `hbr.org`
 * [Clean Sri Lanka and noise pollution – Part I](data/articles/clean-sri-lanka-and-nois.7ee166ad/README.md) `ft.lk`
 * [Wetlands and the cities](data/articles/wetlands-and-the-cities.ef990c98/README.md) `ft.lk`
 * [Sri Lankan banking sector outlook: Post-Budget](data/articles/sri-lankan-banking-secto.3bce4200/README.md) `ft.lk`
@@ -15,6 +24,7 @@ Last Updated **2025-02-19 18:19:05**
 
 ## 2025-02-18
 
+* [Inside China’s electric-vehicle-to-humanoid-robot pivot](data/articles/inside-china-s-electric.37675e9a/README.md) `technologyreview.com`
 * [How to have a child in the digital age](data/articles/how-to-have-a-child-in-t.c18e711b/README.md) `technologyreview.com`
 * [Teachers’ perception of online child safety: Call for urgent intervention](data/articles/teachers-perception-of-o.9eddd905/README.md) `ft.lk`
 * [Sri Lanka moves to digitalise Intellectual Property Office with WIPO support: A response](data/articles/sri-lanka-moves-to-digit.2ece8c44/README.md) `ft.lk`
