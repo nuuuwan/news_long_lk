@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-21 06:25:18**
+Last Updated **2025-02-21 18:20:03**
 
 ## 2025-02-21
 
@@ -10,6 +10,7 @@ Last Updated **2025-02-21 06:25:18**
 * [Budget 2025: Methodological error](data/articles/budget-2025-methodologic.4a188b21/README.md) `ft.lk`
 * [Are all generics the same?](data/articles/are-all-generics-the-sam.2b5b328e/README.md) `ft.lk`
 * [Cleaning up fossils in administration](data/articles/cleaning-up-fossils-in-a.11f148dc/README.md) `ft.lk`
+* [8,000 pregnant women may die in just 90 days because of US aid cuts](data/articles/8-000-pregnant-women-may.9d8e982e/README.md) `technologyreview.com`
 
 ## 2025-02-20
 
@@ -24,6 +25,7 @@ Last Updated **2025-02-21 06:25:18**
 ## 2025-02-19
 
 * [How the Hospitality Sector Can Become More Energy-Efficient](data/articles/how-the-hospitality-sect.7c92b894/README.md) `hbr.org`
+* [A new Microsoft chip could lead to more stable quantum computers](data/articles/a-new-microsoft-chip-cou.c4eb0cb1/README.md) `technologyreview.com`
 * [Clean Sri Lanka and noise pollution – Part I](data/articles/clean-sri-lanka-and-nois.7ee166ad/README.md) `ft.lk`
 * [Wetlands and the cities](data/articles/wetlands-and-the-cities.ef990c98/README.md) `ft.lk`
 * [Sri Lankan banking sector outlook: Post-Budget](data/articles/sri-lankan-banking-secto.3bce4200/README.md) `ft.lk`
