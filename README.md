@@ -2,11 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-20 18:20:46**
+Last Updated **2025-02-21 06:25:18**
+
+## 2025-02-21
+
+* [IMF’s iron clasp, a maiden Budget and protecting the poor](data/articles/imf-s-iron-clasp-a-maide.41228c6c/README.md) `ft.lk`
+* [Budget 2025: Methodological error](data/articles/budget-2025-methodologic.4a188b21/README.md) `ft.lk`
+* [Are all generics the same?](data/articles/are-all-generics-the-sam.2b5b328e/README.md) `ft.lk`
+* [Cleaning up fossils in administration](data/articles/cleaning-up-fossils-in-a.11f148dc/README.md) `ft.lk`
 
 ## 2025-02-20
 
 * [What’s driving electricity demand? It isn’t just AI and data centers.](data/articles/what-s-driving-electrici.a48f4e93/README.md) `technologyreview.com`
+* [This company is trying to make a biodegradable alternative to spandex](data/articles/this-company-is-trying-t.9b498d6c/README.md) `technologyreview.com`
 * [Clean Sri Lanka and noise pollution – Part II](data/articles/clean-sri-lanka-and-nois.68da2e61/README.md) `ft.lk`
 * [AKD paves the path towards reconciliation](data/articles/akd-paves-the-path-towar.daca43f5/README.md) `ft.lk`
 * [A chance from China and JVP-NPP’s Angunakolapelessa axiom](data/articles/a-chance-from-china-and.cedfd6ac/README.md) `ft.lk`
