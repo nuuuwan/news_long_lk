@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-21 18:20:03**
+Last Updated **2025-02-22 06:24:54**
 
 ## 2025-02-21
 
+* [External debt: Sri Lanka’s ‘Enemy at the Gates’](data/articles/external-debt-sri-lanka.3e2a4d53/README.md) `ft.lk`
+* [Will the grid be stable? Advancing solar  PV integration: Vision for sustainable energy future](data/articles/will-the-grid-be-stable.f8b497d6/README.md) `ft.lk`
+* [Monkey matters: Legend  of a crisis foretold](data/articles/monkey-matters-legend-of.b73793e1/README.md) `ft.lk`
+* [Power failure – by default or design](data/articles/power-failure-by-default.68a2775a/README.md) `ft.lk`
 * [IMF’s iron clasp, a maiden Budget and protecting the poor](data/articles/imf-s-iron-clasp-a-maide.41228c6c/README.md) `ft.lk`
 * [Budget 2025: Methodological error](data/articles/budget-2025-methodologic.4a188b21/README.md) `ft.lk`
 * [Are all generics the same?](data/articles/are-all-generics-the-sam.2b5b328e/README.md) `ft.lk`
