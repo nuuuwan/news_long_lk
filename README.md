@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-22 06:24:54**
+Last Updated **2025-02-22 18:17:33**
+
+## 2025-02-22
+
+* [Veteran Trincomalee MP Rajavarothayam Sampanthan was Post- war  Leader of Sri Lankan Tamils from 2010 to 2024.](data/articles/veteran-trincomalee-mp-r.093aa611/README.md) `dbsjeyaraj.com`
 
 ## 2025-02-21
 
