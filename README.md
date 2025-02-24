@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-24 06:25:25**
+Last Updated **2025-02-24 18:20:53**
 
 ## 2025-02-24
 
+* [One option for electric vehicle fires? Let them burn.](data/articles/one-option-for-electric.3da998bf/README.md) `technologyreview.com`
+* [Brahmin “Boss Lady” Jayalalithaa Jayaram  had “Dravidian”  AIADMK Party Members  at her Feet Both Metaphorically and Literally.](data/articles/brahmin-boss-lady-jayala.73765348/README.md) `dbsjeyaraj.com`
 * [Another difficult year for construction industry](data/articles/another-difficult-year-f.7e1d8cac/README.md) `ft.lk`
 * [AKD Budget blues: There are prospects, but challenges are more](data/articles/akd-budget-blues-there-a.189ccd7a/README.md) `ft.lk`
 * [“Independent” Prosecutor’s Office: Myth and reality](data/articles/independent-prosecutor.04264a89/README.md) `ft.lk`
