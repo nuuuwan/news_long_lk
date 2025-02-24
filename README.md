@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-23 18:17:46**
+Last Updated **2025-02-24 06:25:25**
+
+## 2025-02-24
+
+* [Another difficult year for construction industry](data/articles/another-difficult-year-f.7e1d8cac/README.md) `ft.lk`
+* [AKD Budget blues: There are prospects, but challenges are more](data/articles/akd-budget-blues-there-a.189ccd7a/README.md) `ft.lk`
+* [“Independent” Prosecutor’s Office: Myth and reality](data/articles/independent-prosecutor.04264a89/README.md) `ft.lk`
+* [Anatomy of an assassination: Case study on the element of surprise and security failures](data/articles/anatomy-of-an-assassinat.1d6cf468/README.md) `ft.lk`
+* [Budget does not align with promises made by AKD or mandate received: Sajith](data/articles/budget-does-not-align-wi.55feb926/README.md) `ft.lk`
 
 ## 2025-02-22
 

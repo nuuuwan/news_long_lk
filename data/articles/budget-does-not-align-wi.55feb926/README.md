@@ -1,0 +1,68 @@
+# Budget does not align with promises made by AKD or mandate received: Sajith
+
+[https://www.ft.lk/opinion/Budget-does-not-align-with-promises-made-by-AKD-or-mandate-received-Sajith/14-773395](https://www.ft.lk/opinion/Budget-does-not-align-with-promises-made-by-AKD-or-mandate-received-Sajith/14-773395)
+
+*02:27 AM, Monday, February 24, 2025*
+
+Opposition leader Sajith Premadasa
+
+Capping primary expenditure at 13% of GDP and maintaining a primary balance at 2.3% of GDP were not election promises of this Government. This is not the execution of a mandate; it is a surrender of the mandate. It is a destruction of the mandate, forgetting what was promised and entering into harsh and oppressive agreements with the International Monetary Fund (IMF) and sovereign bondholders. This does not mean we advocate for withdrawing from the IMF program. Instead, we believe in entering a new, more people-centric and humane path that prioritises the welfare of people
+
+Following is the full speech by Opposition leader Sajith Premadasa in Parliament on the current Government’s Budget
+
+When analysing the solutions that the 2025 Budget should provide for the country, it is crucial to examine the mandate given to implement such a Budget and how that mandate has been executed.
+
+The policy framework presented to secure the mandate was “A Thriving Nation – A Beautiful Life” and “Country to Anura.” We must assess how much of these policy features are reflected in the 2025 Budget.
+
+Looking at the Budget framework, its presentation, and its unveiling, it is clear that this Budget does not align with the promises made or the mandate received. I would like to substantiate this argument with evidence, data, and facts.
+
+On page 105 of the “A Thriving Nation – A Beautiful Life” policy document, there is a commitment to conduct an alternative debt sustainability analysis when the current Government came into power. What has happened to that promise? Instead, what we see today is an unbearable burden and hardship imposed on the people, with the benefits they deserve being severely restricted.
+
+Under the 2024 Fiscal Management (Responsibility) Act, primary expenditure is capped at 13% of GDP, and the primary balance is limited to 2.3% of GDP. Such limits are imposed in only about 10 countries worldwide, including Guatemala, Ethiopia, Sri Lanka, Venezuela, Nigeria, Yemen, Bangladesh, Lebanon, and Haiti.
+
+Capping primary expenditure at 13% of GDP and maintaining a primary balance at 2.3% of GDP were not election promises of this Government. This is not the execution of a mandate; it is a surrender of the mandate. It is a destruction of the mandate, forgetting what was promised and entering into harsh and oppressive agreements with the International Monetary Fund (IMF) and sovereign bondholders.
+
+This does not mean we advocate for withdrawing from the IMF program. Instead, we believe in entering a new, more people-centric and humane path that prioritises the welfare of people.
+
+These fiscal limits make it impossible to correct for externalities or address social costs. The responsibility of a government is to provide public goods, and these limits hinder that. They also restrict social redistribution. International studies show that capping primary expenditure and primary balances is counterproductive to a country’s development. Yet, the Government has ignored all this, renegotiated agreements, and entered into new ones.
+
+In essence, the Government, which came to power with the people’s mandate, has completely surrendered that mandate.
+
+I remember a statement made by President John F. Kennedy:
+
+“The great enemy of the truth is very often not the lie, deliberate, contrived, and dishonest, but the myth, persistent, persuasive, and unrealistic.”
+
+This statement holds great relevance today.
+
+Many people are lamenting that they do not understand the increase in salaries. There is confusion about what will happen to allowances and how they will be structured. We must understand this confusion. This Budget has been prepared within the constraints of 13% primary expenditure and a 2.3% primary balance of GDP. In reality, the amount of funds available to rebuild the country and empower the people is very limited.
+
+We do not dance to their tune
+
+We have met with the International Monetary Fund (IMF) on several occasions. I, along with Harsha de Silva, Kabir Hashim, Eran Wickramaratne, and others, have clearly stated that we are working with the IMF and that we are moving forward with their program. However, we do not dance to their tune. We acknowledge that the IMF program creates hardship and burdens, and there are costs involved. But we must minimise these hardships and burdens as much as possible.
+
+Yet, the President comes to Parliament and says that we must forget all the promises made on election platforms, forget the people’s burdens, tears, and pain, and ignore all these difficulties. He claimed then that by November 2024, the country’s economy would face significant shocks. The President is taking over the agreements negotiated by the previous Ranil Wickremesinghe government wholesale.
+
+We see this as a betrayal of the people’s mandate. On one hand, it is a betrayal of the people, and on the other, he speaks of the lost decades. Will we lose another decade due to this decision? We could have made a better, more beneficial decision for the country—one that reduces burdens instead of increasing them, provides relief instead of hardship, and offers some solution to the people’s cries.
+
+The President has firmly stated in this House that they will be ready to repay our debt by 2028. That is a good thing. Our hope is that we can achieve this. However, we do not endorse the tribal political culture that creates crises within the country and transfers power. To repay the debt by 2028, it is essential to boost economic growth and increase State revenue.
+
+A fact that no one talks about
+
+There is a fact that no one talks about, and many are hiding it. Since 1975, 75 countries have implemented IMF agreements. Of these 75 countries, 59% have inevitably had to enter second, third, and fourth debt restructuring programs. No one talks about this or informs the public. Only 41% of countries have successfully managed their affairs with a single agreement and debt restructuring.
+
+Honestly, I hope we are among that 41%. I pray that we do not have to undergo another debt restructuring. If that happens, it will lead to a severe economic collapse.
+
+Our country should have stayed on the path of debt sustainability, but it has deviated from that line. Our country needs a higher economic growth rate and a faster rate of increasing State revenue. Otherwise, we will have to undergo another debt restructuring.
+
+Even if we cannot stay on the debt sustainability line, we may have to undergo a second or third debt restructuring. If that happens, Sri Lanka will face a global crisis. To prevent this, the country’s economy must grow, and State revenue must increase.
+
+The President stated in his Budget speech that they would achieve a 5% economic growth rate in 2025. That would be good if it can be achieved. However, the President’s speech mentions that according to the World Bank, our country’s poverty rate is 25.9%.
+
+These are the statistics presented by the President in the Budget speech.
+
+But while the President accepts the World Bank’s poverty statistics, the World Bank states that the economic growth rate in January 2025 will be 3.5%. The President has accepted the poverty rate of 25.9% while citing World Bank statistics.
+
+According to the President, the economic growth rate is 5%, but the World Bank states that in January 2025, it will be 3.5%. There is a deficit in the economic growth rate. If this deficit is not bridged, we will fall into difficulty.
+
+As a country, we must move towards rapid economic growth. However, this Budget does not clearly indicate how this will be achieved.
+

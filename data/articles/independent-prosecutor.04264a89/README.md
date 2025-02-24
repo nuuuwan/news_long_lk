@@ -1,0 +1,74 @@
+# “Independent” Prosecutor’s Office: Myth and reality
+
+[https://www.ft.lk/columns/Independent-Prosecutor-s-Office-Myth-and-reality/4-773397](https://www.ft.lk/columns/Independent-Prosecutor-s-Office-Myth-and-reality/4-773397)
+
+*02:37 AM, Monday, February 24, 2025*
+
+A mere change of nomenclature offers no more than a superficial and unconvincing solution
+
+A cornerstone of the legal system
+
+The institution of criminal proceedings is of vital concern to the public. Irrespective of the outcome of proceedings, subjection of a citizen to criminal litigation is fraught with grave consequences, including psychological trauma and impairment of social reputation, quite apart from the expenditure incurred in defending a criminal action.
+
+The law, therefore, goes to considerable lengths to ensure that recourse to criminal proceedings is the sequel to an informed and well-structured process which includes careful consideration of available evidence in a spirit of independence and detachment, far removed from partisan considerations.
+
+The role of the Attorney-General
+
+In our legal system this responsibility belongs to the Attorney-General: it is for him to bring his mind to bear on the entirety of material emanating from police investigations and to make a dispassionate judgment whether the evidence at his disposal, in the surrounding circumstances, warrants the commencement of criminal proceedings.
+
+The solemnity of this burden is underlined by the traditional formulation, in decided cases in our country as well as in other jurisdictions, that the Attorney-General, in performing this function, acts in a quasi-judicial capacity.
+
+This calls for a clear separation of his mindset from that appropriate to the discharge of his other responsibilities. The principal law officer of the Republic, he is the chief advisor to the Government of Sri Lanka, and it frequently falls to his lot to defend, before the courts, senior representatives of the Government in Fundamental Rights, writs and other proceedings.
+
+Nevertheless, it is a sacred and inviolable principle that, when it comes to deciding whether criminal proceedings should be launched or, when once begun, should be discontinued, against any defendant or group of defendants, this decision should be demonstrably bereft of any tinge of political or other extraneous element.
+
+This is one of the core values of the system of criminal justice in our country and, indeed, an indispensable pillar of the Rule of Law.
+
+Ample scope of prosecutorial discretion
+
+A pivot of our law is the principle of vires or jurisdiction, which requires that a statutory power must necessarily be exercised by the authority on which it is conferred by the legislature.
+
+This is the rationale of the concept of prosecutorial discretion vested in the Office of Attorney-General. Discretion to determine the sufficiency of grounds to institute a prosecution or forward an indictment is that of the Attorney-General alone, and any usurpation of that discretion strikes at the very foundation of the system.
+
+This does not mean, however, that the Attorney-General’s discretion is total or absolute, and altogether beyond the reach of the courts.
+
+It is a salutary feature of our law that Sri Lankan courts, buttressed by judicial experience elsewhere, have formulated a series of criteria which operate as the limits of this discretion and enable intervention, with due restraint, in a limited category of situations.
+
+A trilogy of judicial pronouncements by the Court of Appeal of Sri Lanka (Sandresh Ravi Karunanayake v. Attorney-General CA/Writ/441/2021; Duminda Lanka Liyanage v. Attorney-General CA/Writ/323/2022); Nadun Chinthaka Wickramaratne v. Attorney-General CA/Writ/523/2024) have rendered yeoman service to our law in this regard. The value of this approach lies in its essential sense of balance.
+
+These judgments, by Sobhitha Rajakaruna J., now establish with clarity the frontiers of judicial review in respect of prosecutorial discretion of the Attorney-General.
+
+The applicability of judicial review, in this context, has been accepted unequivocally by our courts: Victor Ivan v. Sarath Silva, Attorney-General (1998) 1SLR 340.
+
+Its ramifications straddle a variety of settings. Where, for instance, the initiation of criminal proceedings is entirely unsupported by any evidentiary basis, the indictment may be impugned in judicial review, by the writ of certiorari. In the relevant academic literature, in particular the writings of Professor Sri William Wade, it is identified as a jurisdictional flaw, in that action in the absence of evidence is considered to have been taken without jurisdiction.
+
+Similarly, prosecutorial discretion exercised by the Attorney-General may be vitiated by a range of factors including plainly discernible bias indicative of mala fides, patent error, consideration of irrelevant matters or failure to consider relevant material, grave procedural illegality or irregularity during the decision-making process – blemishes which, severally or in combination, may amount to abuse of process and, therefore, a potential miscarriage of justice.
+
+Recent trends in Commonwealth law suggest scope for expansion of the ambit of judicial review on the broad ground of palpable unreasonableness (in terms of the well-known Wednesbury test), but this is an extension to be effected sparingly.
+
+While these grounds admit of adequate flexibility in relation to judicial review, there is need for uncompromising insistence on the exclusion of any form of political intervention, or even a well-founded suspicion of it, in the interest of preserving public confidence in the integrity of the prosecutorial process.
+
+Contemporary developments
+
+In recent weeks there has been widespread interest in policy perspectives, and timely changes in the law, in this field.
+
+These developments provide the backdrop to the media statement by the Ministry of Justice on 10 February regarding the proposed establishment of an “Independent Prosecutor’s Office”. What is contemplated, as an initial step, is the appointment of an “Expert Committee” to prepare a Concept Paper on which the views of civil society and the public will be invited.
+
+The composition of the proposed Committee has been announced. It will consist of “1. The Attorney-General or two nominees of the Attorney-General; 2. The Secretary to the Ministry of Justice; 3. A senior judge in the judicial service; 4. The President of the Bar Association of Sri Lanka or his nominee”.
+
+While a committee, so constituted, may be appropriate for the preliminary task of suggesting the outlines of the concept, its personnel, clearly, cannot be involved in operationalising the idea, as it moves forward. The Secretary to the Ministry of Justice is a political functionary, subject to control by the Executive; a member of the Judiciary can play no part in decisions as to the suitability of instituting prosecutions; defending counsel in criminal prosecutions will be drawn from the unofficial Bar.
+
+Sri Lanka had, at one time, a Director of Public Prosecutions. The experience of the Crown Prosecution Service in the United Kingdom offers valuable guidance. The Government’s proposal, however, seems to go beyond the appointment of a Director and to envisage a comprehensive prosecutorial mechanism coexisting with the Office of Attorney-General.
+
+Critical policy issues
+
+A mere change of nomenclature offers no more than a superficial and unconvincing solution. The experience of the DPP in our country was not an altogether happy one and, in any case, lasted only a short time. If susceptibility of the Attorney-General’s Office to political pressure is the core issue, it is hardly circumvented by the proposed supplementary mechanism.
+
+Many structural issues naturally arise: What are the lines of demarcation contemplated? The new Office, if it is to serve a useful purpose, must obviously enjoy substantial independence from the Attorney-General, but a complete severance of the nexus, in terms of coordination, is unrealistic.
+
+What safeguards, not explicitly spelt out in relation to the Attorney-General’s Office, are intended to apply to the proposed new Office? Will the Office of the Independent Prosecutor be served by members of the Attorney-General’s Department? If so, how will clarity be achieved in the delineation of reporting obligations? How will overlapping and interlocking lines of authority be dealt with? Since it has been made clear that the Attorney-General’s Office per se, will survive the proposed innovation, will there be some measure of erosion of the Attorney-General’s constitutionally entrenched functions? If this is the case, a piecemeal approach will not be feasible.
+
+These are complex issues which will no doubt engage the intense interest and vigilance of the public, as the proposed reforms move forward.
+
+(The writer holds a D. Phil. (Oxford), Ph. D. (Sri Lanka); is Quondam Visiting Fellow of the Universities of Oxford, Cambridge and London; and former Vice-Chancellor and Emeritus Professor of Law of the University of Colombo.)
+
