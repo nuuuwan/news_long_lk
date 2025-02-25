@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-25 06:25:16**
+Last Updated **2025-02-25 18:21:01**
 
 ## 2025-02-25
 
+* [Are friends electric?](data/articles/are-friends-electric.066cc7da/README.md) `technologyreview.com`
+* [பாதாளஉலக கும்பலின் தலைவர் கணேமுல்ல சஞ்சீவ , யாழ்ப்பாண மாவட்டத்தின் முன்னாள் பாராளுமன்ற உறுப்பினரான ம. ஆ. சுமந்திரனை கொலை செய்வதற்கான சதித்திட்டத்தில் சம்பந்தப்பட்டாரா?](data/articles/ப-த-ளஉலக-க-ம-பல-ன-தல-வர.6888507a/README.md) `dbsjeyaraj.com`
 * [Is Sri Lanka’s economic recovery sustainable?](data/articles/is-sri-lanka-s-economic.a8a6e822/README.md) `ft.lk`
 * [Sri Lanka’s rice conundrum: Recipe for disaster?](data/articles/sri-lanka-s-rice-conundr.93125e40/README.md) `ft.lk`
 * [Complying with Sri Lanka’s Anti-Corruption Act: What corporates need to do](data/articles/complying-with-sri-lanka.6e016901/README.md) `ft.lk`
@@ -37,6 +39,8 @@ Last Updated **2025-02-25 06:25:16**
 * [Are all generics the same?](data/articles/are-all-generics-the-sam.2b5b328e/README.md) `ft.lk`
 * [Cleaning up fossils in administration](data/articles/cleaning-up-fossils-in-a.11f148dc/README.md) `ft.lk`
 * [8,000 pregnant women may die in just 90 days because of US aid cuts](data/articles/8-000-pregnant-women-may.9d8e982e/README.md) `technologyreview.com`
+* [Doctors and patients are calling for more telehealth. Where is it?](data/articles/doctors-and-patients-are.d03d6b73/README.md) `technologyreview.com`
+* [The foundations of America’s prosperity are being dismantled](data/articles/the-foundations-of-ameri.9a84a51a/README.md) `technologyreview.com`
 
 ## 2025-02-20
 
