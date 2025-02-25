@@ -1,0 +1,150 @@
+# Complying with Sri Lanka’s Anti-Corruption Act: What corporates need to do
+
+[https://www.ft.lk/columns/Complying-with-Sri-Lanka-s-Anti-Corruption-Act-What-corporates-need-to-do/4-773435](https://www.ft.lk/columns/Complying-with-Sri-Lanka-s-Anti-Corruption-Act-What-corporates-need-to-do/4-773435)
+
+*12:18 AM, Tuesday, February 25, 2025*
+
+In September 2023, the Anti-Corruption Act No. 09 of 2023 was signed into law, extending the regulation of bribery to include corporate entities in Sri Lanka. Previously, only public officers were liable for prosecution under bribery offences. However, this landmark legislation now encompasses the private sector, expanding the definition of “bribery” to cover a broader range of corrupt activities.
+
+106. (1) Any person who, in the course of any economic, financial or commercial activity, offers, directly or indirectly, a gratification on behalf of himself or another person to any employee in any capacity or a director in a private sector entity, in order to commit any act or refrain from committing any act in breach of his duties, commits an offense of bribery under this Act and on conviction be liable to a fine not exceeding one million rupees or to a term of rigorous imprisonment not exceeding seven years or to both such fine and imprisonment.
+
+In layman’s terms: Imagine a procurement officer in a private company accepts a bribe, perhaps in the form of gifts or favours. Under the new law, anti-corruption authorities can investigate and arrest the officer or director involved, who will then be handcuffed, brought before a magistrate, and prosecuted for bribery. The term “bribery” here broadly covers any corrupt activity as defined by the Act. Such offenses, though possibly unknown to the public, can be readily identified and addressed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+These incidents will undoubtedly have severe repercussions on the goodwill, reputation, and image of the implicated corporate entities and their staff. Therefore, it is imperative for corporations to take this Act seriously and adopt the necessary measures to comply. Implementing this Act should be seen as a cultural shift in corporate practices. The following steps are recommended to ensure immediate compliance with the new anti-corruption legislation.
+
+1.Anti-corruption policy
+
+The board of directors of the company will have to condition themselves to adapt an anti-corruption policy for the company
+
+There should be a company policy to conduct all the business in an honest and ethical manner.
+
+The company should take a zero-tolerance approach to bribery and corruption, and should be committed to acting professionally, fairly and with integrity in all the company business dealings.
+
+The company should uphold all laws relevant to countering bribery and corruption in all the jurisdictions in which the company will operate.
+
+This policy applies to all dealings, transactions, and expenses of the company.
+
+This policy applies to all stakeholders working for or acting on behalf of the company or any of its subsidiaries. It is essential that the tone is set from the top to foster a genuine anti-bribery culture within the organisation. Awareness of anti-bribery policies is just one aspect; a comprehensive cultural shift requires clear and consistent messaging from leadership. It is crucial for those in top positions to unequivocally communicate that bribery and corruption are unacceptable and that anyone found engaging in such activities will face disciplinary action.
+
+However, the most vital element is for leaders to lead by example. They must practice what they preach and truly believe in the importance of anti-bribery policies. This means actively demonstrating their commitment to these principles in their daily actions. If leaders fail to embody the values they advocate, junior officers and other employees will not take the anti-bribery message seriously, and any efforts to promote anti-bribery training will be ineffective. In essence, to establish a robust anti-bribery culture, leaders must not only talk the talk but also walk the walk.
+
+2.Implement a Code of Ethics for its staff and directors
+
+The compliance of anti-corruption measures in a company ideally falls within the purview of the Human Resources (HR) division. The HR department will need to appoint an Integrity Officer who will oversee the company’s adherence to anti-corruption policies.
+
+Under the old act, the CIABOC had guidelines regarding the appointment of an Integrity Officer. It is anticipated that these guidelines will either continue or be enhanced to meet current needs. An Integrity Officer must agree to allow CIABOC to monitor their lifestyle and audit their income and expenditures, as well as those of their spouse, for any signs of illicit income or wealth. CIABOC will have the authority to review bank accounts, property, holdings, and conduct any necessary inquiries to ensure compliance with anti-corruption standards.
+
+Duties and responsibilities
+
+Receive regular training consisting of at least two modules of three hours each per year, on ethics, integrity and anticorruption.
+
+Take necessary action to ensure that all employees comply with gift rules
+
+Take necessary action to ensure that all employees comply with rules on conflict of interests specified
+
+Learn and use the local and international best practices on integrity where appropriate to enhance integrity in the institution
+
+Liaise with CIABOC prevention division and obtain guidance/advise in carrying out his/her responsibilities and duties
+
+Examine procedures/circulars in operation within the institution and where such documents lack clarity or are complex, take necessary steps to make them simple and clear;
+
+Act to apprise all employees regarding procedures and circulars of the institution;
+
+Where required, under the guidance of the head of the institution, appoint a ‘Facilitating Officer’ to guide and facilitate the public;
+
+Observe the day to day functions of the respective institution and report any potential situations of bribery or corruption to the head of the institution;
+
+Play a lead role in creating a “citizen’s charter” on the services provided by the institution;
+
+Take steps to maintain the highest ethical standards in the institution, as such, the following should be considered:
+
+a.Ensure that all employees sign an anticorruption and integrity pledge
+
+b.Take necessary action to implement a suitable code of ethics in the institution
+
+When preparing a code of ethics the following areas should be considered;
+
+1.Preliminary concepts of integrity
+
+2.Values related to the conflict of interest
+
+3.Concepts governing gift policies
+
+It becomes the responsibility of the company to have a code of conduct where each and every employee would be a signatory and an attachment to the letter of appointment. Furthermore, a new employee will have to be given an awareness training on anti corruption on what he/she will have to do or not to do.
+
+Employee responsibilities
+
+a.As an employee, you must ensure that you read, understand, and comply with the information contained within this policy, and with any training or other anti-bribery and corruption information you are given.
+
+b.All employees are equally responsible for the prevention, detection, and reporting of bribery and other forms of corruption.
+
+c.If you have reason to believe or suspect that an instance of bribery or corruption has occurred or will occur in the future that breaches this policy, you must notify the Integrity Officer.
+
+d.If any employee breaches this policy, disciplinary action should be taken/dismissal for gross misconduct.
+
+3.Important rules that need to be in place for corporates to avoid being incompliant
+
+Ideally, the CIABOC should be drafting rules and regulations under section 156 and 157 of the Act that will guide the corporates on the implementation of the act. However, under the previous act, the CIABOC has laid down certain rules that can be applied even in the current state as their applicable.
+
+The purpose of this Gift Rule is to:
+
+a) Prohibit solicitation of a gift;
+
+b) Restrict giving and acceptance of a gift;
+
+c) Specify prohibited sources and exceptions to prohibitions on acceptance of a gift;
+
+d) Prescribe conditions on the use of exceptions to prohibitions on acceptance of a gift;
+
+e) Set procedures for public disclosure by recipients of a gift;
+
+f) Set procedures for disposal of a gift;
+
+g) Offer such other guidance as may be necessary for the effective implementation or administration of this Rule
+
+An officer or a member or his family shall not solicit or accept a gift, presents, or other benefits directly or indirectly from a prohibited source.
+
+An indirect solicitation or acceptance of a gift includes any item solicited or accepted by:
+
+a) An officer’s spouse and/or dependent with the public officer’s knowledge and acquiescence because of the giver’s relationship to that public officer;
+
+b) Any other person recommended or specified by or on behalf of a public officer.
+
+It is also recommended that the HR division, under the supervision of the Integrity Officer, maintain a gift register to document any received gifts and their details. Some companies have adopted a No Gift Policy, which simplifies the monitoring process significantly.
+
+Additionally, companies should be cautious about sponsorships, ensuring that they are not given with the expectation of future transactional benefits. There are instances where companies may place advertisements in souvenirs or sponsor events because a family member of an influential government officer is involved. For example, a corporate entity might sponsor a full-page advertisement for a school sports meet at the behest of a government officer whose daughter attends the school.
+
+Being mindful of these practices and maintaining transparency through proper documentation and policies is crucial in upholding the integrity and compliance with the Anti-Corruption Act.
+
+ii) Conflict of Interest Rule
+
+Types of Conflict of Interest:
+
+A conflict is apparent at the point of making a decision, where the conflict is apparent at the present time.
+
+A conflict might happen in the future. Even though a conflict is not evident presently, there is a possibility of such a conflict arising in future.
+
+Even though there is not actual or potential conflict, in the eyes of others a perception may be created that there exists a conflict of interest.
+
+In keeping inline with the anti corruption policy, it is recommended that the company,
+
+Implements a conflict of interest policy
+
+Monitor and comply implemented policy
+
+Have a Conflict of Interest Disclosure form
+
+Implementing the Anti-Corruption Act in Sri Lanka signifies a pivotal shift for companies, one that aligns with international standards and supports the nation’s journey towards a Clean Sri Lanka.
+
+This cultural transformation requires corporations to depart from longstanding practices and embrace a new era of transparency and integrity. While this shift poses challenges and may impact business operations and profitability, it is essential for the longevity and sustainability of organisations.
+
+The enactment of this policy aligns with the newly elected President’s vision of a corrupt-free society, contributing significantly to the broader national goals. The CIABOC plays a crucial role in this transformation. Beyond prosecuting wrongdoers, CIABOC must focus on raising awareness, starting from the grassroots level in schools, and providing support to corporations in policy implementation.
+
+Achieving a corruption-free society cannot be accomplished by mere assignments; it necessitates comprehensive research and development.
+
+By doing so, Sri Lanka can aspire to create an environment where anti-corruption measures are deeply ingrained in the fabric of its society, paving the way for a prosperous and just nation.
+
+A seminar under the above title will be held on 6 March at the NH Collections Colombo, Colombo 3. You may send your comments for the inclusion into the Rules and Regulations to [email protected]. For any details and registration inquiries, please contact Jane on 0763666246. The event is sponsored by Daily FT.
+
+(The writer is a former Director General of the Security and Exchange Commission of Sri Lanka, with extensive experience in white-collar crime investigation. He is also an Attorney-at-Law, a Solicitor of the United Kingdom and Wales, a former Senior Advisor to the Ministry of Finance, and a past President of the Corporate Lawyers Association of Sri Lanka. He can be reached via [email protected].)
+

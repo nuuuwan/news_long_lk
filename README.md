@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-24 18:20:53**
+Last Updated **2025-02-25 06:25:16**
+
+## 2025-02-25
+
+* [Is Sri Lanka’s economic recovery sustainable?](data/articles/is-sri-lanka-s-economic.a8a6e822/README.md) `ft.lk`
+* [Sri Lanka’s rice conundrum: Recipe for disaster?](data/articles/sri-lanka-s-rice-conundr.93125e40/README.md) `ft.lk`
+* [Complying with Sri Lanka’s Anti-Corruption Act: What corporates need to do](data/articles/complying-with-sri-lanka.6e016901/README.md) `ft.lk`
 
 ## 2025-02-24
 
+* [Simple is effective: Eliminate the unnecessary for the necessary to survive](data/articles/simple-is-effective-elim.af8c8c99/README.md) `ft.lk`
 * [One option for electric vehicle fires? Let them burn.](data/articles/one-option-for-electric.3da998bf/README.md) `technologyreview.com`
 * [Brahmin “Boss Lady” Jayalalithaa Jayaram  had “Dravidian”  AIADMK Party Members  at her Feet Both Metaphorically and Literally.](data/articles/brahmin-boss-lady-jayala.73765348/README.md) `dbsjeyaraj.com`
 * [Another difficult year for construction industry](data/articles/another-difficult-year-f.7e1d8cac/README.md) `ft.lk`
