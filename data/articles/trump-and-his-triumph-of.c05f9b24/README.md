@@ -1,0 +1,90 @@
+# Trump and his triumph of cards
+
+[https://www.ft.lk/columns/Trump-and-his-triumph-of-cards/4-773485](https://www.ft.lk/columns/Trump-and-his-triumph-of-cards/4-773485)
+
+*06:34 AM, Wednesday, February 26, 2025*
+
+If Trump is serious about making America great again then his focus must be on America and America alone
+
+The biggest thunder we experienced this year was the election of the 47th President of the United States of America, Donald Trump.
+
+In this short period of one month we have heard very grand territorial claims from Trump.
+
+1. That he wants to buy the Greenland that belongs to Denmark
+
+2. That he wants to “annex” Canada as the 51st State of the USA
+
+3. That he wants to rename the Gulf of Mexico as the Gulf of America and then the Panama Canal
+
+4. That he wants to own Gaza and transform it into a riviera of the Middle East
+
+All these international land acquisition claims have easily been made by Trump with ignorant disregard for the territorial power and laws of sovereignty. In the case of Greenland it is clear that Denmark is the actual owner of Greenland. The case of owning Gaza is entirely different. Israel in itself is not the owner of the state of Israel. The Israeli government is an occupier of Israel. The real owners of Israel are the Palestinians. All historians will vouch for this. Now the occupier wants to take over Gaza. Benjamin Netanyahu’s appetite for Gaza is different from the appetite of Trump. Trump has a business obsession while Netanyahu reflects a mental insomnia of a minority nation.
+
+Netanyahu wanted nothing but “All” success against Hamas and wanted to eliminate Hamas in its entirety. He was ably supported by senseless Biden. He supplied those missiles/bombs that not only killed thousands of Palestinians but also made a few of them even evaporate. But with all these killings and destruction of almost all of Gaza’s infrastructure, Netanyahu lost the battle. Netanyahu’s goal was to achieve the “Total Victory” and the goal of Hamas was “Never give up until the last soldier is alive for the war”. Hence Netanyahu lost the battle though he won the war! Israel failed! Trump is fully aware of this. Why is he then proposing the same thing again – an all out war against Hamas? This episode 2 will go on for even a longer period with colossal loss for both USA and Israel! Hamas has nothing else to lose. Israel will fail again. If Trump decides to declare a direct war with Hamas then he too will fail. Furthermore, Trump will lose his popularity among his own Americans. Even in the unlikely event he defeats Hamas, well that has nothing to do with “Making America Great Again” and hence he is risking yet another embarrassing “impeachment”.
+
+If Trump is serious about making America great again then his focus must be on America and America alone. This episode 2 will not enjoy any tangible support from other continents in the world. Not even a passive response. USA will be a loner fighting on behalf of his darling state! Though the State remains closer to his heart, he endorsed the view of Colombian Professor Jeffry Sach by sharing the video where the learned professor describes Netanyahu as a “deep, dark son of a bitch who has gotten us into endless wars.”
+
+Already the American empire is declining and if the American dollar loses its status and position as the international currency that determines international trade, then the American empire will lose its vapour to sustain the apex status.
+
+Trump will never ever be able to forcibly evict the Gazans, the way he is evicting the Indians, Mexicans and many others living in the USA claiming that they are illegal immigrants into the USA. There is some logic in what he is doing! But the Gazans are not illegal citizens and as a matter of fact it is the Israelis who are the illegal immigrants who carved out a part of Palestine in the 1940s with the auspices of the UN and brokered by the USA and UK.
+
+In any case Trump has lots and lots of work to do at the home front. Just look at some of the Executive Orders that he has signed, and a lot more to follow.
+
+1. Trump has imposed strict initiatives towards cracking down on illegal immigrants and reshaping the federal government.
+
+2. Transgender people and LGBTQ+ identifying people: Trump has declared that the US will only recognise “two sexes, male and female. These sexes are not changeable and are grounded in fundamental and incontrovertible reality”. It will affect official documents like passports and visas.
+
+3. Trump signed an executive order to begin the process of withdrawing the US from the UN’s health body, the World Health Organization (WHO).
+
+4. The Alaskan fuel: He signed an executive order titled “unleashing Alaska’s extraordinary resource potential”, pledging to “unlock” oil, gas and other natural resources from the state.
+
+5. Trump has issued pardons for nearly 1,600 of his supporters who were arrested in the riot at the US Capitol in 2021.
+
+6. Trump has signed off on withdrawing from the Paris climate agreement – the landmark international deal to limit rising global temperatures. He will have to wait a year before it happens. He previously withdrew in 2017, before Biden re-entered.
+
+7. Trump has suspended the US refugee resettlement program, although details remain unclear.
+
+8. Tariffs: Trump has said blanket tariffs on China, Canada and Mexico could come on 1 February.
+
+9. Israeli settlers sanction: Trump rescinded sanctions that Biden began imposing on extremist Israeli settlers and settler groups in the occupied West Bank nearly one year ago
+
+10. Trump has designated drug cartels and international gangs as foreign terrorist organisations – adding the likes of Salvadoran gang MS-13 to a list that includes the so-called Islamic State.
+
+11. Trump has ordered that officials deny the birthright citizenship to the children of migrants either in the US illegally or on temporary visas. This faces legal challenges.
+
+12. Trump has proclaimed that “America’s sovereignty is under attack”, declaring this to be a national emergency that allows him to free up more funding to reinforce the border with Mexico.
+
+Obsession for high end properties
+
+Trump is the most powerful leader today who owns multitudes of properties all over the world. It is important to understand his roots as a businessman that in certain ways deems him unsuitable for a position of high political power.
+
+Some old habits remain and die hard! Initially such habits would remain a hobby and then a passion and then an obsession. Trump has two such die hard obsessions. He has an obsession for property and property development. The other obsession relates to his personal preference not for wine but for…
+
+He started the property development business together with his father. He began his serious real estate business at his father’s company – Trump Management. The company focused on middle class properties in the New York boroughs of Brooklyn, Queens and Staten Island. After earning a degree from the University of Pennsylvania Wharton School, Trump succeeded his father when his older brother chose to become a pilot. Trump took a million dollar loan from his father and progressed well in the business. He took over the reins of the family business in 1971. Later on he shifted the focus of the business from Brooklyn and Queens to Manhattan and renamed his organisation as the Trump Organization in 1971.
+
+As of today Trump owns multiple properties in the US and outside through the Trump Organization. These includes hotels, resorts residential buildings, golf courses and many other real estate. To name a few:
+
+5. Trump International Hotel & Tower
+
+8 Golf Club & resorts
+
+10. Trump International Hotel – Las Vegas
+
+He also owns the media company – Trump Media & Technology Group – Truth Social
+
+It becomes quite evident now that Trump has an obsession for the acquisition and management of properties. This obsession is non stoppable. Having said that, it will be only fair to assert that Trump is not greedy. Neither is he a cheat though he may have to fight some legal battles. But he can be very exploitative and arrogant. He is always in a hurry and is impatient to conclude a deal. He is clouded in his obsession so much he cannot understand the genuine concerns of the “seller” (the owner). Denmark no doubt is the genuine owner of Greenland!
+
+Trump suffers from a “win-lose” mentality. Despite being a successful entrepreneur he does not believe in a “win-win” spirit to conclude a deal. He must recognise the fact that in a deal, a successful conclusion must be achieved through an active process of negotiation. After all, in business you don’t get what you deserve but what you negotiate. You don’t say “All hell will break loose” if you don’t agree to release all hostages. That’s quite a barbaric threat! That’s not “Trump like” negotiation. And the puppet forwards a similar statement from Tel Aviv to say “All the gates of hell will be opened if you don’t release all our hostages”.
+
+Who’s running the government?
+
+Trump is in the initial stages of his Presidency. The American population is already confused, including the people who voted for him. His first term in office was in January 2017. In no time since then he was threatened so much so that a Time Poll conducted in May 2017 found that the majority of those who supported for impeachment came from a general view that Trump is unfit for office, not the belief that he committed crimes. This blatant disregard for his crimes, on the side of the American populace definitely shows in Trump’s consistently straightforward actions since he stepped foot in the White House. A very notable threat, one can argue, is the seemingly oligarchical twist the American government is taking.
+
+Even prior to his appointment, Trump made his friendships with top billionaires and technological leaders such as Elon Musk, Mark Zuckerberg and Jeff Bezos — crystal clear. Since his appointment, Musk has been a leading name and driving force behind certain executive actions, some may say even more than Trump himself. As seen in a public interview in the oval office where Musk appeared with his cheeky little son “X”, the public image portrayed is one that demonstrates the power Musk has over the president of the United States himself. Americans who protest even hold up signs saying “We never elected Musk!”. Are we witnessing the initial stages of the great collapse of democracy in the United States? More so than ever before. The downsides of technological advancement and data being put into the hands of such tech billionaires, is now a public threat.
+
+Some argue that Trump is quite narcissistic. But Allen Francis M.D. (Chair, department of behavioral science at Duke University) argues that lots of successful people are extremely narcissistic like the celebrities, many politicians, some writers, lawyers, doctors and professors. Trump certainly causes severe distress and impairment in others, but his narcissism doesn’t seem to affect him that way. In many ways, he has proclaimed his outstanding devotion and commitment to furthering the growth of his country. However, at what cost? And are his actions directed towards that? Americans who voted for him are in shock at the rise of the price of eggs and the tremendous loss of jobs due to a ruthless cutting in federal funding for projects directed at international development and aid.
+
+Thunder certainly is a phenomenon not to be taken lightly. Paired with severe rainfall and lightning, it makes a rather threatening appearance. Justin Trudeau, the Prime Minister of Canada has himself stated that “Mr Trump has it in mind that the easiest way to do it is absorbing our country and it is a real thing,” warning his business leaders and general populace to take Trump’s motives seriously. His very simple claims towards invading Palestine and his recent framing of President Zelensky of Ukraine to be a dictator, despite Russia invading Ukraine in the first place, are all statements that hold very heavy weight in the international political arena. He should certainly be mindful of the consequences this may have on his own country, not to mention the consequences he will face by the American citizens who are severely affected by his actions. Will he truly Make America Great Again?
+
+All in all, Trump is Thunderous but not Murderous unlike his Israeli counterpart.
+
