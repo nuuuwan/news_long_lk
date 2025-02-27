@@ -1,0 +1,100 @@
+# Grieving purchasers of failed condominium projects seek help of CMA and Govt. to recover investments
+
+[https://www.ft.lk/columns/Grieving-purchasers-of-failed-condominium-projects-seek-help-of-CMA-and-Govt-to-recover-investments/4-773515](https://www.ft.lk/columns/Grieving-purchasers-of-failed-condominium-projects-seek-help-of-CMA-and-Govt-to-recover-investments/4-773515)
+
+*10:54 PM, Wednesday, February 26, 2025*
+
+Buyers of condominium apartments cannot sustain lengthy litigation processes to recover their investments from stalled apartment projects. Hence their only hope is CMA’s assistance and the help from the governing political authority
+
+When people are lured to buy such property through advertisements and sales pitching, they don’t make adequate efforts to understand the terms and conditions of the SPA and even if they raise any concerns, the developer would say that those are their standard agreements and will not be willing to change any terms and conditions. So they proceed to sign the SPA and later only realise that they have fallen into a trap after a significant portion of the payments have been made and the project has not achieved the expected progress. It will be too late when they realise that the project has been stalled by the developer
+
+This article discusses the perils of the middle income earners who have invested their final savings in the middle income condominium projects but have been totally abandoned by unscrupulous developers. Once trapped in such unwise investments, the legal remedies available to recover the money already paid to the developers are lengthy processes which take decades to receive some relief.
+
+Knowing this situation, such fraudulent developers who have obtained money from prospective purchasers for such condominium projects but failed to deliver the promised housing units under a signed ‘Sales and Purchase Agreement’ (SPA) have cynically challenged the customers to go to courts and get their money back when pleaded by the customers to give back their money invested in such failed projects.
+
+However, the amended ‘Common Amenities Act’ Act No. 24/2003 renamed as ‘Condominium Management Authority Act’, has provided adequate powers to the Condominium Management Authority (CMA) and the Minister, to find redress to the prospective buyers badly affected in such situations. This article discusses the issues pertaining to the failed condominium projects in which prospective buyers have not received the promised housing units from the developer (default owner).
+
+In spite of regular reports in news articles and the media about the bad experiences of prospective purchasers who have been cheated by the developers of condominium apartments, people in Sri Lanka continue to get trapped in apartment projects of fraudulent developers. While there are many complaints against certain developers at CMA, lack of accountability, negligence and CMA’s inactions on such complaints have made these developers continue to flourish in apartment business putting more prospective purchasers at the risk of losing their hard earned money.
+
+Prospective purchasers of condominium apartments who have been subjected to the harassment and threats of fraudulent developers expected a new era in the activities of CMA and expected a fair and reasonable inquiry of their complaints at CMA after the election of the new Government, which has promised corruption-free governance, and given new hopes to the people of this country. Unfortunately the people have seen a wrong turn in the leadership of CMA with the Government appointing a person with conflict of interest to the position of Chairman of CMA. The new Chairman who is a Chartered Engineer by profession, has stated in his business card in the new role as Chairman of CMA, that he is a “MEP/Green Building Consultant”. What does this mean?
+
+Isn’t he trying to advertise his business interests in the business card printed for his Government job? Isn’t he targeting the developers whom he meets at the CMA inquiries of the complaints lodged by the customers? Does he intend to market his business interests of the engineering consultancy services among the developers who are among his target clientele? With such intentions which he has openly advertised in his business card, can he give the correct leadership to the already passive senior management of CMA? Can he act in a fair and reasonable manner towards the customers? Can CMA safeguard the interest of the customers and the mortgagees, if the chairman’s intentions are different?
+
+Biased towards developers?
+
+The Chairman’s role is a very crucial leadership position of CMA and the senior management of CMA heavily rely on his instructions and directions on the matters pertaining to the complaints handled by CMA. If his ulterior motive is to earn a good name among the developers to gain new business opportunities through them, will not he be biased towards the developers? Will such contradictory interests do the necessary fairness and justice to the complaints of the prospective purchasers? If that is the truth, the whole purpose of the existence of CMA will be at stake and the money which the Government spends on CMA will be at waste. Government needs to address this issue immediately.
+
+Many writers who have written articles on condominium developments have highlighted the loopholes in Condominium Law in Sri Lanka and how it has failed to bring relief to the people who are trapped in Sales and Purchase Agreements (SPA) with unscrupulous condominium developers. When people are lured to buy such property through advertisements and sales pitching, they don’t make adequate efforts to understand the terms and conditions of the SPA and even if they raise any concerns, the developer would say that those are their standard agreements and will not be willing to change any terms and conditions. So they proceed to sign the SPA and later only realise that they have fallen into a trap after a significant portion of the payments have been made and the project has not achieved the expected progress. It will be too late when they realise that the project has been stalled by the developer.
+
+The Common Amenities Act 10/1973 which established the ‘Common Amenities Board’ was amended in year 2003 by the Act 24/2003 and changed the name to ‘Condominium Management Authority Act’. The amended CMA Act 24/2003 has considered many aspects of the issues faced by the prospective purchasers in the stalled condominium projects. It is only the lack of will and the undue influence that should have prevented CMA acting in a fair and just manner in resolving customers’ problems. However the Act as explained below, is meant to resolve the issues of such aggrieved customers.
+
+The prevailing CMA Act has a broader mandate with the ‘Objects of the Authority’ stated in Section 5. The objects related to the involvement of CMA during the construction stage of a condominium project are stated in the following subsections of Section 5.
+
+5 (j) monitor the progress of the construction of the registered Provisional Condominium Property in order to ensure that the interests of the stakeholders are protected and to intervene wherever necessary to protect such interests;
+
+5 (m) undertake the completion of any condominium building shown in the registered Semi Condominium Plan or Provisional Condominium Plan, in the event of any owner failing to complete such project;
+
+Under Section 6; ‘Power of the Authority’, powers vested to the Authority to inspect and review ongoing construction works of condominium building projects and the powers to resolve disputes between different stakeholders are stated below.
+
+6 (k) enter either by itself or by its duly authorised agents at all reasonable times, any land parcel of Provisional Condominium Property for the purpose of inspecting and reviewing the progress of the construction of the building shown in the registered provisional condominium plan;
+
+6 (m) resolve disputes between the management corporation and the owner or owners, and occupier, or owner and purchaser, or owner and mortgagee, or mortgagee and prospective purchaser or mortgagor and mortgagee of the condominium parcels of the Condominium Property, or Semi Condominium Property, or registered Provisional Condominium Property;
+
+In order to safeguard the interests of the prospective customers and the mortgagees, the amended Act No. 24/2003 has introduced new Sections 9B, 9C and 9D.
+
+Section 9B is related to “Complaints by a purchaser as regards the common amenities provided by the registered owner”. Two subsections under this Section is summarised below:-
+
+9B (1) On a written complaint made by a purchaser of a condominium parcel of the Condominium Property, the Authority shall on being satisfied after due inquiry, make Order directing the registered owner to provide the required common amenities in the manner acceptable to the Authority, at his expense within the period specified in that Order,
+
+9B (2) Where the registered owner against whom an Order is made under subsection (1) fails to comply with such Order, the Authority shall, provide such services to the purchaser of the condominium parcel of the Condominium Property and recover such expenses from the registered owner in an action in any court of competent jurisdiction, as a debt due to such Authority from the said registered owner.
+
+Section 9C is related to “Monitoring the progress of the construction of the building shown in the registered provisional Condominium Plan”. Subsections which address the concerns of the prospective purchasers are briefly summarised below:
+
+9C (3) Where the General Manager is satisfied that the owner is not carrying out the construction of the registered Provisional Condominium Property as per the project implementation plan filed along with the Provisional Condominium Plan, satisfactorily, and is of the opinion, that the intervention of the Authority is necessary in order to safeguard the interest of mortgagees, or registered prospective purchasers who have already provided finances to the owner under mortgages secured on the land parcel where the proposed building is to be erected as shown in the Provisional Condominium Plan, he shall convene after due notice, a meeting of the owner, such mortgagees, if any, and such prospective purchasers, if any, and discuss the issues which hinder the owner from satisfactorily carrying out such construction.
+
+9C (4) Where the owner fails to participate at such meeting, or after participating fails to provide satisfactory work programme for the construction of the proposed building up to the level of a partly completed building, so that all existing mortgages securing the land parcel and individual condominium parcel could be redeemed and all commitments made towards the registered prospective purchasers could be settled, the Authority may-
+
+a)recommend that the mortgagees take action as per the mortgage instruments, and to recover the money due to the mortgagees, and settle the claims of the registered prospective purchasers,
+
+b)recommend the Minister that such land parcel be vested in the Authority where the Provisional Condominium Property is to be erected, in order to settle the dues of the registered mortgagees or registered prospective purchasers.
+
+Section 9D which is related to “Vesting of the land parcel of a defaulting owner”, explains the Authority vested with the Minister in the case of a “defaulting owner”.
+
+9D (1) the Minister, shall on being satisfied after due inquiry, on a recommendation being made by the Authority or upon the request of the mortgagee make an order directing the owner to carry out the construction as per the registered Provisional Condominium Plan.
+
+9D (2) (c) Where the owner of any provincial condominium property in respect of which an order is made under subsection (1) fails to comply with the order (referred as the “default owner”), the Minister shall, by order published in the Gazette vest such land parcel shown in the registered provisional plan in the Authority.
+
+Section 9D further explains how the Authority shall proceed to compensate the dues of various stakeholders.
+
+Final conclusion and appeal to the new Government
+
+Since the enactment of the new ACT 24/2003, more than 20 years have passed but the peoples’ perception of CMA with regard to how cooperative they are in giving assistance to resolve the disputes of the affected condominium buyers is very poor. The reason for such poor service delivery of CMA officials can be due to following factors:
+
+Complaints received by CMA are overwhelmingly high and the officials are overloaded to concentrate in resolving individual cases. As the complainants feel, CMA officials are not properly guided to close such complaints with satisfactory outcome within a reasonable time period. A senior manager of CMA has told a customer that they do not even have time to read the full context of a complaint. This shows lack of accountability on part of CMA in assisting customers with their issues.
+
+As it seems CMA may be only pursuing the complaints which are pressured from the top due to favouritism with the top management of CMA or from the ruling political hierarchy.
+
+Fraudulent developers also may have close business interests with the ruling politicians which may result many inquiries stalled at the CMA.
+
+Due to above reasons, complaints which can be closed in few months drag more than one year.
+
+The writer focuses on the plight of middle income earners who have invested their hard earned savings of their employment income/retirement benefits or the income generated from a small business. Such prospective buyers of condominium apartments cannot sustain lengthy litigation processes to recover their investments from stalled apartment projects. Hence their only hope is CMA’s assistance and the help from the governing political authority to make necessary improvements at CMA and their processes to give priority to the cases where the impact on the affected people are significantly high.
+
+The proposals given below will be useful to the governing political authority to improve the functions of CMA in order to assist the affected customers who still have high hopes that the new Government will assist them find solutions to their complaints which were submitted to CMA several months back.
+
+Government should hold an inquiry with regard to the appointment of a new chairman having conflict of interest with his role as the Chairman of CMA.
+
+The senior officials of CMA who are handling customer complaints should be given mandatory timelines to close following action items from the date a complaint is received by the authority:
+
+a)Obtain necessary information with regard to the progress of work in comparison with the project implementation plan filed along with the Provisional Condominium Plan.
+
+b)Call prospective purchasers and developer for a discussion. (Subsection 9C (3))
+
+c)Set up timeline for the developer to respond to the issues raised by the prospective purchasers.
+
+d)Hold a formal inquiry if owner does not respond positively to the questions raised by the prospective purchasers.
+
+e)Authority to make necessary recommendations to the Minister to make an Order as per the provisions of the Act. (9D (1) & (2))
+
+If CMA handles complaints as per mandatory timelines to achieve above milestone targets, then the customers will have great relief that their complaints will reach a conclusive outcome within a reasonable time period. The writer on behalf of the people who have been badly affected by such situations makes an urgent appeal to the Minster of Urban Development, Housing and Construction to pay his kind attention to the issues raised in this article.
+

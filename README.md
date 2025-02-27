@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-26 18:21:17**
+Last Updated **2025-02-27 06:25:25**
 
 ## 2025-02-26
 
+* [Anura’s first Budget:  The debt-bomb in the room](data/articles/anura-s-first-budget-the.6981b7be/README.md) `ft.lk`
+* [Grieving purchasers of failed condominium projects seek help of CMA and Govt. to recover investments](data/articles/grieving-purchasers-of-f.6bcbbb33/README.md) `ft.lk`
+* [Does serving a prison sentence absolve a defaulter from unpaid taxes?](data/articles/does-serving-a-prison-se.9d923da1/README.md) `ft.lk`
 * [Welcome to robot city](data/articles/welcome-to-robot-city.cf2ed3ae/README.md) `technologyreview.com`
 * [Securing your rights: Power of Financial Consumer Protection Regulations – Part I](data/articles/securing-your-rights-pow.5bb0937b/README.md) `ft.lk`
 * [Ongoing revolution in the global order](data/articles/ongoing-revolution-in-th.528dfb1f/README.md) `ft.lk`
@@ -24,6 +27,7 @@ Last Updated **2025-02-26 18:21:17**
 ## 2025-02-24
 
 * [Simple is effective: Eliminate the unnecessary for the necessary to survive](data/articles/simple-is-effective-elim.af8c8c99/README.md) `ft.lk`
+* [Merz set to become German chancellor](data/articles/merz-set-to-become-germa.08c3f1bc/README.md) `eiu.com`
 * [One option for electric vehicle fires? Let them burn.](data/articles/one-option-for-electric.3da998bf/README.md) `technologyreview.com`
 * [Brahmin “Boss Lady” Jayalalithaa Jayaram  had “Dravidian”  AIADMK Party Members  at her Feet Both Metaphorically and Literally.](data/articles/brahmin-boss-lady-jayala.73765348/README.md) `dbsjeyaraj.com`
 * [Another difficult year for construction industry](data/articles/another-difficult-year-f.7e1d8cac/README.md) `ft.lk`
@@ -43,6 +47,7 @@ Last Updated **2025-02-26 18:21:17**
 * [Will the grid be stable? Advancing solar  PV integration: Vision for sustainable energy future](data/articles/will-the-grid-be-stable.f8b497d6/README.md) `ft.lk`
 * [Monkey matters: Legend  of a crisis foretold](data/articles/monkey-matters-legend-of.b73793e1/README.md) `ft.lk`
 * [Power failure – by default or design](data/articles/power-failure-by-default.68a2775a/README.md) `ft.lk`
+* [Europe chart of the week: US-Russia talks begin](data/articles/europe-chart-of-the-week.aacf86ab/README.md) `eiu.com`
 * [IMF’s iron clasp, a maiden Budget and protecting the poor](data/articles/imf-s-iron-clasp-a-maide.41228c6c/README.md) `ft.lk`
 * [Budget 2025: Methodological error](data/articles/budget-2025-methodologic.4a188b21/README.md) `ft.lk`
 * [Are all generics the same?](data/articles/are-all-generics-the-sam.2b5b328e/README.md) `ft.lk`
