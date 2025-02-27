@@ -1,5 +1,19 @@
 [
   {
+    "title": "Amazon\u2019s first quantum computing chip makes its debut",
+    "url": "https://www.technologyreview.com/2025/02/27/1112560/amazon-quantum-computing-chip-makes-its-debut/",
+    "ut": 1740616200.0,
+    "dir_path_unix": "data/articles/amazon-s-first-quantum-c.e2fbe41f",
+    "time_str_formatted": "06:00 AM, Thursday, February 27, 2025"
+  },
+  {
+    "title": "EIU\u2019s 2024 Democracy Index: trend of global democratic decline and strengthening authoritarianism continues through 2024",
+    "url": "https://www.eiu.com/n/democracy-index-2024/",
+    "ut": 1740594671.0,
+    "dir_path_unix": "data/articles/eiu-s-2024-democracy-ind.707a8668",
+    "time_str_formatted": "12:01 AM, Thursday, February 27, 2025"
+  },
+  {
     "title": "Anura\u2019s first Budget:  The debt-bomb in the room",
     "url": "https://www.ft.lk/columns/Anura-s-first-Budget-The-debt-bomb-in-the-room/4-773527",
     "ut": 1740594193.0,
@@ -54,6 +68,13 @@
     "ut": 1740531218.0,
     "dir_path_unix": "data/articles/think-again-book-review.c9cb7205",
     "time_str_formatted": "06:23 AM, Wednesday, February 26, 2025"
+  },
+  {
+    "title": "The AI Hype Index: Falling in love with chatbots, understanding babies, and the Pentagon\u2019s \u201ckill list\u201d",
+    "url": "https://www.technologyreview.com/2025/02/26/1111790/ai-hype-index-relationships-chatbots/",
+    "ut": 1740529328.0,
+    "dir_path_unix": "data/articles/the-ai-hype-index-fallin.c88de40f",
+    "time_str_formatted": "05:52 AM, Wednesday, February 26, 2025"
   },
   {
     "title": "Are friends electric?",

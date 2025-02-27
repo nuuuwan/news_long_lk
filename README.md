@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-27 06:25:25**
+Last Updated **2025-02-27 18:21:06**
+
+## 2025-02-27
+
+* [Amazon’s first quantum computing chip makes its debut](data/articles/amazon-s-first-quantum-c.e2fbe41f/README.md) `technologyreview.com`
+* [EIU’s 2024 Democracy Index: trend of global democratic decline and strengthening authoritarianism continues through 2024](data/articles/eiu-s-2024-democracy-ind.707a8668/README.md) `eiu.com`
 
 ## 2025-02-26
 
@@ -14,6 +19,7 @@ Last Updated **2025-02-27 06:25:25**
 * [Ongoing revolution in the global order](data/articles/ongoing-revolution-in-th.528dfb1f/README.md) `ft.lk`
 * [Trump and his triumph of cards](data/articles/trump-and-his-triumph-of.c05f9b24/README.md) `ft.lk`
 * [‘Think Again’: Book review](data/articles/think-again-book-review.c9cb7205/README.md) `ft.lk`
+* [The AI Hype Index: Falling in love with chatbots, understanding babies, and the Pentagon’s “kill list”](data/articles/the-ai-hype-index-fallin.c88de40f/README.md) `technologyreview.com`
 
 ## 2025-02-25
 
