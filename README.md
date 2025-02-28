@@ -2,11 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-27 18:21:06**
+Last Updated **2025-02-28 06:25:25**
+
+## 2025-02-28
+
+* [Eight years of struggle by loved ones of the forcibly disappeared](data/articles/eight-years-of-struggle.5f8b3de2/README.md) `ft.lk`
+* [Future of work: AI, cybersecurity, and leadership in the digital revolution](data/articles/future-of-work-ai-cybers.6596a984/README.md) `ft.lk`
+* [Transforming Sri Lanka’s public sector: Power of strategic marketing](data/articles/transforming-sri-lanka-s.bdcd66e3/README.md) `ft.lk`
+* [2025 Sri Lanka Budget: Mixed bag for startups and young entrepreneurs](data/articles/2025-sri-lanka-budget-mi.195811eb/README.md) `ft.lk`
+* [Budget and bullets](data/articles/budget-and-bullets.a6860f59/README.md) `ft.lk`
 
 ## 2025-02-27
 
+* [An AI companion site is hosting sexually charged conversations with underage celebrity bots](data/articles/an-ai-companion-site-is.4dcee2b5/README.md) `technologyreview.com`
 * [Amazon’s first quantum computing chip makes its debut](data/articles/amazon-s-first-quantum-c.e2fbe41f/README.md) `technologyreview.com`
+* [இலங்கையராகவும் தமிழராகவும் இலங்கையில் அமைதியாக இருக்கும் பெரும்பான்மையான தமிழர்கள் தமிழில் தேசியகீதத்தை இசைக்கவும் தங்களது நாட்டுடன் தங்களை அடையாளப்படுத்திக் கொள்ளவும் விரும்புகிறார்கள்](data/articles/இலங-க-யர-கவ-ம-தம-ழர-கவ-ம.1b77b2f2/README.md) `dbsjeyaraj.com`
 * [EIU’s 2024 Democracy Index: trend of global democratic decline and strengthening authoritarianism continues through 2024](data/articles/eiu-s-2024-democracy-ind.707a8668/README.md) `eiu.com`
 
 ## 2025-02-26
@@ -14,6 +24,7 @@ Last Updated **2025-02-27 18:21:06**
 * [Anura’s first Budget:  The debt-bomb in the room](data/articles/anura-s-first-budget-the.6981b7be/README.md) `ft.lk`
 * [Grieving purchasers of failed condominium projects seek help of CMA and Govt. to recover investments](data/articles/grieving-purchasers-of-f.6bcbbb33/README.md) `ft.lk`
 * [Does serving a prison sentence absolve a defaulter from unpaid taxes?](data/articles/does-serving-a-prison-se.9d923da1/README.md) `ft.lk`
+* [Job titles of the future: Pharmaceutical-grade mushroom grower](data/articles/job-titles-of-the-future.7302ee8d/README.md) `technologyreview.com`
 * [Welcome to robot city](data/articles/welcome-to-robot-city.cf2ed3ae/README.md) `technologyreview.com`
 * [Securing your rights: Power of Financial Consumer Protection Regulations – Part I](data/articles/securing-your-rights-pow.5bb0937b/README.md) `ft.lk`
 * [Ongoing revolution in the global order](data/articles/ongoing-revolution-in-th.528dfb1f/README.md) `ft.lk`
@@ -34,6 +45,7 @@ Last Updated **2025-02-27 18:21:06**
 
 * [Simple is effective: Eliminate the unnecessary for the necessary to survive](data/articles/simple-is-effective-elim.af8c8c99/README.md) `ft.lk`
 * [Merz set to become German chancellor](data/articles/merz-set-to-become-germa.08c3f1bc/README.md) `eiu.com`
+* [Trump 2.0 will weigh on functioning of US government](data/articles/trump-2-0-will-weigh-on.a179c739/README.md) `eiu.com`
 * [One option for electric vehicle fires? Let them burn.](data/articles/one-option-for-electric.3da998bf/README.md) `technologyreview.com`
 * [Brahmin “Boss Lady” Jayalalithaa Jayaram  had “Dravidian”  AIADMK Party Members  at her Feet Both Metaphorically and Literally.](data/articles/brahmin-boss-lady-jayala.73765348/README.md) `dbsjeyaraj.com`
 * [Another difficult year for construction industry](data/articles/another-difficult-year-f.7e1d8cac/README.md) `ft.lk`

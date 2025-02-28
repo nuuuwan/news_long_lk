@@ -1,0 +1,46 @@
+# 2025 Sri Lanka Budget: Mixed bag for startups and young entrepreneurs
+
+[https://www.ft.lk/columns/2025-Sri-Lanka-Budget-Mixed-bag-for-startups-and-young-entrepreneurs/4-773608](https://www.ft.lk/columns/2025-Sri-Lanka-Budget-Mixed-bag-for-startups-and-young-entrepreneurs/4-773608)
+
+*05:40 AM, Friday, February 28, 2025*
+
+Despite several new initiatives, Sri Lanka’s startup ecosystem still struggles to bridge the financing gap
+
+Sri Lanka’s 2025 national Budget has sparked both hope and concern across the entrepreneurial landscape. With young entrepreneurs and the startup ecosystem emerging as vital contributors to the country’s economic recovery, how the Government directs its fiscal policies will have a lasting impact. On one hand, the Budget contains measures to foster innovation and alleviate some of the existing challenges that startups face, but on the other, certain policy decisions may still leave young entrepreneurs in precarious positions.
+
+Support for innovation and research
+
+The most encouraging aspect of the Budget for startups is the emphasis on innovation. The allocation of funds to research and development (R&D) is a signal from the Government that it acknowledges the growing importance of homegrown innovation. By investing in technology and digital transformation, the Budget has promised to improve the business environment for sectors like tech, agriculture, and manufacturing, which are crucial to young startups.
+
+One of the Budget’s most notable proposals is the introduction of tax incentives for businesses investing in R&D. The incentive structure could lower costs for young entrepreneurs who might otherwise struggle with limited financial resources to innovate. In particular, sectors like fintech, agritech, and healthtech, where the gap between idea and implementation is wide, could benefit significantly from such financial stimuli.
+
+Additionally, the Budget promises more support for incubators and accelerators that are critical to nurturing early-stage startups. Providing funding for such ecosystems can create a more conducive environment for the next wave of entrepreneurs. By building a robust network of support around startups, Sri Lanka could accelerate its transformation into a hub for innovation in South Asia.
+
+Challenges to accessing funding
+
+While the Budget’s emphasis on R&D is promising, the bigger challenge lies in access to funding—a perennial issue for young Sri Lankan entrepreneurs. Despite several new initiatives, Sri Lanka’s startup ecosystem still struggles to bridge the financing gap. Many startups rely on angel investors or venture capital (VC) funding, which are limited, and the growth of these avenues has been sluggish.
+
+The Budget does not fully address the issue of venture capital shortages or the lack of sufficient angel investors. Although the Government has pledged to support the development of a financial ecosystem for startups, such promises must be accompanied by tangible measures like establishing specialised funding programs, including debt-financing options tailored to entrepreneurs’ unique needs.
+
+Without enhanced access to funding, young entrepreneurs may still find it hard to scale their businesses and attract international investors. While the tax incentives are helpful, without sufficient venture capital to take those ideas to market, the potential for growth remains limited. The country must consider creating more structured investment mechanisms to fuel innovation at scale.
+
+Tax burden and regulatory hurdles
+
+On the flip side, the Budget also introduces several tax reforms, including an increase in corporate taxes in some sectors, which could inadvertently add to the financial strain young entrepreneurs already face. The tax burden on small businesses—especially those in the early stages—has long been a deterrent to growth, and while the Government has outlined new tax relief schemes, the complexity of compliance remains a challenge.
+
+The introduction of digital tax regulations and compliance requirements could create administrative hurdles for small businesses and startups. Young entrepreneurs, often operating on limited resources and with minimal administrative support, may struggle to meet the evolving tax and regulatory requirements. The Government must ensure that these processes remain simple, transparent, and accessible to foster the development of businesses without overwhelming them.
+
+Another bright spot in the Budget is the focus on youth empowerment through skill development and employment generation. The 2025 Budget allocates funds for creating entrepreneurship training programs, workshops, and internships that will allow young people to acquire valuable skills. This focus on education and skill building is crucial, as the future of Sri Lanka’s startup ecosystem relies on a generation of entrepreneurs equipped with the knowledge, tools, and networks to succeed.
+
+Initiatives to promote entrepreneurship in schools and universities, alongside the establishment of mentorship programs with successful business figures, will lay a strong foundation for future growth. Equipping young people with both the practical and theoretical skills necessary to create successful startups will help bridge the gap between aspirations and execution.
+
+However, the actual implementation of these programs will need to be closely monitored to ensure that they deliver on their promise. If effectively carried out, these initiatives could be transformative for the startup ecosystem, cultivating a new generation of entrepreneurs who are ready to take the risks necessary to innovate.
+
+The 2025 Sri Lanka Budget makes some crucial strides in recognising the importance of entrepreneurship and innovation, but it remains a mixed bag for young entrepreneurs. The Government’s support for R&D, tax incentives, and skill building is commendable, yet challenges remain—particularly in access to funding, navigating complex tax structures, and regulatory hurdles.
+
+The startup ecosystem needs further reforms that make it easier for young businesses to thrive, not just survive. If the Government truly wants to position Sri Lanka as a leader in innovation, a deeper commitment to supporting the startup ecosystem with tangible financial and policy frameworks is needed.
+
+With the right measures, Sri Lanka could see its startup ecosystem flourish—driving the country toward a sustainable, innovative, and economically resilient future. However, for now, entrepreneurs will continue to navigate a landscape that offers as many challenges as opportunities.
+
+(The writer is Chartered Corporate Secretary and Founder of The Boardroom.)
+
