@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-28 06:25:25**
+Last Updated **2025-02-28 18:20:24**
 
 ## 2025-02-28
 
@@ -11,10 +11,12 @@ Last Updated **2025-02-28 06:25:25**
 * [Transforming Sri Lanka’s public sector: Power of strategic marketing](data/articles/transforming-sri-lanka-s.bdcd66e3/README.md) `ft.lk`
 * [2025 Sri Lanka Budget: Mixed bag for startups and young entrepreneurs](data/articles/2025-sri-lanka-budget-mi.195811eb/README.md) `ft.lk`
 * [Budget and bullets](data/articles/budget-and-bullets.a6860f59/README.md) `ft.lk`
+* [An ancient man’s remains were hacked apart and kept in a garage](data/articles/an-ancient-man-s-remains.ae1f2fc7/README.md) `technologyreview.com`
 
 ## 2025-02-27
 
 * [An AI companion site is hosting sexually charged conversations with underage celebrity bots](data/articles/an-ai-companion-site-is.4dcee2b5/README.md) `technologyreview.com`
+* [The best time to stop a battery fire? Before it starts.](data/articles/the-best-time-to-stop-a.2c55d4a5/README.md) `technologyreview.com`
 * [Amazon’s first quantum computing chip makes its debut](data/articles/amazon-s-first-quantum-c.e2fbe41f/README.md) `technologyreview.com`
 * [இலங்கையராகவும் தமிழராகவும் இலங்கையில் அமைதியாக இருக்கும் பெரும்பான்மையான தமிழர்கள் தமிழில் தேசியகீதத்தை இசைக்கவும் தங்களது நாட்டுடன் தங்களை அடையாளப்படுத்திக் கொள்ளவும் விரும்புகிறார்கள்](data/articles/இலங-க-யர-கவ-ம-தம-ழர-கவ-ம.1b77b2f2/README.md) `dbsjeyaraj.com`
 * [EIU’s 2024 Democracy Index: trend of global democratic decline and strengthening authoritarianism continues through 2024](data/articles/eiu-s-2024-democracy-ind.707a8668/README.md) `eiu.com`
