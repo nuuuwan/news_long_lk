@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-02-28 18:20:24**
+Last Updated **2025-03-01 06:25:08**
+
+## 2025-03-01
+
+* [Left behind by debt restructuring: There was an alternative](data/articles/left-behind-by-debt-rest.ef196ff1/README.md) `ft.lk`
+* [When the planets align, what portents for politics?](data/articles/when-the-planets-align-w.45556d1c/README.md) `ft.lk`
+* [Eradicate ‘three-wheeler’ menace](data/articles/eradicate-three-wheeler.4b91c014/README.md) `ft.lk`
 
 ## 2025-02-28
 
