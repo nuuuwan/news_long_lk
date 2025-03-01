@@ -1,0 +1,70 @@
+# Electoral reform and abolishing Executive Presidency
+
+[https://www.ft.lk/columns/Electoral-reform-and-abolishing-Executive-Presidency/4-773662](https://www.ft.lk/columns/Electoral-reform-and-abolishing-Executive-Presidency/4-773662)
+
+*06:28 AM, Saturday, March 01, 2025*
+
+The President’s concern that PR will result in a weak parliament is sufficiently addressed when a majority of MPs are elected under FPP
+
+The Sri Lankan Left spearheaded the campaign against introducing the Executive Presidency and consistently agitated for its abolition. Abolition was a central plank of the platform of the National People’s Power (NPP) at the 2024 Presidential elections and of the Janatha Vimukthi Peramuna (JVP) at all previous elections.
+
+Issues under FPP or a mixed system
+
+President Anura Kumara Dissanayake, participating in the ‘Satana’ program on Sirasa TV, recently reiterated the NPP’s commitment to abolition and raised four issues related to accompanying electoral reform.
+
+The first is that proportional representation (PR) did not, except in a few instances, give the ruling party a clear majority, resulting in a ‘weak parliament’. Therefore, electoral reform is essential when changing to a parliamentary form of government.
+
+Secondly, ensuring that different shades of opinion and communities are proportionally represented may be challenging under the first-past-the-post system (FPP). For example, as the Muslim community in the Kurunegala district is dispersed, a Muslim-majority electorate will be impossible. Under PR, such representation is possible, as happened in 2024, with many Muslims voting for the NPP and its Muslim candidate.
+
+The third issue is a difficulty that might arise under a mixed (FPP-PR) system. For example, the Trincomalee district returned Sinhala, Tamil and Muslim candidates at successive elections. In a mixed system, territorial constituencies would be fewer and ensuring representation would be difficult. For the unversed, there were 160 electorates that returned 168 members under FPP at the 1977 Parliamentary elections.
+
+The fourth is that certain castes may not be represented under a new system. He cited the Galle district where some of the ‘old’ electorates had been created to facilitate such representation.
+
+It might straightaway be said that all four issues raised by President Dissanayake have substantial validity. However, as the writer will endeavour to show, they do not present unsurmountable obstacles.
+
+Proposals for reform, Constitutional Assembly 2016-18
+
+Proposals made by the Steering Committee of the Constitutional Assembly of the 2015 Parliament and views of parties may be referred to.
+
+The Committee proposed a 233-member First Chamber of Parliament elected under a Mixed-Member Proportional (MMP) system that seeks to ensure proportionality in the final allocation of seats. 140 seats (60%) will be filled by FPP. The Delimitation Commission may create dual-member constituencies and smaller constituencies to render possible the representation of communities of interest, whether racial, religious or otherwise. 93 compensatory seats (40%) will be filled to ensure proportionality. Of these, 76 will be filled by PR at the provincial level and 12 by PR at the national level, while the remaining 5 seats will go to the party that secures the highest number of votes nationally.
+
+The Sri Lanka Freedom Party agreed with the proposals in principle, while the Joint Opposition (the precursor of the Sri Lanka Podujana Peramuna) did not make any specific proposals. The Tamil Nationalist Alliance was willing to consider any agreement between the two main parties on the main principles in the interest of reaching an acceptable consensus. The Jathika Hela Urumaya’s position was interesting. If the presidential powers are to be reduced, the party obtaining the highest number of votes should have a majority of seats. Still, the representation of minor political parties should be assured. Therefore, the number of seats added to the winning party should be at the expense of the party placed second.
+
+The All Ceylon Makkal Congress, Eelam People’s Democratic Party, Sri Lanka Muslim Congress and the Tamil Progressive Alliance jointly proposed that the principles of the existing PR system be retained but with elections being held for 40 to 50 electoral zones and a 2% cut-off point. The Janatha Vimukthi Peramuna was for the abolition of the executive presidency and, interestingly, suggested a mixed electoral system that ensures that the final outcome is proportional.
+
+The Collective for Democracy and Rule of Law (CDRL), a group of professionals and academics that included the writer, made detailed proposals on constitutional reform in 2024. It proposed returning to parliamentary government. The legislature would be bicameral, with a House of Representatives of 200 members elected as follows: 130 members will be elected from territorial constituencies, including multi-member and smaller constituencies carved out to facilitate the representation of social groups of shared interest; Sixty members will be elected based on PR at a national or provincial level; 10 seats would be filled through national-level PR from among parties that failed to secure a seat through territorial constituencies or the sixty seats mentioned above, enabling small parties with significant national presence without local concentration to secure representation. Appropriate provisions shall be made to ensure adequate representation of women, youth and underrepresented interest groups.
+
+The writer’s proposal
+
+The people have elected the NPP leader as President and given the party a two-thirds majority in Parliament. It is, therefore, prudent to propose a system that addresses the concerns expressed by the President. Otherwise, we will be going around in circles. The writer believes that the CDRL proposals, suitably modified, present a suitable basis for further discussion.
+
+While the people vehemently oppose any increase in the number of MPs, it would be challenging to address the President’s concerns in a smaller parliament. The writer’s proposal is, therefore, to work within a 225-member Parliament.
+
+The writer proposes that 150 MPs be elected through FPP and 65 through national PR. 10 seats would be filled through national-level PR from among parties that have not secured a seat either through territorial constituencies or the 65 seats mentioned above. The Delimitation Commission shall apportion 150 members among the various provinces proportionally according to the number of registered voters in each province. The Commission will then divide each province into territorial constituencies that will return the number of MPs apportioned. The Commission may create smaller constituencies or multi-member constituencies to render possible the representation of social groups of shared interest.
+
+The 65 PR seats will be proportionally distributed according to the votes received by parties nationally, without a cut-off point. The number of ‘PR MPs’ that a party gets will be apportioned among the various provinces in proportion to the votes received in the provinces. For example, if Party A is entitled to 10 PR seats and has obtained 20% of its total vote from the Central Province, it will fill 2 PR seats from candidates from that Province, and so on. Each party shall submit names of potential ‘PR MPs’ from each of the provinces where the party contests at least one constituency in the order of its preference, and seats allotted to that party in a given province are filled accordingly. The remaining 10 seats will be filled by small parties as proposed by the CDRL.
+
+How does the proposed system address President Dissanayake’s concerns?
+
+The President’s concern that PR will result in a weak parliament is sufficiently addressed when a majority of MPs are elected under FPP.
+
+Before dealing with the other three issues, it must be said that voters do not always vote for candidates from their communities. A classic example is the 1965 election result in Balapitiya, a Left-oriented constituency dominated by a particular caste. The Lanka Sama Samaja Party boldly nominated L.C. De Silva, from a different caste, to contest Lakshman De Silva, a long-standing MP who crossed over to bring down the SLFP-LSSP coalition. Balapitiya voters punished Lakshman and elected L.C.
+
+Multi-member constituencies have generally served their purpose but not always. The Batticaloa dual-member constituency had been created to ‘render possible’ the election of a Tamil and a Muslim. At the 1970 elections, the four leading candidates were Rajadurai of the Federal Party, Makan Markar of the UNP, Rahuman of the SLFP and the independent Selvanayagam. The Muslim vote was closely split between Macan Markar and Rahuman, resulting in both losing. Muslim voters surely knew that a split might deny Muslim representation but preferred to vote according to their political convictions.
+
+The President’s second concern that a dispersed community may not get representation under FPP will also be addressed better under the proposed system. Taking the same Kurunegala district as an example, a party could attract Muslim voters by placing a Muslim high up on the PR list. Similarly, a Tamil party could place a candidate from a depressed community high up in its Northern Province PR list to attract voters of depressed communities and ensure their representation.
+
+The third concern was that the number of electorates would be less under a mixed system, making it challenging to carve out electorates to facilitate the representation of communities, the Trincomalee district being an example. Empowering the Delimitation Commission to create smaller electorates assuages this concern. It will not be Trincomalee District but the whole Eastern Province to which a certain number of FPP MPs will be allotted, giving the Commission broad discretion to carve out electorates. The Commission could also create multimember constituencies to render possible the representation of communities of interest. The fourth concern about caste representation would also be addressed similarly.
+
+It may be noted that the difference between the number of FPP MPs (150) under the proposed system is only 10% less than that under the delimitation of 1975 (168). Also, there will be no cut-off point for PR as against the present cut-off of 5%. This will help small as well as not-so-small parties. Reserving 10 seats for small parties also helps address the concerns of the President.
+
+No spoilers, please. Don’t let electoral reform be an excuse for a Nokerena Wedakama
+
+The writer submits the above proposals as a basis for discussion. While a stable government and the representation of various interests are essential, abolishing the dreaded Executive Presidency is equally important. These are not mutually exclusive.
+
+President Dissanayake also said on Sirasa TV that once the local elections are over, the NPP would first discuss the issue internally. This is welcome as there would be a Government position, which can be the basis for further discussion.
+
+This is the first time a single political party committed to abolition has won a two-thirds majority. Another such opportunity will almost certainly not come. Let there be no spoilers from either side. Let electoral reform not be an excuse for retaining the Executive Presidency. Let the Sinhala saying ‘nokerena veda kamata konduru thel hath pattayakuth thava tikakuth onalu’ not apply to this exercise (‘for the doctoring that will never come off, seven measures and a little more, of the oil of eye-flies are required’—translation by John M. Senaveratne, Dictionary of Proverbs of the Sinhalese, 1936).
+
+According to recent determinations of the Supreme Court, a change to a parliamentary form of government requires the people’s approval at a referendum. While the NPP has a two-thirds majority, it should not take for granted a victory at a referendum held late in the term of Parliament for, then, there is the danger of a referendum becoming a referendum on the Government’s performance rather than one on the constitutional bill, with Opposition parties playing spoilers. If the Government wishes to have the present form of government for, say, four years, it could now move a bill for abolition with a sunset clause that provides for abolition on a specified date. Delay will undoubtedly frustrate the process and open the Government to the accusation that it indulged in a ‘nokerena vedakama’.
+

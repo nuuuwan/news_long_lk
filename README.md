@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-01 06:25:08**
+Last Updated **2025-03-01 18:18:08**
 
 ## 2025-03-01
 
+* [Sinopec’s $ 3.7 billion oil refinery investment in Sri Lanka](data/articles/sinopec-s-3-7-billion-oi.59ce090d/README.md) `ft.lk`
+* [Electoral reform and abolishing Executive Presidency](data/articles/electoral-reform-and-abo.8185ace4/README.md) `ft.lk`
 * [Left behind by debt restructuring: There was an alternative](data/articles/left-behind-by-debt-rest.ef196ff1/README.md) `ft.lk`
 * [When the planets align, what portents for politics?](data/articles/when-the-planets-align-w.45556d1c/README.md) `ft.lk`
 * [Eradicate ‘three-wheeler’ menace](data/articles/eradicate-three-wheeler.4b91c014/README.md) `ft.lk`
