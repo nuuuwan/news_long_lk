@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-02 18:17:36**
+Last Updated **2025-03-03 06:24:56**
+
+## 2025-03-03
+
+* [Catalysing economic growth on a shoe-string budget](data/articles/catalysing-economic-grow.9c658acd/README.md) `ft.lk`
+* [Why SL must continue to pursue non-aligned, yet multi-aligned foreign policy](data/articles/why-sl-must-continue-to.ba638128/README.md) `ft.lk`
+* [Resolve mind to cannibalise yourself before others do so if you want to remain a winner](data/articles/resolve-mind-to-cannibal.4ebfe694/README.md) `ft.lk`
 
 ## 2025-03-01
 

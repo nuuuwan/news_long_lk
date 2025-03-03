@@ -1,0 +1,108 @@
+# Resolve mind to cannibalise yourself before others do so if you want to remain a winner
+
+[https://www.ft.lk/columns/Resolve-mind-to-cannibalise-yourself-before-others-do-so-if-you-want-to-remain-a-winner/4-773695](https://www.ft.lk/columns/Resolve-mind-to-cannibalise-yourself-before-others-do-so-if-you-want-to-remain-a-winner/4-773695)
+
+*03:02 AM, Monday, March 03, 2025*
+
+The secret lies in the continuous innovations which the capitalist markets will introduce. It is the same innovation done by others that will cannibalise us. Since innovations cannot be stopped, it is in our interest that we should cannibalise older methods by ourselves before others would do so
+
+An important feature which is not being understood by us is the dynamism within the market. The dynamism is the process that occurs when the clock is allowed to click forward. The market, like every phenomenon under the Sun, is subject to constant change. This change through time is the reality, but it cannot be gauged by our brains. The brain is a superior instrument in many respects, but it cannot observe and reckon the minute changes happening in infinitesimal doses. Hence, we miss the process and also its outcome. This weakness is typical to an individual, a family, a company, a government, or a nation
+
+Sri Lanka’s economy could be uplifted to a higher level only via innovations. The new economy so created should be inclusive allowing all to enjoy the benefit of development. This will be done by taking the economy to the villages. They will start enjoying the fruits of economic growth by getting connected to the mainstream economy. Sri Lanka’s growth strategy should be to run along with those who run faster and be on par by catching up with them eventually. Digitalisation of the economy will help us attaining this goal
+
+Advice to cannibalise oneself
+
+The co-founder of Apple empire, Steve Jobs, according to his biographer Walter Isaacson, is reported to have been chanting like a mantra that one should not be afraid of losing things which one may have gained by spending even a lifetime – a process called cannibalisation – if it is a matter involving choices between life and death. It is better to lose the gain and remain alive so that you can command over new grounds. If you did not do it, you will soon die and lose everything. That is an important winning strategy that cannot be overlooked. Says Isaacson: “One of Jobs business rules was to never be afraid of cannibalising yourself. If you don’t cannibalise yourself, someone else will, he said. So, even though an iPhone cannibalises sales of an iPod, or an iPad might cannibalise sales of a laptop, that did not deter him”.1
+
+Complex dynamic structure of markets
+
+This business mantra seems to be a simple proposition. But it arises from the complex structure of the market that is characterised by desirable as well as undesirable features. An important feature which is not being understood by us is the dynamism within the market. The dynamism is the process that occurs when the clock is allowed to click forward. The market, like every phenomenon under the Sun, is subject to constant change. This change through time is the reality, but it cannot be gauged by our brains. The brain is a superior instrument in many respects, but it cannot observe and reckon the minute changes happening in infinitesimal doses. Hence, we miss the process and also its outcome. This weakness is typical to an individual, a family, a company, a government, or a nation. Therefore, one who can adjust himself suitably in advance to the changes that occur will emerge as the winner in the game. But still ignorance looms over us.
+
+Binary bias and looming ignorance
+
+The University of Sri Jayewardenepura academic now at the Bangkok based National Institute of Development Administration, Dhanajaya Madusanka Dissanayaka, in a recent article reviewing the Adam Grant’s 2021 book titled ‘Think Again: The Power of Knowing What You Don’t Know’ has drawn our attention to a vital area of our ignorance.2 That is our overdependence on popular binary logic in which we classify things into two and act upon that view. A fundamental classification under binary logic is that something can be either true or false ignoring that there are many options in between. Grant says that this binary view of the world leads to ‘binary-bias’ in which we believe that there are only two extremes that we think that reality offers.
+
+Two dualistic extremes: no meaning of one without the other
+
+In Mahayana Buddhism, this false view is known as dualistic logic that blinds us to believe in the existence of two clearly identifiable extremes.3 But as Mahayana philosophers have presented, if, for example, these two extremes are white and black, white has no meaning unless there is black and black has no meaning without white. An example given in scriptures is that both the Goddess of Wealth and the Goddess of Poverty are twin sisters and if we dismiss the Goddess of Poverty, we will have to dismiss the Goddess of Wealth as well.4 By the same token, if we accommodate Goddess of Wealth, we should necessarily accommodate Goddess of Poverty too.
+
+Economists today call these phenomena ‘goods’ and ‘bads’ which come in a package in every economic transaction that we undertake. Goods produce a desirable product for us, but it also produces undesired waste matter called bads like solids, gases, heat, vapour, noise and so on. If bads are removed, so will be the goods.5 A simple example is that we inhale oxygen to live but we should necessarily produce the bad called carbon dioxide also in the process. If we are prevented from exhaling carbon dioxide, we cannot take in oxygen too into our system.
+
+Fuzzy logic of impreciseness
+
+Hence, to understand dynamism, Buddhism advocates, as the proper way, to go by what is now known as ‘Fuzzy Logic’ in which phenomena cannot be identified conclusively. Reality lies in a dynamic sense in between any two extremes. It is fuzzy logic and not binary or dualistic logic that helps engineers or scientists or economists to understand reality and design machines or products or economic models.
+
+For instance, suppose an engineer wants to design a railway engine. Under binary logic, the engine is either in motion or in a stationary state. But for the engine to do any service to us, it should move with capability to halt at our will. Suppose it is moving and for it to come to a halting position, it should first reduce its speed, do it gradually, and finally come to a stop. In the opposite, when the engine starts to move, the same process should occur in reverse order, increasing the speed gradually till it reaches the required level. This is viewing the phenomena through their dynamic change having allowed the clock to click.
+
+These dynamic changes lie in a wide spectrum starting from an outcome yielding desirability, moves along the spectrum making it better or worse in between and ending at a super desirable position if it becomes better or an undesirable position if it gets worse. It is this dynamic part which has prompted Steve Jobs to cannibalise himself before anyone else would do the same for him because in a market, there are all the incentives for producers to reach the top level by competing out other producers.
+
+Cannibalisation at Apple empire
+
+Steve Jobs did this to the letter when he was at the helm of the Apple empire. His successors are also following him today. Accordingly, different Apple products were first cannibalised when they did not add to the company’s profit levels. For instance, as Walter Isaacson has said, in 2005, iPod contributed about a half of the income of the company. But when it was found that iPod could no longer do the job with the same efficiency, it was cannibalised, and its services were added to iTunes as well as newly designed iPhone. Today, older models of iPhone are being cannibalised every year. Since the introduction of the first iPhone in 2007, there have been new models coming to the market almost every year with iPhone 16 dominating the market today.
+
+Therefore, it is simply a matter of time for the appearance of the next model of iPhone which Apple has already started working on.6 To make it a true cannibalisation, older models of iPhone are no longer served by the Apple’s operating system known as iOS. The pioneers of smart phone, both Nokia and Ericsson, were not privy to this wisdom which Steve Jobs had. Consequently, they have now been cannibalised by their competitors, Apple, Samsung, Huawei, and other entrants to the mobile phone market.
+
+Marxian and Schumpeterian creative destruction
+
+The cannibalisation which Steve Jobs has been practising is not new to economists. The Austrian American economist Joseph Schumpeter termed it ‘creative destruction’ about eight decades ago.7 It is said that Schumpeter developed his concept by following the model described by Karl Marx who talked about the annihilation of the capitalist system through accumulation of wealth. According to Marx, the destruction of the capitalist system in this way was creative because of the emergence of the better social system guided by socialist principles. But Schumpeter did so with the opposite objective of identifying how the capitalist system will prosper and not destroy itself as Marxian theory had predicted.
+
+The secret lies in the continuous innovations which the capitalist markets will introduce. It is the same innovation done by others that will cannibalise us. Since innovations cannot be stopped, it is in our interest that we should cannibalise older methods by ourselves before others would do so.
+
+Innovation Island Summit 2025: treating invention and innovation synonymously
+
+In the recent Innovation Island Summit 2025 in Colombo, jointly hosted by New Delhi based India Promoter Observer Research Foundation, Indian High Commission in Colombo, and Sri Lanka’s diversified business conglomerate Capital Maharaja Group8, President Anura Kumara Dissanayake delivering the keynote took both invention and innovation synonymously.9 His keynote, while elaborating that his Government is guided by innovation, presented to the audience a list of inventions made by mankind throughout history. He said that Sri Lanka should follow India’s example of driving its economy via innovations. He further said that innovations should be brought to the market by commercially producing innovations. The Budget 2025 has allocated sufficient funds for this purpose.
+
+Sri Lanka’s economy could be uplifted to a higher level only via innovations. The new economy so created should be inclusive allowing all to enjoy the benefit of development. This will be done by taking the economy to the villages. They will start enjoying the fruits of economic growth by getting connected to the mainstream economy. Sri Lanka’s growth strategy should be to run along with those who run faster and be on par by catching up with them eventually. Digitalisation of the economy will help us attaining this goal. Those who are willing to take the risk of going beyond the boundary will be supported by the Government. The subsequent panellists like AKD’s Chief Advisor on the Digital Economy, Dr. Hans Wijesuriya, too took both inventions and innovations synonymously and outlined the Government’s policy strategy to make innovations happen in the country.10
+
+Ground conditions for continued prosperity
+
+Joseph Schumpeter took pains in identifying subtle differences between inventions and innovations and also presenting two other ground conditions for a capitalist economy to sustain its growth momentum to prosperity. The dynamic side of economic development was first discussed by him in his treatise on The Theory of Economic Development originally published in German in 1912 and translated into English in 1934.11 This was further elaborated in his second book, Capitalism, Socialism, and Democracy in 1942.
+
+According to Schumpeter, the four requirements for a capitalist economy to sustain its growth and attain prosperity for people are inventions, innovations, diffusion, and imitation.
+
+Inventions and innovations
+
+Inventions are the creation of a new product, service, or management technique by engineers, scientists or management Gurus. There are thousands of such inventions made daily but not all of them come to the market as usable products. That part is done by businessmen by following a process known as innovation. These innovators make market assessment of the new product or service, raise money for production, undertake production, build supply chains of inputs and delivery chains of the final products, attend to after-sale services, and allocate money for continued research on the development of the next generation products. Without these businessmen who take the risk also, inventions made by engineers or scientists will simply remain in prototype form in the files or archives of inventors.
+
+Examples from Apple empire
+
+There are two examples of worth coming from the Apple empire about the relationship between invention and innovation.12 The first Apple Macintosh desktop computer was invented by an engineer called Stephen Wozniak who happened to be a co-founder of Apple empire. But if not for the businessman called Steve Jobs, this valuable invention would have just remained a prototype product forever. It was Steve Jobs who raised money through venture capital, assembled workers and supply chain networks, developed access markets, and manufactured the final product. It was a creative destruction because all the mainframe computer manufacturers of the day like IBM, Sinclair, Texas Instruments became bankrupt.
+
+The second occasion also relates to Steve Jobs. When iPhone was invented by his engineering team in early 2000s, there was the need for having a scratch-free glass for the touchscreen of the phone. At one stage, Steve Jobs was embarrassed in public when he demonstrated an iPhone with a scratched touchscreen at an exhibition. This made him order his engineers to find a suitable glass. Through inquiry, they found another US company called Corning Incorporation had manufactured such a glass in early 1960s for the US Airforce. For some reason, this was not used by the Airforce or any other manufacturer. Hence, it remained as a prototype product in its archives. This glass, named gorilla glass, was used by Apple to power its first iPhone. It became a success. Again, if not for the businessman called Steve Jobs, the gorilla glass would have remained only a prototype product in the archives of Corning Incorporation.
+
+Today, all the mobile phone manufacturers are using this gorilla glass. Hence, inventions should be commercially produced by innovators if they are to serve the people.
+
+Diffusion and Imitation
+
+The first two ground requirements will help a company to make profits. But for an economy to reach a high economic growth, there should be a critical mass of entrepreneurs who would produce the same. For that, the knowledge about the new innovation should be spread and Schumpeter named this process ‘diffusion’ of knowledge. But that alone is not sufficient for the economy to benefit from the innovations. There should be a critical mass of entrepreneurs – enough to influence the production structure – to imitate the same. This is clearly observable in the case of desktop computers, mobile phones and all other innovations made in the market.
+
+Innovation: key to development
+
+Hence, innovations are the key to economic prosperity. However, it is necessary to creatively destroy the existing ones if they do not serve the people any longer. At the same time, governments should encourage inventions, provide facilities for businessmen to innovate the same, allow news to spread and see that they are being imitated by others.
+
+This was what was not highlighted in the Innovation Island Summit in 2025. But it does not debar the AKD Government from following it.
+
+1Isaacson, Walter, 2011, Steve Jobs, Simon and Schuster, p 338.
+
+2https://www.ft.lk/columns/Think-Again-Book-review/4-773484
+
+3The Seeker’s Glossary of Buddhism, 2003, p 205.
+
+5See for details: Beckerman, Wilfred, 1975, Pricing for Pollution, Hobart Paperback, London.
+
+6https://www.cnet.com/tech/mobile/iphone-17-rumors-camera-bar-thinner-phone-and-everything-else-we-could-see/#google_vignette
+
+7See, Schumpeter, Joshep, 1942, Capitalism, Socialism, and Democracy, Routledge, London
+
+8Log in: https://www.youtube.com/results?search_query=innovation+island+summit+2025
+
+9https://www.youtube.com/watch?v=kGfwE2un5y4
+
+10https://www.youtube.com/watch?v=BgHd8i6-8jg
+
+11Schumpeter, Joseph, 1934, The Theory of Economic Development, Harvard University Press, Mass.
+
+12For details, see Isaacson, op cit.
+
+(The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at [email protected].)
+
