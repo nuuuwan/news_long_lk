@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-04 06:25:31**
+Last Updated **2025-03-04 18:20:58**
 
 ## 2025-03-04
 
+* [Inside the Wild West of AI companionship](data/articles/inside-the-wild-west-of.ded52d50/README.md) `technologyreview.com`
 * [Migrant workers not liable for 15% tax](data/articles/migrant-workers-not-liab.62cd2375/README.md) `ft.lk`
 * [Bank of Ceylon and Sri Lanka’s entrepreneurial future: Partnership for growth and innovation](data/articles/bank-of-ceylon-and-sri-l.1a926ec5/README.md) `ft.lk`
 * [Clean Sri Lanka: Travails of commuters](data/articles/clean-sri-lanka-travails.7107d0e6/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-03-04 06:25:31**
 ## 2025-03-03
 
 * [Propaganda, lies, and power: How fake news shapes the world](data/articles/propaganda-lies-and-powe.f55a3607/README.md) `ft.lk`
+* [Double-edged sword: Social media’s role  in solving and obstructing criminal investigations](data/articles/double-edged-sword-socia.f78209ea/README.md) `ft.lk`
 * [Should we be moving data centers to space?](data/articles/should-we-be-moving-data.75395ec6/README.md) `technologyreview.com`
 * [The Long -Drawn – Out , Unfinished  “Poaraattam ” (Struggle)                             by Loved Ones  of the Forcibly Disappeared Tamil People Reaches Eight Year Milepost.](data/articles/the-long-drawn-out-unfin.d3a157f6/README.md) `dbsjeyaraj.com`
 * [Catalysing economic growth on a shoe-string budget](data/articles/catalysing-economic-grow.9c658acd/README.md) `ft.lk`
