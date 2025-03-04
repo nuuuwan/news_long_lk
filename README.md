@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-03 18:20:50**
+Last Updated **2025-03-04 06:25:31**
+
+## 2025-03-04
+
+* [Migrant workers not liable for 15% tax](data/articles/migrant-workers-not-liab.62cd2375/README.md) `ft.lk`
+* [Bank of Ceylon and Sri Lanka’s entrepreneurial future: Partnership for growth and innovation](data/articles/bank-of-ceylon-and-sri-l.1a926ec5/README.md) `ft.lk`
+* [Clean Sri Lanka: Travails of commuters](data/articles/clean-sri-lanka-travails.7107d0e6/README.md) `ft.lk`
+* [Is the public sector solely responsible for what has happened?](data/articles/is-the-public-sector-sol.9b414641/README.md) `ft.lk`
 
 ## 2025-03-03
 
+* [Propaganda, lies, and power: How fake news shapes the world](data/articles/propaganda-lies-and-powe.f55a3607/README.md) `ft.lk`
+* [Should we be moving data centers to space?](data/articles/should-we-be-moving-data.75395ec6/README.md) `technologyreview.com`
 * [The Long -Drawn – Out , Unfinished  “Poaraattam ” (Struggle)                             by Loved Ones  of the Forcibly Disappeared Tamil People Reaches Eight Year Milepost.](data/articles/the-long-drawn-out-unfin.d3a157f6/README.md) `dbsjeyaraj.com`
 * [Catalysing economic growth on a shoe-string budget](data/articles/catalysing-economic-grow.9c658acd/README.md) `ft.lk`
 * [Why SL must continue to pursue non-aligned, yet multi-aligned foreign policy](data/articles/why-sl-must-continue-to.ba638128/README.md) `ft.lk`
@@ -31,6 +40,8 @@ Last Updated **2025-03-03 18:20:50**
 ## 2025-02-27
 
 * [An AI companion site is hosting sexually charged conversations with underage celebrity bots](data/articles/an-ai-companion-site-is.4dcee2b5/README.md) `technologyreview.com`
+* [OpenAI just released GPT-4.5 and says it is its biggest and best chat model yet](data/articles/openai-just-released-gpt.9f49f8c5/README.md) `technologyreview.com`
+* [How a volcanic eruption turned a human brain into glass](data/articles/how-a-volcanic-eruption.517d5683/README.md) `technologyreview.com`
 * [The best time to stop a battery fire? Before it starts.](data/articles/the-best-time-to-stop-a.2c55d4a5/README.md) `technologyreview.com`
 * [Amazon’s first quantum computing chip makes its debut](data/articles/amazon-s-first-quantum-c.e2fbe41f/README.md) `technologyreview.com`
 * [இலங்கையராகவும் தமிழராகவும் இலங்கையில் அமைதியாக இருக்கும் பெரும்பான்மையான தமிழர்கள் தமிழில் தேசியகீதத்தை இசைக்கவும் தங்களது நாட்டுடன் தங்களை அடையாளப்படுத்திக் கொள்ளவும் விரும்புகிறார்கள்](data/articles/இலங-க-யர-கவ-ம-தம-ழர-கவ-ம.1b77b2f2/README.md) `dbsjeyaraj.com`
