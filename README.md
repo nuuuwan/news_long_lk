@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-05 06:25:09**
+Last Updated **2025-03-05 18:20:49**
 
 ## 2025-03-05
 
@@ -28,6 +28,7 @@ Last Updated **2025-03-05 06:25:09**
 * [எதிர்வரும் ஞாயிற்றுக்கிழமை (09-03-1925) மாலை 5.30 மணிக்கு  கொழும்பு தமிழ்ச்சங்கத்தில்  டி.பி.எஸ்.ஜெயராஜ் எழுதிய ‘ இலங்கையில் அரசியல் அதிகாரத்தின் வர்க்க மாற்றம் ; இலங்கையின் முதலாவது இடதுசாரி ஜனாதிபதி அநுர குமார திசநாயக்க ‘ நூல் வெளியீடு](data/articles/எத-ர-வர-ம-ஞ-ய-ற-ற-க-க-ழம.eb237c07/README.md) `dbsjeyaraj.com`
 * [Should we be moving data centers to space?](data/articles/should-we-be-moving-data.75395ec6/README.md) `technologyreview.com`
 * [The Long -Drawn – Out , Unfinished  “Poaraattam ” (Struggle)                             by Loved Ones  of the Forcibly Disappeared Tamil People Reaches Eight Year Milepost.](data/articles/the-long-drawn-out-unfin.d3a157f6/README.md) `dbsjeyaraj.com`
+* [How DeepSeek became a fortune teller for China’s youth](data/articles/how-deepseek-became-a-fo.391c2972/README.md) `technologyreview.com`
 * [Catalysing economic growth on a shoe-string budget](data/articles/catalysing-economic-grow.9c658acd/README.md) `ft.lk`
 * [Why SL must continue to pursue non-aligned, yet multi-aligned foreign policy](data/articles/why-sl-must-continue-to.ba638128/README.md) `ft.lk`
 * [Resolve mind to cannibalise yourself before others do so if you want to remain a winner](data/articles/resolve-mind-to-cannibal.4ebfe694/README.md) `ft.lk`
