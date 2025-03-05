@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-04 18:20:58**
+Last Updated **2025-03-05 06:25:09**
+
+## 2025-03-05
+
+* [By the pricking of my thumbs](data/articles/by-the-pricking-of-my-th.1a46ffc4/README.md) `ft.lk`
+* [The new Electricity Act, CEB restructuring and safety](data/articles/the-new-electricity-act.332de299/README.md) `ft.lk`
+* [Tariff wars: How will the US reciprocal tariff impact Sri Lanka?](data/articles/tariff-wars-how-will-the.37a04ae1/README.md) `ft.lk`
+* [From download to fallout: Implications of Sri Lanka’s evolving IP landscape on digital collaboration](data/articles/from-download-to-fallout.42ce9485/README.md) `ft.lk`
+* [Fake journal publications: Silent fraud in university systems costing billions to taxpayers](data/articles/fake-journal-publication.e0aecb64/README.md) `ft.lk`
 
 ## 2025-03-04
 
+* [De-extinction scientists say these gene-edited ‘woolly mice’ are a step toward woolly mammoths](data/articles/de-extinction-scientists.684741fc/README.md) `technologyreview.com`
 * [Inside the Wild West of AI companionship](data/articles/inside-the-wild-west-of.ded52d50/README.md) `technologyreview.com`
 * [Migrant workers not liable for 15% tax](data/articles/migrant-workers-not-liab.62cd2375/README.md) `ft.lk`
 * [Bank of Ceylon and Sri Lanka’s entrepreneurial future: Partnership for growth and innovation](data/articles/bank-of-ceylon-and-sri-l.1a926ec5/README.md) `ft.lk`
@@ -16,6 +25,7 @@ Last Updated **2025-03-04 18:20:58**
 
 * [Propaganda, lies, and power: How fake news shapes the world](data/articles/propaganda-lies-and-powe.f55a3607/README.md) `ft.lk`
 * [Double-edged sword: Social media’s role  in solving and obstructing criminal investigations](data/articles/double-edged-sword-socia.f78209ea/README.md) `ft.lk`
+* [எதிர்வரும் ஞாயிற்றுக்கிழமை (09-03-1925) மாலை 5.30 மணிக்கு  கொழும்பு தமிழ்ச்சங்கத்தில்  டி.பி.எஸ்.ஜெயராஜ் எழுதிய ‘ இலங்கையில் அரசியல் அதிகாரத்தின் வர்க்க மாற்றம் ; இலங்கையின் முதலாவது இடதுசாரி ஜனாதிபதி அநுர குமார திசநாயக்க ‘ நூல் வெளியீடு](data/articles/எத-ர-வர-ம-ஞ-ய-ற-ற-க-க-ழம.eb237c07/README.md) `dbsjeyaraj.com`
 * [Should we be moving data centers to space?](data/articles/should-we-be-moving-data.75395ec6/README.md) `technologyreview.com`
 * [The Long -Drawn – Out , Unfinished  “Poaraattam ” (Struggle)                             by Loved Ones  of the Forcibly Disappeared Tamil People Reaches Eight Year Milepost.](data/articles/the-long-drawn-out-unfin.d3a157f6/README.md) `dbsjeyaraj.com`
 * [Catalysing economic growth on a shoe-string budget](data/articles/catalysing-economic-grow.9c658acd/README.md) `ft.lk`

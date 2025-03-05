@@ -1,0 +1,44 @@
+# The new Electricity Act, CEB restructuring and safety
+
+[https://www.ft.lk/columns/The-new-Electricity-Act-CEB-restructuring-and-safety/4-773815](https://www.ft.lk/columns/The-new-Electricity-Act-CEB-restructuring-and-safety/4-773815)
+
+*05:55 AM, Wednesday, March 05, 2025*
+
+The Ceylon Electricity Board (CEB) is an important piece in the NPP Government’s restructure of State Owned Enterprises (SOEs) puzzle. Hitherto, CEB has been a monopoly controlling the supply of electrical energy to the Sri Lankan people, businesses and industry. Its operations have a profound impact on the lives of people, who pay to use electricity in their homes, as well as indirectly pay for most other goods and services they consume, which invariably use electricity as an input.
+
+The CEB has provided yeomen service to the country over the years, although it has been subject to severe criticism in the past decade or so, due to a variety of reasons including, mismanagement and inefficiency resulting in high electricity costs. Power cuts and blackouts have caused immense hardship and dissatisfaction amongst the public. Most electricity utilities in the world restructured in the 90’s, abandoning hierarchical vertically integrated structures, but the CEB did very little to follow suit.
+
+A wide and interactive consultation process to amend the Electricity Act and restructure the CEB is currently underway, and it is expected to be in force by June 2025. It is the writer’s understanding that the restructuring and governance of SOEs, including the CEB, will follow a path similar to Singapore’s “Temasek model”, which has been crucial to Singapore’s economic success, particularly in maintaining efficient and competitive enterprises, while driving economic growth.  This article aims to highlight the important area of “safety” that the writer feels is not captured completely in the proposed amended Electricity Act but that is crucial to the running of multiple entities that are contemplated in the Act.
+
+Why is safety important?
+
+Experience from historical worldwide safety incidents, clearly shows that good design and maintenance can and will prevent safety incidents and reduce deaths and disabilities, and avoid huge financial losses.
+
+In countries like Australia, Safety Regulations form part of subordinate legislation under the Electricity Act and are enforceable in a court of law. There are also separate Acts that legislate on specific areas such as a Workplace Health and Safety Act, which are applicable to all businesses.
+
+Sri Lanka needs a comprehensive set of Regulations covering electricity networks and electrical installations. “Networks” mean the poles, wires, cables and such infrastructure that one can generally see outdoors. “Installations” are our homes, factories, workplaces and other places where electricity is consumed or used. There are Regulations that have been gazetted with references to standards and guidelines from the Sri Lanka Standards Institution, that are purported to be followed. Albeit, recent experience indicates that these have failed to achieve their desired outcomes and review is essential for Regulations to be effective in law, and there must be a Regulating Authority with powers to enforce those laws. This is the missing link which is indeed a weakness that needs to be addressed at some stage in the future.
+
+The need to incorporate safety in reforms - restructuring of CEB
+
+The reform process and the emergence of new players in the energy market reinforces the need for safety regulations, as there will be several new players. Two of these regulations that are mandatory are the Electricity Network Safety Regulations and the Electricity Installations and Licencing Regulations.
+
+Electricity Network Safety Regulations generally take two forms. Either compliance with the requirements of the Regulations or following the “Safety Case” approach, where the network operator periodically provides a comprehensive risk assessed plan to keep the network safe, after approval from the Regulator, in line with international best practice.
+
+Electrical Installation Regulations (including domestic, industrial and other electrical installations) and the Licencing of persons working on such installations needs serious consideration due to the high number of deaths from electricity origins in Sri Lanka. This will require persons working as “Electricians” to be licenced under a prescribed system based on their qualifications, skills and experience.
+
+This article focuses on the Network Safety Regulations, and the discussion applies to CEB and LECO who are the only main network operators at the present time.  When networks are built considering “safe design” principles, the probability of safety and reliability incidents happening is minimised or completely removed. “Safe design” principles involve strict compliance with standards and associated risk assessments, as minimum standards may not be sufficient in certain instances.
+
+Understanding the risk level also facilitates network management to make decisions taking into account the level of risk within their network. Financially constrained budgets are common in these businesses. Therefore, awareness of risks and assessment of risk versus cost must be rigorously analysed, discussed and documented. The methodology for doing all this is widely available now.
+
+Safety Regulations must also authorise the investigation of network incidents, like the one on February 9th 2025, which led to an island wide blackout. A prescribed process will ensure that such incidents are consistently investigated and reported, and for such reports to be publicly available. The process must also ensure that recommendations are implemented as a legal requirement.
+
+Safety Regulations prescribe certain obligations on network owners, managers and employees responsible for certain types of work, as safety of the network, workers and the public, is dependent on their actions. Hence, the responsibility bar is set by such Regulations. In Australian states there have been many instances where Regulators have initiated successful prosecutions against network businesses fining them millions of dollars for negligence. Managers of networks are very mindful of this and concerned about the implications for noncompliance, as they can even be held personally responsible.
+
+A separate office of Electrical Safety Regulator
+
+A separate Electrical Safety Regulation office must be established by law in Sri Lanka. Currently most of these functions are carried out by the Public Utilities Commission (PUCSL), without commensurate legal backing. PUCSL must be absolved from electrical safety regulatory tasks and confined to economic regulatory functions and related functions like quality and reliability of power supply and licensing.
+
+The Safety Regulator must be tasked with regulating and enforcing Regulations to ensure the safety of electrical networks and electrical installations in Sri Lanka.
+
+(The writer is an electrical engineer with over 25 years’ experience in Australian Electricity Networks as a Manager and a Principal Engineer. He also worked as a Safety Regulator in establishing and enforcing Safety Regulations and investigating electricity network incidents. He worked as an electrical engineer at CEB, in the first 10 years of his career. He could be contacted at [email protected])
+

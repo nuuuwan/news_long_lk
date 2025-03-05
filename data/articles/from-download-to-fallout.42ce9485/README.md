@@ -1,0 +1,62 @@
+# From download to fallout: Implications of Sri Lanka’s evolving IP landscape on digital collaboration
+
+[https://www.ft.lk/opinion/From-download-to-fallout-Implications-of-Sri-Lanka-s-evolving-IP-landscape-on-digital-collaboration/14-773811](https://www.ft.lk/opinion/From-download-to-fallout-Implications-of-Sri-Lanka-s-evolving-IP-landscape-on-digital-collaboration/14-773811)
+
+*05:47 AM, Wednesday, March 05, 2025*
+
+By placing greater emphasis on IP protection, companies can mitigate risks and demonstrate their dedication to safeguarding both their own assets and those of their clients and partners
+
+As Sri Lankan companies become increasingly integrated with global value chains and information networks, both employers and employees may face new challenges in protecting and respecting intellectual property (IP) and maintaining confidentiality.
+
+The post-pandemic shift towards remote work, coupled with the widespread adoption of digital collaboration tools and cloud storage, has transformed traditional workplace dynamics. While these advancements offer exponentially greater access to information within an organisation, they also introduce new risks related to the security of sensitive information.
+
+Safeguarding the remote workspace
+
+COVID drove enterprises to embrace emerging technologies – particularly with regard to digital collaboration tools – with greater openness and at a much higher scale. This gave rise to rapid integration of digital platforms for communication and collaboration. In a few short years, tools such as cloud-based document sharing, virtual meeting software, and remote access systems went from being niche specialisations to daily essentials.
+
+In parallel, companies have also been actively deploying technology to ensure that remote work becomes more efficient, and – unlike in the past – significantly more rigorous about tracking potential IP breaches.
+
+Employees accessing confidential information from various locations and devices increase the complexity of securing proprietary data. While at an organisational level this necessitates robust cybersecurity measures and comprehensive policies to govern the use and protection of sensitive information in a dispersed work environment, a broader re-evaluation of the culture around IP may also be required to ensure that all stakeholders operate on a level playing field.
+
+Strengthening legal precedents for employer confidentiality
+
+Recent developments highlight how leading Sri Lankan companies are proactively reinforcing the protection of their intellectual property and confidential information. By taking decisive legal action against breaches of confidentiality, these organisations emphasise their commitment to upholding IP rights and protecting their competitive advantage.
+
+Such actions not only safeguard the interests of individual companies but also contribute to strengthening legal precedents in favour of employer-employee confidentiality. They serve as a deterrent to potential violators and signal to the broader business community that IP protection is a serious matter with significant implications.
+
+These were some of the dynamics that came to the fore in a recent legal dispute between the MAS Group and two of its former employees. The pair had allegedly downloaded sensitive proprietary data from the company’s system just before leaving to join a direct competitor. The downloads raised suspicions of deliberate misuse of proprietary information, fuelling concerns that the employees intended to give their new employer an unfair advantage in the competitive apparel manufacturing sector.
+
+It was revealed during the proceedings of the court that initially, the MAS Group discovered both Defendants had downloaded a substantial amount of proprietary information shortly before resigning to join a competing apparel manufacturer. The files had contained proprietary information vital to the company’s competitive edge in the high-tech apparel and sportswear market.
+
+These actions, the company argued, violated several clauses in the Defendants’ employment contracts, as well as their confidentiality and intellectual property agreements. Additionally, they contended that the Defendants’ actions breached Sri Lanka’s Intellectual Property Act, specifically provisions against unfair competition through the unauthorised disclosure of confidential information.
+
+Technology systems played a critical role in the institution of legal action in this case, given that the unauthorised downloads were discovered as a result of the highly rigorous automated safeguards implemented by MAS specifically to monitor for suspicious activity and direct IP breaches.
+
+When these unauthorised downloads were flagged by the system, the company immediately launched an internal investigation and found that one of the defendants had used his personal laptop to download and store confidential information. It was argued that while both Defendants had been granted permission to access confidential information via the company’s cloud-based system, no such permission had been granted to download and store it on their personal devices. Given that the data could have been accessed without downloading it to their personal device, and that no such permission had been granted, it was argued that the defendants had breached the IP rights of MAS Group.
+
+MAS Group acted swiftly. Although one of the Defendants had already resigned, the other Defendant was suspended and a disciplinary inquiry was initiated. However, this Defendant too, filed their resignation soon after, leading the company to file a lawsuit seeking Rs. 100 million in damages for the breach of confidentiality and potential harm to its business. The Company also exercised their right to file action based on breaches that took place during the period of employment, even after the employee has left the company.
+
+President’s Counsel Harsha Amarasekara who appeared on behalf of the company told court that Defendants’ actions raised concerns that the downloaded proprietary information could be used to benefit their new employer. He also contended that Defendants’ actions breached Sri Lanka’s Intellectual Property Act, specifically provisions against unfair competition through the unauthorised disclosure of confidential information.
+
+“Any act or practice in the cause of industrial or commercial activity that results in the disclosure of undisclosed information without the consent of the person lawfully control of that information and in a manner contrary to honest commercial practice shall constitute an act of unfair competition is also prohibited.” – Intellectual Property Act 36 of 2003 – Section:160(c)(6),
+
+Initially, the MAS Group also obtained an enjoining order from Commercial High Court in Colombo to prevent the former employees from using or disclosing the confidential files they had allegedly downloaded before their resignation.
+
+Ultimately, the matter was resolved through a settlement before going to trial. As part of the agreement, the Defendants acknowledged that they had no right to use or disclose the downloaded information. They also expressed regret for any damage or inconvenience their actions may have caused to the MAS Group. The issues raised in the case seem to indicate that Sri Lankan companies – particularly those engaged in highly competitive global industries – are becoming more rigorous about enforcing their IP rights.
+
+In this case, MAS Group emphasised the importance of legal protections for intellectual property, citing Sri Lanka’s Intellectual Property Act 36 of 2003 as crucial in their case. They argued that the Act’s provisions against unauthorised disclosure were vital in maintaining their competitive edge.
+
+President’s Counsel Harsha Amarasekara with Kanchana Peiris instructed by Sanath Wijewardena appeared for the company.
+
+Implications for companies and employees
+
+Implementing advanced technological controls, such as internal security systems that monitor data access and flag unauthorised activities, is essential. Regular audits, employee training programs, and clear policies regarding the handling of confidential information and protection of intellectual property may help to further enhance security measures.
+
+Such measures have become especially important for companies competing with or servicing international organisations, conglomerates, and brands to whom they must be accountable for all IP breaches.
+
+Employees are also integral to the effective protection of intellectual property. Understanding and adhering to company policies, non-disclosure agreements (NDAs), and legal obligations is therefore more crucial than ever. With the lines between personal and professional devices often blurred in remote work settings, employees must exercise responsible caution to prevent unintended disclosures or unauthorised access to sensitive information.
+
+Awareness of the legal consequences associated with IP breaches—even post-employment—is vital given that violations are now more likely to result in legal action. By placing greater emphasis on IP protection, companies can mitigate risks and demonstrate their dedication to safeguarding both their own assets and those of their clients and partners.
+
+Employees too must recognise their critical role in this emerging ecosystem, understanding that their actions have significant implications for both their employers and themselves. Crucially, these responsibilities remain binding even after an employee has resigned from their post. By embracing these responsibilities, the Sri Lankan business community can navigate the complexities of the modern work environment and emerge stronger in the global marketplace.
+
