@@ -2,13 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-06 06:25:31**
+Last Updated **2025-03-06 18:21:00**
 
 ## 2025-03-06
 
 * [Price trends driving Sri Lanka’s deflation and public perceptions](data/articles/price-trends-driving-sri.1a7de92a/README.md) `ft.lk`
 * [Rewarding one, penalising another: Duplicity of Sri Lanka’s tax system](data/articles/rewarding-one-penalising.2c21e9c0/README.md) `ft.lk`
 * [Why Anura shouldn’t amputate army or presume politico-economic stability](data/articles/why-anura-shouldn-t-ampu.a56e9515/README.md) `ft.lk`
+* [What the NPP/JVP does today would decide how Sri Lanka fares in the years ahead. The potentialities are many, but ignorance, myopia, and habit can lead us astray, again.](data/articles/what-the-npp-jvp-does-to.5d0d2a18/README.md) `dbsjeyaraj.com`
+* [I hope the end of the USAID funding becomes a learning lesson for all of us engaged in mass politics. In the short run we may appear weak however in the long run this is what will build strong  resistance  movements which we so badly need](data/articles/i-hope-the-end-of-the-us.61560eb1/README.md) `dbsjeyaraj.com`
+* [The recent killings, including the murder within a court premises, indicates that individuals and institutions of state power continue to act with impunity, believing that they can continue to do so despite the change of govt. – “Justice for All”](data/articles/the-recent-killings-incl.420edd73/README.md) `dbsjeyaraj.com`
 
 ## 2025-03-05
 
