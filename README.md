@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-05 18:20:49**
+Last Updated **2025-03-06 06:25:31**
+
+## 2025-03-06
+
+* [Price trends driving Sri Lanka’s deflation and public perceptions](data/articles/price-trends-driving-sri.1a7de92a/README.md) `ft.lk`
+* [Rewarding one, penalising another: Duplicity of Sri Lanka’s tax system](data/articles/rewarding-one-penalising.2c21e9c0/README.md) `ft.lk`
+* [Why Anura shouldn’t amputate army or presume politico-economic stability](data/articles/why-anura-shouldn-t-ampu.a56e9515/README.md) `ft.lk`
 
 ## 2025-03-05
 
+* [Malaysia gambles on a semiconductor deal](data/articles/malaysia-gambles-on-a-se.139671b0/README.md) `eiu.com`
+* [US pauses military aid to Ukraine](data/articles/us-pauses-military-aid-t.836efee8/README.md) `eiu.com`
 * [By the pricking of my thumbs](data/articles/by-the-pricking-of-my-th.1a46ffc4/README.md) `ft.lk`
 * [The new Electricity Act, CEB restructuring and safety](data/articles/the-new-electricity-act.332de299/README.md) `ft.lk`
 * [Tariff wars: How will the US reciprocal tariff impact Sri Lanka?](data/articles/tariff-wars-how-will-the.37a04ae1/README.md) `ft.lk`
