@@ -1,0 +1,402 @@
+# Independent and quality-assured judiciary through act of parliament urgently needed
+
+[https://www.ft.lk/opinion/Independent-and-quality-assured-judiciary-through-act-of-parliament-urgently-needed/14-773914](https://www.ft.lk/opinion/Independent-and-quality-assured-judiciary-through-act-of-parliament-urgently-needed/14-773914)
+
+*03:52 AM, Friday, March 07, 2025*
+
+By authors on behalf of LEADS forum – Chula Goonasekera, Basil Fernando, Shanthi Mendis, Rohan Prithiviraj Perera, Ranjan Dias Jayasinghe, Sunil Jayasundara, Gratian Peiris, Shehan Malaka Gamage, and Nalin Peiris
+
+Judicial independence is crucial for protecting fundamental rights, ensuring fair trials, and shielding citizens from abuses of power by the state or other powerful entities. It ensures that courts operate without improper influence from different branches of government or private interests, thereby preserving democracy and individual rights. At the same time, judges remain subject to the law like all other citizens
+
+An independent judiciary is crucial for upholding the rule of law. Sri Lanka’s current global ranking in the Rule of Law Index is low, and improving it is essential to strengthening democracy. A robust legal framework will boost investor confidence, enhance productivity, and prevent the misuse of public funds.
+
+To achieve this, judicial appointments—including judges, judicial staff, and the Attorney General—must follow a transparent, merit-based, and apolitical selection process. Any judicial interference should be legally defined and subject to strict penalties. Additionally, the legal profession should be regulated by an independent body, such as a ‘Legal Council,’ managed by legal professionals to uphold ethical standards and professionalism.
+
+To ensure the timely and impartial delivery of justice, an independent Prosecutor’s Office should be established, preventing delays and lapses in prosecutions while allowing the reconstituted Attorney General’s Office to focus on its core functions.
+
+This document outlines a comprehensive roadmap for building a strong legal framework, ensuring that our nation becomes one of the world’s most peaceful, prosperous, and welcoming places to live, work, and visit.
+
+A democratic and liberal system relies on separating powers between the Executive, Judiciary, and Legislature. However, in Sri Lanka, this balance has eroded. Since 1978, constitutional amendments have weakened this separation, with the Executive garnering and consolidating unchecked power through a two-thirds parliamentary majority. As a result, governance has become arbitrary, undermining legality, judicial independence, and accountability—sometimes even targeting the Chief Justice for political suppression.
+
+The weakening of the rule of law has led to resource mismanagement, enforced disappearances, and the manipulation of laws to serve Executive interests. These issues have fuelled corruption, nepotism, cronyism, and the erosion of democratic safeguards.
+
+Restoring the rule of law requires comprehensive justice system reforms and a commitment to accountability. The President, Parliament, and the public must support this effort. Effective governance must be free from personal or majority influence, prioritise crime prevention, and uphold the rule of law.
+
+This proposal outlines key systemic reforms needed to repeal or refine existing laws and re-establish a just and democratic system. Our mission is to achieve the following:
+
+1. Ensure the legality of government actions by basing decisions on laws rather than arbitrary judgments.
+
+2. Strengthen the legal framework to hold all individuals and institutions accountable under the law.
+
+3. Ensure that laws are fair, applied equally, and designed to protect fundamental rights while promoting justice.
+
+4. Make legal processes transparent, accessible, and easily understandable to the public.
+
+5. Ensure that courts remain impartial and free from external influence.
+
+6. Guarantee that all citizens can access legal redress regardless of location or status.
+
+The rule of law is a fundamental constitutional principle and the foundation of a free and democratic society. That is why we, as citizens, must actively uphold and strengthen it.
+
+Shortcomings of the current justice system in Sri Lanka
+
+Sri Lanka’s justice system faces significant deficits that undermine its effectiveness, fairness, and public trust, mainly due to political interference and inadequate safeguards against corruption. The key issues include:
+
+1. Excessive delays in resolving cases, violating the principle of timely justice.
+
+2. Limited access to justice for marginalised communities due to high legal costs, inadequate legal aid, and geographical barriers.
+
+3. Political interference undermines judicial independence, with the executive influencing judicial appointments and removals.
+
+4. Corruption, including bribery and favouritism, erodes public confidence in fairness.
+
+5. Slow enforcement of judgments, particularly in civil cases, leaves litigants without relief.
+
+6. Outdated laws and procedures fail to address modern societal and technological needs.
+
+7. Resource constraints, outdated infrastructure, and a lack of modern technology delay legal processes.
+
+8. Insufficient remedies for human rights abuses, including torture and extrajudicial killings.
+
+9. Inconsistent application of laws, leading to unequal outcomes influenced by political and personal factors.
+
+10. A perception of inefficiency, corruption, and bias further weakens public trust.
+
+Comprehensive legal and institutional reforms are urgently needed to restore the rule of law and ensure equitable justice for all. President AKD is committed to addressing these issues and has repeatedly emphasised the need for immediate, actionable reforms to reverse decades of systemic decline.
+
+Justice delayed is justice denied
+
+This principle must guide the establishment of an independent judiciary, an effective Bribery Commission, and an unbiased Attorney General’s Department. As a first step, we propose the creation of a dedicated Legal Council comprising representatives from academia, law enforcement, the judiciary, and elected officials. This council will uphold professionalism and ethics within the legal profession while overseeing legal accountability and reforms.
+
+At the same time, an independent Bribery Commission and Attorney General’s Department must be established, free from political and external influence. Additionally, codifying legal definitions of judicial independence, interference, corruption, and quality assurance will enhance accountability.
+
+This framework will strengthen governance, combat corruption, and ensure justice and equality for all citizens.
+
+What is judicial independence?
+
+Judicial independence is the ability of judges to make impartial decisions based solely on evidence and the law, free from external pressures or interference. It is the cornerstone of fair governance, ensuring the highest standard of upholding the rule of law.
+
+Judicial independence is crucial for protecting fundamental rights, ensuring fair trials, and shielding citizens from abuses of power by the state or other powerful entities. It ensures that courts operate without improper influence from different branches of government or private interests, thereby preserving democracy and individual rights. At the same time, judges remain subject to the law like all other citizens.
+
+In a democracy, judicial independence fosters public confidence by ensuring that legal disputes are resolved fairly and promptly, adhering to established timelines. Judges must remain free from improper influence—whether from the executive, legislature, litigants, pressure groups, the media, or even senior judges. This impartiality empowers the judiciary to check unlawful government actions and uphold the rule of law.
+
+To sustain judicial independence, adequate mechanisms must be in place to shield courts and judges from undue influence while ensuring fairness, integrity, and public trust in the justice system.
+
+Safeguarding judicial independence
+
+To preserve judicial independence, the Government must ensure the following are legally established:
+
+Judicial independence is explicitly guaranteed in the Constitution and protected by law.
+
+Judges are granted security of tenure, immunity for judicial acts, and protection from arbitrary removal.
+
+Politicians are prohibited from interfering with judicial decisions or commenting on ongoing cases.
+
+Judges serve long terms at their placements to foster impartial decision-making without fear of retaliation.
+
+The judiciary is entitled to control its budget to prevent financial influence.
+
+Judges are legally protected from external pressures and threats.
+
+Courts are empowered to enforce constitutional principles through legal reviews.
+
+Judges are legally obliged to maintain independence while retaining professional freedom of expression and association.
+
+Establish clear, transparent, and legally defined criteria and processes for judicial appointments.
+
+Implement proper and regular training to enhance judicial competence.
+
+Ensure fair service conditions to promote stability and morale.
+
+Uphold strict confidentiality standards.
+
+Establish clear and transparent procedures for disciplining, suspending, or removing judges.
+
+Advantages of judicial independence
+
+Judicial independence ensures fair treatment under the law, protecting the principle that no one is above it. The key benefits include:
+
+Protecting individual rights and equality, regardless of gender, religion, or ethnicity, whilst acting as a guardian of constitutional principles, ensuring laws reflect the people’s sovereignty.
+
+Defending the vulnerable and shields marginalised groups from government overreach whilst maintaining impartiality, unaffected by changing political ideologies.
+
+Ensuring fairness in legal processes, elections, and power transitions transparently whilst building public trust by reinforcing governance and the rule of law.
+
+Promoting Modernisation and Efficiency through digitalisation, specialised courts (e.g., anti-corruption).
+
+A strong and independent Attorney General’s office empowers judicial training academies and reduces delays to ensure timely justice.
+
+Quality assurance in the judiciary
+
+Quality assurance in the judiciary is vital to maintaining public trust and ensuring transparency and accountability. Key reforms needed include:
+
+A conflict-free judiciary where judges remain free from conflicts of interest to foster confidence in their impartiality.
+
+Implement systems for public feedback to evaluate the quality of public service without risking accusations of “contempt of court.”
+
+Establish an independent body, i.e., a ‘Legal Council,’ to oversee quality assurance, uphold high standards, and promote continuous improvement within the legal profession.
+
+Role of the Minister of Justice
+
+The Minister of Justice plays a vital role in upholding the rule of law and ensuring a fair, efficient justice system by fulfilling the following responsibilities.
+
+Be aware of the administration of courts, judges, and legal institutions to ensure justice is administered fairly and impartially. As a default member of the ‘Legal Council’, the Minister can oversee the functioning of courts, legal institutions, and law enforcement agencies.
+
+Be involved in legislative reforms by drafting, amending, and introducing new laws to protect citizens’ rights, improve justice, and align legal reforms with democratic principles.
+
+Represent the government in high-profile legal matters, oversee the Attorney General’s office, and provide legal advice while upholding the state’s interests.
+
+Advocate for policies safeguarding fundamental rights, such as free expression, fair trials, and protection from discrimination, while ensuring fair prosecutions.
+
+Coordinate with law enforcement to promote ethical practices and ensure operations remain within legal boundaries.
+
+Oversee prosecution, defence, and offender rehabilitation to reduce crime, ensure just punishments, and promote reintegration into society.
+
+Ensure that all government services adopt the principle that suspects are innocent until proven guilty, and not the other way around.
+
+Judicial Services Commission:
+
+This autonomous commission, appointed by the Constitutional Council, should be empowered to operate independently and oversee judicial appointments, training requirements, promotions, and disciplinary actions, ensuring impartiality and meritocracy. This initiative to restore legality in Sri Lanka can be implemented through a Parliamentary Act requiring a two-thirds majority, with provisions for revision to address initial challenges.
+
+Legal Council: Purpose, structure, and duties
+
+Establishing a ‘Legal Council’ is a transformative step toward strengthening the legal system by ensuring accountability, transparency, and ethical, competent practice. This independent body should comprise representatives from academia, law enforcement, the judiciary, the Bribery Commission, senior legal professionals, and elected officials, with members serving fixed two-year terms. Its key responsibilities should include promoting transparency, accountability, and adaptability in managing legal systems, enforcing laws, and implementing robust mechanisms to hold legal practitioners accountable for any errors or breaches of duty. As an institution created by and for the legal profession, the Legal Council would oversee legal practitioners, enhance system efficiency, and adapt the legal framework to meet the demands of a changing world.
+
+The Legal Council should be empowered and facilitated to oversee the following:
+
+1) Maintaining a live register of legal professionals
+
+a. Establish a self-regulatory system for the legal profession.
+
+b. Maintain an up-to-date registry of qualified legal professionals authorised to practice in Sri Lanka, subject to annual review.
+
+c. Publish the list of eligible legal professionals to promote transparency and trust.
+
+2) Maintaining and enhancing professional standards
+
+a. Define benchmarks for professional competence and performance.
+
+b. Establish continuous professional development requirements for judicial officials.
+
+c. Provide ongoing training for judges and court staff on legal updates, ethics, and emerging issues (e.g., technology in law).
+
+d. Uphold ethical practices and accountability through clear guidelines and mechanisms for enforcing judicial discipline.
+
+3) Ensuring quality standards and fitness to practice
+
+a. Guarantee that legal services are accurate, relevant, and efficient.
+
+b. Evaluate new qualifications and achievements while addressing disqualifying factors such as criminal convictions.
+
+c. Assess eligibility based on legal, ethical, and professional criteria.
+
+b. Impose temporary or indefinite suspensions for individuals found guilty of criminal offenses.
+
+e. Establish and regularly update professional judicial practice standards and fee structures.
+
+4) Developing a centralised database of active laws
+
+a. Create and maintain a comprehensive database of all active laws accessible to legal professionals and the general public.
+
+b. Enhance institutional awareness by providing public officials with legal references and authenticated educational programs.
+
+5)  Recommend legal reforms to address emerging needs, including:
+
+a. Online Courts facilitate remote legal proceedings with validated evidence and strict timelines.
+
+b. Introducing minimum time limits for case resolution, with mechanisms to address delays.
+
+c. Explore accountability for delays and take corrective actions to address system issues or disciplinary action against staff who neglect or purposely fail to fulfil service obligations.
+
+d. Develop specialised courts or divisions (e.g., commercial, environmental, or family courts) to handle complex cases efficiently.
+
+e. Conduct regular assessments of judicial performance to ensure fairness and consistency in case handling.
+
+6) Promoting access to justice
+
+a. Provide affordable or free legal services for vulnerable populations (Legal Aid).
+
+b. Improve geographical and procedural accessibility, including remote digital solutions.
+
+c. Ensure interpreters and culturally appropriate services are available for equality.
+
+7) Ensuring fair and transparent procedures
+
+a. Allow public access to hearings, with exceptions for sensitive cases (e.g., national security, minors).
+
+b. Require judges to provide clear, written justifications for their decisions.
+
+c. Implement mechanisms to prevent delays and ensure timely justice.
+
+8) Anti-discrimination measures
+
+a. Safeguard equal treatment regardless of race, gender, religion, or socioeconomic status.
+
+b. Align judicial practices with national and international human rights standards.
+
+9) Introducing technological innovations and monitoring efficiency
+
+a. Implement technology to track cases, reduce backlogs, and improve court efficiency.
+
+b. Enable digital platforms for document submission and remote hearings.
+
+c. Provide online access to court decisions, schedules, and legal resources.
+
+10) Enhancing public confidence and engagement
+
+a. Launch public awareness campaigns on judicial processes and legal rights.
+
+b. Establish channels for the public to provide feedback and report concerns.
+
+c. Engage responsibly with the media to maintain public trust while upholding judicial independence.
+
+11) Implementing anti-corruption safeguards
+
+a. Enforce legal measures to prevent corruption within the judiciary.
+
+b. Provide legal protection for individuals reporting judicial misconduct.
+
+By implementing these measures, the Legal Council will strengthen the legal profession’s accountability, transparency, and efficiency.
+
+The establishment of the Legal Council must be enshrined in an Act of Parliament, clearly defining its role and granting its independence, including from the Minister of Justice, the Attorney General, and the Bribery Commission. This Act should constitute strong provisions to ensure transparency, accountability, and a zero-tolerance policy toward judicial interference and corruption.
+
+Zero tolerance for judicial interference
+
+Judicial interference occurs when external entities manipulate court proceedings for personal or political gain, undermining due process and public trust. Judicial corruption involves the misuse of power for personal benefit, threatening fairness, equality, and human rights protection. Both practices weaken the rule of law and must be clearly defined and penalised to ensure judicial integrity and accountability. These include;
+
+Corporate capture: Economic elites or political actors attempt to manipulate judicial decisions for their benefit.
+
+Bribery: Payments are exchanged to influence court rulings, involving judges, court officials, lawyers, or witnesses.
+
+Extortion: Judicial actors are forced into corruption through threats of violence or blackmail.
+
+Nepotism: Judicial power is abused to favour family members or close associates.
+
+Misuse of public funds: Embezzlement or mismanagement of judicial resources leads to delays or failures in delivering justice.
+
+Constructive feedback and criticism are essential for improving public service institutions, including litigation services. Comments aimed at enhancing these services or affirming justice for victims should not automatically be deemed contempt of court. Therefore, “contempt of court” must be clearly defined to balance accountability with openness.
+
+Contempt of court involves actions that interfere with the administration of justice or unfairly influence a court case. Examples include:
+
+Disobeying court orders
+
+Taking photos or recordings in court
+
+Disrupting proceedings (e.g., shouting)
+
+Refusing to answer court questions
+
+Publicly commenting on ongoing cases (e.g., on social media)
+
+Publishing prejudicial material
+
+Breaching reporting restrictions
+
+Discussing or soliciting jury deliberations
+
+Contempt of court should not be classified as a criminal offense but should be penalised with fines or imprisonment of up to two years. Public awareness should be raised through clear guidelines on contempt, promoting transparency and understanding. This approach balances accountability with a fair and open judicial system.
+
+Reforming the Commission Against Bribery and Corruption
+
+Sri Lanka’s current policing system hinders anti-corruption efforts due to structural flaws that enable bribery and corruption. The problem is not just individual misconduct or political influence but deep-rooted systemic weaknesses within the organisation.
+
+An effective anti-corruption system must possess the authority to investigate high-ranking officials, including the IGP, to maintain its integrity. Addressing senior-level corruption showcases a zero-tolerance approach to misconduct and bolsters adherence to the rule of law within the policing system.
+
+1. Independent oversight: Corruption investigations should be handled by an independent body, separate from the police, to ensure impartiality and prevent conflicts of interest.
+
+2. External recruitment: Investigators for the Commission Against Bribery and Corruption should be hired externally, maintaining independence from police influence.
+
+3. Autonomous structure: The Commission should be restructured as an independent institution managing its recruitment and operations. This reform is feasible in Sri Lanka and could be implemented within 6–12 months.
+
+Independent agencies like Hong Kong’s Independent Commission Against Corruption (ICAC) have effectively eradicated corruption within police forces and government systems. Sri Lanka must adopt a similarly dynamic approach to transform its state mechanisms and restore public trust.
+
+Reforming the Attorney General’s Department
+
+Since Sri Lanka’s 1978 constitutional changes, the Attorney General’s (AG) Department has shifted toward serving executive convenience, resulting in significant flaws that undermine the rule of law.
+
+Political influence over AG appointments
+
+Biased decision-making and selective prosecution
+
+Ineffective handling of corruption and human rights cases
+
+Failure to promote legal reforms, transparency, and accountability
+
+These shortcomings have undermined public trust and justice, emphasising the need for greater independence, resources, and responsiveness. The Attorney General has a duty to independently examine bills and advise the government on any clauses that may conflict with the Constitution. Additionally, the Attorney General must determine whether special legislative procedures are necessary and ensure that proposed laws comply with the Constitution.
+
+The Attorney General has the right to be heard by the Supreme Court, particularly in cases involving breaches of Fundamental Rights and questions concerning the Court’s jurisdiction over parliamentary privilege violations. Furthermore, if the Attorney General believes that a case warrants relief for the aggrieved party, they must guide the relevant public officials or state agencies on resolving the grievance. In such instances, the Attorney General may also choose not to represent the officers involved.
+
+As a duty-bound officer of the court, the state, and the public, the Attorney General must remain independent, impartial, and objective in pursuing truth. Serving as the chief legal advisor to the government, the Attorney General plays a crucial role in upholding the rule of law, ensuring fair prosecutions, and delivering justice.
+
+Ensuring the attorney general’s department is unbiased, professional, and independent requires the establishment of clear structures, policies, and safeguards. Here are the key principles and actionable steps. By implementing these reforms, the AG’s Department can reclaim its independence, uphold constitutional principles, and restore public confidence in its ability to deliver justice.
+
+Key reforms necessary to restore the AG’s effectiveness and credibility include:
+
+1. Legal framework for independence and accountability
+
+Enshrine the independence of the Attorney General and their department in law, protecting it from undue political influence.
+
+Clearly define the department’s roles, responsibilities, and limits to prevent mission creep or overreach.
+
+Establish safeguards to shield the Attorney General from political pressure, ensuring impartial decision-making.
+
+Implement transparency measures and accountability systems to strengthen public trust.
+
+Promote diversity within the department to encourage varied perspectives and minimise biases.
+
+2. Transparent appointment process
+
+Implement a merit-based, transparent selection process to appoint the Attorney General and senior officials based on qualifications, expertise, and experience rather than political allegiance, minimising public disputes.
+
+Establish fixed terms for the Attorney General, with removal permitted only in cases of proven misconduct or incapacity, ensuring stability and independence.
+
+3. Professional standards and training
+
+Develop and enforce a code of ethics for the department, emphasising impartiality, integrity, and professionalism.
+
+Provide ongoing training on ethics, legal standards, and impartial decision-making.
+
+Allocate adequate resources and training to improve efficiency and reduce case backlogs.
+
+Oversee and modernise legal institutions to enhance service delivery.
+
+4. Separation from political influence
+
+Clearly define that the Attorney General’s role is to uphold the rule of law, not serve as a political advisor.
+
+Ensure the department has an independent and protected budget to prevent financial manipulation or political dependency.
+
+5. Accountability mechanisms
+
+Allow judicial review of the Attorney General’s decisions to ensure legal compliance.
+
+Conduct regular audits by an independent body to assess performance and adherence to ethical standards.
+
+Implement transparent performance metrics and publish regular reports for public scrutiny.
+
+6. Public engagement and transparency
+
+Publish regular reports on the department’s activities, decisions, and expenditures to build public trust.
+
+Establish accessible channels for public feedback and complaints, with impartial mechanisms to investigate concerns.
+
+7. Safeguards against abuse
+
+Mandate disclosure of personal and financial interests to prevent conflicts of interest.
+
+Implement strong protections for whistleblowers who report unethical or illegal behaviour.
+
+Establish independent review committees to evaluate controversial decisions and investigate allegations of bias.
+
+8. International best practices
+
+Benchmark policies against international standards, such as those from the United Nations or OECD.
+
+Conduct periodic peer reviews with Attorney Generals or equivalent institutions from other jurisdictions.
+
+Align legal reforms with international best practices to promote justice and fairness.
+
+Given the current public outcry over the functioning of the Attorney General’s Office, which is severely understaffed and experiencing frequent delays and lapses in prosecutions and court submissions, a separate and independent Prosecutor’s Office should be established to ensure the timely and impartial delivery of justice. Appointments to the independent Prosecutor’s Office should be made through the Independent Constitutional Council to guarantee transparency and credibility. Further, this independent prosecutor office shall act as an office for quality assurance and as an office to monitor and obviate delays in providing advice by the AG Department and prevent delays in prosecutions by the law enforcement authorities once the AG advice has been provided to them. This initiative will enhance efficiency, support, and the overall quality of service within the Attorney General’s Department.
+
+As law-abiding citizens of Sri Lanka, we sincerely hope that President AKD, Prime Minister HA, and Justice Minister HN will lead in implementing this innovative, realistic, and culturally acceptable systemic reform. Our nation urgently needs an empowered judiciary to uphold the rule of law with equity, transparency, and efficiency while ensuring good governance and safeguarding the rights of all citizens. A steadfast commitment to justice will strengthen democracy, build public trust, and promote fairness for all. It will also free politicians from frequent distractions and public accusations related to judicial matters, which often fuel misinformation and disinformation. This unwavering commitment to justice will serve as the foundation for building a respected, just, and prosperous nation.
+

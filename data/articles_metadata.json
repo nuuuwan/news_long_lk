@@ -1,5 +1,47 @@
 [
   {
+    "title": "The short, strange history of gene de-extinction",
+    "url": "https://www.technologyreview.com/2025/03/07/1112880/the-short-strange-history-of-gene-de-extinction/",
+    "ut": 1741307400.0,
+    "dir_path_unix": "data/articles/the-short-strange-histor.0289f177",
+    "time_str_formatted": "06:00 AM, Friday, March 07, 2025"
+  },
+  {
+    "title": "Fintech regulation that supports innovation: Balancing act",
+    "url": "https://www.ft.lk/opinion/Fintech-regulation-that-supports-innovation-Balancing-act/14-773919",
+    "ut": 1741301524.0,
+    "dir_path_unix": "data/articles/fintech-regulation-that.76b31b03",
+    "time_str_formatted": "04:22 AM, Friday, March 07, 2025"
+  },
+  {
+    "title": "Sri Lanka\u2019s 2025 Budget: Catalyst for economic development",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-2025-Budget-Catalyst-for-economic-development/4-773918",
+    "ut": 1741301318.0,
+    "dir_path_unix": "data/articles/sri-lanka-s-2025-budget.34160b12",
+    "time_str_formatted": "04:18 AM, Friday, March 07, 2025"
+  },
+  {
+    "title": "It may be dangerous to be America\u2019s enemy, but to be America\u2019s friend is fatal",
+    "url": "https://www.ft.lk/columns/It-may-be-dangerous-to-be-America-s-enemy-but-to-be-America-s-friend-is-fatal/4-773917",
+    "ut": 1741301099.0,
+    "dir_path_unix": "data/articles/it-may-be-dangerous-to-b.9dd09dda",
+    "time_str_formatted": "04:14 AM, Friday, March 07, 2025"
+  },
+  {
+    "title": "Translating politics: How language shapes power in Sri Lanka",
+    "url": "https://www.ft.lk/columns/Translating-politics-How-language-shapes-power-in-Sri-Lanka/4-773916",
+    "ut": 1741300793.0,
+    "dir_path_unix": "data/articles/translating-politics-how.f2376e2f",
+    "time_str_formatted": "04:09 AM, Friday, March 07, 2025"
+  },
+  {
+    "title": "Independent and quality-assured judiciary through act of parliament urgently needed",
+    "url": "https://www.ft.lk/opinion/Independent-and-quality-assured-judiciary-through-act-of-parliament-urgently-needed/14-773914",
+    "ut": 1741299778.0,
+    "dir_path_unix": "data/articles/independent-and-quality.5596ae6f",
+    "time_str_formatted": "03:52 AM, Friday, March 07, 2025"
+  },
+  {
     "title": "Price trends driving Sri Lanka\u2019s deflation and public perceptions",
     "url": "https://www.ft.lk/columns/Price-trends-driving-Sri-Lanka-s-deflation-and-public-perceptions/4-773849",
     "ut": 1741216530.0,
@@ -110,6 +152,13 @@
     "ut": 1741044600.0,
     "dir_path_unix": "data/articles/inside-the-wild-west-of.ded52d50",
     "time_str_formatted": "05:00 AM, Tuesday, March 04, 2025"
+  },
+  {
+    "title": "At RightsCon in Taipei, activists reckon with a US retreat from promoting digital rights",
+    "url": "https://www.technologyreview.com/2025/03/04/1112773/at-rightscon-in-taipei-activists-reckon-with-a-us-retreat-from-promoting-digital-rights/",
+    "ut": 1741037400.0,
+    "dir_path_unix": "data/articles/at-rightscon-in-taipei-a.cf9d55d9",
+    "time_str_formatted": "03:00 AM, Tuesday, March 04, 2025"
   },
   {
     "title": "Migrant workers not liable for 15% tax",

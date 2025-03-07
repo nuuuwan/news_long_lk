@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-07 06:25:19**
+Last Updated **2025-03-07 18:20:46**
+
+## 2025-03-07
+
+* [The short, strange history of gene de-extinction](data/articles/the-short-strange-histor.0289f177/README.md) `technologyreview.com`
+* [Fintech regulation that supports innovation: Balancing act](data/articles/fintech-regulation-that.76b31b03/README.md) `ft.lk`
+* [Sri Lanka’s 2025 Budget: Catalyst for economic development](data/articles/sri-lanka-s-2025-budget.34160b12/README.md) `ft.lk`
+* [It may be dangerous to be America’s enemy, but to be America’s friend is fatal](data/articles/it-may-be-dangerous-to-b.9dd09dda/README.md) `ft.lk`
+* [Translating politics: How language shapes power in Sri Lanka](data/articles/translating-politics-how.f2376e2f/README.md) `ft.lk`
+* [Independent and quality-assured judiciary through act of parliament urgently needed](data/articles/independent-and-quality.5596ae6f/README.md) `ft.lk`
 
 ## 2025-03-06
 
@@ -28,6 +37,7 @@ Last Updated **2025-03-07 06:25:19**
 
 * [De-extinction scientists say these gene-edited ‘woolly mice’ are a step toward woolly mammoths](data/articles/de-extinction-scientists.684741fc/README.md) `technologyreview.com`
 * [Inside the Wild West of AI companionship](data/articles/inside-the-wild-west-of.ded52d50/README.md) `technologyreview.com`
+* [At RightsCon in Taipei, activists reckon with a US retreat from promoting digital rights](data/articles/at-rightscon-in-taipei-a.cf9d55d9/README.md) `technologyreview.com`
 * [Migrant workers not liable for 15% tax](data/articles/migrant-workers-not-liab.62cd2375/README.md) `ft.lk`
 * [Bank of Ceylon and Sri Lanka’s entrepreneurial future: Partnership for growth and innovation](data/articles/bank-of-ceylon-and-sri-l.1a926ec5/README.md) `ft.lk`
 * [Clean Sri Lanka: Travails of commuters](data/articles/clean-sri-lanka-travails.7107d0e6/README.md) `ft.lk`
