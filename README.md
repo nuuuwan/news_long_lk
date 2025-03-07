@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-06 18:21:00**
+Last Updated **2025-03-07 06:25:19**
 
 ## 2025-03-06
 
@@ -22,6 +22,7 @@ Last Updated **2025-03-06 18:21:00**
 * [Tariff wars: How will the US reciprocal tariff impact Sri Lanka?](data/articles/tariff-wars-how-will-the.37a04ae1/README.md) `ft.lk`
 * [From download to fallout: Implications of Sri Lanka’s evolving IP landscape on digital collaboration](data/articles/from-download-to-fallout.42ce9485/README.md) `ft.lk`
 * [Fake journal publications: Silent fraud in university systems costing billions to taxpayers](data/articles/fake-journal-publication.e0aecb64/README.md) `ft.lk`
+* [AI reasoning models can cheat to win chess games](data/articles/ai-reasoning-models-can.375cb689/README.md) `technologyreview.com`
 
 ## 2025-03-04
 
