@@ -2,16 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-07 18:20:46**
+Last Updated **2025-03-08 06:24:25**
+
+## 2025-03-08
+
+* [Russia’s aggression on Ukraine: Historical perspective](data/articles/russia-s-aggression-on-u.dae0f5f5/README.md) `ft.lk`
 
 ## 2025-03-07
 
+* [International Women’s Day 2025: Celebration or call to action?](data/articles/international-women-s-da.f981d5a5/README.md) `ft.lk`
+* [The quantum leaps from oppositional  critique to governmental competence](data/articles/the-quantum-leaps-from-o.09a8c16d/README.md) `ft.lk`
+* [Towards a concept  of transformational adaptation](data/articles/towards-a-concept-of-tra.b6ffa09b/README.md) `ft.lk`
+* [Achieving gender equality in employment rates would take almost two centuries, says ILO](data/articles/achieving-gender-equalit.e4e23d8b/README.md) `ft.lk`
 * [The short, strange history of gene de-extinction](data/articles/the-short-strange-histor.0289f177/README.md) `technologyreview.com`
 * [Fintech regulation that supports innovation: Balancing act](data/articles/fintech-regulation-that.76b31b03/README.md) `ft.lk`
 * [Sri Lanka’s 2025 Budget: Catalyst for economic development](data/articles/sri-lanka-s-2025-budget.34160b12/README.md) `ft.lk`
 * [It may be dangerous to be America’s enemy, but to be America’s friend is fatal](data/articles/it-may-be-dangerous-to-b.9dd09dda/README.md) `ft.lk`
 * [Translating politics: How language shapes power in Sri Lanka](data/articles/translating-politics-how.f2376e2f/README.md) `ft.lk`
 * [Independent and quality-assured judiciary through act of parliament urgently needed](data/articles/independent-and-quality.5596ae6f/README.md) `ft.lk`
+* [Tamil Daily Virakesari’s  “Seithi Mannan” (News King)  Sellathurai   was the Doyen of Jaffna Journalists.](data/articles/tamil-daily-virakesari-s.d1623ca2/README.md) `dbsjeyaraj.com`
 
 ## 2025-03-06
 

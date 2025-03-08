@@ -1,0 +1,84 @@
+# International Women’s Day 2025: Celebration or call to action?
+
+[https://www.ft.lk/columns/International-Women-s-Day-2025-Celebration-or-call-to-action/4-773981](https://www.ft.lk/columns/International-Women-s-Day-2025-Celebration-or-call-to-action/4-773981)
+
+*11:57 PM, Friday, March 07, 2025*
+
+Let us stop encouraging acts which inhibit a safe environment for women and girls for their empowerment
+
+On 8 March 2025, individuals worldwide will come together to celebrate International Women’s Day (IWD), honouring women’s social, economic, cultural, and political achievements. This year’s global campaign theme, “Accelerate Action,” emphasises the urgency of advancing gender equality. The United Nations has also declared a complementary theme: “For ALL Women and Girls: Rights. Equality. Empowerment.”
+
+These themes highlight the necessity of swift and decisive measures to eliminate systemic barriers hindering women’s progress. Despite decades of advocacy, recent reports indicate persistent challenges in achieving workplace equality. For instance, the Workplace Gender Equality Agency’s latest findings reveal that nearly 75% of Australian employers have a gender pay gap favouring men, with women earning an average of AUD 28,425 less annually.
+
+Moreover, the “Women @ Work 2024: A Global Outlook” report by Deloitte provides a comprehensive analysis of the current challenges and experiences faced by women in the workplace. The study covered the views of 5,000 women from workplaces across 10 countries, to examine the lived experiences of women at work and how aspects of their lives outside of work can impact these experiences. Some of the key findings from the report include:
+
+Key concerns (based on Deloitte Global’s ‘Women @ Work 2024: A Global Outlook’ report):
+
+Mental health and well-being:
+
+l 48% of women surveyed expressed concern about their mental health.
+
+lOne-fifth of women in the 2024 study revealed that they are the breadwinner (primary income earner), in their household.
+
+lOf these, nearly half are still responsible for most of the childcare; only 19% of these women opined that their partners have the most responsibility, and affordable childcare options are often unattainable for some women, which can lead them to make difficult career decisions.
+
+lTwo in 10 women believe that the lack of affordable childcare might force them to give up their jobs or might slow down their careers.
+
+l27% of respondents reported facing challenges related to menstruation, menopause, or fertility.
+
+lMore than 40% of women who experience high levels of pain due to menstruation elaborated that they worked through it without taking time off work, similar to 2023.
+
+lFewer women feel comfortable discussing these health challenges with their managers than in 2023, and the majority emphasised that their careers have been negatively affected by discussing these matters at work in the past.
+
+Non-inclusive behaviours and safety concerns:
+
+l43% of women experienced non-inclusive behaviours such as harassment or microaggressions in the past year.
+
+lA quarter of women have experienced inappropriate comments or actions from people in senior positions in their organisation.
+
+lAnd among those who have left an employer in the past year, 16% elaborated that one of the main reasons was their experience of harassment or microaggressions. But these behaviours are often unreported.
+
+lSurprisingly, more than a third of the women who have experienced sexual harassment didn’t report it to their organisation, and more than 40% who have experienced microaggressions also chose not to report.
+
+lThe most frequently cited reason for not reporting sexual harassment was they viewed that the sexual harassment behaviour wasn’t serious enough to report. But for 14% of women, it was because they were concerned that the behaviour would get worse, and about one in 10 worried that reporting it would damage their career.
+
+lNearly half of the respondents expressed concerns about their safety in the workplace or while commuting or travelling for work.
+
+Work arrangements and work-life balance:
+
+lHybrid work experiences have improved, but some women elaborated they have made adjustments following return-to-office policies.
+
+l42% of women reported working in a hybrid model, 7% were fully remote, and 51% were fully in-person.
+
+lAlmost four in 10 women who have recently been asked to return on-site full-time highlighted they had asked their employer to reduce their working hours following the introduction of the policy, and three in 10 opined they had needed to relocate. A quarter explained their mental health has been negatively impacted, and a fifth elaborated it has made them less productive.
+
+lWomen who considered leaving their employer for another organisation cited poor work/life balance and a lack of flexibility in working hours as among the top reasons.
+
+lSurprisingly, those who considered continuing in the same organisation for five or more years emphasised that the ability to manage work/life balance and the weight of personal responsibilities alongside their career is one of the top reasons for staying.
+
+lInevitably, the majority (95%) opined that requesting or taking advantage of flexible working opportunities will affect their likelihood of promotion, and 93% viewed that their workload would not be adjusted accordingly even if they requested flexible work options.
+
+These findings highlight the ongoing challenges women face in the workplace, emphasising the need for organisations to address mental health, inclusivity, safety, flexible work arrangements and progressive work culture to create environments where women can thrive. Further, the report highly emphasised that mental health concerns, unbalanced domestic responsibilities, and non-inclusive behaviours at work as some of the key significant impediments to gender equality.
+
+In Sri Lanka, as in many parts of the world, the professional landscape for women is fraught with challenges that impede true empowerment. Here are some key practical issues which emphasise Sri Lankan working women’s predicament:
+
+Workplace safety and respect: Many women continue to face unsafe conditions in public transportation and workplaces, where their dignity and aspirations are compromised.
+
+lProfessional advancement: Qualified women often encounter biases that hinder their career progression, especially when they resist unethical demands.
+
+lInfluence of senior professionals: The conduct of senior female professionals significantly impacts the experiences of newcomers. When seasoned professionals engage in or tolerate unethical behaviours, it perpetuates a cycle of misconduct, adversely affecting the morale and development of emerging female talent.
+
+Enough is enough: Raise your voice!
+
+While numerous forums and events are organised to address gender issues, it’s imperative to reflect on the genuine impact of these initiatives. Are they merely symbolic, or do they effect substantial change?
+
+We cannot go on like this and put all these issues under the carpet and celebrate International Women’s Day for the sake of commemorating. Then it will be a bane because the whole purpose will be lost when there are so many women suffering in silence and their justice is denied.
+
+Therefore, if we truly want to give empowerment to women and a safe environment for them, let us start putting our words into action and ensure the character of women at work and in public transport will not be at stake. Let us stop encouraging acts which inhibit a safe environment for women and girls for their empowerment.
+
+To truly embody the essence of International Women’s Day, it’s crucial to move beyond ceremonial observances and address these pressing issues head-on. This involves fostering environments where women can work without fear of harassment, ensuring equitable pay, and promoting ethical behaviour across all professional levels.
+
+As we observe International Women’s Day 2025, let us commit to accelerating action towards genuine gender equality, ensuring the rights, equality, and empowerment of all women and girls are not just aspirational goals but lived realities.
+
+(The writer is the CEO and Founder of Recruiting by Sonia, specialising in executive search and career transformation. With an MBA from Cardiff Metropolitan University – UK and a First-Class Honours Bachelor’s Degree in HRM from the University of Colombo, she is a Gold Medallist and HR Leader recognised for her expertise in C-suite and senior leadership hiring. Sonia connects top executives, mid-career professionals, and emerging leaders with opportunities in multinationals, listed corporations, and high-growth startups. As an Executive Career Coach, she has revamped CVs and LinkedIn profiles for global C-suite executives, entrepreneurs, and industry leaders, enabling them to secure promotions, leadership roles, and high-impact opportunities. Her 1-on-1 LinkedIn coaching helps professionals build influence, fast-track career growth, and enhance thought leadership. With a passion for executive branding, strategic hiring, and career acceleration, Sonia continues to reshape the future of work for global leaders. She can be reached at [email protected].)
+
