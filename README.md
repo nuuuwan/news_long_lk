@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-09 18:13:34**
+Last Updated **2025-03-10 06:24:54**
+
+## 2025-03-10
+
+* [Extremism in East: Balanced, evidence-based approach is necessary](data/articles/extremism-in-east-balanc.6eb19db7/README.md) `ft.lk`
+* [Security and Freedom: Counter Terrorism Legislation in Sri Lanka](data/articles/security-and-freedom-cou.1e551016/README.md) `ft.lk`
+
+## 2025-03-09
+
+* [President AKD’s first Budget: Revolutionary governs, and governs well](data/articles/president-akd-s-first-bu.3737262e/README.md) `ft.lk`
+* [Teesside University, located close to seaside, is to open a happy-side in Sri Lanka](data/articles/teesside-university-loca.a2b95d78/README.md) `ft.lk`
+* [Pain points and pleasure points of an Odyssey – Part III](data/articles/pain-points-and-pleasure.45158450/README.md) `ft.lk`
 
 ## 2025-03-08
 
