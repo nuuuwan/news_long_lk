@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-10 18:21:31**
+Last Updated **2025-03-11 06:25:16**
+
+## 2025-03-11
+
+* [Deficits and tariffs: Trump confusions and what can be done about them](data/articles/deficits-and-tariffs-tru.d2f34e0e/README.md) `ft.lk`
+* [No to silence and impunity for online and offline slander and harassment of women in politics](data/articles/no-to-silence-and-impuni.047d50e1/README.md) `ft.lk`
+* [Has AKD disturbed a hornet’s nest?](data/articles/has-akd-disturbed-a-horn.1f1c54d5/README.md) `ft.lk`
+* [Securing your rights: Power of Financial Consumer Protection Regulations – Part III](data/articles/securing-your-rights-pow.4971e6f2/README.md) `ft.lk`
+* [Monkey theory and Clean Sri Lanka: Systems perspective](data/articles/monkey-theory-and-clean.4ea2879b/README.md) `ft.lk`
 
 ## 2025-03-10
 
+* [How an AI Platform Can Help Finance Leaders Drive Strategy and Growth by Managing Regulatory Compliance](data/articles/how-an-ai-platform-can-h.73b498d8/README.md) `hbr.org`
 * [The cheapest way to supercharge America’s power grid](data/articles/the-cheapest-way-to-supe.cfceb6dc/README.md) `technologyreview.com`
 * [Extremism in East: Balanced, evidence-based approach is necessary](data/articles/extremism-in-east-balanc.6eb19db7/README.md) `ft.lk`
 * [Security and Freedom: Counter Terrorism Legislation in Sri Lanka](data/articles/security-and-freedom-cou.1e551016/README.md) `ft.lk`
