@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-11 06:25:16**
+Last Updated **2025-03-11 18:21:40**
 
 ## 2025-03-11
 
+* [AGI is suddenly a dinner table topic](data/articles/agi-is-suddenly-a-dinner.e287d522/README.md) `technologyreview.com`
 * [Deficits and tariffs: Trump confusions and what can be done about them](data/articles/deficits-and-tariffs-tru.d2f34e0e/README.md) `ft.lk`
 * [No to silence and impunity for online and offline slander and harassment of women in politics](data/articles/no-to-silence-and-impuni.047d50e1/README.md) `ft.lk`
 * [Has AKD disturbed a hornet’s nest?](data/articles/has-akd-disturbed-a-horn.1f1c54d5/README.md) `ft.lk`
 * [Securing your rights: Power of Financial Consumer Protection Regulations – Part III](data/articles/securing-your-rights-pow.4971e6f2/README.md) `ft.lk`
 * [Monkey theory and Clean Sri Lanka: Systems perspective](data/articles/monkey-theory-and-clean.4ea2879b/README.md) `ft.lk`
+* [Sinhala Cinema’s Superstar Gamini Fonseka was an Artistically Acclaimed and Commercially Valued Actor.](data/articles/sinhala-cinema-s-superst.54dcad78/README.md) `dbsjeyaraj.com`
 
 ## 2025-03-10
 
