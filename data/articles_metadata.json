@@ -1,5 +1,12 @@
 [
   {
+    "title": "This startup just hit a big milestone for green steel production",
+    "url": "https://www.technologyreview.com/2025/03/12/1113130/green-steel-boston-metal/",
+    "ut": 1741746600.0,
+    "dir_path_unix": "data/articles/this-startup-just-hit-a.6ba1972b",
+    "time_str_formatted": "08:00 AM, Wednesday, March 12, 2025"
+  },
+  {
     "title": "Mobile Number Portability in Sri Lanka: Is it a costly illusion of choice?",
     "url": "https://www.ft.lk/columns/Mobile-Number-Portability-in-Sri-Lanka-Is-it-a-costly-illusion-of-choice/4-774123",
     "ut": 1741730946.0,
@@ -26,6 +33,13 @@
     "ut": 1741649400.0,
     "dir_path_unix": "data/articles/agi-is-suddenly-a-dinner.e287d522",
     "time_str_formatted": "05:00 AM, Tuesday, March 11, 2025"
+  },
+  {
+    "title": "These new AI benchmarks could help make models less biased",
+    "url": "https://www.technologyreview.com/2025/03/11/1113000/these-new-ai-benchmarks-could-help-make-models-less-biased/",
+    "ut": 1741645800.0,
+    "dir_path_unix": "data/articles/these-new-ai-benchmarks.acdbcd18",
+    "time_str_formatted": "04:00 AM, Tuesday, March 11, 2025"
   },
   {
     "title": "Deficits and tariffs: Trump confusions and what can be done about them",

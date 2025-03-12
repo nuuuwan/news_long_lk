@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-12 06:25:20**
+Last Updated **2025-03-12 18:21:40**
 
 ## 2025-03-12
 
+* [This startup just hit a big milestone for green steel production](data/articles/this-startup-just-hit-a.6ba1972b/README.md) `technologyreview.com`
 * [Mobile Number Portability in Sri Lanka: Is it a costly illusion of choice?](data/articles/mobile-number-portabilit.13806862/README.md) `ft.lk`
 * [Future of tea, rubber and coconut industry in Sri Lanka](data/articles/future-of-tea-rubber-and.bc942d9d/README.md) `ft.lk`
 
@@ -13,6 +14,7 @@ Last Updated **2025-03-12 06:25:20**
 
 * [Everyone in AI is talking about Manus. We put it to the test.](data/articles/everyone-in-ai-is-talkin.37b43d9c/README.md) `technologyreview.com`
 * [AGI is suddenly a dinner table topic](data/articles/agi-is-suddenly-a-dinner.e287d522/README.md) `technologyreview.com`
+* [These new AI benchmarks could help make models less biased](data/articles/these-new-ai-benchmarks.acdbcd18/README.md) `technologyreview.com`
 * [Deficits and tariffs: Trump confusions and what can be done about them](data/articles/deficits-and-tariffs-tru.d2f34e0e/README.md) `ft.lk`
 * [No to silence and impunity for online and offline slander and harassment of women in politics](data/articles/no-to-silence-and-impuni.047d50e1/README.md) `ft.lk`
 * [Has AKD disturbed a hornet’s nest?](data/articles/has-akd-disturbed-a-horn.1f1c54d5/README.md) `ft.lk`
