@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-12 18:21:40**
+Last Updated **2025-03-13 06:25:32**
+
+## 2025-03-13
+
+* [Fissuring West, unravelling world order: Foreign policy doctrine for Lanka](data/articles/fissuring-west-unravelli.b4673cfe/README.md) `ft.lk`
+* [Can cheaper alcohol products truly build “A Thriving Nation, A Beautiful Life” for citizens?](data/articles/can-cheaper-alcohol-prod.7f57ab9c/README.md) `ft.lk`
+* [Breaking the deadlock: How behavioural economics and cashflow-based  lending can revitalise Sri Lanka](data/articles/breaking-the-deadlock-ho.414ba065/README.md) `ft.lk`
 
 ## 2025-03-12
 
+* [Gemini Robotics uses Google’s top language model to make robots more useful](data/articles/gemini-robotics-uses-goo.318179b1/README.md) `technologyreview.com`
 * [This startup just hit a big milestone for green steel production](data/articles/this-startup-just-hit-a.6ba1972b/README.md) `technologyreview.com`
 * [Mobile Number Portability in Sri Lanka: Is it a costly illusion of choice?](data/articles/mobile-number-portabilit.13806862/README.md) `ft.lk`
 * [Future of tea, rubber and coconut industry in Sri Lanka](data/articles/future-of-tea-rubber-and.bc942d9d/README.md) `ft.lk`
