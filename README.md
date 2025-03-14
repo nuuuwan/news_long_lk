@@ -2,13 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-14 06:26:03**
+Last Updated **2025-03-14 18:20:21**
 
 ## 2025-03-14
 
 * [It takes guts to show vulnerability in leadership](data/articles/it-takes-guts-to-show-vu.182bf794/README.md) `ft.lk`
 * [Why are Tamil nationalist political parties unable to unite?](data/articles/why-are-tamil-nationalis.11ecee5c/README.md) `ft.lk`
 * [Navigating the winds of change: Leadership, ethics and non-compromise](data/articles/navigating-the-winds-of.e12a41ce/README.md) `ft.lk`
+* [Navigating the winds of change: Leadership, ethics and non-compromise](data/articles/navigating-the-winds-of.a6bc4c40/README.md) `ft.lk`
 * [Foreign investors and firms that stood with SL through thick and thin](data/articles/foreign-investors-and-fi.a575e3d4/README.md) `ft.lk`
 
 ## 2025-03-13
@@ -28,6 +29,7 @@ Last Updated **2025-03-14 06:26:03**
 ## 2025-03-11
 
 * [Everyone in AI is talking about Manus. We put it to the test.](data/articles/everyone-in-ai-is-talkin.37b43d9c/README.md) `technologyreview.com`
+* [Waabi says its virtual robotrucks are realistic enough to prove the real ones are safe](data/articles/waabi-says-its-virtual-r.6d9bea00/README.md) `technologyreview.com`
 * [AGI is suddenly a dinner table topic](data/articles/agi-is-suddenly-a-dinner.e287d522/README.md) `technologyreview.com`
 * [These new AI benchmarks could help make models less biased](data/articles/these-new-ai-benchmarks.acdbcd18/README.md) `technologyreview.com`
 * [Deficits and tariffs: Trump confusions and what can be done about them](data/articles/deficits-and-tariffs-tru.d2f34e0e/README.md) `ft.lk`
