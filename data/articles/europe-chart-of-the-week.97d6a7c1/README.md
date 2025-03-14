@@ -1,0 +1,20 @@
+# Europe chart of the week: uncertainty after ECB March cut
+
+[https://www.eiu.com/n/europe-chart-of-the-week-uncertainty-after-ecb-march-cut/](https://www.eiu.com/n/europe-chart-of-the-week-uncertainty-after-ecb-march-cut/)
+
+*03:54 PM, Friday, March 07, 2025*
+
+Europe chart of the week: uncertainty after ECB March cut
+
+EconomyForecastingInflationRiskEuropeCountry Analysis
+
+As we expected, the European Central Bank (ECB) cut its key interest rates by 25 basis points at its monetary policy meeting on March 6th. This was the sixth cut since June 2024, on the back of slowing inflation and subdued economic activity. Euro zone interest rates are now at their lowest level since February 2023. However, the ECB noted that past interest-rate rises mean that its stance is still restrictive, and financing remains expensive, which is dampening demand for credit.
+
+Christine Lagarde, the ECB president, did not pre-commit to a particular rate path after the March cut, but kept the door open to more (but possibly less frequent) cuts as the bank expects inflation to continue to ease towards the 2% medium-term target. In February headline annual inflation in the euro zone slowed to 2.4%, down from 2.5% in January. This was mainly driven by a drop in energy prices after a sharp increase in January, as well as by a decline in services inflation, which edged down to 3.7%. Core inflation (excluding food and energy), at 2.6% in February, is also slowing.
+
+We expect the ECB easing cycle to slow to one cut per quarter after March, with the deposit rate falling from 2.5% currently to 1.75% at end-2025, before stabilising at this level in 2026-29 (above the near-zero average in the 2010s).
+
+Risks to our forecast are balanced, given high uncertainty about the impact of recent global developments on Europe’s growth and inflation outlook. A looming trade war with the US and plans to massively increase military and infrastructure spending in Europe–partly to replace US support for Ukraine–could increase inflation expectations, resulting in fewer cuts than we currently expect. At the same time, increased uncertainty for businesses and consumers as a result of the US’s erratic and unpredictable decision-making on tariffs since Donald Trump came to power in late January could push European economies into a recession in the coming months, forcing the ECB to cut interest rates by more than we currently forecast.The analysis and forecasts presented in this article are drawn from EIU’s Country Analysis service. This comprehensive solution offers essential insights into the political and economic outlook of nearly 200 countries, empowering businesses to manage risks and develop effective strategies.
+
+EconomyForecastingInflationRiskEuropeCountry Analysis
+

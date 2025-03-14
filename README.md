@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-13 18:21:38**
+Last Updated **2025-03-14 06:26:03**
+
+## 2025-03-14
+
+* [It takes guts to show vulnerability in leadership](data/articles/it-takes-guts-to-show-vu.182bf794/README.md) `ft.lk`
+* [Why are Tamil nationalist political parties unable to unite?](data/articles/why-are-tamil-nationalis.11ecee5c/README.md) `ft.lk`
+* [Navigating the winds of change: Leadership, ethics and non-compromise](data/articles/navigating-the-winds-of.e12a41ce/README.md) `ft.lk`
+* [Foreign investors and firms that stood with SL through thick and thin](data/articles/foreign-investors-and-fi.a575e3d4/README.md) `ft.lk`
 
 ## 2025-03-13
 
@@ -12,6 +19,7 @@ Last Updated **2025-03-13 18:21:38**
 
 ## 2025-03-12
 
+* [யாழ்ப்பாண பத்திரிகையாளர்களில் முதன்மை வாய்ந்தவராக விளங்கிய வீரகேசரியின் ” செய்தி மன்னன்” செல்லத்துரை](data/articles/ய-ழ-ப-ப-ண-பத-த-ர-க-ய-ளர.5975872f/README.md) `dbsjeyaraj.com`
 * [Gemini Robotics uses Google’s top language model to make robots more useful](data/articles/gemini-robotics-uses-goo.318179b1/README.md) `technologyreview.com`
 * [This startup just hit a big milestone for green steel production](data/articles/this-startup-just-hit-a.6ba1972b/README.md) `technologyreview.com`
 * [Mobile Number Portability in Sri Lanka: Is it a costly illusion of choice?](data/articles/mobile-number-portabilit.13806862/README.md) `ft.lk`
@@ -53,6 +61,7 @@ Last Updated **2025-03-13 18:21:38**
 * [The quantum leaps from oppositional  critique to governmental competence](data/articles/the-quantum-leaps-from-o.09a8c16d/README.md) `ft.lk`
 * [Towards a concept  of transformational adaptation](data/articles/towards-a-concept-of-tra.b6ffa09b/README.md) `ft.lk`
 * [Achieving gender equality in employment rates would take almost two centuries, says ILO](data/articles/achieving-gender-equalit.e4e23d8b/README.md) `ft.lk`
+* [Europe chart of the week: uncertainty after ECB March cut](data/articles/europe-chart-of-the-week.97d6a7c1/README.md) `eiu.com`
 * [The short, strange history of gene de-extinction](data/articles/the-short-strange-histor.0289f177/README.md) `technologyreview.com`
 * [Fintech regulation that supports innovation: Balancing act](data/articles/fintech-regulation-that.76b31b03/README.md) `ft.lk`
 * [Sri Lanka’s 2025 Budget: Catalyst for economic development](data/articles/sri-lanka-s-2025-budget.34160b12/README.md) `ft.lk`
