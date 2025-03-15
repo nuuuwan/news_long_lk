@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-14 18:20:21**
+Last Updated **2025-03-15 06:25:14**
+
+## 2025-03-15
+
+* [Vehicles of governmental transgression v.  transports of delight under a new regime](data/articles/vehicles-of-governmental.37dfe401/README.md) `ft.lk`
+* [Coverup of collusive evil](data/articles/coverup-of-collusive-evi.a382e754/README.md) `ft.lk`
+* [Unpacking Global Goal on Adaptation and its implications](data/articles/unpacking-global-goal-on.5263537f/README.md) `ft.lk`
 
 ## 2025-03-14
 
