@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-16 18:18:27**
+Last Updated **2025-03-17 06:25:43**
+
+## 2025-03-17
+
+* [How to ensure fairer tax burden on all](data/articles/how-to-ensure-fairer-tax.6faa3c8f/README.md) `ft.lk`
+* [Debt justice for Sri Lanka](data/articles/debt-justice-for-sri-lan.35d75da6/README.md) `ft.lk`
+* [Emerging Trumporder or Trump(dis)order: IMF-WB advocated policy package at risk](data/articles/emerging-trumporder-or-t.ddfa6d11/README.md) `ft.lk`
 
 ## 2025-03-15
 
