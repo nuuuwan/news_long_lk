@@ -2,13 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-17 06:25:43**
+Last Updated **2025-03-17 18:22:16**
 
 ## 2025-03-17
 
 * [How to ensure fairer tax burden on all](data/articles/how-to-ensure-fairer-tax.6faa3c8f/README.md) `ft.lk`
 * [Debt justice for Sri Lanka](data/articles/debt-justice-for-sri-lan.35d75da6/README.md) `ft.lk`
 * [Emerging Trumporder or Trump(dis)order: IMF-WB advocated policy package at risk](data/articles/emerging-trumporder-or-t.ddfa6d11/README.md) `ft.lk`
+
+## 2025-03-16
+
+* [Why are Tamil Nationalist Political Parties Unable to Forge  Unity  or Adopt  a Unified Approach to Surmount Challenges Faced by the Tamil People in Sri Lanka?](data/articles/why-are-tamil-nationalis.49f18669/README.md) `dbsjeyaraj.com`
 
 ## 2025-03-15
 
@@ -23,6 +27,7 @@ Last Updated **2025-03-17 06:25:43**
 * [Navigating the winds of change: Leadership, ethics and non-compromise](data/articles/navigating-the-winds-of.e12a41ce/README.md) `ft.lk`
 * [Navigating the winds of change: Leadership, ethics and non-compromise](data/articles/navigating-the-winds-of.a6bc4c40/README.md) `ft.lk`
 * [Foreign investors and firms that stood with SL through thick and thin](data/articles/foreign-investors-and-fi.a575e3d4/README.md) `ft.lk`
+* [This annual shot might protect against HIV infections](data/articles/this-annual-shot-might-p.6727e343/README.md) `technologyreview.com`
 
 ## 2025-03-13
 
