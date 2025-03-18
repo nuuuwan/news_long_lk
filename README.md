@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-17 18:22:16**
+Last Updated **2025-03-18 06:25:25**
+
+## 2025-03-18
+
+* [Proceeds of Crime Bill: For whom the bell tolls](data/articles/proceeds-of-crime-bill-f.b6d8eeaf/README.md) `ft.lk`
+* [Are Sri Lankan universities not ashamed of their poor global rankings?](data/articles/are-sri-lankan-universit.c13224e7/README.md) `ft.lk`
 
 ## 2025-03-17
 
