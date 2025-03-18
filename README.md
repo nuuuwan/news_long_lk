@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-18 06:25:25**
+Last Updated **2025-03-18 18:21:53**
 
 ## 2025-03-18
 
@@ -11,6 +11,7 @@ Last Updated **2025-03-18 06:25:25**
 
 ## 2025-03-17
 
+* [Is Google playing catchup on search with OpenAI?](data/articles/is-google-playing-catchu.dfe1a91b/README.md) `technologyreview.com`
 * [How to ensure fairer tax burden on all](data/articles/how-to-ensure-fairer-tax.6faa3c8f/README.md) `ft.lk`
 * [Debt justice for Sri Lanka](data/articles/debt-justice-for-sri-lan.35d75da6/README.md) `ft.lk`
 * [Emerging Trumporder or Trump(dis)order: IMF-WB advocated policy package at risk](data/articles/emerging-trumporder-or-t.ddfa6d11/README.md) `ft.lk`
@@ -45,6 +46,7 @@ Last Updated **2025-03-18 06:25:25**
 * [யாழ்ப்பாண பத்திரிகையாளர்களில் முதன்மை வாய்ந்தவராக விளங்கிய வீரகேசரியின் ” செய்தி மன்னன்” செல்லத்துரை](data/articles/ய-ழ-ப-ப-ண-பத-த-ர-க-ய-ளர.5975872f/README.md) `dbsjeyaraj.com`
 * [Gemini Robotics uses Google’s top language model to make robots more useful](data/articles/gemini-robotics-uses-goo.318179b1/README.md) `technologyreview.com`
 * [This startup just hit a big milestone for green steel production](data/articles/this-startup-just-hit-a.6ba1972b/README.md) `technologyreview.com`
+* [This artificial leaf makes hydrocarbons out of carbon dioxide](data/articles/this-artificial-leaf-mak.8498e8f0/README.md) `technologyreview.com`
 * [Mobile Number Portability in Sri Lanka: Is it a costly illusion of choice?](data/articles/mobile-number-portabilit.13806862/README.md) `ft.lk`
 * [Future of tea, rubber and coconut industry in Sri Lanka](data/articles/future-of-tea-rubber-and.bc942d9d/README.md) `ft.lk`
 
