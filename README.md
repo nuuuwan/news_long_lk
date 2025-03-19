@@ -2,12 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-19 06:25:21**
+Last Updated **2025-03-19 18:22:51**
 
 ## 2025-03-19
 
 * [The Unbully Project: The time for anti-bullying laws is now](data/articles/the-unbully-project-the.18adf55d/README.md) `ft.lk`
 * [NCPA leads effort to train journalists on ethical coverage of child abuse cases](data/articles/ncpa-leads-effort-to-tra.5a266672/README.md) `ft.lk`
+* [NCPA leads effort to train journalists on ethical coverage of child abuse cases](data/articles/ncpa-leads-effort-to-tra.7e891539/README.md) `ft.lk`
 * [Can we rely on the police?](data/articles/can-we-rely-on-the-polic.71823523/README.md) `ft.lk`
 * [MMDA reform is about women’s and girls’ lives not political games](data/articles/mmda-reform-is-about-wom.cee67b32/README.md) `ft.lk`
 * [“People’s Festival”: Celebrating Sri Lanka’s vibrant diversity](data/articles/people-s-festival-celeb.abf5806e/README.md) `ft.lk`
