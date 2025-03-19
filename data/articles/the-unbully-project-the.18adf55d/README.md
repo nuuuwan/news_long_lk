@@ -1,0 +1,56 @@
+# The Unbully Project: The time for anti-bullying laws is now
+
+[https://www.ft.lk/columns/The-Unbully-Project-The-time-for-anti-bullying-laws-is-now/4-774452](https://www.ft.lk/columns/The-Unbully-Project-The-time-for-anti-bullying-laws-is-now/4-774452)
+
+*06:22 AM, Wednesday, March 19, 2025*
+
+The trigger for many bullying episodes is a breakdown of rules and behaviour standards that are ‘grey’
+
+and Kajanga Kulatunga
+
+It has now been over three months since we first wrote to the Minister of Education asking for what we thought were simple, cost effective ways of bringing awareness to help reduce incidents of bullying in schools. While the Government has announced positive steps in related subject areas, we are yet to hear back from the Ministry of any concrete steps being taken to address bullying directly.
+
+Although nothing has been done to demonstrate to the public that the Government considers bullying to be a serious issue, the President made some important anecdotal comments on the subject in his Budget speech. Specifically, he called out that teen suicides is a tragedy that requires to be addressed immediately. To that effect he allocated Rs. 250 million to deal with the mental health of children via a joint mechanism of both the Ministry of Health and Education. While noble in sentiment, we feel he is overlooking a critical factor that impacts the mental health of students. That factor is bullying. Therefore, we recommend the Government focus their attention and funds on preventive strategies to combat this issue.
+
+“Section 16. Social Protection
+
+We are experiencing many unfortunate incidents of suicides among adolescents. The Government has recognised the severity of this issue as a social problem. Therefore, we propose to allocate Rs. 250 million for 2025 to implement a medium-term programme to expand the awareness and counselling services for students and adolescents by the Ministry of Health in collaboration with the Ministry of Education.”
+
+Budget Speech 2025, President Anura. K. Dissanayake.
+
+While a public health focused method to deal with the consequences of bullying is essential at a national level, the problem with this approach is that it deals with ‘consequences’. The after effects of bullying manifests in to a mental health challenge as a consequence of the unfortunate incidents that occur. Like all mental health issues, dealing with a patient after the onset of a condition or trigger is much more uncertain than trying to prevent the event from taking place. Further, the public and private health costs of management and treatment is significantly more expensive than preventive measures.
+
+We appeal to the Government of Sri Lanka to immediately take steps to reduce the incidence and probability of bullying to occur in schools and broader society.
+
+Instead of this being a ‘mental health’ or ‘education’ matter, we are now firmly of the view that it is a matter of law and order. Given our experience speaking with a wide group of parents, students, teachers and medical professionals over the course of the past six months, it is evident that the trigger for many bullying episodes is a breakdown of rules and behaviour standards that are ‘grey’. The lack of clearly defined laws make justice impossible to deliver to victims.
+
+Physical bullying – Leading boys’ school in Colombo
+
+Two 15-year-olds in a leading boy’s school have a physical fight and one boy ends up in hospital. The victim was continuously bullied for three months and saw an opportunity when the perpetrator brought in a mobile device to class breaking a school rule. When the victim raised the issue loudly and a teacher was moving in to confiscate the device, pandemonium broke out.
+
+The victim was treated for trauma at a private hospital and all the school could do was to suspend the perpetrator for a week. When questions were raised from authorities, they said the perpetrator’s parents warned the school will be taken before the SL Human Rights Commission if any further punishments were meted.
+
+Psychological bullying – Leading girls’ school in Colombo
+
+The victim was a 15-year-old in the care of her uncle and aunty, as both parents were working in the Middle-east. Her outstanding academic success attracted gossip mongering amongst parents of a handful of classmates. These parents started spreading rumours on social media about the victim including slanderous comments about her behaviour and alleged moral depravity.
+
+The victim suffered a breakdown and is under ongoing psychological counselling. No action has been taken or can be taken against the parents who caused this grave harm.
+
+Our ongoing engagement with the broader community since our appeal to the Minister also highlighted the need for the development of a law against bullying in order to develop the vocabulary set in Sinhala and Tamil. The Constitution of Sri Lanka makes clear that if there is a conflict between the Sinhala wording and those of English or Tamil, the Sinhala version shall prevail. Drafting a law will require the authorities to develop a word and the full vocabulary set around the issue of bullying for the law to be gazetted by parliament.
+
+We would like to restate our original request that the Government;
+
+1.Declare a National Anti-bullying week in all schools.
+
+2.Amend and develop the National curriculum to incorporate lessons about anti-bullying from Kindergarten through Grade 12. Require all schools not following the National Curriculum to present their equivalent plans.
+
+3.Develop an anti-bullying vocabulary in Sinhala and Tamil so that it enables open and honest conversations across society.
+
+As outlined, it has now become evident the fastest way to achieve the vocabulary is to ask for a new fourth item, which is the introduction of an anti-bullying law in the country. While the initial focus of this law should be the protection of children, we need to recognise that a significant cohort of those aged 18 remain in school. It is advised the law isn’t drafted to limit coverage to school or minors. Bullying can and do occur anywhere there is a gathering of groups of individuals. Bullying has significant social and economic consequences no matter where and when it occurs.
+
+In order to help us influence the Government, we call on all concerned citizens to sign our online petition to help make our schools and society safe for everyone.
+
+The petition is available here: https://www.ipetitions.com/petition/introduce-anti-bullying-laws-to-protect-children
+
+(Chenaya Kulatunga is a 9-year-old student schooling in Sri Lanka. She has been invited to present at the World Anti-Bullying Forum, 2025 in Stavanger Norway. Kajanga Kulatunga is her father. You can reach them at [email protected].)
+

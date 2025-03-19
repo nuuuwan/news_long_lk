@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-18 18:21:53**
+Last Updated **2025-03-19 06:25:21**
+
+## 2025-03-19
+
+* [The Unbully Project: The time for anti-bullying laws is now](data/articles/the-unbully-project-the.18adf55d/README.md) `ft.lk`
+* [NCPA leads effort to train journalists on ethical coverage of child abuse cases](data/articles/ncpa-leads-effort-to-tra.5a266672/README.md) `ft.lk`
+* [Can we rely on the police?](data/articles/can-we-rely-on-the-polic.71823523/README.md) `ft.lk`
+* [MMDA reform is about women’s and girls’ lives not political games](data/articles/mmda-reform-is-about-wom.cee67b32/README.md) `ft.lk`
+* [“People’s Festival”: Celebrating Sri Lanka’s vibrant diversity](data/articles/people-s-festival-celeb.abf5806e/README.md) `ft.lk`
 
 ## 2025-03-18
 
+* [Protect Your Company from Escalating Foreign Cyber Threats](data/articles/protect-your-company-fro.df643a61/README.md) `hbr.org`
+* [When you might start speaking to robots](data/articles/when-you-might-start-spe.d6f5734e/README.md) `technologyreview.com`
 * [Proceeds of Crime Bill: For whom the bell tolls](data/articles/proceeds-of-crime-bill-f.b6d8eeaf/README.md) `ft.lk`
 * [Are Sri Lankan universities not ashamed of their poor global rankings?](data/articles/are-sri-lankan-universit.c13224e7/README.md) `ft.lk`
 
