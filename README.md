@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-20 06:25:19**
+Last Updated **2025-03-20 18:21:33**
 
 ## 2025-03-20
 
+* [The elephant in the room for energy tech? Uncertainty.](data/articles/the-elephant-in-the-room.3eebeb11/README.md) `technologyreview.com`
 * [Presidential Youth Commission and current social challenges](data/articles/presidential-youth-commi.5d861e29/README.md) `ft.lk`
 * [Why following IMF policy recommendations will lead to yet another debt crisis: Part 1](data/articles/why-following-imf-policy.0daa40a5/README.md) `ft.lk`
 * [Steady leadership in rough waters](data/articles/steady-leadership-in-rou.4748444b/README.md) `ft.lk`
