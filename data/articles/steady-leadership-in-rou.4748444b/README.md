@@ -1,0 +1,62 @@
+# Steady leadership in rough waters
+
+[https://www.ft.lk/columns/Steady-leadership-in-rough-waters/4-774478](https://www.ft.lk/columns/Steady-leadership-in-rough-waters/4-774478)
+
+*02:23 AM, Thursday, March 20, 2025*
+
+Anura Kumara Dissanayake’s Government has steered the nation through rough waters with a steady hand, proving that strong leadership and sound policies can yield tangible results
+
+Public trust is a vital component of any nation’s economic recovery. When citizens believe that their Government can manage crises and implement effective policies, they are more likely to support economic reforms and participate in national development efforts. The rise in approval ratings suggests that Sri Lankans are beginning to see tangible improvements in their daily lives, which, in turn, encourages further confidence in the Government’s ability to lead the country out of crisis
+
+In a striking turnaround, public approval of the Government has surged to 62% in February 2025, more than doubling from the 24% recorded in July 2024. According to the latest ‘Mood of the Nation’ poll conducted by Verité Research, the sharp increase in approval reflects growing optimism about economic recovery and governance. This represents a major shift in public sentiment, following a prolonged period of uncertainty and crisis that had gripped Sri Lanka.
+
+Since taking office in November 2024, the Government of Anura Kumara Dissanayake has had to navigate treacherous economic waters. Sri Lanka’s economy was battered, public trust was low, and international confidence was fragile. However, just a few months into his leadership, the tides have begun to turn. Confidence in the administration has surged, international support has been extended, and economic indicators are showing signs of steady recovery. The International Monetary Fund (IMF) has expressed optimism, investments are flowing in, and the tourism sector is witnessing a revival. Against all odds, the Government has steadied the ship.
+
+Declining disapproval, rising optimism
+
+Disapproval of the Government has also seen a dramatic decline. While 60% of respondents disapproved of the Government in July 2024, that number has now fallen to just 16%, a 44-point drop. Similarly, those who rated the economy as being in “poor” condition has reduced from 71% to 47%. This is a clear indication that public confidence is being restored as economic recovery measures take effect. The Government’s ability to manage inflation, stabilise currency fluctuations, and ensure food and energy security has played a crucial role in this shift.
+
+The improvement in public sentiment is not just limited to the economy but extends to governance as well. With increased policy transparency, better fiscal management, and proactive initiatives aimed at supporting key sectors, the administration has managed to win back the trust of a significant portion of the electorate. While challenges remain, these positive trends suggest that the Government is moving in the right direction.
+
+Government approval: 62% approve, up from 24% in July 2024; only 16% disapprove, a sharp decline from 60%.
+
+Economic outlook: 55% believe the economy is “getting better,” compared to just 30% in July 2024; only 14% think it is “getting worse,” a massive drop from the previous 65%.
+
+State of the economy: 35% rate economic conditions as “good” or “excellent,” up from 28%; those who view the economy as “poor” have decreased from 71% to 47%.
+
+Steering the economy towards stability
+
+One of the biggest reasons for this shift in sentiment is the Government’s success in implementing key economic reforms. Over the past year, Sri Lanka has seen improvements in fiscal discipline, foreign reserves management, and debt restructuring, which have contributed to stabilising the economy. Inflation, which has been a major concern for the public, has been brought under control, allowing households to better manage their expenses.
+
+Internationally, Sri Lanka has gained significant support. The IMF, which had previously issued cautionary warnings, has now expressed optimism about the nation’s economic trajectory. Foreign investors are returning with confidence that the country is on the path to stability. The tourism sector, a vital component of the economy, is also showing significant growth, bringing in much-needed foreign exchange and employment opportunities.
+
+Another important factor contributing to the rise in approval ratings is the government’s focus on strengthening key economic sectors, including agriculture, industry, and services. Initiatives aimed at promoting self-sufficiency in food production, expanding exports, and attracting foreign direct investment have instilled a sense of confidence among the public. Additionally, improvements in infrastructure development, transportation, and digital transformation have contributed to a more optimistic economic outlook.
+
+Furthermore, the administration’s emphasis on social welfare and poverty alleviation programs has played a significant role in improving public perception. The introduction of targeted subsidies, employment programs, and financial assistance for low-income families has helped mitigate the impact of the economic crisis, fostering a more positive sentiment among the people.
+
+Challenges that remain
+
+Despite the encouraging figures, there are still significant challenges ahead. While the percentage of people who rate the economy as being in a “poor” condition has declined, it remains at 47%, indicating that nearly half of the population still struggles with economic hardship. The government must continue to focus on addressing cost-of-living concerns, ensuring job creation, and implementing long-term economic policies that foster sustainable growth.
+
+Additionally, while approval ratings have improved, maintaining this positive trajectory will require continued effort. Political stability, transparency, and good governance will be crucial in ensuring that the progress made is not reversed. Addressing corruption, improving public sector efficiency, and strengthening the rule of law will be key areas where the government must remain vigilant.
+
+The role of public trust in economic recovery
+
+Public trust is a vital component of any nation’s economic recovery. When citizens believe that their Government can manage crises and implement effective policies, they are more likely to support economic reforms and participate in national development efforts. The rise in approval ratings suggests that Sri Lankans are beginning to see tangible improvements in their daily lives, which, in turn, encourages further confidence in the Government’s ability to lead the country out of crisis.
+
+The decline in disapproval ratings also suggests that many who were previously sceptical of the Government’s ability to handle economic challenges are now seeing positive results. This shift is crucial, as it creates a more stable and predictable political environment, which is essential for attracting investment and fostering economic growth.
+
+Looking ahead: What’s next for Sri Lanka?
+
+As Sri Lanka moves forward, the Government must capitalise on this momentum and continue implementing policies that drive long-term prosperity. Strengthening economic resilience, diversifying industries, and enhancing global trade partnerships will be essential in sustaining growth. Moreover, ensuring equitable development across all regions of the country will be crucial in maintaining public confidence.
+
+The Government’s ability to maintain public trust will depend on how effectively it addresses the remaining economic challenges. Inflation control, wage growth, and the creation of high-quality employment opportunities should remain top priorities. Additionally, fostering innovation and technology-driven industries could play a significant role in shaping Sri Lanka’s future economic landscape.
+
+A steady hand in a rough sea
+
+The latest poll results paint a picture of a Government that has not only regained the trust of the people but has also demonstrated the ability to lead in times of crisis. Anura Kumara Dissanayake’s Government has steered the nation through rough waters with a steady hand, proving that strong leadership and sound policies can yield tangible results.
+
+With approval ratings soaring to 62%, public confidence is on the rise, and optimism about the nation’s economic future is growing. The Government has earned the trust of the people through decisive actions, economic stabilisation, and international diplomacy. However, sustaining this progress will require continued efforts in governance, economic planning, and social welfare.
+
+While challenges remain, the downward trend in disapproval and the upward trend in optimism suggest that Sri Lanka is on the right track. The coming months will be crucial in determining whether this positive momentum can be sustained. With the right strategies in place, the Government can lead Sri Lanka into a new era of stability, growth, and prosperity. Anura Kumara Dissanayake’s leadership has shown that even in a rough sea, a steady hand on the helm can keep the ship afloat and moving forward.
+

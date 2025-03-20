@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-19 18:22:51**
+Last Updated **2025-03-20 06:25:19**
+
+## 2025-03-20
+
+* [Presidential Youth Commission and current social challenges](data/articles/presidential-youth-commi.5d861e29/README.md) `ft.lk`
+* [Why following IMF policy recommendations will lead to yet another debt crisis: Part 1](data/articles/why-following-imf-policy.0daa40a5/README.md) `ft.lk`
+* [Steady leadership in rough waters](data/articles/steady-leadership-in-rou.4748444b/README.md) `ft.lk`
 
 ## 2025-03-19
 
@@ -15,7 +21,10 @@ Last Updated **2025-03-19 18:22:51**
 
 ## 2025-03-18
 
+* [Will the   Anura “Alai”(wave) Enable the JVP led NPP  to do   well  in the Seventeen   Local Authority Elections of Jaffna District ?](data/articles/will-the-anura-alai-wave.9e8f76a6/README.md) `dbsjeyaraj.com`
+* [Archuna Ramanathan’s Attack on Swathika Arulingam:  The re-enabling of a disinformation campaign of sexual slurs against women by invoking LTTE’s ethnic nationalism.](data/articles/archuna-ramanathan-s-att.b05bd375/README.md) `dbsjeyaraj.com`
 * [Protect Your Company from Escalating Foreign Cyber Threats](data/articles/protect-your-company-fro.df643a61/README.md) `hbr.org`
+* [HIV could infect 1,400 infants every day because of US aid disruptions](data/articles/hiv-could-infect-1-400-i.536eb5cb/README.md) `technologyreview.com`
 * [When you might start speaking to robots](data/articles/when-you-might-start-spe.d6f5734e/README.md) `technologyreview.com`
 * [Proceeds of Crime Bill: For whom the bell tolls](data/articles/proceeds-of-crime-bill-f.b6d8eeaf/README.md) `ft.lk`
 * [Are Sri Lankan universities not ashamed of their poor global rankings?](data/articles/are-sri-lankan-universit.c13224e7/README.md) `ft.lk`
@@ -39,6 +48,7 @@ Last Updated **2025-03-19 18:22:51**
 
 ## 2025-03-14
 
+* [EU human-rights resolution could complicate Thai FTA talks](data/articles/eu-human-rights-resoluti.d9469985/README.md) `eiu.com`
 * [It takes guts to show vulnerability in leadership](data/articles/it-takes-guts-to-show-vu.182bf794/README.md) `ft.lk`
 * [Why are Tamil nationalist political parties unable to unite?](data/articles/why-are-tamil-nationalis.11ecee5c/README.md) `ft.lk`
 * [Navigating the winds of change: Leadership, ethics and non-compromise](data/articles/navigating-the-winds-of.e12a41ce/README.md) `ft.lk`
@@ -98,6 +108,7 @@ Last Updated **2025-03-19 18:22:51**
 * [The quantum leaps from oppositional  critique to governmental competence](data/articles/the-quantum-leaps-from-o.09a8c16d/README.md) `ft.lk`
 * [Towards a concept  of transformational adaptation](data/articles/towards-a-concept-of-tra.b6ffa09b/README.md) `ft.lk`
 * [Achieving gender equality in employment rates would take almost two centuries, says ILO](data/articles/achieving-gender-equalit.e4e23d8b/README.md) `ft.lk`
+* [The Trump administration is dismantling the CFPB](data/articles/the-trump-administration.b1f67583/README.md) `eiu.com`
 * [Europe chart of the week: uncertainty after ECB March cut](data/articles/europe-chart-of-the-week.97d6a7c1/README.md) `eiu.com`
 * [The short, strange history of gene de-extinction](data/articles/the-short-strange-histor.0289f177/README.md) `technologyreview.com`
 * [Fintech regulation that supports innovation: Balancing act](data/articles/fintech-regulation-that.76b31b03/README.md) `ft.lk`
