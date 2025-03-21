@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-20 18:21:33**
+Last Updated **2025-03-21 06:25:24**
+
+## 2025-03-21
+
+* [Hegemonic dollar, Trumpism and dollar hungry economies](data/articles/hegemonic-dollar-trumpis.35b0a3c6/README.md) `ft.lk`
+* [Jaffna-born Tamil Canadian Gary Anandasangaree appointed “MoJAG” by new PM Mark Carney](data/articles/jaffna-born-tamil-canadi.fb53ffeb/README.md) `ft.lk`
+* [Reviving Sri Lanka’s SMEs: Sustainable roadmap](data/articles/reviving-sri-lanka-s-sme.a40548e9/README.md) `ft.lk`
+* [Sri Lanka’s elusive search for the right leadership](data/articles/sri-lanka-s-elusive-sear.f8e2a283/README.md) `ft.lk`
+* [Counterfeit and substandard drugs: Numbers game](data/articles/counterfeit-and-substand.146e299a/README.md) `ft.lk`
 
 ## 2025-03-20
 
