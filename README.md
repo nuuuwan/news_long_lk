@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-21 18:21:19**
+Last Updated **2025-03-22 06:25:34**
+
+## 2025-03-22
+
+* [Following up on the year of climate finance](data/articles/following-up-on-the-year.290f0686/README.md) `ft.lk`
+* [Fun and games for some while country went downhill](data/articles/fun-and-games-for-some-w.3c63b19e/README.md) `ft.lk`
+* [Will the real NPP unmask?  Please step up to the plate!](data/articles/will-the-real-npp-unmask.171104f5/README.md) `ft.lk`
 
 ## 2025-03-21
 
+* [Doctor in the house missing](data/articles/doctor-in-the-house-miss.91125f8e/README.md) `ft.lk`
+* [OpenAI has released its first research into how using ChatGPT affects people’s emotional wellbeing](data/articles/openai-has-released-its.1e88c262/README.md) `technologyreview.com`
 * [Hegemonic dollar, Trumpism and dollar hungry economies](data/articles/hegemonic-dollar-trumpis.35b0a3c6/README.md) `ft.lk`
 * [Jaffna-born Tamil Canadian Gary Anandasangaree appointed “MoJAG” by new PM Mark Carney](data/articles/jaffna-born-tamil-canadi.fb53ffeb/README.md) `ft.lk`
 * [Reviving Sri Lanka’s SMEs: Sustainable roadmap](data/articles/reviving-sri-lanka-s-sme.a40548e9/README.md) `ft.lk`
@@ -18,6 +26,7 @@ Last Updated **2025-03-21 18:21:19**
 
 ## 2025-03-20
 
+* [Three Scenarios for Transforming the Finance Function](data/articles/three-scenarios-for-tran.1873eda3/README.md) `hbr.org`
 * [The elephant in the room for energy tech? Uncertainty.](data/articles/the-elephant-in-the-room.3eebeb11/README.md) `technologyreview.com`
 * [Presidential Youth Commission and current social challenges](data/articles/presidential-youth-commi.5d861e29/README.md) `ft.lk`
 * [Why following IMF policy recommendations will lead to yet another debt crisis: Part 1](data/articles/why-following-imf-policy.0daa40a5/README.md) `ft.lk`
@@ -25,6 +34,7 @@ Last Updated **2025-03-21 18:21:19**
 
 ## 2025-03-19
 
+* [4 technologies that could power the future of energy](data/articles/4-technologies-that-coul.eadd694e/README.md) `technologyreview.com`
 * [The Unbully Project: The time for anti-bullying laws is now](data/articles/the-unbully-project-the.18adf55d/README.md) `ft.lk`
 * [NCPA leads effort to train journalists on ethical coverage of child abuse cases](data/articles/ncpa-leads-effort-to-tra.5a266672/README.md) `ft.lk`
 * [NCPA leads effort to train journalists on ethical coverage of child abuse cases](data/articles/ncpa-leads-effort-to-tra.7e891539/README.md) `ft.lk`
