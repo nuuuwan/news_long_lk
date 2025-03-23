@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-22 18:18:37**
+Last Updated **2025-03-23 06:25:27**
 
 ## 2025-03-22
 
@@ -13,6 +13,7 @@ Last Updated **2025-03-22 18:18:37**
 ## 2025-03-21
 
 * [Doctor in the house missing](data/articles/doctor-in-the-house-miss.91125f8e/README.md) `ft.lk`
+* [Jaffna Born Tamil  Canadian Gary  Anandasangaree Appointed as  Minister of Justice / Attorney-General  by  Canada’s new Prime Minister  Mark Carney.](data/articles/jaffna-born-tamil-canadi.d2b70527/README.md) `dbsjeyaraj.com`
 * [OpenAI has released its first research into how using ChatGPT affects people’s emotional wellbeing](data/articles/openai-has-released-its.1e88c262/README.md) `technologyreview.com`
 * [Hegemonic dollar, Trumpism and dollar hungry economies](data/articles/hegemonic-dollar-trumpis.35b0a3c6/README.md) `ft.lk`
 * [Jaffna-born Tamil Canadian Gary Anandasangaree appointed “MoJAG” by new PM Mark Carney](data/articles/jaffna-born-tamil-canadi.fb53ffeb/README.md) `ft.lk`
