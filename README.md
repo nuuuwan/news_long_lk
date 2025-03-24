@@ -2,12 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-24 06:25:31**
+Last Updated **2025-03-24 18:22:05**
 
 ## 2025-03-24
 
 * [Beyond numbers: Understanding women’s workforce participation in Sri Lanka](data/articles/beyond-numbers-understan.d3e63f0c/README.md) `ft.lk`
 * [Shattering the glass ceiling: CMA Sri Lanka’s vision for inclusive leadership](data/articles/shattering-the-glass-cei.0401b157/README.md) `ft.lk`
+* [“அநுர அலை”  சூழ்ந்து,  தேசிய மக்கள் சக்தி யாழ்ப்பாண உள்ளூராட்சி தேர்தல்களில் பெரிய வெற்றியை பெறுமா?](data/articles/அந-ர-அல-ச-ழ-ந-த-த-ச-ய-ம.73295acd/README.md) `dbsjeyaraj.com`
+* [“President Anura Kumara Dissanayake symbolises a dramatic shift in the class bases of political power from a privileged minority of Colombo-centric, Westernised elites to a broad coalition of non-elite social forces.”](data/articles/president-anura-kumara.99a623ff/README.md) `dbsjeyaraj.com`
 
 ## 2025-03-23
 
