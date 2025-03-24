@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-23 18:19:02**
+Last Updated **2025-03-24 06:25:31**
+
+## 2025-03-24
+
+* [Beyond numbers: Understanding women’s workforce participation in Sri Lanka](data/articles/beyond-numbers-understan.d3e63f0c/README.md) `ft.lk`
+* [Shattering the glass ceiling: CMA Sri Lanka’s vision for inclusive leadership](data/articles/shattering-the-glass-cei.0401b157/README.md) `ft.lk`
+
+## 2025-03-23
+
+* [Sri Lanka’s vanishing tuskers: Race against time](data/articles/sri-lanka-s-vanishing-tu.eab7a813/README.md) `ft.lk`
+* [GSP, Trump(dis)order, and Sri Lanka’s choice in an eye for eye tariff regime in USA](data/articles/gsp-trump-dis-order-and.a5e49b22/README.md) `ft.lk`
 
 ## 2025-03-22
 

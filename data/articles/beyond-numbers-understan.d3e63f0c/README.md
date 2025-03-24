@@ -1,0 +1,84 @@
+# Beyond numbers: Understanding women’s workforce participation in Sri Lanka
+
+[https://www.ft.lk/columns/Beyond-numbers-Understanding-women-s-workforce-participation-in-Sri-Lanka/4-774669](https://www.ft.lk/columns/Beyond-numbers-Understanding-women-s-workforce-participation-in-Sri-Lanka/4-774669)
+
+*03:33 AM, Monday, March 24, 2025*
+
+It is imperative for all stakeholders—including policymakers, businesses, and society as a whole—to comprehend the underlying reasons for the underrepresentation of women in the workforce. Numerous obstacles hinder Sri Lankan women from actively participating in the nation’s development, including deeply ingrained cultural norms, institutional barriers, and workplace discrimination
+
+Despite Sri Lanka’s remarkable achievements in education and gender equality indicators, female labour force participation remains alarmingly low. Women account for nearly half of the population; however, their participation in the labour market is considerably lower, at a rate of 33%, than that of their male counterparts. The gender disparity within the workforce constitutes a significant economic and social challenge that, if overlooked, will persist in hindering the advancement of our nation.
+
+It is imperative for all stakeholders—including policymakers, businesses, and society as a whole—to comprehend the underlying reasons for the underrepresentation of women in the workforce. Numerous obstacles hinder Sri Lankan women from actively participating in the nation’s development, including deeply ingrained cultural norms, institutional barriers, and workplace discrimination. This paper examines the overarching context and presents policy recommendations aimed at fostering a more equitable and inclusive workforce.
+
+The main reasons for low female workforce participation in Sri Lanka:
+
+1. Deep-rooted social and cultural norms
+
+The predominance of conventional gender roles is one of the main causes of poor workforce participation among Sri Lankan women. Women are frequently anticipated to prioritise familial obligations, including caregiving, eldercare, and domestic responsibilities, above their professional aspirations. This society’s expectations discourage many women from looking for jobs, which also drives them to choose part-time and unofficial work with less pay and job stability.
+
+Furthermore, women working in fields dominated by men are subject to general social stigma. Women’s employment options are further limited by the belief that some jobs—including those in manufacturing, transportation, and construction—are “unsuitable” for them. Women’s professional paths also heavily reflect marriage and motherhood since many leave the workforce after having children because of family pressure and insufficient support.
+
+2. Safety issues and occupational challenges
+
+Even when women do enter the workforce, they face numerous challenges in the workplace that deter them from remaining employed. One of the most pressing issues is the lack of flexible working schedules. Unlike most modern societies, where flexible hours, remote work, and job-sharing arrangements are accepted, Sri Lanka’s business sector remains inflexible in its attitude to employment.
+
+Safety issues and workplace harassment restrict women even more from entering many fields. Particularly in settings where men dominate, many women worry about harassment both at work and on their commutes. The lack of strict workplace policies to handle sexual harassment makes it challenging for women to disclose events, therefore strengthening the silence in society.
+
+Furthermore, the gender pay disparity and restricted opportunities for career advancement impede women’s long-term employment prospects. Many find the workforce to be unattractive as women often earn less than males for comparable work and are routinely passed over for promotions.
+
+3. Economic and structural barriers
+
+The job market in Sri Lanka is characterised by various structural impediments that disproportionately impact women. Due to societal views and a lack of focused training programs, several sectors with great career potential—including construction, IT, and engineering—remain mostly unreachable to women.
+
+Additionally, hiring policies do indeed show prejudice. Some firms hesitate to hire women because they believe they will take more days off owing to family commitments. This bias results in fewer career prospects for women, particularly those in leadership positions.
+
+The great degree of informal work among women is another major problem. Though many Sri Lankan women run small-scale companies, housework, and home businesses, their employment lacks stability, advantages, and legal protections. The informal sector falls short of providing the security and financial autonomy required for steady employment.
+
+4.Education-employment mismatch
+
+Ironically, although Sri Lankan women have more educational attainment than men, this benefit does not show up in job involvement. The educational system does not always provide women with the tools needed for high-paying employment in growing industries. Women still underrepresented themselves in STEM (science, technology, engineering, and mathematics) sectors, which provide more job stability and better pay. Many highly educated women also struggle to find jobs that meet their levels of competence, which causes underemployment or discouragement from looking at all.
+
+5. Lack of supporting policies and infrastructure
+
+Another barrier to female workforce participation is a lack of enabling policies and infrastructure. The lack of reasonably priced daycare centres leads many women to decide between family obligations and professional development. Likewise, inadequate parental leave rules support the belief that childcare is only a woman’s responsibility, restricting her employment prospects.
+
+Although Sri Lanka has launched various programs to assist women entrepreneurs with money, training, business networks, and access remains restricted. The absence of collateral or financial independence presents significant challenges for women in securing business financing, hindering their ability to start and run businesses.
+
+6. The effects of COVID-19
+
+The COVID-19 epidemic worsened gender inequality in employment. The decline in sectors such as tourism, fashion, and domestic services which employ a significant female workforce, resulted in widespread job losses among women.  Many women exited the workforce as familial responsibilities increased alongside the closure of educational institutions and childcare facilities during the lockdowns.
+
+Women are frequently anticipated to prioritise familial obligations, including caregiving, eldercare, and domestic responsibilities, above their professional aspirations
+
+Policy recommendations: The road forward
+
+To close the gender gap in workplace participation, Sri Lanka must use a multidimensional approach that includes government legislation, corporate initiatives, and social change. These are some significant measures that may drive towards a positive change:
+
+1. Elder care and childcare facilities
+
+Offering reasonably priced, superior childcare and elder care helps women to re-enter and stay in the workforce. Daycares and after-school programs funded by the public and private sectors can help working moms.
+
+2. Enhancing safety measures and workplace policies
+
+There must be stricter regulations and enforcement measures in place to stop harassment in the workplace. Businesses should set up anonymous reporting systems, train employees to be sensitive to gender issues, and impose stringent anti-harassment measures.
+
+3. Flexible work arrangements
+
+Encouragement of flexible hours, job-sharing, and remote work could help women reconcile obligations to their families and careers. Companies that adopt family-friendly practices are likely to retain a greater number of female employees over time.
+
+Equal pay policies and salary transparency should be imposed so that women may be sure they are being fairly compensated for their labour. Frequent pay audits help companies to find and fix pay differences.
+
+5. Supporting women in roles of STEM and leadership
+
+To encourage more women to enter STEM professions and leadership roles, scholarships, mentoring programs, and focused recruitment initiatives would be essential. Further, the representation of women in senior managerial roles should be actively promoted.
+
+6. Government support for female entrepreneurs
+
+Programs for talent development, mentoring, and financial resource access should be enhanced especially for female entrepreneurs. Special loan schemes with low collateral requirements may enable women entrepreneurs to start and grow their businesses.
+
+Enhancing female participation in the workforce is not only an economic imperative but also a matter of gender equity. By harnessing the potential of its female workforce, Sri Lanka stands to gain significantly. An increasingly accessible labour market will enhance social welfare, stimulate economic advancement, and contribute to the establishment of a more equitable society.
+
+Policymakers, corporations, and local governments ought to collaborate to eliminate barriers and cultivate an environment conducive to the professional advancement of women. While the journey ahead necessitates commitment and proactive measures, the advantages will extend beyond benefiting women, ultimately contributing to the nation’s overall progress.
+
+This article draws on the opinions of 425 women from various parts of the country, ranging in age from 20 to 65, who work in various sectors such as the private sector, public sector, self-employment, and informal sectors. It also includes the perspectives of unemployed women. These results offer trustworthy evidence to back up important policy changes and propel significant transformation.
+
