@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-25 06:25:16**
+Last Updated **2025-03-25 18:23:08**
 
 ## 2025-03-25
 
+* [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.60828983/README.md) `technologyreview.com`
 * [CDB accelerates action by empowering women-led SMEs](data/articles/cdb-accelerates-action-b.be88b9f2/README.md) `ft.lk`
 * [Sri Lanka must ratify ILO Convention 190 to combat workplace harassment: Shyamali Ranaraja](data/articles/sri-lanka-must-ratify-il.3a1ae29c/README.md) `ft.lk`
 * [Transformational journey of women in plantation industry](data/articles/transformational-journey.b5fdd2ba/README.md) `ft.lk`
@@ -16,7 +17,10 @@ Last Updated **2025-03-25 06:25:16**
 
 * [Beyond numbers: Understanding women’s workforce participation in Sri Lanka](data/articles/beyond-numbers-understan.d3e63f0c/README.md) `ft.lk`
 * [Shattering the glass ceiling: CMA Sri Lanka’s vision for inclusive leadership](data/articles/shattering-the-glass-cei.0401b157/README.md) `ft.lk`
+* [The ‘Batalanda torture camp,’  atrocity has created a  diversionary red herring for the JVP led-NPP Govt. The ” Batalanda ghost’ has conveniently lessened public heat on the Govt’s failure to keep hugely important campaign promises](data/articles/the-batalanda-torture-ca.7cec2f9f/README.md) `dbsjeyaraj.com`
+* [யாழ்ப்பாணத்தில் பிறந்த தமிழ்க் கனடியர் கரி (Gary)ஆனந்தசங்கரியை கனடாவின் நீதியமைச்சர் / சட்டமா அதிபராக  நியமித்த கனடாவின் புதிய பிரதமர் மார்க் கார்னி](data/articles/ய-ழ-ப-ப-ணத-த-ல-ப-றந-த-தம.6e043ae2/README.md) `dbsjeyaraj.com`
 * [“அநுர அலை”  சூழ்ந்து,  தேசிய மக்கள் சக்தி யாழ்ப்பாண உள்ளூராட்சி தேர்தல்களில் பெரிய வெற்றியை பெறுமா?](data/articles/அந-ர-அல-ச-ழ-ந-த-த-ச-ய-ம.73295acd/README.md) `dbsjeyaraj.com`
+* [The UK Sanctions Former Army Commanders Shavindra Silva and Jagath Jayasuriya  , Ex-Navy Commander Wasantha Karannagoda and  Former LTTE and TMVP Commander Vinayagamoorthy Muralitharan alias “Col”Karuna for serious human rights violations and abuses during the civil war in Sri Lanka.](data/articles/the-uk-sanctions-former.dd5b4c3c/README.md) `dbsjeyaraj.com`
 * [“President Anura Kumara Dissanayake symbolises a dramatic shift in the class bases of political power from a privileged minority of Colombo-centric, Westernised elites to a broad coalition of non-elite social forces.”](data/articles/president-anura-kumara.99a623ff/README.md) `dbsjeyaraj.com`
 
 ## 2025-03-23
@@ -40,6 +44,7 @@ Last Updated **2025-03-25 06:25:16**
 * [Reviving Sri Lanka’s SMEs: Sustainable roadmap](data/articles/reviving-sri-lanka-s-sme.a40548e9/README.md) `ft.lk`
 * [Sri Lanka’s elusive search for the right leadership](data/articles/sri-lanka-s-elusive-sear.f8e2a283/README.md) `ft.lk`
 * [Counterfeit and substandard drugs: Numbers game](data/articles/counterfeit-and-substand.146e299a/README.md) `ft.lk`
+* [Inside a new quest to save the “doomsday glacier”](data/articles/inside-a-new-quest-to-sa.777861ed/README.md) `technologyreview.com`
 * [Autopsies can reveal intimate health details. Should they be kept private?](data/articles/autopsies-can-reveal-int.7fa233e0/README.md) `technologyreview.com`
 * [Influx of Israeli Tourists Leading to  Intensified  Security  in Eastern Arugam Bay area  Creates Fresh Problems for  the Local Residents](data/articles/influx-of-israeli-touris.bd930140/README.md) `dbsjeyaraj.com`
 * [IGP Deshabandu Tennakoon “ran a criminal network, allegedly exploiting police officers under his command for unlawful activities and turned police officers into a ‘paramilitary force”.](data/articles/igp-deshabandu-tennakoon.e32ee6b6/README.md) `dbsjeyaraj.com`
