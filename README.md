@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-24 18:22:05**
+Last Updated **2025-03-25 06:25:16**
+
+## 2025-03-25
+
+* [CDB accelerates action by empowering women-led SMEs](data/articles/cdb-accelerates-action-b.be88b9f2/README.md) `ft.lk`
+* [Sri Lanka must ratify ILO Convention 190 to combat workplace harassment: Shyamali Ranaraja](data/articles/sri-lanka-must-ratify-il.3a1ae29c/README.md) `ft.lk`
+* [Transformational journey of women in plantation industry](data/articles/transformational-journey.b5fdd2ba/README.md) `ft.lk`
+* [Accountability inspired by rule of law: NPP’s path to inclusive growth](data/articles/accountability-inspired.fe5111b1/README.md) `ft.lk`
+* [Sri Lanka’s solar-powered future: Nighttime electricity initiative](data/articles/sri-lanka-s-solar-powere.810a2914/README.md) `ft.lk`
 
 ## 2025-03-24
 
