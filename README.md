@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-25 18:23:08**
+Last Updated **2025-03-26 06:25:12**
+
+## 2025-03-26
+
+* [SMEs – forgotten people of Sri Lanka?](data/articles/smes-forgotten-people-of.6cd11142/README.md) `ft.lk`
+* [Sri Lanka’s next big export opportunity: Financial benefits of safeguarding environment](data/articles/sri-lanka-s-next-big-exp.cbec535b/README.md) `ft.lk`
 
 ## 2025-03-25
 
+* [OpenAI’s new image generator aims to be practical enough for designers and advertisers](data/articles/openai-s-new-image-gener.1800daa7/README.md) `technologyreview.com`
 * [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.60828983/README.md) `technologyreview.com`
 * [CDB accelerates action by empowering women-led SMEs](data/articles/cdb-accelerates-action-b.be88b9f2/README.md) `ft.lk`
 * [Sri Lanka must ratify ILO Convention 190 to combat workplace harassment: Shyamali Ranaraja](data/articles/sri-lanka-must-ratify-il.3a1ae29c/README.md) `ft.lk`
