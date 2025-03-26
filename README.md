@@ -2,17 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-26 06:25:12**
+Last Updated **2025-03-26 18:22:23**
 
 ## 2025-03-26
 
+* [The AI Hype Index: DeepSeek mania, Israel’s spying tool, and cheating at chess](data/articles/the-ai-hype-index-deepse.1dc6c588/README.md) `technologyreview.com`
 * [SMEs – forgotten people of Sri Lanka?](data/articles/smes-forgotten-people-of.6cd11142/README.md) `ft.lk`
 * [Sri Lanka’s next big export opportunity: Financial benefits of safeguarding environment](data/articles/sri-lanka-s-next-big-exp.cbec535b/README.md) `ft.lk`
 
 ## 2025-03-25
 
+* [The March 1965 Elections ,  Signing of the Dudley-Chelva Pact and the Formation of the  “Hath Haula”  National Govt](data/articles/the-march-1965-elections.d28fa3eb/README.md) `dbsjeyaraj.com`
 * [OpenAI’s new image generator aims to be practical enough for designers and advertisers](data/articles/openai-s-new-image-gener.1800daa7/README.md) `technologyreview.com`
 * [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.60828983/README.md) `technologyreview.com`
+* [Why the world is looking to ditch US AI models](data/articles/why-the-world-is-looking.14c58bbb/README.md) `technologyreview.com`
 * [CDB accelerates action by empowering women-led SMEs](data/articles/cdb-accelerates-action-b.be88b9f2/README.md) `ft.lk`
 * [Sri Lanka must ratify ILO Convention 190 to combat workplace harassment: Shyamali Ranaraja](data/articles/sri-lanka-must-ratify-il.3a1ae29c/README.md) `ft.lk`
 * [Transformational journey of women in plantation industry](data/articles/transformational-journey.b5fdd2ba/README.md) `ft.lk`
@@ -21,6 +24,7 @@ Last Updated **2025-03-26 06:25:12**
 
 ## 2025-03-24
 
+* [Why handing over total control to AI agents would be a huge mistake](data/articles/why-handing-over-total-c.61ee603e/README.md) `technologyreview.com`
 * [Beyond numbers: Understanding women’s workforce participation in Sri Lanka](data/articles/beyond-numbers-understan.d3e63f0c/README.md) `ft.lk`
 * [Shattering the glass ceiling: CMA Sri Lanka’s vision for inclusive leadership](data/articles/shattering-the-glass-cei.0401b157/README.md) `ft.lk`
 * [The ‘Batalanda torture camp,’  atrocity has created a  diversionary red herring for the JVP led-NPP Govt. The ” Batalanda ghost’ has conveniently lessened public heat on the Govt’s failure to keep hugely important campaign promises](data/articles/the-batalanda-torture-ca.7cec2f9f/README.md) `dbsjeyaraj.com`
