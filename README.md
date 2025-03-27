@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-27 06:25:03**
+Last Updated **2025-03-27 18:22:31**
+
+## 2025-03-27
+
+* [How to save a glacier](data/articles/how-to-save-a-glacier.b9bb39db/README.md) `technologyreview.com`
+* [How best to keep data safe (and drive the digital economy)?](data/articles/how-best-to-keep-data-sa.e14a3028/README.md) `ft.lk`
+* [UK sanctions, Tilvin’s unrepentant untruths, Anura’s policy direction](data/articles/uk-sanctions-tilvin-s-un.6e06ea95/README.md) `ft.lk`
+* [Kerala: Entry into India for Sri Lankan businesses](data/articles/kerala-entry-into-india.580b3d8d/README.md) `ft.lk`
+* [GDP and GDP growth: Are they measures that really matter?](data/articles/gdp-and-gdp-growth-are-t.f80e6d6e/README.md) `ft.lk`
+* [IMF praises gains made under Ranil Wickremesinghe-initiated IMF program](data/articles/imf-praises-gains-made-u.27ba9c34/README.md) `ft.lk`
 
 ## 2025-03-26
 
@@ -15,6 +24,7 @@ Last Updated **2025-03-27 06:25:03**
 * [The March 1965 Elections ,  Signing of the Dudley-Chelva Pact and the Formation of the  “Hath Haula”  National Govt](data/articles/the-march-1965-elections.d28fa3eb/README.md) `dbsjeyaraj.com`
 * [OpenAI’s new image generator aims to be practical enough for designers and advertisers](data/articles/openai-s-new-image-gener.1800daa7/README.md) `technologyreview.com`
 * [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.60828983/README.md) `technologyreview.com`
+* [Ethically sourced “spare” human bodies could revolutionize medicine](data/articles/ethically-sourced-spare.8d595dbe/README.md) `technologyreview.com`
 * [Why the world is looking to ditch US AI models](data/articles/why-the-world-is-looking.14c58bbb/README.md) `technologyreview.com`
 * [CDB accelerates action by empowering women-led SMEs](data/articles/cdb-accelerates-action-b.be88b9f2/README.md) `ft.lk`
 * [Sri Lanka must ratify ILO Convention 190 to combat workplace harassment: Shyamali Ranaraja](data/articles/sri-lanka-must-ratify-il.3a1ae29c/README.md) `ft.lk`
