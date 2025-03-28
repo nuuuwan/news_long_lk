@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-28 06:25:34**
+Last Updated **2025-03-28 18:21:23**
 
 ## 2025-03-28
 
@@ -11,6 +11,7 @@ Last Updated **2025-03-28 06:25:34**
 * [How UK-sanctioned “Col” Karuna was deported from Britain 17 years ago](data/articles/how-uk-sanctioned-col-ka.956bb7c1/README.md) `ft.lk`
 * [“Wake up Arabs! Shame on you”](data/articles/wake-up-arabs-shame-on.42109e2f/README.md) `ft.lk`
 * [Youth incident highlights deep-seated emotions amid rising tensions over Palestine](data/articles/youth-incident-highlight.f7299246/README.md) `ft.lk`
+* [“Spare” living human bodies might provide us with organs for transplantation](data/articles/spare-living-human-bodi.5a0b4c48/README.md) `technologyreview.com`
 
 ## 2025-03-27
 
