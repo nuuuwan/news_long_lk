@@ -1,0 +1,38 @@
+# “Wake up Arabs! Shame on you”
+
+[https://www.ft.lk/columns/Wake-up-Arabs-Shame-on-you/4-774861](https://www.ft.lk/columns/Wake-up-Arabs-Shame-on-you/4-774861)
+
+*05:14 AM, Friday, March 28, 2025*
+
+While Palestinians are struggling and dying in search of freedom and independence from more than half a century of Israel’s oppression and apartheid, Arab regimes are shamelessly looking for normalising relations with Israel
+
+The above title was the expression of anger soaked in tears from a Palestinian mother who lost her husband and children in the resumed Israeli aerial attack on Gaza. The Qatari mediated cease which took effect on 19 January and lasted for 42 days with Hamas releasing 33 hostages in return for 1,800 Palestinian prisoners only helped to aggravate domestic criticism against Netanyahu’s Government. His failure to bring home all the hostages showed to Israeli citizens that Hamas is not a spent force even with all the threats and deadlines issued by President Donald Trump. It was this frustration and internal criticism more than anything else that prompted Netanyahu to break the ceasefire unilaterally but in consultation with Trump.
+
+But there was also another reason for Netanyahu to break the ceasefire and that was to welcome into his cabinet the three former far right ministers Amichai Eliyahu, Itamar Ben-Gvir and Yitzhak Vassirulov, all of whom resigned in disgust earlier against that ceasefire. Finally, Donald Trump’s attack on Yemen gave the green light for Netanyahu to resume the mission and continue the ethnic cleansing (Nakba) of Gaza.
+
+Meant to complete a program
+
+In fact, this resumption of ethnic cleansing which started in response to Hamas’ rocket attacks on 7 October 2023, was meant to complete a program designed and advocated more than 75 years ago by Israel’s founding fathers. As the Jewish historian Ilan Pappe points out, for Palestinians 29 November 1947 – the day when UN General Assembly voted for that infamous Resolution 181 to partition Palestine – was the day when Nakba began. Hundreds of thousands of Palestinians were chased out of their villages and homes to seek refuge in neighbouring Arab countries.
+
+“By the end of 1948” according to Pappe, “half of Palestine’s Arab population had been expelled, more than 500 villages were destroyed and most of its towns and cities had been demolished”. The expelled Palestinians from the east were pushed into the occupied West Bank and Transjordan, those from the north into Syria and Lebanon and the ones from the south were cramped into the current theatre of action – Gaza Strip, a huge refugee camp.
+
+Despite the post-October 2023 Gaza genocide Hamas resistance has not been weakened although it had lost a few of its prominent fighters. In a sense, Netanyahu lost his original mission and therefore the resumption now. That bombing has consumed the lives of more than 500 Gazans so far, and the number is set to increase. As before, a fair proportion of the victims were once again children and women, and once again hunger and starvation are being used as weapons to continue the genocide. Although the West may consider these casualties as unavoidable collaterals, to Netanyahu on the other hand they are part of a methodically laid out program to get rid of the Palestinians from Gaza by any means so that the same experiment could be repeated in Occupied Westbank or Judaea and Samaira in Zionist parlance. The end game is to establish Israel’s Jewish sovereignty from the “River (Jordan) to the (Mediterranean) Sea”.
+
+Wake up Muslims! Shame on you
+
+However, those angry words of that Palestinian mother quoted above might as well be rephrased as “Wake up Muslims! Shame on you”. Almost one quarter of world population today are Muslims and almost three quarters of them are living as majority in 49 countries. Yet their power and influence in the world arena is virtually zilch. Herein lies the crux of the problem that bedevils the sorry tale of Palestine today. Brevity prevents a long discussion of the reasons for this tragedy. Perhaps Bernard Lewis’ ‘What Went Wrong?’ (2002) and Robert R. Reilly’s ‘The Closing of the Muslim Mind’ (2011) may provide part of the answer. However, at least the Arab sector of the Muslim world had a chance to wake up during the last quarter of the previous century when they were showered with unimaginable riches via petrodollars. And the Iranian Islamic Revolution which got rid of a ruthless despot cum American lacky should have triggered an era of intellectual and scientific renaissance with political modernity. Alas! On the contrary those riches only ended up in recreating the Arabian Nights for the modern Caliphs to enjoy their life and bask under the shade of US protection. Poor Palestinians are paying the price at the hands of Israel for this deliberate neglect and missed opportunity.      While Palestinians are struggling and dying in search of freedom and independence from more than half a century of Israel’s oppression and apartheid, Arab regimes are shamelessly looking for normalising relations with Israel. The Abraham Accord initiated by Donald Trump during his first term in office is nothing but a sellout of the cause of Palestine.
+
+Having rejected in fear of public anger Trump’s plan to rebuild Gaza with no Palestinians living there and converting it into a Riviera only to be handed back to Eretz Israel eventually, the Arab duo Egypt and Jordan with approval from an inconsequential Arab League has come out with an alternative plan to rebuild the same with Palestinians in it and at a cost of $ 53 billion. Once again, these Arab leaders are harping the same hackneyed tune of a two-state solution, which neither Israel nor world Zionists and not even the Christian Evangelists who together control US politics, economy and other commanding heights reject.
+
+Already with the resumption of bombing and ground attack Israel has ignored the Arab alternative and recaptured the Netzarim Corridor which divides Gaza into North and South, and from which Israel withdrew earlier as part of the ceasefire deal. The reoccupation of that corridor is expected to follow soon by an order for Palestinians to evacuate that area.
+
+Attack is the best form of defence
+
+In light of these developments the Egyptian alternative plan would remain a futile exercise. So long as the Arab world remains unwilling to invest in modern scientific research and build its own indigenously produced military arsenal to counter the might of US-backed Israel the eventual takeover of Judaea and Samaria is only a matter of time. It is that unwillingness that bedevils Arab weakness and subservience despite the petrodollar bonanza. Haven’t they heard of the proverb in sports “attack is the best form of defence” which historically has military origins?
+
+It is true that the UN International Court of Justice declared in July 2024 that Israel’s occupation of Palestine was illegal and urged UN member countries to consider their relations with Israel in the light of that declaration. But US State Department immediately countered that “the breadth of the court’s opinion will complicate efforts to resolve the conflict”. What efforts have they taken to solve it so far?
+
+The Palestinian issue is an unfortunate consequence of the historic neglect by Arab countries in the name of their own self-interest. It is that same self-interest which again underpins the Arab duo’s counterplan to rebuild Gaza without prioritising the issue of freedom and independence. No occupier is going to grant freedom to the occupied voluntarily. It should be fought and won. Hence, the agonising cry of that Palestinian mother.
+
+(The writer is an economist, W. Australia.)
+

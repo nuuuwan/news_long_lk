@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-27 18:22:31**
+Last Updated **2025-03-28 06:25:34**
+
+## 2025-03-28
+
+* [From equality to equity: Redefining fairness for a performance-driven Sri Lanka](data/articles/from-equality-to-equity.c687f917/README.md) `ft.lk`
+* [Navigating AI landscape  in organisations: Change management](data/articles/navigating-ai-landscape.d949b4c6/README.md) `ft.lk`
+* [How UK-sanctioned “Col” Karuna was deported from Britain 17 years ago](data/articles/how-uk-sanctioned-col-ka.956bb7c1/README.md) `ft.lk`
+* [“Wake up Arabs! Shame on you”](data/articles/wake-up-arabs-shame-on.42109e2f/README.md) `ft.lk`
+* [Youth incident highlights deep-seated emotions amid rising tensions over Palestine](data/articles/youth-incident-highlight.f7299246/README.md) `ft.lk`
 
 ## 2025-03-27
 
+* [What is Signal? The messaging app, explained.](data/articles/what-is-signal-the-messa.7ba59400/README.md) `technologyreview.com`
 * [How to save a glacier](data/articles/how-to-save-a-glacier.b9bb39db/README.md) `technologyreview.com`
 * [How best to keep data safe (and drive the digital economy)?](data/articles/how-best-to-keep-data-sa.e14a3028/README.md) `ft.lk`
 * [UK sanctions, Tilvin’s unrepentant untruths, Anura’s policy direction](data/articles/uk-sanctions-tilvin-s-un.6e06ea95/README.md) `ft.lk`
@@ -16,6 +25,7 @@ Last Updated **2025-03-27 18:22:31**
 ## 2025-03-26
 
 * [The AI Hype Index: DeepSeek mania, Israel’s spying tool, and cheating at chess](data/articles/the-ai-hype-index-deepse.1dc6c588/README.md) `technologyreview.com`
+* [China built hundreds of AI data centers to catch the AI boom. Now many stand unused.](data/articles/china-built-hundreds-of.df5f774d/README.md) `technologyreview.com`
 * [SMEs – forgotten people of Sri Lanka?](data/articles/smes-forgotten-people-of.6cd11142/README.md) `ft.lk`
 * [Sri Lanka’s next big export opportunity: Financial benefits of safeguarding environment](data/articles/sri-lanka-s-next-big-exp.cbec535b/README.md) `ft.lk`
 
