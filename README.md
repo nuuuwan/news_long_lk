@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-28 18:21:23**
+Last Updated **2025-03-29 06:25:41**
+
+## 2025-03-29
+
+* [NPP: not so easy to read  the writing on the wall?](data/articles/npp-not-so-easy-to-read.c8c5cc9e/README.md) `ft.lk`
 
 ## 2025-03-28
 
+* [Economic supremacy of China: Towards a new world order?](data/articles/economic-supremacy-of-ch.57283ec4/README.md) `ft.lk`
+* [How a bankruptcy judge can stop a genetic privacy disaster](data/articles/how-a-bankruptcy-judge-c.38c23fbe/README.md) `technologyreview.com`
 * [From equality to equity: Redefining fairness for a performance-driven Sri Lanka](data/articles/from-equality-to-equity.c687f917/README.md) `ft.lk`
 * [Navigating AI landscape  in organisations: Change management](data/articles/navigating-ai-landscape.d949b4c6/README.md) `ft.lk`
 * [How UK-sanctioned “Col” Karuna was deported from Britain 17 years ago](data/articles/how-uk-sanctioned-col-ka.956bb7c1/README.md) `ft.lk`
@@ -17,6 +23,7 @@ Last Updated **2025-03-28 18:21:23**
 
 * [What is Signal? The messaging app, explained.](data/articles/what-is-signal-the-messa.7ba59400/README.md) `technologyreview.com`
 * [How to save a glacier](data/articles/how-to-save-a-glacier.b9bb39db/README.md) `technologyreview.com`
+* [Inside a romance scam compound—and how people get tricked into being there](data/articles/inside-a-romance-scam-co.3cec7e06/README.md) `technologyreview.com`
 * [How best to keep data safe (and drive the digital economy)?](data/articles/how-best-to-keep-data-sa.e14a3028/README.md) `ft.lk`
 * [UK sanctions, Tilvin’s unrepentant untruths, Anura’s policy direction](data/articles/uk-sanctions-tilvin-s-un.6e06ea95/README.md) `ft.lk`
 * [Kerala: Entry into India for Sri Lankan businesses](data/articles/kerala-entry-into-india.580b3d8d/README.md) `ft.lk`
