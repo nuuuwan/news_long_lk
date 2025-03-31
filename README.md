@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-30 18:19:38**
+Last Updated **2025-03-31 06:25:29**
+
+## 2025-03-31
+
+* [Philip Gunawardena: Marxist who proposed visionary economic policies in 1930s](data/articles/philip-gunawardena-marxi.43f03234/README.md) `ft.lk`
+* [Tragedy best not forgotten](data/articles/tragedy-best-not-forgott.0f78c22a/README.md) `ft.lk`
+* [NPC says Sri Lanka needs comprehensive solution, not selective justice](data/articles/npc-says-sri-lanka-needs.5f09e6a5/README.md) `ft.lk`
+* [Open letter: Appeal for transparent disclosure on external debt restructuring](data/articles/open-letter-appeal-for-t.965f31c4/README.md) `ft.lk`
+* [Harping on “Harmonised Leadership”: Insights and implications](data/articles/harping-on-harmonised-le.0614fbf4/README.md) `ft.lk`
 
 ## 2025-03-30
 
