@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-31 06:25:29**
+Last Updated **2025-03-31 18:22:28**
 
 ## 2025-03-31
 
@@ -11,6 +11,7 @@ Last Updated **2025-03-31 06:25:29**
 * [NPC says Sri Lanka needs comprehensive solution, not selective justice](data/articles/npc-says-sri-lanka-needs.5f09e6a5/README.md) `ft.lk`
 * [Open letter: Appeal for transparent disclosure on external debt restructuring](data/articles/open-letter-appeal-for-t.965f31c4/README.md) `ft.lk`
 * [Harping on “Harmonised Leadership”: Insights and implications](data/articles/harping-on-harmonised-le.0614fbf4/README.md) `ft.lk`
+* [S.J.V.Chelvanayakam: Respected “Gandhian”Tamil Political  Leader  was a Christian by religion and a Hindu by culture.](data/articles/s-j-v-chelvanayakam-resp.7b80e27c/README.md) `dbsjeyaraj.com`
 
 ## 2025-03-30
 
