@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-03-31 18:22:28**
+Last Updated **2025-04-01 06:25:46**
+
+## 2025-04-01
+
+* [Hidden costs of policy shifts: How Sri Lankan SMEs coping with rising expenses](data/articles/hidden-costs-of-policy-s.ccebffd9/README.md) `ft.lk`
+* [Is 70% RE by 2030 target being sabotaged?](data/articles/is-70-re-by-2030-target.bd48c68b/README.md) `ft.lk`
+* [Challenges faced by higher education sector in Sri Lanka](data/articles/challenges-faced-by-high.f6762b6d/README.md) `ft.lk`
 
 ## 2025-03-31
 
