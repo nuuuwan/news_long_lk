@@ -2,16 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-01 06:25:46**
+Last Updated **2025-04-01 18:22:50**
 
 ## 2025-04-01
 
+* [How do you teach an AI model to give therapy?](data/articles/how-do-you-teach-an-ai-m.87e07c92/README.md) `technologyreview.com`
 * [Hidden costs of policy shifts: How Sri Lankan SMEs coping with rising expenses](data/articles/hidden-costs-of-policy-s.ccebffd9/README.md) `ft.lk`
 * [Is 70% RE by 2030 target being sabotaged?](data/articles/is-70-re-by-2030-target.bd48c68b/README.md) `ft.lk`
 * [Challenges faced by higher education sector in Sri Lanka](data/articles/challenges-faced-by-high.f6762b6d/README.md) `ft.lk`
 
 ## 2025-03-31
 
+* [Assisting solar power debate in Sri Lankan Cabinet](data/articles/assisting-solar-power-de.4a7a47c1/README.md) `ft.lk`
 * [Philip Gunawardena: Marxist who proposed visionary economic policies in 1930s](data/articles/philip-gunawardena-marxi.43f03234/README.md) `ft.lk`
 * [Tragedy best not forgotten](data/articles/tragedy-best-not-forgott.0f78c22a/README.md) `ft.lk`
 * [NPC says Sri Lanka needs comprehensive solution, not selective justice](data/articles/npc-says-sri-lanka-needs.5f09e6a5/README.md) `ft.lk`
@@ -41,6 +43,7 @@ Last Updated **2025-04-01 06:25:46**
 ## 2025-03-27
 
 * [What is Signal? The messaging app, explained.](data/articles/what-is-signal-the-messa.7ba59400/README.md) `technologyreview.com`
+* [Anthropic can now track the bizarre inner workings of a large language model](data/articles/anthropic-can-now-track.9dbda024/README.md) `technologyreview.com`
 * [How to save a glacier](data/articles/how-to-save-a-glacier.b9bb39db/README.md) `technologyreview.com`
 * [Inside a romance scam compound—and how people get tricked into being there](data/articles/inside-a-romance-scam-co.3cec7e06/README.md) `technologyreview.com`
 * [How best to keep data safe (and drive the digital economy)?](data/articles/how-best-to-keep-data-sa.e14a3028/README.md) `ft.lk`

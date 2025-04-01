@@ -1,5 +1,12 @@
 [
   {
+    "title": "How do you teach an AI model to give therapy?",
+    "url": "https://www.technologyreview.com/2025/04/01/1114059/how-do-you-teach-an-ai-model-to-give-therapy/",
+    "ut": 1743463800.0,
+    "dir_path_unix": "data/articles/how-do-you-teach-an-ai-m.87e07c92",
+    "time_str_formatted": "05:00 AM, Tuesday, April 01, 2025"
+  },
+  {
     "title": "Hidden costs of policy shifts: How Sri Lankan SMEs coping with rising expenses",
     "url": "https://www.ft.lk/columns/Hidden-costs-of-policy-shifts-How-Sri-Lankan-SMEs-coping-with-rising-expenses/4-775022",
     "ut": 1743461812.0,
@@ -19,6 +26,13 @@
     "ut": 1743451096.0,
     "dir_path_unix": "data/articles/challenges-faced-by-high.f6762b6d",
     "time_str_formatted": "01:28 AM, Tuesday, April 01, 2025"
+  },
+  {
+    "title": "Assisting solar power debate in Sri Lankan Cabinet",
+    "url": "https://www.ft.lk/opinion/Assisting-solar-power-debate-in-Sri-Lankan-Cabinet/14-774975",
+    "ut": 1743443866.0,
+    "dir_path_unix": "data/articles/assisting-solar-power-de.4a7a47c1",
+    "time_str_formatted": "11:27 PM, Monday, March 31, 2025"
   },
   {
     "title": "Philip Gunawardena: Marxist who proposed visionary economic policies in 1930s",
@@ -138,6 +152,13 @@
     "ut": 1743060789.0,
     "dir_path_unix": "data/articles/what-is-signal-the-messa.7ba59400",
     "time_str_formatted": "01:03 PM, Thursday, March 27, 2025"
+  },
+  {
+    "title": "Anthropic can now track the bizarre inner workings of a large language model",
+    "url": "https://www.technologyreview.com/2025/03/27/1113916/anthropic-can-now-track-the-bizarre-inner-workings-of-a-large-language-model/",
+    "ut": 1743060600.0,
+    "dir_path_unix": "data/articles/anthropic-can-now-track.9dbda024",
+    "time_str_formatted": "01:00 PM, Thursday, March 27, 2025"
   },
   {
     "title": "How to save a glacier",
