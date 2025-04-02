@@ -2,18 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-02 06:25:53**
+Last Updated **2025-04-02 18:22:21**
 
 ## 2025-04-02
 
 * [SMEs, the forgotten people](data/articles/smes-the-forgotten-peopl.252b0623/README.md) `ft.lk`
 * [Verité Research, “fact checking” and protecting interests of financial elites in Sri Lanka](data/articles/verité-research-fact-che.94c75980/README.md) `ft.lk`
+* [Cauldron-stirring time, again?](data/articles/cauldron-stirring-time-a.67714ebe/README.md) `ft.lk`
 * [Selective journalism and the illusion of truth](data/articles/selective-journalism-and.c7f16ec5/README.md) `ft.lk`
 * [NMRA should quit playing games with our hearts](data/articles/nmra-should-quit-playing.b6335f67/README.md) `ft.lk`
 * [Gender in economic sphere: Some key issues for developing countries](data/articles/gender-in-economic-spher.82cf3360/README.md) `ft.lk`
 
 ## 2025-04-01
 
+* [Brain-computer interfaces face a critical test](data/articles/brain-computer-interface.98b4e593/README.md) `technologyreview.com`
 * [How do you teach an AI model to give therapy?](data/articles/how-do-you-teach-an-ai-m.87e07c92/README.md) `technologyreview.com`
 * [Hidden costs of policy shifts: How Sri Lankan SMEs coping with rising expenses](data/articles/hidden-costs-of-policy-s.ccebffd9/README.md) `ft.lk`
 * [Is 70% RE by 2030 target being sabotaged?](data/articles/is-70-re-by-2030-target.bd48c68b/README.md) `ft.lk`

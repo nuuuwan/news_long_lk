@@ -14,6 +14,13 @@
     "time_str_formatted": "06:02 AM, Wednesday, April 02, 2025"
   },
   {
+    "title": "Cauldron-stirring time, again?",
+    "url": "https://www.ft.lk/columns/Cauldron-stirring-time-again/4-775047",
+    "ut": 1743553735.0,
+    "dir_path_unix": "data/articles/cauldron-stirring-time-a.67714ebe",
+    "time_str_formatted": "05:58 AM, Wednesday, April 02, 2025"
+  },
+  {
     "title": "Selective journalism and the illusion of truth",
     "url": "https://www.ft.lk/columns/Selective-journalism-and-the-illusion-of-truth/4-775046",
     "ut": 1743553458.0,
@@ -33,6 +40,13 @@
     "ut": 1743552806.0,
     "dir_path_unix": "data/articles/gender-in-economic-spher.82cf3360",
     "time_str_formatted": "05:43 AM, Wednesday, April 02, 2025"
+  },
+  {
+    "title": "Brain-computer interfaces face a critical test",
+    "url": "https://www.technologyreview.com/2025/04/01/1114009/brain-computer-interfaces-10-breakthrough-technologies-2025/",
+    "ut": 1743467400.0,
+    "dir_path_unix": "data/articles/brain-computer-interface.98b4e593",
+    "time_str_formatted": "06:00 AM, Tuesday, April 01, 2025"
   },
   {
     "title": "How do you teach an AI model to give therapy?",

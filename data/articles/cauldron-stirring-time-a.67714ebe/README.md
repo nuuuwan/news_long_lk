@@ -1,0 +1,88 @@
+# Cauldron-stirring time, again?
+
+[https://www.ft.lk/columns/Cauldron-stirring-time-again/4-775047](https://www.ft.lk/columns/Cauldron-stirring-time-again/4-775047)
+
+*05:58 AM, Wednesday, April 02, 2025*
+
+Whether the Government can honour this rare trust depends, in part, on ending discrimination against Tamil and Muslim Lankans
+
+“Double, double, toil and trouble;
+
+Fire burn and cauldron bubble…
+
+For a charm of powerful trouble,
+
+Like a hell-broth, boil and bubble.”
+
+Shakespeare (Macbeth)
+
+By Tisaranee Gunasekara
+
+In the run up to the 2019 Presidential election, there was Muhudu Maha Viharaya. While Candidate Gotabaya, reassuring in his moderate mask, did the kovil and mosque rounds, his official and unofficial surrogates busied themselves stirring the extremist cauldron.
+
+In the Pottuvil Muhudu Maha Viharaya, Muslim extremists are destroying statues depicting the Buddha’s eighty great disciples, social media posts claimed. These statues, built by the Rajapaksa administration in 2013, are being razed to the ground under the Sirisena-Wickremesinghe administration in 2019. If that Government is re-elected, the same horrendous fate will befall the Samadhi statue, the Tholuwila statue and the statues in Gal Viharaya.
+
+The entire story was a tissue of lies. The statues were not built in 2013. Their construction had actually begun in 2017 (under the Sirisena-Wickremesinghe administration). Some of the statues were lying on the ground not because they had been toppled by Muslim extremists but because they were yet to be raised. (https://factcheck.afp.com/these-statues-sri-lanka-were-laid-their-side-due-heritage-restrictions-temple-they-were-not-attacked).
+
+In the run up to the 2025 local government election, we are having the Kankasanturai Tissa Viharaya. Muslim vandals in 2019; Tamil marauders in 2025.
+
+Tissa Maha Viharaya is supposed to have been built by King Devanampiyatissa. Whether any archaeological evidence exists to substantiate this claim is unknown. What is undisputed is that a temple was built in 1940 and abandoned during the war. Post-war, the original land was returned to the temple by the divisional secretary.
+
+The story should have ended there, but didn’t.
+
+President Mahinda Rajapaksa was ‘The Universally Renowned Lord of the Three-Sinhala Lands’ (Vishwa Keerthi Three-Sinhaladipathy), at least according to the official plaque erected by the Lankan state to commemorate the gifting of a Sri Maha Bodhi-sapling to India in 2012. To recreate the three-Sinhala lands, the regime, using the military, commenced a campaign of temple-building in the North and the East. For instance, nine temples were constructed in the Mullaitivu district alone, post-war (https://www.lankaweb.com/news/items/2024/01/29/buddhist-viharas-and-eelam-part-13a1/). Since there were no civilian Buddhists in most of these locations, the survival of the temple depended on the patronage of the military. And the temple-camp nexus was born.
+
+During the Gotabaya presidency, this process resumed, on steroids. Tissa Viharaya was one of the chosen locations. The construction of a new stupa commenced in 2021, with General Shavendra Silva laying the foundation stone. The enshrinement of relics took place in 8 May 2022, while the entire country was at a standstill and people were dying in queues (https://www.army.lk/news/ceremonial-enshrinement-relics-kankesanthurai-historic-tissa-vihara-pagoda-takes-place).
+
+The Tamil residents of the area claim that the stupa was built on private land occupied by the military during the war and not on the original temple land (donated by a Sinhala devotee in the 1940’s). The chief incumbent of the historic Nagadeepa temple, Navadagala Padumakittithissa thero agrees. During the war, the Tissa Viharaya was abandoned, he says; post-war, the original land belonging to the temple was returned by the divisional secretary. “But monks from outside, with the assistance of the military, forcibly occupied land belonging to our Tamil brothers living in that area. No one was allowed to come to this area and this temple was constructed in the land belonging to those Tamil people secretively” (https://www.youtube.com/watch?v=lq3jnZAgqLk).
+
+The ceremonial unveiling of the new stupa was held last week. The Tamil residents protested peacefully. The Minister of Buddha Sasana promised to investigate the matter. The NPP/JVP Government, in a rare display of sense, stopped the military from organisationally patronising the unveiling ceremony.
+
+The Rajapaksas, facing another humiliating defeat at the LG polls, saw an opportunity. The SLPP commenced its election campaign with racist salvos delivered by general secretary Sagara Kariyawasam and former minister and retired admiral Sarath Weerasekara (soundly defeated in Colombo in 2024 parliamentary election). They accused the Government of endangering national security by allowing Tamil extremists to ‘destroy’ Tissa Viharaya. “Has the North been given to the separatists?” the retired admiral asked.
+
+What is happening in the Tissa Viharaya in 2025 happened in Kurundi Viharaya in 2023. While Ranil Wickremesinghe battled against Southern extremists, the NPP/JVP stayed on the side-lines. Now the same extremists are coming for the NPP/JVP. After all, what other refuge do the Rajapaksas and their once-and-future acolytes (from Wimal Weerawansa to Dilith Jayaweera) have but the blood-soaked cry of rata, jathiya, agama?
+
+Politics of ruination
+
+Delivering the 7th Senaka Bandaranayake Memorial Lecture in 2022, eminent archaeologist Jagath Weerasinghe expressed misgivings about archaeology succumbing to populism and becoming a handmaid to ‘existing hegemonies’.
+
+Extremists everywhere love to use past ruins to ruin the future. When a papyrus fragment said to be 2,700 years old was found in Judean desert in 2016, Israel’s Binyamin Netanyahu rushed to use it to justify and promote his Greater Israel agenda. Without the Ayodhya controversy, there might not have been a Prime Minister Modhi. The Rajapaksas too used this playbook. President Gotabaya Rajapaksa made the implicit explicit by setting up a task force for Archaeological Heritage Management in the Eastern Province.
+
+Weaponising archaeology played a significant role in the post-Aragalaya Rajapaksa comeback efforts. Medagoda Abayatissa thero (who in 2020, equated a vote for the SLPP to a meritorious deed – pinkama) set up a Federation of Organisations for Protection of National Heritage in November 2022. Attempts were made to revitalise temple-camp nexus by setting up new temples near military camps without much success.
+
+In 2023, Kurundi issue was brought to the foreground. Monks hankering after real estate and extremist politicians in search of political relevance used archaeology to claim ownership of thousands of acres of land. Then president Ranil Wickremesinghe, during a May 2023 meeting, questioned the Archaeology Director General about the department’s unnatural focus on the North and East. The director responded by saying that no work was carried out in this area during the war and the work in these areas is being funded by outsiders, mostly monks. Wickremesinghe reminded him that the Department, as a state entity, can accept funds only from External Resources Department. The director refused to follow the instructions given by the president to diffuse the controversy, and resigned when confronted with his non-cooperation.
+
+“If anything (of archaeological value) is found nobody can construct a house or Buddhist temple there,” President Wickremesinghe emphasised. “It is owned by the country” (https://economynext.com/sri-lanka-president-raps-archeological-dept-for-obtaining-funds-from-monks-120425/). He was right. The removal of archaeological sites from the bubbling cauldron of ethno-religious politics is the only way to prevent archaeology from being weaponised by power-hungry politicians and land-hungry monks. Unfortunately, Wickremesinghe was excoriated for his sensible stance. The secretary of the extremist organisation, Sinhala Ravaya, went so far as to indirectly threaten him with death, invoking the fate of Rajiv Gandhi. Patriotic Buddhists around the president, “will do anything for the country,” he said ominously. “They will make every intervention necessary for the country (https://www.youtube.com/watch?app=desktop&v=q05CR_k5-gg).
+
+While this confrontation was happening, the NPP/JVP stayed silent (as did the SJB). Now it is their turn to take the extremist flak.
+
+The SLPP is screaming about the Government depriving monks of dane (food) by removing the military institutionally from the divisive and politically motivated spectacle in Tissa Viharaya. This charge exposes the truth of what is being done in the name of promoting Buddhism in the North and the East. The military had to offer food to the monks participating in the ceremony, because there are no civilian Buddhists in the area, not even residents willing to offer food out of charity or generosity. Hardly surprising since what is being propagated via this temple-building exercise is not Buddhism, a teaching that is open to anyone, but Sinhala-Buddhism which is exclusive preserve of one race.
+
+(Incidentally, the two SLPP heavyweights seemed to have forgotten what the patriotic Rajapaksas did to the ancient Sinhala villages of Ragamwela and Shastrawela in Panam-pattuva. On 17 July 2010, an armed gang set fire to the Ragamwela village. When villagers sought help from the nearby STF, they were turned away. Afterwards, the police prevented the inhabitants from returning to their burnt-village and the Chief Sanganayake of Wellassa-Digamadulla from observing ‘vas’ in the village temple. The Navy reportedly claimed 300 acres of the land so occupied, the air force 365 acres (https://www.hrw.org/report/2018/10/09/why-cant-we-go-home/military-occupation-land-sri-lanka).
+
+The NPP/JVP Government won a historic national mandate at the 2024 parliamentary election. Whether the Government can honour this rare trust depends, in part, on ending discrimination against Tamil and Muslim Lankans. One of the most devastating ways in which this discrimination is manifested is the arbitrary and abusive use of the PTA and the ICCPR. To the many and varying ‘crimes’ that have been used to harass, question, and incarcerate minority Lankans, a new one seems to have been added: criticising Israel.
+
+Criticising Israel, a crime?
+
+At this year’s Oscars, the Best Documentary Feature Film Award was won by No other land, a collaborative effort by four Palestinian and Israeli activists. The film documents the gradual destruction of Masafer Yatta region by Israeli military occupation through the eyes of a Palestinian resident and a Jewish-Israeli journalist. This month, one of its Palestinian directors, Hamdan Ballal was attacked outside his West Bank home by Israeli settlers and detained by Israeli military. A global outcry (including by Jewish artists) ensured his release a day later (https://edition.cnn.com/2025/03/24/middleeast/ballal-oscar-palestinian-beaten-israeli-settlers-intl-latam/index.html).
+
+Amongst those who protested Ballal’s arrest was the Academy of Motion Picture Arts and Sciences of the US, the same institution which awarded him an Oscar. In its initial statement, the Academy was careful not to name either Ballal or his award-winning film. After another outcry, the Academy issued another statement apologising for its cowardly omission.
+
+The Zionist right’s capacity to influence American institutions is hardly news. From an academic losing her tenure to a small town American losing his regular stint playing Santa during Christmas, ordinary people have been punished for criticising Israel’s war against Gaza. As Palestinian poet Najwan Dawish said, “Words, speech – that is what is being targeted. Israel could target you for just posting something on social media…”
+
+Or, perhaps, pasting a sticker, even in faraway Colombo…
+
+In March 2025, Lankan police arrested 22-year-old Mohomad Rushdi and detained him under the PTA. In a statement explaining its action, the police claimed that Rushdi was arrested consequent to an investigation of a sticker he had pasted on a garbage bin. A sticker which said, F@*# Israel.
+
+Taking the police at their own word, why launch an investigation about pasting a sticker saying F@*# Israel? Is criticising Israel a crime in Sri Lanka, or worse, a sign of incipient extremism and terrorism? If so, since when? If so, why?
+
+Rushdi’s parents reject the police accusations. They claim he pasted that sticker because he was deeply affected by Israel’s murderous war against Gaza, and especially by the killing of children. As I am, as millions of people across Sri Lanka and the world are.
+
+“Is it possible that after 42,000 people were killed, you cannot empathise with the Palestinians?” UN Special Rapporteur, Francesca Albanese asked (the number of direct deaths is over 50,000 now). The answer is yes, if you are the Lankan police.
+
+The TID has a peerless record of questioning a Tamil writer on the whereabouts of a character in his novel and arresting a Muslim poet for writing a book of poetry. Now, under a Government which is supposed to treat all Lankans alike, a young Muslim man is investigated for posting a sticker saying F@*# Israel. What new crimes will the TID invent next? And if this is how the police is conducting itself in Colombo what inanities would they not commit, in, say, IDF-soldier-tourist dominated Arugam Bay?
+
+In a Sri Lanka where gang violence proliferates, a criminal mastermind and a parliamentarian keep eluding capture, and the IGP is in custody accused of using officers under him as a paramilitary force, the police use scarce resources investigating a sticker critical of Israel? Does it even make sense?
+
+Since independence, we antagonised Tamils to satisfy Sinhala extremists and Muslims to satisfy Sinhala-Buddhist extremists. The first led to the long Eelam War and the second to the Easter Sunday massacre. Now are we about to alienate Muslims again, to satisfy Zionist extremists? Why? Because a few thousand Lankans are working in Israel and about 25,000 Israeli tourists (most of them IDF soldiers on leave, unwelcome in many tourist destinations) visit Sri Lanka? Is there no end to our madness, to this desire for political suicide?
+
