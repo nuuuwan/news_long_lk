@@ -1,5 +1,40 @@
 [
   {
+    "title": "SMEs, the forgotten people",
+    "url": "https://www.ft.lk/columns/SMEs-the-forgotten-people/4-775049",
+    "ut": 1743554125.0,
+    "dir_path_unix": "data/articles/smes-the-forgotten-peopl.252b0623",
+    "time_str_formatted": "06:05 AM, Wednesday, April 02, 2025"
+  },
+  {
+    "title": "Verit\u00e9 Research, \u201cfact checking\u201d and protecting interests of financial elites in Sri Lanka",
+    "url": "https://www.ft.lk/columns/Verit\u00e9-Research-fact-checking-and-protecting-interests-of-financial-elites-in-Sri-Lanka/4-775048",
+    "ut": 1743553967.0,
+    "dir_path_unix": "data/articles/verit\u00e9-research-fact-che.94c75980",
+    "time_str_formatted": "06:02 AM, Wednesday, April 02, 2025"
+  },
+  {
+    "title": "Selective journalism and the illusion of truth",
+    "url": "https://www.ft.lk/columns/Selective-journalism-and-the-illusion-of-truth/4-775046",
+    "ut": 1743553458.0,
+    "dir_path_unix": "data/articles/selective-journalism-and.c7f16ec5",
+    "time_str_formatted": "05:54 AM, Wednesday, April 02, 2025"
+  },
+  {
+    "title": "NMRA should quit playing games with our hearts",
+    "url": "https://www.ft.lk/columns/NMRA-should-quit-playing-games-with-our-hearts/4-775045",
+    "ut": 1743553083.0,
+    "dir_path_unix": "data/articles/nmra-should-quit-playing.b6335f67",
+    "time_str_formatted": "05:48 AM, Wednesday, April 02, 2025"
+  },
+  {
+    "title": "Gender in economic sphere: Some key issues for developing countries",
+    "url": "https://www.ft.lk/columns/Gender-in-economic-sphere-Some-key-issues-for-developing-countries/4-775044",
+    "ut": 1743552806.0,
+    "dir_path_unix": "data/articles/gender-in-economic-spher.82cf3360",
+    "time_str_formatted": "05:43 AM, Wednesday, April 02, 2025"
+  },
+  {
     "title": "How do you teach an AI model to give therapy?",
     "url": "https://www.technologyreview.com/2025/04/01/1114059/how-do-you-teach-an-ai-model-to-give-therapy/",
     "ut": 1743463800.0,
@@ -33,6 +68,13 @@
     "ut": 1743443866.0,
     "dir_path_unix": "data/articles/assisting-solar-power-de.4a7a47c1",
     "time_str_formatted": "11:27 PM, Monday, March 31, 2025"
+  },
+  {
+    "title": "How Gotabaya  Rajapaksa Enabled  Ex-LTTE Eastern  Leader Vinayagamoorthy Muralitharan alias  \u201cCol\u201dKaruna to go to Britain on a Diplomatic Passport Posing as a Sinhalese  named Kokila Dushmantha Gunawardena",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85750",
+    "ut": 1743435051.0,
+    "dir_path_unix": "data/articles/how-gotabaya-rajapaksa-e.6a7466de",
+    "time_str_formatted": "09:00 PM, Monday, March 31, 2025"
   },
   {
     "title": "Philip Gunawardena: Marxist who proposed visionary economic policies in 1930s",
@@ -210,6 +252,13 @@
     "time_str_formatted": "12:51 AM, Thursday, March 27, 2025"
   },
   {
+    "title": "Democracy in Asia in 2024, and the outlook for 2025",
+    "url": "https://www.eiu.com/n/democracy-in-asia-in-2024-and-the-outlook-for-2025/",
+    "ut": 1743004045.0,
+    "dir_path_unix": "data/articles/democracy-in-asia-in-202.8974fead",
+    "time_str_formatted": "09:17 PM, Wednesday, March 26, 2025"
+  },
+  {
     "title": "The AI Hype Index: DeepSeek mania, Israel\u2019s spying tool, and cheating at chess",
     "url": "https://www.technologyreview.com/2025/03/26/1113694/ai-hype-index-artificial-intelligence-openai-manus-doge/",
     "ut": 1742945400.0,
@@ -243,6 +292,20 @@
     "ut": 1742919857.0,
     "dir_path_unix": "data/articles/the-march-1965-elections.d28fa3eb",
     "time_str_formatted": "09:54 PM, Tuesday, March 25, 2025"
+  },
+  {
+    "title": "BEAC loosens monetary stance to support regional liquidity",
+    "url": "https://www.eiu.com/n/beac-loosens-monetary-stance-to-support-regional-liquidity/",
+    "ut": 1742918026.0,
+    "dir_path_unix": "data/articles/beac-loosens-monetary-st.e7a1d76d",
+    "time_str_formatted": "09:23 PM, Tuesday, March 25, 2025"
+  },
+  {
+    "title": "Trump executive orders show influence and limits of Project 2025",
+    "url": "https://www.eiu.com/n/trump-executive-orders-show-influence-and-limits-of-project-2025/",
+    "ut": 1742917210.0,
+    "dir_path_unix": "data/articles/trump-executive-orders-s.e1e5fcf4",
+    "time_str_formatted": "09:10 PM, Tuesday, March 25, 2025"
   },
   {
     "title": "OpenAI\u2019s new image generator aims to be practical enough for designers and advertisers",

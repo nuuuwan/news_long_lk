@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-01 18:22:50**
+Last Updated **2025-04-02 06:25:53**
+
+## 2025-04-02
+
+* [SMEs, the forgotten people](data/articles/smes-the-forgotten-peopl.252b0623/README.md) `ft.lk`
+* [Verité Research, “fact checking” and protecting interests of financial elites in Sri Lanka](data/articles/verité-research-fact-che.94c75980/README.md) `ft.lk`
+* [Selective journalism and the illusion of truth](data/articles/selective-journalism-and.c7f16ec5/README.md) `ft.lk`
+* [NMRA should quit playing games with our hearts](data/articles/nmra-should-quit-playing.b6335f67/README.md) `ft.lk`
+* [Gender in economic sphere: Some key issues for developing countries](data/articles/gender-in-economic-spher.82cf3360/README.md) `ft.lk`
 
 ## 2025-04-01
 
@@ -14,6 +22,7 @@ Last Updated **2025-04-01 18:22:50**
 ## 2025-03-31
 
 * [Assisting solar power debate in Sri Lankan Cabinet](data/articles/assisting-solar-power-de.4a7a47c1/README.md) `ft.lk`
+* [How Gotabaya  Rajapaksa Enabled  Ex-LTTE Eastern  Leader Vinayagamoorthy Muralitharan alias  “Col”Karuna to go to Britain on a Diplomatic Passport Posing as a Sinhalese  named Kokila Dushmantha Gunawardena](data/articles/how-gotabaya-rajapaksa-e.6a7466de/README.md) `dbsjeyaraj.com`
 * [Philip Gunawardena: Marxist who proposed visionary economic policies in 1930s](data/articles/philip-gunawardena-marxi.43f03234/README.md) `ft.lk`
 * [Tragedy best not forgotten](data/articles/tragedy-best-not-forgott.0f78c22a/README.md) `ft.lk`
 * [NPC says Sri Lanka needs comprehensive solution, not selective justice](data/articles/npc-says-sri-lanka-needs.5f09e6a5/README.md) `ft.lk`
@@ -54,6 +63,7 @@ Last Updated **2025-04-01 18:22:50**
 
 ## 2025-03-26
 
+* [Democracy in Asia in 2024, and the outlook for 2025](data/articles/democracy-in-asia-in-202.8974fead/README.md) `eiu.com`
 * [The AI Hype Index: DeepSeek mania, Israel’s spying tool, and cheating at chess](data/articles/the-ai-hype-index-deepse.1dc6c588/README.md) `technologyreview.com`
 * [China built hundreds of AI data centers to catch the AI boom. Now many stand unused.](data/articles/china-built-hundreds-of.df5f774d/README.md) `technologyreview.com`
 * [SMEs – forgotten people of Sri Lanka?](data/articles/smes-forgotten-people-of.6cd11142/README.md) `ft.lk`
@@ -62,6 +72,8 @@ Last Updated **2025-04-01 18:22:50**
 ## 2025-03-25
 
 * [The March 1965 Elections ,  Signing of the Dudley-Chelva Pact and the Formation of the  “Hath Haula”  National Govt](data/articles/the-march-1965-elections.d28fa3eb/README.md) `dbsjeyaraj.com`
+* [BEAC loosens monetary stance to support regional liquidity](data/articles/beac-loosens-monetary-st.e7a1d76d/README.md) `eiu.com`
+* [Trump executive orders show influence and limits of Project 2025](data/articles/trump-executive-orders-s.e1e5fcf4/README.md) `eiu.com`
 * [OpenAI’s new image generator aims to be practical enough for designers and advertisers](data/articles/openai-s-new-image-gener.1800daa7/README.md) `technologyreview.com`
 * [How to… delete your 23andMe data](data/articles/how-to-delete-your-23and.60828983/README.md) `technologyreview.com`
 * [Ethically sourced “spare” human bodies could revolutionize medicine](data/articles/ethically-sourced-spare.8d595dbe/README.md) `technologyreview.com`
