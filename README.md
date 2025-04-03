@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-02 18:22:21**
+Last Updated **2025-04-03 06:25:34**
+
+## 2025-04-03
+
+* [“India has extended financial assistance exceeding $ 7 billion”](data/articles/india-has-extended-fina.84ef938e/README.md) `ft.lk`
+* [‘Democracy in debt: Sri Lanka beyond the headlines’](data/articles/democracy-in-debt-sri-l.b5703132/README.md) `ft.lk`
+* [Why following IMF policy recommendations will lead to yet another debt crisis: Part 2](data/articles/why-following-imf-policy.9c119a12/README.md) `ft.lk`
+* [Constructing plans to enhance economy and boost tourism](data/articles/constructing-plans-to-en.07e16966/README.md) `ft.lk`
+* [AKD-Modi pact: Tectonic shift, national interest negated, China double-crossed](data/articles/akd-modi-pact-tectonic-s.df84c589/README.md) `ft.lk`
 
 ## 2025-04-02
 
+* [Climate change is threatening even the strongest business environments](data/articles/climate-change-is-threat.adfad265/README.md) `eiu.com`
 * [SMEs, the forgotten people](data/articles/smes-the-forgotten-peopl.252b0623/README.md) `ft.lk`
 * [Verité Research, “fact checking” and protecting interests of financial elites in Sri Lanka](data/articles/verité-research-fact-che.94c75980/README.md) `ft.lk`
 * [Cauldron-stirring time, again?](data/articles/cauldron-stirring-time-a.67714ebe/README.md) `ft.lk`
