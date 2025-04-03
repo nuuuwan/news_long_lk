@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-03 06:25:34**
+Last Updated **2025-04-03 18:22:44**
 
 ## 2025-04-03
 
+* [We should talk more about air-conditioning](data/articles/we-should-talk-more-abou.d4aec118/README.md) `technologyreview.com`
 * [“India has extended financial assistance exceeding $ 7 billion”](data/articles/india-has-extended-fina.84ef938e/README.md) `ft.lk`
 * [‘Democracy in debt: Sri Lanka beyond the headlines’](data/articles/democracy-in-debt-sri-l.b5703132/README.md) `ft.lk`
 * [Why following IMF policy recommendations will lead to yet another debt crisis: Part 2](data/articles/why-following-imf-policy.9c119a12/README.md) `ft.lk`
@@ -52,6 +53,7 @@ Last Updated **2025-04-03 06:25:34**
 ## 2025-03-28
 
 * [Economic supremacy of China: Towards a new world order?](data/articles/economic-supremacy-of-ch.57283ec4/README.md) `ft.lk`
+* [The first trial of generative AI therapy shows it might help with depression](data/articles/the-first-trial-of-gener.d80b14e3/README.md) `technologyreview.com`
 * [How a bankruptcy judge can stop a genetic privacy disaster](data/articles/how-a-bankruptcy-judge-c.38c23fbe/README.md) `technologyreview.com`
 * [From equality to equity: Redefining fairness for a performance-driven Sri Lanka](data/articles/from-equality-to-equity.c687f917/README.md) `ft.lk`
 * [Navigating AI landscape  in organisations: Change management](data/articles/navigating-ai-landscape.d949b4c6/README.md) `ft.lk`

@@ -1,5 +1,12 @@
 [
   {
+    "title": "We should talk more about air-conditioning",
+    "url": "https://www.technologyreview.com/2025/04/03/1114182/air-conditioning-demand/",
+    "ut": 1743640200.0,
+    "dir_path_unix": "data/articles/we-should-talk-more-abou.d4aec118",
+    "time_str_formatted": "06:00 AM, Thursday, April 03, 2025"
+  },
+  {
     "title": "\u201cIndia has extended financial assistance exceeding $ 7 billion\u201d",
     "url": "https://www.ft.lk/columns/India-has-extended-financial-assistance-exceeding-7-billion/4-775091",
     "ut": 1743631164.0,
@@ -194,6 +201,13 @@
     "ut": 1743185867.0,
     "dir_path_unix": "data/articles/economic-supremacy-of-ch.57283ec4",
     "time_str_formatted": "11:47 PM, Friday, March 28, 2025"
+  },
+  {
+    "title": "The first trial of generative AI therapy shows it might help with depression",
+    "url": "https://www.technologyreview.com/2025/03/28/1114001/the-first-trial-of-generative-ai-therapy-shows-it-might-help-with-depression/",
+    "ut": 1743147455.0,
+    "dir_path_unix": "data/articles/the-first-trial-of-gener.d80b14e3",
+    "time_str_formatted": "01:07 PM, Friday, March 28, 2025"
   },
   {
     "title": "How a bankruptcy judge can stop a genetic privacy disaster",
