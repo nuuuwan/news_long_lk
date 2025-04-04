@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-03 18:22:44**
+Last Updated **2025-04-04 06:25:31**
+
+## 2025-04-04
+
+* [Trump tariffs on Sri Lanka based on misguided thinking](data/articles/trump-tariffs-on-sri-lan.8aeae9d1/README.md) `ft.lk`
+* [Indo-Lanka relations: Actioning the tryst with opportunity](data/articles/indo-lanka-relations-act.2dc80ec9/README.md) `ft.lk`
+* [Trapezing with defence cooperation](data/articles/trapezing-with-defence-c.2a0d6aa7/README.md) `ft.lk`
+* [Politicisation of the military, Rajapaksa politics and Fonseka-Jayasuriya feud](data/articles/politicisation-of-the-mi.9235c8d0/README.md) `ft.lk`
 
 ## 2025-04-03
 
