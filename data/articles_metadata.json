@@ -1,5 +1,26 @@
 [
   {
+    "title": "The Download: what Trump\u2019s tariffs mean for climate tech, and hacking AI agents",
+    "url": "https://www.technologyreview.com/2025/04/04/1114227/the-download-what-trumps-tariffs-mean-for-climate-tech-and-hacking-ai-agents/",
+    "ut": 1743734400.0,
+    "dir_path_unix": "data/articles/the-download-what-trump.9dfc344c",
+    "time_str_formatted": "08:10 AM, Friday, April 04, 2025"
+  },
+  {
+    "title": "\u201cCorona\u201dKaruna: The Chequered History of an Eastern Warlord.",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85756",
+    "ut": 1743726333.0,
+    "dir_path_unix": "data/articles/corona-karuna-the-chequ.f971a7b4",
+    "time_str_formatted": "05:55 AM, Friday, April 04, 2025"
+  },
+  {
+    "title": "Understanding US reciprocal tariffs \u2013 what it means for Sri Lanka: Part 1",
+    "url": "https://www.ft.lk/columns/Understanding-US-reciprocal-tariffs-what-it-means-for-Sri-Lanka-Part-1/4-775161",
+    "ut": 1743715577.0,
+    "dir_path_unix": "data/articles/understanding-us-recipro.0a472e90",
+    "time_str_formatted": "02:56 AM, Friday, April 04, 2025"
+  },
+  {
     "title": "Trump tariffs on Sri Lanka based on misguided thinking",
     "url": "https://www.ft.lk/columns/Trump-tariffs-on-Sri-Lanka-based-on-misguided-thinking/4-775160",
     "ut": 1743715032.0,
@@ -117,6 +138,13 @@
     "ut": 1743552806.0,
     "dir_path_unix": "data/articles/gender-in-economic-spher.82cf3360",
     "time_str_formatted": "05:43 AM, Wednesday, April 02, 2025"
+  },
+  {
+    "title": "How 3D printing could make better cooling systems",
+    "url": "https://www.technologyreview.com/2025/04/02/1114166/how-3d-printing-could-make-better-cooling-systems/",
+    "ut": 1743546600.0,
+    "dir_path_unix": "data/articles/how-3d-printing-could-ma.c16f9acf",
+    "time_str_formatted": "04:00 AM, Wednesday, April 02, 2025"
   },
   {
     "title": "Brain-computer interfaces face a critical test",

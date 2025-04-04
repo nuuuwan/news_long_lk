@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-04 06:25:31**
+Last Updated **2025-04-04 18:22:05**
 
 ## 2025-04-04
 
+* [The Download: what Trump’s tariffs mean for climate tech, and hacking AI agents](data/articles/the-download-what-trump.9dfc344c/README.md) `technologyreview.com`
+* [“Corona”Karuna: The Chequered History of an Eastern Warlord.](data/articles/corona-karuna-the-chequ.f971a7b4/README.md) `dbsjeyaraj.com`
+* [Understanding US reciprocal tariffs – what it means for Sri Lanka: Part 1](data/articles/understanding-us-recipro.0a472e90/README.md) `ft.lk`
 * [Trump tariffs on Sri Lanka based on misguided thinking](data/articles/trump-tariffs-on-sri-lan.8aeae9d1/README.md) `ft.lk`
 * [Indo-Lanka relations: Actioning the tryst with opportunity](data/articles/indo-lanka-relations-act.2dc80ec9/README.md) `ft.lk`
 * [Trapezing with defence cooperation](data/articles/trapezing-with-defence-c.2a0d6aa7/README.md) `ft.lk`
@@ -29,6 +32,7 @@ Last Updated **2025-04-04 06:25:31**
 * [Selective journalism and the illusion of truth](data/articles/selective-journalism-and.c7f16ec5/README.md) `ft.lk`
 * [NMRA should quit playing games with our hearts](data/articles/nmra-should-quit-playing.b6335f67/README.md) `ft.lk`
 * [Gender in economic sphere: Some key issues for developing countries](data/articles/gender-in-economic-spher.82cf3360/README.md) `ft.lk`
+* [How 3D printing could make better cooling systems](data/articles/how-3d-printing-could-ma.c16f9acf/README.md) `technologyreview.com`
 
 ## 2025-04-01
 
