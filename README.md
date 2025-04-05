@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-04 18:22:05**
+Last Updated **2025-04-05 06:26:40**
 
 ## 2025-04-04
 
+* [Sri Lanka and global trade shock](data/articles/sri-lanka-and-global-tra.d8c3a612/README.md) `ft.lk`
+* [Climate risk, insurance, and tourism sector](data/articles/climate-risk-insurance-a.956c27a5/README.md) `ft.lk`
+* [95 and at the crease – Chandra Schaffter](data/articles/95-and-at-the-crease-cha.87d52293/README.md) `ft.lk`
+* [Strategic pathways for Sri Lanka – navigating US reciprocal tariff regime: Part 2](data/articles/strategic-pathways-for-s.b7a7f02e/README.md) `ft.lk`
+* [Make America great again; Make  America groan again: Trump’s tariff tango](data/articles/make-america-great-again.c6d43819/README.md) `ft.lk`
+* [Indian Prime Minister Narendra  Modi  arrives in Colombo on a  Weekend Visit for  Bi-lateral talks with Sri Lankan President Anura Kumara  Dissanayake and Signing of Key Agreements](data/articles/indian-prime-minister-na.0b166ee6/README.md) `dbsjeyaraj.com`
 * [The Download: what Trump’s tariffs mean for climate tech, and hacking AI agents](data/articles/the-download-what-trump.9dfc344c/README.md) `technologyreview.com`
 * [“Corona”Karuna: The Chequered History of an Eastern Warlord.](data/articles/corona-karuna-the-chequ.f971a7b4/README.md) `dbsjeyaraj.com`
 * [Understanding US reciprocal tariffs – what it means for Sri Lanka: Part 1](data/articles/understanding-us-recipro.0a472e90/README.md) `ft.lk`
@@ -16,6 +22,7 @@ Last Updated **2025-04-04 18:22:05**
 
 ## 2025-04-03
 
+* [Trump’s tariffs will deliver a big blow to climate tech](data/articles/trump-s-tariffs-will-del.ec9b2ac5/README.md) `technologyreview.com`
 * [We should talk more about air-conditioning](data/articles/we-should-talk-more-abou.d4aec118/README.md) `technologyreview.com`
 * [“India has extended financial assistance exceeding $ 7 billion”](data/articles/india-has-extended-fina.84ef938e/README.md) `ft.lk`
 * [‘Democracy in debt: Sri Lanka beyond the headlines’](data/articles/democracy-in-debt-sri-l.b5703132/README.md) `ft.lk`
