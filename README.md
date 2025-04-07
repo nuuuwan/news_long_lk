@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-06 18:19:16**
+Last Updated **2025-04-07 06:25:53**
+
+## 2025-04-07
+
+* [Know your local electoral system and implications](data/articles/know-your-local-electora.60d1a9dc/README.md) `ft.lk`
+* [What Sri Lanka can learn from Trump’s tariff war: Time to rebuild from within](data/articles/what-sri-lanka-can-learn.070d48b5/README.md) `ft.lk`
+* [Adani saga appears to have raised its head again](data/articles/adani-saga-appears-to-ha.b979f591/README.md) `ft.lk`
+* [A via media view of press  freedom under the NPP](data/articles/a-via-media-view-of-pres.537443df/README.md) `ft.lk`
 
 ## 2025-04-04
 
