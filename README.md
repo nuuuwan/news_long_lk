@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-08 06:25:38**
+Last Updated **2025-04-08 18:22:04**
 
 ## 2025-04-08
 
+* [Game of clones: Colossal’s new wolves are cute, but are they dire?](data/articles/game-of-clones-colossal.7de44ce0/README.md) `technologyreview.com`
 * [Hidden owners of companies: Critical flaws of Beneficial Ownership register](data/articles/hidden-owners-of-compani.e2fabc7d/README.md) `ft.lk`
 
 ## 2025-04-07
@@ -41,6 +42,7 @@ Last Updated **2025-04-08 06:25:38**
 
 * [Trump’s tariffs will deliver a big blow to climate tech](data/articles/trump-s-tariffs-will-del.ec9b2ac5/README.md) `technologyreview.com`
 * [We should talk more about air-conditioning](data/articles/we-should-talk-more-abou.d4aec118/README.md) `technologyreview.com`
+* [Rivals are rising to challenge the dominance of SpaceX](data/articles/rivals-are-rising-to-cha.268d0807/README.md) `technologyreview.com`
 * [“India has extended financial assistance exceeding $ 7 billion”](data/articles/india-has-extended-fina.84ef938e/README.md) `ft.lk`
 * [‘Democracy in debt: Sri Lanka beyond the headlines’](data/articles/democracy-in-debt-sri-l.b5703132/README.md) `ft.lk`
 * [Why following IMF policy recommendations will lead to yet another debt crisis: Part 2](data/articles/why-following-imf-policy.9c119a12/README.md) `ft.lk`
