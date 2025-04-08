@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-07 18:22:32**
+Last Updated **2025-04-08 06:25:38**
+
+## 2025-04-08
+
+* [Hidden owners of companies: Critical flaws of Beneficial Ownership register](data/articles/hidden-owners-of-compani.e2fabc7d/README.md) `ft.lk`
 
 ## 2025-04-07
 
+* [Trump tariffs: How can  Sri Lanka mitigate the pain?](data/articles/trump-tariffs-how-can-sr.478cdc5e/README.md) `ft.lk`
+* [Ripple effects: How US trade policies cast long shadow over Sri Lanka and beyond](data/articles/ripple-effects-how-us-tr.8d8b2d44/README.md) `ft.lk`
+* [Impact of Trump’s tariff policies on Sri Lanka and global trade](data/articles/impact-of-trump-s-tariff.45c1fd22/README.md) `ft.lk`
+* [Politicization of the Military,Rajapaksa  Family’s Divisive Politics  and the  Sarath Fonseka-  Jagath Jayasuriya Feud](data/articles/politicization-of-the-mi.2ea3e093/README.md) `dbsjeyaraj.com`
+* [Building Effective Partnerships to Power Life Sciences Innovation](data/articles/building-effective-partn.a118fbfd/README.md) `hbr.org`
 * [How the Pentagon is adapting to China’s technological rise](data/articles/how-the-pentagon-is-adap.09abc6c8/README.md) `technologyreview.com`
 * [Know your local electoral system and implications](data/articles/know-your-local-electora.60d1a9dc/README.md) `ft.lk`
 * [What Sri Lanka can learn from Trump’s tariff war: Time to rebuild from within](data/articles/what-sri-lanka-can-learn.070d48b5/README.md) `ft.lk`
