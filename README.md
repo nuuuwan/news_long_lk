@@ -2,11 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-08 18:22:04**
+Last Updated **2025-04-09 06:25:29**
+
+## 2025-04-09
+
+* [Global economy may be changing fundamentally](data/articles/global-economy-may-be-ch.6ba0515f/README.md) `ft.lk`
+* [Three years at a thankless task](data/articles/three-years-at-a-thankle.bbcb971c/README.md) `ft.lk`
+* [India’s Chanakyan playbook and Sri Lankan pivot: Reading between the handshakes](data/articles/india-s-chanakyan-playbo.bfaf8d65/README.md) `ft.lk`
+* [Securing Sri Lanka’s renewable energy future: Plan of action](data/articles/securing-sri-lanka-s-ren.1de218f1/README.md) `ft.lk`
+* [Effective decisions, a mix of gut and information – avoid constipation by data](data/articles/effective-decisions-a-mi.391b30e8/README.md) `ft.lk`
 
 ## 2025-04-08
 
 * [Game of clones: Colossal’s new wolves are cute, but are they dire?](data/articles/game-of-clones-colossal.7de44ce0/README.md) `technologyreview.com`
+* [AI companions are the final stage of digital addiction, and lawmakers are taking aim](data/articles/ai-companions-are-the-fi.1e0a4af7/README.md) `technologyreview.com`
 * [Hidden owners of companies: Critical flaws of Beneficial Ownership register](data/articles/hidden-owners-of-compani.e2fabc7d/README.md) `ft.lk`
 
 ## 2025-04-07
