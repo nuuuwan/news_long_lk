@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-09 06:25:29**
+Last Updated **2025-04-09 18:22:30**
 
 ## 2025-04-09
 
@@ -11,6 +11,8 @@ Last Updated **2025-04-09 06:25:29**
 * [India’s Chanakyan playbook and Sri Lankan pivot: Reading between the handshakes](data/articles/india-s-chanakyan-playbo.bfaf8d65/README.md) `ft.lk`
 * [Securing Sri Lanka’s renewable energy future: Plan of action](data/articles/securing-sri-lanka-s-ren.1de218f1/README.md) `ft.lk`
 * [Effective decisions, a mix of gut and information – avoid constipation by data](data/articles/effective-decisions-a-mi.391b30e8/README.md) `ft.lk`
+* [A new biosensor can detect bird flu in five minutes](data/articles/a-new-biosensor-can-dete.b697d986/README.md) `technologyreview.com`
+* [வடபகுதி கடற்பரப்பில் அத்துமீறி மீன்பிடிக்கும் தமிழ்நாட்டு  மீனவர்கள் கைது செய்யப்படக்கூடாது எனபதும் அவர்களது படகுகள் கைப்பற்றப்படக்கூடாது என்பதுமே இந்தியா விரும்புகின்ற மனிதாபிமான அணுகுமுறை.](data/articles/வடபக-த-கடற-பரப-ப-ல-அத-த.e71ee0d8/README.md) `dbsjeyaraj.com`
 
 ## 2025-04-08
 
@@ -40,6 +42,7 @@ Last Updated **2025-04-09 06:25:29**
 * [Make America great again; Make  America groan again: Trump’s tariff tango](data/articles/make-america-great-again.c6d43819/README.md) `ft.lk`
 * [Indian Prime Minister Narendra  Modi  arrives in Colombo on a  Weekend Visit for  Bi-lateral talks with Sri Lankan President Anura Kumara  Dissanayake and Signing of Key Agreements](data/articles/indian-prime-minister-na.0b166ee6/README.md) `dbsjeyaraj.com`
 * [The Download: what Trump’s tariffs mean for climate tech, and hacking AI agents](data/articles/the-download-what-trump.9dfc344c/README.md) `technologyreview.com`
+* [Cyberattacks by AI agents are coming](data/articles/cyberattacks-by-ai-agent.849000b0/README.md) `technologyreview.com`
 * [“Corona”Karuna: The Chequered History of an Eastern Warlord.](data/articles/corona-karuna-the-chequ.f971a7b4/README.md) `dbsjeyaraj.com`
 * [Understanding US reciprocal tariffs – what it means for Sri Lanka: Part 1](data/articles/understanding-us-recipro.0a472e90/README.md) `ft.lk`
 * [Trump tariffs on Sri Lanka based on misguided thinking](data/articles/trump-tariffs-on-sri-lan.8aeae9d1/README.md) `ft.lk`
