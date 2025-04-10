@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-10 06:25:44**
+Last Updated **2025-04-10 18:22:32**
 
 ## 2025-04-10
 
@@ -11,6 +11,8 @@ Last Updated **2025-04-10 06:25:44**
 * [Making digital economy a reality this time](data/articles/making-digital-economy-a.7a11b00a/README.md) `ft.lk`
 * [Decoding tariff wars – key takeaways from Trump’s 2018 US-China conflict: Part 3](data/articles/decoding-tariff-wars-key.1a8d4190/README.md) `ft.lk`
 * [US tariffs and emergence of new world order](data/articles/us-tariffs-and-emergence.8214fe9d/README.md) `ft.lk`
+* [How AI can help supercharge creativity](data/articles/how-ai-can-help-supercha.ef235988/README.md) `technologyreview.com`
+* [Should Sri Lanka adopt the “humane” approach proposed  by India and not arrest the Tamil Nadu fishermen poaching “ en masse”  in Northern waters?](data/articles/should-sri-lanka-adopt-t.eb2b112b/README.md) `dbsjeyaraj.com`
 
 ## 2025-04-09
 
