@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-09 18:22:30**
+Last Updated **2025-04-10 06:25:44**
+
+## 2025-04-10
+
+* [Gendered disinformation: Growing threat to women in local politics in Sri Lanka](data/articles/gendered-disinformation.f4db7b41/README.md) `ft.lk`
+* [Decoding the AKD-Modi pact: Geopolitical logic, military alignment, existential danger](data/articles/decoding-the-akd-modi-pa.b783c604/README.md) `ft.lk`
+* [Making digital economy a reality this time](data/articles/making-digital-economy-a.7a11b00a/README.md) `ft.lk`
+* [Decoding tariff wars – key takeaways from Trump’s 2018 US-China conflict: Part 3](data/articles/decoding-tariff-wars-key.1a8d4190/README.md) `ft.lk`
+* [US tariffs and emergence of new world order](data/articles/us-tariffs-and-emergence.8214fe9d/README.md) `ft.lk`
 
 ## 2025-04-09
 
+* [Tariffs are bad news for batteries](data/articles/tariffs-are-bad-news-for.70f16c88/README.md) `technologyreview.com`
 * [Global economy may be changing fundamentally](data/articles/global-economy-may-be-ch.6ba0515f/README.md) `ft.lk`
 * [Three years at a thankless task](data/articles/three-years-at-a-thankle.bbcb971c/README.md) `ft.lk`
 * [India’s Chanakyan playbook and Sri Lankan pivot: Reading between the handshakes](data/articles/india-s-chanakyan-playbo.bfaf8d65/README.md) `ft.lk`
