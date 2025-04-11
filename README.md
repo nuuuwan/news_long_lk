@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-10 18:22:32**
+Last Updated **2025-04-11 06:25:26**
+
+## 2025-04-11
+
+* [Tug of giants in Indian Ocean: Will Sri Lanka choose to drift or steer?](data/articles/tug-of-giants-in-indian.deedcc94/README.md) `ft.lk`
+* [Maestro Lester James Peries  and his movie treasure “Nidhanaya”](data/articles/maestro-lester-james-per.88956924/README.md) `ft.lk`
+* [Three ‘As’ to assess  a tyro administration](data/articles/three-as-to-assess-a-tyr.29a3316a/README.md) `ft.lk`
+* [How does Trump’s tax policy impact Sri Lankan economy?](data/articles/how-does-trump-s-tax-pol.bc32f643/README.md) `ft.lk`
+* [Trump’s tariff wall was never about fairness or reciprocity](data/articles/trump-s-tariff-wall-was.e5b2cfd3/README.md) `ft.lk`
 
 ## 2025-04-10
 
+* [Why the climate promises of AI sound a lot like carbon offsets](data/articles/why-the-climate-promises.46519c01/README.md) `technologyreview.com`
 * [Gendered disinformation: Growing threat to women in local politics in Sri Lanka](data/articles/gendered-disinformation.f4db7b41/README.md) `ft.lk`
 * [Decoding the AKD-Modi pact: Geopolitical logic, military alignment, existential danger](data/articles/decoding-the-akd-modi-pa.b783c604/README.md) `ft.lk`
 * [Making digital economy a reality this time](data/articles/making-digital-economy-a.7a11b00a/README.md) `ft.lk`
