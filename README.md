@@ -2,12 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-11 06:25:26**
+Last Updated **2025-04-11 18:21:59**
 
 ## 2025-04-11
 
+* [Using a cannon to shoot a sparrow: Was Anura taken for a ride?](data/articles/using-a-cannon-to-shoot.832fd9dc/README.md) `ft.lk`
+* [Muslim rage over a sticker](data/articles/muslim-rage-over-a-stick.9d676873/README.md) `ft.lk`
 * [Tug of giants in Indian Ocean: Will Sri Lanka choose to drift or steer?](data/articles/tug-of-giants-in-indian.deedcc94/README.md) `ft.lk`
 * [Maestro Lester James Peries  and his movie treasure “Nidhanaya”](data/articles/maestro-lester-james-per.88956924/README.md) `ft.lk`
+* [Love or immortality: A short story](data/articles/love-or-immortality-a-sh.05d5b888/README.md) `technologyreview.com`
 * [Three ‘As’ to assess  a tyro administration](data/articles/three-as-to-assess-a-tyr.29a3316a/README.md) `ft.lk`
 * [How does Trump’s tax policy impact Sri Lankan economy?](data/articles/how-does-trump-s-tax-pol.bc32f643/README.md) `ft.lk`
 * [Trump’s tariff wall was never about fairness or reciprocity](data/articles/trump-s-tariff-wall-was.e5b2cfd3/README.md) `ft.lk`
