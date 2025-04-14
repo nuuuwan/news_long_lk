@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-14 06:25:36**
+Last Updated **2025-04-14 18:22:44**
+
+## 2025-04-14
+
+* [DOGE’s tech takeover threatens the safety and stability of our critical data](data/articles/doge-s-tech-takeover-thr.b9dffb14/README.md) `technologyreview.com`
 
 ## 2025-04-11
 
