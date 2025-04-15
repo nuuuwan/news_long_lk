@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-15 06:25:31**
+Last Updated **2025-04-15 18:22:13**
+
+## 2025-04-15
+
+* [This architect wants to build cities out of lava](data/articles/this-architect-wants-to.58f1a365/README.md) `technologyreview.com`
 
 ## 2025-04-14
 
@@ -19,6 +23,7 @@ Last Updated **2025-04-15 06:25:31**
 * [Three ‘As’ to assess  a tyro administration](data/articles/three-as-to-assess-a-tyr.29a3316a/README.md) `ft.lk`
 * [How does Trump’s tax policy impact Sri Lankan economy?](data/articles/how-does-trump-s-tax-pol.bc32f643/README.md) `ft.lk`
 * [Trump’s tariff wall was never about fairness or reciprocity](data/articles/trump-s-tariff-wall-was.e5b2cfd3/README.md) `ft.lk`
+* [Generative AI is learning to spy for the US military](data/articles/generative-ai-is-learnin.849020a1/README.md) `technologyreview.com`
 
 ## 2025-04-10
 
