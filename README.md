@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-14 18:22:44**
+Last Updated **2025-04-15 06:25:31**
 
 ## 2025-04-14
 
 * [DOGE’s tech takeover threatens the safety and stability of our critical data](data/articles/doge-s-tech-takeover-thr.b9dffb14/README.md) `technologyreview.com`
+* [Meet the researchers testing the “Armageddon” approach to asteroid defense](data/articles/meet-the-researchers-tes.2fc5afdf/README.md) `technologyreview.com`
 
 ## 2025-04-11
 
