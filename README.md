@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-15 18:22:13**
+Last Updated **2025-04-16 06:25:46**
 
 ## 2025-04-15
 
+* [Uncertain global outlook threatens fiscal consolidation in El Salvador](data/articles/uncertain-global-outlook.5212bc38/README.md) `eiu.com`
+* [Preliminary Iran-US talks conclude positively](data/articles/preliminary-iran-us-talk.c0853bed/README.md) `eiu.com`
+* [Chinese exports surge ahead of US reciprocal tariffs](data/articles/chinese-exports-surge-ah.57680e72/README.md) `eiu.com`
+* [A small US city experiments with AI to find out what residents want](data/articles/a-small-us-city-experime.b2297c1b/README.md) `technologyreview.com`
 * [This architect wants to build cities out of lava](data/articles/this-architect-wants-to.58f1a365/README.md) `technologyreview.com`
 
 ## 2025-04-14
