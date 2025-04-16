@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-16 06:25:46**
+Last Updated **2025-04-16 18:22:23**
+
+## 2025-04-16
+
+* [Jurassic Patent: How Colossal Biosciences is attempting to own the “woolly mammoth”](data/articles/jurassic-patent-how-colo.4759ede5/README.md) `technologyreview.com`
 
 ## 2025-04-15
 
@@ -11,9 +15,12 @@ Last Updated **2025-04-16 06:25:46**
 * [Chinese exports surge ahead of US reciprocal tariffs](data/articles/chinese-exports-surge-ah.57680e72/README.md) `eiu.com`
 * [A small US city experiments with AI to find out what residents want](data/articles/a-small-us-city-experime.b2297c1b/README.md) `technologyreview.com`
 * [This architect wants to build cities out of lava](data/articles/this-architect-wants-to.58f1a365/README.md) `technologyreview.com`
+* [How the federal government is tracking changes in the supply of street drugs](data/articles/how-the-federal-governme.c209204b/README.md) `technologyreview.com`
+* [Phase two of military AI has arrived](data/articles/phase-two-of-military-ai.ce706668/README.md) `technologyreview.com`
 
 ## 2025-04-14
 
+* [Maestro Lester James Peries and his  Movie  Masterpiece   “Nidhanaya” (Treasure).](data/articles/maestro-lester-james-per.60287c75/README.md) `dbsjeyaraj.com`
 * [DOGE’s tech takeover threatens the safety and stability of our critical data](data/articles/doge-s-tech-takeover-thr.b9dffb14/README.md) `technologyreview.com`
 * [Meet the researchers testing the “Armageddon” approach to asteroid defense](data/articles/meet-the-researchers-tes.2fc5afdf/README.md) `technologyreview.com`
 
