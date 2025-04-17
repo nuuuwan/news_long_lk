@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-17 06:25:35**
+Last Updated **2025-04-17 18:22:38**
 
 ## 2025-04-17
 
+* [How a 1980s toy robot arm inspired modern robotics](data/articles/how-a-1980s-toy-robot-ar.7839fd2f/README.md) `technologyreview.com`
 * [Tariff tensions and creative solutions: Rethinking Sri Lanka’s export future](data/articles/tariff-tensions-and-crea.df45ce16/README.md) `ft.lk`
 * [Tea industry challenges: From fertiliser fiasco to abolishing SVAT – a slow demise?](data/articles/tea-industry-challenges.226f1859/README.md) `ft.lk`
 * [Economists action plan on US tariffs](data/articles/economists-action-plan-o.f7c16477/README.md) `ft.lk`
@@ -16,6 +17,7 @@ Last Updated **2025-04-17 06:25:35**
 
 * [Future-Proof Your Business with Smarter Talent Strategies](data/articles/future-proof-your-busine.a644c3d7/README.md) `hbr.org`
 * [Jurassic Patent: How Colossal Biosciences is attempting to own the “woolly mammoth”](data/articles/jurassic-patent-how-colo.4759ede5/README.md) `technologyreview.com`
+* [What is vibe coding, exactly?](data/articles/what-is-vibe-coding-exac.d31c4e58/README.md) `technologyreview.com`
 
 ## 2025-04-15
 
