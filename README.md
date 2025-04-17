@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-16 18:22:23**
+Last Updated **2025-04-17 06:25:35**
+
+## 2025-04-17
+
+* [Tariff tensions and creative solutions: Rethinking Sri Lanka’s export future](data/articles/tariff-tensions-and-crea.df45ce16/README.md) `ft.lk`
+* [Tea industry challenges: From fertiliser fiasco to abolishing SVAT – a slow demise?](data/articles/tea-industry-challenges.226f1859/README.md) `ft.lk`
+* [Economists action plan on US tariffs](data/articles/economists-action-plan-o.f7c16477/README.md) `ft.lk`
+* [To trump Trump’s tariffs](data/articles/to-trump-trump-s-tariffs.56feeff1/README.md) `ft.lk`
+* [Modi’s men: AKD campaigns flat-out; confused Opposition holds back](data/articles/modi-s-men-akd-campaigns.020ea72f/README.md) `ft.lk`
 
 ## 2025-04-16
 
+* [Future-Proof Your Business with Smarter Talent Strategies](data/articles/future-proof-your-busine.a644c3d7/README.md) `hbr.org`
 * [Jurassic Patent: How Colossal Biosciences is attempting to own the “woolly mammoth”](data/articles/jurassic-patent-how-colo.4759ede5/README.md) `technologyreview.com`
 
 ## 2025-04-15
