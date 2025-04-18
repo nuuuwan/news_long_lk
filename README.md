@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-18 06:25:28**
+Last Updated **2025-04-18 18:21:16**
 
 ## 2025-04-18
 
+* [This spa’s water is heated by bitcoin mining](data/articles/this-spa-s-water-is-heat.0e38435d/README.md) `technologyreview.com`
 * [TMVP leader Pillaiyaan’s arrest, 2019 Easter bombings and Azad Maulana’s revelations](data/articles/tmvp-leader-pillaiyaan-s.d46be58d/README.md) `ft.lk`
 * [Sri Lanka as a trading outpost](data/articles/sri-lanka-as-a-trading-o.0641376a/README.md) `ft.lk`
 * [AKD’s ‘double pocket’ diplomacy?](data/articles/akd-s-double-pocket-dipl.1e52f664/README.md) `ft.lk`
@@ -16,6 +17,7 @@ Last Updated **2025-04-18 06:25:28**
 
 * [What Type of Corporate Venture Builder Are You?](data/articles/what-type-of-corporate-v.45e9fa92/README.md) `hbr.org`
 * [A Google Gemini model now has a “dial” to adjust how much it reasons](data/articles/a-google-gemini-model-no.faadb246/README.md) `technologyreview.com`
+* [These four charts sum up the state of AI and energy](data/articles/these-four-charts-sum-up.791d1661/README.md) `technologyreview.com`
 * [How a 1980s toy robot arm inspired modern robotics](data/articles/how-a-1980s-toy-robot-ar.7839fd2f/README.md) `technologyreview.com`
 * [We need targeted policies, not blunt tariffs, to drive “American energy dominance”](data/articles/we-need-targeted-policie.46b9bfa0/README.md) `technologyreview.com`
 * [Tariff tensions and creative solutions: Rethinking Sri Lanka’s export future](data/articles/tariff-tensions-and-crea.df45ce16/README.md) `ft.lk`

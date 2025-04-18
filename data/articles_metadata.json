@@ -1,5 +1,12 @@
 [
   {
+    "title": "This spa\u2019s water is heated by bitcoin mining",
+    "url": "https://www.technologyreview.com/2025/04/18/1114464/bitcoin-mining-heat-spas-water-climate-warming/",
+    "ut": 1744936200.0,
+    "dir_path_unix": "data/articles/this-spa-s-water-is-heat.0e38435d",
+    "time_str_formatted": "06:00 AM, Friday, April 18, 2025"
+  },
+  {
     "title": "TMVP leader Pillaiyaan\u2019s arrest, 2019 Easter bombings and Azad Maulana\u2019s revelations",
     "url": "https://www.ft.lk/columns/TMVP-leader-Pillaiyaan-s-arrest-2019-Easter-bombings-and-Azad-Maulana-s-revelations/4-775580",
     "ut": 1744933165.0,
@@ -47,6 +54,13 @@
     "ut": 1744882200.0,
     "dir_path_unix": "data/articles/a-google-gemini-model-no.faadb246",
     "time_str_formatted": "03:00 PM, Thursday, April 17, 2025"
+  },
+  {
+    "title": "These four charts sum up the state of AI and energy",
+    "url": "https://www.technologyreview.com/2025/04/17/1115320/four-charts-ai-energy/",
+    "ut": 1744849800.0,
+    "dir_path_unix": "data/articles/these-four-charts-sum-up.791d1661",
+    "time_str_formatted": "06:00 AM, Thursday, April 17, 2025"
   },
   {
     "title": "How a 1980s toy robot arm inspired modern robotics",
