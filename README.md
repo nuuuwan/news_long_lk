@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-19 06:25:26**
+Last Updated **2025-04-19 18:19:20**
 
 ## 2025-04-18
 
+* [TMVP Leader Pillaiyaan’s Arrest under PTA, 6th Anniversary of  2019 Easter Bombings and  Chanel 4 TV Whistleblower Azad Maulana’s Revelations.](data/articles/tmvp-leader-pillaiyaan-s.5f03f4c9/README.md) `dbsjeyaraj.com`
 * [This spa’s water is heated by bitcoin mining](data/articles/this-spa-s-water-is-heat.0e38435d/README.md) `technologyreview.com`
 * [TMVP leader Pillaiyaan’s arrest, 2019 Easter bombings and Azad Maulana’s revelations](data/articles/tmvp-leader-pillaiyaan-s.d46be58d/README.md) `ft.lk`
 * [Sri Lanka as a trading outpost](data/articles/sri-lanka-as-a-trading-o.0641376a/README.md) `ft.lk`
