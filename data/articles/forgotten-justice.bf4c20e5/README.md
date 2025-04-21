@@ -1,0 +1,38 @@
+# Forgotten justice
+
+[https://www.ft.lk/columns/Forgotten-justice/4-775605](https://www.ft.lk/columns/Forgotten-justice/4-775605)
+
+*12:14 AM, Monday, April 21, 2025*
+
+To this day, neither justice nor accountability has been delivered
+
+On this solemn sixth anniversary of the devastating Easter Sunday bombings that struck Sri Lanka on 21 April 2019, justice remains elusive, not only for the victims but also for the Muslim community, which continues to suffer under the weight of collective blame. Every Sri Lankan has expressed heartfelt condolences and unwavering solidarity with the victims, their families, and all those affected by the tragedy. Yet, successive heads of states from Maithripala Sirisena to Gotabaya Rajapaksa, and Ranil Wickremesinghe have failed to provide credible answers regarding this heinous act of terror.
+
+Now, President Anura Kumara Dissanayake has an opportunity to break this chain of silence and impunity. He must bring to justice the political and intelligence operatives who are suspected to be the masterminds that radicalised Zaharan Hashim, an almost illiterate extremist and his group of brainwashed followers turned suicide bombers. (By the way, Zaharan Hashim is suspected to be a paid informer of LTTE operations to the Sri Lankan intelligence)
+
+The simultaneous, well-coordinated bombings could not have been executed by amateurs. Even the LTTE, with its global operational network, never carried out such a meticulously synchronised attack. These atrocities may have involved support from foreign intelligence experts and actors. Only an independent, international investigation can fully uncover the masterminds behind this carnage.
+
+The attacks claimed 270 lives, including 45 foreign nationals and three police officers, and left over 500 people injured. We acknowledge with deep sorrow that these heinous crimes were carried out by individuals who falsely claimed to represent Islam. Their actions stand in stark violation of Islamic teachings and are unequivocally condemned by the entire Muslim community.
+
+In Islam, the killing of innocent people including women, children, and non-combatants is strictly forbidden, even in times of war. The perpetrators of these attacks were disowned by the Muslim community and were denied even Islamic funeral rites. Their actions do not reflect the Islamic faith, its values, or its people.
+
+This was also one of the darkest days in the history of Sri Lankan Muslims, a day of immense grief and shame. Tragically, extremist Sinhala-Buddhist elements exploited the tragedy to spread fear and suspicion across the entire Muslim population of 2.1 million, falsely branding them as terrorists. Widespread arson, looting, and violence targeted Muslims in Negombo, Kuliyapitiya, and surrounding areas. Many Muslim livelihoods were destroyed.
+
+The nation must stand united in mourning, reaffirming our collective commitment to peace, justice, and healing. We must categorically condemn all forms of terrorism, extremism, and religious hatred. But even more importantly, the country must not waste a single moment without demanding a thorough investigation into the attacks and ensuring that the real masterminds are brought to justice. This inquiry should also investigate Buddhist extremist violence against the Muslims immediately after the bombing tragedy. Only the cardinal’s call for sanity saved thousands of Muslim lives.
+
+Call for accountability and an international investigation
+
+His Eminence Cardinal Malcolm Ranjith has consistently urged the Sri Lankan Government to conduct a credible and impartial investigation into the Easter Sunday attacks. Yet six years on, no acceptable inquiry has materialised, and the true architects of the tragedy remain unidentified and unpunished.
+
+Many Sri Lankans now strongly believe that the tragedy was manipulated for political gain to instil fear, incite communal violence, undermine the Muslim economy, and deepen religious divisions. Hundreds of innocent Muslims were arrested and held in prolonged detention without trial, causing immense suffering to families and communities.
+
+To this day, neither justice nor accountability has been delivered. Despite multiple commissions of inquiry, both Christian and Muslim communities have lost faith in local justice mechanisms. That is why Cardinal Ranjith’s call for an international investigation, one that guarantees transparency, fairness, and justice for all victims regardless of religion or ethnicity resonates so deeply.
+
+President Ranil Wickremesinghe, upon assuming office, promised to bring in experts from Scotland to investigate the 21/4 terrorist attack. However, a few months into his presidency, he appeared to bow to parliamentary pressure from Sri Lanka Podujana Peramuna (SLPP), abandoning this commitment.
+
+President Anura Kumara Dissanayake, unburdened by such political pressures, must now act with courage. He must pursue justice either through a credible domestic mechanism or by seeking international intervention.
+
+A vision for a united future
+
+As we remember the lives lost and the pain that continues, let us as Sri Lankans unite to build bridges of trust and understanding — and resist those who seek to divide us. Let us honour the victims not with hatred and suspicion, but by shaping a future rooted in peace, compassion, truth, and unity.
+

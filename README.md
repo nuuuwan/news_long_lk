@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-20 18:19:47**
+Last Updated **2025-04-21 06:25:13**
+
+## 2025-04-21
+
+* [Colombo Port City tax holidays rendered ineffective by global minimum tax rules](data/articles/colombo-port-city-tax-ho.3e025d88/README.md) `ft.lk`
+* [Trump’s tariff wars: Economic misfire disguised as patriotism](data/articles/trump-s-tariff-wars-econ.7d246772/README.md) `ft.lk`
+* [D-Day for Govt. to do](data/articles/d-day-for-govt-to-do.6bf74f97/README.md) `ft.lk`
+* [Forgotten justice](data/articles/forgotten-justice.bf4c20e5/README.md) `ft.lk`
+* [Trump(dis)order: Harsh tariffs rates based on wrong philosophy and wrong formula](data/articles/trump-dis-order-harsh-ta.ad0467d3/README.md) `ft.lk`
 
 ## 2025-04-18
 
