@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-21 06:25:13**
+Last Updated **2025-04-21 18:21:57**
 
 ## 2025-04-21
 
+* [AI is pushing the limits of the physical world](data/articles/ai-is-pushing-the-limits.6ab01a2d/README.md) `technologyreview.com`
 * [Colombo Port City tax holidays rendered ineffective by global minimum tax rules](data/articles/colombo-port-city-tax-ho.3e025d88/README.md) `ft.lk`
 * [Trump’s tariff wars: Economic misfire disguised as patriotism](data/articles/trump-s-tariff-wars-econ.7d246772/README.md) `ft.lk`
 * [D-Day for Govt. to do](data/articles/d-day-for-govt-to-do.6bf74f97/README.md) `ft.lk`
@@ -18,6 +19,8 @@ Last Updated **2025-04-21 06:25:13**
 * [This spa’s water is heated by bitcoin mining](data/articles/this-spa-s-water-is-heat.0e38435d/README.md) `technologyreview.com`
 * [TMVP leader Pillaiyaan’s arrest, 2019 Easter bombings and Azad Maulana’s revelations](data/articles/tmvp-leader-pillaiyaan-s.d46be58d/README.md) `ft.lk`
 * [Sri Lanka as a trading outpost](data/articles/sri-lanka-as-a-trading-o.0641376a/README.md) `ft.lk`
+* [Longevity clinics around the world are selling unproven treatments](data/articles/longevity-clinics-around.0e4817ce/README.md) `technologyreview.com`
+* [The world’s biggest space-based radar will measure Earth’s forests from orbit](data/articles/the-world-s-biggest-spac.b6c69e4e/README.md) `technologyreview.com`
 * [AKD’s ‘double pocket’ diplomacy?](data/articles/akd-s-double-pocket-dipl.1e52f664/README.md) `ft.lk`
 * [Easter Sunday six years on: Still waiting for truth, justice, and reconciliation](data/articles/easter-sunday-six-years.b9fb2590/README.md) `ft.lk`
 * [Resetting trade ties: 90-day roadmap  to resolve US-Sri Lanka tariff imbalances](data/articles/resetting-trade-ties-90.4af02867/README.md) `ft.lk`
