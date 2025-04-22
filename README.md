@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-21 18:21:57**
+Last Updated **2025-04-22 06:25:46**
+
+## 2025-04-22
+
+* [Sixth anniversary of Easter carnage](data/articles/sixth-anniversary-of-eas.6905ca56/README.md) `ft.lk`
+* [Urgent reforms required to safeguard economy and promote reconciliation: NPC](data/articles/urgent-reforms-required.04539209/README.md) `ft.lk`
+* [Fixing public finances without a chainsaw](data/articles/fixing-public-finances-w.72bb8dcc/README.md) `ft.lk`
+* [Exporters: Are you on top of your game?](data/articles/exporters-are-you-on-top.27c13c80/README.md) `ft.lk`
+* [US reciprocal tariffs and Sri Lanka’s economy](data/articles/us-reciprocal-tariffs-an.9860706a/README.md) `ft.lk`
 
 ## 2025-04-21
 
+* [AI Reasoning Models Can Help Your Company Harness Diverse Intelligence](data/articles/ai-reasoning-models-can.bd22daff/README.md) `hbr.org`
+* [How Financial Inclusion and Health Can Move More People into the Middle Class](data/articles/how-financial-inclusion.98d6e048/README.md) `hbr.org`
 * [AI is pushing the limits of the physical world](data/articles/ai-is-pushing-the-limits.6ab01a2d/README.md) `technologyreview.com`
 * [Colombo Port City tax holidays rendered ineffective by global minimum tax rules](data/articles/colombo-port-city-tax-ho.3e025d88/README.md) `ft.lk`
 * [Trump’s tariff wars: Economic misfire disguised as patriotism](data/articles/trump-s-tariff-wars-econ.7d246772/README.md) `ft.lk`

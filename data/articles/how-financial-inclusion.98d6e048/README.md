@@ -1,0 +1,52 @@
+# How Financial Inclusion and Health Can Move More People into the Middle Class
+
+[https://hbr.org/sponsored/2025/04/how-financial-inclusion-and-health-can-move-more-people-into-the-middle-class](https://hbr.org/sponsored/2025/04/how-financial-inclusion-and-health-can-move-more-people-into-the-middle-class)
+
+*03:13 PM, Monday, April 21, 2025*
+
+By Shamina Singh and Homi Kharas
+
+Much ink has been spilled over the damage of inflation, migration, demographic changes, and geopolitical tensions to the global economy. But one positive mega-trend that’s too often missing from the discussion is the rapid, mass movement of people from a state of economic vulnerability into the global middle class.
+
+Today, for the first time in history, fully half the population—more than 4 billion people—qualifies as middle class, meaning they live on incomes ranging from $12 to $120 a day. This represents a diverse economic group made up of people with vastly different lived experiences.
+
+The most dynamic and upwardly mobile individuals across Asia, Latin America, and Africa are crossing the lower threshold of middle-class status in record numbers, creating powerful upward economic momentum. More than 1.1 billion people entered the middle class during the last 10 years. An additional 1.1 billion could join them over the coming decade, World Data Lab projects (see figure 1).
+
+For the first time, this group of new entrants to the middle class—2 billion strong by 2035, four-fifths of whom will be in Asia—will have income to spend beyond basic necessities and can pursue economic and social opportunity and connection. That’s good news for the entire world.
+
+These forecasts were made before global tariffs became a focus and do not consider any implications tariffs may have on global growth and its distribution. But the forecasts reflect underlying long-term strengths and comparative advantages of regions.
+
+Growth in the Number of People in the Global Middle Class
+
+Source: World Data Pro projections by World Data Lab. Note: Middle class defined as people living in households spending $12-$120 per person per day in 2017 purchasing power parity terms.
+
+When economically vulnerable people move into the middle class, they also move from a mindset focused on minimizing risk to one of maximizing opportunity. In other words, joining the middle class marks the moment when people shift from subsistence to resilience.
+
+If public and private sector and industry leaders can help them cross this bridge—and keep them from backsliding—we can light a spark of possibility with the power to drive broad-based economic growth and enhance global economic stability.
+
+Inclusion in the Digital Economy
+
+Economically vulnerable populations around the world share a necessity for financial inclusion: basic access to the financial system. For more than a decade, governments, international organizations, philanthropies, and the private sector have come together to promote financial inclusion.
+
+A key part of this effort has been the advance of technology and digital access. Since 2014, Mastercard’s Center for Inclusive Growth has focused on connecting underbanked and un-networked communities to the benefits of the digital economy, such as access to critical services, capital, and digital tools. In a company-wide commitment to this initiative, Mastercard anticipates bringing 1 billion people into the digital economy by the end of 2025.
+
+Now, as we look ahead to the next decade, the Center for Inclusive Growth intends to evolve its strategy on financial inclusion toward broad concepts of financial security and financial health such as access to credit, emergency savings, and insurance.
+
+To promote the opportunity-maximizing mindset of the emerging middle-class for the good of the global economy, the Center and World Data Lab are analyzing the diverse economic levers that propel upward mobility into the middle class.
+
+These actions include expanding access to multiple financial services and supporting the small- and medium-sized business entrepreneurs who will provide most of the jobs for the new entrants into the middle class. The focus of this partnership will draw on insights from the U.S. as well as from Asia, where the middle class is growing fastest.
+
+Entrepreneurship is a powerful lever for driving financial inclusion. Micro-enterprises and small businesses make up more than 90% of global businesses and employ half the world’s workers. Over the last decade, Mastercard Strive, the Center’s small-business program, has helped 40 million small businesses access training, forge connections, and tap into capital as a catalyst for growth.
+
+In 2025, small and new businesses remain the key to driving impact and creating higher paying jobs at scale by engaging with the digital economy in new ways. But today, they face new threats, including cybercrime and online fraud. A Mastercard survey of more than 5,000 small and medium-sized business owners across four continents reveals that 46% have experienced a cyberattack on their current business. This represents an enormous threat to economic movers‘ ability to stay in the middle-class long term.
+
+Cybersecurity is one area where Mastercard and the Center are well positioned with resources and expertise to support small and medium-sized enterprises as they navigate the new hazards of the digital economy.
+
+When people feel vulnerable, whether in the physical world or the digital one, they often revert to protecting what they have, instead of striving for what is possible. That’s why a big, vibrant middle class that feels empowered to reach for opportunity is our most potent tool for spurring sustainable economic growth globally. And a digital environment that is both inclusive and secure is the foundation on which everything else will grow.
+
+Shamina Singh is founder and president of the Mastercard Center for Inclusive Growth and the EVP for Sustainability at Mastercard.
+
+Homi Kharas is Chief Economist and co-founder of World Data Lab and a Senior Fellow at Brookings.
+
+Learn more about Mastercard’s Center for Inclusive Growth and its programs and efforts
+
