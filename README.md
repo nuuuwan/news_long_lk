@@ -2,21 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-22 06:25:46**
+Last Updated **2025-04-22 18:22:13**
 
 ## 2025-04-22
 
+* [2019 ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்கள், பிள்ளையான் கைது,சனல் 4 தொலைக்காட்சி விவரணத் தொகுப்பில் அசாத் மௌலான வெளியிட்ட தகவல்கள் அறிக்கை.](data/articles/2019-ஈஸ-டர-ஞ-ய-ற-க-ண-ட-த.360c639d/README.md) `dbsjeyaraj.com`
 * [Sixth anniversary of Easter carnage](data/articles/sixth-anniversary-of-eas.6905ca56/README.md) `ft.lk`
 * [Urgent reforms required to safeguard economy and promote reconciliation: NPC](data/articles/urgent-reforms-required.04539209/README.md) `ft.lk`
 * [Fixing public finances without a chainsaw](data/articles/fixing-public-finances-w.72bb8dcc/README.md) `ft.lk`
 * [Exporters: Are you on top of your game?](data/articles/exporters-are-you-on-top.27c13c80/README.md) `ft.lk`
+* [“There can be no peace without freedom of religion, freedom of thought, freedom of expression and respect for the views of others.Nor is peace possible without true disarmament! – 2025 Easter Message From Pope Francis](data/articles/there-can-be-no-peace-w.697d3714/README.md) `dbsjeyaraj.com`
 * [US reciprocal tariffs and Sri Lanka’s economy](data/articles/us-reciprocal-tariffs-an.9860706a/README.md) `ft.lk`
+* [“Trump Action”: Sword of Damocles on Sri Lankan labour market](data/articles/trump-action-sword-of-d.1dc8a6a0/README.md) `ft.lk`
+* [Tamil politicians are again simply resorting to utopian nationalist slogans with no interest in changing their hitherto held political stance. Their future as Tamil nationalists are at stake at the Local Government Elections.](data/articles/tamil-politicians-are-ag.e06d0771/README.md) `dbsjeyaraj.com`
 
 ## 2025-04-21
 
 * [AI Reasoning Models Can Help Your Company Harness Diverse Intelligence](data/articles/ai-reasoning-models-can.bd22daff/README.md) `hbr.org`
 * [How Financial Inclusion and Health Can Move More People into the Middle Class](data/articles/how-financial-inclusion.98d6e048/README.md) `hbr.org`
 * [AI is pushing the limits of the physical world](data/articles/ai-is-pushing-the-limits.6ab01a2d/README.md) `technologyreview.com`
+* [Yahoo will give millions to a settlement fund for Chinese dissidents, decades after exposing user data](data/articles/yahoo-will-give-millions.b6addfab/README.md) `technologyreview.com`
 * [Colombo Port City tax holidays rendered ineffective by global minimum tax rules](data/articles/colombo-port-city-tax-ho.3e025d88/README.md) `ft.lk`
 * [Trump’s tariff wars: Economic misfire disguised as patriotism](data/articles/trump-s-tariff-wars-econ.7d246772/README.md) `ft.lk`
 * [D-Day for Govt. to do](data/articles/d-day-for-govt-to-do.6bf74f97/README.md) `ft.lk`
