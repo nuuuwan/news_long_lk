@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-22 18:22:13**
+Last Updated **2025-04-23 06:25:16**
+
+## 2025-04-23
+
+* [Parate execution: Expiry  of suspension and the way forward](data/articles/parate-execution-expiry.def89758/README.md) `ft.lk`
+* [Building a China-Sri Lanka community with a shared future](data/articles/building-a-china-sri-lan.4997057f/README.md) `ft.lk`
+* [From catwalk to crossroads: Apparel industry’s new challenge](data/articles/from-catwalk-to-crossroa.8c790da5/README.md) `ft.lk`
+* [Alternatives to Booking.com: Understanding platform economics](data/articles/alternatives-to-booking.b3a0d95a/README.md) `ft.lk`
+* [Taxing digital giants](data/articles/taxing-digital-giants.6a2cd63b/README.md) `ft.lk`
 
 ## 2025-04-22
 
+* [Global trade drops sharply amid soaring tariffs](data/articles/global-trade-drops-sharp.a6d04849/README.md) `eiu.com`
 * [2019 ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்கள், பிள்ளையான் கைது,சனல் 4 தொலைக்காட்சி விவரணத் தொகுப்பில் அசாத் மௌலான வெளியிட்ட தகவல்கள் அறிக்கை.](data/articles/2019-ஈஸ-டர-ஞ-ய-ற-க-ண-ட-த.360c639d/README.md) `dbsjeyaraj.com`
 * [Sixth anniversary of Easter carnage](data/articles/sixth-anniversary-of-eas.6905ca56/README.md) `ft.lk`
 * [Urgent reforms required to safeguard economy and promote reconciliation: NPC](data/articles/urgent-reforms-required.04539209/README.md) `ft.lk`
