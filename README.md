@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-24 06:25:39**
+Last Updated **2025-04-24 18:22:34**
 
 ## 2025-04-24
 
+* [The vibes are shifting for US climate tech](data/articles/the-vibes-are-shifting-f.9df9a598/README.md) `technologyreview.com`
 * [Lanka loses balance, direction: Chooses Indo-US orbit, not Asian alternative](data/articles/lanka-loses-balance-dire.f4819f1a/README.md) `ft.lk`
 * [Test of integrity: Mahara Mosque and NPP’s promise](data/articles/test-of-integrity-mahara.c9022541/README.md) `ft.lk`
 * [Let’s lean on science always and certainly with monkeys too](data/articles/let-s-lean-on-science-al.9d9f8851/README.md) `ft.lk`
@@ -39,7 +40,9 @@ Last Updated **2025-04-24 06:25:39**
 * [AI Reasoning Models Can Help Your Company Harness Diverse Intelligence](data/articles/ai-reasoning-models-can.bd22daff/README.md) `hbr.org`
 * [How Financial Inclusion and Health Can Move More People into the Middle Class](data/articles/how-financial-inclusion.98d6e048/README.md) `hbr.org`
 * [AI is pushing the limits of the physical world](data/articles/ai-is-pushing-the-limits.6ab01a2d/README.md) `technologyreview.com`
+* [The quest to build islands with ocean currents in the Maldives](data/articles/the-quest-to-build-islan.e6dfded4/README.md) `technologyreview.com`
 * [Yahoo will give millions to a settlement fund for Chinese dissidents, decades after exposing user data](data/articles/yahoo-will-give-millions.b6addfab/README.md) `technologyreview.com`
+* [$8 billion of US climate tech projects have been canceled so far in 2025](data/articles/8-billion-of-us-climate.2028ffe4/README.md) `technologyreview.com`
 * [Colombo Port City tax holidays rendered ineffective by global minimum tax rules](data/articles/colombo-port-city-tax-ho.3e025d88/README.md) `ft.lk`
 * [Trump’s tariff wars: Economic misfire disguised as patriotism](data/articles/trump-s-tariff-wars-econ.7d246772/README.md) `ft.lk`
 * [D-Day for Govt. to do](data/articles/d-day-for-govt-to-do.6bf74f97/README.md) `ft.lk`

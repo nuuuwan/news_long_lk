@@ -1,5 +1,12 @@
 [
   {
+    "title": "The vibes are shifting for US climate tech",
+    "url": "https://www.technologyreview.com/2025/04/24/1115718/climate-tech-investments-trump/",
+    "ut": 1745454600.0,
+    "dir_path_unix": "data/articles/the-vibes-are-shifting-f.9df9a598",
+    "time_str_formatted": "06:00 AM, Thursday, April 24, 2025"
+  },
+  {
     "title": "Lanka loses balance, direction: Chooses Indo-US orbit, not Asian alternative",
     "url": "https://www.ft.lk/columns/Lanka-loses-balance-direction-Chooses-Indo-US-orbit-not-Asian-alternative/4-775780",
     "ut": 1745453240.0,
@@ -168,10 +175,24 @@
     "time_str_formatted": "06:00 AM, Monday, April 21, 2025"
   },
   {
+    "title": "The quest to build islands with ocean currents in the Maldives",
+    "url": "https://www.technologyreview.com/2025/04/21/1114759/maldives-erosion-climate-dredging/",
+    "ut": 1745191800.0,
+    "dir_path_unix": "data/articles/the-quest-to-build-islan.e6dfded4",
+    "time_str_formatted": "05:00 AM, Monday, April 21, 2025"
+  },
+  {
     "title": "Yahoo will give millions to a settlement fund for Chinese dissidents, decades after exposing user data",
     "url": "https://www.technologyreview.com/2025/04/21/1115518/yahoo-will-give-millions-to-a-settlement-fund-for-chinese-dissidents-decades-after-exposing-user-data/",
     "ut": 1745191800.0,
     "dir_path_unix": "data/articles/yahoo-will-give-millions.b6addfab",
+    "time_str_formatted": "05:00 AM, Monday, April 21, 2025"
+  },
+  {
+    "title": "$8 billion of US climate tech projects have been canceled so far in 2025",
+    "url": "https://www.technologyreview.com/2025/04/21/1115511/canceled-climate-tech-projects/",
+    "ut": 1745191800.0,
+    "dir_path_unix": "data/articles/8-billion-of-us-climate.2028ffe4",
     "time_str_formatted": "05:00 AM, Monday, April 21, 2025"
   },
   {
