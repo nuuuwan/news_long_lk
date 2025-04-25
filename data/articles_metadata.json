@@ -1,5 +1,40 @@
 [
   {
+    "title": "The People\u2019s Pope: Legacy of humility and reform",
+    "url": "https://www.ft.lk/columns/The-People-s-Pope-Legacy-of-humility-and-reform/4-775834",
+    "ut": 1745535023.0,
+    "dir_path_unix": "data/articles/the-people-s-pope-legacy.5977fc70",
+    "time_str_formatted": "04:20 AM, Friday, April 25, 2025"
+  },
+  {
+    "title": "Enhancing Sri Lanka\u2019s proposal for differently-abled children through inclusive education",
+    "url": "https://www.ft.lk/columns/Enhancing-Sri-Lanka-s-proposal-for-differently-abled-children-through-inclusive-education/4-775833",
+    "ut": 1745534413.0,
+    "dir_path_unix": "data/articles/enhancing-sri-lanka-s-pr.59846515",
+    "time_str_formatted": "04:10 AM, Friday, April 25, 2025"
+  },
+  {
+    "title": "Businesspersons: Better leaders of internal audit than professional accountants",
+    "url": "https://www.ft.lk/columns/Businesspersons-Better-leaders-of-internal-audit-than-professional-accountants/4-775813",
+    "ut": 1745527581.0,
+    "dir_path_unix": "data/articles/businesspersons-better-l.dd58a474",
+    "time_str_formatted": "02:16 AM, Friday, April 25, 2025"
+  },
+  {
+    "title": "Easter bombings conspiracy theories and importance of Azad Maulana\u2019s testimony",
+    "url": "https://www.ft.lk/columns/Easter-bombings-conspiracy-theories-and-importance-of-Azad-Maulana-s-testimony/4-775811",
+    "ut": 1745523530.0,
+    "dir_path_unix": "data/articles/easter-bombings-conspira.db7837f5",
+    "time_str_formatted": "01:08 AM, Friday, April 25, 2025"
+  },
+  {
+    "title": "How Knowledge Mismanagement is Costing Your Company Millions",
+    "url": "https://hbr.org/sponsored/2025/04/how-knowledge-mismanagement-is-costing-your-company-millions",
+    "ut": 1745492827.0,
+    "dir_path_unix": "data/articles/how-knowledge-mismanagem.8b023c5b",
+    "time_str_formatted": "04:37 PM, Thursday, April 24, 2025"
+  },
+  {
     "title": "The vibes are shifting for US climate tech",
     "url": "https://www.technologyreview.com/2025/04/24/1115718/climate-tech-investments-trump/",
     "ut": 1745454600.0,
@@ -75,6 +110,20 @@
     "ut": 1745349712.0,
     "dir_path_unix": "data/articles/taxing-digital-giants.6a2cd63b",
     "time_str_formatted": "12:51 AM, Wednesday, April 23, 2025"
+  },
+  {
+    "title": "Renewed US controls on AI chips for China could backfire",
+    "url": "https://www.eiu.com/n/renewed-us-controls-on-ai-chips-for-china-could-backfire/",
+    "ut": 1745319721.0,
+    "dir_path_unix": "data/articles/renewed-us-controls-on-a.e67a2a46",
+    "time_str_formatted": "04:32 PM, Tuesday, April 22, 2025"
+  },
+  {
+    "title": "Xi\u2019s ASEAN visit signals China\u2019s aim for closer ties",
+    "url": "https://www.eiu.com/n/xis-asean-visit-signals-chinas-aim-for-closer-ties/",
+    "ut": 1745310600.0,
+    "dir_path_unix": "data/articles/xi-s-asean-visit-signals.7732f525",
+    "time_str_formatted": "02:00 PM, Tuesday, April 22, 2025"
   },
   {
     "title": "Global trade drops sharply amid soaring tariffs",
@@ -306,6 +355,13 @@
     "ut": 1744891998.0,
     "dir_path_unix": "data/articles/what-type-of-corporate-v.45e9fa92",
     "time_str_formatted": "05:43 PM, Thursday, April 17, 2025"
+  },
+  {
+    "title": "Israel and Turkey look to de-escalate in Syria",
+    "url": "https://www.eiu.com/n/israel-and-turkey-look-to-de-escalate-in-syria/",
+    "ut": 1744888285.0,
+    "dir_path_unix": "data/articles/israel-and-turkey-look-t.d584c9e7",
+    "time_str_formatted": "04:41 PM, Thursday, April 17, 2025"
   },
   {
     "title": "A Google Gemini model now has a \u201cdial\u201d to adjust how much it reasons",

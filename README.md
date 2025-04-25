@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-24 18:22:34**
+Last Updated **2025-04-25 06:25:48**
+
+## 2025-04-25
+
+* [The People’s Pope: Legacy of humility and reform](data/articles/the-people-s-pope-legacy.5977fc70/README.md) `ft.lk`
+* [Enhancing Sri Lanka’s proposal for differently-abled children through inclusive education](data/articles/enhancing-sri-lanka-s-pr.59846515/README.md) `ft.lk`
+* [Businesspersons: Better leaders of internal audit than professional accountants](data/articles/businesspersons-better-l.dd58a474/README.md) `ft.lk`
+* [Easter bombings conspiracy theories and importance of Azad Maulana’s testimony](data/articles/easter-bombings-conspira.db7837f5/README.md) `ft.lk`
 
 ## 2025-04-24
 
+* [How Knowledge Mismanagement is Costing Your Company Millions](data/articles/how-knowledge-mismanagem.8b023c5b/README.md) `hbr.org`
 * [The vibes are shifting for US climate tech](data/articles/the-vibes-are-shifting-f.9df9a598/README.md) `technologyreview.com`
 * [Lanka loses balance, direction: Chooses Indo-US orbit, not Asian alternative](data/articles/lanka-loses-balance-dire.f4819f1a/README.md) `ft.lk`
 * [Test of integrity: Mahara Mosque and NPP’s promise](data/articles/test-of-integrity-mahara.c9022541/README.md) `ft.lk`
@@ -23,6 +31,8 @@ Last Updated **2025-04-24 18:22:34**
 
 ## 2025-04-22
 
+* [Renewed US controls on AI chips for China could backfire](data/articles/renewed-us-controls-on-a.e67a2a46/README.md) `eiu.com`
+* [Xi’s ASEAN visit signals China’s aim for closer ties](data/articles/xi-s-asean-visit-signals.7732f525/README.md) `eiu.com`
 * [Global trade drops sharply amid soaring tariffs](data/articles/global-trade-drops-sharp.a6d04849/README.md) `eiu.com`
 * [EIU leads the 2025 FocusEconomics Analyst Forecast Awards for the Monetary Sector](data/articles/eiu-leads-the-2025-focus.cf92c467/README.md) `eiu.com`
 * [2019 ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்கள், பிள்ளையான் கைது,சனல் 4 தொலைக்காட்சி விவரணத் தொகுப்பில் அசாத் மௌலான வெளியிட்ட தகவல்கள் அறிக்கை.](data/articles/2019-ஈஸ-டர-ஞ-ய-ற-க-ண-ட-த.360c639d/README.md) `dbsjeyaraj.com`
@@ -65,6 +75,7 @@ Last Updated **2025-04-24 18:22:34**
 ## 2025-04-17
 
 * [What Type of Corporate Venture Builder Are You?](data/articles/what-type-of-corporate-v.45e9fa92/README.md) `hbr.org`
+* [Israel and Turkey look to de-escalate in Syria](data/articles/israel-and-turkey-look-t.d584c9e7/README.md) `eiu.com`
 * [A Google Gemini model now has a “dial” to adjust how much it reasons](data/articles/a-google-gemini-model-no.faadb246/README.md) `technologyreview.com`
 * [These four charts sum up the state of AI and energy](data/articles/these-four-charts-sum-up.791d1661/README.md) `technologyreview.com`
 * [How a 1980s toy robot arm inspired modern robotics](data/articles/how-a-1980s-toy-robot-ar.7839fd2f/README.md) `technologyreview.com`
