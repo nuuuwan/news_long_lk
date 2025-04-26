@@ -1,0 +1,30 @@
+# Climate finance and new Fund for Responding to Loss and Damage
+
+[https://www.ft.lk/columns/Climate-finance-and-new-Fund-for-Responding-to-Loss-and-Damage/4-775849](https://www.ft.lk/columns/Climate-finance-and-new-Fund-for-Responding-to-Loss-and-Damage/4-775849)
+
+*11:48 PM, Friday, April 25, 2025*
+
+The Fund for Responding to Loss and Damage aims to support countries and communities in developing and implementing effective responses to climate-induced loss and damage
+
+Climate-induced loss and damage comes in a multitude of forms and is often highly localised and context-specific. For example, it includes direct damages to infrastructure, properties, and livelihoods caused by extreme weather events and other climate-related disasters. In addition to such economic impacts—which also encompass reduced productivity, costs of recovery and reconstruction, or opportunity costs—, climatic events and long-term changes can cause a variety of non-economic losses which are harder to quantify in monetary terms, such as loss of health, loss of life, degradation of ecosystem services, or cultural loss, including tangible and intangible cultural heritage.
+
+Climate-induced loss and damage has long been a topic in the multilateral climate negotiations, which recently resulted in the establishment of a dedicated Fund for Responding to Loss and Damage. This fund was established in 2022 and 2023 and is now in the process of full operationalisation, with its secretariat hosted under the World Bank and situated in the Philippines. So far, the board of the fund has met five times: four times in 2024 and now for the first time in 2025 during a three-day meeting in Bridgetown, Barbados from 8-10 April, 2025.
+
+Climate finance and loss and damage
+
+Especially for climate-vulnerable developing countries, loss and damage can cause significant costs and put an additional strain on national and local budgets and resources. The Fund for Responding to Loss and Damage aims to reduce this strain and support countries and communities in developing and implementing effective responses to unavoidable or unavoided climate change impacts. As of now, a total of $ 765 million has been pledged to the fund for this purpose.
+
+As a key year for climate finance, 2024 saw the establishment of a new global goal for climate finance, which sets an amount of “at least USD 300 billion per year by 2035” as the new target and calls on all actors to scale up climate finance for developing countries to “at least USD 1.3 trillion per year by 2035.” While the decision text does not explicitly refer to the fund, it acknowledges “the need for public and grant-based resources and highly concessional finance, particularly for adaptation and responding to loss and damage in developing country Parties” as well as “the need for urgent and enhanced action and support for averting, minimising and addressing loss and damage associated with climate change impacts.”
+
+The state of play: After Barbados, before Bonn
+
+At the recent meeting in Barbados, the board of the Fund for Responding to Loss and Damage made several important decisions towards the further operationalisation of the fund. First off, it decided on a strategy and rules for the delivery of funding during a start-up phase until end of 2026, which will be called the “Barbados Implementation Modalities.” During this period, the fund aims to spend a total of $ 250 million to strengthen national responses to climate impacts, with grants—not loans—between $ 5-20 million for project proposals submitted by developing countries. Furthermore, developing countries will be able to receive direct budget support for emergency responses to disasters. It was also decided that at least 50% of the fund’s capital would go to small island developing states (SIDS) and least developed countries (LDCs), with the other half to be distributed among other developing countries.
+
+Other matters decided at the board meeting include the organisational structure of the (interim) secretariat, its workplan and administrative budget, as well as dates and venues for upcoming board meetings. Key areas that are yet to be further explored include access to funding at the local or community level; the role of other climate funds (such as the Green Climate Fund or the Global Environment Facility) in relation to the Fund for Responding to Loss and Damage; and more long-term modalities beyond 2026.
+
+Addressing climate-induced loss and damage is a serious challenge for developing countries, who are often already facing constrained fiscal spaces and insufficient resources for climate action, disaster response, and risk management. Both economic and non-economic losses and damages affect communities, economies, and societies around the globe in profound ways that are long-lasting, cascading, or even irreversible. It is therefore imperative to provide them with the resources to effectively respond to these impacts and support protection, relief, recovery, reconstruction, and a range of other relevant measures.
+
+While it is still early days, the operationalisation of the Fund for Responding to Loss and Damage is making steady progress, with the potential to approve the first proposals during upcoming board meetings. The Barbados Implementation Modalities present a step towards loss and damage funding reaching countries and communities at the frontlines of the climate crisis and heightening the prominence of this issue within the broader landscape of climate finance, which so far has focused mostly on climate change mitigation and—at a smaller scale—adaptation.
+
+(The writer works as Director: Research & Knowledge Management at SLYCAN Trust, a non-profit think tank. His work focuses on climate change, adaptation, resilience, ecosystem conservation, just transition, human mobility, and a range of related issues. He holds a Master’s degree in Education from the University of Cologne, Germany and is a regular contributor to several international and local media outlets.)
+

@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-25 18:22:08**
+Last Updated **2025-04-26 06:25:47**
 
 ## 2025-04-25
 
+* [2025 Local Government Election and future of local governance](data/articles/2025-local-government-el.77e70c43/README.md) `ft.lk`
+* [Govt.’s Easter ‘rabbit  out of a hat’ leg-pull](data/articles/govt-s-easter-rabbit-out.94281bd5/README.md) `ft.lk`
+* [Climate finance and new Fund for Responding to Loss and Damage](data/articles/climate-finance-and-new.e7c2294c/README.md) `ft.lk`
 * [The People’s Pope: Legacy of humility and reform](data/articles/the-people-s-pope-legacy.5977fc70/README.md) `ft.lk`
 * [Enhancing Sri Lanka’s proposal for differently-abled children through inclusive education](data/articles/enhancing-sri-lanka-s-pr.59846515/README.md) `ft.lk`
 * [Businesspersons: Better leaders of internal audit than professional accountants](data/articles/businesspersons-better-l.dd58a474/README.md) `ft.lk`
