@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-27 18:19:46**
+Last Updated **2025-04-28 06:26:08**
+
+## 2025-04-28
+
+* [Hurray for hierarchy](data/articles/hurray-for-hierarchy.dea17961/README.md) `ft.lk`
+* [China: A more trustworthy partner](data/articles/china-a-more-trustworthy.d86d8ed0/README.md) `ft.lk`
+* [Budget 2025: Expectations galore with 76 years of waiting](data/articles/budget-2025-expectations.b6be9e14/README.md) `ft.lk`
+
+## 2025-04-27
+
+* [Trump(dis)order: Worst is not attack on Fed Chair Jerome Powell but weakening strength of US institutions](data/articles/trump-dis-order-worst-is.cdba4ecf/README.md) `ft.lk`
 
 ## 2025-04-26
 

@@ -1,0 +1,64 @@
+# Hurray for hierarchy
+
+[https://www.ft.lk/columns/Hurray-for-hierarchy/4-775920](https://www.ft.lk/columns/Hurray-for-hierarchy/4-775920)
+
+*04:15 AM, Monday, April 28, 2025*
+
+One of the last blessings of Pope Francis
+
+On Easter Sunday, I was so touched by the brief yet beautiful blessing of Pope Francis. He appeared in his wheelchair and declared “Buona Pasqua!” (Happy Easter!). I did not expect to write this column so early as I was so pleased to see his miraculous recovery. Once again, it showed us the uncertainty and unpredictability of life. Today’s column is not to repeat what was already mentioned about the blessed life of Pope Francis but to pay my meagre tribute to him through the column of “humane results”.
+
+I recall seeing Pope Francis physically at close distance when he visited Sri Lanka from 13 to 15 January 2015. My late son was a member of the children’s choir who sang the welcome song at the airport. I still remember the solemn moment of the canonisation of Blessed Joseph Vaz, as the first Catholic Saint of Sri Lanka. The glimpses of the “pro-people” Pope with fitting humility and simplicity are still lingering in my mind.
+
+Pope Francis inherited one of the world’s oldest hierarchies. The experts say there are only two consistent longstanding hierarchies in the world. One is military. The other is the Catholic Church. It is opportune time to look at the details of the latter.
+
+According to dictionary definitions, hierarchy is any system of persons or things ranked one above another. It is also a way of governance. It can further be described as an organised body of ecclesiastical officials in successive ranks or orders. It origins from the Greek term hierarches, meaning “leader of sacred rites”.
+
+A hierarchy can link entities either directly or indirectly, and either vertically or horizontally. It connects subordinates to superiors showing the reporting relationships. It is a vital part of the broad managerial pillar called organising.
+
+Organising is important because it follows the management function of planning. Planning and strategy define what to do; organising defines how to do it. Organisation structure is a tool that managers use to harness resources for getting things accomplished. It can also be described as the deployment of organisational resources to achieve strategic goals.
+
+This is reflected in the organisation’s division of labor into specific departments and jobs, formal lines of authority, and mechanisms for coordinating diverse organisation tasks. Work specialisation, sometimes called division of labor, is the degree to which organisational tasks are subdivided into separate jobs.
+
+Centralisation and decentralisation pertain to the hierarchical level at which decisions are made. Centralisation means that decision authority is located near the top of the organisation. With decentralisation, decision authority is pushed downward to lower organisation levels. In the Catholic Church, a heavy focus on centralisation can be seen, with Rome playing a dominant role.
+
+Hierarchy in the Catholic Church
+
+The Catholic Church describes as its hierarchy its bishops, priests, and deacons. In the Church context, which is commonly referred to as the ecclesiastical context, the term “hierarchy” commonly means the body of persons who exercise authority within a Christian church. In the Catholic Church, authority rests chiefly with the bishops, while priests and deacons serve as their assistants, co-workers, or helpers.
+
+The Catholic Church comprised, more than 3,500 dioceses, each overseen by a bishop. Dioceses are divided into individual communities called parishes, each staffed by one or more priests. Priests may be assisted by deacons. All clergy, including deacons, priests, and bishops, may preach, teach, baptise, witness marriages, and conduct funeral liturgies. Only priests and bishops can celebrate the sacraments of the Eucharist (though others may be ministers of Holy Communion), Reconciliation (Penance), Confirmation (priests may administer this sacrament with prior ecclesiastical approval), and Anointing of the Sick. Only bishops can administer the sacrament of Holy Orders, which ordains someone into the clergy.
+
+The common understanding is that everyone who is “baptised” is a part of Catholic Church. For the sake of categorisation and clarity, it becomes necessary to segregate these people associated with the church into groups and reporting relationships.
+
+Liturgical ranks range downward: Bishop, Priest, and Deacon. Only a bishop may administer the Sacrament of Holy Orders and is the preferred minister of the Sacrament of Confirmation. He is the only one empowered to absolve someone who is under excommunication for abortion. A priest may administer the other five, and Confirmation under special circumstances. A Deacon may assist in the Mass, parish duties, and preach the Gospel.
+
+The chain of command essentially is an unbroken line of authority that links all people in an organisation and shows who reports to whom. The span of management is the number of employees reporting to a supervisor. Sometimes called the span of control, this characteristic of structure determines how closely a supervisor can monitor subordinates. The average span of control used in an organisation determines whether the structure is tall or flat. A tall structure has an overall narrow span and more hierarchical levels. A flat structure has a wide span, is horizontally dispersed, and has fewer hierarchical levels.
+
+As we know, Pope is the head of the church, based at the Vatican. Catholics believe that the pope is infallible in defining matters of faith and morals. The College of Cardinals, more formally the Sacred College of Cardinals, is the body of all cardinals of the Catholic Church. As of 21 April 2025, there are 252 cardinals, of whom 135 are eligible to vote in a conclave to elect a new pope. Archbishop is a bishop of a main or metropolitan diocese, also called an archdiocese. A cardinal can concurrently hold the title.
+
+A bishop, like a priest, is ordained to a particular station. He is a teacher of church doctrine, a priest of sacred worship, and a minister of church government. Priest is an ordained minister who can administer most of the sacraments, including the Eucharist, baptism, and marriage. He can be with a particular religious order or committed to serving a congregation. A Deacon can be either transitional or other. A transitional Deacon is a seminarian studying for the priesthood. A permanent deacon can be married and assists a priest by performing some of the sacraments.
+
+The laity obviously comprises the vast majority. According to the Center for the Study of Global Christianity, Gordon-Conwell Theological Seminary, as of May 2024, Christian total 2,631,941,000 and Catholic total 1,278,009,000 (48.6%) around the globe. In fact, one out of every six in the world is a Roman Catholic. They are guided by the approach some often describe as “pray, pay and obey.”
+
+Features of hierarchy in Catholic Church
+
+I am aware of the sensitivity of the subject. What I did was to refer to the online sources referring to Modern Catholic Dictionary by Rev. John A. Hardon, S.J. According to him, the real head of Catholic Church is Jesus Christ. Pope is the physical manifestation of him.
+
+The first Pope is well known as St. Peter. Current Pope is the successor of the early apostles of Christ. Three powers are included under the Catholic hierarchy: teaching, pastoral, and sacerdotal. They correspond to the threefold office laid on Christ as man for the redemption of the world; the office of prophet or teacher, the pastoral or royal office of ruler, and the priestly office of sanctifying the faithful.
+
+As the above document further explains, Jesus transferred this threefold office, with the corresponding powers, to the Apostles and their successors. A man enters the hierarchy by episcopal ordination when he receives the fullness of the priesthood. But he depends on collegial union with the Bishop of Rome and the rest of the Catholic hierarchy for actually being able to exercise the two other powers of teaching divine truth and of legitimately ruling the believers under his authority.
+
+Managerial highlights of Catholic hierarchy
+
+As one of my academic colleagues based in the UK remarked, God is much more useful than thousands of CCTVs, being omnipotent and omnipresent. The key controlling factor is the fear of God and adherence to the doctrines. Thus, from outside, it may appear that faith-based controlling works very well in the Catholic Church. However, with a deep sense of experience, the followers of Christ should not think so.
+
+As in the case of many hierarchies, it has its inherent shortcomings as well. Geographical diversity with associated complexities makes it difficult to cater for a changing world. The ongoing debate between ‘pro-life” (anti-abortion) and “pro-choice” (for-abortion) groups is an example how Church faces a challenging time with regard to maintaining a balance traditions and modernity. Its male-dominant nature with no apparent provision for women priesthood is another often criticised aspect.
+
+For me it is paradoxical, as Catholic Church pays highest homage to Mary, the mother of Jesus and invites people to “come to her.” Such a maternal or feminine appeal should result in more scope for women to collaborate and contribute. Of course, we have glorious women of Mother Theresa’s fame, who silently devoted their lives for the betterment of humanity.
+
+Catholic Church is once again in a crucial juncture. I remember watching the movie, “Conclave” recently. The film directed by Edward Berger and written by Peter Straughan, based on the 2016 novel by Robert Harris, highlights the dynamics and turbulences involved in electing or selecting a new Pope. Despite issues, scandals and controversies, the Catholic Church has sustained itself for 2025 years. With its clear mission of “glorifying God on earth”, the church will move along, now with a newly anointed leadership.
+
+We at Sri Lanka with 7% Catholic population would hope to see the next Pope to be a truly a servant leader in thoughts, words, and deeds, in justly heading an age-old hierarchy.
+
+(The writer, a Senior Professor in Management, and an Independent Non-executive Director, can be reached at [email protected], [email protected] or www.ajanthadharmasiri.info.)
+
