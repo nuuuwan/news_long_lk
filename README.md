@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-28 06:26:08**
+Last Updated **2025-04-28 18:22:56**
 
 ## 2025-04-28
 
@@ -13,6 +13,7 @@ Last Updated **2025-04-28 06:26:08**
 ## 2025-04-27
 
 * [Trump(dis)order: Worst is not attack on Fed Chair Jerome Powell but weakening strength of US institutions](data/articles/trump-dis-order-worst-is.cdba4ecf/README.md) `ft.lk`
+* [முன்னாள் மன்னார் கத்தோலிக்க ஆயர்  இராயப்பு யோசப் ;பாதகமான சூழ்நிலைக்கு மத்தியிலும் விளைவுகளைப் பொருட்படுத்தாமல்  அதிகாரத்துக்கு உண்மையை உரைத்த குரலற்றவர்களின் குரல்](data/articles/ம-ன-ன-ள-மன-ன-ர-கத-த-ல-க.070514c4/README.md) `dbsjeyaraj.com`
 
 ## 2025-04-26
 
@@ -23,6 +24,7 @@ Last Updated **2025-04-28 06:26:08**
 * [2025 Local Government Election and future of local governance](data/articles/2025-local-government-el.77e70c43/README.md) `ft.lk`
 * [Govt.’s Easter ‘rabbit  out of a hat’ leg-pull](data/articles/govt-s-easter-rabbit-out.94281bd5/README.md) `ft.lk`
 * [Climate finance and new Fund for Responding to Loss and Damage](data/articles/climate-finance-and-new.e7c2294c/README.md) `ft.lk`
+* [Sweeping tariffs could threaten the US manufacturing rebound](data/articles/sweeping-tariffs-could-t.078997f7/README.md) `technologyreview.com`
 * [The People’s Pope: Legacy of humility and reform](data/articles/the-people-s-pope-legacy.5977fc70/README.md) `ft.lk`
 * [Enhancing Sri Lanka’s proposal for differently-abled children through inclusive education](data/articles/enhancing-sri-lanka-s-pr.59846515/README.md) `ft.lk`
 * [Businesspersons: Better leaders of internal audit than professional accountants](data/articles/businesspersons-better-l.dd58a474/README.md) `ft.lk`
@@ -52,6 +54,7 @@ Last Updated **2025-04-28 06:26:08**
 * [Xi’s ASEAN visit signals China’s aim for closer ties](data/articles/xi-s-asean-visit-signals.7732f525/README.md) `eiu.com`
 * [Global trade drops sharply amid soaring tariffs](data/articles/global-trade-drops-sharp.a6d04849/README.md) `eiu.com`
 * [EIU leads the 2025 FocusEconomics Analyst Forecast Awards for the Monetary Sector](data/articles/eiu-leads-the-2025-focus.cf92c467/README.md) `eiu.com`
+* [Generative AI is reshaping South Korea’s webcomics industry](data/articles/generative-ai-is-reshapi.2731bd8c/README.md) `technologyreview.com`
 * [2019 ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்கள், பிள்ளையான் கைது,சனல் 4 தொலைக்காட்சி விவரணத் தொகுப்பில் அசாத் மௌலான வெளியிட்ட தகவல்கள் அறிக்கை.](data/articles/2019-ஈஸ-டர-ஞ-ய-ற-க-ண-ட-த.360c639d/README.md) `dbsjeyaraj.com`
 * [Sixth anniversary of Easter carnage](data/articles/sixth-anniversary-of-eas.6905ca56/README.md) `ft.lk`
 * [Urgent reforms required to safeguard economy and promote reconciliation: NPC](data/articles/urgent-reforms-required.04539209/README.md) `ft.lk`
