@@ -1,0 +1,176 @@
+# Trade wars, tariffs, and us in Sri Lanka
+
+[https://www.ft.lk/columns/Trade-wars-tariffs-and-us-in-Sri-Lanka/4-775938](https://www.ft.lk/columns/Trade-wars-tariffs-and-us-in-Sri-Lanka/4-775938)
+
+*01:26 AM, Tuesday, April 29, 2025*
+
+Revered in the US for quality and ethical manufacturing, the “Made in Sri Lanka” label still commands respect, but respect alone may not be enough
+
+This article is based on a discussion held at the LEADS forum
+
+By Chula Goonasekera, Bernard Fernando, Gratian Peiris, Shehan Malaka Gamage
+
+As global trade tensions escalate—driven by tariff wars and shifting geopolitical alliances—Sri Lanka faces disproportionate exposure due to its limited scale, high import dependency, and fragile fiscal state. This document analyses the economic fallout of the US–China trade war, examines Sri Lanka’s unique vulnerabilities, and proposes bold mitigation strategies ranging from trade route re-routing and FTA negotiations to internal industrial revival, export diversification, and tech-driven transformation. With disciplined implementation and strategic diplomacy, Sri Lanka can weather current storms and reshape its role in the global economy.
+
+The world’s two largest economies are locked in an escalating, unpredictable trade war, tearing down long-standing rules that once stabilised global commerce and shielded smaller nations like ours. With just over 21 million population, we are a mere ‘dot’ on the world map, dwarfed by China, India, and the US. Our limited production capacity and purchasing power leave us dangerously exposed. In this storm stirred by economic giants, our small vessel risks capsizing.
+
+Reducing our reliance on foreign exchange is critical, but easier said than done. To survive, we must understand the global trade conflict thoroughly. Only then can we build the resilience we need, take proactive steps, and transform ourselves into a sturdier vessel—capable of weathering even the fiercest economic storms.
+
+Sri Lanka is highly debt-vulnerable. A large portion of our restructured loans is due for repayment in 2028, which is just around the corner in economic terms. We’re running out of time.
+
+We cannot afford more short-sighted, self-serving decisions. That path only guarantees deeper hardship for future generations. The current upheaval, sparked by US tariffs under the Trump administration, delivers a sobering message: we are dangerously exposed in a world of economic warfare. Internal instability and financial mismanagement only amplify public anxiety.
+
+Having endured scandals in the stock and bond markets, we must now be vigilant. As ordinary citizens and taxpayers, we shoulder the cost of every economic misstep.
+
+We need to understand tariffs and their role in global trade to respond wisely. Reciprocal tariffs are duties imposed in response to a partner nation’s existing trade barriers. In our case, the US has levied a 34% reciprocal tariff, citing what it claims is an average 88% tax on American goods entering Sri Lanka. The aim? To pressure us to reduce our own barriers.
+
+Additionally, the US has imposed a flat 10% ad valorem tariff on all foreign goods. This means facing the base 10% tariff and the 34% reciprocal rate for Sri Lankan exporters, though the latter is currently under a temporary 90-day suspension. These tariffs raise consumer prices, increase production costs for importers of raw materials, and strain the fragile global supply chains that support our industries.
+
+In 2024, bilateral trade in goods between the US and Sri Lanka hit $ 3.4 billion. US exports to Sri Lanka rose by 4.9% to $ 368.2 million, while imports from Sri Lanka grew 6.1% to $ 3 billion. The US remains one of our most important trading partners, absorbing 23% of our total exports. The UK ranks close behind.
+
+Yet the broader US-China conflict has already reshaped global trade routes, leaving countries like ours more vulnerable than ever. With a population of 22 million and a $ 94 billion economy, we lack the scale to absorb these shocks alone.
+
+Our apparel industry stands at the front line. Revered in the US for quality and ethical manufacturing, the “Made in Sri Lanka” label still commands respect, but respect alone may not be enough. Other major exports—rubber goods, gems, ceramics, and coconut-based products—are also at risk.
+
+On the import side, our biggest suppliers are India (19.5%) and China (19.2%), with total imports for 2024 reaching $ 18.84 billion.
+
+If a 44% tariff were fully enforced on Sri Lankan exports, it would devastate our competitiveness in the US market. American retailers, operating on razor-thin margins, might cut orders or shift sourcing to Bangladesh, Vietnam, or India—countries with better trade terms. The ripple effects would be severe: job losses, stalled industrial growth, and declining national revenue.
+
+Proposals for mitigation
+
+We must act swiftly and strategically. Proactive engagement with the United States to negotiate tariff relief is essential. At the same time, we must accelerate internal reforms and diversify our economy.
+
+This crisis, though painful, presents an opportunity for fundamental transformation. It could be the catalyst for modernising our economy, broadening our trade partnerships, and confronting structural weaknesses long ignored.
+
+Difficult decisions await in Colombo boardrooms and Parliament halls, but so does the chance to redefine our future.
+
+One strategy is to pursue Free Trade Agreements (FTAs) that reduce or eliminate tariffs. Instead of seeing tariffs as threats alone, we should treat them as a wake-up call—an incentive to boost domestic productivity and address longstanding gaps in local capacity.
+
+Alternatively, or alongside this, Sri Lanka could implement a base 10% tariff on all imports, coupled with a gradually decreasing annual utilisation tax, particularly for luxury goods. For instance, imported luxury vehicles could face steep road taxes that decline over time, while being allowed only if financed with externally earned foreign exchange. This approach would conserve national reserves and offer a pathway to eliminate reciprocal tariffs, without sacrificing tariff income.
+
+Such measures could also reduce the outsized influence of entrenched oligarchic interests in shaping our trade and economic policy.
+
+Currently, Sri Lanka remains disadvantaged due to the lack of a formal FTA with the US Diplomatic outreach, such as President AKD’s reported engagement with President Trump, is a welcome start. But what we now need is a coherent, long-term strategy.
+
+A high-level Sri Lankan delegation is set to visit Washington, DC, in May to seek relief or at least an extension of the current waiver. That mission must be backed by a compelling, well-reasoned case that highlights these tariffs’ disproportionate impact on small, friendly nations.
+
+The appeal should emphasise the humanitarian costs—factory closures, job losses, rising poverty—while also spotlighting Sri Lanka’s commitment to reform under the IMF program. This includes a gradual reduction in import tariffs and efforts to eliminate non-reciprocal practices.
+
+Our message to Washington should be simple but powerful: “Support us while we reform.”
+
+Bilateral and regional trade expansion
+
+In tandem with these efforts, Sri Lanka should pursue bilateral trade agreements with the US and other countries that prioritise tariff reductions on key exports. It should also maximise the benefits of the EU’s GSP+ scheme, which grants duty-free access to a wide array of Sri Lankan goods. Additionally, participation in regional trade alliances—such as the Regional Comprehensive Economic Partnership (RCEP)—should be actively explored.
+
+Exporters must also be supported in utilising the 20% US content exemption in tariff formulas. For example, apparel manufacturers could source American cotton to qualify for tariff reductions. Government agencies must work closely with US officials to clarify documentation requirements and ensure Sri Lankan exporters can fully capitalise on this provision.
+
+Moreover, Sri Lankan embassies should be reimagined as commercial hubs, actively promoting national products and facilitating trade deals. Diplomatic engagement must go beyond routine bureaucracy and embrace a proactive, results-driven approach. A digital transformation of trade systems, improved regulatory oversight, and modernised trade policy must all work together to redefine Sri Lanka’s role in the global economy.
+
+Building long-term resilience
+
+Despite export growth, Sri Lanka’s trade deficit widened to $ 6.07 billion in 2024, driven by a sharper rise in imports. The country has long struggled with structural trade imbalances, consistently importing more than it exports. This unsustainable trend must be urgently addressed by curbing non-essential imports, increasing export earnings, and strengthening foreign reserves to enhance economic self-reliance, especially with the 2028 debt repayment window approaching.
+
+Boosting export earnings is critical to secure foreign exchange for essential imports like fuel and medicine. One immediate opportunity lies in maximising domestic energy production. The government must incentivise private and household investments in renewable energy—hydro, solar, wind, and bioenergy—while resolving longstanding regulatory and infrastructure issues, especially within the Ceylon Electricity Board.
+
+Many of Sri Lanka’s current import dependencies stem from decades of policy missteps and politically motivated decisions that undermined key local industries, such as tyres, paper, sugar, ceramics, steel, and cement. Reviving these sectors is essential. Full state control isn’t necessary, but the government must facilitate strategic, performance-linked partnerships and investment incentives that rebuild productive capacity without becoming a fiscal burden.
+
+Despite these setbacks, many Sri Lankan entrepreneurs have shown resilience, manufacturing vehicles, bicycles, boats, solar heaters, and essential consumer goods like processed foods and herbal cosmetics. These innovators must be empowered with infrastructure, capital, and policy support to scale operations and reduce import dependency.
+
+At the same time, Sri Lanka should pursue untapped trade opportunities in ASEAN and Africa, particularly through agreements like the African Continental Free Trade Area (AfCFTA). These markets offer lower entry barriers and significant demand for value-added goods. This will provide insulation from global economic shocks and foster more balanced, sustainable growth. Sri Lanka’s strengths—skilled labour, natural resources, and international brand recognition—can be strategically leveraged through targeted trade campaigns and robust export support mechanisms.
+
+A bold, complementary strategy would be to explore “flag of convenience” models—relocating export operations to partner countries not subject to high tariffs but honouring ‘non-alignment’. This would allow goods to reach high-tariff markets indirectly, while still repatriating profits to support Sri Lanka. One example is Russia that has no export tariffs to USA. But would it be ‘sensible’?
+
+Shielding the market from oligarchic exploitation
+
+Amid growing economic volatility, it is imperative to safeguard national resources, particularly foreign exchange, from corruption and market manipulation. Sri Lanka’s financial markets, especially the bond and equity sectors, have seen repeated scandals over the decades, often involving politically connected elites. Despite public outcry, accountability remains obscure. The growth of the bond market after recent debt restructuring has only deepened the country’s liabilities. Meanwhile, global shocks—such as the Trump-era tariffs—have triggered volatility that the ultra-wealthy exploit for personal gain. These individuals buy stocks during artificial market dips, profit from rebounds, and use insider policy knowledge to game the system.
+
+Domestically, we’ve seen similar patterns, such as sudden import duty reductions that allow politically connected actors to flood the market with luxury goods, only for those tariffs to be reinstated soon after. These aren’t isolated events; they’re symptoms of a systemic issue: policies engineered to serve a powerful few at the expense of the public.
+
+To dismantle this oligarchy, Sri Lanka needs a value chain approach—rooting out entrenched interests across finance, banking, and production. A vision for a Clean Sri Lanka must include comprehensive institutional reform, transparent governance, and equitable access for micro, small, and medium enterprises (SMEs).
+
+While oligarchs thrive on loopholes, the truly vulnerable—farmers, small business owners, low-income families—are left behind. Unfair tariff structures and skewed policymaking deepen inequality. Credible allegations have even pointed to oligarchic influence within the Central Bank of Sri Lanka, reinforcing concerns that private interests increasingly capture policymaking.
+
+We must act swiftly and strategically. Proactive engagement with the United States to negotiate tariff relief is essential. At the same time, we must accelerate internal reforms and diversify our economy. This crisis, though painful, presents an opportunity for fundamental transformation. It could be the catalyst for modernising our economy, broadening our trade partnerships, and confronting structural weaknesses long ignored. Difficult decisions await in Colombo boardrooms and Parliament halls, but so does the chance to redefine our future
+
+Support export pathways
+
+To mitigate the short-term impacts of the ongoing tariff crisis, the Government must urgently step in to support export industries. Targeted assistance measures—such as temporary subsidies or rebates—could offset a portion of the tariff burden. For instance, reimbursing a percentage of tariffs paid (where fiscally feasible) would offer much-needed relief to exporters.
+
+Additionally, the Government should consider establishing an emergency export stabilisation fund and facilitating low-interest loans via commercial banks, backed by subsidised refinance facilities from the Central Bank. These measures would help firms maintain operations, avoid layoffs, and safeguard livelihoods. Further relief could include the temporary deferral of selected taxes or levies to ease exporters’ cash flow during this critical period.
+
+While all support mechanisms must align with IMF fiscal guidelines, some strategic reallocation of public resources may be justified due to the unanticipated external shock. In close consultation with the IMF, these interventions can be designed to act as lifelines for viable export-oriented firms, helping them survive the current crisis and remain competitive until long-term reforms take hold.
+
+In the near term, Sri Lanka must aggressively reroute exports to alternative markets. For the apparel sector, priority should be given to the European Union and the United Kingdom, where duty-free access under the GSP+ scheme is expected to remain through 2025. Proactive engagement with EU buyers—offering modest discounts or volume incentives—can help absorb some of the production capacity displaced from the US market.
+
+Canada also presents a promising opportunity under its Generalised System of Preferences (GSP), and further market penetration should be pursued. Additional strategic targets include Japan, Australia, and regional neighbours like India, leveraging the existing India–Sri Lanka Free Trade Agreement (ISFTA) to expand exports.
+
+Remain non-aligned in global trade tensions
+
+Amid rising geopolitical tensions and the ongoing US–China trade conflict, Sri Lanka must maintain a non-aligned stance. Aligning with one side risks political and economic fallout, while strategic neutrality preserves flexibility and maximises market access across both blocs.
+
+As many multinational companies adopt a “China +1” strategy—diversifying operations to reduce dependence on China—Sri Lanka is increasingly seen as a viable alternative. Its competitive labour costs, geographic advantage in the Indian Ocean, and growing export infrastructure position it well to benefit from this shift.
+
+This diversification of global supply chains has already driven demand for Sri Lankan textiles, apparel, and tea. It also presents an opportunity to deepen integration into global value chains and attract significant foreign direct investment (FDI). By strategically positioning itself as a regional manufacturing and logistics hub, Sri Lanka can drive export-led industrialisation and long-term economic growth.
+
+Leverage investment and infrastructure development
+
+To fully capitalise on the ongoing reconfiguration of global trade networks, Sri Lanka must invest in critical infrastructure, particularly ports, logistics hubs, and digital connectivity. Its geographic position uniquely situates the country as a maritime and trade gateway connecting Asia, Africa, and Europe.
+
+By upgrading infrastructure and offering targeted incentives to multinational corporations, Sri Lanka can attract export-oriented FDI and position itself as a regional base for manufacturing, assembly, and re-export. This would create jobs and enhance resilience by diversifying trade flows and reducing dependency on any single market.
+
+The role of technology and digitalisation
+
+Sri Lanka must harness one of its most powerful assets—its abundant human capital. Skilled labour and entrepreneurial talent are essential drivers of growth. Investing in vocational training, supporting SME exporters, and connecting them with international buyers can significantly expand the country’s export base and enhance its global competitiveness.
+
+Technology will centralise Sri Lanka’s ability to adapt and thrive amid shifting global trade dynamics. The rapid pace of digital transformation is opening new economic frontiers. With a growing IT sector and improving e-commerce infrastructure, Sri Lanka is well-positioned to provide high-value services such as fintech, software development, education, and business process outsourcing (BPO) to global markets. By integrating traditional industries with emerging technologies—and balancing market diversification with smart diplomacy—Sri Lanka can turn today’s trade disruptions into the foundation of a broader economic renaissance.
+
+Investments in digital infrastructure and the adoption of emerging technologies such as Artificial Intelligence (AI), automation, and advanced data analytics are critical. These tools can enhance productivity, reduce costs, and integrate Sri Lanka more deeply into regional and global value chains, unlocking new avenues for export growth and economic diversification.
+
+Role of the Central Bank
+
+The Central Bank of Sri Lanka must be prepared to manage currency volatility triggered by external trade shocks. In specific instances, cautious deployment of foreign exchange reserves may be necessary to smooth out excessive fluctuations, following prudent examples set by countries like China. However, such interventions should be measured and temporary to avoid unsustainable reserve depletion.
+
+A carefully calibrated, market-driven depreciation of the Sri Lankan rupee can also serve as a strategic lever—boosting export competitiveness while avoiding a disorderly slide in the currency. The goal should be to strike a balance: incentivise exports, contain inflation, and preserve macroeconomic stability.
+
+A more balanced current account—driven by export growth, targeted import substitution, and productivity gains—will support this strategy. Strategic investments in renewable energy can reduce oil import dependency, while strengthening domestic agriculture will bolster food security and ease pressure on foreign currency reserves.
+
+Sri Lanka must also actively court foreign direct investment (FDI) by positioning itself as a stable, attractive alternative amid shifting global supply chains as a regional manufacturing and logistics hub.
+
+A competitive, transparent exchange rate policy will be essential to keeping Sri Lankan exports attractive, particularly amid global tariff volatility. At the same time, the country must actively support a fair and rules-based global trade system while expanding ties with international trade alliances.
+
+Sri Lanka’s path to economic diversification and global integration
+
+To secure long-term resilience and prosperity, Sri Lanka must commit to a multi-pronged strategy rooted in human capital development, economic diversification, and strategic global integration. The foundation of this vision lies in cultivating a highly skilled workforce tailored to emerging, high-value sectors—technology, advanced manufacturing, digital services, and innovation. This evolution will enhance national competitiveness and insulate the economy from external shocks such as global tariffs and protectionist policies.
+
+Strategic priorities for sustainable growth
+
+To realise this transformation, Sri Lanka must pursue the following key initiatives:
+
+Trade intelligence and regulatory reform: Strengthen export analytics, reduce red tape, and streamline trade regulations to enhance business efficiency.
+
+SME empowerment and local value addition: Reduce import dependency by scaling domestic enterprises through financial, technical, and infrastructure support.
+
+Strategic infrastructure investment: Upgrade ports, logistics corridors, and digital networks to leverage the country’s geographic advantage as a trade hub.
+
+Export diversification: Expand into higher-value sectors—including textiles, ICT, Agri-processing, and precision manufacturing—to reduce vulnerability to external shocks.
+
+Green energy development: Invest in renewable energy technologies (solar, wind, hydro) to create exportable solutions while boosting energy security.
+
+Pharmaceutical manufacturing: Build capacity to produce affordable, high-quality medicines for regional and global markets.
+
+Advanced agriculture and agri-tech: Modernise farming through innovation and expand exports of organic food, herbal supplements, and processed goods.
+
+Digital transformation of trade systems: Implement digital tools for compliance, monitoring, and facilitation to streamline international commerce.
+
+Tightening of foreign commercial regulation: Enforce innovative, protective commercial policies to guard domestic enterprises against exploitative loopholes.
+
+Global value chain integration: Accelerate industrial modernisation and financial reform to integrate more deeply into regional and international production networks.
+
+Innovation-led growth: Prioritise research, tech incubation, and industrial upgrading to attract top-tier FDI and foster an entrepreneurial ecosystem.
+
+Conclusion: Turning crisis into catalyst
+
+Sri Lanka is at a decisive crossroads. While disruptive, the turbulence of global trade offers a rare opportunity to implement bold reforms that have long been delayed. If the country embraces strategic neutrality, invests in innovation, strengthens domestic industries, and reimagines its trade partnerships, it can convert adversity into transformation.
+
+With prudent economic management, inclusive policy design, and forward-thinking diplomacy, Sri Lanka can emerge as a resilient, innovation-driven economy, fully integrated into global value chains and poised for sustainable, equitable growth.
+

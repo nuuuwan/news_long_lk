@@ -1,0 +1,100 @@
+# Power of minimalism in a consumer society
+
+[https://www.ft.lk/columns/Power-of-minimalism-in-a-consumer-society/4-775937](https://www.ft.lk/columns/Power-of-minimalism-in-a-consumer-society/4-775937)
+
+*01:15 AM, Tuesday, April 29, 2025*
+
+In a world dominated by consumerism, minimalism has become popular among those wanting to live a simple and authentic life. By removing excess and focusing on what truly matters, minimalism can provide a holistic alternative to consumer culture.
+
+Understanding the common traps of consumer culture – where we buy more than we need – does not only make us more financially savvy, but also more mindful about what brings value to our lives. This article explores these factors and shows how minimalism can offer a solution, whilst also providing practical steps to find a healthy balance between wanting more and being content.
+
+What is ‘minimalism’?
+
+Minimalism is the practice of removing anything non-essential, focusing on reducing possessions and commitments that aren’t necessary. Its core focus revolves around intentional living: learning to live with less to make room for the things that bring you joy – from what you buy to who you spend your time with.
+
+What are the benefits of minimalism?
+
+Minimalism reduces stress by promoting the ownership of fewer things. Having fewer possessions not only clears your physical space at home, but also increases mental wellbeing. With fewer items to manage, people spend less time cleaning, organising, and worrying about their belongings. Studies from the University of Utah have shown that decluttering enhances a sense of accomplishment and even increases overall happiness.
+
+Decluttering helps by limiting your options, paving the way for more efficient decision-making. An extreme but famous example is Mark Zuckerberg, who wore the same style grey t-shirt every day to simplify his wardrobe choices. In a 2014 Q&A, Zuckerberg explained the rationale behind his controversial fashion choice, and noted how it freed up his time to focus on his work and the impact he wanted to create.
+
+“I really want to clear my life so that I have to make as few decisions as possible about anything except how to best serve this community.” – M Zuckerberg
+
+Minimalism benefits the environment by promoting the reduction of purchases. When we purchase fewer items, it reduces overconsumption, thereby decreasing waste. This helps lower our ecological footprint and supports a healthier environment. Statistics show that people who embrace a minimalist lifestyle typically reduce their carbon footprint by 23% compared to conventional consumers.
+
+Why we buy more than we need
+
+While marketing and branding have always influenced consumer behaviour, social media has intensified this in recent years. Targeted ads on Facebook, Instagram and TikTok, along with influencer marketing, are examples of how these platforms entice people to buy online products to make themselves feel better, smarter, or more attractive. Statistics support this, highlighting the influence of social media on consumer purchasing decisions, particularly among Gen Z.
+
+Discount purchases can feel like a smart financial choice, but they often result in consumers buying more than what they need. Limited-time offers and flash sales create urgency; however, statistics show that this leads to impulsive spending and regrettable purchasing decisions.
+
+General spending habits
+
+A major reason for excessive buying is the development of poor spending habits. This places a huge financial strain on people as they struggle to live within their means. Statistics show that many people have difficulty setting and maintaining a budget, highlighting a lack of awareness to implement a clear strategy and make sound financial decisions. This reflects a tough economic environment, but also a consumer culture where chasing material things can take precedence over financial wellbeing.
+
+How minimalism can help
+
+Personal needs over external trends
+
+By focusing on purchasing less, minimalists put their personal needs first when it comes to buying decisions.
+
+For example, the latest iPhone might be trending online, sparking FOMO (fear-of-missing-out) and a desire for social validation.
+
+However, minimalism encourages limiting items and making purchases solely based on personal needs. If your current phone still works well and is in good condition, the minimalist approach helps resist the urge to upgrade, focusing on other purchases that actually add value to your life.
+
+Resisting online pressure
+
+Social media algorithms are often designed to prompt people to buy products, often leading to impulsive purchases. Instead of purchasing impulsively, mindful consumption allows you to trace back the steps and identify what prompted the urge to buy. For example, after seeing a pair of Nike shoes on an Instagram ad, you may decide to go on their website and buy a new pair. After a while you may realise the urge to purchase was sparked by a clever piece of content, not by a genuine need for new shoes.
+
+Quality over quantity
+
+Investing in longevity
+
+Minimalism encourages thoughtful spending by prioritising essential, high-quality items that last. This mindset shifts the focus from chasing bargains to making intentional, long-term purchases. For example, buying a high-quality appliance that lasts for years is far more beneficial than picking up cheaper products on sale that risk breakage or going unused.
+
+Focusing on purpose, not price
+
+Rather than focusing on price, minimalism emphasises finding high-quality items which serve a purpose. Instead of being tempted by large discounts or limited-time deals, minimalists ask themselves if the product holds enough value to justify buying it at full price. If the answer is no, a discount doesn’t make it worth having, as it can’t be considered an essential item.
+
+Less buying, more saving
+
+Choosing quality over quantity means committing to purchase fewer items overall. This naturally reduces expenses and consequently, the money you would have spent on other items becomes extra savings. When you save money by buying fewer products, the urge to chase discounts naturally decreases. This means you can become more intentional with your spending and achieve increased savings without accumulating unnecessary items.
+
+Financial discipline focuses specifically on evaluating whether each purchase is absolutely necessary. This level of introspection is key to minimalism, as it encourages you to assess the cost and benefits of each purchase and develop good financial habits. Here are some questions to consider before purchasing an item.
+
+Embracing minimalism – Practical steps
+
+Minimalism offers many benefits, however, putting it into practice can be challenging. Here are some small steps to start making minimalism a part of your everyday life:
+
+Simplify your routine
+
+Choose three essential tasks that set the tone for your day. This could be reading, exercising, or making your bed. By simplifying your routine, you give yourself a sense of clarity, allowing you to begin each day with purpose.
+
+Cut down on mindless scrolling and focus only on content that truly adds value to your life. Select specific channels that align with your interests, while limiting exposure to others. Dedicate at least two hours a day to unplug from your phone—use this time for reading, exercising, or catching up with friends.
+
+Start by categorising your possessions such as appliances, clothes, or books, and rank them in terms of necessity. Then, evaluate which items you haven’t used in 90 days and whether you will use them in the next 90 days. Start removing those that serve the least purpose or add minimal value.
+
+Long-term goals are essential for embracing minimalism. While it can be challenging to make a start, focusing on the bigger picture makes it easier to let go of excess. By considering how everything in your current life fits into your future, you become more motivated to declutter and more mindful of what you bring into your new life.+
+
+Finding a balance – Wanting more vs living with less
+
+Define your version of minimalism
+
+While there are common principles that define minimalism, it is ultimately a personal and subjective practice. Every individual’s life is unique, shaped by factors such as their job, country, and overall lifestyle. These elements influence how much of minimalist living can be integrated into daily life. That’s why it’s crucial to define what minimalism means to you. By doing so, you can set clear boundaries that align with your values, and embrace minimalism to complement how you live.
+
+Review your belongings regularly
+
+Regularly reviewing your belongings helps you create a balance between letting go of excess and making room for meaningful new purchases. By clearing out items that no longer serve a purpose, you free up physical and mental space, making it easier to stay organised and appreciate what you own. This process also makes shopping more enjoyable, as you know that every item you buy contributes to your lifestyle in a positive way, rather than simply contributing to clutter.
+
+Prioritise meaningful experiences
+
+Although minimalists embrace living with fewer material possessions, this doesn’t mean they miss out. For minimalists, the focus is on prioritising meaningful experiences over accumulating things. By purchasing fewer material items, they can invest more in experiences that bring true fulfilment, whether it’s travelling, building relationships, or pursuing passions. This shift in priorities allows them to live more intentionally, creating lasting memories to make the most of their time and energy.
+
+In conclusion, minimalism encourages us to reflect on the reasons behind our purchasing decisions, urging us to focus on what is essential. By doing so, it offers a powerful counter to overconsumption in today’s society. However, it’s important to remember that finding a balance is key — minimalism is not about depriving yourself, but about making mindful choices that support a meaningful and sustainable life.
+
+(https://www.rematics.co/post/ the-power-of-minimalism-in-a- consumer-society)
+
+(This article was originally published on the ReMAtics (Pvt) Ltd blog. ReMAtics provides remote professional services, offering organisations seamless access to its in-house team of skilled experts specialising in financial and macro research, financial modelling, and written content across a range of sectors.)
+
+(The writer is a former financial services professional with over four years of experience working in corporate foreign exchange. He is currently a freelance writer, covering subjects such as financial markets, entrepreneurship and health & wellness. He holds a Bachelor of Commerce from Macquarie University in Sydney, Australia.)
+

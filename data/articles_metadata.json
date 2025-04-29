@@ -1,5 +1,12 @@
 [
   {
+    "title": "The AI Hype Index: AI agent cyberattacks, racing robots, and musical models",
+    "url": "https://www.technologyreview.com/2025/04/29/1115918/the-ai-hype-index-ai-agent-cyberattacks-racing-robots-and-musical-models/",
+    "ut": 1745886600.0,
+    "dir_path_unix": "data/articles/the-ai-hype-index-ai-age.5c6f9775",
+    "time_str_formatted": "06:00 AM, Tuesday, April 29, 2025"
+  },
+  {
     "title": "Killer on the road",
     "url": "https://www.ft.lk/columns/Killer-on-the-road/4-775941",
     "ut": 1745871472.0,
@@ -15,6 +22,13 @@
   },
   {
     "title": "Trade wars, tariffs, and us in Sri Lanka",
+    "url": "https://www.ft.lk/columns/Trade-wars-tariffs-and-us-in-Sri-Lanka/4-775938",
+    "ut": 1745870176.0,
+    "dir_path_unix": "data/articles/trade-wars-tariffs-and-u.492de862",
+    "time_str_formatted": "01:26 AM, Tuesday, April 29, 2025"
+  },
+  {
+    "title": "Trade wars, tariffs, and us in Sri Lanka",
     "url": "https://www.ft.lk/opinion/Trade-wars-tariffs-and-us-in-Sri-Lanka/14-775938",
     "ut": 1745870176.0,
     "dir_path_unix": "data/articles/trade-wars-tariffs-and-u.a6bc9f09",
@@ -22,10 +36,24 @@
   },
   {
     "title": "Power of minimalism in a consumer society",
+    "url": "https://www.ft.lk/columns/Power-of-minimalism-in-a-consumer-society/4-775937",
+    "ut": 1745869555.0,
+    "dir_path_unix": "data/articles/power-of-minimalism-in-a.fa538841",
+    "time_str_formatted": "01:15 AM, Tuesday, April 29, 2025"
+  },
+  {
+    "title": "Power of minimalism in a consumer society",
     "url": "https://www.ft.lk/opinion/Power-of-minimalism-in-a-consumer-society/14-775937",
     "ut": 1745869555.0,
     "dir_path_unix": "data/articles/power-of-minimalism-in-a.751bf34c",
     "time_str_formatted": "01:15 AM, Tuesday, April 29, 2025"
+  },
+  {
+    "title": "How and Why the Banda \u2013 Chelva Pact was Signed by  SLFP Leader  SWRD Bandaranaike and FP Leader  SJV Chelvanayagam.",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85845",
+    "ut": 1745869282.0,
+    "dir_path_unix": "data/articles/how-and-why-the-banda-ch.ecad9f9c",
+    "time_str_formatted": "01:11 AM, Tuesday, April 29, 2025"
   },
   {
     "title": "AI Can Help Knowledge Workers Fix These Five Frustrations",
@@ -182,11 +210,25 @@
     "time_str_formatted": "05:18 AM, Thursday, April 24, 2025"
   },
   {
+    "title": "Inside the controversial tree farms powering Apple\u2019s carbon neutral goal",
+    "url": "https://www.technologyreview.com/2025/04/24/1115751/apple-carbon-neutral-eucalyptus-tree-farm-brazil/",
+    "ut": 1745451000.0,
+    "dir_path_unix": "data/articles/inside-the-controversial.17e936b8",
+    "time_str_formatted": "05:00 AM, Thursday, April 24, 2025"
+  },
+  {
     "title": "Former Mannar Bishop Rayappu Joseph was the Voice of the Voiceless Who Spoke Truth to Power.",
     "url": "https://dbsjeyaraj.com/dbsj/?p=85823",
     "ut": 1745412519.0,
     "dir_path_unix": "data/articles/former-mannar-bishop-ray.e32009e6",
     "time_str_formatted": "06:18 PM, Wednesday, April 23, 2025"
+  },
+  {
+    "title": "Why we still need AM radio",
+    "url": "https://www.technologyreview.com/2025/04/23/1114889/am-radio-disaster-response-emergency-safety/",
+    "ut": 1745364600.0,
+    "dir_path_unix": "data/articles/why-we-still-need-am-rad.6b110f92",
+    "time_str_formatted": "05:00 AM, Wednesday, April 23, 2025"
   },
   {
     "title": "Parate execution: Expiry  of suspension and the way forward",

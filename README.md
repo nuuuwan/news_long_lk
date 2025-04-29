@@ -2,14 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-29 06:26:08**
+Last Updated **2025-04-29 18:22:47**
 
 ## 2025-04-29
 
+* [The AI Hype Index: AI agent cyberattacks, racing robots, and musical models](data/articles/the-ai-hype-index-ai-age.5c6f9775/README.md) `technologyreview.com`
 * [Killer on the road](data/articles/killer-on-the-road.9eff6748/README.md) `ft.lk`
 * [Establishing independent holding company for State-Owned Enterprises](data/articles/establishing-independent.c5886e63/README.md) `ft.lk`
+* [Trade wars, tariffs, and us in Sri Lanka](data/articles/trade-wars-tariffs-and-u.492de862/README.md) `ft.lk`
 * [Trade wars, tariffs, and us in Sri Lanka](data/articles/trade-wars-tariffs-and-u.a6bc9f09/README.md) `ft.lk`
+* [Power of minimalism in a consumer society](data/articles/power-of-minimalism-in-a.fa538841/README.md) `ft.lk`
 * [Power of minimalism in a consumer society](data/articles/power-of-minimalism-in-a.751bf34c/README.md) `ft.lk`
+* [How and Why the Banda – Chelva Pact was Signed by  SLFP Leader  SWRD Bandaranaike and FP Leader  SJV Chelvanayagam.](data/articles/how-and-why-the-banda-ch.ecad9f9c/README.md) `dbsjeyaraj.com`
 
 ## 2025-04-28
 
@@ -47,10 +51,12 @@ Last Updated **2025-04-29 06:26:08**
 * [Test of integrity: Mahara Mosque and NPP’s promise](data/articles/test-of-integrity-mahara.c9022541/README.md) `ft.lk`
 * [Let’s lean on science always and certainly with monkeys too](data/articles/let-s-lean-on-science-al.9d9f8851/README.md) `ft.lk`
 * [Trump tariffs and financial reporting: Considerations for audit and risk committees](data/articles/trump-tariffs-and-financ.f8a069fd/README.md) `ft.lk`
+* [Inside the controversial tree farms powering Apple’s carbon neutral goal](data/articles/inside-the-controversial.17e936b8/README.md) `technologyreview.com`
 
 ## 2025-04-23
 
 * [Former Mannar Bishop Rayappu Joseph was the Voice of the Voiceless Who Spoke Truth to Power.](data/articles/former-mannar-bishop-ray.e32009e6/README.md) `dbsjeyaraj.com`
+* [Why we still need AM radio](data/articles/why-we-still-need-am-rad.6b110f92/README.md) `technologyreview.com`
 * [Parate execution: Expiry  of suspension and the way forward](data/articles/parate-execution-expiry.def89758/README.md) `ft.lk`
 * [Building a China-Sri Lanka community with a shared future](data/articles/building-a-china-sri-lan.4997057f/README.md) `ft.lk`
 * [From catwalk to crossroads: Apparel industry’s new challenge](data/articles/from-catwalk-to-crossroa.8c790da5/README.md) `ft.lk`
