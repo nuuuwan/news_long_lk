@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-28 18:22:56**
+Last Updated **2025-04-29 06:26:08**
+
+## 2025-04-29
+
+* [Killer on the road](data/articles/killer-on-the-road.9eff6748/README.md) `ft.lk`
+* [Establishing independent holding company for State-Owned Enterprises](data/articles/establishing-independent.c5886e63/README.md) `ft.lk`
+* [Trade wars, tariffs, and us in Sri Lanka](data/articles/trade-wars-tariffs-and-u.a6bc9f09/README.md) `ft.lk`
+* [Power of minimalism in a consumer society](data/articles/power-of-minimalism-in-a.751bf34c/README.md) `ft.lk`
 
 ## 2025-04-28
 
+* [AI Can Help Knowledge Workers Fix These Five Frustrations](data/articles/ai-can-help-knowledge-wo.d8c833f9/README.md) `hbr.org`
+* [A Playbook for Using TikTok Shop to Grow Your Brand](data/articles/a-playbook-for-using-tik.e7b5ce02/README.md) `hbr.org`
 * [Hurray for hierarchy](data/articles/hurray-for-hierarchy.dea17961/README.md) `ft.lk`
 * [China: A more trustworthy partner](data/articles/china-a-more-trustworthy.d86d8ed0/README.md) `ft.lk`
 * [Budget 2025: Expectations galore with 76 years of waiting](data/articles/budget-2025-expectations.b6be9e14/README.md) `ft.lk`
