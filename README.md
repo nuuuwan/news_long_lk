@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-29 18:22:47**
+Last Updated **2025-04-30 06:25:46**
+
+## 2025-04-30
+
+* [From playgrounds to GDP: Violence against children costs us all](data/articles/from-playgrounds-to-gdp.38c2030f/README.md) `ft.lk`
+* [Political alchemy; from messiah to machinery: Rise and mutation of AKD – Part 1](data/articles/political-alchemy-from-m.f7074755/README.md) `ft.lk`
+* [One hat too many? Why foreign affairs and tourism each deserve full-time minister](data/articles/one-hat-too-many-why-for.a74bc075/README.md) `ft.lk`
+* [Blurred industry barriers: Understanding ramifications](data/articles/blurred-industry-barrier.467f02b3/README.md) `ft.lk`
+* [Can we seize opportunity in Japan while it exists?](data/articles/can-we-seize-opportunity.2b68ebc8/README.md) `ft.lk`
 
 ## 2025-04-29
 
+* [Rising geopolitical risks in 2025 amid tariff shocks and policy shifts](data/articles/rising-geopolitical-risk.0c1c36b7/README.md) `eiu.com`
 * [The AI Hype Index: AI agent cyberattacks, racing robots, and musical models](data/articles/the-ai-hype-index-ai-age.5c6f9775/README.md) `technologyreview.com`
 * [Killer on the road](data/articles/killer-on-the-road.9eff6748/README.md) `ft.lk`
 * [Establishing independent holding company for State-Owned Enterprises](data/articles/establishing-independent.c5886e63/README.md) `ft.lk`

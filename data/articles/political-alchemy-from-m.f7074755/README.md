@@ -1,0 +1,68 @@
+# Political alchemy; from messiah to machinery: Rise and mutation of AKD – Part 1
+
+[https://www.ft.lk/columns/Political-alchemy-from-messiah-to-machinery-Rise-and-mutation-of-AKD-Part-1/4-775994](https://www.ft.lk/columns/Political-alchemy-from-messiah-to-machinery-Rise-and-mutation-of-AKD-Part-1/4-775994)
+
+*05:51 AM, Wednesday, April 30, 2025*
+
+AKD’s carefully crafted image of political purity masks a deeper truth
+
+The problem of political species
+
+1.Manufactured hope and the rise of the messiah
+
+At both elections, the JVP/NPP manipulated public opinion through misinformation and targeted messaging, backed by powerful media and corporate interests. This manipulation helped craft a distorted political reality, where “truth” became subjective and pliable, enabling irrational promises and prioritising short-term populism over sustainable reform.
+
+During his presidential campaign, Anura Kumara Disanayake (AKD) vowed to eliminate anti-democratic forces, end corruption, and revoke perks for former Presidents, arguing they deserve no more than ordinary citizens. After winning, he promised to challenge the status quo and ensure accountability. He co-opted the Aragalaya movement, framing its call for systemic change as aligned with the NPP’s broader agenda.
+
+Despite the hope invested in the NPP and AKD for rule-of-law reinforcement, zero tolerance for corruption, and national revitalisation, the chances of those aspirations being fulfilled now seem slim. The harsh reality is that the NPP’s electoral success was built upon a foundation of sweeping promises, many of which will remain unfulfilled. These promises served more as electoral bait than actionable plans. Their manifesto, A Thriving Nation: A Beautiful Life, along with an aggressive media campaign, lulled much of the public into complacency, suppressing critical thought—even among the most educated.
+
+A well-known Australian economics professor emailed to challenge my critique, placing full trust in the NPP’s platform and its assumed flawless implementation. This demonstrates the depth and impact of this manufactured optimism.
+
+Once again, a large portion of the public embraced the party with a fervour that bordered on religious zeal, ignoring scepticism and embracing AKD as a political messiah. Through shrewd propaganda, the NPP claimed its candidates were uniquely qualified compared to rivals. In many districts, voters supported NPP candidates without knowing anything about the individuals who would represent them. This amounted to blind faith.
+
+Sri Lanka has been here before. In 2019, Gotabaya Rajapaksa (GR) campaigned under the banner Vistas of Prosperity and Splendour, and nearly 6.9 million voters entrusted him with their hopes. Young people, eager for change, even painted murals celebrating the promise of national revival. But in less than three years, his administration plunged the country into economic collapse, resulting in national bankruptcy. Many of the same youth who had once championed GR became the core of the 2022 Aragalaya movement.
+
+2.The betrayal of the beloved
+
+In a recent YouTube segment, investigative journalist Nandana Weeraratna likened voters to cattle, easily herded by politicians. In this context, AKD seems to have effectively mobilised the “herd” for his own political ascent. The man who once championed people’s power and decried authoritarianism has now started whipping his own supporters. Once viewed as a “battler” (in the Australian sense) a resilient advocate for the marginalised—AKD now appears to be mirroring the oppressive strategies of figures like Ranil Wickremesinghe (RW), Tiran Alles, and Deshabandu Thennakoon.
+
+His use of police crackdowns, judicial orders, and even the Prevention of Terrorism Act (PTA) to quell dissent echoes past regimes.
+
+Before the elections, AKD and the NPP promised to create 35,000 jobs for graduates on an urgent basis. This commitment was clearly stated on page 72 of their manifesto. However, when graduates gathered on 17 March 2025 at Polduwa Junction to demand these jobs, they were met with a police crackdown.
+
+On 26 February 2023, AKD himself had been among those affected by police tear gas at Lipton Circus. At that time, he vocally defended the people’s right to hold dissenting views and to protest for their demands. Fast forward to 28 May 2025: despite holding a court order, 27 graduates among the protesters outside the Health Ministry were arrested by police equipped with tear gas and riot gear. The betrayal of these young supporters echoes the biblical story of Joseph and the Israelites—initially welcomed into Egypt during a famine, only to be enslaved later. Similarly, Sri Lankan students were enticed with promises of employment and hope, only to be met with repression and disillusionment.
+
+AKD’s current tactics evoke memories of how RW emptied the Galle Face Green protest site, with once determined protesters running like sheep without a shepherd, scattered by the police under the command of Tiran Alles and Deshabandu Thennakoon.
+
+Before the parliamentary elections, the Vinivida Padanama (a prominent civil society watchdog) warned voters not to fall for empty promises and instead demand enforceable policy frameworks. That warning was largely ignored, especially in rural areas where people, worn down by the failures of GR and RW, saw AKD as their only hope. Many believed they had found a saviour and placed blind trust in his hands.
+
+This cycle is not new in Sri Lankan politics. The electorate often places faith in charismatic leaders without demanding accountability.
+
+4.The mask of the messiah
+
+AKD’s carefully crafted image of political purity masks a deeper truth: he has been a fixture of the political establishment since 2000 and has enjoyed close ties with nearly every president of the “deep state”, from Chandrika Bandaranaike Kumaratunga—whom some call the “Queen of Deceit”—to RW.
+
+In 2015, AKD and five other JVP parliamentarians received vehicle permits without proper legal authorisation. While all MPs across party lines immediately sold their permits outright for personal profit, the JVP MPs initially used theirs before later selling the vehicles and funnelling Rs. 30 million into party coffers. In contrast, the remaining 218 parliamentarians—the traditional custodians of the “deep state”—amassed a collective Rs. 6,970 million through the same scheme.
+
+Today, however, the AKD-led Government is delaying the full recovery of the nearly Rs. 7,000 million. The reason? The JVP/NPP is unwilling to return their own Rs. 30 million to the State treasury. Under the applicable Customs Ordinance, the Director General of Customs (DGC) has the legal authority to impound and auction all 224 vehicles involved in this abuse, regardless of who currently owns them. Yet, the present DGC—initially appointed by RW and now operating with the blessing of AKD—is conspicuously inactive, refusing to enforce the rule of law.
+
+Despite AKD’s frequent appeals to ethics and public accountability, this episode marks a clear departure from principle. It is not merely an ethical grey area—it is a calculated decision to protect the JVP’s share of the loot while turning a blind eye to systemic corruption. By choosing silence and inaction over justice, AKD and his administration have effectively boarded the same gravy train they now so vehemently condemn, revealing not only hypocrisy but wilful complicity in the very decay they once vowed to dismantle. AKD’s perceived cleanliness has been preserved largely because he never held executive power until now.
+
+AKD was appointed to Parliament via the National List in 2000. Disanayake benefited from a mechanism introduced under the 14th Amendment, which has since been exposed as constitutionally dubious. Although awareness of its fraudulent enactment emerged later, by 2015 both AKD and the JVP were fully informed, yet they continued to exploit the system. JVP/NPP appointed two defeated candidates (Sunil Handunnetti and Bimal Rathnayake) in 2015 and another two defeated candidates again in 2025. These actions directly contradict their professed commitment to the rule of law and democratic process.
+
+Local government elections in Sri Lanka were undemocratically postponed beginning in September 2017, despite a Supreme Court ruling on 8 September stating that such delays violated the people’s constitutional right to vote. Notably, within just 12 days of the Court’s order, then Attorney General Jayantha Jayasuriya fraudulently advised the Speaker of Parliament that the legislature could override the Court’s decision—an arguably unconstitutional position that was endorsed by AKD, marking the party’s complicity in undermining democratic rights. Shortly thereafter, Jayasuriya was appointed Chief Justice with the blessing of the JVP, raising serious questions about political rewards for making space for the political elite—including AKD—to manipulate the legal system.
+
+In a further troubling development, after assuming the presidency in January 2025, AKD appointed the recently retired and discredited Chief Justice Jayasuriya as Sri Lanka’s representative to the United Nations. This appointment was made despite strong objections from the Foreign Service Association and widespread concerns over Jayasuriya’s compromised integrity and his history of abusing public office for personal gain. The decision starkly reveals AKD’s own moral failings and disregard for ethical governance.
+
+Further, during the 2019 Presidential election, AKD failed to challenge GR’s candidacy, despite his known dual citizenship status, which is a clear constitutional disqualifier. This silence raised serious doubts about AKD’s willingness to confront entrenched power structures and signalled complicity in the erosion of electoral integrity.
+
+During the height of the 2022 Aragalaya, British activist Kayleigh Fraser amplified calls for justice, documenting State abuses. The NPP rode the wave of international attention that voices like hers helped generate. Yet, when Fraser later appealed directly to AKD—seeking intervention to deter the undemocratic actions initiated by then President RW, or at least support for a safe departure—he remains silent. Today, she lives in fear, in hiding, awaiting persecution.
+
+This silence raises troubling questions: is AKD truly committed to justice, or is he merely endorsing RW’s repressive tactics through his inaction? Today, AKD has climbed the greasy pole of power not by breaking from political norms, but by replicating the same constitutional abuses and opportunistic manoeuvring he once condemned. He has, in effect, sacrificed moral authority in favour of political expediency.
+
+This is not a moment of rupture in Sri Lanka’s political evolution. Instead, it is a continuation of a dangerous trend—where language mutates, values are inverted, and power is justified through the very systems it once opposed. This mutation—from movement to manipulation, from messiah to machinery—sets the stage for a broader analysis of how Newtonian physics and traditional biology can help us decode this political transformation.
+
+To fully understand the forces at play in this evolution, we must now turn to science—not in its empirical form, but as metaphor. Sri Lanka’s political trajectory is not unlike the deterministic systems of Newtonian physics or the adaptive mechanisms of traditional biology. These frameworks, though rooted in vastly different disciplines, provide powerful tools for decoding how seemingly stable structures unravel, how once-linear trajectories spiral into chaos, and how organisms—whether biological or political—mutate under pressure. What follows is an attempt to interpret AKD’s rise and mutation through these lenses, revealing deeper truths about power, entropy, and survival.
+
+(The writer, a former academic at the University of Peradeniya, is a noted expert on Sri Lanka’s political economy. His doctoral research examined the country’s complex ties with the IMF and World Bank from 1960 to 1985, highlighting key economic and ideological shifts. He is currently analysing the political and legal dimensions of Sri Lanka’s decline in upholding the rule of law and judicial independence, framing it within a broader pattern of institutional erosion and executive dominance. He can be reached at [email protected].)
+
