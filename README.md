@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-01 06:26:02**
+Last Updated **2025-05-01 18:22:15**
 
 ## 2025-05-01
 
+* [Sri Lanka’s NPP Govt Must Implement Its Pre-election Promise of  Repealing the Draconian Prevention of Terrorism Act(PTA)](data/articles/sri-lanka-s-npp-govt-mus.813f57a7/README.md) `dbsjeyaraj.com`
 * [Newtonian physics, traditional biology, and Sri Lankan politics – Part 2](data/articles/newtonian-physics-tradit.f029ccec/README.md) `ft.lk`
 
 ## 2025-04-30
@@ -17,6 +18,7 @@ Last Updated **2025-05-01 06:26:02**
 * [From playgrounds to GDP: Violence against children costs us all](data/articles/from-playgrounds-to-gdp.38c2030f/README.md) `ft.lk`
 * [Political alchemy; from messiah to machinery: Rise and mutation of AKD – Part 1](data/articles/political-alchemy-from-m.f7074755/README.md) `ft.lk`
 * [One hat too many? Why foreign affairs and tourism each deserve full-time minister](data/articles/one-hat-too-many-why-for.a74bc075/README.md) `ft.lk`
+* [This data set helps researchers spot harmful stereotypes in LLMs](data/articles/this-data-set-helps-rese.c881e8cf/README.md) `technologyreview.com`
 * [Blurred industry barriers: Understanding ramifications](data/articles/blurred-industry-barrier.467f02b3/README.md) `ft.lk`
 * [Can we seize opportunity in Japan while it exists?](data/articles/can-we-seize-opportunity.2b68ebc8/README.md) `ft.lk`
 
