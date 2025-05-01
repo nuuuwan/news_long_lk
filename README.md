@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-04-30 18:23:02**
+Last Updated **2025-05-01 06:26:02**
+
+## 2025-05-01
+
+* [Newtonian physics, traditional biology, and Sri Lankan politics – Part 2](data/articles/newtonian-physics-tradit.f029ccec/README.md) `ft.lk`
 
 ## 2025-04-30
 
+* [Underrated power of Local Government elections](data/articles/underrated-power-of-loca.8d6bd31e/README.md) `ft.lk`
+* [Remembering President Premadasa’s contribution to economic development on 32nd death anniversary](data/articles/remembering-president-pr.86da81d0/README.md) `ft.lk`
+* [Trump makes us slump](data/articles/trump-makes-us-slump.01a5fb57/README.md) `ft.lk`
+* [India-Pakistan-Anura, Easter massacre plots, economic earthquake, and Vietnam’s victory recalled](data/articles/india-pakistan-anura-eas.9dc03194/README.md) `ft.lk`
 * [From playgrounds to GDP: Violence against children costs us all](data/articles/from-playgrounds-to-gdp.38c2030f/README.md) `ft.lk`
 * [Political alchemy; from messiah to machinery: Rise and mutation of AKD – Part 1](data/articles/political-alchemy-from-m.f7074755/README.md) `ft.lk`
 * [One hat too many? Why foreign affairs and tourism each deserve full-time minister](data/articles/one-hat-too-many-why-for.a74bc075/README.md) `ft.lk`

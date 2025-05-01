@@ -1,0 +1,46 @@
+# Underrated power of Local Government elections
+
+[https://www.ft.lk/columns/Underrated-power-of-Local-Government-elections/4-776032](https://www.ft.lk/columns/Underrated-power-of-Local-Government-elections/4-776032)
+
+*11:57 PM, Wednesday, April 30, 2025*
+
+In the fast-evolving political landscape of Sri Lanka, much is often made of presidential and parliamentary elections. But beneath the surface lies a quieter, yet arguably more consequential process that often gets overlooked: Local Government (LG) elections. These elections, representing 4,919 wards across 340 local government bodies with a total of 5,092 seats, are the bedrock of any functioning political ecosystem. They are not just a test of popularity—they are the foundation of a political party’s grassroots strength, public outreach, and future electoral success.
+
+Unlike national elections, where voters often decide based on party ideologies or national figures, LG election candidates are deeply embedded in the community. They are neighbours, religious leaders, childhood friends, relatives, and local influencers. Their appeal is built not just on political slogans but on relationships, reputation, and social trust. It is this personal connection that makes LG elections so uniquely powerful.
+
+The SLPP playbook: How a local win became a national wave
+
+A compelling example of the strategic value of LG elections is the meteoric rise of the Sri Lanka Podujana Peramuna (SLPP). In 2015, Mahinda Rajapaksa faced a devastating defeat at the presidential level, followed by a lacklustre showing in the parliamentary elections. Many political analysts prematurely wrote off his influence.
+
+Yet, in the 2018 LG elections, the newly formed SLPP secured 3,255 seats—40.47% of the total vote share—translating into 3,436 councillors and control of 231 out of 340 local councils. This wasn’t just a numerical win; it marked the revival of a political movement. Through strategic investment in grassroots structures and by endorsing candidates embedded within their communities, the SLPP successfully rebuilt its political machinery from the ground up.
+
+In contrast, the United National Party (UNP) managed to win only 2,433 seats—29.42% of the vote share—controlling just 34 local councils.
+
+The ripple effects were undeniable. In 2019, Gotabaya Rajapaksa rode this grassroots momentum to win the presidency with 6.9 million votes. In 2020, the SLPP secured a near two-thirds majority in Parliament with 6.8 million votes. These victories were not spontaneous—they were cultivated through strategic and sustained grassroots engagement initiated during the LG elections.
+
+NPP’s strategic grassroots mobilisation
+
+Fast forward to 2024. Under the presidency of Ranil Wickremesinghe, LG elections were announced and nominations were submitted, yet the polls were postponed indefinitely. Whether the delay was strategic or circumstantial, one cannot ignore the momentum built during the brief campaign period, especially by the National People’s Power (NPP).
+
+The NPP, traditionally rooted in the JVP, expanded its reach by fielding candidates who were largely fresh faces—individuals without political baggage but deeply active in their communities. They were teachers, youth leaders, and social workers. The campaign was vibrant, volunteer-driven, and hyperlocal. Even without a formal election, the campaign had a catalytic effect on the party’s visibility and credibility among everyday citizens.
+
+This early groundwork bore fruit later that same year when the NPP’s Anura Kumara Dissanayake (AKD) clinched what many consider an unexpected presidential victory. The subsequent parliamentary election saw the NPP gain a two-thirds majority—an unimaginable feat just a few years prior. The secret? A campaign that reached household by household—some five times over in many areas—building familiarity, trust, and ultimately, votes.
+
+However, as the AKD-led Government grapples with policy inconsistency and the immense challenge of delivering on ambitious campaign promises, the limits of populist momentum without solid policy groundwork are becoming evident. It’s a stark reminder that grassroots mobilisation is essential to winning elections, but effective governance requires more.
+
+The missed opportunity for SJB
+
+Contrast this with the experience of the Samagi Jana Balawegaya (SJB). As the main Opposition since 2020, the party under Sajith Premadasa had the policy depth, the leadership credibility, and the reform agenda. But they lacked one thing: grassroots infrastructure.
+
+During the 2024 LG election campaign, which, though ultimately postponed, became a vital mobilisation window, SJB faltered. There was no unified door-to-door mechanism, no widespread local outreach, no grassroots pipeline to carry the message of reform to the household level. While their policies may have impressed on paper, they never reached the hands or ears of the average voter.
+
+In the Presidential election later that year, Premadasa’s loss was not for want of leadership or vision. It was, plainly, a failure of grassroots mobilisation. In an election where every home matters, the SJB failed to knock on enough doors.
+
+Unless the SJB learns to recognise what truly resonates with the people—and lays the necessary groundwork through consistent local engagement—they risk remaining permanently out of power, no matter how well-crafted their policies may be.
+
+As Sri Lanka prepares for future electoral cycles, the importance of LG elections should be re-evaluated, not just as a civic obligation but as a core strategic investment. Whether they culminate in actual votes or get postponed, LG campaigns activate political networks, energise voter bases, and often dictate the trajectory of national elections.
+
+The road to power in Sri Lanka doesn’t begin at Parliament—it begins in the village (Gama). That’s where trust is built, communities are influenced, and political narratives are shaped. LG elections are the first test of a party’s ability to connect with real people in real places.
+
+In Sri Lanka, power doesn’t just come from having the right answers—it comes from being close enough to the people to hear the right questions.
+
