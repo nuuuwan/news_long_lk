@@ -35,6 +35,13 @@
     "time_str_formatted": "05:37 AM, Friday, May 02, 2025"
   },
   {
+    "title": "The US has approved CRISPR pigs for food",
+    "url": "https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/",
+    "ut": 1746138600.0,
+    "dir_path_unix": "data/articles/the-us-has-approved-cris.c2c862f1",
+    "time_str_formatted": "04:00 AM, Friday, May 02, 2025"
+  },
+  {
     "title": "Video Quick Take: Verizon\u2019s Christina Schelling on Evolving Your Company\u2019s Talent Strategy for Increased Agility and Performance",
     "url": "https://hbr.org/sponsored/2025/05/video-quick-take-verizons-christina-schelling-on-evolving-your-companys-talent-strategy-for-increased-agility-and-performance",
     "ut": 1746071928.0,
@@ -152,6 +159,13 @@
     "ut": 1745886600.0,
     "dir_path_unix": "data/articles/the-ai-hype-index-ai-age.5c6f9775",
     "time_str_formatted": "06:00 AM, Tuesday, April 29, 2025"
+  },
+  {
+    "title": "We need to start thinking of AI as \u201cnormal\u201d",
+    "url": "https://www.technologyreview.com/2025/04/29/1115928/is-ai-normal/",
+    "ut": 1745883000.0,
+    "dir_path_unix": "data/articles/we-need-to-start-thinkin.339e8570",
+    "time_str_formatted": "05:00 AM, Tuesday, April 29, 2025"
   },
   {
     "title": "Killer on the road",

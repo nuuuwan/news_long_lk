@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-02 06:25:43**
+Last Updated **2025-05-02 18:22:51**
 
 ## 2025-05-02
 
@@ -11,6 +11,7 @@ Last Updated **2025-05-02 06:25:43**
 * [Future-proofing Sri Lanka against “Trump’s America Only Policy”](data/articles/future-proofing-sri-lank.47ebc9c5/README.md) `ft.lk`
 * [NPP and Muslim voters](data/articles/npp-and-muslim-voters.743a4b71/README.md) `ft.lk`
 * [Phosphate rocks and future superpowers](data/articles/phosphate-rocks-and-futu.4c0d9ead/README.md) `ft.lk`
+* [The US has approved CRISPR pigs for food](data/articles/the-us-has-approved-cris.c2c862f1/README.md) `technologyreview.com`
 
 ## 2025-05-01
 
@@ -37,6 +38,7 @@ Last Updated **2025-05-02 06:25:43**
 * [Canada election 2025: Liberals win election but minority government presents risk](data/articles/canada-election-2025-lib.65396f62/README.md) `eiu.com`
 * [Rising geopolitical risks in 2025 amid tariff shocks and policy shifts](data/articles/rising-geopolitical-risk.0c1c36b7/README.md) `eiu.com`
 * [The AI Hype Index: AI agent cyberattacks, racing robots, and musical models](data/articles/the-ai-hype-index-ai-age.5c6f9775/README.md) `technologyreview.com`
+* [We need to start thinking of AI as “normal”](data/articles/we-need-to-start-thinkin.339e8570/README.md) `technologyreview.com`
 * [Killer on the road](data/articles/killer-on-the-road.9eff6748/README.md) `ft.lk`
 * [Establishing independent holding company for State-Owned Enterprises](data/articles/establishing-independent.c5886e63/README.md) `ft.lk`
 * [Trade wars, tariffs, and us in Sri Lanka](data/articles/trade-wars-tariffs-and-u.492de862/README.md) `ft.lk`
