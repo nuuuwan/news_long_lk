@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-01 18:22:15**
+Last Updated **2025-05-02 06:25:43**
+
+## 2025-05-02
+
+* [Sri Lanka’s new constitution:  What it must contain – Part 1](data/articles/sri-lanka-s-new-constitu.ea5f4d2f/README.md) `ft.lk`
+* [TIN turns into empty tin with few holes](data/articles/tin-turns-into-empty-tin.329c9714/README.md) `ft.lk`
+* [Future-proofing Sri Lanka against “Trump’s America Only Policy”](data/articles/future-proofing-sri-lank.47ebc9c5/README.md) `ft.lk`
+* [NPP and Muslim voters](data/articles/npp-and-muslim-voters.743a4b71/README.md) `ft.lk`
+* [Phosphate rocks and future superpowers](data/articles/phosphate-rocks-and-futu.4c0d9ead/README.md) `ft.lk`
 
 ## 2025-05-01
 
+* [Video Quick Take: Verizon’s Christina Schelling on Evolving Your Company’s Talent Strategy for Increased Agility and Performance](data/articles/video-quick-take-verizon.4094c7eb/README.md) `hbr.org`
+* [A long-abandoned US nuclear technology is making a comeback in China](data/articles/a-long-abandoned-us-nucl.65577f97/README.md) `technologyreview.com`
 * [Sri Lanka’s NPP Govt Must Implement Its Pre-election Promise of  Repealing the Draconian Prevention of Terrorism Act(PTA)](data/articles/sri-lanka-s-npp-govt-mus.813f57a7/README.md) `dbsjeyaraj.com`
 * [Newtonian physics, traditional biology, and Sri Lankan politics – Part 2](data/articles/newtonian-physics-tradit.f029ccec/README.md) `ft.lk`
 
@@ -24,6 +34,7 @@ Last Updated **2025-05-01 18:22:15**
 
 ## 2025-04-29
 
+* [Canada election 2025: Liberals win election but minority government presents risk](data/articles/canada-election-2025-lib.65396f62/README.md) `eiu.com`
 * [Rising geopolitical risks in 2025 amid tariff shocks and policy shifts](data/articles/rising-geopolitical-risk.0c1c36b7/README.md) `eiu.com`
 * [The AI Hype Index: AI agent cyberattacks, racing robots, and musical models](data/articles/the-ai-hype-index-ai-age.5c6f9775/README.md) `technologyreview.com`
 * [Killer on the road](data/articles/killer-on-the-road.9eff6748/README.md) `ft.lk`
@@ -37,9 +48,11 @@ Last Updated **2025-05-01 18:22:15**
 ## 2025-04-28
 
 * [AI Can Help Knowledge Workers Fix These Five Frustrations](data/articles/ai-can-help-knowledge-wo.d8c833f9/README.md) `hbr.org`
+* [Qatari private capital expands in South-East Asia](data/articles/qatari-private-capital-e.e8baee7c/README.md) `eiu.com`
 * [A Playbook for Using TikTok Shop to Grow Your Brand](data/articles/a-playbook-for-using-tik.e7b5ce02/README.md) `hbr.org`
 * [Hurray for hierarchy](data/articles/hurray-for-hierarchy.dea17961/README.md) `ft.lk`
 * [China: A more trustworthy partner](data/articles/china-a-more-trustworthy.d86d8ed0/README.md) `ft.lk`
+* [Why Chinese manufacturers are going viral on TikTok](data/articles/why-chinese-manufacturer.9116b7ba/README.md) `technologyreview.com`
 * [Budget 2025: Expectations galore with 76 years of waiting](data/articles/budget-2025-expectations.b6be9e14/README.md) `ft.lk`
 
 ## 2025-04-27
@@ -65,6 +78,7 @@ Last Updated **2025-05-01 18:22:15**
 ## 2025-04-24
 
 * [How Knowledge Mismanagement is Costing Your Company Millions](data/articles/how-knowledge-mismanagem.8b023c5b/README.md) `hbr.org`
+* [India and Pakistan gear up for an escalation of hostility](data/articles/india-and-pakistan-gear.d0e34980/README.md) `eiu.com`
 * [The vibes are shifting for US climate tech](data/articles/the-vibes-are-shifting-f.9df9a598/README.md) `technologyreview.com`
 * [Lanka loses balance, direction: Chooses Indo-US orbit, not Asian alternative](data/articles/lanka-loses-balance-dire.f4819f1a/README.md) `ft.lk`
 * [Test of integrity: Mahara Mosque and NPP’s promise](data/articles/test-of-integrity-mahara.c9022541/README.md) `ft.lk`

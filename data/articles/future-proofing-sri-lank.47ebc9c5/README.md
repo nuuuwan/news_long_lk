@@ -1,0 +1,64 @@
+# Future-proofing Sri Lanka against “Trump’s America Only Policy”
+
+[https://www.ft.lk/columns/Future-proofing-Sri-Lanka-against-Trump-s-America-Only-Policy/4-776076](https://www.ft.lk/columns/Future-proofing-Sri-Lanka-against-Trump-s-America-Only-Policy/4-776076)
+
+*05:45 AM, Friday, May 02, 2025*
+
+Diplomatic norms upended: Trump and Zelensky hold talks at Vatican
+
+The resurgence of Donald Trump in US politics has reignited global anxieties over economic unilateralism. His proposals—a universal 10% tariff on imports, escalated duties on Chinese goods, and dismantling multilateral trade frameworks—threaten to destabilise the rules-based order. Trump’s interest rightly is the USA. Therefore for Sri Lanka, a small, trade-dependent and tourism dependent nation navigating post-crisis recovery and debt restructuring, these geopolitical tremors demand urgent, strategic action. To withstand the potential eruption of “Trump policy changes,” Sri Lanka must adopt proactive measures – not reactive measures that blend structural reform, market agility, and diplomatic foresight.
+
+1.Diversify export markets and investment sources
+
+Sri Lanka’s overreliance on the US as a primary export destination—especially for apparel (which constitutes ~44% of exports)—exposes it to tariff shocks. While apparel may not be directly targeted, across-the-board tariffs could erode competitiveness. To mitigate this:
+
+Accelerate trade diversification: Prioritise emerging markets in Asia (e.g., Vietnam, Indonesia), Africa (Rwanda, Kenya), and the Middle East (UAE, Saudi Arabia) through targeted trade delegations and bilateral agreements.
+
+Leverage regional giants: Deepen economic ties with India (via the Economic and Technology Cooperation Agreement) and China (expanding BRI collaboration beyond infrastructure) to secure preferential access.
+
+Attract alternative FDI: Court Gulf sovereign wealth funds (e.g., Saudi PIF, UAE’s Mubadala), East Asian tech firms, and diaspora investors through incentives like tax breaks and streamlined regulations.
+
+2.Accelerate regional integration
+
+Sri Lanka’s geographic advantage in the Indian Ocean must translate into actionable economic integration. Steps include:
+
+Revitalise BIMSTEC and SAARC: Champion pragmatic sub-regional agreements, such as a BIMSTEC Free Trade Area, to counterbalance US unilateralism. Forge coalitions to safeguard maritime trade routes and digital connectivity.
+
+Position Colombo as a regional hub: Transform the Port City into a financial and services nexus by adopting globally aligned regulatory frameworks (e.g., Singapore-style arbitration laws) and attracting multinational headquarters to make Sri Lanka home.
+
+Boost cross-border infrastructure: Partner with India on the Trincomalee oil tank farm and with ASEAN on digital corridors to enhance regional supply chain integration.
+
+3.Invest in tech and human capital
+
+Trump’s scepticism of global labour mobility underscores the need for Sri Lanka to future-proof its workforce:
+
+Upskill for the digital economy; Expand coding bootcamps (e.g., via “Smart Sri Lanka” initiatives), triple STEM graduates by 2030, and incentivise AI/ML training through public-private partnerships.
+
+Build tech ecosystems: Launch innovation hubs in Colombo and Kandy focused on fintech, e-commerce, and green tech, backed by venture capital incentives.
+
+Protect the BPO sector: Shift from low-cost outsourcing to high-value services (e.g., cybersecurity, data analytics) to insulate against US protectionism.
+
+4.Fortify fiscal and external resilience
+
+Global volatility under Trump necessitates robust macroeconomic safeguards:
+
+Stay the course on fiscal reforms: Maintain primary surplus targets, rationalise subsidies, and expand tax nets via digital platforms to boost revenue from 9% to 15% of GDP by 2027.
+
+Secure forex buffers: Diversify currency reserves, pre-negotiate swap lines with India and China, and fast-track renewable energy projects to cut oil import bills.
+
+Transparent debt management: Publish quarterly debt sustainability reports and engage creditors early to avoid defaults.
+
+5.Pursue nimble economic diplomacy
+
+In a bilateralist world, Sri Lanka must craft a multi-vector strategy:
+
+Cultivate US ties: Lobby the US Congress for GSP and the EU for GSP+ reinstatement and engage US chambers of commerce to attract tech and renewable energy investments.
+
+Balance regional powers: Reaffirm non-alignment by deepening EU trade (e.g., leveraging GSP+ for apparel) while advancing China-backed infrastructure and possibly India ports, logistics and manufacturing.
+
+Amplify multilateral voice: Lead coalitions in the WTO on small-state issues (e.g., fishing subsidies) and advocate for IMF quota reforms to reflect emerging economies’ needs.
+
+Conclusion: From survival to strategy
+
+Trump’s reemergence so strongly is not merely a challenge — it is a catalyst for Sri Lanka to redefine its economic identity. By diversifying trade, embedding itself in regional networks, and investing in human capital, Sri Lanka can transform volatility into opportunity. The goal is not just to weather geopolitical storms but to emerge as a dynamic, agile player in the Indian Ocean. Future-proofing requires boldness, but as history shows, crisis breeds innovation. Sri Lanka’s opportunity is now.
+
