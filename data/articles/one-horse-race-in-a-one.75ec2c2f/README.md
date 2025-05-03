@@ -1,0 +1,62 @@
+# One-horse race in  a one-horse town?
+
+[https://www.ft.lk/columns/One-horse-race-in-a-one-horse-town/4-776116](https://www.ft.lk/columns/One-horse-race-in-a-one-horse-town/4-776116)
+
+*11:46 PM, Friday, May 02, 2025*
+
+However much potential it still seems to hold as nation, state and country gear up for local government elections, the NPP is but a pale shadow of its former self
+
+Shall we roll up the accountability map of crimes committed and a culture of impunity covering a multitude of sins... simply because the present government – perhaps lacking foresight then – now finds itself hamstrung by procedural obstacles, legal loopholes and political expediency? Whence cometh the man to punish, as present mandarins so threateningly and thrillingly promised of a plethora of past crimes? Whither justice – or failing which, closure?
+
+As city, town and village prepare to go to the polls again, a sense of vague unease seems to lie like a pall over the land (in my mind’s-eye at least). It is, like the weather these days, a disconcerting non-event – or not quite event. There are distant flashes on unseen horizons, almost inaudible rumblings rolling over the hinterland or out at sea, and premonitions of a deluge to come...
+
+All of this, if the electorate had a more fine-tuned feeling for forecasting, would have us all much ill at ease than the momentary lull in matters of governance the moment seems to find us in. For while we appear to have been spared the ill-winds of arrogant and yet incompetent governors as of old, the barometer of the better fortune that was predicted has fallen (perhaps imperceptibly) in the recent past...
+
+That predicament has come to pass by default rather than by design. Which is to take the charitable view in assuming the bona fides of the National People’s Power, when it was so powerfully promising sea-changes on the long-forgotten presidential and parliamentary campaign trails. However much potential it still seems to hold as nation, state and country gear up for local government elections, the NPP is but a pale shadow of its former self...
+
+Charge of a lightly let-down brigade
+
+In brief, the broken promises (charitably: the projects in abeyance; realistically: the programmatic apathy) of the JVP-led government bear rehearsal.
+
+A presidency yet to be directed constitutionally towards abolition (there is time still, if only there would remain political will) hovers like an unwelcome albatross overhead.
+
+An Easter revelation meant to shock and awe was masterfully neglected while alleged masterminds not apprehended as envisaged by the powers that be or expected by a wounded pilgrim people still abscond. As the haunting lyrics of Supertramp’s ‘Crime of the Century’ ask pointedly: “Who are these men of lust, greed and glory? Rip off the masks and let’s see!”
+
+The draconian – for want of a better adjective – Prevention of Terrorism Act still hangs like a Damocles’ sword over both the innocent citizen as well as the insidious charlatan inveigling himself with government; first to betray a trust of brotherhood, then to seal his lips against a further confession.
+
+On top of these larger lacunae lie the scattered leaves of other promises or potentials left unpicked up by our gubernatorial caretakers.
+
+These – from a failure to renegotiate a more socially sensitive economic reforms programme with the IMF; through unexpected about-turns on simple changes to political culture (for example, no politicos to be lionised at schools functions or luxurious perks for MPs yet to prove their worth); to the persistent evil of police impunity as regards arbitrary arrests and torture or worse of suspects in custody – linger like the odour of rotten detritus extant from other regimes.
+
+Championing a loaded cause
+
+So much for ‘Clean Sri Lanka’? Of course, the NPP’s principles are no doubt sound and its approach to introducing a polity long beleaguered by corruption is suitably programmatic at least on paper.
+
+But practically, we can only lament on the ash heap – while listening to the excuses and reasons of a power sitting on the throne (or can if you like that image better) – that pretty few impressive results have been presented to the public.
+
+While a former president was fined by the Supreme Court where found to be in dereliction of duty in terms of lapses that eased the way of suicide bombers in April 2019 and another was ousted by the people’s jackboot for a litany of criminal negligence, no public figure of any eminence has been prosecuted under this administration for misdemeanours serially alleged by the now powers that be when they were then in opposition.
+
+Where are the publicly identified miscreants in past emblematic cases from economic assassins to killers of iconic editors and abductors of irritant cartoonists to say nothing of expendable sportsmen making a personal nuisance of themselves to the erstwhile high and mighty?
+
+Shall we roll up the accountability map of crimes committed and a culture of impunity covering a multitude of sins... simply because the present government – perhaps lacking foresight then – now finds itself hamstrung by procedural obstacles, legal loopholes and political expediency?
+
+Whence cometh the man to punish, as present mandarins so threateningly and thrillingly promised of a plethora of past crimes? Whither justice – or failing which, closure?
+
+Or must we too face the sorry music as it is being played now? By a government that finds itself strangely impotent to act now as it found itself roaring like angry lions then? It was not deception or disingenuousness on the part of a promising regime then, surely?
+
+That would not only cripple the hopes of an expectant polity but bankrupt a regime on the way forward as it professes to further roll out a programmatic effort to reform the state, redeem a nation, save and help to thrive a country long abused by its governing class.
+
+Capital costs to society
+
+If the outcome of the local government poll next week proves that the social capital of the NPP has been subject to surtax by a long-suffering people or suffered depreciation due to inexplicable delays in prosecuting its justiciable cases, no one will be too surprised. Despite political analysts being wise after the event!
+
+The black swan event in the making on the eve of May Day as I write – with Galle Face Green, the emblematic site of the erstwhile Aragalaya, being a sea of red – tempts this writer to predict a departure from the norms in Colombo (that bastion of power and plush folks; but now, also home to one in four of Sri Lanka’s poor). What price an NPP woman mayor? Would that begin to bridge the formerly unbridgeable chasm between ‘watta’ and ‘walawwa’? Of course, it’s only a beginning towards spanning the gamut of a panoply of other urban sociopolitical evils...
+
+But it would be a great pity for the nascent hopes of a nation on the cusp of sustainable change if the political goodwill extended to a promising regime by a hopeful people ends up with the loose change in hand of minor improvements to public service alone. Such as a governmental payment gateway to eliminate petty corruption among errant motorists and their accomplices in the constabulary; which, while a welcome development, is nothing to write home about to the electorate.
+
+Is there anything else to show and tell? Or – sadly, sorrily, sacrilegiously (for the sociopoltical programme that had and still has the potential to transform the state of the nation – the truth be told) – are we to brokenly look for other spavined nags to back in the race that’s on?
+
+Anticorruption Ethics is a winning horse worth backing. But is it to be the only entry in the NPP’s National Trophy? Only time will tell...
+
+(Editor-at-large of LMD | Waiting for Godot)
+

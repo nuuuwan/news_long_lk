@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-02 18:22:51**
+Last Updated **2025-05-03 06:25:09**
 
 ## 2025-05-02
 
+* [Sri Lanka’s new constitution: What it must contain – Part 2](data/articles/sri-lanka-s-new-constitu.ed7be1db/README.md) `ft.lk`
+* [One-horse race in  a one-horse town?](data/articles/one-horse-race-in-a-one.75ec2c2f/README.md) `ft.lk`
 * [Sri Lanka’s new constitution:  What it must contain – Part 1](data/articles/sri-lanka-s-new-constitu.ea5f4d2f/README.md) `ft.lk`
 * [TIN turns into empty tin with few holes](data/articles/tin-turns-into-empty-tin.329c9714/README.md) `ft.lk`
 * [Future-proofing Sri Lanka against “Trump’s America Only Policy”](data/articles/future-proofing-sri-lank.47ebc9c5/README.md) `ft.lk`
