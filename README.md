@@ -2,7 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-04 18:20:34**
+Last Updated **2025-05-05 06:26:07**
+
+## 2025-05-05
+
+* [Informal sector and gender-responsive budgeting: Key to effective social spending](data/articles/informal-sector-and-gend.110bbc6e/README.md) `ft.lk`
+* [Linking climate change adaptation with means of implementation](data/articles/linking-climate-change-a.3661bd2f/README.md) `ft.lk`
+* [National lesson from Kandy’s environmental crisis](data/articles/national-lesson-from-kan.4b18c7da/README.md) `ft.lk`
+* [Global spillover of Trump(dis)order:  Who will win ultimately – Trump or Carney?](data/articles/global-spillover-of-trum.6155dcd5/README.md) `ft.lk`
+* [Strange case of US democracy](data/articles/strange-case-of-us-democ.62806228/README.md) `ft.lk`
+
+## 2025-05-04
+
+* [Easter  Bombings Conspiracy Theories and the Importance of Azad Maulana’s Testimony.](data/articles/easter-bombings-conspira.9aab847e/README.md) `dbsjeyaraj.com`
+* [Maldives:  an escape from the daily grind, a serene space to unplug, breathe deeply, and simply ‘be.’](data/articles/maldives-an-escape-from.df32f233/README.md) `dbsjeyaraj.com`
+* [President Anura Kumara  Dissanayake’s  National People’s Power (NPP) Govt survives and is sustained only by the weakness of the collective Opposition.](data/articles/president-anura-kumara-d.429babe8/README.md) `dbsjeyaraj.com`
 
 ## 2025-05-02
 
