@@ -1,0 +1,124 @@
+# “Withdraw DPA (amendment) Bill placed on Gazette in March”
+
+[https://www.ft.lk/opinion/Withdraw-DPA-amendment-Bill-placed-on-Gazette-in-March/14-776211](https://www.ft.lk/opinion/Withdraw-DPA-amendment-Bill-placed-on-Gazette-in-March/14-776211)
+
+*01:20 AM, Tuesday, May 06, 2025*
+
+President Anura Kumara Disanayake
+
+Following is a letter sent by CSOs to President Anura Kumara Disanayake on the proposed amendment to the Personal Data Protection Act 2022
+
+Re: Data Protection Act No. 9 of 2022
+
+We write to you in your capacity as the Minister of Digital Economy regarding the proposed amendment to the Personal Data Protection Act, No. 9 of 2022, which was placed on the Gazette on 27 March 2025.
+
+It is noteworthy that Sri Lanka is leading by example in South Asia as the first country to enact digital privacy legislation for the protection of its citizens. However, we would like to bring to your attention that the enactment of the Personal Data Protection Act (PDPA) in 2022 was met with criticism by media associations, civil society and members of the opposition, including members of your own party, due to its inability to fulfil the stated aim of safeguarding digital privacy. Regrettably, the proposed amendments to the PDPA do not rectify the concerns raised in 2022.
+
+A crucial shortcoming of the Act is the power of the President to appoint members to lead the Data Protection Authority (DPA). The appointment process is not independent and hence does not guarantee that the DPA will function without political interference by successive governments. In this context, there is risk of the DPA being deliberately under-resourced or the staff lacking subject-domain expertise, which will adversely impact its ability to conduct investigations, develop robust guidelines, handle complaints efficiently, or effectively supervise complex data processing activities, especially when related to AI.
+
+With the mandate to oversee the implementation of the Act, the DPA can carry out executive, administrative and quasi-judicial functions, including conducting investigations, issuing instructions to data controllers/processors and citizens for compliance and imposing hefty fines for non-compliance. With such a broad range of functions, it is imperative that the governing body is appointed with the approval of the Constitutional Council and does not function at the whim of the government in power.
+
+There is a staggering power imbalance between data controllers and citizens, as citizens are unaware of how their data will be used or stored or how to access remedies when data controllers violate their rights under the Act. For instance, there is no mention of whether legal representation is required, timelines for the conclusion of investigations, etc. For the Act to achieve the stated aims, the remedies need to be accessible, meaningful and timely.
+
+The vague and broad terms contained in the Act will result in arbitrary and inconsistent application. The Act does not provide clear, enforceable mechanisms for data breach notifications or for assessing risks to individuals’ privacy. Additionally, exemptions contained in the Act allow restriction of citizens’ right to data privacy for purposes such as national security and public safety. The ambit of “public safety” and “national security” are to be determined by a DPA that is not-independent. In such contexts, as historically demonstrated in Sri Lanka, minority groups and marginalised communities have been impacted the most by the arbitrary application of broad and vague laws.
+
+International standards recommend the inclusion of a “journalistic exemption” in data privacy laws, whereby journalists and media organisations are allowed to store/process the private information of individuals, such as political figures, for the purposes of accurate reporting and informing the public. The lack of a “journalistic exemption” in the PDPA can hamper free and fair reporting as journalists carry the risk of being sanctioned under the Act. Additionally, the concern extends to other activities conducted in the public interest, such as research in social sciences or health, investigations by civil society organisations.
+
+Even certain forms of artistic expression might involve processing personal data where strict adherence to consent or purpose limitation principles could be challenging or counterproductive to the public good. The Act’s general but not generous exemptions might not adequately or clearly cover these specific contexts, potentially creating chilling effects beyond traditional journalism.
+
+The proposed amendments fail to address these concerns and have not answered the calls for independent oversight to protect digital privacy. The purpose of the Act may be to protect the rights of citizens but the broad mandate of the DPA will likely not allow the full realisation of rights under the Act without adequate enforcement mechanisms.
+
+With the advent of artificial intelligence and advances in technology, citizens are defenceless in the face of an onslaught upon their right to choose how their private data is used and stored by state entities and private corporations. In this context, we urge the government to consider the guiding principles for States proposed by the UN Special Rapporteur on the Right to Privacy when enacting data privacy laws 2022 (attached): legality, consent, transparency, purpose, fairness, proportionality, minimisation, quality, responsibility and security.
+
+We request the Government not to hurriedly pass amendments to bring an inadequate law into force. Instead, the Government should conduct meaningful consultations with stakeholders and international experts to ensure that the proposed amendments address the concerns that have been raised and comply with international standards.
+
+We request the following steps to be taken:
+
+(1)Withdraw the Personal Data Protection Act (amendment) Bill that was placed on the Gazette in March 2025.
+
+(2)Consult relevant stakeholders and experts on key amendments to be made.
+
+(3)Ensure the appointment process for the Board of Directors of the DPA is independent and involves the Constitutional Council.
+
+(4)Ensure the proposed amendments are in line with international human rights standards and best practices for digital privacy.
+
+(5)Commission a capacity assessment to affirm the readiness of public institutions to comply with the requirements of the Act, and the time and resources required to be fully compliant.
+
+a.Release the results of the assessment to the public.
+
+(6)Conduct programmes to raise awareness of the public on the rights and remedies available under the Act to strengthen their ability to hold data controllers to account.
+
+1.Harshana Nanayakkara, Minister of Justice
+
+2.Eng. Eranga Weeraratne, Deputy Minister of Digital Economy
+
+3.Waruna Sri Dhanapala, Acting Secretary for the Ministry of Digital Economy
+
+Adayaalam Centre for Policy Research
+
+Aham Human Resource Centre
+
+Alliance for Minorities
+
+Anuradhapura District Citizen Committee
+
+Asia Lanka Social Development Cooperation
+
+Association of War Affected Women
+
+Centre for Society and Religion
+
+Eastern Social Development Foundation
+
+Environment and Community Development Information Centre
+
+Families of the Disappeared
+
+Human Elevation Organisation
+
+Human Rights Law Chambers
+
+Institute of Social Development
+
+International Centre for Ethnic Studies
+
+Jaffna Social Action Centre
+
+Law and Society Trust
+
+Mannar Social and Economic Development Organization
+
+Mannar Women’s Development Federation
+
+Movement for Plantation Peoples’ Land Rights
+
+National Fisheries Solidarity Movement
+
+National Peace Council
+
+Shramabhimani Kendraya
+
+Social Institute for Development of Plantation Sector
+
+Tamil Civil Society Forum
+
+Transparency International Sri Lanka
+
+Uva Shakthi Foundation
+
+Women’s Action Network
+
+Women and Media Collective
+
+Young Journalists Association
+
+Jayanthi Kuru-Utumpala
+
+Kandumani Lavakusarasa
+
+Maathumai Paranthaman
+
+Maithreyi Rajasingham
+
+Pathujan Srinagaruban
+
