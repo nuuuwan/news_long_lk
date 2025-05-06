@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-06 06:25:39**
+Last Updated **2025-05-06 18:23:07**
 
 ## 2025-05-06
 
+* [Why the humanoid workforce is running late](data/articles/why-the-humanoid-workfor.ef82b492/README.md) `technologyreview.com`
 * [Why connecting Sri Lanka’s electricity grid to India would be grave strategic mistake](data/articles/why-connecting-sri-lanka.21698fc1/README.md) `ft.lk`
 * [Call for strong mandate: Why 2/3rd majority for President AKD and NPP critical for national reform](data/articles/call-for-strong-mandate.34766f9c/README.md) `ft.lk`
 * [“Withdraw DPA (amendment) Bill placed on Gazette in March”](data/articles/withdraw-dpa-amendment.20411890/README.md) `ft.lk`
@@ -14,6 +15,8 @@ Last Updated **2025-05-06 06:25:39**
 ## 2025-05-05
 
 * [The 2025 Local Authority Poll and the  Attempt  to Project Gajendrakumar Ponnambalam  as  the Future Tamil Political Leader.](data/articles/the-2025-local-authority.bcdcaed1/README.md) `dbsjeyaraj.com`
+* [Sri Lanka Local Govt Elections : Ruling NPP is looking to gain control of local bodies to deliver on pledges at the local level; while opposition parties are  trying to regain lost political capital](data/articles/sri-lanka-local-govt-ele.45dd5a79/README.md) `dbsjeyaraj.com`
+* [NPP Govt Attempt to Grab Tamil Owned Lands in North-East under Section 4 of Land Settlement Ordinance; President Anura Kumara  Dissanayake urged by ITAK Gen Secy MA Sumanthiran to revoke Gazette no 2430 Immediately](data/articles/npp-govt-attempt-to-grab.f678050c/README.md) `dbsjeyaraj.com`
 * [Informal sector and gender-responsive budgeting: Key to effective social spending](data/articles/informal-sector-and-gend.110bbc6e/README.md) `ft.lk`
 * [Linking climate change adaptation with means of implementation](data/articles/linking-climate-change-a.3661bd2f/README.md) `ft.lk`
 * [National lesson from Kandy’s environmental crisis](data/articles/national-lesson-from-kan.4b18c7da/README.md) `ft.lk`
