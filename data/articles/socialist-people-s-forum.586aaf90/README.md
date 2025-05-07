@@ -1,0 +1,28 @@
+# Socialist People’s Forum calls for end to ragging in State universities
+
+[https://www.ft.lk/opinion/Socialist-People-s-Forum-calls-for-end-to-ragging-in-State-universities/14-776263](https://www.ft.lk/opinion/Socialist-People-s-Forum-calls-for-end-to-ragging-in-State-universities/14-776263)
+
+*06:05 AM, Wednesday, May 07, 2025*
+
+Ragging has stifled freedom, independence, and dissent amongst students and in its place built a culture of student hierarchy and strict obedience to authority
+
+“Only I know what I have been through all this time. I tried so hard to overcome depression, but this is all the life I have left” – Charith Dilshan, Engineering Student, University of Sabaragamuwa
+
+Following is a statement by the Socialist People’s Forum (a registered political party) calling for an end to the ragging culture within university spaces
+
+Charith Dilshan, an engineering student of the Sabaragamuwa University, ended his life by suicide after severe ragging by members of the student body. We stand with the family of Charith Dilshan in their fight for justice and demand an independent impartial inquiry into the tragedy. The perpetrators of this heinous crime must be punished in accordance with the Prohibition of Ragging and Other Forms of Violence in Educational Institutions Act No. 20 of 1998.
+
+Charith Dilshan is not the first fatality from physical or psychological injury or mental pain or fear within a university space in Sri Lanka. The culture of ragging which has become entrenched and even normalised in our public university system has claimed the lives of many students in the past. Ragging has stifled freedom, independence, and dissent amongst students and in its place built a culture of student hierarchy and strict obedience to authority.
+
+Education institutions must be spaces for personal, socio-political, and intellectual growth. Physical or psychological violence, bullying, sexual harassment, etc. must have no space in these institutions. Hence a zero-tolerance policy towards ragging should be in place. However, university managements on their part turn a blind eye to ragging except when it’s politically expedient to use ragging as a tool to crush student politics.
+
+The nexus between ragging and organised student politics in our State universities have resulted in a call in the larger society to target the rights of the students to organise student unions. Student unions on their part have directly contributed to this culture of violence by either participating or tolerating it to maintain their power in the student body. Therefore, when tragedies related to ragging are reported the first call amongst society is to ‘depoliticise’ student unions or to ‘ban’ student unions all together.
+
+This call to ‘ban’ student unions has paved a convenient path for consecutive Governments to break student resistance against privatisation of education. Therefore, rather than effective mechanisms to end ragging in public universities, these forms of violence are allowed to continue, and thereafter used as State propaganda to portray public universities as indisciplined spaces where leftist student unions run riot.
+
+Ragging can never be a tool to organise a revolutionary student movement. Subjecting students to violence and bending their political autonomy to the will of a few powerful individuals within the student unions is in no way different to the violence we experience in schools, families, in workplaces and by the State. Student unions must begin organising students on political ideas to build a class conscious, anti-racist, anti-oppression, feminist student movement. We believe this is the only way to bring a permanent end to this senseless violence on students like Charith Dilshan.
+
+Therefore, we ask all student unions across State universities including the Inter University Student Federation and Student Unions with political leaning to the JVP and the FSP and other student unions to publicly declare an action plan to end ragging. The time has gone for mere condemnations and concern. The responsibility sits on the shoulders of student leaders to take decisive measures to build a student culture which is radically different from what our students experience today in State universities.
+
+Charith Dilshan’s death must be a stark reminder for all of us engaged in the politics of resistance that every student who comes to the university must be protected from bullies and nurtured. We demand justice for Charith Dilshan. We stand with the call to end ragging in public universities by saying: Enough is Enough! End Ragging Now!
+

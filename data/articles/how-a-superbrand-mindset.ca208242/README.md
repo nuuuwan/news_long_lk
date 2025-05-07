@@ -1,0 +1,70 @@
+# How a Superbrand Mindset Can Streamline and Secure Your Business Online
+
+[https://hbr.org/sponsored/2025/05/how-a-superbrand-mindset-can-streamline-and-secure-your-business-online](https://hbr.org/sponsored/2025/05/how-a-superbrand-mindset-can-streamline-and-secure-your-business-online)
+
+*03:03 PM, Tuesday, May 06, 2025*
+
+Unlike previous industrial revolutions, the digital era has reshaped businesses rapidly, demanding constant adaptation to rising security threats and consistently evolving customer expectations.
+
+A new strategy for customer-centric innovation is helping some of the world’s leading brands develop stronger online security and trust. Organizations like Microsoft are providing that blueprint for success through a “superbrand mindset” that prioritizes trust, security, and differentiated customer experiences.
+
+This progressive mindset isn’t exclusive to Fortune 100 companies or tech giants. It applies to any organization with the vision to prioritize customer experience and security, intentionally designing for longevity and trust.
+
+Addressing these challenges has never been more critical.
+
+By the end of 2025, cybercrime is projected to cost businesses $12 trillion—nearly three times larger than the expected $4.32 trillion global e-commerce market. Traditional brand protection mechanisms like monitoring and defensive domain portfolios are being outpaced, especially with the rise of highly scalable, and difficult to detect, AI-driven threats.
+
+Microsoft may be widely regarded as a “designated driver” of the tech industry, but it is no stranger to relentless self-analysis and drive to improve customer experience and security. Its adoption of the superbrand mindset is most recently and powerfully illustrated through two recent innovations:
+
+1. Acquisition and utilization of the .microsoft domain extension
+
+2. Enhanced brand protection through domain blocking
+
+DotBrands and Digital Identity
+
+New domain extensions like .club, .biz, or even .nyc for New Yorkers were introduced as part of the internet namespace expansion that began in 2012. Lesser-known are the dotBrand domain extensions: new custom tools to enhance security, simplify navigation, and elevate brand trust.
+
+“DotBrands are incredibly powerful assets that allow businesses to distinctly differentiate their digital identities,” says Tony Kirsch, Commercial Director of the Brand Safety Alliance. “By ‘dropping the .com’ and creating memorable web addresses like swoosh.nike or about.google, brands can now guide customers directly to content and mitigate the impact of competitive search environments.”
+
+Microsoft and .microsoft
+
+At Microsoft, the rapid growth of products and online services created challenges and inefficiencies of operating products across many domains, such as microsoft.com, microsoftonline.com, office365.com, and microsoft365.com.
+
+In response to those inefficiencies, Microsoft launched the One Consolidated Domain Initiative (OCDI), with the goal of unifying its software-as-a-service (SaaS) product experiences, such as the M365 productivity suite, under a single domain. After extensive internal engagement and evaluation of options, the organization committed to a new identity within the dotBrand domain extension cloud.microsoft.
+
+“When app experiences span across too many domains, things become difficult,” says Konstantin Ryvkin, Architect at Microsoft. “Users may become wary and confused by inconsistent domain/URL schemes, and IT admins are forced to waste time managing overly complicated allow-lists.
+
+“Additionally, browsers treat apps in different domains as third parties to each other, making the experience less seamless,” Ryvkin says. “Having all trusted apps that people use every day under one domain, like cloud.microsoft, avoids all those inefficiencies and just makes sense.”
+
+Consolidation of these multiple products and services on the new cloud.microsoft platform had an immediate impact on user trust, security, consistency, and overall customer experiences with Microsoft SaaS services. This change was seen as highly successful internally at Microsoft and across Microsoft’s extensive IT admin community.
+
+Proactive Brand Protection
+
+With the move to cloud.microsoft underway, Microsoft turned its focus to increasing brand protection to reduce abuse and improve customer trust.
+
+The organization significantly enhanced its brand protection strategy by adopting GlobalBlock+, a new domain security solution that bolsters defenses against impersonation and phishing by allowing eligible IP owners to prevent the registration of fraudulent or misleading domains that match their brand.
+
+While owning a custom domain extension like .microsoft can be a significant investment, affordable solutions like GlobalBlock+ are making robust domain protection accessible for businesses of all sizes.
+
+The impact of domain blocking on existing business practices can be transformative.
+
+“Historically, our domain portfolio included a collection of defensive registrations accumulated over decades, with a tremendous annual carrying cost,” says Cole Quinn, Manager of Microsoft’s Corporate Domains Services. “GlobalBlock+ has enabled us to begin reducing our defensive domain portfolio while achieving a level of domain name protection previously unattainable.
+
+“Over time, we anticipate being able to significantly reduce our operational and litigation costs while strengthening our defenses against phishing and other cybercrime.”
+
+A Blueprint for Lasting Digital Success
+
+In an era of escalating cyber threats, rapid innovation, and heightened consumer expectations, the superbrand Mindset provides organizations with a clear path—not just to survive, but to thrive.
+
+“Initially, consolidating our products and apps under cloud.microsoft was perceived by many as a branding opportunity,” Ryvkin says. “We quickly realized, however, that unifying our products under the consolidated domain has massive potential to drive improvements and deliver benefits across customer experience, user trust, security, and our own engineering processes. It’s exactly the stable digital foundation we needed for the next 50 years or more.”
+
+Organizations that invest in a simplified and more secure online identity are uniquely positioned for differentiation across multiple functional areas.
+
+Quinn says, “The combination of enhanced domain name blocking to protect our identity and the shift to a consolidated and highly branded web address like cloud.microsoft is transformative and represents a vital opportunity for Microsoft.”
+
+Companies looking to follow Microsoft’s lead can reap immediate benefits from domain blocking services like GlobalBlock+. Soon, they’ll have the option to claim their own dotBrand: global applications are likely to reopen in 2026.
+
+“Looking back at this journey,” Ryvkin says, “our only regret is that we didn’t begin it 20 years ago.”
+
+Thousands of brands like Microsoft are securing their future with GlobalBlock+. Start with your free Domain Vulnerability Report today.
+
