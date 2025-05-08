@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-07 18:23:08**
+Last Updated **2025-05-08 06:25:32**
+
+## 2025-05-08
+
+* [Overly intrusive board is CEO’s worst nightmare](data/articles/overly-intrusive-board-i.cecc4c18/README.md) `ft.lk`
+* [Unmasking energy crisis](data/articles/unmasking-energy-crisis.a1275137/README.md) `ft.lk`
+* [Dark reality of ragging in Sri Lankan universities: Betrayal of hope](data/articles/dark-reality-of-ragging.f6fad819/README.md) `ft.lk`
+* [Decisive mandate for change](data/articles/decisive-mandate-for-cha.0186dd95/README.md) `ft.lk`
+* [LG elections to endgame 2029: Realist readout for tripolar opposition](data/articles/lg-elections-to-endgame.6517c737/README.md) `ft.lk`
 
 ## 2025-05-07
 
+* [President Anura Ku7mara Dissanayake led National People’s Power (NPP) Garnering  4.5 Million ($3%)Votes leads in 265 out of 339 Local Authorities in Election. Ilankai Thamil Arasuk Katchi(ITAK) Coms First in 43 of 58 Councils Contested in North and East](data/articles/president-anura-ku7mara.e34344ad/README.md) `dbsjeyaraj.com`
 * [Renaissance?](data/articles/renaissance.514db9c2/README.md) `ft.lk`
 * [Socialist People’s Forum calls for end to ragging in State universities](data/articles/socialist-people-s-forum.586aaf90/README.md) `ft.lk`
 * [When silence kills: Cost of bullying, ragging, abuse and indifference in Sri Lanka](data/articles/when-silence-kills-cost.7c3d34df/README.md) `ft.lk`

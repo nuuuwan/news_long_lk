@@ -1,0 +1,22 @@
+# Dark reality of ragging in Sri Lankan universities: Betrayal of hope
+
+[https://www.ft.lk/columns/Dark-reality-of-ragging-in-Sri-Lankan-universities-Betrayal-of-hope/4-776292](https://www.ft.lk/columns/Dark-reality-of-ragging-in-Sri-Lankan-universities-Betrayal-of-hope/4-776292)
+
+*03:35 AM, Thursday, May 08, 2025*
+
+The hope with which students enter university must be protected, not betrayed
+
+For thousands of Sri Lankan students, gaining admission to a university is a moment of triumph—the result of years of hard work, sleepless nights, and steadfast pursuit. They enter these institutions with dreams of knowledge, growth, and a future filled with promise. Yet, for many, this dream is swiftly shattered by the brutal reality of ragging.
+
+The recent tragic death of a second-year student Charith Dilshan at Sabaragamuwa University, has reignited concerns about the enforcement of anti-ragging laws in Sri Lanka. Ragging has become a tool for humiliation, psychological torment, and even physical violence. The consequences are devastating, leaving students traumatised, forcing them to drop out, and in the worst cases, costing them their lives as in Charith’s case.
+
+Despite the existence of Sri Lanka’s Prohibition of Ragging and Other Forms of Violence in Educational Institutions Act, No. 20 of 1998, which criminalises ragging, the practice persists. Freshers across the country are still subjected to harassment and abuse. Studies show that many victims suffer from anxiety, depression, and post-traumatic stress disorder. Some never return to their studies, denied of the future they once envisioned.
+
+The persistence of ragging in Sri Lankan universities signals a failure of enforcement, awareness, and institutional accountability. Universities have a moral and legal obligation to protect students, yet many continue to turn a blind eye, allowing this toxic culture to persist. Administrative bodies often fail to investigate complaints properly, leaving victims without justice and supporting perpetrators. The Government, university administrations, and student bodies must take decisive action to break this cycle of abuse. Authorities must ensure that perpetrators face consequences. Universities must adopt a zero-tolerance stance, actively implementing existing anti-ragging legislation. Many students remain unaware of their rights and legal protections. Universities must conduct programs that educate students about ragging, its dangers, and the support systems available to them. Counselling services and safe reporting mechanisms must be strengthened. Universities should establish confidential helplines and support groups, ensuring victims receive the help they need.
+
+Sri Lankan universities should be places of learning, innovation, and personal growth—not institutions where students fear for their safety. The hope with which students enter university must be protected, not betrayed. Ending ragging is not just about enforcing laws—it is about transforming mindsets, fostering respect, and creating an environment where every student can pursue education without fear.
+
+The time for action is now. The future of Sri Lanka’s youth depends on it.
+
+(The writer was a Professor of Finance and Head of the Discipline of Accounting and Finance at James Cook University.)
+
