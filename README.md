@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-08 06:25:32**
+Last Updated **2025-05-08 18:22:45**
 
 ## 2025-05-08
 
+* [What Spain’s blackout says about the grid](data/articles/what-spain-s-blackout-sa.f69b11f8/README.md) `technologyreview.com`
 * [Overly intrusive board is CEO’s worst nightmare](data/articles/overly-intrusive-board-i.cecc4c18/README.md) `ft.lk`
 * [Unmasking energy crisis](data/articles/unmasking-energy-crisis.a1275137/README.md) `ft.lk`
 * [Dark reality of ragging in Sri Lankan universities: Betrayal of hope](data/articles/dark-reality-of-ragging.f6fad819/README.md) `ft.lk`
 * [Decisive mandate for change](data/articles/decisive-mandate-for-cha.0186dd95/README.md) `ft.lk`
+* [Chikungunya and dengue: Neglected scourge in Sri Lanka](data/articles/chikungunya-and-dengue-n.e63d6772/README.md) `ft.lk`
 * [LG elections to endgame 2029: Realist readout for tripolar opposition](data/articles/lg-elections-to-endgame.6517c737/README.md) `ft.lk`
 
 ## 2025-05-07
@@ -60,6 +62,7 @@ Last Updated **2025-05-08 06:25:32**
 
 ## 2025-05-01
 
+* [Senior State Department official sought internal communications with journalists, European officials, and Trump critics](data/articles/senior-state-department.f180cde0/README.md) `technologyreview.com`
 * [Video Quick Take: Verizon’s Christina Schelling on Evolving Your Company’s Talent Strategy for Increased Agility and Performance](data/articles/video-quick-take-verizon.4094c7eb/README.md) `hbr.org`
 * [A long-abandoned US nuclear technology is making a comeback in China](data/articles/a-long-abandoned-us-nucl.65577f97/README.md) `technologyreview.com`
 * [Sri Lanka’s NPP Govt Must Implement Its Pre-election Promise of  Repealing the Draconian Prevention of Terrorism Act(PTA)](data/articles/sri-lanka-s-npp-govt-mus.813f57a7/README.md) `dbsjeyaraj.com`
