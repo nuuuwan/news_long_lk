@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-08 18:22:45**
+Last Updated **2025-05-09 06:25:26**
+
+## 2025-05-09
+
+* [Kilometres of opportunity:  How to scale up Asia Pacific transport](data/articles/kilometres-of-opportunit.c1795220/README.md) `ft.lk`
+* [Conflicting narratives and NPP’s electoral performance](data/articles/conflicting-narratives-a.261b8468/README.md) `ft.lk`
+* [Why Azad Maulana fled from Sri Lanka to Switzerland via India](data/articles/why-azad-maulana-fled-fr.646c8f7b/README.md) `ft.lk`
+* [Ray of reform: Wakf Board’s landmark order on Muslim charities](data/articles/ray-of-reform-wakf-board.9ea667f3/README.md) `ft.lk`
 
 ## 2025-05-08
 
+* [கஜேந்திரகுமார் பொன்னம்பலம் இலங்கை தமிழர்களின் எதிர்கால அரசியல் தலைவராக வருவாரா?](data/articles/கஜ-ந-த-ரக-ம-ர-ப-ன-னம-பலம.14cf5c6b/README.md) `dbsjeyaraj.com`
+* [5 Actions to Enhance Shareholder Value in M&A Deals](data/articles/5-actions-to-enhance-sha.33566cd7/README.md) `hbr.org`
+* [Did solar power cause Spain’s blackout?](data/articles/did-solar-power-cause-sp.f69b11f8/README.md) `technologyreview.com`
 * [What Spain’s blackout says about the grid](data/articles/what-spain-s-blackout-sa.f69b11f8/README.md) `technologyreview.com`
 * [Overly intrusive board is CEO’s worst nightmare](data/articles/overly-intrusive-board-i.cecc4c18/README.md) `ft.lk`
 * [Unmasking energy crisis](data/articles/unmasking-energy-crisis.a1275137/README.md) `ft.lk`
