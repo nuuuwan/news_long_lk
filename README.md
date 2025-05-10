@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-09 18:23:09**
+Last Updated **2025-05-10 06:25:55**
 
 ## 2025-05-09
 
+* [Being prompt to respond to Trump](data/articles/being-prompt-to-respond.27f3ff6a/README.md) `ft.lk`
+* [NPP post polls: between  optics and operationals](data/articles/npp-post-polls-between-o.ba64aae8/README.md) `ft.lk`
 * [Your gut microbes might encourage criminal behavior](data/articles/your-gut-microbes-might.74ec3769/README.md) `technologyreview.com`
 * [Kilometres of opportunity:  How to scale up Asia Pacific transport](data/articles/kilometres-of-opportunit.c1795220/README.md) `ft.lk`
 * [Conflicting narratives and NPP’s electoral performance](data/articles/conflicting-narratives-a.261b8468/README.md) `ft.lk`
