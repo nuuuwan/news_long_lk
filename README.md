@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-11 18:20:32**
+Last Updated **2025-05-12 06:25:35**
+
+## 2025-05-11
+
+* [Why Channel 4 TV Whistleblower  Azad Maulana Fled from Sri Lanka  Via India to  Seek Asylum in Switzerland.](data/articles/why-channel-4-tv-whistle.70acef98/README.md) `dbsjeyaraj.com`
 
 ## 2025-05-09
 
