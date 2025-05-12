@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-12 06:25:35**
+Last Updated **2025-05-12 18:22:47**
 
 ## 2025-05-11
 
@@ -38,6 +38,7 @@ Last Updated **2025-05-12 06:25:35**
 * [Socialist People’s Forum calls for end to ragging in State universities](data/articles/socialist-people-s-forum.586aaf90/README.md) `ft.lk`
 * [When silence kills: Cost of bullying, ragging, abuse and indifference in Sri Lanka](data/articles/when-silence-kills-cost.7c3d34df/README.md) `ft.lk`
 * [Wind power: Essential element of renewable energy mix for Sri Lanka](data/articles/wind-power-essential-ele.d22c3287/README.md) `ft.lk`
+* [This patient’s Neuralink brain implant gets a boost from generative AI](data/articles/this-patient-s-neuralink.eecc39f8/README.md) `technologyreview.com`
 * [How Asia can revolutionise food systems—before it’s too late](data/articles/how-asia-can-revolutioni.8fc4f6ce/README.md) `ft.lk`
 
 ## 2025-05-06
