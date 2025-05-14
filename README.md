@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-14 06:25:39**
+Last Updated **2025-05-14 18:22:59**
 
 ## 2025-05-14
 
+* [The first US hub for experimental medical treatments is coming](data/articles/the-first-us-hub-for-exp.f40878ad/README.md) `technologyreview.com`
 * [Why victim advocacy and multidisciplinary teams are not optional – they are life-saving](data/articles/why-victim-advocacy-and.2c1cf49c/README.md) `ft.lk`
 * [Combating child abuse and ragging in Lankan educational institutions: Collective responsibility](data/articles/combating-child-abuse-an.ee80c5b9/README.md) `ft.lk`
 * [Living in 2035: Seven paradoxes Arthur C. Clarke hasn’t envisioned](data/articles/living-in-2035-seven-par.5962f9aa/README.md) `ft.lk`
@@ -19,6 +20,7 @@ Last Updated **2025-05-14 06:25:39**
 ## 2025-05-12
 
 * [How Flexible Hiring Models Are Redefining Workforce Resilience](data/articles/how-flexible-hiring-mode.d1d738b0/README.md) `hbr.org`
+* [How a new type of AI is helping police skirt facial recognition bans](data/articles/how-a-new-type-of-ai-is.bcf25af3/README.md) `technologyreview.com`
 
 ## 2025-05-11
 
