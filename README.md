@@ -2,17 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-15 06:25:42**
+Last Updated **2025-05-15 18:24:00**
 
 ## 2025-05-15
 
+* [How US research cuts are threatening crucial climate data](data/articles/how-us-research-cuts-are.07190911/README.md) `technologyreview.com`
 * [The end of the beginning of AKD-JVP-NPP rule](data/articles/the-end-of-the-beginning.957f1c5a/README.md) `ft.lk`
 * [Resilience and revival amidst revered rituals: Post-Vesak pondering](data/articles/resilience-and-revival-a.14b654b7/README.md) `ft.lk`
 * [National disgrace that demands immediate action](data/articles/national-disgrace-that-d.52466e67/README.md) `ft.lk`
+* [Sri Lanka energy crisis: The future](data/articles/sri-lanka-energy-crisis.e1e78b80/README.md) `ft.lk`
 * [Sri Lanka energy crisis: The future](data/articles/sri-lanka-energy-crisis.7bc0f3c9/README.md) `ft.lk`
 
 ## 2025-05-14
 
+* [எஸ். டபிள்யூ. ஆர்.டி பண்டாரநாயக்கவும் எஸ். ஜே.வி  செல்வநாயகமும் 1957 ஆம் ஆண்டில் பண்டா — செல்வா ஒப்பந்தத்தில் ஏன்,  எவ்வாறு கைச்சாத்திட்டார்கள் ?](data/articles/எஸ-டப-ள-ய-ஆர-ட-பண-ட-ரந-ய.61966fdf/README.md) `dbsjeyaraj.com`
 * [Google DeepMind’s new AI agent uses large language models to crack real-world problems](data/articles/google-deepmind-s-new-ai.91eeeb4f/README.md) `technologyreview.com`
 * [The first US hub for experimental medical treatments is coming](data/articles/the-first-us-hub-for-exp.f40878ad/README.md) `technologyreview.com`
 * [Why victim advocacy and multidisciplinary teams are not optional – they are life-saving](data/articles/why-victim-advocacy-and.2c1cf49c/README.md) `ft.lk`
@@ -24,6 +27,7 @@ Last Updated **2025-05-15 06:25:42**
 ## 2025-05-13
 
 * [Police tech can sidestep facial recognition bans now](data/articles/police-tech-can-sidestep.e525c685/README.md) `technologyreview.com`
+* [A US court just put ownership of CRISPR back in play](data/articles/a-us-court-just-put-owne.214b9617/README.md) `technologyreview.com`
 
 ## 2025-05-12
 

@@ -1,5 +1,12 @@
 [
   {
+    "title": "How US research cuts are threatening crucial climate data",
+    "url": "https://www.technologyreview.com/2025/05/15/1116485/climate-data/",
+    "ut": 1747265400.0,
+    "dir_path_unix": "data/articles/how-us-research-cuts-are.07190911",
+    "time_str_formatted": "05:00 AM, Thursday, May 15, 2025"
+  },
+  {
     "title": "The end of the beginning of AKD-JVP-NPP rule",
     "url": "https://www.ft.lk/columns/The-end-of-the-beginning-of-AKD-JVP-NPP-rule/4-776473",
     "ut": 1747254158.0,
@@ -22,10 +29,24 @@
   },
   {
     "title": "Sri Lanka energy crisis: The future",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-energy-crisis-The-future/4-776469",
+    "ut": 1747253103.0,
+    "dir_path_unix": "data/articles/sri-lanka-energy-crisis.e1e78b80",
+    "time_str_formatted": "01:35 AM, Thursday, May 15, 2025"
+  },
+  {
+    "title": "Sri Lanka energy crisis: The future",
     "url": "https://www.ft.lk/opinion/Sri-Lanka-energy-crisis-The-future/14-776469",
     "ut": 1747253103.0,
     "dir_path_unix": "data/articles/sri-lanka-energy-crisis.7bc0f3c9",
     "time_str_formatted": "01:35 AM, Thursday, May 15, 2025"
+  },
+  {
+    "title": "\u0b8e\u0bb8\u0bcd. \u0b9f\u0baa\u0bbf\u0bb3\u0bcd\u0baf\u0bc2. \u0b86\u0bb0\u0bcd.\u0b9f\u0bbf \u0baa\u0ba3\u0bcd\u0b9f\u0bbe\u0bb0\u0ba8\u0bbe\u0baf\u0b95\u0bcd\u0b95\u0bb5\u0bc1\u0bae\u0bcd \u0b8e\u0bb8\u0bcd. \u0b9c\u0bc7.\u0bb5\u0bbf  \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0ba8\u0bbe\u0baf\u0b95\u0bae\u0bc1\u0bae\u0bcd 1957 \u0b86\u0bae\u0bcd \u0b86\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd \u0baa\u0ba3\u0bcd\u0b9f\u0bbe \u2014 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bbe \u0b92\u0baa\u0bcd\u0baa\u0ba8\u0bcd\u0ba4\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd \u0b8f\u0ba9\u0bcd,  \u0b8e\u0bb5\u0bcd\u0bb5\u0bbe\u0bb1\u0bc1 \u0b95\u0bc8\u0b9a\u0bcd\u0b9a\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bcd\u0b95\u0bb3\u0bcd ?",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=85901",
+    "ut": 1747226920.0,
+    "dir_path_unix": "data/articles/\u0b8e\u0bb8-\u0b9f\u0baa-\u0bb3-\u0baf-\u0b86\u0bb0-\u0b9f-\u0baa\u0ba3-\u0b9f-\u0bb0\u0ba8-\u0baf.61966fdf",
+    "time_str_formatted": "06:18 PM, Wednesday, May 14, 2025"
   },
   {
     "title": "Google DeepMind\u2019s new AI agent uses large language models to crack real-world problems",
@@ -82,6 +103,13 @@
     "ut": 1747092600.0,
     "dir_path_unix": "data/articles/police-tech-can-sidestep.e525c685",
     "time_str_formatted": "05:00 AM, Tuesday, May 13, 2025"
+  },
+  {
+    "title": "A US court just put ownership of CRISPR back in play",
+    "url": "https://www.technologyreview.com/2025/05/13/1116344/a-us-court-just-put-ownership-of-crispr-back-in-play/",
+    "ut": 1747089000.0,
+    "dir_path_unix": "data/articles/a-us-court-just-put-owne.214b9617",
+    "time_str_formatted": "04:00 AM, Tuesday, May 13, 2025"
   },
   {
     "title": "How Flexible Hiring Models Are Redefining Workforce Resilience",
