@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-14 18:22:59**
+Last Updated **2025-05-15 06:25:42**
+
+## 2025-05-15
+
+* [The end of the beginning of AKD-JVP-NPP rule](data/articles/the-end-of-the-beginning.957f1c5a/README.md) `ft.lk`
+* [Resilience and revival amidst revered rituals: Post-Vesak pondering](data/articles/resilience-and-revival-a.14b654b7/README.md) `ft.lk`
+* [National disgrace that demands immediate action](data/articles/national-disgrace-that-d.52466e67/README.md) `ft.lk`
+* [Sri Lanka energy crisis: The future](data/articles/sri-lanka-energy-crisis.7bc0f3c9/README.md) `ft.lk`
 
 ## 2025-05-14
 
+* [Google DeepMind’s new AI agent uses large language models to crack real-world problems](data/articles/google-deepmind-s-new-ai.91eeeb4f/README.md) `technologyreview.com`
 * [The first US hub for experimental medical treatments is coming](data/articles/the-first-us-hub-for-exp.f40878ad/README.md) `technologyreview.com`
 * [Why victim advocacy and multidisciplinary teams are not optional – they are life-saving](data/articles/why-victim-advocacy-and.2c1cf49c/README.md) `ft.lk`
 * [Combating child abuse and ragging in Lankan educational institutions: Collective responsibility](data/articles/combating-child-abuse-an.ee80c5b9/README.md) `ft.lk`
