@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-16 06:25:44**
+Last Updated **2025-05-16 18:22:51**
 
 ## 2025-05-16
 
+* [Access to experimental medical treatments is expanding across the US](data/articles/access-to-experimental-m.a0c376b3/README.md) `technologyreview.com`
 * [Priority trade and competitiveness reforms for Sri Lanka – Part 1](data/articles/priority-trade-and-compe.1f03c43c/README.md) `ft.lk`
 * [Exclusion challenging  Sri Lanka tourism’s values](data/articles/exclusion-challenging-sr.a94d4903/README.md) `ft.lk`
 * [How US tariffs and fragile rupee are exposing Sri Lanka’s export vulnerabilities](data/articles/how-us-tariffs-and-fragi.b26c0268/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-05-16 06:25:44**
 
 ## 2025-05-15
 
+* [“Brigadier”  Balraj  was  the finest  military  commander the tigers ever had. Balraj’s military skills were appreciated even by his opponents in the Sri Lankan Army..](data/articles/brigadier-balraj-was-th.fab87be5/README.md) `dbsjeyaraj.com`
 * [How US research cuts are threatening crucial climate data](data/articles/how-us-research-cuts-are.07190911/README.md) `technologyreview.com`
 * [The end of the beginning of AKD-JVP-NPP rule](data/articles/the-end-of-the-beginning.957f1c5a/README.md) `ft.lk`
 * [Resilience and revival amidst revered rituals: Post-Vesak pondering](data/articles/resilience-and-revival-a.14b654b7/README.md) `ft.lk`
@@ -26,6 +28,7 @@ Last Updated **2025-05-16 06:25:44**
 * [எஸ். டபிள்யூ. ஆர்.டி பண்டாரநாயக்கவும் எஸ். ஜே.வி  செல்வநாயகமும் 1957 ஆம் ஆண்டில் பண்டா — செல்வா ஒப்பந்தத்தில் ஏன்,  எவ்வாறு கைச்சாத்திட்டார்கள் ?](data/articles/எஸ-டப-ள-ய-ஆர-ட-பண-ட-ரந-ய.61966fdf/README.md) `dbsjeyaraj.com`
 * [Google DeepMind’s new AI agent uses large language models to crack real-world problems](data/articles/google-deepmind-s-new-ai.91eeeb4f/README.md) `technologyreview.com`
 * [The first US hub for experimental medical treatments is coming](data/articles/the-first-us-hub-for-exp.f40878ad/README.md) `technologyreview.com`
+* [Why climate researchers are taking the temperature of mountain snow](data/articles/why-climate-researchers.755ffb0d/README.md) `technologyreview.com`
 * [Why victim advocacy and multidisciplinary teams are not optional – they are life-saving](data/articles/why-victim-advocacy-and.2c1cf49c/README.md) `ft.lk`
 * [Combating child abuse and ragging in Lankan educational institutions: Collective responsibility](data/articles/combating-child-abuse-an.ee80c5b9/README.md) `ft.lk`
 * [Living in 2035: Seven paradoxes Arthur C. Clarke hasn’t envisioned](data/articles/living-in-2035-seven-par.5962f9aa/README.md) `ft.lk`
