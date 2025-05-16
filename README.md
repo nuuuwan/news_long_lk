@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-15 18:24:00**
+Last Updated **2025-05-16 06:25:44**
+
+## 2025-05-16
+
+* [Priority trade and competitiveness reforms for Sri Lanka – Part 1](data/articles/priority-trade-and-compe.1f03c43c/README.md) `ft.lk`
+* [Exclusion challenging  Sri Lanka tourism’s values](data/articles/exclusion-challenging-sr.a94d4903/README.md) `ft.lk`
+* [How US tariffs and fragile rupee are exposing Sri Lanka’s export vulnerabilities](data/articles/how-us-tariffs-and-fragi.b26c0268/README.md) `ft.lk`
+* [Media freedom, institutional access, and danger of unchecked citizen media](data/articles/media-freedom-institutio.08bf4206/README.md) `ft.lk`
+* [Rajiv Gandhi, Indo-Lanka Accord, and Sriperumbhudur assassination](data/articles/rajiv-gandhi-indo-lanka.0f8ac648/README.md) `ft.lk`
 
 ## 2025-05-15
 
