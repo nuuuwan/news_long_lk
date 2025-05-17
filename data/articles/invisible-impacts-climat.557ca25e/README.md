@@ -1,0 +1,32 @@
+# Invisible impacts: Climate change and mental health
+
+[https://www.ft.lk/columns/Invisible-impacts-Climate-change-and-mental-health/4-776562](https://www.ft.lk/columns/Invisible-impacts-Climate-change-and-mental-health/4-776562)
+
+*12:27 AM, Saturday, May 17, 2025*
+
+The climate crisis is not just an environmental or economic challenge but also a mental health crisis
+
+Climate change is most visible through its direct and tangible consequences, such as extreme weather events, economic losses, or ecosystem degradation. However, its invisible impacts on mental and emotional well-being are equally profound and have the potential to reshape lives and communities in ways that are not captured through traditional metrics of loss and damage. As countries across the world grapple with escalating climate risks, understanding psychological and psychosocial dimensions is critical for building holistic resilience. The climate crisis poses not just an environmental challenge but can also lead to despair, anxiety, and other mental health impacts.
+
+Economic and non-economic loss and damage
+
+Climate-induced loss and damage encompasses both economic and non-economic losses. While the former includes quantifiable losses like destroyed infrastructure or agricultural losses, the latter refers to intangible impacts such as cultural loss, deterioration of social cohesion, or impacts on human health. These losses—rooted in place, memory, and tradition—are not captured in many policy discussions, perpetuating a cycle of invisibility for those who are most vulnerable.
+
+Physical hazards can translate swiftly into psychological stressors. The loss of culturally significant sites can sever ties to heritage, deepening grief and identity crises. Such losses further threaten the social fabric and intergenerational well-being of communities, especially in situations of ongoing human mobility (e.g., migration, disaster displacement, or planned relocation). Globally, empirical studies link extreme weather events to spikes in depression, post-traumatic stress disorder (PTSD), and suicide rates.
+
+New frameworks are emerging to articulate these psychological burdens. Solastalgia—a term coined by philosopher Glenn Albrecht to describe distress caused by environmental change in one’s home environment—resonates deeply in many climate-affected communities. Similarly, eco-anxiety, a chronic fear of ecological doom, is rising among youth globally. On the one hand, this anxiety can fuel action, but on the other hand, it can also paralyse, as many people struggle with feelings of powerlessness in the face of systemic inaction.
+
+“Climate trauma” goes further, denoting both the acute shock of witnessing disaster and the cumulative burden of living under a long-term environmental threat. It captures the long-term psychological effects of surviving disasters or repeated exposure to climate risks, which could help policymakers and mental health professionals to better articulate and measure impacts that might otherwise be dismissed as “soft” or secondary. In post-disaster settings, trauma can manifest in sleep disorders, hypervigilance, grief, social isolation, or community breakdown. These concepts, while not yet fully integrated into clinical practice, highlight the urgent need to expand mental health responses to include climate-related stressors.
+
+Challenges and solutions for addressing mental and emotional health aspects of climate change
+
+Mental health often remains sidelined due to a lack of sufficient awareness, capacities, funding, and effective response strategies. Climate-specific psychological support is virtually non-existent, and disaster response often prioritises physical recovery—rebuilding homes, restoring power, compensating farmers—over mental health support, which is mirrored in the provision of funding from various sources.
+
+Finding solutions to these challenges requires a mindset shift together with greater awareness and understanding of mental health as a climate-related issue. Actors on health and climate could work together more closely to identify relevant interconnections and better coordinate their existing efforts to ensure that the needs of vulnerable individuals, households, and communities are met. Potential solutions could include the integration of mental health into climate change adaptation planning; investment into community-based support networks and coping mechanisms; expanded research on non-economic forms of loss and damage; public awareness campaigns; and leveraging innovative financing instruments.
+
+Building holistic resilience
+
+The climate crisis is not just an environmental or economic challenge; it is a mental health crisis. From acute trauma to chronic stress, the psychological and emotional impacts of disasters as well as long-term climatic changes are profound. By acknowledging these impacts and making them visible, resilience strategies can heal minds as well as landscapes. However, addressing this issue requires a multi-layered approach. Investing in psychosocial wellbeing not only has the potential to mitigate negative impacts but also to enhance community cohesion and empower vulnerable populations to adapt to—and advocate for—more sustainable futures.
+
+(The writer works as Director: Research & Knowledge Management at SLYCAN Trust, a non-profit think tank. His work focuses on climate change, adaptation, resilience, ecosystem conservation, just transition, human mobility, and a range of related issues. He holds a Master’s degree in Education from the University of Cologne, Germany and is a regular contributor to several international and local media outlets.)
+

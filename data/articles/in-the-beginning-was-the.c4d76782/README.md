@@ -1,0 +1,52 @@
+# In the beginning was the word
+
+[https://www.ft.lk/columns/In-the-beginning-was-the-word/4-776564](https://www.ft.lk/columns/In-the-beginning-was-the-word/4-776564)
+
+*12:31 AM, Saturday, May 17, 2025*
+
+They may write, but it will be a hopeless task to find records, minutes or correspondence with Government departments
+
+“Liuwa!”, “liuwa!” (wrote, wrote), are the words exclaimed in exasperation by our motorists when booked for a traffic offence by a policeman. Such a citation would usually require the errant driver to pay a fine or even attend court presently. However, what in most countries is described as getting a ticket for a traffic violation, in the episode description here the emphasis is on the act of scribbling by the policeman on the charge sheet, not the offence or the offender. He wrote! he wrote! There is a certain excitement in the intonation of the words, a finality, the deed is done and passed on to other realms where surely more writing will take place.
+
+Although in the course of their work at a police station there is bound to be note taking and record keeping, reading and writing are not activities generally identified with the keepers of the law. Ask a young student to draw a picture of police activity, we will have pictures of easily recognisable uniforms, guns in hand, large vehicles carrying policemen or actions like saluting.
+
+Will we have pictures of them reading or writing?
+
+It is said, and, it is observable, that we are an oral culture, minds primarily influenced by the spoken as opposed to the written word. In this country we rarely see a person with a book in hand. Even this rare reader, is invariably a reader in a native language, taking a dip in a very small pond. Men reading books written by men just like them, of similar attitudes and mental make-up. However, it is the spoken word they readily respond to; ceaseless political chats or so called spiritual prattling satisfy their souls. All that are spoken of are also found in writing; then, reading is an effort. Put orally, things become simpler, goals are reachable, greatness is only a few steps away.
+
+A few political lectures, the “truth” is revealed, the listener is converted.
+
+Politicians who speak entertainingly are top dog in this society. Speak glibly of international affairs, economic policy, social issues or preach good governance; the people rejoice, their faces light-up with new enlightenment. You will not see any writing by the speaker on their topics; to put something coherently on paper requires more than a big mouth. Our leaders will orate, but will not write. Even referring to a note is considered a weakness on stage; ‘off the cuff’ is the admired speech making style in the muddled culture. Politicians in the UK or USA, native English speakers, will refer a note when making speeches; not so our Jayewardenes or Bandaranaikes, they are sure of their English, and as to facts, it is all oral!
+
+Oral cultures acknowledge instinctively that modernity is out of reach in their medium; modernity is a creation of the written word. The knowledge that is required to build an aeroplane or a computer cannot be handled orally. However, what is in written form can be crammed, the examinations passed, yet the mind may function in the oral mode. As a result, in this country many carrying paper qualifications don’t seem authentic; our scientists indulge in voodoo, our teachers don’t read, policemen ignore the law, public servants expect gratuities and at universities senior students brutalise the newcomers; descriptively, they look so unlikely for these roles.
+
+We may be inclined towards an oral culture, take refuge in the vagueness of the spoken word, revel in its imprecision and malleability, yet to function in the present reality, we need writing. Governments of today are based on writing; records must be kept, minutes written and letters replied. On these essential aspects, our record is appalling. This perhaps is the root of our failure; an essentially oral culture using methods based on writing, ergo, whatever is written willy-nilly is imprecise and garbled, while the talk continues endlessly.
+
+As recent events in Kandy show, things can break down very fast in our society. All the planning is in the mind of the boss, instructions are given orally, no diagrams, no white board. Proper and orderly organisation is often out of range for them. Oral conceptions can be chaotic; people break the systems, rush the queues, a VIP category is given special access (the idea of ‘prabu’ is quite large in oral definitions, but certainly in this country do not include the elderly, the infirm or the young); there are no facilities, they wash in public, dirty the holy city, defecate on the roads, all in the name of a spiritual journey.
+
+After more than 70 years of self-governance, and much spoken of free education, that we have so many bedraggled millions with no sense of organisation or discipline in them is humiliating. Pitying them, some altruists distributed food stuff, there was an unseemly rush for the food. They were repeating a defining theme; the benevolent giver and the abject receiver.
+
+All the attendant concepts at play; spirituality, VIP status, cleanliness, discipline and the idea of a queue, grappled with orally, seem infinitely flexible.
+
+Writing has authority
+
+However grudgingly, oral cultures are fascinated with the idea of writing – “Liuwa, Liuwa” is a typical response; writing has authority, demands discipline and carries consequences.
+
+There was this friend who had a small shop where she sold curios. The shop was in her own house. Her husband was a successful businessman and she did this business more as a hobby. My friend would fly to Thailand occasionally to purchase the bric-a-bracs. Rarely that her shop exceeded Rs. 500,000 a month in turnover. It was a very small business.
+
+Since she had to attend to her children my friend needed help in the shop. She knew an unmarried fortyish something woman in the area who after some persuasion accepted a position at the shop, just to occupy her time. This woman lived with her very old mother in their own house. They had some bank deposits, and with occasional help from relatives living overseas, managed to make ends meet. She had studied up to grade eight, but had no particular skills. This was her very first attempt at employment. Apparently she was punctual and came to work neatly dressed, but had no confidence to serve a customer. When a customer dropped in she would fret, summoning my friend from inside the house to attend to the sale.
+
+The woman knew the people in the area and would wave to them from the shop window. My friend soon noticed that the woman was seated by the shop window overlooking the road pretending to be writing. She had the impression the woman was attempting to impress the neighbours with the importance of her employment: she wanted them to believe that she was busy writing; keeping records, doing the accounts, corresponding with suppliers! She was busy, writing all the time!
+
+This story took my mind to our huge public sector, an oral culture adapting to the demands of writing. Every day of the week, a million or so public servants sit at their desks writing or typing away. What are these men writing? We can only hope they are analysing their subject intelligently, writing good policy papers and completing the necessary documentation. It is widely accepted that we have a failed public sector, performing far below the standards of other countries, and, if compared to countries like Singapore, Japan or South Korea performing disastrously. But they are writing…
+
+Where has all this writing taken us?
+
+The state of the country today provides an unmistakable clue.
+
+They may write, but it will be a hopeless task to find records, minutes or correspondence with Government departments. Nothing will be done by them on time, there is no authority to question their tardiness. The letters written by the public will not be answered, telephone calls to them will be an act of foolish optimism. No Government institution has an institutional memory, its history will depend on what you hear, by word of mouth, invariably fanciful.
+
+Ironically, oral cultures pay scant attention to the spoken word. Telephone a Government official, he will be curt and irritable. We will witness a miracle if a Government official acts on a verbal request, he will not jot it down, he will not take the responsibility. Coming from an oral culture it will be challenging for the official to reduce an oral discussion into written form, leave alone acting on it. His character lacks the requisite authority. These products of an oral culture have become its own nemesis.
+
+But then, words are all we have.
+
