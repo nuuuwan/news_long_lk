@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-18 18:21:20**
+Last Updated **2025-05-19 06:26:12**
+
+## 2025-05-19
+
+* [Let creative and enterprising people head local bodies, not those with party affiliations](data/articles/let-creative-and-enterpr.376cdd20/README.md) `ft.lk`
+* [Deja vu?: How to prevent Yahapalana 2.0](data/articles/deja-vu-how-to-prevent-y.f0bca94f/README.md) `ft.lk`
+* [Trump and Mar-a-Lago Accords](data/articles/trump-and-mar-a-lago-acc.adbe8070/README.md) `ft.lk`
+* [Sri Lanka’s renewable energy dilemma: Choosing the right path forward](data/articles/sri-lanka-s-renewable-en.3d3e390d/README.md) `ft.lk`
 
 ## 2025-05-17
 
