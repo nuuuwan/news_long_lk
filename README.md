@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-20 06:26:11**
+Last Updated **2025-05-20 18:25:45**
 
 ## 2025-05-20
 
+* [Everything you need to know about estimating AI’s energy and emissions burden](data/articles/everything-you-need-to-k.6020cf71/README.md) `technologyreview.com`
+* [The data center boom in the desert](data/articles/the-data-center-boom-in.e811dc3d/README.md) `technologyreview.com`
+* [Four reasons to be optimistic about AI’s energy usage](data/articles/four-reasons-to-be-optim.2efc1e9a/README.md) `technologyreview.com`
+* [Can nuclear power really fuel the rise of AI?](data/articles/can-nuclear-power-really.535afbd1/README.md) `technologyreview.com`
+* [AI could keep us dependent on natural gas for decades to come](data/articles/ai-could-keep-us-depende.db4fddb0/README.md) `technologyreview.com`
 * [AKD; promise and performance](data/articles/akd-promise-and-performa.74bbb04b/README.md) `ft.lk`
 * [Media’s AI use needs strong ethical framework and reality checks](data/articles/media-s-ai-use-needs-str.8b38976e/README.md) `ft.lk`
 * [Happy Birthday: Remembering ‘The Boss’](data/articles/happy-birthday-rememberi.125de11e/README.md) `ft.lk`
