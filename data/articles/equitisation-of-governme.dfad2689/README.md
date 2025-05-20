@@ -1,0 +1,88 @@
+# Equitisation of government business enterprises – SL SoEs
+
+[https://www.ft.lk/columns/Equitisation-of-government-business-enterprises-SL-SoEs/4-776640](https://www.ft.lk/columns/Equitisation-of-government-business-enterprises-SL-SoEs/4-776640)
+
+*11:21 PM, Monday, May 19, 2025*
+
+Before beginning the equitisation-privatisation process, it is important to assess scientifically all available data of lossmaking and inefficiently run SoEs at least over the past five consecutive years
+
+The Sri Lankan Government is planning to begin the equitisation process of SoEs, a form of quasi privatisation. The term Equitisation originated in Vietnam at the time of embarking restructure of their SoEs. Sri Lanka aims to increase the productivity, efficiency and be independent of Treasury which hitherto supported the lossmaking SOEs; one example was SriLankan Airlines which made headlines for continuous losses and mismanagement. As per ref source (1) Sri Lanka has 399 SoEs, out of which only 52 SoEs had data to assess their performance score and ranking. In this context determining the SoEs to be equitised is a mammoth task of the Government and also the availability of local expertise.
+
+Identification of lossmaking SoEs
+
+Selection of SoEs for restructure shouldn’t be random or the wish of politicians but, on the pre-determined criteria revealed by various research studies, such as the economic, political, and social objectives at each stage of development. However, this may likely create selection bias, political and social bargaining which would lead to inaccurate estimation of the true effect of equitisation; hence it is important to weigh all factors both internal to SoE and external influences according to individual merits and demerits to arrive at a plausible decision.
+
+The scorecard method, a commonly used technique covers a variety of measures of key indices for assessing performance of SoEs, not limiting to financial achievements year on year basis, but also against the fulfilment of a firm’s vision, the policies and measure PSM (Public Service Motivation) of the entity. Furthermore, extended to cover accountability, responsibilities and the dynamics of the governing board, of executive and non-executive directors which pays a key role for the success. The board of governance should be capable and skilled to perform the tasks, their contributions and further regular presence at board meetings. Frequent turnover of board members or heads of divisions gives an early signal of direction of performance, either to be a “going concern” or heading for liquidation. Both financial and governance are elements in determining the contribution to economic performance at macro-economic scale of the state.
+
+Government business enterprises aka SoEs
+
+Upon analysing the list of SOEs, it appears that keeping under Government management and control had become a heavy load and a burden to the State whilst funding from taxpayers for the losses. Out of the 399 SoEs, 343 had no in particular financial records viz: annual financial statements (balance sheet, P/L YoY), to be able to assess RoA and derive the operations status. Some of the notable limitations encountered of SoEs reports were viz: (1) availability of credible annual reports, (2) alignment of financial reporting to “Accounting” standards (3) data disparities of Government reporting on SoEs and (4) inaction of successive Governments to redress these deficiencies. Although SL Government’s initiative in exploring equitisation is commendable in determining and listing SoEs which are to be equitised is not simple and easy. There is no one easy model applicable for all SoEs but detailed analysis is required while addressing the individual state of each organisation.
+
+Equitisation model(s)
+
+Equitisation of State-Owned Enterprises (SoEs) refers to the process of transforming an SoE into a public company or joint stock company, often through a public offering of shares. This process allows for the Government to partially or fully divest its ownership in the SoE while still maintaining some degree of control, especially in strategic sectors. The primary goal is to improve productivity, efficiency, transparency, and attract private capital. In brief some of the conventional transformation models are listed below:
+
+a)Public offerings (IPO) or/and Non-public offering (INPO)
+
+The attraction to public for investing depend upon the past performances of the entity and determination of share price. Lossmaking institutions will not qualify for this divestment strategy. As an extension to offer some volume of shares to its employees preferably at no cost thus improving employee loyalty
+
+b)Improve efficiency and competitiveness
+
+Introduce market mechanisms and attract private investment, SoEs are expected to become more efficient and competitive.
+
+c)Attracting foreign investment
+
+Attract foreign investment by providing access to promising SoEs, potentially bringing new technology and management expertise. Could be either financial or non-financial
+
+d)Strategic partnerships
+
+Government to sell a significant shareholding in the SoE to a strategic investor, who can bring expertise, resources, or market access. This approach can be used to accelerate the transformation process and improve the SoE’s competitiveness. E.g. Transformation of SL Telecommunication sector
+
+It is important to bring legal and regulatory framework determining the choices available, be either standalone or in combination of the said models for equitisation. It is also vital to maintain competitive neutrality as case may be. Furthermore, improving, governance and, accountability of the entity need high focus.
+
+1.Singapore Temasek model: This is a government owned holding company that manages and invests in SoEs. Temasek is the sole owner of the Ministry of Finance, delegates decision-making authority to the management of its portfolio companies while remaining an “owner investor” and “active investor”. This approach aims to maintain a balance between government oversight and business autonomy, while also focusing on commercial viability and alignment with broader economic goals. This holding structure facilitates delegation of decision-making authority to the firms it invested and promoting both profitability and public service obligations.
+
+Integration of service SoEs
+
+2.In New South Wales Australia, all the state service organisations are operating under one umbrella organisation, “The Service NSW”, where all service offerings are integrated. For example, issuing of driver’s licences, registration, renewal and transfer of ownerships of vehicles, birth, death and marriage certificates along with other miscellaneous services. Most of the service offerings are carried out via web portals and minimal face to face interaction at Service NSW officers.
+
+Equitisation to privatisation
+
+Equitisation could be considered as the first step before commencement of the privatisation process. Privatisation is a process of total relinquishment of government control through complete sale of its shares to private ownership. Equitisation represents a nuanced difference in which SoEs’ shares were sold off partially rather than completely to private investors, through usage of stock issuance on stock markets thus retaining some sort of control based on the state equity.
+
+Firstly, it is essential to identify the SoEs intended to be transformed based of multiple factors, size, performance indices, strategic importance, information security and to economic aspects. As per the research studies, it classifies into three stages, traditional, transitional and transformational stages. In traditional stage a gradual shift and an experimental phase leading to full privatisation. The transitional stage more generalised and selection of enterprises where private sector outperforms than being maintained by public sector thus government provides less subsidies to run the business. In contrast the transformation stage be more liberalised and complete transition to capitalist economy. Government needs to list the potential candidates for equitisation or move on to transitional and transformative stages. Has the Sri Lankan Government identified SoEs out of 399 against the above three stages and with implementation timeframe?
+
+Competitive neutrality
+
+Whilst implementing the equitisation and leading to privatisation for microeconomic reforms, it is essential to maintain competitive neutrality, the Government shouldn’t enjoy net competitive advantage over their private sector competitors simply by virtue of public sector ownership. Should remove resource allocation distortions arising out of public ownership of significant business activities thus improving competitive processes. Where competitive neutrality arrangements are not in place legislative framework need to be instituted for fair go.
+
+In contrast to what have been mentioned earlier, SoEs often combined commercial and non-commercial objectives for the reason of political and historical nature and could be run efficiently with natural monopoly where competition is imperfect. Traditionally and to-date some governments, including Sri Lanka, run Energy and Rail services which are monopolistic and vertically integrated utilities by the State.  However, since the 1990s, deep reforms have been undertaken in order to open these sectors to cross-border provision, more competition and market dynamics.
+
+It should not be discounted the roles played by SoEs and the contribution to the social wellbeing. The critical issues to be addressed is to revive the performance related to natural monopolies and market failures. Besides economic reasons, there are strategic reasons for why the Governments want to maintain control in some industries via SoEs, namely industries that provide basic goods like water, transport, electricity or healthcare. Through these industries, the Governments inject substantial subsidies and ensure low-cost provision of these goods and services, all capital injections will fall into sunk costs as there is no monetary return however servicing the people.
+
+The recently signed MoU with India, gas pipeline and power grid connectivity, will accelerate the pathway out of State monopoly of the energy sector, also deployment of solar and wind energy by private organisations.
+
+Valuable lessons from Vietnam on equitisation
+
+It is also noted that governments have equitised SoEs progressively over many years, taking the path from traditional to transformative. Figures 1 and 2 provide the rate at which Vietnam carried out their transformation. The drop in cumulative totals of Figure 2 with respect to Figure 1 (483-331) was as a result of complete privatisation i.e. pathway from traditional to transformational over the years 2011 to 2017. This is a lesson to be learnt for Sri Lanka not to accelerate the process to complete within the five-year term of the Government but start with an experimental phase and accelerate based on the results of the initial phase and finally ending with successful record of completion. The writer’s view is that to stretch the period of completion as feasible based on our local settings viz: societal, political, trade union and employee expectations thus prevent resistance and frictions; not to copy-paste Vietnam’s nine-year spread comparatively for the same number of SoEs of Sri Lanka.
+
+Before beginning the equitisation-privatisation process, it is important to assess scientifically all available data of lossmaking and inefficiently run SoEs at least over the past five consecutive years. Also, to be mindful of the fact that the equtisation-privatisation process, is a complex exercise, hence before earmarking SoEs without prejudicial biases is crucial for SoE to operate successfully post equitisation.
+
+In Sri Lanka, it has been seen that most of the SoEs are overstaffed due to political recruitments, not in a particular period but successive political parties in power at every level of the firm. This was the root cause and needs correction urgently before commencement of the privatisation process. To address the overstaffing issues, either retrain staff and redeploy or offer redundancy packages. It was also surprising to note that the parliamentary select committees and auditor general office have not strictly looked into why the 343 SoEs had run with no financial statements but pursued actively issues for political gains, e.g. CBSL Bond Scam and still being debated at various public TV forums, etc.
+
+In the process of equitisation it is feasible firstly to test out the success by offering a substantial portion of the shares to employees and managers of the firms – aligned with the traditional stage. This mechanism will provide incentives for workers and managers of state-owned enterprises to perform more efficiently as they hold a stake and continue to be employed and buy-back provision upon leaving at market rate.
+
+In addition to practical interests, equitisation is also of theoretical interest because it offers insights into why SoEs perform poorly under Government’s control. The political view argues that governments pursue objectives that are in conflict with profit maximisation, and this political interference can distort the objectives and constraints faced by managers, derailing firm’s performance as a result (Boycko et al. (1996)).
+
+1.https://soe.lk/soe-directory-list
+
+2.https://www.oecd.org/en/publications/competitive-neutrality-and-state-owned-enterprises-in-australia_5kg54cxkmx36-en.html
+
+3.https://www.oecd.org › oecd › 9789264209091-en.pdf
+
+4.https://treasury.gov.au/sites/default/files/2019-03/cnps.pdf
+
+5.https://economy-finance.ec.europa.eu/system/files/2022-07/ip031_en.pdf
+
+6.https://www.amherst.edu/system/files/media/Thai%20Nguyen%20Thesis%20Final%202021.pdf
+

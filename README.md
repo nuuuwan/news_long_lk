@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-19 18:22:54**
+Last Updated **2025-05-20 06:26:11**
+
+## 2025-05-20
+
+* [AKD; promise and performance](data/articles/akd-promise-and-performa.74bbb04b/README.md) `ft.lk`
+* [Media’s AI use needs strong ethical framework and reality checks](data/articles/media-s-ai-use-needs-str.8b38976e/README.md) `ft.lk`
+* [Happy Birthday: Remembering ‘The Boss’](data/articles/happy-birthday-rememberi.125de11e/README.md) `ft.lk`
+* [“People’s Festival”: Celebrating Sri Lanka’s vibrant diversity](data/articles/people-s-festival-celeb.5c8ffc3d/README.md) `ft.lk`
 
 ## 2025-05-19
 
+* [Equitisation of government business enterprises – SL SoEs](data/articles/equitisation-of-governme.dfad2689/README.md) `ft.lk`
+* [How Arizona Is Powering the Growth of AI](data/articles/how-arizona-is-powering.9e15a2f0/README.md) `hbr.org`
+* [AI can do a better job of persuading people than we do](data/articles/ai-can-do-a-better-job-o.80e0c47b/README.md) `technologyreview.com`
 * [Let creative and enterprising people head local bodies, not those with party affiliations](data/articles/let-creative-and-enterpr.376cdd20/README.md) `ft.lk`
 * [Deja vu?: How to prevent Yahapalana 2.0](data/articles/deja-vu-how-to-prevent-y.f0bca94f/README.md) `ft.lk`
 * [Trump and Mar-a-Lago Accords](data/articles/trump-and-mar-a-lago-acc.adbe8070/README.md) `ft.lk`
