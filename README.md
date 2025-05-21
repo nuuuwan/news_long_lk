@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-20 18:25:45**
+Last Updated **2025-05-21 06:25:23**
+
+## 2025-05-21
+
+* [Tourism industry must become brand-driven](data/articles/tourism-industry-must-be.0a0b365d/README.md) `ft.lk`
+* [LG polls 2025 that produced only winners](data/articles/lg-polls-2025-that-produ.d46c234e/README.md) `ft.lk`
+* [From Valvettithurai to Nandhikkadal: Rise and fall of LTTE](data/articles/from-valvettithurai-to-n.cc999b6f/README.md) `ft.lk`
+* [NPP’s post-LGE challenges](data/articles/npp-s-post-lge-challenge.c8efd85e/README.md) `ft.lk`
 
 ## 2025-05-20
 

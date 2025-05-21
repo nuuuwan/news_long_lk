@@ -1,0 +1,40 @@
+# NPP’s post-LGE challenges
+
+[https://www.ft.lk/columns/NPP-s-post-LGE-challenges/4-776695](https://www.ft.lk/columns/NPP-s-post-LGE-challenges/4-776695)
+
+*04:44 AM, Wednesday, May 21, 2025*
+
+The future success and survival of NPP Government depends solely on the delivery of its promises
+
+At last, the long-awaited Local Government Elections, which former President Ranil Wickremesinghe and before him the Rajapaksa Government avoided for fear of exposing their growing unpopularity among voters, have proved that the seven-months-old NPP Government, amidst all negative propaganda and baseless accusations levelled by a dispirited and policy bankrupt Opposition, continues to command respectable support all round the country. True, there has been a swing against NPP which is normal for every Government while in office. But that swing must be considered in the light of a drop in voter turnout from 69% at the Parliamentary Elections to 62% at LGE. Yet, to win 267 of a total 341 councils and to hold the second largest majority in several others is no evidence of any rejection or a waning star. NPP has every reason to feel buoyant.
+
+However, the future success and survival of NPP Government depends solely on the delivery of its promises, which cover three pivotal areas: clean governance at all levels, economic development with equity and ethnic reconciliation cemented by a secular democratic constitution.
+
+If there was one promise that dominated the election campaigns of AKD and NPP and on which they received an overwhelming mandate to govern it was to end corruption at all levels of governance. When the British handed over the government to the local elite, the latter inherited an efficiently run public administration and a resourceful economy with great potential for development. But once ethnoreligious parochialism crept in to shape the mode of governance, inefficiency and corruption became unstoppable. Successive governments promised to end corruption and punish or remove the corrupt. It never happened.
+
+As the Indian film director and actor Shekhar Kapur once commented on corruption in India, Sri Lanka too followed a similar track: “the corrupt accuse the corrupt of being corrupt and the corrupt investigate the corrupt and absolve the corrupt of being corrupt”. Transparency International, on a scale of 0 (utterly corrupt) to 100 (almost no corruption) found Sri Lanka standing at 32 in 2024 worsening from 40 in 2012.
+
+The Aragalaya demand for system change was in essence a call for eradicating corruption in all its form and content. AKD and NPP took up the challenge and their governance has so far remained clean. With a commanding position at local council level NPP is strategically placed to accomplish its anti-corruption mission during its tenure. A little familiarity with market economics would reveal that a corruption free political and administrative environment will have a positive effect on peoples’ cost of living.
+
+The Opposition is continuing its accusation that President AKD and NPP had walked away from their pre-election promise of renegotiating with IMF on the economic recovery agenda. But to NPP’s credit that was the single most pragmatic decision it took given the strong possibility of economic chaos that would have followed had they adopted any radical alternative. Even during the election campaign AKD promised to work with the market model within an open economy. That promise itself indicated a clear break from JVP’s state controlled radical model as advocated by Wijeweera in 1970s. The Opposition parties deliberately ignore to differentiate this difference between AKD’s reformist JVP and its revolutionary predecessor. In fact, IMF appears to be reassured of quick success in Sri Lanka’s economic recovery with AKD’s unrelenting commitment for corruption-free governance. And it was that commitment which seems to have prompted IMF to relax its demand for privatisation of SOEs.
+
+Given JVP’s pragmatism and the possibility of a global economic slowdown resulting from Donald Trump’s shortsighted tariff policies NPP’s economic development program should have an Eastward trajectory. Just as the former Prime Minister of Malaysia Dr. Mahathir Muhammad looked towards Japan for a model and initiated his Look East Policy so also it is time for NPP to look towards China the unstoppable economic giant for a model to follow. Although China embraced the market model after 1976 it was a conditional embrace restricting the market to operate under state guidance. That was how China was able to link equity with the market model. On the contrary, in IMF’s agenda equity is only a byproduct of the market. NPP’s development agenda must rectify this shortcoming with lessons from China’s experience.
+
+Diversification of exports and search for new market destinations for Sri Lankan products are quintessential needs for future development. In this context, President AKD’s appeal to his newly appointed ambassadors to foreign countries to diversify their diplomatic functions to include search for new markets for Sri Lankan exports, and fresh sources of foreign investment while assuring those investors a corruption-free governance was quite timely.
+
+The combined size of ASEAN, SARC and Far East countries is larger than that of EU, UK and US. More importantly, those societies unlike the Western countries have similar tastes and preferences as those of Sri Lanka, and over the last decade or two their purchasing power too had increased. They present a flourishing market for Sri Lankan exporters which should not be ignored. For a longtime Sri Lanka had been enamoured by the lure of the West. It is time to change direction now.
+
+Ethnic reconciliation
+
+Without ethnic inclusiveness in state programs neither economic prosperity nor social cohesion let alone political stability is ever possible. And any commitment for reconciliation should start with the fundamental belief that Sri Lanka’s ethnic heterogeneity is an asset to be cherished and strengthened rather than a liability or problem to be tolerated and weakened. Unfortunately, it was the latter view that dominated the political thinking of at least two generations of political leaders since the days of independence. The Aragalaya generation realises how ethnonationalism had been a curse and not a blessing to the development of this country. That was why its months long protest in 2022 remained not only apolitical but more importantly ethnically inclusive. NPP, the beneficiary of Aragalaya has a popular mandate to embark on reconciliation.
+
+There is a strong economic reason why this should be done without delay. The country needs large investment to fund various development projects, and there are two provinces – North and East – that had been neglected chiefly because they are populated mostly by the two minorities – Tamils and Muslims. Every development initiative undertaken by the State in those provinces since independence had been driven by the hidden agenda of transforming the demographic landscape of those regions.
+
+Meanwhile, there is enough investment capital in the hands of expatriate Tamils who would be willing to invest in their motherland once the ethnic issue is resolved. Petta thaayum pirantha ponnaadum nattava vaaninum nani ciranthathve is a beautiful Tamil verse, meaning one’s mother and motherland are more precious than the heaven gained through piety. No Government until now did make any effort to tap this resource lying abroad. The new leadership backed by the Aragalaya generation has a wonderful opportunity to make use of this resource once reconciliation is achieved. But that reconciliation will cannot be complete unless peoples’ hearts and minds in every community reconcile. What matters therefore is state action and not words.
+
+These are the three major challenges facing NPP after its respectable achievement at the LGE. How successfully it faces them over the next four years would determine its fate at the next General Election.
+
+(The writer is a retired
+
+economist, W. Australia.)
+
