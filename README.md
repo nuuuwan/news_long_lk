@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-21 06:25:23**
+Last Updated **2025-05-22 06:25:44**
+
+## 2025-05-22
+
+* [Sri Lanka’s digital leap: AI, Blockchain, and future of public service](data/articles/sri-lanka-s-digital-leap.cb42463f/README.md) `ft.lk`
+* [Musings from Beijing](data/articles/musings-from-beijing.e1064ea8/README.md) `ft.lk`
+* [All political parties and leaders should refrain from extremes and aggression](data/articles/all-political-parties-an.74ea9677/README.md) `ft.lk`
+* [Long-delayed PC elections and Commission’s responsibility to deliver on existing law](data/articles/long-delayed-pc-election.bb90476f/README.md) `ft.lk`
+* [JVP at 60: Totalitarian temptation, tears for Tigers](data/articles/jvp-at-60-totalitarian-t.fda45ac1/README.md) `ft.lk`
 
 ## 2025-05-21
 
@@ -13,6 +21,8 @@ Last Updated **2025-05-21 06:25:23**
 
 ## 2025-05-20
 
+* [Rajiv Gandhi, the Indo-Lanka Accord and the Sriperumbhudur Assassination.](data/articles/rajiv-gandhi-the-indo-la.d3d3dac7/README.md) `dbsjeyaraj.com`
+* [Will the ineptitude of the Anura Kumara  Dissanayake administration open the door to a  Future Namal Rajapaksa presidency?](data/articles/will-the-ineptitude-of-t.a371676d/README.md) `dbsjeyaraj.com`
 * [Everything you need to know about estimating AI’s energy and emissions burden](data/articles/everything-you-need-to-k.6020cf71/README.md) `technologyreview.com`
 * [The data center boom in the desert](data/articles/the-data-center-boom-in.e811dc3d/README.md) `technologyreview.com`
 * [Four reasons to be optimistic about AI’s energy usage](data/articles/four-reasons-to-be-optim.2efc1e9a/README.md) `technologyreview.com`
