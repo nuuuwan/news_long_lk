@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-23 18:22:32**
+Last Updated **2025-05-24 06:25:12**
+
+## 2025-05-24
+
+* [Who was Venerable Walpola Rahula?](data/articles/who-was-venerable-walpol.57b2a753/README.md) `ft.lk`
+* [“Peacemaking bodies must be held accountable amidst Gaza crisis”: Jayatilleka](data/articles/peacemaking-bodies-must.1849230a/README.md) `ft.lk`
 
 ## 2025-05-23
 
+* [Sweeping the state clean  with a rhetorical broom](data/articles/sweeping-the-state-clean.9aa410ac/README.md) `ft.lk`
+* [Shifting public mood](data/articles/shifting-public-mood.f710d932/README.md) `ft.lk`
+* [Republic Day](data/articles/republic-day.3283d920/README.md) `ft.lk`
 * [Morphing from effective manager to great leader: Essential traits and behaviours](data/articles/morphing-from-effective.459fe631/README.md) `ft.lk`
 * [Short-term command, long-term risks and national security](data/articles/short-term-command-long.f16c552b/README.md) `ft.lk`
 * [Group interests that overrode a child’s safety: Case of Amshika suicide](data/articles/group-interests-that-ove.b44fd321/README.md) `ft.lk`
