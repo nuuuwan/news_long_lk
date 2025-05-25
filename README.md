@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-24 06:25:12**
+Last Updated **2025-05-25 06:25:45**
 
 ## 2025-05-24
 
+* [Renowned Sri Lankan actress  Malani Fonseka who played the female lead in the Tamil film ‘Pilot Premnath’ starring Sivaji Ganesan  passes away in Colombo on Saturday (May 24, 2025) at the age of 78.](data/articles/renowned-sri-lankan-actr.2795ca91/README.md) `dbsjeyaraj.com`
 * [Who was Venerable Walpola Rahula?](data/articles/who-was-venerable-walpol.57b2a753/README.md) `ft.lk`
 * [“Peacemaking bodies must be held accountable amidst Gaza crisis”: Jayatilleka](data/articles/peacemaking-bodies-must.1849230a/README.md) `ft.lk`
 
