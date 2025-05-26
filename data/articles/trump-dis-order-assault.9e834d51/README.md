@@ -1,0 +1,124 @@
+# Trump(dis)order: Assault on learning and wisdom gathering doesn’t augur well for USA
+
+[https://www.ft.lk/columns/Trump-dis-order-Assault-on-learning-and-wisdom-gathering-doesn-t-augur-well-for-USA/4-776863](https://www.ft.lk/columns/Trump-dis-order-Assault-on-learning-and-wisdom-gathering-doesn-t-augur-well-for-USA/4-776863)
+
+*02:27 AM, Monday, May 26, 2025*
+
+Killing such an august academic institution to satisfy a personal vendetta will not do any good to USA which is now planning to become a great country again
+
+Education, Trump’s new enemy
+
+President Donald Trump, after trying to undo some of the disastrous mistakes he made in his new tariff policy by softening his earlier hard stance on China by reducing tariff from 145% to 30% for three months, has now diverted his attention to a local enemy. That enemy is education in general and Harvard University in particular.
+
+DOGE and its poor record of performance
+
+Regarding education in general, immediately after he was sworn in as President, he disbanded the Federal Department of Education. This he did, as he had promised in the election campaign, to downsize the federal government to be within its revenue base. This was done through the newly established Department of Government Efficiency or DOGE which was kept under the direction of billionaire, soon to be trillionaire, businessman, Elon Musk of Tesla, the rising electric vehicle, fame. According to records, up to early May, more than 9,000 contracts which the Federal Government had signed with various government agencies had been terminated by DOGE saving about $ 13 billion if one goes by the budget of 2024.1 This is peanuts compared to the promised saving of $ 2 trillion made by Elon Musk during Trump’s election campaign.2
+
+One prominent agency that had been closed has been the US Agency for International Development or US AID which also had a global education and training component like Kenya primary literacy program and NextGen early reading activity program in Malawi. All these programs were put to a stop without notice leaving the beneficiaries as well as the workers in the lurch. The bad signal that had been given by this arbitrary measure was that the world can no longer trust US administration for sustained and consistent aid packages aiming at ameliorating the conditions of the helpless in the needy countries.
+
+Assault on Federal Department of Education
+
+Another premier internal government body on which his axe had fallen was the Federal Department of Education which covers birth to grade 12 general education, adult education, and higher education.3 Its key functions had been (a) Establishing policies on federal financial aid for education and distributing as well as monitoring those funds (b) Collecting data on America’s schools and disseminating research (c) Focusing national attention on key issues in education and making recommendations for education reform and (d) Prohibiting discrimination and ensuring equal access to education. These noble objectives that had been entrusted to the Department of Education have been thrown out of window by the decision to wind it up.
+
+Scorecard on US universities and colleges
+
+In terms of (b) above, an important service rendered by this department had been the maintenance of a scorecard for universities and colleges in USA for the guidance to both American and foreign students.4 A likewise service is provided by the Office for Students or OfS set up by the UK government recently.5 Ironically, the scorecard maintained by the department of education on Harvard University which has of late come under attack by Trump administration says that about 98% of students joining the four-year degree programs will graduate from Harvard after incurring an annual average cost of $ 16,816 as their investment in education. But after graduation, the median earnings of these graduates, according to the scorecard, will rise dramatically to $ 101,817 making Harvard among prospective students an irresistible destination for higher education.6
+
+Promise of empowering states and local communities
+
+US Education Secretary, equivalent to the minister of education in Sri Lanka, Linda McMahan, defended Trump’s drastic cut in the education budget in Budget 2026 by about 15.3% or $ 12 billion at a hearing of the House Subcommittee on Education. Her argument before the US legislators was that it was a key step taken by the Trump Administration to eventually wind up the federal spending on education.7 It would eliminate the federal funding of the college access to disadvantaged and low-income students through its upward bound, talent search, and student support service commonly known as TRIO and Gear Up.
+
+But this does not mean that the US government will completely withdraw from its engagement in education. She said that it will be handled by states and local communities which could do so having regard to the local requirements of education. For instance, if a local community wants more educational facilities for agriculture, the state as well as the local community could provide that service more efficiently than the federal department of education. Hence, according to Trump administration, it was a decision to empower the state governments and local communities.
+
+The poor performance of US education system
+
+This is a fallacious argument since every country should have a national educational policy, and it should be handled by the central government rather than the state or local governments. However, according to the latest news, a federal judge has blocked Trump’s plan to close the federal education department and ordered that all those who had been sacked from service should be reinstated.8 It is interesting to note that the case seeking an injunction against Trump’s order had been filed by some 20 plus state governments which were meant to be beneficiaries of Trump policy clearly demonstrating that they were not ready or willing to undertake this new function assigned to them. With no centrally designed national policy, USA’s general education is going to suffer very badly in the future.
+
+This is happening in a background that USA is ranked only midway among developed nations in international student assessment programs like the Program for International Student Assessment or PISA conducted by the Organisation for Economic Cooperation and Development or OECD.9 The US score of PISA has been continuously below those of both China and Singapore, two emerging economies aiming to build a holistic education system for their citizens.
+
+Weaknesses of US education system compared to high global performers
+
+The weaknesses of the US education system compared to high global performers have been identified by the thinktank, Adviseredu/Educating in early 2025.10 In funding, US relies on local taxes leading to inequality whereas in high performers, it is centralised funding ensuring equal resource distribution. The US relies highly on testing, while in high performing countries, the focus has been on critical thinking and problem-solving. The teacher support system in the US varies according to the state and therefore, there is no consistent policy. In high performing countries, there is extensive teacher preparation programs and teacher mentorship.
+
+USA believes in longer school hours to impart knowledge to students. In high performing countries, it is short school hours with greater emphasis on outdoor activities and creativity. The US curriculum is based on multiple-choice tests, while in high performing countries, it is holistic, student-centred education approach. Hence, what is needed is not to close the Federal Department of Education but to reform it to be compatible with and ahead of the changing global standards and systems.
+
+US becoming a laggard in b uilding its knowledge base
+
+Hence, the present general education policy with no central direction as implemented by the Trump administration will worsen this position and push USA back to backwater. Since education, learning, and wisdom acquisition are key elements in raising a country’s status in the emerging global knowledge economy system, USA will become a laggard rather than a leader in global education on one side and global prosperity sharing, on the other. This is not good news for those Americans who believe in ‘Making America Great Again’ tagged as MAGA. Greatness of a country comes from the ability of its people to compete with the rest of the world in inventions, innovations, learning, and adoption of new systems as prescribed by the Austrian American economist Joseph Schumpeter some 100 years ago. A country with a paralysed educational system is not a candidate for gaining that position. When the US Federal Government voluntarily withdraws from the function of ‘focusing national attention on key issues in education and making recommendations for education reform’ by closing its Department of Education, it makes an irreversible mistake. Its adverse consequences will be felt by Americans for many years.
+
+Republicans’ attack on Harvard University
+
+The Republican’s attack on Harvard University began not during Trump’s second term but in December 2023.11 In that month, Israel had attacked Gaza in retaliation of the Palestinians’ unprovoked offensive on Southern Israel two months ago. There had been a massive casualty rate in Gaza sparking anti-Israel protests in US universities including the Harvard University. At that point, Republicans called for greater crackdowns at Harvard. This was not implemented by Harvard administration. It is in this background that Trump fought his election campaign vowing to crack down on pro-Palestinian protests, diversity, equity, and inclusion or DEI programs, and ‘woke ideology’ aiming at making people aware of racial prejudices and discrimination on college campuses.
+
+Fulfilling his election promise, Trump signed a series of executive orders calling government agencies to effectively control all DEI programs at colleges and universities.12 Following this, the US Department of Justice appointed a task force to root out anti-Semitic harassment in schools and on college campuses.13 The task force was to visit 10 leading US universities that included Harvard as well to enforce the executive orders.
+
+Unacceptable demands from Harvard University
+
+The Trump administration had made a series of demands from Harvard calling it to overhaul its governance that will reduce the power of students and staff, reform hiring and administrative practices, refuse to admit students deemed hostile to the American values and institutions, abolish the DEI programs, and audit several academic programs and centres related to the Middle East. When this was not done, Harvard was officially informed in April 2025 that it had failed to live up to both intellectual and civil rights conditions that justify the spending by the US government for Harvard programs.
+
+Rejecting these demands, the Harvard University informed the Trump administration in writing that the university would not surrender its independence or relinquish its constitutional rights. Thus, an open hostility arose between the all-powerful President of USA and one of its leading academic institutions. Naturally, Trump did not want to lose and therefore, he took several measures to punish Harvard.
+
+Freezing of research funding
+
+One was to effect an immediate freeze on funding that included a multi-year research grant of $ 2.2 billion. In addition, Trump floated the idea that Harvard might lose its tax-exempt status as a university, and it will be taxed as a political entity. As the things unfolded, it was clear that Trump administration will do everything possible to make Harvard administration kneel before it. Hence, to protect its rights, Harvard University took the Trump administration to courts accusing it of violating the US Constitution with ‘arbitrary and capricious funding cuts’.
+
+Cancellation of foreign student enrolment
+
+While this case is pending, the Trump administration reacts by revoking the Harvard’s Student and Exchange Visitor Program, blocking it from enrolling new foreign students, while asking the existing foreign students to transfer to other universities if they wish to continue their studies.14 The university has been accused of fostering violence, antisemitism, and coordinating with Chinese Communist Party on its campus.15 The order says that it is a privilege and not a right for universities to enrol foreign students. For an individual university, this may be a privilege, but for the American nation, it is a right because it enables the nation to earn valuable foreign exchange.
+
+The order further says that the universities have benefitted from the higher tuition fees charged from such foreign students, clearly an untenable argument. The Trump administration has warned that the penile measures taken against Harvard University should serve as a warning signal to all other universities in USA. This applies to more than 1 million foreign students who annually choose US universities and colleges for higher education by paying full tuition fees. According to data, in 2024, these foreign students have contributed nearly $ 44 billion to US economy by way of tuition fees and other local expenses.16 It seems that the Trump administration is willing to forgo this contribution to US balance of payments by way of increased service incomes.
+
+Courts blocking Trump’s move
+
+Harvard immediately challenged this order in courts prompting a judge to issue a temporary injunction blocking its enforcement.17 The judgments on the two cases filed by Harvard against the Trump administration are still pending and once they are delivered, they will be landmark cases in constitutional law relating to basic rights of citizens against tyranny and authoritarianism.
+
+Destroying USA’s flagship university
+
+Harvard is a flagship university in USA which has produced a dozen of US Presidents, foreign government heads, many Nobel laureates, and world-renowned scholars and academics. It brings respect and credit to USA by being ranked within the top 5 universities in the world. It is a leading research university that adds to knowledge continuously. Its innovative spirit is demonstrated by the fact that there had been more than 4.5 million patent applications filed by it with US Patent and Trademark Office between 2004 and 2018.18 Killing such an august academic institution to satisfy a personal vendetta will not do any good to USA which is now planning to become a great country again. In fact, to attain that goal, Harvard should be protected and promoted and not destroyed on flimsy accusations.
+
+USA’s rivals gaining in education market
+
+A student joining a university for an academic program is called a throughput which goes through an academic program during a given period. Hence, the student should be given assurance that he is able to complete it without interruption through his throughput years. When these types of haphazard decisions are taken by the US government creating uncertainty about the fate of students, no one will choose USA as his academic destination.
+
+The likely gainers in this case are universities in other countries like Canada, UK, EU, Australia, Russia, and now China. If USA loses its education market now, it will not be able to rebuild it in the future. Hence, it is the prime responsibility of the US administration, for that matter, any other foreign country administration, to consider the medium to long term consequences of their policies and not just what they can see right now.
+
+Assault on education, another misconceived policy?
+
+Thus, the assault on learning and wisdom gathering by the Trump administration does not augur well for future prosperity of the American economy.
+
+1https://www.highergov.com/news/list-of-all-contracts-terminated-by-doge-6287413/
+
+2https://timesofindia.indiatimes.com/world/us/elon-musks-2-trillion-doge-savings-pledge-for-donald-trump-goes-up-in-smoke-report/articleshow/121171044.cms
+
+4https://collegescorecard.ed.gov/
+
+5https://www.officeforstudents.org.uk/about/
+
+6https://collegescorecard.ed.gov/school?166027-Harvard-University
+
+7https://www.highereddive.com/news/mcmahon-defends-education-department-budeget-cuts/748788/
+
+8https://www.reuters.com/world/us/us-judge-blocks-trump-administration-plan-gut-education-department-2025-05-22/
+
+9https://www.pewresearch.org/short-reads/2024/04/24/most-americans-think-us-k-12-stem-education-isnt-above-average-but-test-results-paint-a-mixed-picture/
+
+10https://adviseredu.com/2025/02/01/how-is-the-usas-education-system-ranked-in-the-world/#:~:text=Performance%20in%20Primary%20and%20Secondary,U.S.%20in%20overall%20student%20achievement.
+
+11https://www.aljazeera.com/news/2025/5/22/timeline-trumps-escalating-standoff-with-harvard-university
+
+12https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism/
+
+13https://www.justice.gov/opa/pr/justice-department-announces-formation-task-force-combat-anti-semitism
+
+14https://www.aljazeera.com/news/2025/5/22/trump-blocks-harvards-ability-to-enroll-international-students-nyt-report
+
+15https://www.dhs.gov/news/2025/05/22/harvard-university-loses-student-and-exchange-visitor-program-certification-pro
+
+16https://www.nafsa.org/about/about-nafsa/international-students-contribute-record-breaking-level-spending-and-378000-jobs
+
+17https://www.aljazeera.com/news/2025/5/22/trump-blocks-harvards-ability-to-enroll-international-students-nyt-report
+
+18Suzgun, Mirac at al, 2022, The Harvard USPTO Patent Dataset: A Large-Scale, Well-Structured, and Multi-Purpose Corpus of Patent Applications, A ResearchGate Release.
+
+(The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at [email protected].)
+

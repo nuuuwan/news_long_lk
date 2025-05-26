@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-25 18:21:29**
+Last Updated **2025-05-26 06:25:40**
+
+## 2025-05-26
+
+* [Sri Lanka’s trade paradox: Rising exports, declining terms of trade and growing deficit](data/articles/sri-lanka-s-trade-parado.123a7e7a/README.md) `ft.lk`
+* [Unlocking Sri Lanka’s tourism potential through specialist guides](data/articles/unlocking-sri-lanka-s-to.123d9f2f/README.md) `ft.lk`
+* [Shifting dynamics in Maldives frozen chicken market offer strategic window for Sri Lankan exporters](data/articles/shifting-dynamics-in-mal.e2f1c3bb/README.md) `ft.lk`
+* [Cyberattacks, WhatsApp hacks, breaches and compromises](data/articles/cyberattacks-whatsapp-ha.bc5d8096/README.md) `ft.lk`
+* [Trump(dis)order: Assault on learning and wisdom gathering doesn’t augur well for USA](data/articles/trump-dis-order-assault.9e834d51/README.md) `ft.lk`
 
 ## 2025-05-24
 

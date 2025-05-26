@@ -1,0 +1,220 @@
+# Cyberattacks, WhatsApp hacks, breaches and compromises
+
+[https://www.ft.lk/columns/Cyberattacks-WhatsApp-hacks-breaches-and-compromises/4-776867](https://www.ft.lk/columns/Cyberattacks-WhatsApp-hacks-breaches-and-compromises/4-776867)
+
+*02:57 AM, Monday, May 26, 2025*
+
+Malicious software, often disguised as legitimate apps or links, can monitor WhatsApp messages, contacts, and activities once installed
+
+How does Sri Lanka match up with regard to responsibilities of individuals, banks, regulators and authorities
+
+Sri Lanka has recently experienced a significant surge in WhatsApp account hacks, with cybercriminals employing deceptive tactics to gain unauthorised access in order to defraud users.
+
+Impersonation of trusted contacts
+
+Attackers often impersonate trusted contacts or professionals, for example, inviting victims to join Zoom meetings related to familiar topics. They then request a verification code, claiming that it is necessary for meeting access. Unbeknownst to the victim, this code is their WhatsApp OTP, sent to the victim by WhatsApp, as a result of the hacker attempting to get into their WhatsApp number from another phone. Sending that OTP grants the hacker control over the victim’s account. Once compromised, the hacker may enable two-step verification, making account recovery more challenging.
+
+Call forwarding settings and malicious software
+
+Hackers also manipulate call forwarding settings by tricking users into dialling specific codes. This reroutes calls to the attacker’s number, enabling them to intercept verification calls and gain control of the WhatsApp account. Malicious software, often disguised as legitimate apps or links, can monitor WhatsApp messages, contacts, and activities once installed. Hackers distribute such malware through phishing links, fake updates, or unofficial app stores, compromising user privacy.
+
+Exploitation of victim’s identity
+
+After seizing control, hackers exploit the victim’s identity to solicit money from their contacts. For instance, an article in the Daily Mirror recently, referred to a victim named Bandaranayaka who reported that hackers requested £ 900 from his UK contacts and Rs. 40,000 from those in Sri Lanka. Similarly, former MP Mujibur Rahman’s hacked account was used to send messages to his associates, requesting funds and providing bank account details for deposits.
+
+Basic advice any IT professional will give, includes:
+
+Never share OTPs: Legitimate services will not ask for your one-time passwords.
+
+Enable two-step verification: An extra layer of security
+
+Verify unexpected requests: If a known contact requests money or sensitive information, confirm their identity through a separate communication channel.
+
+Report suspicious activity to the Sri Lanka Computer Emergency Readiness Team (SLCERT) or the police cybercrimes division.
+
+Avoid unofficial apps: Download apps only from official app stores to minimise the risk of installing malicious software.
+
+Regularly update your device: Keep your operating system and apps updated to benefit from the latest security patches.
+
+If an account has been compromised the suggestions are:
+
+Reinstall WhatsApp: Uninstall and nreinstall the app
+
+Contact SLCERT: Report the incident to SLCERT for guidance and support.
+
+Inform your contacts: Notify your contacts about the breach to prevent them from falling victim to scams.
+
+This writing was triggered by the hacking of a WhatsApp account of a senior friend and my desire to step in and assist him – given that I too received a message from his compromised account. My attempts, surfaced much that can be improved, for the benefit of many individuals in every strata of society, across the length and breadth of the country, and the risk management of every enterprise, institution, whether public, private, or any other.
+
+My motivation – Risk management
+
+I am not an information technology professional, an internet security or cybersecurity practitioner. My motivation for this writing, is not simply my academic interest in this topic but driven by gaps I have seen and helped bridge, while serving on Boards performing the roles I played while Chairing Audit Committees – a key component of robust corporate governance – which in my view has an overarching risk management responsibility. As far back as 2015 and 2018, at a leading bank and a capital market regulator respectively, I was able to initiate and oversee the execution of independent Vulnerability Assessments and Penetration (VAPT) tests – a decade ago!
+
+As for this recent (May 2025) transgression on my friend’s WhatsApp account, my decision to invest time to inquire, study and research comparable overseas jurisdictions, was driven by what I regretfully experienced – viz a limited awareness of safeguards among even professionals, and in parallel, an absence of:
+
+A well-advertised, accessible trusted guidance to lodge complaints and to which entity.
+
+Promptness and proactivity on the part of custodians – banks and regulators – the Central Bank, who should intervene, ensuring compliance with safeguards and overseeing compensation to customers
+
+Knowledge of the legal responsibility (beyond the ethical and moral obligation) for such intervention
+
+An established procedure or process adopted by legally enabled and other institutions dedicated to fight computer crimes
+
+Adequate empathy and proactivity of law enforcement authorities, and much more
+
+Sri Lanka – the legal and regulatory framework
+
+I am a layman in law but let me document the existing laws, and the scope and coverage of each. My apologies to legal practitioners and IT domain specialists, in the event of omissions or perspectives that are different to my definition of scope and coverage.
+
+Computer Crimes Act, No. 24 of 2007:
+
+Primarily addresses unauthorised access, illegal data interception, hacking, identity theft, and digital fraud.
+
+Electronic Transactions Act, No. 19 of 2006 (as amended):
+
+Supports the legal validity of electronic contracts, communications, and signatures. It is civil in orientation and underpins digital transformation across government and business sectors.
+
+Penal Code (as amended):
+
+Applies broadly to cyberbullying, impersonation, cyber defamation, and harassment, especially where digital behaviour causes psychological or reputational harm.
+
+Evidence (Special Provisions) Act, No. 14 of 1995:
+
+Enables the courts to accept and evaluate digital evidence, facilitating prosecution of cyber offenses and validation of electronic records.
+
+Telecommunications Regulatory Commission Act:
+
+While primarily regulatory, it empowers TRCSL to oversee security standards in communications infrastructure, including compliance obligations for telecom providers.
+
+Financial Transactions Reporting Act (FTRA):
+
+Focused on detecting and reporting financial crime including cyber-enabled money laundering. Applies to banks, fintech firms, and certain designated non-financial businesses.
+
+Payment and Settlement Systems Act:
+
+Ensures systemic risk management in digital transactions and provides CBSL oversight of digital payment platforms.
+
+Personal Data Protection Act, No. 9 of 2022:
+
+Enforces privacy obligations, breach notification, and accountability for data controllers and processors. Broad scope covers local and foreign entities handling the personal data of Sri Lankans.
+
+Cybersecurity Bill (forthcoming):
+
+Expected to institutionalise the national cybersecurity framework, clearly assign roles to CERT|CC, law enforcement, and regulators, and establish mandatory breach reporting and response protocols.
+
+The role of institutions
+
+The Enforcement Agencies in Sri Lanka include:
+
+Sri Lanka CERT|CC (Computer Emergency Readiness Team/Coordination Centre): National focal point for cybersecurity incidents.
+
+CID Cybercrime Unit: Handles criminal investigations of cyber offenses.
+
+TRCSL: Regulates and monitors telecom and internet service providers.
+
+Yet, who does the victim and his fellow victims go to?
+
+My friend, the victim, who was holidaying in Wilpattu with his grandchildren when his WhatsApp account was hacked, returned to Colombo and lodged a formal written complaint to the CID’s Cyber Crimes Division and SLCERT, comprehensively worded with all attachments of bank details and screen shots, of those remitters and recipients, based locally and overseas, including his relatives, who were scammed. He shared his complaint in full with me.
+
+The basis to pursue hackers and fraudsters
+
+I thought the details my friend had provided were adequate, for anyone, to coordinate, cooperate and act. However, on making inquiries, on his behalf, we were regretfully advised by another, that his complaint may not help, and that he should also record a further complaint at another institution. As a former member of the Board of the country’s largest commercial bank, a former regulator of securities, regulator of accounting and auditing standards and having served on the first Consumer Affairs Council of the Consumer Affairs Authority, and as one who has led investigations locally and overseas, I found this unacceptable and a harassment to my friend the victim.
+
+Research into comparable jurisdictions
+
+The above prompted me to research comparable jurisdictions to pave the way for a Thought Leadership Forum event I intend to have, with the Central Bank, their licensees the banks and their associations, IT industry professionals, internet security and cyber security professionals, SLCERT, the Government in general, legal professionals, and law enforcement authorities. I believe that these entities as a collective, through awareness enhancement seminars, circulars, guidance notes, a dialogue with stakeholders, may like to review the scope, coverage, adequacy and effectiveness, of our laws, regulations, institutions and processes, from complaint recording, to investigation, prosecution and compensation.
+
+Due to limited space, I set out below, a single country example from a series of real-life case studies I researched from authorities in several countries.
+
+The following examples illustrate how banks and law enforcement agencies have handled WhatsApp impersonation scams, providing insights into the responsibilities of financial institutions and the avenues available for victims to seek redress.
+
+Understanding bank responsibility in cyber fraud cases
+
+In the UK, when a fraudster gains access to a person’s WhatsApp account, impersonates them, and deceives others into transferring money to a fraudulent bank account, the situation engages both legal and regulatory dimensions.
+
+Legal and regulatory duty
+
+Banks are regulated entities that must comply with anti-money laundering (AML) and countering the financing of terrorism (CFT) laws. When they detect suspicious transactions, especially those involving fraud victims, they are obligated to report them (e.g., via Suspicious Activity Reports or SARs). Many jurisdictions also require banks to cooperate with law enforcement investigations and freeze accounts suspected to be involved in fraud.
+
+Responsibility to customers
+
+While banks may not be directly liable for every fraud (especially if the customer was deceived into initiating the transaction), they do have a duty of care. If banks allow known fraudulent accounts to receive funds and continue operating, they could be seen as negligent or complicit.
+
+Operational capacity to help
+
+Bank’s duty of care and KYC compliance
+
+As in most countries, UK banks are required to adhere to strict Know Your Customer (KYC) protocols when opening accounts. This includes verifying the identity, address, and other credentials of the account holder. If a bank fails in its due diligence, it can be held partly responsible for enabling fraud. Thus, banks have Know Your Customer (KYC) details of the recipients. They can trace transaction trails, identify patterns of fraud, and help recover or freeze stolen funds when acted upon quickly.
+
+In the UK via the Contingent Reimbursement Model Code, banks are encouraged or required to reimburse victims of certain types of fraud. Banks also collaborate in industry-wide fraud prevention networks to track mule accounts and alert each other. Banks should—and often legally must—participate in tracking down fraudsters when victims’ money is stolen. Proactive collaboration with law enforcement and other banks can prevent further losses, improve trust, and fulfil both ethical and regulatory obligations.
+
+Obligation upon notification of fraud
+
+Once a bank is informed that an account is involved in fraudulent activity, it must:
+
+Promptly freeze the account if funds are still available,
+
+Share KYC details and transaction trails with law enforcement agencies,
+
+Assist in tracing the fraudster by providing IP addresses, mobile number links, and usage logs to the cybercrime unit.
+
+Precedent in the UK – Recent cases
+
+Recent cases have highlighted the increasing prevalence of impersonation scams in the UK:
+
+Carol Alexander’s Case: Carol Alexander lost nearly £ 80,000 after fraudsters tricked her into downloading software that gave them access to her bank accounts. While Santander refunded her £17,000 the next day, it took 18 months and a ruling from the Financial Ombudsman Service, to obtain refund of the remaining amount.
+
+Wayne Chapman’s Case: Wayne, a 45-year-old from Rushden, was refunded over £ 1,000 by TSB after falling victim to a Royal Mail delivery fraud. TSB’s Fraud Refund Guarantee ensured that he received his money back promptly.
+
+David Bale’s Case: David, a 77-year-old actor from Peterborough, was refunded £ 6,000 by TSB after receiving a ‘Safe Account’ phone call from a fraudster claiming to be from TSB.
+
+Legal remedies for victims
+
+Victims of such frauds can seek redress through:
+
+Contacting their bank immediately to report the fraud and request an investigation.
+
+Reporting the incident to Action Fraud, the UK’s national reporting centre for fraud and cybercrime.
+
+Filing a complaint with the Financial Ombudsman Service if the bank fails to act appropriately.
+
+Lodging a report with the local police station.
+
+Responsibilities of banks
+
+Although banks are not automatically required to refund the money unless legally mandated, they are duty-bound to act promptly and cooperate fully once a complaint is received. They are responsible for tracing the fraudster, freezing funds, and assisting in recovery and prosecution.
+
+Key developments in UK fraud reimbursement
+
+Addressing internal transfers
+
+A loophole previously existed where victims were not protected if both the victim and the fraudster held accounts at the same bank. The FCA has warned banks against exploiting this gap, emphasising that consumer duty regulations still apply. Thus, UK banks have increasingly reimbursed customers who fell victim to fraud, especially when the fraudulent recipient held an account within the same bank. This shift is largely due to new regulations and heightened scrutiny from regulators like the Financial Conduct Authority (FCA) and the Payment Systems Regulator (PSR).
+
+Mandatory reimbursement rules (Effective October 2024)
+
+As of 7 October 2024, UK banks are required to reimburse victims of Authorised Push Payment (APP) fraud up to £ 85,000 within five business days. This applies to payments made via Faster Payments or CHAPS. Notably, the reimbursement cost is shared equally between the sending and receiving banks, incentivising both to detect and prevent fraud.
+
+Bank-specific reimbursement practices
+
+Reimbursement rates have varied among banks:
+
+TSB: Reimbursed 88% of APP scam losses in 2023.
+
+Nationwide: Reimbursed 87% of APP scam losses in 2023.
+
+HSBC: Reimbursed 76% of APP scam losses in 2023.
+
+These banks have also taken proactive measures to identify and act against fraudulent accounts within their systems.
+
+If you are a victim of fraud where the recipient account is within your bank, you should:
+
+Report the fraud immediately: Contact your bank as soon as possible to report the incident.
+
+Request reimbursement: Under the new rules, you may be eligible for reimbursement up to £ 85,000.
+
+Escalate if necessary: If your bank denies the claim, you can escalate the matter to the Financial Ombudsman Service.
+
+Space constraints do not enable me to provide examples of comparable situations in several other South Asian, Asia Pacific, European and North American jurisdictions, which I now have. I shall do so next week.
+
+(The “Thought Leadership Forum” launched by Chartered Accountant, Ranel T. Wijesinha, as an independent, apolitical, “awareness enhancement initiative” to engage in public policy dialogue two decades ago in 2005, was incorporated in 2008.)
+

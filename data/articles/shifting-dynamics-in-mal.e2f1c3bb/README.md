@@ -1,0 +1,58 @@
+# Shifting dynamics in Maldives frozen chicken market offer strategic window for Sri Lankan exporters
+
+[https://www.ft.lk/columns/Shifting-dynamics-in-Maldives-frozen-chicken-market-offer-strategic-window-for-Sri-Lankan-exporters/4-776868](https://www.ft.lk/columns/Shifting-dynamics-in-Maldives-frozen-chicken-market-offer-strategic-window-for-Sri-Lankan-exporters/4-776868)
+
+*03:07 AM, Monday, May 26, 2025*
+
+If addressed strategically, Sri Lanka could reclaim and grow its market share, capitalising on the Maldives’ growing food demand tied directly to its booming tourism economy
+
+The Maldives frozen chicken market is undergoing a rapid transformation, driven by surging tourism, shifting import preferences, and evolving price competitiveness. The total frozen chicken import volume grew from 14 million kilograms in 2023 to 21 million kilograms in 2024, marking a sharp 50% year-on-year increase. This growth trend aligns with the strong recovery in tourist arrivals, which jumped from 1.87 million in 2023 to 2.3 million in 2024, with a further 15% increase expected in 2025.
+
+Rising tourism driving food demand
+
+Tourism remains the backbone of the Maldivian economy, and with each additional visitor comes increased demand for food products, especially poultry, which is a key protein source in the resort and foodservice industry. With anticipated arrivals nearing 2.65 million tourists in 2025, the frozen chicken market is poised for further expansion.
+
+Further supporting this growth is the ongoing expansion of Ibrahim Nasir International Airport (INIA), which is expected to increase passenger capacity, improve air cargo handling, and enhance cold chain logistics. This infrastructure boost will not only increase tourist inflow but also facilitate faster, more efficient food imports—offering an even greater opportunity for nearby exporters like Sri Lanka to serve the Maldivian market competitively.
+
+Market share shifts: Brazil’s decline, new entrants rise
+
+Brazil remains the largest supplier of frozen chicken to the Maldives but lost ground in 2024, with its market share falling from 62% to 47%. Meanwhile:
+
+India tripled its share, rising from 3% to 10%.
+
+Austria surged from 1% to 11%, becoming a strong new entrant.
+
+Sri Lanka declined modestly from 12% to 10%, despite the geographic advantage.
+
+This indicates a diversifying supplier base, where price, quality, and logistical reliability are reshaping the competitive landscape.
+
+Price comparison: Sri Lanka least competitive in 2024
+
+A key reason for the shifting landscape is price competitiveness. In 2024:
+
+Austria offered the lowest whole chicken CIF price at $ 1.39/kg and average chicken at $ 1.41/kg, explaining its rapid growth.
+
+India maintained competitive pricing at $ 1.93/kg (whole) and $ 2.01/kg (average).
+
+Brazil offered $ 2.13/kg (whole) and $ 2.41/kg (average).
+
+Sri Lanka, unfortunately, stood as the most expensive supplier at $ 2.20/kg (whole) and $ 2.47/kg (average).
+
+While Sri Lanka’s products may be fresher and more culturally aligned, price remains the deciding factor for institutional buyers and resorts managing tight cost structures.
+
+Strategic opportunity for Sri Lanka
+
+With tourism expanding and the frozen chicken market projected to grow beyond 25 million kilograms in the near future, Sri Lanka cannot afford to remain uncompetitive. Key recommendations include:
+
+n Optimising production costs and logistics to offer better CIF pricing.
+
+n Leveraging proximity to the Maldives to ensure fresher, faster deliveries.
+
+n Marketing the quality and freshness of Sri Lankan chicken as a value proposition.
+
+If addressed strategically, Sri Lanka could reclaim and grow its market share, capitalising on the Maldives’ growing food demand tied directly to its booming tourism economy.
+
+The Maldives’ frozen chicken market reflects broader economic trends—global competition, price pressures, and tourism-driven demand. Sri Lanka stands at a crossroads: either adjust its pricing structures and capitalise on geographic advantages or risk being edged out by more aggressive and efficient players like India and Austria. The time to act is now.
+
+(The writer holds MPF (UoK), ACA, ACMA, CGMA, CLSSBB.)
+
