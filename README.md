@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-26 06:25:40**
+Last Updated **2025-05-26 18:22:42**
 
 ## 2025-05-26
 
@@ -11,6 +11,10 @@ Last Updated **2025-05-26 06:25:40**
 * [Shifting dynamics in Maldives frozen chicken market offer strategic window for Sri Lankan exporters](data/articles/shifting-dynamics-in-mal.e2f1c3bb/README.md) `ft.lk`
 * [Cyberattacks, WhatsApp hacks, breaches and compromises](data/articles/cyberattacks-whatsapp-ha.bc5d8096/README.md) `ft.lk`
 * [Trump(dis)order: Assault on learning and wisdom gathering doesn’t augur well for USA](data/articles/trump-dis-order-assault.9e834d51/README.md) `ft.lk`
+
+## 2025-05-25
+
+* [The Rajapaksas  Publicly Praised the  “War heroes”  While  Utilising  Army and Navy Personnel as Drivers, Domestic  Aides  and Personal maids Serving them and Family Members.](data/articles/the-rajapaksas-publicly.61220afa/README.md) `dbsjeyaraj.com`
 
 ## 2025-05-24
 
