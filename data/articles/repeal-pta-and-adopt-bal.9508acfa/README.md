@@ -1,0 +1,74 @@
+# Repeal PTA and adopt balanced approach to security and liberty
+
+[https://www.ft.lk/columns/Repeal-PTA-and-adopt-balanced-approach-to-security-and-liberty/4-776913](https://www.ft.lk/columns/Repeal-PTA-and-adopt-balanced-approach-to-security-and-liberty/4-776913)
+
+*12:53 AM, Tuesday, May 27, 2025*
+
+This outdated and oppressive Act must be completely dismantled without any compromise
+
+Repeal versus replace – the case for repeal of the Prevention of Terrorism Act No. 48 of 1979 (PTA) is overwhelming. Some of the causes are its negative impact on human rights, constitutional governance and legal norms. Not to mention the bad reputation locally and internationally since it had been used as a tool of suppression than national security. To replace the PTA with a new Act will be perpetuating the same injustices – repackaging old wine in a new bottle. This outdated and oppressive Act must be completely dismantled without any compromise.
+
+This article explains the rationale for repealing the PTA and integrating anti-terror provisions, balancing national security and civil liberties, into the existing legal framework. Central to this reform is robust accountability mechanisms as an indispensable requirement. Some of the compelling reasons for repealing the PTA are:
+
+1. Government acknowledgement: The need to reform and adopt a suitable legal framework, due to the deficiencies, ineffectiveness and oppressive nature of the PTA.
+
+2. Violation of human rights: Provisions in the Act granting powers for arbitrary detention without formal charges.
+
+3. Due process: Lack of due process by extending detentions without judicial oversight violates the right to a fair trial and challenges judicial authority.
+
+4. Torture and coercion: Cruel and inhuman treatment of individuals to extract confessions in violation of constitutional and international prohibitions.
+
+5. Targeting of minorities: The concern on ethnic discrimination since PTA has often been applied primarily against Tamil and Muslim communities.
+
+6. Suppression of free speech: Journalists, activists, civil society organisations and dissenters have been targeted using the PTA thereby, threatening freedom of expression.
+
+7. Infringement of constitutional rights: The right to peaceful assembly, liberty, equal treatment under the law etc. are all undermined by the PTA.
+
+8. Lack of judicial review: The absence of judicial intervention grants excessive powers to the security forces and Police without sufficient legal checks, creating an environment of impunity.
+
+9. International pressure and economic implications: The European Union and other global actors have linked trade benefits, such as GSP+ status, to the repeal of the PTA.
+
+10. Ineffective in preventing terrorism: The PTA has failed to reduce or prevent terrorism. On the contrary, it has created fear and uncertainty among the civilians by giving disproportionate prominence to security over individual rights.
+
+11. Contradicts international norms: The PTA is in conflict with global human rights treaties such as the ICCPR and the Convention Against Torture to which Sri Lanka is a party. The United Nations and other human rights bodies have repeatedly urged the repeal of the PTA.
+
+12. Rule of law: The rule of law is weakened by the PTA. Its repeal will strengthen and restore trust in Sri Lanka’s justice system and constitutional governance.
+
+The aim of the repeal is not to abandon anti-terrorism measures. Legal reforms shall be affected to prevent, counter and prosecute terror related offences by integrating these within the existing legal framework. These reforms shall address the shortcomings of the PTA and design laws which respect human rights, uphold the rule of law, ensure judicial review, accept obligations under international law, humanitarian laws, adopt accountability checks and balances among other things
+
+The integrating framework
+
+The aim of the repeal is not to abandon anti-terrorism measures. Legal reforms shall be affected to prevent, counter and prosecute terror related offences by integrating these within the existing legal framework. These reforms shall address the shortcomings of the PTA and design laws which respect human rights, uphold the rule of law, ensure judicial review, accept obligations under international law, humanitarian laws, adopt accountability checks and balances among other things.
+
+Factors that may be considered, though not exhaustive, to achieve this goal are as follows:
+
+1. Definition of terrorism in the Penal Code: For purpose of clarity and certainty a definition of terrorism should be introduced in keeping with the UN Security Council Resolution 1566 of 2004.
+
+2. Criminalising terrorist acts: Criminal acts such as murder, robbery, hostage-taking, and bombings—are already covered under the Penal Code. These provisions can be amended to include additional acts falling within the definition of terrorism as an aggravating factor. Also, provide for enhanced sentencing in such instances.
+
+3. The Criminal Procedure Code (CPC): In relation to detention and interrogation procedures amend the CPC to permit extended detention for serious offenses only with judicial authorisation. Pre-trial detention must be time-bound with a maximum limit of three months and subject to strict judicial oversight. Extended periods may be permitted under exceptional situations clearly spelt out to avoid abuse.
+
+4. Judicial review of detention orders: Make amendments to the CPC to enable a judge to review detention orders at fixed intervals e.g., every 14 or 30 days with the detainee’s legal representation present, to assess the necessity and legality of continued detention.
+
+5. Mandatory court order: For detention beyond 24 hours and for property searches in terrorism-related cases a mandatory authorisation by a magistrate should be required to ensure legal justification and prevent abuse.
+
+6. Evidence ordinance: UN Convention Against Torture (UNCAT) and International Covenant on Civil and Political Rights (ICCPR) prohibit the use of coerced confessions. Amendments to the Evidence Ordinance are required to align with these international obligations. Explicitly prohibit the use of confessions obtained through torture, coercion, duress or intimidation. In the event of evidence of coercion or mistreatment, the courts must be given the power to exclude such confessions. Provide for independent judicial review mechanisms to inquire into allegation of forced confessions.
+
+7. Granting bail: The judges to be granted the discretion of granting bail in terrorism related cases based on standard legal criteria, threat to public safety and strength of evidence.
+
+8. Bail for non-violent offences: Effect reforms to grant bail for non-violent offenses, social media or speech related offences under anti-terrorism laws.
+
+9. Access: Every individual under detention shall have the right to access legal counsel, health care, and general welfare. Family visits must be guaranteed from the outset. Civil society organisations should be allowed to monitor detention centres.
+
+10. Intelligence and surveillance: It is extremely important that an independent oversight body should be established to monitor and regulate the use and abuse of intelligence powers and surveillance. These have to be done respecting the rights of the citizen. Amendments to telecommunications and cybersecurity laws should mandate judicial warrants for such activities.
+
+11. Assets and finances: The freezing of assets and finances of individuals should be done under the authorisation of the courts. Such orders will be time-bound and subject to appeal.
+
+12. Executive power: Power of the President to sign detention orders has to be removed.
+
+To uphold justice and fundamental rights, it is essential to practise transparency, accountability, checks and balances against abuse. Security forces and police must be deterred from acting with impunity. Align reforms with international norms and conventions, strengthen judicial oversight and abolish powers of executive which deny rights of individuals.
+
+The overall objective of these reforms will therefore be to ensure security of the people without sacrificing their rights. National security should not come at the cost of liberty, human dignity and the rule of law.
+
+(The writer holds an LL.B (Hons) UK, is an Attorney at Law, and ex-Advisor to former Presidential Private Department of UAE.)
+

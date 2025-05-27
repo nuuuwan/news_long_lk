@@ -1,0 +1,222 @@
+# Native fruits, vegetables, yams and nuts of Sri Lanka: Hidden potential
+
+[https://www.ft.lk/columns/Native-fruits-vegetables-yams-and-nuts-of-Sri-Lanka-Hidden-potential/4-776909](https://www.ft.lk/columns/Native-fruits-vegetables-yams-and-nuts-of-Sri-Lanka-Hidden-potential/4-776909)
+
+*10:28 PM, Monday, May 26, 2025*
+
+Expanding and diversifying global markets have shown a demand for specialty produce which means a demand for niche agricultural produce that Sri Lanka is capable of supplying
+
+The complete concept paper will be forwarded to the Government of Sri Lanka for their consideration and is available for reference from any of the authors (see writer info for contact details)
+
+The present study attempts to arouse the interest of the policy makers, Government officials, exporters, producers including farmer groups and the general Sri Lankan public, to explore the hidden potential of fruits, vegetables, yams and nuts, native to Sri Lanka.
+
+Fruits, vegetables, yams and nuts are a major source of income to the rural economy of Sri Lanka. Except for the banana sub-sector, all the sub-sectors have declined in export earnings compared with pre-COVID-19 (2019) figures and exhibited an insignificant improvement compared with Base Year 2022 figures. Only banana, consisting mainly of an introduced variety (Cavendish) have shown a positive progress. This fresh produce sector needs to be rejuvenated by a new approach.
+
+Expanding and diversifying global markets have shown a demand for specialty produce which means a demand for niche agricultural produce that Sri Lanka is capable of supplying.
+
+Concept of niche market and niche marketing
+
+Niche market is a specialised market having a unique need, identity or preference that distinguishes it from the mainstream market, for specialised products and/or services. Supplying or catering to this specialised market is niche-marketing.
+
+This definition, qualifies Sri Lanka for dual benefits: promotion of native fresh produce to identified niches in international markets and the specialised services provided to the domiciled Sri Lankans in these international markets.
+
+Some of the key internationally recognised advantages of niche-marketing are:
+
+Comparatively less competition in the international market scenario,
+
+Higher profit margins as shown with examples in Part 11 of this Concept paper
+
+Target marketing by tailoring the product or service to a particular niche,
+
+Differentiation of the product and/or service which will enable to focus more on applied
+
+Research and development
+
+The scope of the present study is limited to four fruits (two annuals, two perennials) namely Banana, Pineapple, Pawpaw and Mango respectively and Cashew nuts. However, the export potential is not limited to these five produce This Concept paper is in two parts: Part 1: The approach and strategies; Part 11: Quality parameters for niche marketing: Selected fruits and cashew nuts
+
+The primary aim of this proposal is to produce the above commodities conforming to the demands of the targeted niche-markets.
+
+Part 1: The approach and strategies
+
+The main strategy adopted is ‘niche-marketing in target markets’ in the continents of Asia, (Middle East and Far East and the Maldives), Europe, North America and Oceania (Australia and New Zealand) by exporters linked to commercial scale growers and farmer groups. Five pilot projects will be identified. Knowledge accrued from these pilot projects can be used to expand the concept. The strategy is to promote native produce.
+
+International marketing strategies for five selected fruits and nut
+
+The concept proposes to capture a share of the niche market that exists and expand to more countries while recognising the existence of the world mainstream market.
+
+In order to exploit the global potential for niche marketing, following strategies are recommended:
+
+1. Recognise the role of the Sri Lanka Export Development Board (SLEDB) and the SLEDB Provincial Development Divisions
+
+The SLEDB as the apex export promotion entity is expected to play a leading role as the main driver of this project and carrying the responsibility of forming the Niche-Market Forum (described below) for the purpose of coordination, promotion and creation of synergies with international donor programs.
+
+2.Recognition of recent market value interventions; the formation of farmer groups, the PUCs
+
+The recently formed 58 Public Unlisted Companies (PUCs) under the auspices of the Ministry of Agriculture and the World Bank/European Union is laudable. Each company is linked to an exporter. The PUCs are an ideal platform for Sri Lanka to enter the global niche markets.
+
+3.Selection of exporters and freedom of operation
+
+For the Pilot Projects, exporters with experience and with orders in hand, shall be selected to link up with small farmers and exporters are free to organise the buyback of more produce from other farmers in order to fulfil export orders. More exporters shall join with the expansion of this concept.
+
+4. Selection of target countries
+
+The selected five exporters will select the countries for the five fruits and nut respectively, using orders already in hand, for an immediate start.
+
+5. Select new target countries, especially with high Sri Lankan migrant population
+
+Domiciled Sri Lankans will be a cushion for overseas Sri Lankan groceries and fruits against competition from other niche-market suppliers. The cooperation of the Sri Lankan Diplomatic Corps, Trade attaches, SLEDB and the Chambers is expected to obtain contact details of overseas Sri Lankan grocery shops to expand opportunities.
+
+6. Recognise the role of Sri Lankan importers domiciled in overseas niche-markets
+
+Importers of Sri Lankan products to overseas Sri Lankan shops and restaurants should be duly recognised and introduced to exporters.
+
+7. Select countries/cities accessible to SriLankan Airlines while developing the sea freight technology
+
+Availability of sufficient air cargo space and the cost of freight are vital for fresh produce to reach destinations in ordered quantities and qualities on time and cost effectively. At the start, defraying part of the freight cost by the State may be a necessity.
+
+Sea freighting is cost effective. The SLEDB shall liaise with the Department of Agriculture (DoA), Industrial Technology Institute (ITI), universities, Agric-Business companies and packaging institutions in order to perfect the sea freight technology.
+
+8. Knowledgeable diplomatic corp and trade attaches
+
+Knowledge of the diplomatic corps and trade attaches on this concept is a pre-requisite. They shall be collecting important market information in countries they are domiciled in.
+
+9. Buyer-seller dialogues
+
+The SLEDB in association with the diplomatic corps and the trade attaches shall organise contact promotion programs with technical and financial support from International Trade Promotion Organisations (TPOs) such as buyer-seller meetings, buyer visits to project sites in Sri Lanka and market evaluation/study programs for exporters, PUCs and producers
+
+10.Design planned production and marketing and maintain flexible targets in production and export
+
+The risk of market failures is associated with poor planning and the inappropriate practices of small producers who may follow traditional ways of production and marketing. If production is planned, accurate but flexible target setting will be easy. It will also be easy to introduce innovative technology (described below). This is a task for the SLEDB, DoA and exporters.
+
+The risk of market failures is associated with poor planning and the inappropriate practices of small producers who may follow traditional ways of production and marketing. If production is planned, accurate but flexible target setting will be easy. It will also be easy to introduce innovative technology. This is a task for the SLEDB, DoA and exporters
+
+11.Certification of fresh produce from commercial farms (orchards), PUCs and small farmer clusters
+
+Important buying countries now require fresh produce from certified farms. The DoA shall start certification starting with the farms linked to exporters. For export purposes, linked exporters shall be free to buy certified produce even from trader middlemen and Economic Centre wholesalers.
+
+12.DoA participatory research in farmers’ fields
+
+The certified farms can be made used by the DOA to conduct field research. Introduction of new technology under farm conditions, close interaction with farmers and providing a scientific outlook to traditional technology are some of the benefits.
+
+13.Role of trader middlemen and economic centres
+
+The services of the trader middleman are indispensable to the rural farmer in spite of unfair pricing and providing informal credit at high cost. Trader middlemen and Economic Centre wholesalers shall be educated with good practices and the importance of the certification program of fresh produce farms. Incorporating them into the system is more prudent while monitoring unethical behaviours.
+
+Farmers achieve better bargaining power by supplying certified produce collectively either to linked exporters, trader middlemen or to Economic Centre wholesalers, than by supplying individually.
+
+14.Research on crop genetic improvement for the niche-market and agricultural extension on agricultural best practices
+
+The niche-marketing concept will direct research into producing produce to suit overseas niche-markets in respect of qualities the consumers will seek. Nutritional and health benefits, shelf-life qualities, ability to withstand long voyages/transit time, tolerance in temperature fluctuations are important points in research.
+
+In agricultural extension, upgrading the knowledge of the agricultural extension staff on concepts of niche-marketing will be necessary.
+
+15.Surplus and sub-standard produce management
+
+Agricultural production and vagaries of weather are closely related. Production fluctuations and sub-standard produce cannot be avoided. The SLEDB must liaise with other export companies, state marketing institutions such as the Cooperative movement, State institutions with high in-mate densities (hospitals, prisons, armed forces), economic centres, food processors and the village markets to find avenues to dispose of the excess.
+
+16.The National Initiative for Research and Development Commercialisation (NIRDC) and the Niche-Market Forum (NMF)
+
+It is expected that this Platform of the NIRDC and the NMF will act ‘apolitically’ and independently. Co-ordinated by the SLEDB, the Platform will be guided by the Ministries of Science and Technology, Trade, Foreign Affairs and Agriculture. The Head shall be from the Ministry of Trade and will be supported by all relevant organisations engaged in agricultural production, agro-industries, financial institutions, suppliers of agri-inputs, trader middlemen, the linked exporters, producers, PUCs and farmer clusters.
+
+Platform’s major tasks will be:
+
+Develop a close relationship between the NIRDC and the NMF;
+
+Aspect of granting ‘Priority Status’ to the platform;
+
+Introduction of innovative technology with budgetary support for various aspects of applied research such as developing collapsible plastic packing trays for fresh produce, perfection of sea-freight technology, buyer-seller dialogues and farmer exposure to international niches, farm gate price determination by a flexible formula, a mobile technology and dedicated websites for information dissemination, digitalised climatic smart practices, training trader middlemen and wholesalers to procure certified produce, land identification for agribusiness ventures for international niches and monitoring, target setting, constant evaluation of non-achievement of targets and resolution of conflicts.
+
+Part 11: Quality parameters for niche marketing: Selected fruits and cashew nut
+
+Only the most important quality parameters and constraints are discussed below;
+
+Rectification of common constraints:
+
+Given the product, customise the collapsible plastic trays, to reduce post-harvest losses,
+
+Update the knowledge of plant breeders on international mainstream and niche markets,
+
+Arrange satisfactory distribution of improved planting material and
+
+Protect improved planting material/germ-plasm from being smuggled out.
+
+Product specific characteristics and constraints
+
+Banana (Musa sapientum)
+
+Huge world market (estimated at $ 154.60 b in 2024),
+
+Popular cultivar in the world market is Cavendish; retail price Melbourne 20/12/24 AUD 3.00/kilogram,
+
+We recommend Kolikuttu and Embul varieties to capture a share of the world niche market,
+
+Kolikuttu and Embul are unique in the world market,
+
+In the long term, address the negative features by crop genetic improvement such as fruits uneven in size and uneven maturing, splitting of skin and drooping down and appearance of skin spots and dots, hard clumps (geta) when maturing,
+
+Breed dwarf cultivars
+
+Mango (Mangifera indica)
+
+Huge world market ($ 63.65 b in 2023); popular mainstream market varieties are Haden, Kent, Alphonso from India and Calypso and R2E2 from Australia. The R2E2 retail price in Melbourne (20/12/24) AUD 6.00/kilogram,
+
+We recommend Karathacolomban, Willard and the TEJC,
+
+Taste, colour, size and juiciness of the three are unique in the world market,
+
+In the long term, address the positive features of the fruit by selective breeding and grafting to enhance the unique taste, orange colour, size and juiciness and to bring about a colour change of the skin when maturing,
+
+Government regulation to prohibit selling TEJC as Alphonso of India,
+
+Develop varieties/technologies which will fruit during off-season in mainstream markets.
+
+Pineapple (Ananas sativus)
+
+Huge world market (estimated at $ 11.51 b in 2024); the cultivar most popular is ‘Smooth Cayenne’. Retail price in Melbourne (20/10/24) around AUD 5.00/kilogram.
+
+Pineapple acclimatised to Sri Lanka are ‘Mauritius’ and ‘Kew’ (Murisei and Gal Annasei, respectively),
+
+By selective breeding and tissue culture preserve the unique dark yellow colour, taste and juiciness of Kew, develop cylindrical and smooth skin fruits and leaves without thorns, for easy handling, develop fruits with lesser number of ‘eyes’, larger fruits (around 1,500 gr), develop varieties which fruit in 12-14 months and varieties resistant to viral infection.
+
+Pawpaw (Carica papaya)
+
+Pawpaw and Papaw belong to the same genus ‘Carica’. Pawpaw has yellowish flesh, oval/oblong large fruits with green skin. Papaw has reddish flesh, roundish and smaller. Papaw dominates the world mainstream market. Pawpaw is now rare in Sri Lanka because of its susceptibility to a viral infection.
+
+‘Red Lady’ is the most popular Papaw cultivar, huge demand in the world market (value not documented).
+
+Papaw fruit (750gr to 1000gr,) in Melbourne AUD 4.00/kilogram (20/12/24).
+
+Pawpaw has multiple uses compared to Papaw: as a dessert fruit, cooking as a curry, meat softener and many medicinal benefits.
+
+By hand pollination of Pawpaw, dwarf cultivars resistant to the viral disease, short gestation (12 to 14 months) and heavy bearing plants must be developed. Naturally, it is self-pollinated, techniques of retaining the good qualities for few generations must be explored.
+
+Nutritional and health benefits of Pawpaw should be exploited: excellent source of dietary fibre, folate, high amounts of Vit A, C, E and B17, enzyme Pepsin and anti-oxidants.
+
+Cashew (Annarcardium occidentale)
+
+Most popular nut in the world market ($ 9.44 b in 2023),
+
+Vietnam cashew dominates the world market; retail price around AUD 17.50 per kilogram, Melbourne (20/12/24).
+
+Sri Lankan cashew carry premium qualities; but price is double that of Vietnam cashew.
+
+Sri Lanka cashew can move from the niche to the mainstream market dominated by Vietnam.
+
+Sri Lanka’s cashew by-products industry is sluggish.
+
+Revive the role of the Sri Lanka Cashew Corporation as the researcher, producer and marketer.
+
+By selective breeding and grafting develop dwarf, heavy bearing and short gestation cultivars (around one year) which will produce Sri Lanka’s reputed milkfish taste nuts
+
+Improve the traditional nut shelling technology.
+
+This is a concept paper to promote/export Sri Lankan fruits, vegetables, yams and nuts by niche-marketing via exporters linked to commercial producers, PUCs and farmer groups. Initially, the proposal will start with five ‘Pilot Projects’.
+
+This attempt is to turn around the fresh fruit, vegetable, yam and nut industry in Sri Lanka and improve the rural socio-economy and make the rural economy a source of earning foreign exchange to the country. The progress of the rural economy will be measured by using recognised socio-economic indices.
+
+The authors are aware that in reality, fulfilling all strategies is a tough task. The Niche-Market Forum will select the appropriate strategies that will suit best to improve the rural economy and earn foreign exchange to the country.
+
+(Note: ‘Native’ means plants that have existed for many years in Sri Lanka.)
+
+(J.N.S. Dias, MSc (Agric), presently imports Sri Lankan groceries and Ayurveda products to Australia. He can be reached via email: [email protected]. J.M.J.K. Jayasinghe, Ph.D, is a Professor in Food Science and Technology, University of Sri Jayewardenepura; email: [email protected]. M.Z.M. Farhad, MSc (Agric), is a Freelance Agribusiness Consultant, Sri Lanka; email: [email protected]. The three authors are former SLEDB employees with decades of experience; former is domiciled in Australia and the other two in Sri Lanka.)
+

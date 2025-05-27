@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-26 18:22:42**
+Last Updated **2025-05-27 18:23:17**
+
+## 2025-05-27
+
+* [Repeal PTA and adopt balanced approach to security and liberty](data/articles/repeal-pta-and-adopt-bal.9508acfa/README.md) `ft.lk`
+* [China-Sri Lanka ties in a changing world](data/articles/china-sri-lanka-ties-in.734f120d/README.md) `ft.lk`
+* [Germany and Sri Lanka: Quiet partnership that deserves louder recognition](data/articles/germany-and-sri-lanka-qu.6102a2b2/README.md) `ft.lk`
+* [Operationalising Defence MoU](data/articles/operationalising-defence.41fcbd45/README.md) `ft.lk`
 
 ## 2025-05-26
 
+* [Native fruits, vegetables, yams and nuts of Sri Lanka: Hidden potential](data/articles/native-fruits-vegetables.24ba7a2b/README.md) `ft.lk`
 * [Sri Lanka’s trade paradox: Rising exports, declining terms of trade and growing deficit](data/articles/sri-lanka-s-trade-parado.123a7e7a/README.md) `ft.lk`
 * [Unlocking Sri Lanka’s tourism potential through specialist guides](data/articles/unlocking-sri-lanka-s-to.123d9f2f/README.md) `ft.lk`
 * [Shifting dynamics in Maldives frozen chicken market offer strategic window for Sri Lankan exporters](data/articles/shifting-dynamics-in-mal.e2f1c3bb/README.md) `ft.lk`
@@ -28,12 +36,14 @@ Last Updated **2025-05-26 18:22:42**
 * [Sweeping the state clean  with a rhetorical broom](data/articles/sweeping-the-state-clean.9aa410ac/README.md) `ft.lk`
 * [Shifting public mood](data/articles/shifting-public-mood.f710d932/README.md) `ft.lk`
 * [Republic Day](data/articles/republic-day.3283d920/README.md) `ft.lk`
+* [Meet Cathy Tie, Bride of “China’s Frankenstein”](data/articles/meet-cathy-tie-bride-of.5b0841fe/README.md) `technologyreview.com`
 * [Morphing from effective manager to great leader: Essential traits and behaviours](data/articles/morphing-from-effective.459fe631/README.md) `ft.lk`
 * [Short-term command, long-term risks and national security](data/articles/short-term-command-long.f16c552b/README.md) `ft.lk`
 * [Group interests that overrode a child’s safety: Case of Amshika suicide](data/articles/group-interests-that-ove.b44fd321/README.md) `ft.lk`
 
 ## 2025-05-22
 
+* [Three takeaways about AI’s energy use and climate impacts](data/articles/three-takeaways-about-ai.160f5014/README.md) `technologyreview.com`
 * [Sri Lanka’s digital leap: AI, Blockchain, and future of public service](data/articles/sri-lanka-s-digital-leap.cb42463f/README.md) `ft.lk`
 * [Musings from Beijing](data/articles/musings-from-beijing.e1064ea8/README.md) `ft.lk`
 * [All political parties and leaders should refrain from extremes and aggression](data/articles/all-political-parties-an.74ea9677/README.md) `ft.lk`
@@ -42,6 +52,7 @@ Last Updated **2025-05-26 18:22:42**
 
 ## 2025-05-21
 
+* [By putting AI into everything, Google wants to make it invisible](data/articles/by-putting-ai-into-every.d248caa8/README.md) `technologyreview.com`
 * [Tourism industry must become brand-driven](data/articles/tourism-industry-must-be.0a0b365d/README.md) `ft.lk`
 * [LG polls 2025 that produced only winners](data/articles/lg-polls-2025-that-produ.d46c234e/README.md) `ft.lk`
 * [From Valvettithurai to Nandhikkadal: Rise and fall of LTTE](data/articles/from-valvettithurai-to-n.cc999b6f/README.md) `ft.lk`
