@@ -1,0 +1,90 @@
+# Professional costing framework should be implemented to determine cost price of electricity
+
+[https://www.ft.lk/columns/Professional-costing-framework-should-be-implemented-to-determine-cost-price-of-electricity/4-776962](https://www.ft.lk/columns/Professional-costing-framework-should-be-implemented-to-determine-cost-price-of-electricity/4-776962)
+
+*05:48 AM, Wednesday, May 28, 2025*
+
+Cost recovery pricing for the electricity industry requires proper cost accounting and cost records to obtain the most efficient and least cost
+
+A professional managerial and societal costing framework should be implemented to accurately determine the cost price of electricity and provide competitive pricing to serve all stakeholders. IMF cost recovery electricity pricing should be done efficiently and effectively to achieve cost reduction and not cost increases in electricity pricing.
+
+Applications of IMF cost recovery electricity pricing to largest lossmaking SOEs:
+
+When we consider the application of the IMF cost recovery pricing to the three highest lossmaking SOEs which are a burden on the economy the impact of cost recovery will be as follows.
+
+1. Ceylon Petroleum Corporation – Price calculated based on competitive international prices. This has enabled the loss-making CPC to become profitable and also for the private petroleum companies to be profitable as the pricing was based on the international price plus a reasonable margin and the customer pays a competitive price after taxes and duties imposed by the Government.
+
+It is also necessary to look at the proper factory costing for the refinery to determine the correct pricing of fuel supplied to the CEB. This is very important as due to the shortage of water and use of fuel from the refinery which should be at the least cost to reduce the price of electricity generated using fuel.
+
+2. SriLankan Airlines – Lossmaking institution but the IMF formula of Total Cost Recovery Pricing cannot be applied as this is a competitive market-based industry which has to be efficient and productive and cannot pass on inefficiency, wastages to the consumer. Hence IMF cost recovery pricing cannot be applied and have to adopt market-based pricing and other modes to make it efficient and productive.
+
+3. Ceylon Electricity Board – Application of IMF cost recovery electricity pricing could be carried out as it is a monopoly industry and no competition in Sri Lanka. However, when compared with the other South Asian countries especially India, Sri Lankan prices are very much higher and more than double. This would certainly put the stakeholders mainly industry and services sector the main contributors to the economy in a very uncompetitive position in the production activities of both domestic and export markets which will adversely affect the economy. Further the society mainly the householders looking for affordable pricing will be shut out from using electricity due to the high prices. Hence proper costing, maintenance of cost records, efficiency and productivity are of prime importance to give the most competitive electricity price to stakeholders and consumers.
+
+CEB on the last occasion for revision of electricity pricing for the period July-December 2023 required a revision for the following reasons:
+
+1. Reduction in hydro inflow
+
+2. Reduction in coal generation
+
+3. Increased electricity demand
+
+These are common occurrences coming up at every price revision with no sustainable solutions.
+
+Today we are fighting a losing battle to minimise costs as it is found that when a drought sets in then we have to switch to higher cost fuel which results in the electricity pricing unbearable to its stakeholders including the society. These high prices will have adverse impact on stakeholders mainly industry and services making them uncompetitive and shutting out the lower strata of society from using electricity due to the high prices.
+
+2. Application of cost accounting methodology and standards:
+
+It has been found that cost recovery pricing of CEB reflects the financial accounting total costs and does not follow the industry accepted cost accounting methodology and standards used by the Companies Cost Accounting Record Rules like in India which has made it mandatory for the maintenance of cost accounting records for each of the activities including generation plants to calculate the cost of production for each plant, transmission and distribution with other agencies such as the Central Electricity Regulatory Commission (CERC) in India and the Central Electricity Authority of India (CEA).
+
+Supply of affordable electricity pricing mainly to its stakeholders, industry and services sectors who are the main contributors to the economy in the production activities of both domestic and export markets and the society mainly the householders who will be shut out from using electricity if prices are unaffordable.
+
+Hence cost recovery pricing for the electricity industry requires proper cost accounting and cost records to obtain the most efficient and least cost which should be similar to a competitive industry and not based on a monopoly pricing controlled by the giant CEB which will otherwise have serious implications on the economy such as increasing job losses and poverty levels.
+
+3. Managerial costing tool “target costing” used to competitively price electricity using managerial and societal costing framework:
+
+Management Accounting would now deploy an important managerial costing tool called Target Costing. This will gather customer insights in the market place to understand what the price expectation of the customer is and for value proposition. Hence it is urgently required to go for a target price competitively priced as per our neighbouring countries and a complete overhaul of the electricity sector to make it efficient and stakeholder friendly.
+
+Societal costing which looks at those whose income levels are quite low at poverty levels and need affordable living. While the Government should ensure sustainable business enterprises, they also have to ensure the affordability of essential goods and services to the common man in daily life. Hence affordable pricing in electricity will be very important for this segment of people. By adopting cost accounting standards under societal costing will enable enterprises to produce goods or services at an affordable cost to the common man.
+
+For example if the price of product is Rs. 100 with a profit of 10% or Rs. 10 then the target cost will be Rs. 90. This should be spread over the value chain to include employee cost, material cost, direct and indirect costs. If the cost of materials is 80% then it should not exceed Rs. 72. We need to manage within these costs. Hence, we need to do a balancing act among all stakeholders to meet the target cost and not on the total cost recovery basis which has not taken account of making the organisation efficient, productive and satisfying the needs of stakeholders.
+
+Hence if we go for target costing it will enable us to cut the costs accordingly to arrive at an affordable price to the consumer.
+
+4. Reforms and restructuring for the electricity industry:
+
+The Government should immediately reform and restructure the electricity industry to make it efficient and productive as earlier recommended by international lending agencies to break up the CEB into Generation, Transmission and Distribution and have three Government owned companies managed and run separately and implement cost accounting principles, standards and maintain records and have separate costing departments strictly monitored to bring in efficiency and operations at least cost.
+
+Costing is of the essence especially in the generation of electricity where we have different types of generation of electricity hydro, mini hydro, thermal consisting of coal and fuel, renewables of solar and wind both CEB owned and IPP at varying prices. The high-priced production is heavily subsidised by the hydro sector the cheapest cost for electricity with thermal fuel giving the highest cost due to the exorbitant prices of fuel which includes the duties paid to the government and the high prices paid to CPC. The cheapest is hydro as the raw material water is free of charge, then we go into solar and wind, coal and then the killer fuel.
+
+Hence it is seen that the solution is not the easy way out of cost recovery pricing for the electricity industry but application of cost accounting methodology and standards as is done in all our neighbouring countries to achieve efficiency, competitive and affordable pricing for industry, services and the consumer on a sustainable basis.
+
+Power wheeling is another scheme that will enable industrialists and other big consumers to produce power competitively in another area and give it to the CEB and set off against their consumption.
+
+Renewable energy comprising solar and wind need to be expedited and decided not only on the price but the ability to swiftly undertake the project where credibility is an important factor as we are otherwise calculating prices frequently and contributing to the outflow of foreign exchange to import thermal fuel without providing any solutions to this major problem. Further we should have good negotiators where major projects are involved supported by the cost and management accounting pricing giving a true picture.
+
+and management accounting tools and standards:
+
+It is disheartening to note that a huge monopoly industry like the power sector does not have a costing department although more than 80% of the costs are materials consumed and requires accurate costs to be worked out not in total but for each and every generating plant on a cost accounting system while maintaining proper cost accounting records. This could be further validated by carrying out a cost audit which will go through all the cost records maintained and will certify compliance with systems, procedures and standards highlighting inefficiencies, wastages, negative variations with standards set. This cost audit should apply both for the CEB plants as well as the private plants which supply power under power purchase agreements with CEB.
+
+Cost Accounting records should be reconciled with the bulk supply ledger account and financial accounts maintained by CEB to implement the management accounting tools and concepts to achieve efficiency and sustainability of the electricity industry.
+
+6. Cost of fuel is the main cost driver in the electricity industry:
+
+The power cost currently is more than 80% of the generation cost of electricity. The cost of fuel is the main cost driver of CEB and the private thermal producers. The reasons for the price increases are required when there is a drought and the thermal plants are put into use.
+
+In the pricing formula it is seen that the variable element that increases the price is the fuel cost. Hence the CEB with the support of the Government should arrive at a fair price for the stakeholders and have a variable fuel adjustment charge (adjusting for the duties and taxes paid on fuel consumed) to ensure that this increase will be reasonable and will not disrupt industry, commerce and society. Hence the Government can control the price of fuel supplied to the power sector by ensuring that the fuel is supplied at the direct imported price with a variable duties and taxes based on the final electricity price decided. This will only be for a fixed period of time till the electricity industry is restructured and reformed to make it efficient and productive and eliminate old plants and expand the renewable sector to 70% or over.
+
+7. Creating a structure at the Finance Ministry for a Chief Cost and Management Accounting Advisor at the level of a Ministry Secretary to the Government:
+
+It is suggested to create a structure at the Finance Ministry for a Chief Cost and Management Accounting Advisor at the level of a Ministry Secretary to the Government and supporting the activities of the Public Accounts Committee (PAC) and Committee on Public Enterprises (COPE) for the application of Cost and Management Accounting with special emphasis on the application of the Managerial Accounting Framework and the Societal Costing Framework.
+
+It has been noted that in many of the South Asian countries including India there is a Chief Cost and Management Accountant Advisor under the Finance Ministry at the level of Ministry Secretary. This Advisor while supporting strict cost control in the Government, state corporations, utility pricing such as electricity and water will also be able to strengthen the Committee on Public Enterprises (COPE) and the Public Accounts Committee (PAC) two important parliamentary committees.
+
+The Sri Lankan Professional Management Accounting body the Institute of Certified Management Accountants of Sri Lanka set up by an Act of Parliament in 2009 could support and frame the required cost and management accounting tools, cost and management accounting standards and produce trained competent management accounting professionals required by the public and private sector. This will also provide support to all businesses providing services to the society to adopt cost accounting tools, systems, procedures, standards and provide affordable pricing to goods and services monitored and controlled by the Chief Cost and Management Accounting Advisor at the Ministry of Finance.
+
+We are of the opinion that the implementation of the managerial and societal costing framework together with the cost accounting standards in the costing and pricing of the energy sector, restructuring of State enterprises, with transparency and accountability in the Government and public sector should be implemented swiftly to support industry, services and society to come out of this crisis situation.
+
+Hence a professional cost and management accounting approach as discussed above should be a priority and complied with prior to implementing the cost recovery pricing which will have very adverse impacts on the economy, society and increase job losses and poverty levels in Sri Lanka.
+
+(The writer is the President, Institute of Certified Management Accountants of Sri Lanka (CMA Sri Lanka), Past President, Institute of Chartered Accountants of Sri Lanka (CASL), Past President, South Asian Federation of Accountants (SAFA), and Past President, Organisation of Professional Associations of Sri Lanka (OPA).)
+

@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-27 18:23:17**
+Last Updated **2025-05-28 06:25:52**
+
+## 2025-05-28
+
+* [Lanka Ashok Leyland reports strong results in FY25](data/articles/lanka-ashok-leyland-repo.bd976965/README.md) `ft.lk`
+* [Professional costing framework should be implemented to determine cost price of electricity](data/articles/professional-costing-fra.96ed67d1/README.md) `ft.lk`
+* [Disgusting display of Arab Royal opulence](data/articles/disgusting-display-of-ar.fbb519bc/README.md) `ft.lk`
+* [Digital playground no longer safe:  Online abuse of schoolchildren being ignored](data/articles/digital-playground-no-lo.abbdfbdf/README.md) `ft.lk`
+* [Sri Lanka’s blundering health bureaucracy](data/articles/sri-lanka-s-blundering-h.8b1e67f9/README.md) `ft.lk`
 
 ## 2025-05-27
 
+* [A new sodium metal fuel cell could help clean up transportation](data/articles/a-new-sodium-metal-fuel.355826fa/README.md) `technologyreview.com`
 * [Repeal PTA and adopt balanced approach to security and liberty](data/articles/repeal-pta-and-adopt-bal.9508acfa/README.md) `ft.lk`
 * [China-Sri Lanka ties in a changing world](data/articles/china-sri-lanka-ties-in.734f120d/README.md) `ft.lk`
 * [Germany and Sri Lanka: Quiet partnership that deserves louder recognition](data/articles/germany-and-sri-lanka-qu.6102a2b2/README.md) `ft.lk`
@@ -44,6 +53,7 @@ Last Updated **2025-05-27 18:23:17**
 ## 2025-05-22
 
 * [Three takeaways about AI’s energy use and climate impacts](data/articles/three-takeaways-about-ai.160f5014/README.md) `technologyreview.com`
+* [A new atomic clock in space could help us measure elevations on Earth](data/articles/a-new-atomic-clock-in-sp.1f69ffd9/README.md) `technologyreview.com`
 * [Sri Lanka’s digital leap: AI, Blockchain, and future of public service](data/articles/sri-lanka-s-digital-leap.cb42463f/README.md) `ft.lk`
 * [Musings from Beijing](data/articles/musings-from-beijing.e1064ea8/README.md) `ft.lk`
 * [All political parties and leaders should refrain from extremes and aggression](data/articles/all-political-parties-an.74ea9677/README.md) `ft.lk`

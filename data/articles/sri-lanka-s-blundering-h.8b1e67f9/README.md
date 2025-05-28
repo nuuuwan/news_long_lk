@@ -1,0 +1,38 @@
+# Sri Lanka’s blundering health bureaucracy
+
+[https://www.ft.lk/columns/Sri-Lanka-s-blundering-health-bureaucracy/4-776958](https://www.ft.lk/columns/Sri-Lanka-s-blundering-health-bureaucracy/4-776958)
+
+*05:29 AM, Wednesday, May 28, 2025*
+
+The same bureaucratic bottlenecks that choke the public system, spill over and clog the private sector
+
+The right to health occupies an ambiguous place in Sri Lanka’s constitutional and legal framework. Whilst the Constitution recognises a range of fundamental rights, it does not explicitly codify the right to health. Nevertheless, the State delivers a range of health services and exercises substantial, centralised control over the medical sector – from training and appointing doctors to regulating drug imports, pricing, and distribution. This article explores the question of whether such State control, exercised under the pretext of public welfare, has paradoxically created systemic inefficiencies and bureaucratic bottlenecks that hinder, rather than facilitate, public access to healthcare.
+
+In the aftermath of the country’s economic crisis, recent scandals and failures in medicine procurement have raised new questions about the effectiveness and legitimacy of the State’s control over healthcare. It is not without precedent to say that, even in the absence of an explicitly codified right to health, the State may be acting in breach of its implied social contract by presiding over a regulatory system that undermines public access to healthcare.
+
+Consortium of State control
+
+The State’s involvement in the health sector is both far-reaching and deeply embedded in law and policy. The National Medicines Regulatory Authority (NMRA) is the principal institution responsible for registering all medicine products, issuing waivers of registration (WOR), and ensuring the quality, safety, and efficacy of pharmaceuticals. The NMRA’s ability to fulfil their mandate is questionable though, given the deficiency in resources at their disposal. It’s akin to being given a butterknife and sent out to hunt a grizzly bear.
+
+By law, no medicine can be legally imported or sold without NMRA registration, giving the body immense gatekeeping power. But even this power is circumvented, most notably when ‘emergency procurement’ is routed through the State Pharmaceutical Corporation (SPC) without a local agent to anchor responsibility. Liability, an essential feature of all medicine-related transactions, vanishes in this loophole. If the thalidomide incident taught us anything, it’s that when accountability evaporates, consequences become congenital.
+
+The SPC and the Medical Supplies Division (MSD) of the Ministry of Health (MOH) are charged with bulk procurement of drugs for public hospitals. This centralised procurement process has repeatedly been criticised for its lack of transparency, inefficiency, and susceptibility to political interference. Meanwhile, the State’s regulatory reach extends even to the private sector, with the NMRA controlling the registration and availability of all drugs in the country. The same bureaucratic bottlenecks that choke the public system, spill over and clog the private sector. The State, in exercising control over place, person, and product, also becomes the single point of failure. After all, even the best doctor would be rendered ineffective without effective medicine.
+
+Indifference, incompetence, and impunity
+
+The past two years have seen multiple high-profile failures in Sri Lanka’s healthcare system. Prominent examples include the shortage of Cetirizine HCL syrup and the shortage of radioisotope for PET scans at the Apeksha Hospital, among other procurement delays owing to the mismanagement attributed to SPC and the MSD, the misuse of section 109 of the NMRA Act to bypass standard procedure to bring in counterfeit drugs to public sector hospitals, and the importation of substandard immunoglobin in 2023 under emergency WORs issued at the discretion of the Health Minister at the time.
+
+According to a 2023 report submitted following multiple adverse medical events, the NMRA was found to lack adequate regulatory muscle and institutional independence, while procurement protocols were bypassed without legal basis. A cocktail of indifference, incompetence, and impunity appears to have turned the country’s regulatory firewall into a revolving door.
+
+The larger irony is that in a mixed economy, the citizen should be allowed to choose. In many countries, doctors prescribe brands and patients decide whether they want the generic or the gold standard. In Sri Lanka, however, patients are denied the option outright – not by market forces but by central planning. In all these cases, State control has not translated into accountability or efficiency. Instead, it has created layers of procedure that often fail to deliver timely, quality healthcare.
+
+The social contract and the implied right to health
+
+If the State assumes full control over healthcare – from who can prescribe drugs to what medicines may be imported – it also assumes responsibility for ensuring that those controls function to the benefit of the citizenry. At present, however, this control resembles dereliction rather than governance.
+
+We expect the police to protect us from harm because that is part of the State’s end of the social contract – security in exchange for our subordination. Why is health not treated with the same vigour? If the State controls the gates to the cure, then it must be held accountable when those gates rust shut.
+
+This tension calls into question whether the State is in breach of its implicit social contract, which is the foundational premise of any democratic society, binding the existence of the state to the obligation of protecting the well-being of the people. The right to health need not be written into the Sri Lankan Constitution to carry normative and legal weight. Through its (seemingly) autocratic control over the healthcare system, the State has already assumed the role of guarantor. What remains unresolved is whether they are fulfilling that role, or hiding behind the bureaucracy of its own design.
+
+(The writer is an attorney-at-law.)
+

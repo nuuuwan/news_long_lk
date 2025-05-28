@@ -1,0 +1,40 @@
+# Disgusting display of Arab Royal opulence
+
+[https://www.ft.lk/columns/Disgusting-display-of-Arab-Royal-opulence/4-776960](https://www.ft.lk/columns/Disgusting-display-of-Arab-Royal-opulence/4-776960)
+
+*05:41 AM, Wednesday, May 28, 2025*
+
+It is disgusting not because of its financial magnitude and glitter but because of the circumstance in which it took place
+
+“When they meet those who believe, they say: We believe; but when they are alone with their evil ones, they say: We are really with you, we were only jesting” (Al-Quran, 2:14)
+
+The recent four-day sojourn of President Donald Trump in Saudi Arabia, Qatar and UAE deserves to be included among the legendary tales of Arabian Nights. While those tales remain just a collection of colourful and sensual imaginations to entertain readers and listeners, Trump’s experience was real and entirely materialistic. It ended with a disgusting display of Arab opulence.
+
+It is disgusting not because of its financial magnitude and glitter but because of the circumstance in which it took place. A four hundred million dollars-worth gift in the shape of a Jumbo Jet presented to the US billionaire President by the hereditary ruler of Qatar displayed not only the emirate’s opulence but also the emir’s subservience to the US regime. To add an element of sarcasm, US for all intents and purposes has become the alternate qibla or direction of prayer to rulers of Arab Muslim Middle East.
+
+What was even more contemptuous of that four-day red carpet extravaganza laid out to welcome Trump was the fact that none of his hosts even dared to express a word of criticism of Trump’s total endorsement of what a condemned war criminal and Prime Minister of Israel and his Zionist cabal are doing to Palestinians in Gaza. It is a “text-book genocide” as aptly described by Craig Mokhiber the former Director of the New York office of the UN High Commission for Human Rights. He resigned his position in disgust on 28 October 2023, and it is worth quoting the following from his letter of resignation:
+
+“As a human rights lawyer with more than three decades of experience in the field, I know well that the concept of genocide has often been subject to political abuse. But the current wholesale slaughter of the Palestinian people, rooted in an ethno-nationalist settler colonial ideology, in continuation of decades of their systematic persecution and purging, based entirely upon their status as Arabs, and coupled with explicit statements of intent by leaders in the Israeli government and military, leaves no room for doubt or debate”.
+
+Didn’t the Arab hosts know that it was Donald Trump who openly advocated cleansing Gaza of Arabs, dispatching them to neighbouring Arab countries, Jordan and Egypt, and converting Gaza into another Riviera? Even a child would know what Netanyahu and his military are doing in Gaza is to fulfil Trump’s dream comes true not by expelling Palestinians but by killing and starving to death every man, woman and child in that narrow strip. Netanyahu has now openly declared that at the end of this war the entire Gaza would be absorbed into Israel. Yet, none of Trump’s Arab hosts had dared to utter a word of contempt or displeasure at his endorsement of that massacre.
+
+By that silence they had become silent partners of the genocide. What happened to the so-called Islamic brotherhood, may we ask? But compare this display of opulent vulgarity with Chinese daring act of dropping food bundles from jets to break Israel’s blockade. It speaks volumes about Chinese support to and Arab betrayal of Palestinian struggle.
+
+Already, UAE, Bahrain, Morocco and Sudan are signatories to the Trump engineered Abraham Accord of 2020. That Accord was designed to normalise relations between Israel and its Arab neighbours, and one of the hidden agendas in that accord is to start a joint venture among US, Israel and its Arab neighbours to exploit the oil and gas resources lying underneath the coastal waters of Palestine and Lebanon. Until now Palestinians had been barred from having access to their own resource by Israel.
+
+However, Palestinian resistance and the struggle for liberation from Israeli yoke is unstoppable. Liberation struggles always and everywhere had been a violent act. If Hamas were to be accused of starting the violence on 7 October 2023, let it be so. Because violence in the words of Fannon “is a cleansing force. It frees the native from his inferiority complex and from his despair and inaction”. Nowhere in history had colonialists ever granted freedom to the natives voluntarily. Under Hamas leadership with assistance from nonstate actors in Lebanon and Yemen and possibly from other parts of the region Palestinians will prevail at the end.
+
+Israel’s patron saint US is a declining superpower, which in desperation is ignoring the rules based international order established under US leadership after the Second World War. This is why President Donald Trump, and his predecessor Joe Biden condemned the International Court of Justice for finding Israel guilty of war crimes and the International Criminal Court for issuing arrest warrants on Netanyahu and Yoav Gallant his former foreign minister. US and the West have intentionally kept the UN and its agencies powerless and that is why UNRWA is unable to drive in thousands of aid-carrying trucks to Gaza blocked by Israel. It is pathetic that UK and a few EU countries after keeping silent until now are warning Israel of selective sanctions. Isn’t it too little too late?
+
+Coming back to Trump’s Arab hosts, they are in power because of US guarantee to protect them from their own people in case of any popular uprising as happened during the Arab Spring. Even the multi-billion dollars investment deals signed between US and the three Arab countries include supply of weapons from US to the Arab rulers not to confront Israel or any other foreign aggressor but to protect them from their own people.
+
+There is another side to US-Arab cooperation: the rising threat from Iran to Israel. Iran is no doubt on the way to become a nuclear power and the current round of talks with US is not going to kill that ambition but may postpone it for a while. Pakistan is already a nuclear power, but its government is so corrupt and so tightly controlled by the army, Pakistan’s economy so weak and the society so rigidly governed religiously by Sunni mullahs that it can never become a spokesperson to the Muslim world. Iran has that capability, but it is a country of Shia Muslims who account for only one-fifth of world Muslim population. This split between Shias and Sunnis goes back to the days immediately following the death of the Prophet Muhammad.
+
+Mullahs from both sides have jointly perpetuated this division without realising how happy their common enemies would feel to exploit this division to fish in troubled waters. For example, when the Iranian Revolution created a wave of protests in Sunni Muslim countries and demanding a World Islamic Order, US and its European allies unleashed their own propaganda pointing out that the revolution was a Shia phenomenon and that Sunni Muslims should choose a reformist path to bring about changes. The same tactic kept the Sunni world quiet when Israel bombed Iranian facilities for arming Hezbollah and Houthis.
+
+What about the three Arab Royals? There was a story circulating in the 1950s soon after King Farook of Egypt was deposed. Farook’s barber asked Farook about the future of kings and queens in the world, and Farook had responded as follows: In time to come there would be only five kings or queens in the world: the four each in the pack of playing cards and the one in Britain.
+
+Let this piece end with a quote from Khaled Mashal, a Palestinian politician who was the Chairman of Hamas Political Bureau (1996-2017) before Ismail Haniyya. “So long as there is an Israeli occupation in Palestine and so long as US policy is biased, the so-called terrorism that United States fears will escalate because the mistakes of U.S foreign policy are pouring oil on fire”.
+
+(The writer is a retired economist, W. Australia.)
+
