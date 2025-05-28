@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-28 06:25:52**
+Last Updated **2025-05-28 18:22:56**
 
 ## 2025-05-28
 
+* [This startup wants to make more climate-friendly metal in the US](data/articles/this-startup-wants-to-ma.5865cb54/README.md) `technologyreview.com`
 * [Lanka Ashok Leyland reports strong results in FY25](data/articles/lanka-ashok-leyland-repo.bd976965/README.md) `ft.lk`
 * [Professional costing framework should be implemented to determine cost price of electricity](data/articles/professional-costing-fra.96ed67d1/README.md) `ft.lk`
 * [Disgusting display of Arab Royal opulence](data/articles/disgusting-display-of-ar.fbb519bc/README.md) `ft.lk`
 * [Digital playground no longer safe:  Online abuse of schoolchildren being ignored](data/articles/digital-playground-no-lo.abbdfbdf/README.md) `ft.lk`
 * [Sri Lanka’s blundering health bureaucracy](data/articles/sri-lanka-s-blundering-h.8b1e67f9/README.md) `ft.lk`
+* [Success of Ilankai Thamil Arasuk Katchi (ITAK) at  the  North-Eastern  Local Govt Elections Vindicates  Party Secretary  M.A. Sumanthiran.](data/articles/success-of-ilankai-thami.0f9c39a6/README.md) `dbsjeyaraj.com`
 
 ## 2025-05-27
 
@@ -52,6 +54,7 @@ Last Updated **2025-05-28 06:25:52**
 
 ## 2025-05-22
 
+* [Anthropic’s new hybrid AI model can work on tasks autonomously for hours at a time](data/articles/anthropic-s-new-hybrid-a.a3181e38/README.md) `technologyreview.com`
 * [Three takeaways about AI’s energy use and climate impacts](data/articles/three-takeaways-about-ai.160f5014/README.md) `technologyreview.com`
 * [A new atomic clock in space could help us measure elevations on Earth](data/articles/a-new-atomic-clock-in-sp.1f69ffd9/README.md) `technologyreview.com`
 * [Sri Lanka’s digital leap: AI, Blockchain, and future of public service](data/articles/sri-lanka-s-digital-leap.cb42463f/README.md) `ft.lk`
