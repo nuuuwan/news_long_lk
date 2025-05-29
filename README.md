@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-28 18:22:56**
+Last Updated **2025-05-29 06:25:57**
+
+## 2025-05-29
+
+* [Wake-up call: Why AI isn’t just another tech trend—it’s the next industrial revolution](data/articles/wake-up-call-why-ai-isn.6fe5f072/README.md) `ft.lk`
+* [Corporate strategy meets national policy: Path to sustainable recovery for Sri Lanka](data/articles/corporate-strategy-meets.e63aa75d/README.md) `ft.lk`
+* [Billboard paradox: When corporate principles meet regulatory reality](data/articles/billboard-paradox-when-c.37de9ec6/README.md) `ft.lk`
+* [Is AKD against the Sri Lankan State?](data/articles/is-akd-against-the-sri-l.3a7f69ef/README.md) `ft.lk`
 
 ## 2025-05-28
 
+* [The AI Hype Index: College students are hooked on ChatGPT](data/articles/the-ai-hype-index-colleg.5fb5f0ce/README.md) `technologyreview.com`
 * [This startup wants to make more climate-friendly metal in the US](data/articles/this-startup-wants-to-ma.5865cb54/README.md) `technologyreview.com`
 * [Lanka Ashok Leyland reports strong results in FY25](data/articles/lanka-ashok-leyland-repo.bd976965/README.md) `ft.lk`
 * [Professional costing framework should be implemented to determine cost price of electricity](data/articles/professional-costing-fra.96ed67d1/README.md) `ft.lk`
@@ -48,6 +56,7 @@ Last Updated **2025-05-28 18:22:56**
 * [Shifting public mood](data/articles/shifting-public-mood.f710d932/README.md) `ft.lk`
 * [Republic Day](data/articles/republic-day.3283d920/README.md) `ft.lk`
 * [Meet Cathy Tie, Bride of “China’s Frankenstein”](data/articles/meet-cathy-tie-bride-of.5b0841fe/README.md) `technologyreview.com`
+* [The FDA plans to limit access to covid vaccines. Here’s why that’s not all bad.](data/articles/the-fda-plans-to-limit-a.3134eead/README.md) `technologyreview.com`
 * [Morphing from effective manager to great leader: Essential traits and behaviours](data/articles/morphing-from-effective.459fe631/README.md) `ft.lk`
 * [Short-term command, long-term risks and national security](data/articles/short-term-command-long.f16c552b/README.md) `ft.lk`
 * [Group interests that overrode a child’s safety: Case of Amshika suicide](data/articles/group-interests-that-ove.b44fd321/README.md) `ft.lk`

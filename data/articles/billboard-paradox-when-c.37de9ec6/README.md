@@ -1,0 +1,62 @@
+# Billboard paradox: When corporate principles meet regulatory reality
+
+[https://www.ft.lk/columns/Billboard-paradox-When-corporate-principles-meet-regulatory-reality/4-777008](https://www.ft.lk/columns/Billboard-paradox-When-corporate-principles-meet-regulatory-reality/4-777008)
+
+*04:20 AM, Thursday, May 29, 2025*
+
+Organisations that maintain ethical consistency, even when compliance isn’t enforced, build the authentic trust that no marketing campaign can manufacture
+
+In the corporate world, principles and values are often touted as the foundation of organisational identity. But what happens when these principles collide with inconsistent regulation enforcement? A personal experience from my tenure as President of the Chartered Institute of Personnel Management offers a revealing glimpse into this challenge.
+
+In 2015, I was returning to Colombo after serving on the “Best Entrepreneur of the Year” selection panel. My fellow panellist was one of our nation’s most respected business leaders, and we had just completed an assessment visit to a promising company in the Galle region.
+
+As we passed Galle on the Southern Expressway, my colleague pointed toward his ancestral home visible from the highway.
+
+“I invested over Rs. 3 million there,” he told me, indicating a spot on his property. The substantial investment had gone towards constructing a foundation for a billboard to promote his company’s flagship product—a marketing strategy designed to capitalise on the newly built highway’s traffic.
+
+His plans were abruptly halted when authorities delivered an official letter: no billboards would be permitted along either side of the expressway. Despite appeals to various officials, including the Minister in charge, his requests were denied.
+
+What happened next revealed the forceful enforcement sometimes applied to our regulations. Just two days before the highway’s official opening, unidentified individuals entered his property and demolished the concrete structure using power saws—a clear message about the consequences of challenging the system.
+
+What impressed me most was not the businessman’s resources or influence, but rather his response to this setback. Instead of bitterness, he expressed acceptance: “If the law applies equally to everyone, then I must respect it,” he told me. He even pledged to report any violations he might observe in the future, committed to the principle of regulatory fairness.
+
+Safety first: The rationale behind billboard bans
+
+The regulations prohibiting billboards along expressways aren’t arbitrary. With drivers traveling at speeds up to 100 km/h on Sri Lankan expressways, even momentary distractions can lead to catastrophic outcomes. Billboards compete for drivers’ attention when it should remain firmly on the road. International studies consistently show that roadside advertisements increase accident risk, particularly on high-speed corridors where reaction times are critically important.
+
+Beyond safety concerns, these regulations also aim to preserve scenic views, reduce visual clutter, and maintain the design integrity of our national highway system. Many countries with advanced road networks implement similar restrictions precisely because they prioritise driver safety and environmental aesthetics over commercial interests.
+
+Fast forward: Principles under pressure
+
+Last weekend, I travelled that same route with another prominent businessman who is currently establishing a state-of-the-art flagship store in Galle city. His innovative retail concept represents significant investment in the region and demonstrates the entrepreneurial spirit that continues to drive our economy forward.
+
+As we passed the Welipenna rest area, something caught my eye that I hadn’t noticed before: a massive billboard belonging to a well-known corporation stood prominently along the highway, precisely where such advertisements had supposedly been prohibited.
+
+Confused by this apparent contradiction, I contacted my entrepreneurial friend from years ago. His response was disheartening: “No, Rohitha, that was during that regime. Now those rules aren’t applied consistently. Can’t you see all those estates, hotels and factories with their advertisements? Even I eventually put up a board at my ancestral home.”
+
+The erosion of values
+
+This casual admission revealed something troubling about our business culture. A man who once stood firmly on principle had compromised his values in the face of inconsistent enforcement. The absence of a coherent and consistently applied national policy on highway advertisements had eroded not just regulatory coherence but the ethical foundation of those once committed to following the rules.
+
+If regulations can be ignored whenever enforcement wanes, what becomes of our corporate principles? When businesses observe others violating guidelines without consequence, the temptation to follow suit becomes overwhelming. Soon, the principled stance becomes the exception rather than the norm.
+
+Beyond compliance: The trust equation
+
+This story transcends simple questions of billboard regulations. It speaks to a fundamental truth about corporate governance and social responsibility. When organisations view compliance as situational, following rules only when convenient or strictly enforced, we contribute to a culture of ethical erosion that ultimately damages public trust.
+
+As corporate leaders, we must recognise that our commitment to regulations isn’t merely about avoiding penalties. It’s about maintaining organisational integrity and respecting the society in which we operate. When we demonstrate consistency between our stated values and actual behaviours, we build credibility that transcends marketing campaigns.
+
+The proliferation of billboards along our expressways represents more than visual clutter, it symbolises our collective willingness to compromise on safety standards when enforcement becomes lax. Each advertisement competes for the attention of drivers who should remain focused on the road ahead, especially at high speeds where reaction time is crucial.
+
+Moving forward constructively
+
+This observation is not intended to criticise specific authorities or individuals. Rather, it’s an invitation for collective reflection on what may have gone wrong and how we might address it together. The issue requires a collaborative approach from both regulatory bodies and the business community.
+
+Authorities have an opportunity to revisit these regulations, clarify their purpose, and ensure consistent enforcement that builds public trust. Meanwhile, businesses must recognise that our ethical obligations extend beyond minimal compliance, especially when public safety is at stake.
+
+I see this as a serious concern. If not addressed now, the day may come when our expressways are lined with billboards from end to end, each representing a small compromise of the principles that were established when these highways were built. By addressing this challenge proactively and constructively, we can prevent such an outcome while reinforcing the values that support sustainable business practices.
+
+In today’s business landscape, where consumer trust is our most precious yet increasingly fragile currency, principled consistency isn’t just admirable, it’s essential for sustainable success. True corporate values stand firm regardless of enforcement climate or competitive pressures. The billboard paradox reveals an uncomfortable truth: principles that yield to convenience or opportunity aren’t principles at all, they’re merely situational tactics disguised as values. Organisations that maintain ethical consistency, even when compliance isn’t enforced, build the authentic trust that no marketing campaign can manufacture. This unwavering commitment to principles, regardless of what others are doing, is what ultimately distinguishes truly exceptional organisations from merely profitable ones.
+
+(The writer is a former President of the Chartered Institute of Personnel Management, currently functioning as a Board Director and Management Consultant Specialising in Human Resource Management and Organisational Transformation.)
+
