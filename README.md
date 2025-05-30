@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-30 06:26:01**
+Last Updated **2025-05-30 18:22:52**
 
 ## 2025-05-30
 
@@ -11,6 +11,8 @@ Last Updated **2025-05-30 06:26:01**
 * [Future of a nation is written in classrooms: Why Sri Lanka must invest in pay, training, dignity of teachers](data/articles/future-of-a-nation-is-wr.444a309c/README.md) `ft.lk`
 * [Shaping young minds: Tips for selecting schools in Sri Lanka](data/articles/shaping-young-minds-tips.8a330044/README.md) `ft.lk`
 * [NPP Government blunders](data/articles/npp-government-blunders.75587d3d/README.md) `ft.lk`
+* [Central Bank’s Sustainable Finance Roadmap: Fatally flawed](data/articles/central-bank-s-sustainab.5111797c/README.md) `ft.lk`
+* [Electricity tariffs: Accounting, clawbacks, and meddling by IMF](data/articles/electricity-tariffs-acco.bf73a883/README.md) `ft.lk`
 
 ## 2025-05-29
 
