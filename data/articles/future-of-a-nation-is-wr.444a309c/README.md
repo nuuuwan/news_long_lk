@@ -1,0 +1,124 @@
+# Future of a nation is written in classrooms: Why Sri Lanka must invest in pay, training, dignity of teachers
+
+[https://www.ft.lk/columns/Future-of-a-nation-is-written-in-classrooms-Why-Sri-Lanka-must-invest-in-pay-training-dignity-of-teachers/4-777075](https://www.ft.lk/columns/Future-of-a-nation-is-written-in-classrooms-Why-Sri-Lanka-must-invest-in-pay-training-dignity-of-teachers/4-777075)
+
+*05:50 AM, Friday, May 30, 2025*
+
+Undervalued, underpaid, untrained: The real emergency in Sri Lanka’s classrooms
+
+There was a time – not so long ago – when being a teacher in Sri Lanka was a badge of honour. Our grandparents often told stories of how the village teacher was second only to the doctor or judge. Teachers were highly respected, decently paid, and often the most learned member of the community. Students bowed in respect. Parents listened attentively. The entire village treated teachers as custodians of wisdom and dignity.
+
+Today, that story is heartbreakingly different.
+
+Our teachers – especially in the public system – are overworked, underpaid, undertrained, and undervalued. And in that neglect lies the greatest danger to our nation’s future.
+
+Section 1: From dignity to despair – the decline of the teaching profession
+
+For decades, teaching was the career of choice for some of the brightest minds in Sri Lanka – not just because of passion, but because of respect, security, and adequate compensation. But something changed. Inflation soared. Salaries stagnated. Budgets were slashed. And respect slowly eroded. What was once a noble, middle-class profession has become one of daily economic struggle.
+
+A new public school teacher in 2024 earns as little as Rs. 40,000–45,000/month.
+
+A loaf of bread cost Rs. 1.50 in 1975; it now costs over Rs. 150. But teacher salaries have increased only 9–12 times, while inflation rose more than 60 times.
+
+A teacher in a rural school often pays more for transport than they earn from basic salary after deductions.
+
+The result? Top university graduates increasingly avoid teaching. The best minds are moving to IT, banking, marketing, or migrating altogether. What’s left is a profession in crisis – one that the country has not prioritised.
+
+Section 2: Salary is just the beginning – we need to invest in human capital
+
+Let’s be clear. This is not just about giving teachers a raise. It’s about recognising teaching as a strategic national investment.
+
+We are not just paying salaries. We are shaping the future workforce.
+
+No nation can outperform the quality of its teachers.
+
+No student will rise above the expectations of their educator.
+
+And no economy can leap forward without educated, creative, ethical citizens - the product of strong teaching.
+
+Section 3: The global and regional benchmark – how far behind we are
+
+When we compare Sri Lanka to our regional peers and global examples, the picture is sobering:
+
+India: Entry-level public school teacher earns approx. INR 40,000 –55,000/month with regular training opportunities.
+
+Bangladesh: Despite lower GDP per capita, is rapidly increasing teacher compensation as part of education sector reform.
+
+Vietnam, Estonia, Finland, Singapore: Each of these countries made strategic decisions to prioritise teacher pay and training – and today lead global rankings in education quality.
+
+Meanwhile, in Sri Lanka:
+
+Teacher salaries as a % of GDP per capita remain among the lowest in Asia.
+
+Professional development budgets for teachers are minimal or non-existent in most provinces.
+
+Section 4: What needs to change – the 3 pillars of a national teaching reform
+
+1.Pay teachers what they deserve
+
+Implement the 2025 revised pay scales fully – and use it as a launchpad, not a ceiling.
+
+Develop a 5-year roadmap indexed to inflation and GDP growth to sustainably raise teacher pay.
+
+Offer additional allowances for teachers serving in rural, estate, or post-conflict regions.
+
+2.Train and upskill teachers continuously
+
+Establish a National Teacher Training and Innovation Fund, with an annual target of training every teacher for at least 20 days/year.
+
+Partner with world-class teacher training organisations in Finland, India, and Singapore.
+
+Encourage online learning modules, mentorship programs, and classroom innovation grants for teachers.
+
+3.Restore dignity and prestige to the profession
+
+Launch a national recognition program: “Sri Lanka’s Top 100 Teachers” to celebrate excellence.
+
+Allow teachers to pursue research, fellowships, and international exchanges.
+
+Make teacher leadership pathways more visible and meritocratic.
+
+Section 5: The economic multiplier of great teachers
+
+This is not just about fairness. It’s about smart economics.
+
+Every rupee invested in teacher quality yields exponential returns:
+
+Improved exam performance.
+
+Reduced dropout and repetition rates.
+
+Greater economic productivity over a lifetime.
+
+Reduced public spending on remedial education, crime, and welfare.
+
+And yet, Sri Lanka still spends less than 2% of GDP on public education - well below global standards.
+
+The numbers don’t lie – public education is the heartbeat of Sri Lanka
+
+Let us look at the numbers – not just as statistics, but as the pulse of a nation.
+
+Over 96% of all students in Sri Lanka – nearly 4 million children – attend government schools. They are taught, mentored, and shaped by over 236,000 public school teachers. In contrast, only around 3% attend private schools, and an even smaller number attend international schools.
+
+These aren’t just figures. They are the future farmers, engineers, entrepreneurs, artists, civil servants, and leaders of our country.
+
+If we neglect the public education system, we are neglecting the majority of our people. If we underpay our teachers, we are underinvesting in the very architects of our human capital. If we leave public schools to survive on scraps, we will breed inequality and despair, not innovation or unity.
+
+Because at the end of the day: A nation is built by its people. People are built in their childhood. And childhood is shaped in classrooms – by teachers. This is why the path to national greatness doesn’t begin at the top. It begins in every school, every village, every chalkboard, and every teacher who believes in their students.
+
+If we want a better Sri Lanka, start by empowering its teachers
+
+A nation cannot rise without those who teach it to walk. If we want better schools, we must first value the people who run them. If we want to close the inequality gap, it starts with well-paid, well-trained teachers. If we want innovation, ethics, and excellence in the next generation – then invest in those shaping that generation today.
+
+Let this be the decade we turned the tide.
+
+If you are a parent, a citizen, a student, a policymaker – this concerns you.
+
+Tag key decision makers.
+
+Use the hashtag #InvestInTeachersLK
+
+Demand that we bring dignity back to teaching – not in memory of the past, but in service of the future.
+
+(The writer is an Educator, Harvard Alumnus, Founder – Academics Group, President – Harvard Club of Sri Lanka.)
+

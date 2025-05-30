@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-29 18:27:38**
+Last Updated **2025-05-30 06:26:01**
+
+## 2025-05-30
+
+* [Priority trade and competitiveness reforms for Sri Lanka – Part 2](data/articles/priority-trade-and-compe.6010a2c7/README.md) `ft.lk`
+* [We are witnessing a consumer-led transformation of how tobacco and nicotine is consumed](data/articles/we-are-witnessing-a-cons.27aefe26/README.md) `ft.lk`
+* [Future of a nation is written in classrooms: Why Sri Lanka must invest in pay, training, dignity of teachers](data/articles/future-of-a-nation-is-wr.444a309c/README.md) `ft.lk`
+* [Shaping young minds: Tips for selecting schools in Sri Lanka](data/articles/shaping-young-minds-tips.8a330044/README.md) `ft.lk`
+* [NPP Government blunders](data/articles/npp-government-blunders.75587d3d/README.md) `ft.lk`
 
 ## 2025-05-29
 
+* [What will power AI’s growth?](data/articles/what-will-power-ai-s-gro.dee8d7f8/README.md) `technologyreview.com`
 * [Wake-up call: Why AI isn’t just another tech trend—it’s the next industrial revolution](data/articles/wake-up-call-why-ai-isn.6fe5f072/README.md) `ft.lk`
 * [Corporate strategy meets national policy: Path to sustainable recovery for Sri Lanka](data/articles/corporate-strategy-meets.e63aa75d/README.md) `ft.lk`
 * [Billboard paradox: When corporate principles meet regulatory reality](data/articles/billboard-paradox-when-c.37de9ec6/README.md) `ft.lk`

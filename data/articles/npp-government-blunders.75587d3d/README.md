@@ -1,0 +1,112 @@
+# NPP Government blunders
+
+[https://www.ft.lk/columns/NPP-Government-blunders/4-777073](https://www.ft.lk/columns/NPP-Government-blunders/4-777073)
+
+*05:36 AM, Friday, May 30, 2025*
+
+The Government has lost its popularity in just six months, mostly due to lack of effective action on election promises
+
+President Anura Kumara Disanayake, prior to Presidential Elections promised the public that he would reduce the electricity tariff by more than 30% in the near future, also that he would disregard IMF in the future. But the reduction was only around 20%. But his reduction came under threat by IMF and was forced to increase electricity charges by 17.3%, which he claims to be less than the earlier 20%.
+
+Plight of NPP after seven months in power
+
+National People’s Power President, Anura Kumara Disanayake was elected to power on September 2024 with 42.31% of all votes, a large percentage considering over 20 contestants. Next was Sajith Premadasa with 32.76%. Anura Kumara Disanayake in addition to being President took over Ministries of Defence, Finance, Planning and Economic Development. In General election November 2024, NPP’s share increased to 61.6% of the votes, a massive increase from the Presidential election.
+
+However, during the Local Government election few weeks ago, which was long overdue, their share fell to 43.26%, showing the disaffection among the public over the past six months’ performance.
+
+The NPP secured majority in 266 of the 339 local authorities, having received around 43% of the national vote, a notable dip from its commanding 61% in the last Parliamentary elections. The Government has lost its popularity in just six months, mostly due to lack of effective action on election promises.
+
+Over the period, the Government especially the President continued to blast the past Governments for their corruption in implementing various projects. They boasted to be clean and promised not to get involved in any corrupt practices. But their interpretation of no corruption resulted non-starting of any projects and failed to start even a small project as building a culvert for the people cross over a stream or laying a foundation stone for a school building. Apparently, they consider every project involves corrupt practices. Whereas, the public wished development works in their areas. Thus the result. Last Budget allocated Rs. 90 billion supposed to be for the security of the banks. But the banks protested they do not require such Government security. These are the monies that could have been spent on development projects.
+
+International connections
+
+The President made two international visits, first to India. Over there, President Modi addressed in Hindi and our President in Sinhala, which was interpreted into Hindi. His visit to Vietnam was similar, with the official language being French. Now he wishes to visit Germany, where he could continue to speak in Sinhala.
+
+World Bank President’s visit
+
+President of the World Bank Group Ajay Banga met President Anura Kumara Disanayake on 7 May, at the Presidential Secretariat.
+
+The World Bank President’s visit, after nearly two decades, to support Sri Lanka’s future development agenda. But what attracted most was that our President’s speech at the meeting was in Sinhala. He was assisted by an interpreter and his speech has been pre-written. Meaning, he was unable to discuss any fresh issues, that would come up. The arising question is our President’s English speaking skills are so weak?
+
+This is not the first time and whenever the President met foreign ambassadors and delegates he always spoke in Sinhala, meanwhile the Prime Minister and every other Minister spoke in English. Is our President’s English education skill so poor? Now, the foreign visitors meet the Prime Minister.
+
+Anura Kumara Disanayake
+
+Anura Kumara was born in November 1968, in the village of Galewela in the Central Province. His father a labourer and his mother a housewife, the family moved to Thambuththegama in the North Central Province in 1972.
+
+He entered the Peradeniya University, while as a student, he joined the Socialist Students Union, the student wing of the Janatha Vimukthi Peramuna (JVP) as an activist in 1988. When the Indo-Sri Lanka Accord was signed in 1987, he engaged in revolutionary activities and was forced to go underground due to Government’s counterinsurgency threats. A year later, he got transferred to University of Kelaniya and was awarded his bachelor’s degree in science in 1995. He was elected the national organiser of the Socialist Students Union in 1997.
+
+In Peradeniya and the Kelaniya Universities science faculties teach in English Medium, the students would have been required to answer their examinations in English. Then, how has Anura Kumara Disanayake’s English become so weak? Now, this is not his personal problem, but a national issue.
+
+It is more likely that Anura Kumara was awarded his degree, just to get rid of him from the university, preventing him creating further problems in the university.
+
+The JVP allied with the Sri Lanka Freedom Party (SLFP) and in Parliamentary elections 2004, Disanayake was elected to Parliament from the Kurunegala District from the UPFA and was appointed by President Kumaratunga as Minister of Agriculture, Livestock, Land and Irrigation.
+
+NPP in their policies spoke of being honest and free from all forms of corruption, but are failing to invest in any development projects, other than the projects hidden under large allocations given in the Budget as the Mahaveli Authority. But how can the country’s politicians be ignorant of development projects?
+
+Kadawatha-Meerigama sector of Central Expressway
+
+The contract for the construction of the 37 km stretch of Kadawatha-Meerigama sector the Central Expressway, was signed in 2016 with funds from China’s EXIM Bank and was expected to be completed in 2024.
+
+The highway with 15 km on 23 m high pillars, was awarded to a Chinese contractor, but today only about 25% is completed and the work stopped, but the contract is continuing. But compensations payable to the foreign contractor keep accumulating by nearly Rs. 21 million a day, due to machines and equipment lying idle, with no ongoing construction work. Now with work being stopped, when will the balance be completed?
+
+Rs. 5,000 million has been allocated from this year’s Budget for the construction of this expressway. The President has already directed the relevant officials to expedite the construction of Mirigama-Kadawatha sector.
+
+While the future of the Kadawatha-Mirigama stretch of the Central Expressway remains uncertain, the Government is mulling whether to renegotiate the project with the foreign contractor selected or to find a new local contractor or to hold it for the moment. But each passing day is expensive and an urgent decision is essential. Is the President aware of the situation?
+
+Meanwhile, Phase two Meerigama to Kurunegala 40.91 km section started in February 2017 was completed in January 2022 by a group of local construction companies.
+
+Question is, why cannot the Kadawatha-Meerigama sector contract be terminated and be awarded to the same group of companies who completed the Meerigama-Kurunegala sector, allowing saving large sums of money and faster completion. The writer, a Chartered Civil Engineer, was involved in construction projects until turning 75 years.
+
+The central highway was expected to reach Dambulla and reach Trincomalee, but currently the highway has extended only few km beyond Kurunegala and all construction stopped with no further progress. NPP Government could extend the highway towards Dambulla, especially as funds are available.
+
+In addition, there are requirements of culverts and small bridges for rural villages, where children suffer without proper access to their schools and local authorities are knowledgeable of the requirements.
+
+President’s English knowledge
+
+The biggest obstacle for further development of the country is the poor English knowledge of the President, as most project proposals are in English. Thus, it is most urgent that the President’s English skills be improved. With the education AKD has undergone, he should be able to understand what is being said. His issue is explaining his thoughts. Especially, as the President he cannot make mistakes. He is aware of the situation and problems going through, will not object to learn under a good English teacher and a reasonable improvement could be achieved in three months. Thereafter, with usage, skills will continue to improve.
+
+In addition, the President needs to be taught of economics, especially as the Minister of Defence, Energy, Agriculture, Land, Livestock, Irrigation, Fisheries and Aquatic Resources, covering almost 50% of the country’s resources and issues. But the public has not seen him discussing any of above matters.
+
+At least for the time being, the President needs to hand over some of the ministries to other members of his Cabinet.
+
+Power generation through solar power is fast improving with large new plants being inaugurated almost everyday, but CEB wishes to reduce payment to solar electricity. Solar power after installation is expected to produce electricity for 20 years, without any further investments. Wind power is throughout day and night, but wavering, solar and wind power are the cheapest, without requiring fuel imports. NPP Government’s support for renewable energy is not shown, possibly due to their ignorance.
+
+Commemoration of war ending
+
+Few days ago, several parties commemorated the ending of war with LTTE, including the North, which terminated hundreds of thousands of innocent lives. Not to be outdone, the Government too conducted a function and some were invited. But the invitation came not from the President, but from his office. It was clear that the President did not wish to attend the function, but his attendance was a last minute decision. In his address, he did not mention war heroes, but only as soldiers, which drew lots of protests and attacks from the press.
+
+It is clear that AKD has no faith on the armed forces. In his travel, he moves with minimum security, does not use the Air Force helicopters for long distance travel, forcing the police to place their staff, on route of President’s travel up and down, disturbing their daily activities.
+
+During 1988/1989 JVP conducted a war, led by Rohana Wijeweera expecting to gain power over the country, as achieved by countries as Cuba. However, their effort was crushed by the armed forces, resulting in annihilating thousands of JVP cadres. Anura Kumara only 20 years at the time, may have been a participant, managed to escape without serious injury. This resulted in his heavy JVP involvement in the university.
+
+Current economic situation
+
+The United States President Donald Trump imposed 44% tax on Sri Lankan exports in an executive order, where he claims imposing reciprocal half the taxes and barriers imposed by the island on the US.
+
+Sri Lanka’s apparel industry has recorded export earnings of $ 4.7 billion in 2024 of which exports to the US totalled $ 1.9 billion, the highest buyer of our apparels. President Trump’s imposition of high taxes have adversely affected the apparel industry. Although President Trump has postponed the implementation by three months, some of our garment producers have already discontinued the casual workers. Although the Government has appealed against the tax, future is uncertain.
+
+Already, a large textile factory NEXT in Katunayaka has closed down, claiming to be running at a loss, resulting in over 2,000 employees losing their jobs. Meanwhile, it was reported that India has signed a pact with United Kingdom, to reduce taxes which previously ranged from 12% for garments and 16% for some footwear and carpets. In return, India will gradually reduce its import duties on UK origin textiles and apparels.
+
+The country needs to go forward
+
+The results of Local Government elections showed how the local population is dissatisfied with the seven-month-old Government. Indicating major movement away from the current policy of non-involvement in bribery and corruption by not doing anything. Going ahead with development projects does not mean involving in bribery and corrupt activities, especially if the political leaders keep a sharp eye on award of contracts, also of progress made.
+
+During the past, projects including Mahaveli development which involved settlement of tens of thousands of farmer families, development of expressways and highways leading to practically every single km of roads been asphalted, would have had a certain amount of corrupt practices. But the overall goodness and help to local populace is enormous, bypassing all corruptions. Thus the NPP Government needs to realise that the results of development activities by far outweigh any costs of corruption; if their politicians are honest they would be able to minimise corrupt practices.
+
+But the issue is NPP politicians hardly got involved in practical projects and their experience in such projects are minimal. Thus they are scared even to touch development projects. Even the Prime Minister Harini Amarasuriya was an academic in the Open University of Sri Lanka and was engaged with the Federation of University Teachers’ Association in trade union.
+
+All project proposals and presentations are done in English and knowledge of English is essential for the development of the country. If the President learns English as given above and others too learn of past development works, further development of projects with foreign collaboration will not be difficult.
+
+Appointment of Auditor General
+
+The Opposition MP Dayasiri Jayasekara revealed in Parliament that the President has nominated a director of Ceylon Petroleum Corporation as the new Auditor General. “The nomination has been made outside the normal tradition,” the MP said. The tradition was the most senior officer next to the outgoing Auditor General is nominated and appointed for the post. However, the President has nominated an outsider and gone out of the tradition.
+
+At the same time the unions as Sri Lanka Audit Services Union, Association of State Assistant Auditors Union and State Auditors Union have highlighted that it is possible to nominate an outsider only if there is no person with right qualifications within the Auditor General’s Department. They have made a written request to this effect from the President.
+
+Meanwhile, the Constitutional Council has approved a six-month extension of service for the Acting Auditor General G.H.D. Dharmapala.
+
+Suitability of the new appointee
+
+With all this fuss, why did the President propose the new appointee? Only reason is he was one year junior to Anura Kumara in the Kelaniya University when he was a student, would have been a JVP activist. When the new Government has declared honesty and fairness, how is this possible from the President himself?
+
