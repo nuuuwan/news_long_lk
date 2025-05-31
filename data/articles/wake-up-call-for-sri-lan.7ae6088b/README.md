@@ -1,0 +1,28 @@
+# Wake-up call for Sri Lanka’s future
+
+[https://www.ft.lk/opinion/Wake-up-call-for-Sri-Lanka-s-future/14-777113](https://www.ft.lk/opinion/Wake-up-call-for-Sri-Lanka-s-future/14-777113)
+
+*12:02 AM, Saturday, May 31, 2025*
+
+While leaders boast about “stability” and reduced inflation, the cost is being paid silently by the people: the poor, the youth, pensioners, farmers, and small business owners
+
+By Nirmal Walikandegedara
+
+For decades, institutions like the International Monetary Fund (IMF) and the World Bank have operated under the guise of global development and stability — but their deeper function has often been to reshape struggling economies in ways that benefit the global financial elite. Founded during the Bretton Woods Conference in 1944, the IMF was meant to stabilise global currencies and assist countries in crisis. However, in reality, its “bailouts” come with heavy conditionalities — forcing nations to adopt austerity, privatise public assets, cut subsidies, and open up markets to foreign capital.
+
+Countries such as Argentina, Greece, Zambia, Pakistan, Ghana, and Sri Lanka have become textbook examples of this debt trap. In each case, IMF loans have led to currency devaluation, price hikes, social unrest, and economic dependency. In Sri Lanka, after decades of civil war—much of which was quietly influenced by Cold War geopolitics and foreign arms deals—the country fell deeper into debt. By 2022, amid rising inflation, fuel shortages, and public revolt, it had no choice but to accept an IMF package. But this wasn’t aid—it was control. From Chilean unrest under Pinochet to Greece’s pension cuts, the common thread is clear: these institutions shift the burden of financial crises onto the working class, pensioners, and the poor, while protecting elite lenders and multinational corporations.
+
+After the 2008 global financial crisis—caused largely by reckless behaviour of major banks—the costs were passed not onto the rich, but onto ordinary people across the world. Through “structural adjustment programs”, these institutions have effectively acted as economic enforcers for Western-led capital interests, keeping post-colonial nations in a cycle of dependency. What we are witnessing is not just economic policy—it is a modern form of sovereign domination, where money replaces militaries in the colonisation of the global South.
+
+In the case of Sri Lanka, the illusion of victory under the current IMF deal masks a far more dangerous long-term trap. While leaders boast about “stability” and reduced inflation, the cost is being paid silently by the people: the poor, the youth, pensioners, farmers, and small business owners. Following the economic collapse of 2022, which was triggered by reckless borrowing, import-heavy policies, and political mismanagement, the Government turned to the IMF with no alternative strategy. Today, prices remain unaffordable, essential services are slashed, and the rupee remains vulnerable. This is not recovery—it is foreign-managed survival.
+
+The so-called reforms have left local industries suffocated by import dependency, while exports remain underdeveloped due to outdated regulations and a lack of grassroots innovation incentives. Sri Lanka’s fertile land and skilled people should be the foundation of a self-sustaining, regenerative economy—yet decades of elite politics have crushed rural production, ignored local enterprise, and sold out national assets in exchange for foreign loans. The people were promised transformation, but after over 70 years of political rotation between two elite parties, even the recent shift in leadership has failed to break the cycle of dependency and global subordination.
+
+True recovery will only come when Sri Lanka breaks away from the IMF model, implements bold import-export legislation that empowers local producers, revives agriculture, technology, and ecological tourism, and above all—returns power to the people, not to foreign creditors or corporate elites. This is a call to wake up, to see past the headlines, and to build a truly sovereign economic future grounded in national wisdom, innovation, and justice.
+
+One of the most alarming crises Sri Lanka faces today is not just economic—it is cultural and spiritual. A whole generation of young people, disillusioned by decades of political corruption and broken promises, are now fully immersed in Western aesthetics but not Western systems. Our youth embrace foreign trends—fashion, music, cars, social media platforms—yet remain detached from the structures that made those nations economically resilient: transparent governance, innovation ecosystems, merit-based education, and civic engagement.
+
+In Sri Lanka, the problem is not that young people don’t care—it’s that they haven’t been shown a system worth caring about. The current political establishment thrives on this disconnection, keeping the population pacified with surface-level freedoms while eroding critical thinking, independence, and national pride. This is not a criticism of the youth—it is a wake-up call. It’s time for young Sri Lankans to stop imitating outer appearances and start building inner substance.
+
+If we want real change, we must demand not just new leaders, but a new model—one where our education system teaches economic self-reliance, political literacy, and ethical leadership; where social media is used not just for consumption, but for coordination and collective action; and where consciousness replaces complacency. Sri Lanka’s future depends on a generation that refuses to sleepwalk through history and instead rises with awareness, unity, and purpose.
+

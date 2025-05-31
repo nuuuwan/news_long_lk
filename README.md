@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-30 18:22:52**
+Last Updated **2025-05-31 06:25:40**
+
+## 2025-05-31
+
+* [The NPP’s most  painful problem](data/articles/the-npp-s-most-painful-p.6ab5771b/README.md) `ft.lk`
+* [World No Tobacco Day is today](data/articles/world-no-tobacco-day-is.89c4daea/README.md) `ft.lk`
+* [System change through transformation of strategic vision to strategic planning](data/articles/system-change-through-tr.27b498bc/README.md) `ft.lk`
+* [Wake-up call for Sri Lanka’s future](data/articles/wake-up-call-for-sri-lan.7ae6088b/README.md) `ft.lk`
 
 ## 2025-05-30
 
+* [Sacred commerce in Sri Lanka’s ritual economy is quiet engine of growth in changing world](data/articles/sacred-commerce-in-sri-l.64ba51a8/README.md) `ft.lk`
 * [Priority trade and competitiveness reforms for Sri Lanka – Part 2](data/articles/priority-trade-and-compe.6010a2c7/README.md) `ft.lk`
 * [We are witnessing a consumer-led transformation of how tobacco and nicotine is consumed](data/articles/we-are-witnessing-a-cons.27aefe26/README.md) `ft.lk`
 * [Future of a nation is written in classrooms: Why Sri Lanka must invest in pay, training, dignity of teachers](data/articles/future-of-a-nation-is-wr.444a309c/README.md) `ft.lk`
