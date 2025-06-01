@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-05-31 18:32:35**
+Last Updated **2025-06-01 06:26:15**
 
 ## 2025-05-31
 
+* [75 Year old Sri Lankan Tamil Refugee  in Tamil Nadu who Returned to  Jaffna After Obtaining Necessary Clearances  is Arrested and Remanded](data/articles/75-year-old-sri-lankan-t.1ef23246/README.md) `dbsjeyaraj.com`
 * [The NPP’s most  painful problem](data/articles/the-npp-s-most-painful-p.6ab5771b/README.md) `ft.lk`
 * [World No Tobacco Day is today](data/articles/world-no-tobacco-day-is.89c4daea/README.md) `ft.lk`
 * [System change through transformation of strategic vision to strategic planning](data/articles/system-change-through-tr.27b498bc/README.md) `ft.lk`
