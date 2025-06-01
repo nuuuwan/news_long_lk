@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-01 06:26:15**
+Last Updated **2025-06-01 18:22:14**
 
 ## 2025-05-31
 
+* [President Dissanayake’s speech at the National War Heroes’ Commemoration Ceremony must be commended. While Sinhalese nationalists have strongly condemned his speech, it is unfortunate that Tamil political parties did not welcome it.](data/articles/president-dissanayake-s.fab756ae/README.md) `dbsjeyaraj.com`
+* [SrI Lankans Dislay Public Exultation  about the Long Term Rigorous Imprisonment Terms of Two Corrupt Ministers of the Rajapaksa Regime  Over  the Purchasing of Carrom and Draughts Boards](data/articles/sri-lankans-dislay-publi.9500c5dc/README.md) `dbsjeyaraj.com`
 * [75 Year old Sri Lankan Tamil Refugee  in Tamil Nadu who Returned to  Jaffna After Obtaining Necessary Clearances  is Arrested and Remanded](data/articles/75-year-old-sri-lankan-t.1ef23246/README.md) `dbsjeyaraj.com`
 * [The NPP’s most  painful problem](data/articles/the-npp-s-most-painful-p.6ab5771b/README.md) `ft.lk`
 * [World No Tobacco Day is today](data/articles/world-no-tobacco-day-is.89c4daea/README.md) `ft.lk`
