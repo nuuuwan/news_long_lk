@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-01 18:22:14**
+Last Updated **2025-06-03 06:26:05**
+
+## 2025-06-03
+
+* [Bottleneck in drug testing:  Sri Lanka’s bioequivalence challenge](data/articles/bottleneck-in-drug-testi.6d1bdf8c/README.md) `ft.lk`
+* [Climate messaging went to Cannes and wore a dress](data/articles/climate-messaging-went-t.cd4a2aa0/README.md) `ft.lk`
+* [Organisation of Professional Associations of Sri Lanka: Tower of strength](data/articles/organisation-of-professi.2b77a055/README.md) `ft.lk`
+* [Child safety requires full protection of all child rights](data/articles/child-safety-requires-fu.32f786bf/README.md) `ft.lk`
+* [Reforming State-owned enterprises](data/articles/reforming-state-owned-en.b6147c05/README.md) `ft.lk`
+
+## 2025-06-01
+
+* [The Assassination of  Batticaloa “Virakesari” Journalist  Aiyathurai Nadesan  in Broad Daylight  21 Years ago](data/articles/the-assassination-of-bat.9464b096/README.md) `dbsjeyaraj.com`
 
 ## 2025-05-31
 
@@ -24,6 +36,7 @@ Last Updated **2025-06-01 18:22:14**
 * [NPP Government blunders](data/articles/npp-government-blunders.75587d3d/README.md) `ft.lk`
 * [Central Bank’s Sustainable Finance Roadmap: Fatally flawed](data/articles/central-bank-s-sustainab.5111797c/README.md) `ft.lk`
 * [Electricity tariffs: Accounting, clawbacks, and meddling by IMF](data/articles/electricity-tariffs-acco.bf73a883/README.md) `ft.lk`
+* [This benchmark used Reddit’s AITA to test how much AI models suck up to us](data/articles/this-benchmark-used-redd.2fcf6db4/README.md) `technologyreview.com`
 
 ## 2025-05-29
 
@@ -36,6 +49,7 @@ Last Updated **2025-06-01 18:22:14**
 ## 2025-05-28
 
 * [The AI Hype Index: College students are hooked on ChatGPT](data/articles/the-ai-hype-index-colleg.5fb5f0ce/README.md) `technologyreview.com`
+* [OpenAI: The power and the pride](data/articles/openai-the-power-and-the.79103c63/README.md) `technologyreview.com`
 * [This startup wants to make more climate-friendly metal in the US](data/articles/this-startup-wants-to-ma.5865cb54/README.md) `technologyreview.com`
 * [Lanka Ashok Leyland reports strong results in FY25](data/articles/lanka-ashok-leyland-repo.bd976965/README.md) `ft.lk`
 * [Professional costing framework should be implemented to determine cost price of electricity](data/articles/professional-costing-fra.96ed67d1/README.md) `ft.lk`

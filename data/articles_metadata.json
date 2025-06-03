@@ -1,5 +1,47 @@
 [
   {
+    "title": "Bottleneck in drug testing:  Sri Lanka\u2019s bioequivalence challenge",
+    "url": "https://www.ft.lk/opinion/Bottleneck-in-drug-testing-Sri-Lanka-s-bioequivalence-challenge/14-777209",
+    "ut": 1748894945.0,
+    "dir_path_unix": "data/articles/bottleneck-in-drug-testi.6d1bdf8c",
+    "time_str_formatted": "01:39 AM, Tuesday, June 03, 2025"
+  },
+  {
+    "title": "Climate messaging went to Cannes and wore a dress",
+    "url": "https://www.ft.lk/columns/Climate-messaging-went-to-Cannes-and-wore-a-dress/4-777208",
+    "ut": 1748894403.0,
+    "dir_path_unix": "data/articles/climate-messaging-went-t.cd4a2aa0",
+    "time_str_formatted": "01:30 AM, Tuesday, June 03, 2025"
+  },
+  {
+    "title": "Organisation of Professional Associations of Sri Lanka: Tower of strength",
+    "url": "https://www.ft.lk/columns/Organisation-of-Professional-Associations-of-Sri-Lanka-Tower-of-strength/4-777202",
+    "ut": 1748890617.0,
+    "dir_path_unix": "data/articles/organisation-of-professi.2b77a055",
+    "time_str_formatted": "12:26 AM, Tuesday, June 03, 2025"
+  },
+  {
+    "title": "Child safety requires full protection of all child rights",
+    "url": "https://www.ft.lk/columns/Child-safety-requires-full-protection-of-all-child-rights/4-777201",
+    "ut": 1748890040.0,
+    "dir_path_unix": "data/articles/child-safety-requires-fu.32f786bf",
+    "time_str_formatted": "12:17 AM, Tuesday, June 03, 2025"
+  },
+  {
+    "title": "Reforming State-owned enterprises",
+    "url": "https://www.ft.lk/opinion/Reforming-State-owned-enterprises/14-777200",
+    "ut": 1748889858.0,
+    "dir_path_unix": "data/articles/reforming-state-owned-en.b6147c05",
+    "time_str_formatted": "12:14 AM, Tuesday, June 03, 2025"
+  },
+  {
+    "title": "The Assassination of  Batticaloa \u201cVirakesari\u201d Journalist  Aiyathurai Nadesan  in Broad Daylight  21 Years ago",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=77836",
+    "ut": 1748791822.0,
+    "dir_path_unix": "data/articles/the-assassination-of-bat.9464b096",
+    "time_str_formatted": "09:00 PM, Sunday, June 01, 2025"
+  },
+  {
     "title": "President Dissanayake\u2019s speech at the National War Heroes\u2019 Commemoration Ceremony must be commended. While Sinhalese nationalists have strongly condemned his speech, it is unfortunate that Tamil political parties did not welcome it.",
     "url": "https://dbsjeyaraj.com/dbsj/?p=85947",
     "ut": 1748695718.0,
@@ -105,6 +147,13 @@
     "time_str_formatted": "05:21 AM, Friday, May 30, 2025"
   },
   {
+    "title": "This benchmark used Reddit\u2019s AITA to test how much AI models suck up to us",
+    "url": "https://www.technologyreview.com/2025/05/30/1117551/this-benchmark-used-reddits-aita-to-test-how-much-ai-models-suck-up-to-us/",
+    "ut": 1748561400.0,
+    "dir_path_unix": "data/articles/this-benchmark-used-redd.2fcf6db4",
+    "time_str_formatted": "05:00 AM, Friday, May 30, 2025"
+  },
+  {
     "title": "What will power AI\u2019s growth?",
     "url": "https://www.technologyreview.com/2025/05/29/1117500/ai-energy-growth-nuclear-natural-gas/",
     "ut": 1748478600.0,
@@ -145,6 +194,13 @@
     "ut": 1748407409.0,
     "dir_path_unix": "data/articles/the-ai-hype-index-colleg.5fb5f0ce",
     "time_str_formatted": "10:13 AM, Wednesday, May 28, 2025"
+  },
+  {
+    "title": "OpenAI: The power and the pride",
+    "url": "https://www.technologyreview.com/2025/05/28/1117486/openai-the-power-and-the-pride/",
+    "ut": 1748392629.0,
+    "dir_path_unix": "data/articles/openai-the-power-and-the.79103c63",
+    "time_str_formatted": "06:07 AM, Wednesday, May 28, 2025"
   },
   {
     "title": "This startup wants to make more climate-friendly metal in the US",

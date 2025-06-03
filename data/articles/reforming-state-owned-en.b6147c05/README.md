@@ -1,0 +1,22 @@
+# Reforming State-owned enterprises
+
+[https://www.ft.lk/opinion/Reforming-State-owned-enterprises/14-777200](https://www.ft.lk/opinion/Reforming-State-owned-enterprises/14-777200)
+
+*12:14 AM, Tuesday, June 03, 2025*
+
+For decades our country has sustained a cumbersome and inefficient network of State-owned enterprises (SOEs), often for reasons more political than practical. The recent statement by the Ministry of Industry and Entrepreneurship Development, denying media reports about the possible closure of the Sevanagala Sugar Factory, serves as a reminder of our collective reluctance to confront economic reality.
+
+The real question is not whether Sevanagala should be closed, but why it shouldn’t. If a State-run enterprise consistently operates at a loss and shows no signs of sustainable turnaround, what rational justification exists for keeping it afloat—especially with public funds? Every rupee lost by an SOE is a rupee paid by the taxpayer. And in a country facing serious fiscal challenges, such inefficiencies are more than just an economic nuisance—they are a national liability.
+
+Let us be clear: this is not just about sugar. It is about a pattern. Whether it is the sugar factory, the national airline, or any number of inefficient State entities, the fact remains that the Government is fundamentally not equipped to run businesses. The incentives are misaligned, decision-making is mired in bureaucracy, and accountability is weak. As a result, SOEs are often bloated, unproductive, and propped up only by political patronage. As seen in numerous cases these SOEs become dens of corruption with little accountability. They are also places to fill jobs with cronies and loyalists further exacerbating their efficiency and profitability.
+
+The tragedy is that reform has long been postponed due to the sensitive optics surrounding privatisation. Too often, necessary economic reforms are painted as a betrayal of national interests—a sellout to capitalism, a threat to workers, or an erosion of sovereignty. These are outdated narratives that ignore the core issue: economic sustainability. Emotional arguments, while understandable, should not be allowed to derail prudent policy.
+
+The current Government, armed with a two-thirds majority in Parliament, and the backing of a vast majority of the working class people of the country, has both the mandate and the political muscle to enact long-overdue reforms. This is a rare window of opportunity—one that must not be squandered. It is time to make hard choices: privatise what can be salvaged, shut down what cannot, and redirect public funds to areas where the State has a meaningful role—education, healthcare, infrastructure.
+
+President Anura Disanayake and his Government are not tainted with allegations of corruption and they have the ability to effectively communicate the rationale behind the necessity for reform of lossmaking SOEs. This ‘trust’ is the most valuable asset this administration has if it ventures to do the necessary reforms. As a socialist leaning administration, it will not be accused of selling out to crony capitalists and opportunities as previous administrations have done with numerous privatisation ventures.
+
+Reforming SOEs is not about ideology; it is about common sense. Sri Lanka can no longer afford to carry economic deadweight in the name of political convenience. Let’s move past the illusions of self-sufficiency, nationalism and misguided socialism that have masked inefficiency for too long. We need to prioritise long-term welfare of citizens over short-term political optics.
+
+The writing is on the wall. The only question is whether we will act—or continue to pay the price of inaction.
+
