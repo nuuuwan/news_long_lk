@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-03 06:26:05**
+Last Updated **2025-06-03 18:23:49**
 
 ## 2025-06-03
 
+* [Inside the tedious effort to tally AI’s energy appetite](data/articles/inside-the-tedious-effor.1643a97b/README.md) `technologyreview.com`
 * [Bottleneck in drug testing:  Sri Lanka’s bioequivalence challenge](data/articles/bottleneck-in-drug-testi.6d1bdf8c/README.md) `ft.lk`
 * [Climate messaging went to Cannes and wore a dress](data/articles/climate-messaging-went-t.cd4a2aa0/README.md) `ft.lk`
 * [Organisation of Professional Associations of Sri Lanka: Tower of strength](data/articles/organisation-of-professi.2b77a055/README.md) `ft.lk`
 * [Child safety requires full protection of all child rights](data/articles/child-safety-requires-fu.32f786bf/README.md) `ft.lk`
 * [Reforming State-owned enterprises](data/articles/reforming-state-owned-en.b6147c05/README.md) `ft.lk`
+* [Malini Fonseka :  Why the  “Queen  of Sinhala Cinema” Became a UPFA National List  Parliamentarian.](data/articles/malini-fonseka-why-the-q.35d9de40/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-01
 
@@ -41,6 +43,7 @@ Last Updated **2025-06-03 06:26:05**
 ## 2025-05-29
 
 * [What will power AI’s growth?](data/articles/what-will-power-ai-s-gro.dee8d7f8/README.md) `technologyreview.com`
+* [This giant microwave may change the future of war](data/articles/this-giant-microwave-may.5afcfcf6/README.md) `technologyreview.com`
 * [Wake-up call: Why AI isn’t just another tech trend—it’s the next industrial revolution](data/articles/wake-up-call-why-ai-isn.6fe5f072/README.md) `ft.lk`
 * [Corporate strategy meets national policy: Path to sustainable recovery for Sri Lanka](data/articles/corporate-strategy-meets.e63aa75d/README.md) `ft.lk`
 * [Billboard paradox: When corporate principles meet regulatory reality](data/articles/billboard-paradox-when-c.37de9ec6/README.md) `ft.lk`
