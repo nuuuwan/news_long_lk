@@ -2,11 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-03 18:23:49**
+Last Updated **2025-06-04 06:25:45**
+
+## 2025-06-04
+
+* [Bringing XBRL to  Sri Lanka: Transformative opportunity for CSE](data/articles/bringing-xbrl-to-sri-lan.3bfe57fa/README.md) `ft.lk`
+* [Law-making for the people must be with the people](data/articles/law-making-for-the-peopl.d14abe2c/README.md) `ft.lk`
+* [Government must take hard calls now or risk fading into oblivion](data/articles/government-must-take-har.8083f8cb/README.md) `ft.lk`
+* [Not-doing-stupid-stuff governance](data/articles/not-doing-stupid-stuff-g.e2c77e94/README.md) `ft.lk`
+* [Repealing PTA: Test of integrity for Sri Lanka’s new political order](data/articles/repealing-pta-test-of-in.8e3aee25/README.md) `ft.lk`
 
 ## 2025-06-03
 
 * [Inside the tedious effort to tally AI’s energy appetite](data/articles/inside-the-tedious-effor.1643a97b/README.md) `technologyreview.com`
+* [Inside the effort to tally AI’s energy appetite](data/articles/inside-the-effort-to-tal.1643a97b/README.md) `technologyreview.com`
 * [Bottleneck in drug testing:  Sri Lanka’s bioequivalence challenge](data/articles/bottleneck-in-drug-testi.6d1bdf8c/README.md) `ft.lk`
 * [Climate messaging went to Cannes and wore a dress](data/articles/climate-messaging-went-t.cd4a2aa0/README.md) `ft.lk`
 * [Organisation of Professional Associations of Sri Lanka: Tower of strength](data/articles/organisation-of-professi.2b77a055/README.md) `ft.lk`
