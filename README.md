@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-05 06:25:45**
+Last Updated **2025-06-05 18:22:48**
 
 ## 2025-06-05
 
+* [Over $1 billion in federal funding got slashed for this polluting industry](data/articles/over-1-billion-in-federa.d0c1034b/README.md) `technologyreview.com`
 * [Restoring people’s  faith in a political system that works for all](data/articles/restoring-people-s-faith.a25ed065/README.md) `ft.lk`
 * [Why UN Financing for Development Conference is Sri Lanka’s best shot at debt justice](data/articles/why-un-financing-for-dev.9772625b/README.md) `ft.lk`
 * [Drawing parallels between “Gazens and Amalekites”](data/articles/drawing-parallels-betwee.3acb284e/README.md) `ft.lk`
