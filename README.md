@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-04 18:22:49**
+Last Updated **2025-06-05 06:25:45**
+
+## 2025-06-05
+
+* [Restoring people’s  faith in a political system that works for all](data/articles/restoring-people-s-faith.a25ed065/README.md) `ft.lk`
+* [Why UN Financing for Development Conference is Sri Lanka’s best shot at debt justice](data/articles/why-un-financing-for-dev.9772625b/README.md) `ft.lk`
+* [Drawing parallels between “Gazens and Amalekites”](data/articles/drawing-parallels-betwee.3acb284e/README.md) `ft.lk`
+* [Volker Türk’s visit, wartime accountability and realist-reformism for north-south reconciliation](data/articles/volker-türk-s-visit-wart.a9f2a06e/README.md) `ft.lk`
 
 ## 2025-06-04
 

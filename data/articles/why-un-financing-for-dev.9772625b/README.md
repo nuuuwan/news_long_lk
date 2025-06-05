@@ -1,0 +1,46 @@
+# Why UN Financing for Development Conference is Sri Lanka’s best shot at debt justice
+
+[https://www.ft.lk/columns/Why-UN-Financing-for-Development-Conference-is-Sri-Lanka-s-best-shot-at-debt-justice/4-777327](https://www.ft.lk/columns/Why-UN-Financing-for-Development-Conference-is-Sri-Lanka-s-best-shot-at-debt-justice/4-777327)
+
+*03:07 AM, Thursday, June 05, 2025*
+
+In Seville, Sri Lanka must act boldly
+
+Illogical as it may seem, a collapsing global order – Trump tariffs and his disinterest in a just world – offers Sri Lanka a historic opportunity: to demand debt justice, build meaningful alliances across the Global South, and challenge deepening global inequality.
+
+A pivotal moment will arrive in late June, in Seville, Spain, at the Fourth United Nations Financing for Development (FfD4) Conference. There, Sri Lanka must join other nations and seize the platform to expose the structural injustices of the global economic system and press for transformative solutions to the crises driving today’s instability.
+
+This summit represents a critical chance to push for fairer global financial rules – rules that tackle inequality, extreme wealth concentration, and the climate emergency that threatens our collective future.
+
+However, the recent negotiations leading up to Seville have been discouraging. Both the European Union and the United States have resisted substantive reforms, opposing more democratic global economic governance. Instead of supporting inclusive proposals, they continue to promote narrow initiatives, which fall far short of addressing the scale of the challenges we face (EU Observer, June 2025).
+
+Campaign groups such as Eurodad are urging the European Union to support an agreement at FfD4 for launching an intergovernmental process to establish a UN Framework Convention on Sovereign Debt.
+
+Sri Lanka’s current IMF-led debt restructuring agreements fall short of delivering a meaningful reduction in the country’s debt burden, heightening the risk of a second default. The current bi-lateral and private bondholder debt restructuring agreements do not provide a viable, long-term solution aligned with Sri Lanka’s development goals or the 2030 United Nations Sustainable Development Goals (SDGs). In the meantime, Sri Lanka loses billions of dollars annually through illicit financial flows facilitated by the broken global financial architecture.
+
+The current system marginalises the poorest, traps nations in unsustainable debt, and enables the ultra-wealthy to plunder resources while consolidating control. Sri Lanka must support three critical pillars in the FfD negotiations:
+
+We are in the midst of the worst global debt crisis on record. According to the UN, 3.3 billion people live in countries that spend more on interest payments than on health or education. Despite its shortcomings, the UN remains the only global body where all countries have equal representation—and therefore the only venue where debtor interests can be prioritised over creditor dominance.
+
+Sri Lanka should align with other Global South nations to support UN-led reforms to resolve sovereign debt crises. Alternatives such as the IMF and the G20 have proven inadequate, slow, and biased in favour of wealthy creditors.
+
+2. Equitable access to finance
+
+Access to fair finance has dried up, especially for countries reliant on the now weaponised global reserve currency for dollar-based finance. Amid global aid cuts and rising military spending, development funding is shrinking—undermining real security, which is rooted in diplomacy, democracy, and sustainability.
+
+Wealthy nations continue to fall short of the long-standing 0.7% GNI commitment to aid, with little accountability. This underscores the need for a UN convention on international aid, where all countries can participate equally in rule-making—unlike in the OECD, where wealthy nations set the terms.
+
+3. Global tax justice
+
+Rampant tax abuse by multinationals and the ultra-rich drains hundreds of billions from the Global South. As the world approaches its first trillionaires, public resources are being hollowed out by corporate tax havens and avoidance schemes.
+
+Sri Lanka must actively support the UN-led Global Tax Convention, now under development, to curb these injustices and reclaim revenue for public investment.
+
+Fighting for these reforms is not only morally imperative—it serves Sri Lanka’s long-term national interest. Aligning with other governments to demand UN-led transformation offers a rare strategic opportunity: to advance debt relief, climate justice, and inclusive economic governance.
+
+Sri Lanka should send a senior delegation to the FfD4 and actively participate in emerging platforms for Global South cooperation, including a Global South Debtors’ Coalition. Such collective engagement can support more coordinated negotiations, enable shared policy learning, and contribute to the transformation of the global financial architecture toward greater equity and justice.
+
+In Seville, Sri Lanka must act boldly. This is a moment to lead with conviction, stand for justice, and join the chorus of voices calling for a fairer, more equal global order.
+
+(The writer is co-founder of the Institute of Political Economy (ipe-sl.org) and a former local councillor in London. [email protected].)
+
