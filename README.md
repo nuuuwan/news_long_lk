@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-05 18:22:48**
+Last Updated **2025-06-06 18:23:44**
+
+## 2025-06-06
+
+* [Inside the race to find GPS alternatives](data/articles/inside-the-race-to-find.366b36f1/README.md) `technologyreview.com`
+* [China: Emerging ‘qibla’ for struggling Sri Lanka](data/articles/china-emerging-qibla-for.151c0d66/README.md) `ft.lk`
+* [Tariff turmoil: Overreliance on distribution instead of growth](data/articles/tariff-turmoil-overrelia.05a47b14/README.md) `ft.lk`
+* [Bridging the gap: Financial inclusion, gender, and survival finance in Sri Lanka’s margins](data/articles/bridging-the-gap-financi.b476d483/README.md) `ft.lk`
 
 ## 2025-06-05
 
@@ -19,6 +26,7 @@ Last Updated **2025-06-05 18:22:48**
 * [Government must take hard calls now or risk fading into oblivion](data/articles/government-must-take-har.8083f8cb/README.md) `ft.lk`
 * [Not-doing-stupid-stuff governance](data/articles/not-doing-stupid-stuff-g.e2c77e94/README.md) `ft.lk`
 * [Repealing PTA: Test of integrity for Sri Lanka’s new political order](data/articles/repealing-pta-test-of-in.8e3aee25/README.md) `ft.lk`
+* [What’s next for AI and math](data/articles/what-s-next-for-ai-and-m.b93a0562/README.md) `technologyreview.com`
 
 ## 2025-06-03
 
@@ -30,6 +38,10 @@ Last Updated **2025-06-05 18:22:48**
 * [Child safety requires full protection of all child rights](data/articles/child-safety-requires-fu.32f786bf/README.md) `ft.lk`
 * [Reforming State-owned enterprises](data/articles/reforming-state-owned-en.b6147c05/README.md) `ft.lk`
 * [Malini Fonseka :  Why the  “Queen  of Sinhala Cinema” Became a UPFA National List  Parliamentarian.](data/articles/malini-fonseka-why-the-q.35d9de40/README.md) `dbsjeyaraj.com`
+
+## 2025-06-02
+
+* [The Trump administration has shut down more than 100 climate studies](data/articles/the-trump-administration.3d8d7ed2/README.md) `technologyreview.com`
 
 ## 2025-06-01
 
