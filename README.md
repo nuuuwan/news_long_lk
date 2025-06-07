@@ -2,11 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-06 18:23:44**
+Last Updated **2025-06-07 06:25:53**
 
 ## 2025-06-06
 
+* [A brief relief for a regime  set to suffer no small grief](data/articles/a-brief-relief-for-a-reg.d3978e54/README.md) `ft.lk`
+* [Underestimated climate threat: Black carbon as a super pollutant](data/articles/underestimated-climate-t.637e9b31/README.md) `ft.lk`
+* [Pipe dreams while at sea](data/articles/pipe-dreams-while-at-sea.0f63199c/README.md) `ft.lk`
+* [Asian Geopolitical Strategic Affairs Council to be established](data/articles/asian-geopolitical-strat.b84f4b7c/README.md) `ft.lk`
 * [Inside the race to find GPS alternatives](data/articles/inside-the-race-to-find.366b36f1/README.md) `technologyreview.com`
+* [Why doctors should look for ways to prescribe hope](data/articles/why-doctors-should-look.307c679f/README.md) `technologyreview.com`
 * [China: Emerging ‘qibla’ for struggling Sri Lanka](data/articles/china-emerging-qibla-for.151c0d66/README.md) `ft.lk`
 * [Tariff turmoil: Overreliance on distribution instead of growth](data/articles/tariff-turmoil-overrelia.05a47b14/README.md) `ft.lk`
 * [Bridging the gap: Financial inclusion, gender, and survival finance in Sri Lanka’s margins](data/articles/bridging-the-gap-financi.b476d483/README.md) `ft.lk`
