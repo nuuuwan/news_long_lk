@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-07 06:25:53**
+Last Updated **2025-06-07 18:21:47**
 
 ## 2025-06-06
 
@@ -10,6 +10,7 @@ Last Updated **2025-06-07 06:25:53**
 * [Underestimated climate threat: Black carbon as a super pollutant](data/articles/underestimated-climate-t.637e9b31/README.md) `ft.lk`
 * [Pipe dreams while at sea](data/articles/pipe-dreams-while-at-sea.0f63199c/README.md) `ft.lk`
 * [Asian Geopolitical Strategic Affairs Council to be established](data/articles/asian-geopolitical-strat.b84f4b7c/README.md) `ft.lk`
+* [” பிரிகேடியர் ” பால்ராஜ் ; விடுதலை புலிகள் இயக்கத்தில் மிகவும் சிறந்த மதியூகிப் போராளி- இராணுவத்தினரும் கூட மெச்சிய மிகவும் சிறந்த தளபதி](data/articles/ப-ர-க-ட-யர-ப-ல-ர-ஜ-வ-ட.aed56eb0/README.md) `dbsjeyaraj.com`
 * [Inside the race to find GPS alternatives](data/articles/inside-the-race-to-find.366b36f1/README.md) `technologyreview.com`
 * [Why doctors should look for ways to prescribe hope](data/articles/why-doctors-should-look.307c679f/README.md) `technologyreview.com`
 * [China: Emerging ‘qibla’ for struggling Sri Lanka](data/articles/china-emerging-qibla-for.151c0d66/README.md) `ft.lk`
