@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-08 06:25:56**
+Last Updated **2025-06-08 18:21:44**
+
+## 2025-06-08
+
+* [The anti-Sumanthiran hysteria that has prevailed in northern politics for many years is an impediment to unity among the Tamil polity.](data/articles/the-anti-sumanthiran-hys.fbd505d2/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-06
 
