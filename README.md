@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-08 18:21:44**
+Last Updated **2025-06-09 06:26:04**
+
+## 2025-06-09
+
+* [Sri Lanka online safety and personal data protection: Thoughts for our legislators towards bipartisan consensus](data/articles/sri-lanka-online-safety.33727cf8/README.md) `ft.lk`
 
 ## 2025-06-08
 
+* [Vishnu Vasu’s ‘Made in India’: Bohemian’s unconventional travelogue of India](data/articles/vishnu-vasu-s-made-in-in.ee30c547/README.md) `ft.lk`
+* [Deep water bunkering terminal at Port of Colombo: Feasibility and economic impact – Part 1](data/articles/deep-water-bunkering-ter.c091c35d/README.md) `ft.lk`
+* [Indian Ocean Region: Missed opportunity for Sri Lankan leadership](data/articles/indian-ocean-region-miss.28ec72e2/README.md) `ft.lk`
 * [The anti-Sumanthiran hysteria that has prevailed in northern politics for many years is an impediment to unity among the Tamil polity.](data/articles/the-anti-sumanthiran-hys.fbd505d2/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-06
