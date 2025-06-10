@@ -1,0 +1,112 @@
+# BASL FR petition: Groundswell initiative for creation of zero tolerance ragging culture
+
+[https://www.ft.lk/columns/BASL-FR-petition-Groundswell-initiative-for-creation-of-zero-tolerance-ragging-culture/4-777505](https://www.ft.lk/columns/BASL-FR-petition-Groundswell-initiative-for-creation-of-zero-tolerance-ragging-culture/4-777505)
+
+*11:15 PM, Monday, June 09, 2025*
+
+The ragging culture continues unabated making a mockery of all the precautionary measures taken by the UGC
+
+The Bar Association of Sri Lanka (BASL) should receive the nation encomia for filing a fundamental rights petition under case No. SC/FR/101/2025 to the Supreme Court (SC) with a view to eradicating the ragging menace from Sri Lankan universities. It is a timely initiative at a time when all the stakeholders display a sense of passivity and ignorance in agape and abdicated their responsibilities.
+
+It has urged the SC to hold the responsible institutions and officials to account, enforce anti-ragging laws and regulations strictly, mandate specific guidelines to protect students and to recognise the right of every student to pursue university education in dignity and safety. The uncivilised ragging culture is an aberration which should be abhorred once and for all, with the full force of the law.
+
+The petition highlights systematic and institutional failures including repeated inaction and a culture of impunity for the students to resort to barbaric ragging. It states that the ragging violates the fundamental rights to equal protection of the law, freedom from torture under section Articles 12(1) and 11 of the Constitution. In particular, the petitioners allege the failure of Sabaragamuwa University, the University Grant Commission (UGC), the Police and others (69 respondents) to enforce anti-ragging laws and to protect students.
+
+Legislative protections and circular guidelines
+
+It is a well-known fact that any form of ragging constitutes an offence punishable by law in terms of the Prohibition of Ragging and Other Forms of Violence Act No. 20 of 1998 and the Torture and Other Cruel Inhuman or Treatment or Punishment Act No. 22 of 1994. The UGC has promptly complied with the statutory enactments referred to above and issued circular instructions on numerous occasions via Circular No. 919 of 15 January 2010, Circular No. 946 of 10 February 2011, 12/2019, 04/2020 to the Vice Chancellors (VCs) to act swiftly in case of the breach of law. The malady is not the paucity of legislative protection but the sheer negligence and do-not-care attitude of the enforcement authorities.
+
+Implications of administrative measures
+
+But the fact remains that the circular guidelines given by the UGC to the VCs have been observed in the breach for the last three decades and the ragging culture continues unabated making a mockery of all the precautionary measures taken by the UGC with good intentions. The authorities have woken from the deep slumber to appoint an investigation officer with wide powers to pursue legal action against the perpetrators, assuming that the cycle of ragging is taking place solely because of the absence of a dedicated officer. The Ministry of Higher Education has once upon a time taken a decision to appoint a Council Member to deal with ragging related complaints. It is ridiculous to assume how a Council member or for that matter the newly appointed Investigation Officer would be uniquely equipped to respond to ragging. Authorities have totally failed to appraise the Prime Minister who is in charge of the Higher Education without knowing the full complexities of this burning issue.
+
+It is my considered view that this appointment of new officers is akin to the solution of the loincloth to the dysentery. The problem lies somewhere else which our panjandrums have failed to take cognisance of the large picture of ragging for which a multi-faceted approach is the need of the hour. It does appear to me that the authorities do not have an iota of knowledge of the root causes of ragging and it is absurd to attack the symbolical symptoms without diagnosing the root causes that have led to this unethical culture. What is needed is institutional remedial measures rather than piecemeal solutions. In essence, what the universities need is an institutional reform or a solitary example of accountability. This, of course is the home-truth. The ragging culture rears an ugly head mainly because of the failure of the enforcement authorities that are entrusted with upholding accountability, where they have totally altered, compromised and stood idle with a complacent mode and lethargic attitude.
+
+Perpetrators (senior students) traits
+
+A number of startling revelations have been unearthed from a research study (Prevalence of Ragging and Sexual and Gender based Violence in Sri Lankan Universities) in that it found the following qualitative personal traits of the students who indulged in ragging.
+
+Perpetrators belong to low-income households coming from rural backgrounds staying largely in hostels and dormitories, having had a troubled upbringing. Two sub-cultures are made up of rural and urban class divisions that have resulted in the formation of two sub-cultures with urban students opposing the subculture of those who came from rural marginalised families. Faculty-wise, management and art faculties (humanities and social sciences) students have indulged in ragging whereas the ragging of medical engineering, science are relatively low. When the medium of instruction is taken students studying in Sinhala and Tamil mediums are more likely to engage in ragging. In terms of gender, the highest percentage of students in categories of transgender and gender neutrality tend to harass other students through ragging. A marginal segment of 1.4% of students became involved in ragging without having been ragged previously. And 8.40% of students who have experienced ragging have harassed juniors through ragging.
+
+Another noteworthy revelation is that with the introduction of the Z score privilege given to marginalised development geographical areas, more students in the down-trodden families have benefited to receive university education. It is revealed that those students who perform relatively low at the GCE A/L examination are more likely to be engaged in ragging. It is also found that students who have a checkered history of ragging are more likely to miss university lectures and dilly-dallying neglecting their studies. It is important to be recorded here that students who are unaware of the Ragging Act and the university guidelines issued on ragging have harassed their juniors through ragging. The absence of knowledge governing the harsh punishments meted out to raggers is a key factor influencing students to engage in ragging. The above research has revealed that students who involved in ragging and those who did not involve, their social backgrounds and their place of origin whether urban or rural have a great nexus. Accordingly, students who come from rural backgrounds staying in hostels and had disturbed childhood are most likely to be those involved in ragging.
+
+Bullying is a deeply rooted menace that has led to devastating consequences for students including psychological trauma, physical injury and even death. Though the relevant Acts have explicitly provisions to deal with bullying, growing incidents of suicides manifest that the legislative provisions and UGC guidelines have failed to achieve the intended goals by rendering them both toothless and impracticable. It is alleged that the recent suicides by the second year students of Sabaragamuwa University and the Wayamba Teacher’s Training Institute have been the inevitable result of bullying! It should be borne in mind that the legal recourses are available only to those who stand up against the torture and not for those who are sleeping, abdicating their responsibilities. This is how that the BASL has come forward seeking the intervention of the SC.
+
+It does appear to me that the authorities do not have an iota of knowledge of the root causes of ragging and it is absurd to attack the symbolical symptoms without diagnosing the root causes that have led to this unethical culture. What is needed is institutional remedial measures rather than piecemeal solutions. In essence, what the universities need is an institutional reform or a solitary example of accountability. This, of course is the home-truth. The ragging culture rears an ugly head mainly because of the failure of the enforcement authorities that are entrusted with upholding accountability, where they have totally altered, compromised and stood idle with a complacent mode and lethargic attitude
+
+Low international ranking and recognition
+
+It is disheartening to note that the low ranking of Sri Lankan universities in comparison with global ranking has taken a backseat and it is my considered view that the cycle of ragging might have directly and indirectly affected the international recognition and the qualitative aspects in comparison with the rest of the countries in the South East Asian Region (Japan, India, South Korea, Indonesia, Thailand, Pakistan, and Singapore) where the standards in terms of teaching, research environment, research quality, industry collaboration and international outlook of our universities. It is regretted to see the global ranking of University of Colombo – 1,665, Peradeniya – 2,023, Kelaniya – 2,939, Sri Jayewardenepura – 3,585, Rajarata – 4,627, Ruhuna – 4,666, SLIIT – 5,822, Sabaragamuwa – 6,516, Kotalawala Defence – 6,685 and Open University – 6,868 according to an AD scientific ranking survey carried in 2025.
+
+Out-of-the-box approach is the need of the hour
+
+It is paramount important that our stakeholders including the UGC and universities should adopt an out-of-the-box approach, deviating from the legalistic and routine operational methods, since the BASL has paved the way for the rest of the stakeholders to take the lead.
+
+Undertake a comprehensive research on why the high incidence of ragging is prevailing in Sri Lankan universities. Expose the research papers already published for the information of the public in the web. Active involvement of the members of the Senate and governing bodies which consist of erudite scholars and experienced professionals in the private sector would be an added strength for the VCs to galvanise anti-ragging measures.
+
+Concentrate more on broader and specific ragging-related issues such as bullying rather than acting on knee-jerk reactions on legislative enactment. Refrain from recruiting graduates with a poor track record on ragging to academic positions irrespective of the academic excellence. Raggers who were dismissed from the university on being found guilty should be named and shamed by displaying their photographs in the newspapers.
+
+Circulate the ragging Act and the UGC guidelines regarding ragging and the explicit punishments to the students and their parents once the students are selected. Give publicity to all students and their parents that students who blot their copybook will not be considered for academic positions.
+
+Solicit the support of the National Intelligence Bureau (NIB) to elicit the troublemakers by mingling with the students. The easiest way is to recruit students who are eligible for university admission and deploy them as decoys to identify the bad eggs.
+
+Keep the area police stations and Grama Seva Niladharies informed of the violent character of the raggers regularly with a copy to the parents.
+
+Establish a web portal containing the names of the blacklisted raggers from which interested parties (both public and private sectors) could identify the character and integrity of the ragger in relation to employment and matrimonial purposes.
+
+Introduce online classes for the newcomers initially and allow them to interact with each other for three months so that they could play a dominant student force against ragging.
+
+Encourage whistleblower mechanism with a rewarding scheme. Their confidentiality should be strictly maintained.
+
+Justice must not be lopsided and those who unleash mindless terror and thuggery in the name of so-called socialisation, plunging the universities into anarchical situations must be made to face the full force of the law. The Acting IG should display his ability by arresting 20 students who mercilessly assaulted the Sri Jayewardenepura student on 29 April.
+
+Stakeholders could play a pivotal role to educate the students in their CSR programs similar to their career guidance projects. Develop the institutional discipline of the students before entering universities by giving them the work ethics of the public and private sector.
+
+Explore the possibility of absorbing new batches to the university after the last batch leave the university on completion of the final examination. Solicit the support of the Alumni Associations not to consider the raggers who possessed a dubious track record of ragging for awards.
+
+Obtain a declaration from the students prior to the election of student councils stating they do not promote and encourage ragging.
+
+Arrange strong characters of the student councils for a study tour to the leading universities in the region and expose them to the accepted norms of student culture.
+
+The terminology extensively used by ruffians such as “socialisation” under the pretext of ragging is humbug and misnomer and such terminologies should be deleted from the university vocabulary.
+
+Install CCTV cameras in hostels, canteens and vulnerable locations. In the rehabilitation of raggers, it is important have the blessings of the religious leaders with a view to drilling the idea into their mind that every bullying and humiliation they inflict would return to them with dividends as a karmic force. One has to pay for their sins and transgressions and retribution is inevitable.
+
+Establish a Parliamentary Oversight Committee to review the scale of ragging and efficacy of the implementing agencies such as UGC, universities, Police, Attorney General Department, etc.
+
+Raggers should be considered as criminals and they must be promptly reported to the Police.
+
+Establish a dedicated hotline to feed information of ragging.
+
+Encourage victims, their families and interested groups to institute legal actions against the raggers, student councils and its members, and relevant parties claiming damages and compensation in the event of a death, severe injuries, mental trauma, disruption of studies, etc.
+
+Explore the feasibility of allowing the parents to be with their children in the halls of residence and hostels for two weeks.
+
+Urgent need has arisen to establish an advocacy or lobbying group to provide physiological, advisory, legal assistance to the victims and their families. Numerous authors who published articles, psychologists and medical personnel, legal officers, voluntary groups and individuals, trade chambers, retired personnel from the university staff, counsellors, etc. will be the ideal group for the formation of this group. This collective forum could render a tremendous contribution in this endeavour. If everybody is agreeable that we have got to bell the cat, I will be willing to come forward and volunteer to lead the informal group initially.
+
+One might wonder how those ragging continue to flourish, despite all the precautionary measures taken. The answer lies in the aggressive approach of the misguided seniors, and the gullibility of new entrants and ineffective systems that fail to eradicate the menace at its root.
+
+Unfortunately, this culturally enforced silence and stigma results in victims of sexual abuse being shamed and harassed by the perpetrators and print media and social media. This unethical practice should be completely stopped.
+
+Falling victim of new entrants to misguided raggers very often comes to misplaced trust and heavy-reliance of the raggers assuming that they are saviours. School principals and the teachers of the Advanced Level classes can play a bigger role, by educating students once they are qualified for university admission.
+
+Mental health professionals are desperately needed as counsellors for universities. More than ever before. Education is needed throughout the university community to deconstruct the monumental ignorance, which causes such a harmful impact on the victims
+
+There is no redress possible to a family that has lost its child but the community as a whole too will lose confidence in the system in which such actions seem to go unaddressed. It is our collective responsibility, our fiduciary duty, to raise our standards and codes of conduct at every stage of the process of accountability in situations such as this.
+
+Parents, teachers, tuition teachers, administrative staff, police officers, counsellors, peers and fellow students, family members and community leaders can all lift our voices and speak out against ragging. Instead of shaming and blaming after the act of ragging, we could save and uplift the lives of the students who will be the solid citizens. We should not solely leave it to activists to intervene. Our own actions should create greater justice for our battered victims. Collectively, we need to create a safer society in which the dignity of all individuals is upheld.
+
+The regulatory framework must be strengthened and enforcement made more stringent. Harsher punishments on those violating ragging regulations must be enforced. The fact that ragging continues to exist in broad daylight suggests that current measures are insufficient or inconsistently applied. What is needed is the sustained crackdown of bad eggs that goes beyond just identifying them.
+
+Thorough awareness to the newcomers must be given in a meaningful effort that reaches potential victims before the culprits swing into action. Both print and electronic media including the social media could render an invaluable service taking an aggressive stance on ragging-related matters. They are in a strong position to change the public perception and form a formidable audience in this campaign.
+
+The reality is that this decades-old wound will not disappear overnight. There will be frustrated elements with political ideologies who are very smart to exploit the well laid down system. But the least we can do is a relentless drive to succeed.
+
+Authorities and all stakeholders should be more vigilant and those who indulge in ragging should face swift and deterrent consequences.
+
+Rehabilitation of raggers is also equally important because they themselves are victims of the socio and economic system. The ragging eradication drive could be tied up to the nation program “Sri Lanka” initiated by the Government recently.
+
+The support of the President and the Prime Minister who are both graduates are added strengths in this endeavour and their intervention would be readily available at a time when the country is witnessing a  dramatic change in all forms of governance. They will be more amenable to any constructive proposals. Thus a meaningful interaction with them is thoroughly advocated.
+
+(The writer is a Productivity Specialist and Management Consultant. He can be contacted on [email protected].)
+
