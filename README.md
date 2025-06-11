@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-11 06:25:59**
+Last Updated **2025-06-11 18:23:25**
 
 ## 2025-06-11
 
+* [Why humanoid robots need their own safety rules](data/articles/why-humanoid-robots-need.92669612/README.md) `technologyreview.com`
 * [Electricity Act amendments: Reversing reform](data/articles/electricity-act-amendmen.f536c475/README.md) `ft.lk`
+* [Electricity Act amendments: Reversing reform](data/articles/electricity-act-amendmen.90df2512/README.md) `ft.lk`
 * [Institutions  and development](data/articles/institutions-and-develop.a6ae6ae6/README.md) `ft.lk`
 
 ## 2025-06-10
@@ -49,6 +51,7 @@ Last Updated **2025-06-11 06:25:59**
 
 ## 2025-06-05
 
+* [Manus has kick-started an AI agent boom in China](data/articles/manus-has-kick-started-a.5057bba9/README.md) `technologyreview.com`
 * [Over $1 billion in federal funding got slashed for this polluting industry](data/articles/over-1-billion-in-federa.d0c1034b/README.md) `technologyreview.com`
 * [Crypto billionaire Brian Armstrong is ready to invest in CRISPR baby tech](data/articles/crypto-billionaire-brian.e00abd00/README.md) `technologyreview.com`
 * [Restoring people’s  faith in a political system that works for all](data/articles/restoring-people-s-faith.a25ed065/README.md) `ft.lk`
