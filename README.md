@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-11 18:23:25**
+Last Updated **2025-06-12 06:25:45**
+
+## 2025-06-12
+
+* [Strengthening cross-border finance from regulation to innovation](data/articles/strengthening-cross-bord.c37f7e35/README.md) `ft.lk`
+* [Scientific illiteracy of the literate of ours: Time to address this was yesterday](data/articles/scientific-illiteracy-of.01301284/README.md) `ft.lk`
+* [Powering reform: Why electricity tariffs must be rewired for Sri Lanka’s future](data/articles/powering-reform-why-elec.adacd643/README.md) `ft.lk`
+* [Anura’s crooked dance floor and why Harini is no answer](data/articles/anura-s-crooked-dance-fl.07cc06f9/README.md) `ft.lk`
 
 ## 2025-06-11
 
@@ -100,6 +107,7 @@ Last Updated **2025-06-11 18:23:25**
 ## 2025-05-30
 
 * [Sacred commerce in Sri Lanka’s ritual economy is quiet engine of growth in changing world](data/articles/sacred-commerce-in-sri-l.64ba51a8/README.md) `ft.lk`
+* [Five Ways Companies Learn to Thrive in an Unpredictable World](data/articles/five-ways-companies-lear.52c3aed1/README.md) `hbr.org`
 * [Priority trade and competitiveness reforms for Sri Lanka – Part 2](data/articles/priority-trade-and-compe.6010a2c7/README.md) `ft.lk`
 * [We are witnessing a consumer-led transformation of how tobacco and nicotine is consumed](data/articles/we-are-witnessing-a-cons.27aefe26/README.md) `ft.lk`
 * [Future of a nation is written in classrooms: Why Sri Lanka must invest in pay, training, dignity of teachers](data/articles/future-of-a-nation-is-wr.444a309c/README.md) `ft.lk`
