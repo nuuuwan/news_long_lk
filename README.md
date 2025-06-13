@@ -2,13 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-13 06:25:45**
+Last Updated **2025-06-13 18:34:42**
 
 ## 2025-06-13
 
 * [Priority trade and competitiveness reforms for Sri Lanka – Part 3](data/articles/priority-trade-and-compe.f6350b75/README.md) `ft.lk`
 * [What happens after you report online child abuse in Sri Lanka? Wake-up call to policymakers](data/articles/what-happens-after-you-r.dbded325/README.md) `ft.lk`
 * [As Prof. Arjuna De Silva turns 60](data/articles/as-prof-arjuna-de-silva.30a9c7da/README.md) `ft.lk`
+* [Here’s what food and drug regulation might look like under the Trump administration](data/articles/here-s-what-food-and-dru.a7c07855/README.md) `technologyreview.com`
 * [Actor-politico Kamal Haasan in the eye of Tamil-Kannada “Thug Life” storm](data/articles/actor-politico-kamal-haa.e42afddb/README.md) `ft.lk`
 * [Know your rights, play your role: Powering our nation’s progress](data/articles/know-your-rights-play-yo.38098950/README.md) `ft.lk`
 
@@ -23,6 +24,7 @@ Last Updated **2025-06-13 06:25:45**
 ## 2025-06-11
 
 * [Why humanoid robots need their own safety rules](data/articles/why-humanoid-robots-need.92669612/README.md) `technologyreview.com`
+* [Inside Amsterdam’s high-stakes experiment to create fair welfare AI](data/articles/inside-amsterdam-s-high.4e6d14b5/README.md) `technologyreview.com`
 * [Electricity Act amendments: Reversing reform](data/articles/electricity-act-amendmen.f536c475/README.md) `ft.lk`
 * [Electricity Act amendments: Reversing reform](data/articles/electricity-act-amendmen.90df2512/README.md) `ft.lk`
 * [Institutions  and development](data/articles/institutions-and-develop.a6ae6ae6/README.md) `ft.lk`
@@ -30,6 +32,7 @@ Last Updated **2025-06-13 06:25:45**
 ## 2025-06-10
 
 * [How Mastercard Helped Blenheim Palace Cut Costs with Reusable Cups](data/articles/how-mastercard-helped-bl.ed8a80d2/README.md) `hbr.org`
+* [IBM aims to build the world’s first large-scale, error-corrected quantum computer by 2028](data/articles/ibm-aims-to-build-the-wo.b24eda8d/README.md) `technologyreview.com`
 * [The Pentagon is gutting the team that tests AI and weapons systems](data/articles/the-pentagon-is-gutting.df317d96/README.md) `technologyreview.com`
 * [From Valvettithurai to Nandhikkadal ; The Rise and Fall of the Liberation Tigers of Tamil Eelam](data/articles/from-valvettithurai-to-n.09f25d05/README.md) `dbsjeyaraj.com`
 * [Sri Lanka and China sign two Memorandae of Understanding to set up a working group on trade facilitation, and on industrial and supply chain cooperation, says   the Chinese Embassy in Colombo meeting was jointly chaired by China’s Commerce Minister Wang Wentao and Sri Lankan Minister of Trade, Commerce, Food Security and Co-operative Development Wasantha Samarasinghe.](data/articles/sri-lanka-and-china-sign.72ebbe80/README.md) `dbsjeyaraj.com`
