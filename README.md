@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-12 06:25:45**
+Last Updated **2025-06-13 06:25:45**
+
+## 2025-06-13
+
+* [Priority trade and competitiveness reforms for Sri Lanka – Part 3](data/articles/priority-trade-and-compe.f6350b75/README.md) `ft.lk`
+* [What happens after you report online child abuse in Sri Lanka? Wake-up call to policymakers](data/articles/what-happens-after-you-r.dbded325/README.md) `ft.lk`
+* [As Prof. Arjuna De Silva turns 60](data/articles/as-prof-arjuna-de-silva.30a9c7da/README.md) `ft.lk`
+* [Actor-politico Kamal Haasan in the eye of Tamil-Kannada “Thug Life” storm](data/articles/actor-politico-kamal-haa.e42afddb/README.md) `ft.lk`
+* [Know your rights, play your role: Powering our nation’s progress](data/articles/know-your-rights-play-yo.38098950/README.md) `ft.lk`
 
 ## 2025-06-12
 
+* [Are we ready to hand AI agents the keys?](data/articles/are-we-ready-to-hand-ai.3855c1e9/README.md) `technologyreview.com`
 * [Strengthening cross-border finance from regulation to innovation](data/articles/strengthening-cross-bord.c37f7e35/README.md) `ft.lk`
 * [Scientific illiteracy of the literate of ours: Time to address this was yesterday](data/articles/scientific-illiteracy-of.01301284/README.md) `ft.lk`
 * [Powering reform: Why electricity tariffs must be rewired for Sri Lanka’s future](data/articles/powering-reform-why-elec.adacd643/README.md) `ft.lk`
