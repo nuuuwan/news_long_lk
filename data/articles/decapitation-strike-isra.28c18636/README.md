@@ -1,0 +1,40 @@
+# Decapitation strike: Israel’s silent war to dismantle State sovereignty
+
+[https://www.ft.lk/columns/Decapitation-strike-Israel-s-silent-war-to-dismantle-State-sovereignty/4-777684](https://www.ft.lk/columns/Decapitation-strike-Israel-s-silent-war-to-dismantle-State-sovereignty/4-777684)
+
+*10:36 PM, Friday, June 13, 2025*
+
+Israel’s strike on Iran signals a dangerous evolution
+
+We are witnessing a new form of state conquest: not physical invasion, but intellectual destruction. By eliminating national brainpower, a state becomes paralysed, its institutions fragmented, and its sovereignty hollowed from within. Israel has mastered this doctrine earlier than most. Unlike old colonial models requiring troops, this model needs only intelligence superiority, targeted assassination capability, international legal immunity, and media control to shape global narratives. The world is being conditioned to accept such strikes as self-defence, while ignoring the strategic violations they represent
+
+Beyond Iran: The rise of clean warfare, intellectual targeting, and the new global architecture of control
+
+The world awoke to news of Israeli airstrikes targeting Iran. On the surface, it appeared to be another escalation in an already volatile Middle East. But for those observing the deep structure of global power, these were not ordinary attacks. Israel has crossed into a far more sophisticated form of warfare, one not focused on territory, but on systematically dismantling the intellectual and leadership architecture of its adversaries. This was not a general bombardment. This was a decapitation strike.
+
+The reported deaths include not only military officers but senior members of Iran’s Islamic Revolutionary Guard Corps (IRGC), advanced nuclear scientists, and high-level strategic planners.
+
+These were the minds who formulated Iran’s defence posture, retaliation strategy, and long-term geopolitical alliances. Their removal sends Iran into operational paralysis. Historically, warfare aimed to capture land, destroy armies, and occupy capitals. But in the 21st century, real power lies in controlling how states think, plan, and respond. The removal of Iran’s key individuals is part of a broader strategy of disabling sovereign decision-making structures. When a state loses its brain centre, even temporarily, its ability to retaliate, negotiate, or maintain internal stability is compromised. Weapons without leadership are ineffective. Diplomatic channels without intellectual depth become hollow.
+
+Israel has applied this doctrine before. The assassination of General Qassem Soleimani in 2020 (in coordination with the United States), and the killing of top nuclear scientist Mohsen Fakhrizadeh, followed the same model: eliminate the architects and disarm the system. The United States officially distanced itself from this most recent strike. But US personnel were evacuated from sensitive Middle East locations days before the operation. US satellites and regional intelligence almost certainly monitored and likely enabled the strikes. The removal of US troops prior to Israeli action is not the behaviour of a disinterested party. This is silent consent. The US-Israel military alliance operates on multiple levels: intelligence cooperation, weapons transfers, and strategic coordination. Public denials serve diplomatic theatre, while operational coordination remains intact.
+
+What is perhaps most revealing is that neither Israel nor the United States express concern about international legal consequences. The United Nations remains silent. The International Criminal Court, despite issuing warrants against weaker states, takes no practical action. The global legal system, once designed to restrain state violence, has collapsed entirely when applied to Western allies and Zionist operations. This is not arrogance. This is calculated immunity. Israel operates with full confidence that no global tribunal will prosecute its leadership. The rules-based order applies selectively, to adversaries, not to allies.
+
+Far more dangerous war
+
+The consequences for Iran extend far beyond the loss of personnel. The removal of its top strategists creates multiple layers of vulnerability. With key commanders eliminated, coordinated decision-making is severely disrupted. High-level negotiations become weaker without experienced intellectual leadership. Leadership vacuums risk factionalism within Iran’s political structures. Israel’s timing creates a period where Iran is unable to respond decisively, allowing global narratives to normalise the strike. Iran now faces a far more dangerous war, not of weapons, but of leadership continuity and intellectual survivability.
+
+This is not merely an Israel-Iran conflict. It is part of a long-term containment strategy where the ultimate target remains China. Iran’s role as a sovereign energy and strategic corridor to China’s Belt and Road Initiative has made it a permanent obstacle to Western and Zionist interests.
+
+Neutralising Iran weakens China’s western flank. The same strategy has unfolded through Syria’s destabilisation, Lebanon’s economic collapse, and pressure on Russia’s partners. Independent power centres aligned with China are being systematically isolated through proxy conflicts, sanctions, regime change operations, or surgical eliminations of leadership. The strike on Iran fits directly into this multi-front preparation for confrontation between US-led alliances and emerging Eurasian blocs.
+
+We are witnessing a new form of state conquest: not physical invasion, but intellectual destruction. By eliminating national brainpower, a state becomes paralysed, its institutions fragmented, and its sovereignty hollowed from within. Israel has mastered this doctrine earlier than most. Unlike old colonial models requiring troops, this model needs only intelligence superiority, targeted assassination capability, international legal immunity, and media control to shape global narratives.
+
+The world is being conditioned to accept such strikes as self-defence, while ignoring the strategic violations they represent.
+
+For smaller states like Sri Lanka, these events offer a critical warning. Sovereignty is no longer defended only by borders and armies. It is protected by the survival of national intellect, independent leadership, and resistance to external ideological infiltration. Sri Lanka has faced its own forms of destabilisation: regime changes, constitutional manipulations, economic coercion, and foreign policy interference. The Zionist doctrine applied to Iran is an extreme version of the same principle: neutralise leadership, and the state collapses quietly. As the global system moves into a more ruthless phase, small nations must strengthen their intellectual defences alongside military preparedness. Survival depends not only on resisting invasions, but on preserving the state’s capacity to think independently.
+
+Israel’s strike on Iran signals a dangerous evolution. We are witnessing the rise of clean warfare, no invasions, no occupations, but selective elimination of individuals carrying the strategic DNA of sovereign states. Iran is not defeated, but it has been strategically paralysed. Its ability to respond is crippled not by lack of weapons, but by absence of leadership to direct them. The world is moving toward open confrontation between global systems no longer governed by the old rules. The deeper question for all nations is simple: when the intellectual class is targeted, who remains to defend the state?
+
+(The writer is a civilian intelligence architect and nationalist doctrine strategist, known for her analytical work on state sovereignty, global power structures, and strategic legal frameworks. Her writings offer deep investigations into the mechanisms of geopolitical influence, legal-state manipulation, and civilisational defence. She can be reached via email at [email protected])
+

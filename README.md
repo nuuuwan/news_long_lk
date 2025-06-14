@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-13 18:34:42**
+Last Updated **2025-06-14 06:25:42**
 
 ## 2025-06-13
 
+* [More bright remits for an  Administration on the move](data/articles/more-bright-remits-for-a.999e52af/README.md) `ft.lk`
+* [Effective representation eludes Sri Lanka’s minorities](data/articles/effective-representation.aa002085/README.md) `ft.lk`
+* [Can Global South investments develop Sri Lanka?](data/articles/can-global-south-investm.506b43d1/README.md) `ft.lk`
+* [Decapitation strike: Israel’s silent war to dismantle State sovereignty](data/articles/decapitation-strike-isra.28c18636/README.md) `ft.lk`
 * [Priority trade and competitiveness reforms for Sri Lanka – Part 3](data/articles/priority-trade-and-compe.f6350b75/README.md) `ft.lk`
 * [What happens after you report online child abuse in Sri Lanka? Wake-up call to policymakers](data/articles/what-happens-after-you-r.dbded325/README.md) `ft.lk`
 * [As Prof. Arjuna De Silva turns 60](data/articles/as-prof-arjuna-de-silva.30a9c7da/README.md) `ft.lk`
