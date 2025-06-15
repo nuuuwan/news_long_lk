@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-15 06:26:11**
+Last Updated **2025-06-15 18:22:25**
+
+## 2025-06-15
+
+* [Actor – Politico Kamal Haasan in the eye of a Tamil -Kannada “Thug Life” Storm.](data/articles/actor-politico-kamal-haa.bb652168/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-13
 
