@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-15 18:22:25**
+Last Updated **2025-06-16 06:25:55**
+
+## 2025-06-16
+
+* [Economic development role of Central Bank under new Central Bank Act: Part I](data/articles/economic-development-rol.5824c790/README.md) `ft.lk`
+* [Beyond the Great Wall: Sri Lankan political journey to modern China](data/articles/beyond-the-great-wall-sr.f14c4616/README.md) `ft.lk`
+* [Why Sri Lanka cannot avoid borrowing from international bondholders in 2028?](data/articles/why-sri-lanka-cannot-avo.264e40cb/README.md) `ft.lk`
+* [Sri Lanka and conflagration  in West Asia: Need for delinking](data/articles/sri-lanka-and-conflagrat.1af90636/README.md) `ft.lk`
+* [Fixing the sixties: Learning to live “lovingly”](data/articles/fixing-the-sixties-learn.b8b01be2/README.md) `ft.lk`
 
 ## 2025-06-15
 
