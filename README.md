@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-16 06:25:55**
+Last Updated **2025-06-16 18:23:08**
 
 ## 2025-06-16
 
+* [How AI can help make cities work better for residents](data/articles/how-ai-can-help-make-cit.deb326ce/README.md) `technologyreview.com`
 * [Economic development role of Central Bank under new Central Bank Act: Part I](data/articles/economic-development-rol.5824c790/README.md) `ft.lk`
 * [Beyond the Great Wall: Sri Lankan political journey to modern China](data/articles/beyond-the-great-wall-sr.f14c4616/README.md) `ft.lk`
 * [Why Sri Lanka cannot avoid borrowing from international bondholders in 2028?](data/articles/why-sri-lanka-cannot-avo.264e40cb/README.md) `ft.lk`
