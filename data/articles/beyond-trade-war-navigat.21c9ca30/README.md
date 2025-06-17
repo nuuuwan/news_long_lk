@@ -1,0 +1,106 @@
+# Beyond trade war: Navigating global tariff maze of 2025
+
+[https://www.ft.lk/columns/Beyond-trade-war-Navigating-global-tariff-maze-of-2025/4-777777](https://www.ft.lk/columns/Beyond-trade-war-Navigating-global-tariff-maze-of-2025/4-777777)
+
+*01:40 AM, Tuesday, June 17, 2025*
+
+The economic impact of this new trade order is now clearly visible in global forecasts and business sentiment
+
+For the better part of a generation, the global economy operated on a foundational belief: that a world with fewer trade barriers was a more prosperous one. That straightforward era has given way to a far more complex reality. As we stand in mid-2025, the international commercial system is defined by an intricate web of tariffs, sophisticated countermeasures, and strategic industrial policies that are reshaping the global flow of goods and capital.
+
+The purpose of this article is to provide a clear-eyed, balanced overview of this new environment. It is a snapshot of a system in profound transition. The assertive trade strategies of the United States, the comprehensive responses from China, and the forward-looking regulatory posture of the European Union are not isolated events; they are interconnected drivers of a new global paradigm.
+
+The guiding principle of international commerce is undergoing a fundamental recalibration. The singular focus on cost efficiency that characterised the peak of globalisation is now being balanced with a renewed emphasis on national security, supply chain resilience, and strategic autonomy. For business leaders, policymakers, and informed citizens, understanding the mechanics and motivations behind this shift is essential. This is an objective look at the current state of global trade, the forces shaping it, and what we can expect as the dust begins to settle.
+
+The global tariff landscape: A systemic shift
+
+The prevailing economic winds of 2025 carry a distinct chill of caution. Leading international institutions have signalled a slowdown, directly linking it to the current trade climate. The World Trade Organisation (WTO) has projected a potential contraction in global merchandise trade, a sentiment echoed by both the World Bank and the International Monetary Fund (IMF), which have tempered their global GDP growth forecasts, citing trade-policy uncertainty as a primary headwind.
+
+This is more than a temporary downturn; it represents a systemic shift in how major economies approach international trade. We are witnessing the rise of trade policy as a primary instrument of national strategy. The United States has utilised “national security” provisions to support domestic industries. China has leveraged its dominant position in critical minerals supply chains through export controls. The European Union is advancing its ambitious environmental goals through trade mechanisms, such as the Carbon Border Adjustment Mechanism (CBAM).
+
+This evolution from a purely economic calculus to a more geopolitical one is compelling a fundamental reassessment of global supply chains. The result is a move towards a more fragmented, and likely more expensive, model of global commerce, where resilience is valued alongside efficiency.
+
+The US tariff framework: A multi-faceted approach
+
+The United States has deployed a complex and multi-layered tariff strategy, using various legal authorities to pursue its trade objectives. Understanding these mechanisms is key to understanding the current environment.
+
+Section 301 tariffs on China: This remains a key component of US trade policy. Initiated to address concerns over technology transfer and intellectual property practices, these tariffs affect a broad range of Chinese goods. A statutory review concluded that the underlying issues persist, leading to targeted tariff increases on strategic products, particularly in the technology and green energy sectors. While the US Trade Representative (USTR) has extended some product-specific exclusions through August 31, 2025, providing temporary relief, the foundational tariff structure remains firmly in place.
+
+Section 232 “National Security” tariffs: This authority, designed to protect domestic industries deemed critical for national security, has been applied to steel, aluminium, and automobiles. On 3 June 2025, a notable move saw tariffs on steel and aluminium increased from 25% to 50% for most trading partners. A 25% tariff on automobiles and key components also remains a significant factor in the global auto market. A bilateral “Economic Prosperity Deal” with the United Kingdom demonstrates a willingness to negotiate specific arrangements; however, the general product exclusion process for these tariffs was terminated in early 2025, thereby increasing the compliance burden for many businesses.
+
+The “Reciprocal Tariff” doctrine: This represents one of the most significant recent developments in US trade policy. Announced in April 2025, the doctrine established a 10% universal baseline tariff on imports from most countries. It also introduced the concept of higher, individualised tariff rates for countries with which the US has a substantial trade deficit. This policy directly links tariff levels to bilateral trade balances, a departure from traditional trade norms. While a 90-day pause was placed on the higher country-specific tariffs, and the policy faces legal challenges, its introduction has created considerable uncertainty across the global trading system.
+
+China’s countermeasures: A calibrated response
+
+China’s response to the US tariff regime has been swift, strategic, and multi-layered, combining direct tariff countermeasures with the use of non-tariff instruments to exert leverage.
+
+Beijing implemented a comprehensive retaliatory tariff schedule, with rates on many US goods escalating to significant levels. The targets were carefully selected, focusing on sectors such as agriculture (soybeans, pork) and energy (LNG, coal), to create economic pressure in key regions of the United States.
+
+Beyond direct tariffs, China has expanded its export control regime to encompass a broader range of critical minerals and rare earth elements. This move leverages its central role in these vital global supply chains, serving as a powerful non-tariff tool. Furthermore, China has utilised an “Unreliable Entity List” to target specific US companies and has initiated antitrust investigations, demonstrating its capacity to deploy a broad range of regulatory instruments as part of its trade strategy.
+
+Despite the clear tensions, dialogue has not ceased. A high-level meeting in Geneva in May 2025 resulted in a temporary 90-day rollback of the most recent “reciprocal” tariffs by both sides. This de-escalation, however, did not affect the more entrenched Section 301 and 232 tariffs. This suggests a potential evolution towards a model of “managed trade,” where high baseline tariffs may become a persistent feature of the economic relationship, and negotiations focus on managing frictions rather than a complete return to tariff-free trade.
+
+The European Union: Forging a path with regulation
+
+The European Union is increasingly leveraging its significant regulatory power and single market to pursue its strategic objectives, particularly in the realms of climate policy and industrial competitiveness.
+
+The EU’s most prominent initiative is the Carbon Border Adjustment Mechanism (CBAM). Currently in a transitional phase, CBAM is set to become fully operational on January 1, 2026. This policy will require importers of certain carbon-intensive goods (such as steel, cement, and aluminium) to purchase certificates reflecting the carbon price those goods would have incurred if produced within the EU. The goal is to prevent “carbon leakage”—where production moves to countries with less stringent environmental regulations—and to create a level playing field for EU producers. In essence, CBAM exports the EU’s climate standards, creating a powerful incentive for its trading partners to adopt similar carbon pricing mechanisms.
+
+In parallel, the EU is taking a more assertive stance on trade defence. It has imposed countervailing duties on Chinese-made battery electric vehicles (BEVs), based on an investigation into state subsidies within the Chinese auto industry. This was the EU’s first “own-initiative” anti-subsidy case, launched directly by the European Commission. It signals a new willingness in Brussels to proactively shield its strategic industries from what it considers to be subsidised competition.
+
+Supply chains in flux: The great, costly realignment
+
+The tariff environment is a powerful catalyst for a profound realignment of global supply chains. The “China Plus One” strategy has evolved from a theoretical concept to a practical business imperative. Companies across numerous sectors are actively diversifying their manufacturing and sourcing to mitigate the risks and costs associated with tariffs and geopolitical uncertainty.
+
+Countries like Vietnam and Mexico have emerged as primary beneficiaries. Vietnam offers lower labour costs and, critically, a more favourable tariff environment for exports to the US compared to China. Mexico benefits from its geographical proximity to the US market and the trade advantages of the US-Mexico-Canada Agreement (USMCA).
+
+However, this great realignment is neither cheap nor straightforward. Establishing new supplier networks, ensuring consistent quality control, and navigating different regulatory and logistical landscapes are significant undertakings. China’s sophisticated and deeply integrated manufacturing ecosystem means it will remain an essential part of many global supply chains for the foreseeable future. The current trend, therefore, is not one of wholesale decoupling, but of strategic diversification—building a more resilient, albeit more complex and costly, global production network.
+
+Economic consequences: A sobering assessment
+
+The economic impact of this new trade order is now clearly visible in global forecasts and business sentiment.
+
+Subdued global growth: The consensus among the WTO, World Bank, and IMF is that the tariff-heavy environment is acting as a brake on global growth and trade volumes. The policy uncertainty it creates discourages long-term investment and cross-border commerce.
+
+Inflationary pressures: There is clear evidence that tariffs are contributing to higher consumer prices. Analyses by institutions like the US Federal Reserve have shown a direct link between the imposition of tariffs and price increases on imported goods. This translates into a tangible impact on household budgets.
+
+The burden on business: Businesses of all sizes are navigating increased input costs and supply chain disruptions. Small and Medium-sized Enterprises (SMEs) are often the most exposed, as they have fewer resources to absorb rising costs or to reconfigure their supply chains compared to larger multinational corporations.
+
+The road ahead: What to expect in the new trade order
+
+Looking forward, the global trade landscape is unlikely to return to the pre-tariff status quo. Several key trends are emerging that will define the “new normal” for international commerce.
+
+A particular layer of tariffs will probably become a permanent or semi-permanent feature of the global trading system, particularly in sectors deemed strategically important. During the remainder of the current US administration, tariffs on technology, green energy, and other advanced manufacturing sectors from China are likely to remain firmly in place, viewed as essential tools for long-term strategic competition. Other tariffs, such as the broad “reciprocal” tariffs, may be used more as negotiating levers—powerful tools to bring trading partners to the table to discuss specific market access issues.
+
+When the dust settles, the new trade order will likely be less about universal, sweeping multilateral agreements and more about a combination of “managed trade” between great powers and a patchwork of bilateral and plurilateral deals among other nations. This means we can expect:
+
+Persistent high-stakes negotiation: Ongoing dialogue between the US and China will focus on managing their economic relationship to avoid uncontrolled escalation, rather than achieving comprehensive free trade.
+
+A focus on rules and standards: The EU’s CBAM is a leading indicator of a future where trade rules are increasingly intertwined with environmental, labour, and digital standards. Market access may become conditional on meeting these non-tariff requirements.
+
+Strategic industrial policies: Governments worldwide are likely to continue using subsidies, tariffs, and other policy tools to build domestic capacity in critical sectors, such as semiconductors, batteries, and pharmaceuticals.
+
+For smaller, export-oriented economies like Sri Lanka, this new environment presents both challenges and opportunities. The challenge lies in navigating the complex and often shifting tariff policies of major markets. The threat of a high “reciprocal” tariff from the US, for instance, underscores the vulnerability of nations with significant bilateral trade surpluses. The opportunity, however, lies in strategic adaptation. Nations that can successfully diversify their export markets, move up the value chain into more specialised products, and align their production with emerging global standards (such as sustainability) will be best positioned to thrive. For Sri Lanka, leveraging its reputation for ethical manufacturing could become a key differentiating factor in trade negotiations.
+
+What to watch: A guide for decision-makers
+
+For business leaders and government policymakers, navigating this landscape requires constant vigilance. Key things to watch for include:
+
+1. The evolution of US-China talks: The outcome of the 90-day Geneva dialogue will be a critical indicator. Watch for whether it leads to a more stable “managed trade” framework or breaks down, leading to re-escalation.
+
+2. The implementation of the EU’s CBAM: As the 2026 deadline approaches, monitor how the EU finalises the rules and how non-EU countries adapt. This will set a major precedent for the intersection of trade and climate policy.
+
+3. Outcomes of WTO dispute cases: Legal challenges to various tariff measures are being adjudicated through the system. Rulings could set important precedents, either reinforcing or challenging the new wave of unilateral trade actions.
+
+4. Supply chain data: Monitor trade flow data, shipping costs, and manufacturing investment trends closely to track the pace and direction of global supply chain realignment in real-time.
+
+The era of straightforward globalisation has given way to an age of strategic trade. The rules are being rewritten in real time. For every business and every nation, the capacity for adaptation, strategic foresight, and resilience is no longer just a competitive advantage—it is the essential toolkit for navigating the complex and challenging landscape of the 21st-century global economy.
+
+The World Trade Organization (WTO)
+
+The Office of the United States Trade Representative (USTR)
+
+The U.S. Federal Reserve Board
+
+(The writer is a Chevening Fellow from St. Cross College – University of Oxford and a trade policy enthusiast.)
+

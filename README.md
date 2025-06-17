@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-17 06:25:56**
+Last Updated **2025-06-17 18:22:52**
 
 ## 2025-06-17
 
+* [Puerto Rico’s power struggles](data/articles/puerto-rico-s-power-stru.9023b957/README.md) `technologyreview.com`
 * [Alternative external debt restructuring strategy framework](data/articles/alternative-external-deb.27b9bf38/README.md) `ft.lk`
 * [Digital horizons: Blueprint for educational equality, unleashing potential, and revolutionising learning](data/articles/digital-horizons-bluepri.9703c2cf/README.md) `ft.lk`
 * [From Berlin to Colombo: New chapter in Sri Lanka-Germany relations](data/articles/from-berlin-to-colombo-n.19bc553a/README.md) `ft.lk`
 * [Debacle in local sugar industry](data/articles/debacle-in-local-sugar-i.f59f3ec0/README.md) `ft.lk`
 * [Beyond retirement: Sri Lanka leverages military talent to reinvent Police capacity](data/articles/beyond-retirement-sri-la.c34b094f/README.md) `ft.lk`
+* [Beyond trade war: Navigating global tariff maze of 2025](data/articles/beyond-trade-war-navigat.21c9ca30/README.md) `ft.lk`
 
 ## 2025-06-16
 
