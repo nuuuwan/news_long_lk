@@ -1,0 +1,14 @@
+# Copenhagen replaces Vienna as world’s most liveable city
+
+[https://www.eiu.com/n/copenhagen-replaces-vienna-as-worlds-most-liveable-city/](https://www.eiu.com/n/copenhagen-replaces-vienna-as-worlds-most-liveable-city/)
+
+*07:22 PM, Monday, June 16, 2025*
+
+Copenhagen replaces Vienna as world’s most liveable city
+
+ConsumerLiveabilityGlobalCountry AnalysisLiveability Ranking and Overview
+
+Copenhagen has claimed the top spot in EIU’s Global Liveability Index 2025, ending Vienna’s three-year dominance. Copenhagen achieved perfect scores of 100 for stability, education and infrastructure, moving up from second place to become the world’s most comfortable city to live in. The EIU’s index assesses 173 cities worldwide across 30 indicators, categorised into stability, healthcare, culture and environment, education and infrastructure. This year’s average score remains unchanged from last year, at 76.1 out of 100. However, this year’s results reflect a continued decline in global stability, driven by intensifying geopolitical conflict and civil unrest.A free summary report can be downloaded here.Cities in western Europe and developed Asia continue to dominate the top of the rankings. Melbourne came in fourth, with Sydney and Adelaide also making the top ten. Other leading cities were spread across Japan, New Zealand and Canada.However, western European cities also appear on the list of the biggest movers down the ranks in 2025. All the cities covered in the UK (London, Manchester and Edinburgh) have dropped down the ranks, following widespread riots and rising homelessness. Two Canadian cities (Calgary, Toronto) are also among them, as we have lowered the healthcare scores for all four Canadian cities in our index. However, North American cities remain highly sought-after places to live in, with all 21 reporting the highest tier of liveability (defined as a score of 80 or above). On a more positive note, scores for healthcare, education and infrastructure all saw marginal improvements on average. The Middle East and North Africa region registered the most significant gains in overall liveability, primarily driven by advancements in healthcare and education within cities in Saudi Arabia and the UAE. To find out how your city has fared, download the free summary report here.Understanding the challenges that impact an individual’s lifestyle is crucial for businesses, governments, and academic institutions in shaping strategies and informing policies. The EIU’s Global Liveability Index evaluates living conditions in cities worldwide, identifying the best and worst places to live. From customisable datasets to detailed city profiles, explore our range of liveability products here.
+
+ConsumerLiveabilityGlobalCountry AnalysisLiveability Ranking and Overview
+

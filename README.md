@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-16 18:23:08**
+Last Updated **2025-06-17 06:25:56**
+
+## 2025-06-17
+
+* [Alternative external debt restructuring strategy framework](data/articles/alternative-external-deb.27b9bf38/README.md) `ft.lk`
+* [Digital horizons: Blueprint for educational equality, unleashing potential, and revolutionising learning](data/articles/digital-horizons-bluepri.9703c2cf/README.md) `ft.lk`
+* [From Berlin to Colombo: New chapter in Sri Lanka-Germany relations](data/articles/from-berlin-to-colombo-n.19bc553a/README.md) `ft.lk`
+* [Debacle in local sugar industry](data/articles/debacle-in-local-sugar-i.f59f3ec0/README.md) `ft.lk`
+* [Beyond retirement: Sri Lanka leverages military talent to reinvent Police capacity](data/articles/beyond-retirement-sri-la.c34b094f/README.md) `ft.lk`
 
 ## 2025-06-16
 
+* [Copenhagen replaces Vienna as world’s most liveable city](data/articles/copenhagen-replaces-vien.a1117b35/README.md) `eiu.com`
 * [How AI can help make cities work better for residents](data/articles/how-ai-can-help-make-cit.deb326ce/README.md) `technologyreview.com`
 * [Economic development role of Central Bank under new Central Bank Act: Part I](data/articles/economic-development-rol.5824c790/README.md) `ft.lk`
 * [Beyond the Great Wall: Sri Lankan political journey to modern China](data/articles/beyond-the-great-wall-sr.f14c4616/README.md) `ft.lk`
@@ -23,6 +32,8 @@ Last Updated **2025-06-16 18:23:08**
 * [Effective representation eludes Sri Lanka’s minorities](data/articles/effective-representation.aa002085/README.md) `ft.lk`
 * [Can Global South investments develop Sri Lanka?](data/articles/can-global-south-investm.506b43d1/README.md) `ft.lk`
 * [Decapitation strike: Israel’s silent war to dismantle State sovereignty](data/articles/decapitation-strike-isra.28c18636/README.md) `ft.lk`
+* [Middle East faces renewed Israel-Iran confrontation](data/articles/middle-east-faces-renewe.0e1ff41e/README.md) `eiu.com`
+* [Tech billionaires are making a risky bet with humanity’s future](data/articles/tech-billionaires-are-ma.9db1917f/README.md) `technologyreview.com`
 * [Priority trade and competitiveness reforms for Sri Lanka – Part 3](data/articles/priority-trade-and-compe.f6350b75/README.md) `ft.lk`
 * [What happens after you report online child abuse in Sri Lanka? Wake-up call to policymakers](data/articles/what-happens-after-you-r.dbded325/README.md) `ft.lk`
 * [As Prof. Arjuna De Silva turns 60](data/articles/as-prof-arjuna-de-silva.30a9c7da/README.md) `ft.lk`
