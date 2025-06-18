@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-17 18:22:52**
+Last Updated **2025-06-18 06:25:45**
+
+## 2025-06-18
+
+* [Import ban on palm oil cripples Sri Lanka’s edible oil sector, escalates economic woes](data/articles/import-ban-on-palm-oil-c.8a528013/README.md) `ft.lk`
+* [Think global, act local: South Asia’s moment to transform food loss into opportunity](data/articles/think-global-act-local-s.3e48dd5f/README.md) `ft.lk`
+* [NPP: the tide turns in the city](data/articles/npp-the-tide-turns-in-th.72d86d6f/README.md) `ft.lk`
+* [Transforming transit payments in Sri Lanka: Practical and inclusive path forward](data/articles/transforming-transit-pay.066c3ecd/README.md) `ft.lk`
+* [Investing in Sri Lanka’s future: National call to build a care economy](data/articles/investing-in-sri-lanka-s.b28833b0/README.md) `ft.lk`
 
 ## 2025-06-17
 
