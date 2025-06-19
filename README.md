@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-18 18:23:50**
+Last Updated **2025-06-19 06:25:44**
+
+## 2025-06-19
+
+* [Disgraceful abomination](data/articles/disgraceful-abomination.50fdfabe/README.md) `ft.lk`
+* [MSME sector: Accessibility and affordability of collateral](data/articles/msme-sector-accessibilit.7d56c062/README.md) `ft.lk`
+* [Netanyahu’s Iran war, global implications and AKD’s appalling policy stand](data/articles/netanyahu-s-iran-war-glo.1262753c/README.md) `ft.lk`
 
 ## 2025-06-18
 
+* [OpenAI can rehabilitate AI models that develop a “bad boy persona”](data/articles/openai-can-rehabilitate.7965b3ed/README.md) `technologyreview.com`
 * [Why AI hardware needs to be open](data/articles/why-ai-hardware-needs-to.544405e8/README.md) `technologyreview.com`
 * [வடக்கில் 5941 ஏக்கர்கள்  நிலப்பிரச்சினை வர்த்தமானி தொடர்பாக நீதிமன்றத்தை நாடிய தமிழரசு கட்சியின் பொதுச்செயலாளர் சுமந்திரன்](data/articles/வடக-க-ல-5941-ஏக-கர-கள-ந.1d0e1fa3/README.md) `dbsjeyaraj.com`
 * [Import ban on palm oil cripples Sri Lanka’s edible oil sector, escalates economic woes](data/articles/import-ban-on-palm-oil-c.8a528013/README.md) `ft.lk`
@@ -17,6 +24,7 @@ Last Updated **2025-06-18 18:23:50**
 ## 2025-06-17
 
 * [Puerto Rico’s power struggles](data/articles/puerto-rico-s-power-stru.9023b957/README.md) `technologyreview.com`
+* [What does it mean for an algorithm to be “fair”?](data/articles/what-does-it-mean-for-an.6b949034/README.md) `technologyreview.com`
 * [When AIs bargain, a less advanced agent could cost you](data/articles/when-ais-bargain-a-less.3363957a/README.md) `technologyreview.com`
 * [Alternative external debt restructuring strategy framework](data/articles/alternative-external-deb.27b9bf38/README.md) `ft.lk`
 * [Digital horizons: Blueprint for educational equality, unleashing potential, and revolutionising learning](data/articles/digital-horizons-bluepri.9703c2cf/README.md) `ft.lk`

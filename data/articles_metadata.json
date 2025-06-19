@@ -1,5 +1,33 @@
 [
   {
+    "title": "Disgraceful abomination",
+    "url": "https://www.ft.lk/columns/Disgraceful-abomination/4-777899",
+    "ut": 1750280652.0,
+    "dir_path_unix": "data/articles/disgraceful-abomination.50fdfabe",
+    "time_str_formatted": "02:34 AM, Thursday, June 19, 2025"
+  },
+  {
+    "title": "MSME sector: Accessibility and affordability of collateral",
+    "url": "https://www.ft.lk/columns/MSME-sector-Accessibility-and-affordability-of-collateral/4-777878",
+    "ut": 1750274598.0,
+    "dir_path_unix": "data/articles/msme-sector-accessibilit.7d56c062",
+    "time_str_formatted": "12:53 AM, Thursday, June 19, 2025"
+  },
+  {
+    "title": "Netanyahu\u2019s Iran war, global implications and AKD\u2019s appalling policy stand",
+    "url": "https://www.ft.lk/columns/Netanyahu-s-Iran-war-global-implications-and-AKD-s-appalling-policy-stand/4-777877",
+    "ut": 1750273838.0,
+    "dir_path_unix": "data/articles/netanyahu-s-iran-war-glo.1262753c",
+    "time_str_formatted": "12:40 AM, Thursday, June 19, 2025"
+  },
+  {
+    "title": "OpenAI can rehabilitate AI models that develop a \u201cbad boy persona\u201d",
+    "url": "https://www.technologyreview.com/2025/06/18/1119042/openai-can-rehabilitate-ai-models-that-develop-a-bad-boy-persona/",
+    "ut": 1750236555.0,
+    "dir_path_unix": "data/articles/openai-can-rehabilitate.7965b3ed",
+    "time_str_formatted": "02:19 PM, Wednesday, June 18, 2025"
+  },
+  {
     "title": "Why AI hardware needs to be open",
     "url": "https://www.technologyreview.com/2025/06/18/1118943/ai-hardware-open/",
     "ut": 1750202363.0,
@@ -54,6 +82,13 @@
     "ut": 1750120200.0,
     "dir_path_unix": "data/articles/puerto-rico-s-power-stru.9023b957",
     "time_str_formatted": "06:00 AM, Tuesday, June 17, 2025"
+  },
+  {
+    "title": "What does it mean for an algorithm to be \u201cfair\u201d?",
+    "url": "https://www.technologyreview.com/2025/06/17/1118918/what-does-it-mean-for-an-algorithm-to-be-fair/",
+    "ut": 1750115965.0,
+    "dir_path_unix": "data/articles/what-does-it-mean-for-an.6b949034",
+    "time_str_formatted": "04:49 AM, Tuesday, June 17, 2025"
   },
   {
     "title": "When AIs bargain, a less advanced agent could cost you",
