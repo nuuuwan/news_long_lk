@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-20 06:25:44**
+Last Updated **2025-06-20 18:23:51**
 
 ## 2025-06-20
 
+* [How a 30-year-old techno-thriller predicted our digital isolation](data/articles/how-a-30-year-old-techno.9958982f/README.md) `technologyreview.com`
 * [How Tiger intelligence chief Sivashankar alias “Pottu Ammaan” and family members died](data/articles/how-tiger-intelligence-c.1f0bc2a6/README.md) `ft.lk`
 * [Human development in the age of AI: Call for inclusive transformation](data/articles/human-development-in-the.4fbeeba8/README.md) `ft.lk`
 * [National effort to unlock biodiversity and eco-tourism potential](data/articles/national-effort-to-unloc.d8701587/README.md) `ft.lk`
@@ -23,6 +24,7 @@ Last Updated **2025-06-20 06:25:44**
 ## 2025-06-18
 
 * [OpenAI can rehabilitate AI models that develop a “bad boy persona”](data/articles/openai-can-rehabilitate.7965b3ed/README.md) `technologyreview.com`
+* [The quest to defend against tech in intimate partner violence](data/articles/the-quest-to-defend-agai.b320d918/README.md) `technologyreview.com`
 * [Why AI hardware needs to be open](data/articles/why-ai-hardware-needs-to.544405e8/README.md) `technologyreview.com`
 * [வடக்கில் 5941 ஏக்கர்கள்  நிலப்பிரச்சினை வர்த்தமானி தொடர்பாக நீதிமன்றத்தை நாடிய தமிழரசு கட்சியின் பொதுச்செயலாளர் சுமந்திரன்](data/articles/வடக-க-ல-5941-ஏக-கர-கள-ந.1d0e1fa3/README.md) `dbsjeyaraj.com`
 * [Import ban on palm oil cripples Sri Lanka’s edible oil sector, escalates economic woes](data/articles/import-ban-on-palm-oil-c.8a528013/README.md) `ft.lk`

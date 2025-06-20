@@ -1,5 +1,12 @@
 [
   {
+    "title": "How a 30-year-old techno-thriller predicted our digital isolation",
+    "url": "https://www.technologyreview.com/2025/06/20/1118379/the-net-cyber-thriller-digital-isolation/",
+    "ut": 1750379400.0,
+    "dir_path_unix": "data/articles/how-a-30-year-old-techno.9958982f",
+    "time_str_formatted": "06:00 AM, Friday, June 20, 2025"
+  },
+  {
     "title": "How Tiger intelligence chief Sivashankar alias \u201cPottu Ammaan\u201d and family members died",
     "url": "https://www.ft.lk/columns/How-Tiger-intelligence-chief-Sivashankar-alias-Pottu-Ammaan-and-family-members-died/4-777944",
     "ut": 1750377881.0,
@@ -75,6 +82,13 @@
     "ut": 1750236555.0,
     "dir_path_unix": "data/articles/openai-can-rehabilitate.7965b3ed",
     "time_str_formatted": "02:19 PM, Wednesday, June 18, 2025"
+  },
+  {
+    "title": "The quest to defend against tech in intimate partner violence",
+    "url": "https://www.technologyreview.com/2025/06/18/1118235/big-tech-intimate-partner-violence/",
+    "ut": 1750206600.0,
+    "dir_path_unix": "data/articles/the-quest-to-defend-agai.b320d918",
+    "time_str_formatted": "06:00 AM, Wednesday, June 18, 2025"
   },
   {
     "title": "Why AI hardware needs to be open",
