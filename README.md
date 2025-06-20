@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-19 18:22:49**
+Last Updated **2025-06-20 06:25:44**
+
+## 2025-06-20
+
+* [How Tiger intelligence chief Sivashankar alias “Pottu Ammaan” and family members died](data/articles/how-tiger-intelligence-c.1f0bc2a6/README.md) `ft.lk`
+* [Human development in the age of AI: Call for inclusive transformation](data/articles/human-development-in-the.4fbeeba8/README.md) `ft.lk`
+* [National effort to unlock biodiversity and eco-tourism potential](data/articles/national-effort-to-unloc.d8701587/README.md) `ft.lk`
+* [Reactors and regime change](data/articles/reactors-and-regime-chan.4056f72b/README.md) `ft.lk`
+* [Residents up in arms over proposed high-rise in environmentally sensitive Lake Drive area](data/articles/residents-up-in-arms-ove.99179944/README.md) `ft.lk`
 
 ## 2025-06-19
 
+* [It’s pretty easy to get DeepSeek to talk dirty](data/articles/it-s-pretty-easy-to-get.4e1bec7d/README.md) `technologyreview.com`
 * [Inside the US power struggle over coal](data/articles/inside-the-us-power-stru.d77ddb9e/README.md) `technologyreview.com`
 * [Disgraceful abomination](data/articles/disgraceful-abomination.50fdfabe/README.md) `ft.lk`
 * [MSME sector: Accessibility and affordability of collateral](data/articles/msme-sector-accessibilit.7d56c062/README.md) `ft.lk`

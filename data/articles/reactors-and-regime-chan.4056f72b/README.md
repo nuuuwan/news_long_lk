@@ -1,0 +1,52 @@
+# Reactors and regime change
+
+[https://www.ft.lk/columns/Reactors-and-regime-change/4-777941](https://www.ft.lk/columns/Reactors-and-regime-change/4-777941)
+
+*05:22 AM, Friday, June 20, 2025*
+
+As a regional hegemon, it has both the capacity and will to retaliate asymmetrically
+
+Israel’s recent attacks on Iran’s nuclear infrastructure constitute a clear violation of international law, according to scholars Amichai Cohen and Yuval Shany. Writing for JustSecurity.org, they argue that if force was used “in anticipation of a non-imminent future threat; nuclear or conventional, there is good reason to deem it unlawful. This is indeed how the Security Council approached the 1981 Israeli attack against the Osirak reactor in Iraq”.
+
+Marko Milanovic, editor of the European Journal of International Law, argues that “Israel’s use of force against Iran is, on the facts as we know them, almost certainly illegal.” Cohen et al note that Israel has yet to offer a coherent legal justification for Operation Rising Lion under international law. Although the IDF framed the operation as preemptive, its statement avoided legal language; there was no reference to the right to self-defence under Article 51 of the UN Charter, nor did Israel submit the required Article 51 notification to the UN Security Council. Under Article 51, self-defence requires an actual or imminent attack. Israel cannot pass the “Caroline Test,” which demands that self-defence must be necessary and leave “no moment for deliberation”. The Israeli strike, intended to forestall a future threat, fails the urgency and proportionality tests required for lawful anticipatory self-defence.
+
+Milanovic explains that anticipatory self-defence is highly contested. A restrictive view sees “imminence” as temporal, an attack about to happen. A broader view interprets it causally; ‘a state is preparing for an attack in the future and must be stopped now’. Yet even this broadest view fails to justify the Israeli strike: Iran cannot reasonably be expected to launch a nuclear weapon it does not currently possess.
+
+The attack also killed senior Iranian military commanders and nuclear scientists in residential neighbourhoods, resulting in civilian casualties that included families of intended targets. It came in the wake of media reports misrepresenting IAEA (International Atomic Energy Agency) findings as evidence of weapons-grade enrichment. In truth, the IAEA explicitly stated the uranium was not weapons-grade. Director General Rafael Grossi condemned the attack as illegal, citing the risk of nuclear disaster and reiterating that such sites must never be targeted, regardless of context.
+
+Well below weapons-grade
+
+Iran acknowledged enrichment up to 60%, well below weapons-grade. Although particles enriched to 83.7% were detected in January 2023, Iran cooperated with the IAEA and attributed this to a technical anomaly. The IAEA accepted the explanation. Importantly, the Nuclear Non-Proliferation Treaty (NPT) guarantees all signatory states the “inalienable right” to enrich uranium for peaceful energy purposes.
+
+By contrast, Israel possesses a significant undeclared nuclear arsenal, estimated at between 80 and 200 warheads. Seymour Hersh’s seminal 1991 book, The Samson Option, exposed Israel’s secret nuclear development at the Dimona facility, carried out with French assistance. Israel has never signed the NPT and maintains a policy of “strategic ambiguity,” refusing to confirm or deny its nuclear capabilities. This posture, supported tacitly by the US, allows it to avoid scrutiny and sanctions.
+
+Iran’s nuclear ambitions generate controversy largely because of the Islamic Republic’s rhetoric toward Israel. Supreme Leader Ali Khamenei and other senior clerics frequently frame Israel as a colonial imposition, an illegitimate Western-backed entity whose removal is portrayed as part of a broader anti-imperial project. Western media, by branding Iran’s government as a “regime,” reinforces this perception of Iran as a pariah.
+
+Yet Iran is not ideologically monolithic. While the Ayatollah and the IRGC dominate the current discourse, moderate political currents exist. Reformist politicians like President Pezeshkian represent a more pragmatic strand. They argue that aggressive foreign policy posturing by hardliners like Ahmadinejad has failed: Iran’s regional proxies are weakened, sanctions remain and the economy is stagnant. For moderates, inflexible ideology has blocked Iran’s reintegration into the global economic order.
+
+The ascent of Iran’s clerical elite must be understood in its historical context. First, the Islamic Republic emerged from a diverse anti-Shah revolution, with the Ayatollahs eventually dominating the post-revolutionary power structure. Second, the 1953 CIA–MI6 coup against Prime Minister Mohammad Mossadegh deeply shaped Iranian political identity. Mossadegh, a popular leader who sought to nationalise oil assets controlled by Britain, was overthrown and replaced by the authoritarian Shah, cementing a narrative of Western betrayal and validating the anti-Western stance of Iran’s religious right.
+
+Iran is not just another state; it is one of the world’s oldest civilisations with a rich legacy of scientific, cultural and regional leadership. Its identity is shaped not only by nationalism and Shi’a Islam, but by its history of resisting foreign domination. The overthrow of Mossadegh and the imposition of the Shah created a strong ethos of sovereignty that continues to inform Iran’s strategic outlook.
+
+The Shah’s regime, aligned with the West, ruled through repression and elite patronage and the Islamic Revolutionary movement that culminated in 1979 was a direct outcome of decades of foreign interference, leading to the establishment of a theocratic system deeply sceptical of Western intentions. Much like Russia, Iran is a civilisational state that views sovereignty through the lens of historical grievance, not merely contemporary politics. Iran’s stance toward Israel reflects this worldview. The Supreme Leader and IRGC regard Israel as a colonial outpost designed to fragment the Islamic world. Their rhetoric emphasises dismantling “the Zionist regime,” not exterminating Jews. This distinction is often lost in Western coverage. Despite the regime’s hostility toward Israel, Iran’s Jewish community remains legally protected and even holds a reserved seat in parliament.
+
+Iranian public opinion
+
+Inflammatory statements; such as the oft-misquoted “wiped off the map”; have fuelled misconceptions. These statements, though ideologically extreme, target the political structure of Israel rather than advocate ethnic destruction. Still, they are exploited to cast Iran’s stance as genocidal, blurring the distinction between anti-Zionism and antisemitism. Iranian public opinion is also far more nuanced. Many Iranians, particularly in urban areas, reject the government’s rigid foreign policy. Surveys by Zogby Research Services and the World Values Survey (2020) show that younger, educated Iranians are more pragmatic and often view anti-Israel rhetoric as irrelevant to their daily lives.
+
+A 2020 study by GAMAAN found most Iranians prioritise normalisation with the West and oppose costly regional entanglements. This disconnect between elite rhetoric and public sentiment reveals a country whose population seeks stability, economic opportunity and international engagement more than ideological confrontation. The hardline fixation on Israel is seen by many as an obstacle to progress.
+
+Ironically, Iran’s nuclear program began under US sponsorship during the Shah’s reign. Through the Atoms for Peace program in the 1950s and 60s, the US provided Iran with nuclear technology, fuel and training; cooperation that laid the groundwork for Iran’s later capabilities.
+
+Israel’s recent strikes occurred just as Iran, under a new reformist president, appeared to be re-engaging in nuclear negotiations with the US, a development Israel views with suspicion. Having opposed the original JCPOA, Israel fears any renewed deal would legitimise Iran’s regional influence. Compounding this, Israeli society, still traumatised by the October 7 Hamas attacks, has swung further toward militarism. Support for preemptive action against Iran now extends even to centrist politicians like Yair Lapid.
+
+While the legitimacy of military strikes under preemptive self-defence remains debated in international law, there is near-universal consensus that preventive strikes, aimed at neutralising non-imminent, hypothetical future threats, are unequivocally illegal under the UN Charter and customary international law.
+
+A growing segment of the US foreign policy establishment appears to be coalescing around the idea of regime change in Iran. Testimonies before Congress, such as those by former National Security Advisor John Bolton and think tanks like the Foundation for Defense of Democracies (FDD), have explicitly advocated for the fall of the Islamic Republic.
+
+Bipartisan legislation such as the MAHSA Act, overwhelmingly passed in the House, targets key Iranian officials and institutions, signalling a move beyond containment toward political destabilisation.
+
+Equating any potential American conflict with Iran to other recent American interventions in Iraq, Syria or Libya, is not only dangerous but also deeply misguided. Unlike those fractured states, Iran has a functioning government, a large conventional military, effective regional proxies and a deeply rooted civilisational identity. As a regional hegemon, it has both the capacity and will to retaliate asymmetrically. A direct conflict would pose immense strategic risks. If Iran was not already pursuing nuclear deterrence, Israel’s actions may have just provided the Ayatollah with the ultimate justification.
+
+(The writer holds a Masters in International Relations from the University of Colombo, completing a thesis on American Foreign Policy in the Middle East and is currently a media presenter, political commentator and Foreign Affairs analyst, invited regularly on television broadcasts as a resource-person. He is also a member of the Working Committee of the Samagi Jana Balawegaya (SJB) and is an Advisor to the Leader of the Opposition. A former Corporate Finance professional, he has 15 years of experience in the Financial and Corporate sectors after completing a Degree in Accounting and Finance at the University of Kent (UK).)
+
