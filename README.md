@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-20 18:23:51**
+Last Updated **2025-06-21 06:25:43**
 
 ## 2025-06-20
 
+* [Late Minister Lakshman Kadirgamar story on surviving Swissair Athens plane crash in 1979](data/articles/late-minister-lakshman-k.456d4949/README.md) `ft.lk`
+* [Middle East: Escalating tensions in engine of global economy](data/articles/middle-east-escalating-t.7e31bb99/README.md) `ft.lk`
+* [Professional costing framework should be implemented to determine cost price of electricity: Response](data/articles/professional-costing-fra.152ef340/README.md) `ft.lk`
+* [“When we was fab”](data/articles/when-we-was-fab.2e23a65c/README.md) `ft.lk`
+* [Middle East on fire: Next oil shock?](data/articles/middle-east-on-fire-next.ea662cc5/README.md) `ft.lk`
 * [How a 30-year-old techno-thriller predicted our digital isolation](data/articles/how-a-30-year-old-techno.9958982f/README.md) `technologyreview.com`
 * [How Tiger intelligence chief Sivashankar alias “Pottu Ammaan” and family members died](data/articles/how-tiger-intelligence-c.1f0bc2a6/README.md) `ft.lk`
 * [Human development in the age of AI: Call for inclusive transformation](data/articles/human-development-in-the.4fbeeba8/README.md) `ft.lk`

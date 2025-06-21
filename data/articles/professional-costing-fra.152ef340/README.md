@@ -1,0 +1,64 @@
+# Professional costing framework should be implemented to determine cost price of electricity: Response
+
+[https://www.ft.lk/columns/Professional-costing-framework-should-be-implemented-to-determine-cost-price-of-electricity-Response/4-777977](https://www.ft.lk/columns/Professional-costing-framework-should-be-implemented-to-determine-cost-price-of-electricity-Response/4-777977)
+
+*11:37 PM, Friday, June 20, 2025*
+
+True reform lies in technical rigour and institutional integration—not merely
+
+The article titled “Professional costing framework should be implemented to determine the cost price of electricity” (28 May 2025) by Lakshman R. Watawala presents a case for strengthening cost accounting in Sri Lanka’s state-owned enterprises (SOEs), especially in the energy sector. While the advocacy is commendable, its proposed solutions—particularly the call for a Chief Cost and Management Accounting Advisor (CCMAA) at the secretary level—require critical scrutiny.
+
+Oversimplifying cost models in complex institutions
+
+The article fittingly questions rigid cost recovery models based on IMF standards for loss-making SOEs like the Ceylon Electricity Board (CEB), SriLankan Airlines, and the Ceylon Petroleum Corporation (CPC). With my experience in all three institutions, it is to be noted that proposing generic cost accounting and target costing tools oversimplifies the complexities these institutions face. CEB operates across diverse generation types—hydro, thermal, coal, and renewables—with distinct cost dynamics and dispatch considerations. SriLankan Airlines handles route-level costing, fuel hedging, and compliance with international aviation standards. Global oil markets, refining complexities, and domestic subsidies expose CPC to volatility.
+
+Applying simplistic cost tools without considering technical, regulatory, and operational details can lead to misleading cost signals and flawed policy decisions.
+
+Target and societal costing: Misalignment with utilities
+
+The article aptly emphasises cost efficiency and affordability in the power sector, but it falls short to address institutional, technological, and regulatory realities needed for genuine reform. These include:
+
+Target costing, a market-orientated pricing strategy, is incompatible with monopolies like the Ceylon Electricity Board’s (CEB), which operate without competitive market constraints, potentially hiding inefficiencies.
+
+Oversimplification of power pricing, failing to account for factors such as capital expenditure, fuel price volatility, gearbox losses, and long-term asset depreciation.
+
+CEB’s existing regulatory accounting mechanisms are not acknowledged.
+
+Superficial treatment of societal costing: Societal equality is acknowledged but not thoroughly. It ignores lifeline tariffs, targeted subsidies, and direct cash transfers, which are more beneficial for the affordability of needy people.
+
+Failure to acknowledge major regulatory constraints, such as the limited authority and efficacy of the Public Utilities Commission of Sri Lanka. Without addressing institutional issues, improvements are unlikely to last.
+
+Ignoring the complexity of implementation, the paper fails to address the real obstacles associated with implementing Activity-Based Costing (ABC) in a public utility.
+
+The CCMAA proposal: Symbolism vs. Strategy
+
+The article suggests a CCMAA at the level of Ministry Secretary, modelled on India’s Chief Adviser (Cost) from the 1970s—a post that supported price controls in a planned economy. Today’s context, however, demands:
+
+Interdisciplinary skills spanning economics, engineering, and data analytics
+
+Dynamic tools like Activity-Based Costing (ABC), Life Cycle Costing (LCC), and Total Cost of Ownership (TCO)
+
+Digital infrastructure
+
+Creating a senior role without embedding sector-specific expertise risks redundancy and inefficiency. Furthermore may overlap with existing departments in the Treasury, such as the Department of Public Enterprises, the Management Audit Department, and the Auditor General’s oversight. Thus, the proposed position of the CCMAA within the Ministry of Finance is ill-conceived. The models adopted by the UK, Australia, Japan, New Zealand, and South Korea are appropriate and functional.
+
+A pragmatic path forward
+
+Rather than emulating outdated models, Sri Lanka should adopt:
+
+Costing approaches by sector: Recognise that the costing needs of the CEB, CPC, and SriLankan are not interchangeable.
+
+Sector-specific costing: Identify the unique cost drivers and cost behaviour patterns within each industry or sector.
+
+Capacity building strategies: Integrate cost accounting teams with engineers, economists, and operational planners within each SOE and partner with CA, CIMA, and academia for complex cost models.
+
+ERP systems, dashboards, and AI to enhance decision-making with digital cost infrastructure.
+
+Taking the above into account, Sri Lanka should improve utility regulation by improving the accounting regime of SOEs, enhancing transparency, rationalising tariffs, and increasing public trust in pricing, as cost recovery may remain inequitable, inefficient, and susceptible to political manipulation.
+
+Reform with substance, not symbolism
+
+Sri Lanka must prioritise accurate, transparent, and industry-specific pricing when reforming its SOEs. True reform lies in technical rigour and institutional integration—not merely in titles. Cost accounting is now a strategic tool, not a clerical one. Let us pursue reforms rooted in depth, precision, and 21st-century realities. “Cost accounting reforms in complex SOEs require depth, and not titles.”
+
+(The writer is a multifaceted professional with expertise in accounting, banking, finance, economics, and governance, along with postgraduate qualifications; has held senior positions in many key institutions, served internationally, and led Sri Lanka’s top three accountancy bodies as well as the Organisation of Professional Accountants (OPA).)
+

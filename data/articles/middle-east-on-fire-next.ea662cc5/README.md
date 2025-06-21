@@ -1,0 +1,18 @@
+# Middle East on fire: Next oil shock?
+
+[https://www.ft.lk/opinion/Middle-East-on-fire-Next-oil-shock/14-777975](https://www.ft.lk/opinion/Middle-East-on-fire-Next-oil-shock/14-777975)
+
+*11:31 PM, Friday, June 20, 2025*
+
+Israel has launched coordinated strikes on Iran’s key nuclear and ballistic missile facilities, also targeting senior army officials and nuclear scientists. Amid ongoing attacks and retaliatory strikes Iran withdrew from nuclear negotiations, which the US had considered the only viable path to stop the escalation. US President Donald Trump praised Israel’s attacks and cautioned Iran that more severe consequences lie ahead.
+
+Since returning to power in January, Trump’s efforts to negotiate a new deal have made limited progress. The two parties remain divided over a core issue: the US, together with Israel, insists that Iran must cease uranium enrichment, while Tehran maintains that it has the sovereign right to continue. Iran argues that uranium enrichment, at least at low levels, is essential for peaceful civilian purposes, including fuelling nuclear power plants.
+
+The recent attacks on Iran threaten to further destabilise the Middle East, which has been embroiled in multiple conflicts since the militant group Hamas launched an assault on Israel in October 2023. This escalation poses significant risks to global economic stability.
+
+Heightened geopolitical uncertainty has compelled energy markets to factor in a significant risk premium, as evidenced by the surge in oil prices last Friday (13 June) to their highest level in over three years. This reflects growing concerns over a potential broader conflict in a region responsible for one-third of global crude production. A wider regional conflict in the Middle East poses the risk of significant disruptions to global oil supply chains, potentially forcing a major rerouting of oil flows by restricting shipments through the Strait of Hormuz, in addition to a possible decline in Iranian oil exports.
+
+The Strait of Hormuz, a strategic maritime corridor at the entrance of the Persian Gulf, serves as a critical conduit for a substantial portion of the world’s oil trade. Over the years, Iran has repeatedly targeted commercial vessels navigating this route and has, at times, threatened to close the strait entirely. Although escalating hostilities raise market concerns over potential supply disruptions, which could ultimately drive up the prices above $ 80 per barrel, OPEC+ members still have substantial spare capacity that could be deployed to stabilise the market if necessary. However, any further escalation that heightens tensions would be detrimental, potentially leading to higher commodity prices and inflation. This could compress profit margins and result in a negative credit outlook, thereby increasing the cost of financing for corporates.
+
+On Friday (13 June), investors shifted toward safe-haven assets such as the US dollar and gold, amid increased volatility in global equity markets. At the time of writing, the war is ongoing. However, the real questions remain: How long will it persist? How intense will it become? Will other parties be drawn into the conflict? From a broader economic perspective, the answers to these questions will be critically important in assessing the potential implications for the global economy.
+
