@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-22 06:25:57**
+Last Updated **2025-06-22 18:21:57**
+
+## 2025-06-21
+
+* [How Tiger  Intelligence Chief  “Pottu Ammaan” , His Wife and their Three Sons Died in the Final Phase of the War.](data/articles/how-tiger-intelligence-c.a442f200/README.md) `dbsjeyaraj.com`
+* [The Garden City  of Colombo is gasping its last breath, but what remains, is still, a capital city with more charm and character than many. All it needs to revive, is a cocktail of vision and sincerity.](data/articles/the-garden-city-of-colom.84ba4d67/README.md) `dbsjeyaraj.com`
+* [Tamil parties have started a give-and-take approach in the formation of local authorities, keeping in mind their individual interests.](data/articles/tamil-parties-have-start.7032a625/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-20
 
