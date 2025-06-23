@@ -2,14 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-23 06:25:45**
+Last Updated **2025-06-23 18:23:44**
 
 ## 2025-06-23
 
+* [Book review: Surveillance & privacy](data/articles/book-review-surveillance.6729bead/README.md) `technologyreview.com`
 * [Development role of Central Bank under new Central Bank Act: Part II](data/articles/development-role-of-cent.90717466/README.md) `ft.lk`
 * [From petrol queues to policy blunders: Dental Faculty SJP and Sri Lanka’s choice between reason and ruin](data/articles/from-petrol-queues-to-po.fefa4e41/README.md) `ft.lk`
 * [Sri Lanka’s coastline dreams drowned in sea of chaos, ballooned by corruption, concrete and condoms](data/articles/sri-lanka-s-coastline-dr.44aef614/README.md) `ft.lk`
 * [Institutional accountability when State institutions defend justice](data/articles/institutional-accountabi.19be4991/README.md) `ft.lk`
+
+## 2025-06-22
+
+* [Netanyahu can hypnotise Israelis for the same reason Adolf Hitler could hypnotise Germans, Trump Americans, Modi Hindus and the Rajapaksas Sinhalese. A process of “making the community more fanatical and exploiting the resulting fanaticism”](data/articles/netanyahu-can-hypnotise.fcdca868/README.md) `dbsjeyaraj.com`
+* [New Delhi’s silence on the devastation in Gaza and now on the unprovoked escalation against Iran reflects a disturbing departure from our moral and diplomatic traditions. This represents not just a loss of voice but also a surrender of values. It is still not too late. India must speak clearly, act responsibly.](data/articles/new-delhi-s-silence-on-t.1c9304e6/README.md) `dbsjeyaraj.com`
+* [The tulip  steals the spotlight from March to May, painting Amsterdam city in vibrant hues. This humble tulip has not only changed the Dutch landscape, but it has reshaped its economy, culture and identity over the years.](data/articles/the-tulip-steals-the-spo.7a9c9bd3/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-21
 
@@ -35,6 +42,7 @@ Last Updated **2025-06-23 06:25:45**
 
 * [It’s pretty easy to get DeepSeek to talk dirty](data/articles/it-s-pretty-easy-to-get.4e1bec7d/README.md) `technologyreview.com`
 * [Inside the US power struggle over coal](data/articles/inside-the-us-power-stru.d77ddb9e/README.md) `technologyreview.com`
+* [Is this the electric grid of the future?](data/articles/is-this-the-electric-gri.afb47b82/README.md) `technologyreview.com`
 * [Disgraceful abomination](data/articles/disgraceful-abomination.50fdfabe/README.md) `ft.lk`
 * [MSME sector: Accessibility and affordability of collateral](data/articles/msme-sector-accessibilit.7d56c062/README.md) `ft.lk`
 * [Netanyahu’s Iran war, global implications and AKD’s appalling policy stand](data/articles/netanyahu-s-iran-war-glo.1262753c/README.md) `ft.lk`
