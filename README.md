@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-22 18:21:57**
+Last Updated **2025-06-23 06:25:45**
+
+## 2025-06-23
+
+* [Development role of Central Bank under new Central Bank Act: Part II](data/articles/development-role-of-cent.90717466/README.md) `ft.lk`
+* [From petrol queues to policy blunders: Dental Faculty SJP and Sri Lanka’s choice between reason and ruin](data/articles/from-petrol-queues-to-po.fefa4e41/README.md) `ft.lk`
+* [Sri Lanka’s coastline dreams drowned in sea of chaos, ballooned by corruption, concrete and condoms](data/articles/sri-lanka-s-coastline-dr.44aef614/README.md) `ft.lk`
+* [Institutional accountability when State institutions defend justice](data/articles/institutional-accountabi.19be4991/README.md) `ft.lk`
 
 ## 2025-06-21
 
