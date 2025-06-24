@@ -2,13 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-24 06:25:48**
+Last Updated **2025-06-24 18:23:16**
 
 ## 2025-06-24
 
+* [The Anthropocene illusion](data/articles/the-anthropocene-illusio.ec2ad99b/README.md) `technologyreview.com`
 * [FDI flows to developing economies drop to lowest level since 2005](data/articles/fdi-flows-to-developing.2ded69fd/README.md) `ft.lk`
+* [Sri Lanka 2025–2030: Private sector opportunities in changing global economy](data/articles/sri-lanka-2025-2030-priv.01fddfae/README.md) `ft.lk`
 * [Sri Lanka 2025–2030: Private sector opportunities in changing global economy](data/articles/sri-lanka-2025-2030-priv.5696aff4/README.md) `ft.lk`
 * [Sri Lanka’s broadcasting at 100: Industry at crossroads in turbulent world](data/articles/sri-lanka-s-broadcasting.6650247f/README.md) `ft.lk`
+* [Sri Lanka must move beyond triumphalism and bitterness](data/articles/sri-lanka-must-move-beyo.5b2ccb79/README.md) `ft.lk`
 * [Sri Lanka must move beyond triumphalism and bitterness](data/articles/sri-lanka-must-move-beyo.a1de2283/README.md) `ft.lk`
 * [Sri Lankan voice on global stage: Meeting with Prof. Patrick Mendis](data/articles/sri-lankan-voice-on-glob.bb591a8a/README.md) `ft.lk`
 
@@ -20,6 +23,7 @@ Last Updated **2025-06-24 06:25:48**
 * [From petrol queues to policy blunders: Dental Faculty SJP and Sri Lanka’s choice between reason and ruin](data/articles/from-petrol-queues-to-po.fefa4e41/README.md) `ft.lk`
 * [Sri Lanka’s coastline dreams drowned in sea of chaos, ballooned by corruption, concrete and condoms](data/articles/sri-lanka-s-coastline-dr.44aef614/README.md) `ft.lk`
 * [Institutional accountability when State institutions defend justice](data/articles/institutional-accountabi.19be4991/README.md) `ft.lk`
+* [See the stunning first images from the Vera C. Rubin Observatory](data/articles/see-the-stunning-first-i.ea260bda/README.md) `technologyreview.com`
 
 ## 2025-06-22
 
@@ -46,6 +50,7 @@ Last Updated **2025-06-24 06:25:48**
 * [National effort to unlock biodiversity and eco-tourism potential](data/articles/national-effort-to-unloc.d8701587/README.md) `ft.lk`
 * [Reactors and regime change](data/articles/reactors-and-regime-chan.4056f72b/README.md) `ft.lk`
 * [Residents up in arms over proposed high-rise in environmentally sensitive Lake Drive area](data/articles/residents-up-in-arms-ove.99179944/README.md) `ft.lk`
+* [Calorie restriction can help animals live longer. What about humans?](data/articles/calorie-restriction-can.5f3e9eac/README.md) `technologyreview.com`
 
 ## 2025-06-19
 

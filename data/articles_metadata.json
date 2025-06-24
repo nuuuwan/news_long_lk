@@ -1,10 +1,24 @@
 [
   {
+    "title": "The Anthropocene illusion",
+    "url": "https://www.technologyreview.com/2025/06/24/1118442/zed-nelson-photography-nature-curation/",
+    "ut": 1750725000.0,
+    "dir_path_unix": "data/articles/the-anthropocene-illusio.ec2ad99b",
+    "time_str_formatted": "06:00 AM, Tuesday, June 24, 2025"
+  },
+  {
     "title": "FDI flows to developing economies drop to lowest level since 2005",
     "url": "https://www.ft.lk/opinion/FDI-flows-to-developing-economies-drop-to-lowest-level-since-2005/14-778083",
     "ut": 1750712796.0,
     "dir_path_unix": "data/articles/fdi-flows-to-developing.2ded69fd",
     "time_str_formatted": "02:36 AM, Tuesday, June 24, 2025"
+  },
+  {
+    "title": "Sri Lanka 2025\u20132030: Private sector opportunities in changing global economy",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-20252030-Private-sector-opportunities-in-changing-global-economy/4-778082",
+    "ut": 1750712547.0,
+    "dir_path_unix": "data/articles/sri-lanka-2025-2030-priv.01fddfae",
+    "time_str_formatted": "02:32 AM, Tuesday, June 24, 2025"
   },
   {
     "title": "Sri Lanka 2025\u20132030: Private sector opportunities in changing global economy",
@@ -19,6 +33,13 @@
     "ut": 1750712161.0,
     "dir_path_unix": "data/articles/sri-lanka-s-broadcasting.6650247f",
     "time_str_formatted": "02:26 AM, Tuesday, June 24, 2025"
+  },
+  {
+    "title": "Sri Lanka must move beyond triumphalism and bitterness",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-must-move-beyond-triumphalism-and-bitterness/4-778080",
+    "ut": 1750711877.0,
+    "dir_path_unix": "data/articles/sri-lanka-must-move-beyo.5b2ccb79",
+    "time_str_formatted": "02:21 AM, Tuesday, June 24, 2025"
   },
   {
     "title": "Sri Lanka must move beyond triumphalism and bitterness",
@@ -75,6 +96,13 @@
     "ut": 1750627175.0,
     "dir_path_unix": "data/articles/institutional-accountabi.19be4991",
     "time_str_formatted": "02:49 AM, Monday, June 23, 2025"
+  },
+  {
+    "title": "See the stunning first images from the Vera C. Rubin Observatory",
+    "url": "https://www.technologyreview.com/2025/06/23/1119129/first-images-vera-c-rubin-observatory/",
+    "ut": 1750617060.0,
+    "dir_path_unix": "data/articles/see-the-stunning-first-i.ea260bda",
+    "time_str_formatted": "12:01 AM, Monday, June 23, 2025"
   },
   {
     "title": "Netanyahu can hypnotise Israelis for the same reason Adolf Hitler could hypnotise Germans, Trump Americans, Modi Hindus and the Rajapaksas Sinhalese. A process of \u201cmaking the community more fanatical and exploiting the resulting fanaticism\u201d",
@@ -194,6 +222,13 @@
     "ut": 1750376838.0,
     "dir_path_unix": "data/articles/residents-up-in-arms-ove.99179944",
     "time_str_formatted": "05:17 AM, Friday, June 20, 2025"
+  },
+  {
+    "title": "Calorie restriction can help animals live longer. What about humans?",
+    "url": "https://www.technologyreview.com/2025/06/20/1119073/calorie-restriction-live-longer/",
+    "ut": 1750375800.0,
+    "dir_path_unix": "data/articles/calorie-restriction-can.5f3e9eac",
+    "time_str_formatted": "05:00 AM, Friday, June 20, 2025"
   },
   {
     "title": "It\u2019s pretty easy to get DeepSeek to talk dirty",
