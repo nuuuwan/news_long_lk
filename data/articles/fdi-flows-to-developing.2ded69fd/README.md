@@ -1,0 +1,46 @@
+# FDI flows to developing economies drop to lowest level since 2005
+
+[https://www.ft.lk/opinion/FDI-flows-to-developing-economies-drop-to-lowest-level-since-2005/14-778083](https://www.ft.lk/opinion/FDI-flows-to-developing-economies-drop-to-lowest-level-since-2005/14-778083)
+
+*02:36 AM, Tuesday, June 24, 2025*
+
+High trade and investment barriers pose threat to mobilising financing for development, says World Bank
+
+Flows of Foreign Direct Investment (FDI) into developing economies—a key propellant of economic growth and higher living standards—have dwindled to the lowest level since 2005 amid rising trade and investment barriers, new research from the World Bank shows. These barriers pose a significant threat to global efforts to mobilise financing for development.
+
+In 2023, the latest year for which data are available, developing economies received just $ 435 billion in FDI—the lowest level since 2005. That coincides with a global trend in which FDI flows into advanced economies have also slowed to a trickle: high-income economies received just $ 336 billion in 2023, the lowest level since 1996. As a share of their GDP, FDI inflows to developing economies in 2023 were just 2.3%, about half the number during the peak year of 2008.
+
+“What we are seeing is a result of public policy,” said World Bank Group Chief Economist and Senior Vice President Indermit Gill. “It is not a coincidence that FDI is plumbing new lows at the same time that public debt is reaching record highs. Private investment will now have to power economic growth, and FDI happens to be one of the most productive forms of private investment. Yet, in recent years governments have been busy erecting barriers to investment and trade when they should be deliberately taking them down. They will have to ditch that bad habit.”
+
+From 30 June to 3 July, representatives of governments, international institutions, civil society organisations, and the private sector are scheduled to meet in Seville, Spain, to discuss how to mobilise the financing that will be needed to achieve key global and national development goals. The new analysis from the World Bank highlights the policies that will be needed to achieve those goals at a time when economic growth has slowed to a crawl, public debt has surged to record highs, and foreign-aid budgets have shrunk. Easing investment restrictions will be a key first step: so far in 2025, half of all FDI-related measures announced by governments in developing economies have been restrictive measures—the highest share since 2010.
+
+Reversing this slowdown is not just an economic imperative—it is essential for job creation, sustained growth, and achieving broader development goals. It will require bold domestic reforms to improve the business climate and decisive global cooperation to revive cross-border investment – World Bank Group Deputy Chief Economist and Director of the Prospects Group M. Ayhan Kose
+
+“With the global community gearing up for the Conference on Financing for Development, the sharp drop in FDI to developing economies should sound alarm bells,” said World Bank Group Deputy Chief Economist and Director of the Prospects Group M. Ayhan Kose. “Reversing this slowdown is not just an economic imperative—it is essential for job creation, sustained growth, and achieving broader development goals. It will require bold domestic reforms to improve the business climate and decisive global cooperation to revive cross-border investment.”
+
+Investment treaties tend to boost FDI flows between signatory states by more than 40%, the analysis finds. Between 2010 and 2024, just 380 new investment treaties came into force, barely a third of the 1990s number. Similarly, the report finds that countries that are more open to trade tend to receive more FDI—an extra 0.6% in FDI for each percentage-point increase in the trade-to-GDP ratio. However, the number of new trade agreements signed over the past decade dropped in half—from an average of 11 per year in the 2010s to just six in the 2020s.
+
+Three policy priorities for developing economies
+
+1. Redouble efforts to attract FDI
+
+2. Amplify the economic benefits of FDI
+
+3. Advance global cooperation
+
+In 2023, FDI accounted for roughly half of the external financing flows received by developing economies. Under the right conditions, it is a strong spur to economic growth: analysis of data from 74 developing economies between 1995 and 2019 suggests that a 10% increase in FDI inflows generates a 0.3% increase in real GDP after three years. The impact is nearly three times larger—up to 0.8%—in countries with stronger institutions, better human capital, greater openness to trade, and lower informality. By the same token, the effect of FDI increases is much smaller in countries that lack such features.
+
+FDI tends to be concentrated in the largest economies. Between 2012 and 2023, about two-thirds of FDI flows to developing economies went to just 10 countries, with China receiving nearly a third of the total and Brazil and India receiving roughly 10% and 6% respectively. The 26 poorest countries received barely 2% of the total. Advanced economies, moreover, accounted for nearly 90% of the total FDI in developing economies over the past decade. About half of that came from just two sources: the European Union and the United States.
+
+It is not a coincidence that FDI is plumbing new lows at the same time that public debt is reaching record highs. Private investment will now have to power economic growth, and FDI happens to be one of the most productive forms of private investment. Yet, in recent years governments have been busy erecting barriers to investment and trade when they should be deliberately taking them down – World Bank Group Chief Economist and Senior Vice President Indermit Gill
+
+The report identifies three policy priorities for developing economies.
+
+First, redouble efforts to attract FDI. Easing FDI restrictions that have accumulated over the last decade would be a good start. So would speeding up improvements in the investment climate, which have stalled in many countries over the past decade. Strong macroeconomic outcomes—healthy growth and rising labour productivity—also help accelerate FDI flows, the analysis shows. An increase of 1% in a country’s labour productivity, for example, is associated with an increase of 0.7% in FDI inflows.
+
+Second, amplify the economic benefits of FDI. Promoting trade integration, improving the quality of institutions, fostering human capital development, and encouraging more people to participate in the formal economy increase the benefits of FDI. Governments can also amplify the benefits by channelling FDI to sectors where the impact is greatest. FDI can also help increase job opportunities for women: the domestic affiliates of multinational enterprises, for example, tend to have a higher share of female employees than domestic firms.
+
+Between 2010 and 2024, just 380 new investment treaties came into force, barely a third of the 1990s number. Similarly, the report finds that countries that are more open to trade tend to receive more FDI—an extra 0.6% in FDI for each percentage-point increase in the trade-to-GDP ratio. However, the number of new trade agreements signed over the past decade dropped in half—from an average of 11 per year in the 2010s to just six in the 2020s. In 2023, FDI accounted for roughly half of the external financing flows received by developing economies.
+
+Third, advance global cooperation. All countries should work together to accelerate policy initiatives that can help direct FDI flows to developing economies with the largest investment gaps. Especially in a time of high geopolitical tensions, the World Bank and other international institutions have a crucial role to play in supporting a rules-based order. Technical and financial assistance to support structural reform efforts in developing countries—especially low-income countries—are critical for facilitating FDI inflows. The World Bank Group, the world’s largest development bank, is playing a key role in mobilising private capital—by creating instruments that lower financial risks for investors, by helping to improve market conditions in developing economies, and by scaling up its engagement with the private sector.
+

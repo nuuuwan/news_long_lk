@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-23 18:23:44**
+Last Updated **2025-06-24 06:25:48**
+
+## 2025-06-24
+
+* [FDI flows to developing economies drop to lowest level since 2005](data/articles/fdi-flows-to-developing.2ded69fd/README.md) `ft.lk`
+* [Sri Lanka 2025–2030: Private sector opportunities in changing global economy](data/articles/sri-lanka-2025-2030-priv.5696aff4/README.md) `ft.lk`
+* [Sri Lanka’s broadcasting at 100: Industry at crossroads in turbulent world](data/articles/sri-lanka-s-broadcasting.6650247f/README.md) `ft.lk`
+* [Sri Lanka must move beyond triumphalism and bitterness](data/articles/sri-lanka-must-move-beyo.a1de2283/README.md) `ft.lk`
+* [Sri Lankan voice on global stage: Meeting with Prof. Patrick Mendis](data/articles/sri-lankan-voice-on-glob.bb591a8a/README.md) `ft.lk`
 
 ## 2025-06-23
 
+* [A Chinese firm has just launched a constantly changing set of AI benchmarks](data/articles/a-chinese-firm-has-just.b5192856/README.md) `technologyreview.com`
 * [Book review: Surveillance & privacy](data/articles/book-review-surveillance.6729bead/README.md) `technologyreview.com`
 * [Development role of Central Bank under new Central Bank Act: Part II](data/articles/development-role-of-cent.90717466/README.md) `ft.lk`
 * [From petrol queues to policy blunders: Dental Faculty SJP and Sri Lanka’s choice between reason and ruin](data/articles/from-petrol-queues-to-po.fefa4e41/README.md) `ft.lk`
