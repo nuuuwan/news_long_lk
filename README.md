@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-25 06:25:39**
+Last Updated **2025-06-25 18:23:15**
 
 ## 2025-06-25
 
+* [The Bank Secrecy Act is failing everyone. It’s time to rethink financial surveillance.](data/articles/the-bank-secrecy-act-is.d62333ae/README.md) `technologyreview.com`
 * [Did we commit  genocide in the Vanni?](data/articles/did-we-commit-genocide-i.620b05f2/README.md) `ft.lk`
 * [Regulatory reforms for securities market operations](data/articles/regulatory-reforms-for-s.4fe68316/README.md) `ft.lk`
 * [Review suggestion](data/articles/review-suggestion.facba6ad/README.md) `ft.lk`
@@ -15,6 +16,8 @@ Last Updated **2025-06-25 06:25:39**
 
 * [Empower Your Workforce by Optimizing Your Digital Workplace](data/articles/empower-your-workforce-b.bbc33324/README.md) `hbr.org`
 * [The Anthropocene illusion](data/articles/the-anthropocene-illusio.ec2ad99b/README.md) `technologyreview.com`
+* [Namibia wants to build the world’s first hydrogen economy](data/articles/namibia-wants-to-build-t.1663da71/README.md) `technologyreview.com`
+* [Can we fix AI’s evaluation crisis?](data/articles/can-we-fix-ai-s-evaluati.d38c12c7/README.md) `technologyreview.com`
 * [FDI flows to developing economies drop to lowest level since 2005](data/articles/fdi-flows-to-developing.2ded69fd/README.md) `ft.lk`
 * [Sri Lanka 2025–2030: Private sector opportunities in changing global economy](data/articles/sri-lanka-2025-2030-priv.01fddfae/README.md) `ft.lk`
 * [Sri Lanka 2025–2030: Private sector opportunities in changing global economy](data/articles/sri-lanka-2025-2030-priv.5696aff4/README.md) `ft.lk`

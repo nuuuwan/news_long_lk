@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Bank Secrecy Act is failing everyone. It\u2019s time to rethink financial surveillance.",
+    "url": "https://www.technologyreview.com/2025/06/25/1119324/katie-haun-bank-secrecy-act-oped/",
+    "ut": 1750811131.0,
+    "dir_path_unix": "data/articles/the-bank-secrecy-act-is.d62333ae",
+    "time_str_formatted": "05:55 AM, Wednesday, June 25, 2025"
+  },
+  {
     "title": "Did we commit  genocide in the Vanni?",
     "url": "https://www.ft.lk/columns/Did-we-commit-genocide-in-the-Vanni/4-778128",
     "ut": 1750793475.0,
@@ -40,6 +47,20 @@
     "ut": 1750725000.0,
     "dir_path_unix": "data/articles/the-anthropocene-illusio.ec2ad99b",
     "time_str_formatted": "06:00 AM, Tuesday, June 24, 2025"
+  },
+  {
+    "title": "Namibia wants to build the world\u2019s first hydrogen economy",
+    "url": "https://www.technologyreview.com/2025/06/24/1118433/namibia-world-first-hydrogen-economy-wind-solar-power/",
+    "ut": 1750721400.0,
+    "dir_path_unix": "data/articles/namibia-wants-to-build-t.1663da71",
+    "time_str_formatted": "05:00 AM, Tuesday, June 24, 2025"
+  },
+  {
+    "title": "Can we fix AI\u2019s evaluation crisis?",
+    "url": "https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/",
+    "ut": 1750720830.0,
+    "dir_path_unix": "data/articles/can-we-fix-ai-s-evaluati.d38c12c7",
+    "time_str_formatted": "04:50 AM, Tuesday, June 24, 2025"
   },
   {
     "title": "FDI flows to developing economies drop to lowest level since 2005",
