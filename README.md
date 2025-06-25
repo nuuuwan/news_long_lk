@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-24 18:23:16**
+Last Updated **2025-06-25 06:25:39**
+
+## 2025-06-25
+
+* [Did we commit  genocide in the Vanni?](data/articles/did-we-commit-genocide-i.620b05f2/README.md) `ft.lk`
+* [Regulatory reforms for securities market operations](data/articles/regulatory-reforms-for-s.4fe68316/README.md) `ft.lk`
+* [Review suggestion](data/articles/review-suggestion.facba6ad/README.md) `ft.lk`
+* [Ancient engineers would be ashamed: Rebuilding Sri Lanka with light](data/articles/ancient-engineers-would.fbf5f589/README.md) `ft.lk`
 
 ## 2025-06-24
 
+* [Empower Your Workforce by Optimizing Your Digital Workplace](data/articles/empower-your-workforce-b.bbc33324/README.md) `hbr.org`
 * [The Anthropocene illusion](data/articles/the-anthropocene-illusio.ec2ad99b/README.md) `technologyreview.com`
 * [FDI flows to developing economies drop to lowest level since 2005](data/articles/fdi-flows-to-developing.2ded69fd/README.md) `ft.lk`
 * [Sri Lanka 2025–2030: Private sector opportunities in changing global economy](data/articles/sri-lanka-2025-2030-priv.01fddfae/README.md) `ft.lk`
