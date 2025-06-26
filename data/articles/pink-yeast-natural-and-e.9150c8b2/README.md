@@ -1,0 +1,30 @@
+# Pink yeast: Natural and effective way to improve Sri Lankan tea
+
+[https://www.ft.lk/opinion/Pink-yeast-Natural-and-effective-way-to-improve-Sri-Lankan-tea/14-778179](https://www.ft.lk/opinion/Pink-yeast-Natural-and-effective-way-to-improve-Sri-Lankan-tea/14-778179)
+
+*04:31 AM, Thursday, June 26, 2025*
+
+The bud and the first two leaves carry the most important chemicals required for the quality of tea
+
+The pink yeast growing on tender tea leaves can be effectively used to improve the quality of tea which has now been neglected in Sri Lanka
+
+By Daya Wickramatunge
+
+During the drought there is a pink yeast growing on tender tea leaves in Uva and Dimbula, the renowned tea growing areas in the highlands of Sri Lanka. They are found mostly in the bud and the first two leaves. Tea planters often refer to the pink tea buds they see in tea shoots, when they visit tea fields. When the drought ends and the rainy season starts, the pink yeast disappears and in its place we find the fungus – Aspergillus growing on the tea leaves. The pink colour of the yeast is due to beta-carotene, a carotenoid.
+
+In his book – ‘Monographs on tea production in Sri Lanka’, Dr. R.L. Wickremasinghe, a leading tea chemist of the TRI, has stated that the bud and the first two leaves carry the most important chemicals required for the quality of tea. In the harvesting of tea, for the production of high quality tea, it is well known that the tea pluckers are advised to go for a minimum 60% two-leaves and bud. As Dr. Wickremasinghe has stated they carry the important chemicals to produce high quality tea. However since late there is a shortage of labour for harvesting tea. As a result there is a drop in the quality of Sri Lankan tea. The tea pluckers are being advised to use a mechanical harvester (TRI Selective Harvester), developed and introduced by the Tea Research Institute of Sri Lanka to double the output of manual workers.
+
+Drop in quality of tea
+
+The use of the Selective Harvester minimises the damage to tea leaves during manual harvesting, thereby maintaining a better quality tea. In spite of this we are still unable to maintain the previous norm of the minimum 60% two-leaves and bud, as a result there is a drop in the quality of the tea we produce. Countries like Iran, which bought all their tea from Sri Lanka, are now buying their tea from India. Assam and Darjeeling of India, like Uva and Dimbula of Sri Lanka, produce high quality tea. Consequently, there is a drop in the trend foreign exchange earnings from tea, which affects our economy. Especially at a time the country needs to increase its exports.
+
+I have recommended the propagation of the pink yeast and use of it as foliar in tea fields to improve the quality of our tea, just as much as we use Zinc and Urea as foliar spray in tea fields to increase crop. By dipping a cotton swab in a 0.5% sugar solution and rubbing it on tender tea leaves and dropping the cotton swab in a 0.5% sugar solution we can easily propagate the pink yeast. If we need to be more careful in obtaining a pure culture the method is not too complicated. A very dilute suspension of leaf swabs is “streaked” onto a sterile plate of nutrient agar. There will appear several spots where single spres/cells would have multiplied into colonies, from which “pure” colonies can be grown. It is likely that a simple nutrient agar may suffice, yeasts being not too demanding. If there is an objection on the basis of possible living cells of yeast in made tea, tests could be done after firing. The yeast will not appear in the fired tea.
+
+With regard to the introduction of sugar to increase the quality of tea, the SLTB banned it because it was introduced during rolling. The ISO is against the introduction of anything during manufacture. Later when sugar was introduced as foliar spray in tea fields, the SLTB continued to ban it, for the presence of increased sugar was found in the made tea. SLTB will allow or disallow based on the TRI instructions. They carry out TRI instructions. As explained above, the yeast will not appear in the fired tea. There is no reason for the TRI to recommend the SLTB to ban the use of the pink yeast as foliar spray in tea fields to improve the quality of the made tea.
+
+At first the TRI stated ISO will be against the use of the pink yeast as foliar spray. Dr. Katie Donnely of the ISO Committee stated that the ISO is not concerned with field practices.
+
+I have on several occasions attempted to explain the value of pink tea to improve product quality of tea to many officials holding senior positions in the tea industry. Further, about few months ago I have sent a letter to the Secretary to the President highlighting the importance of quality improvement of tea. However, nothing constructive has happened except for an acknowledgement letter from the Presidential Secretariat. Therefore, I decided to publish this article in the Daily FT.
+
+(The writer has immense experience (over 40 years) in the tea field especially in research and is a highly competent and qualified person who had contributed significantly to the industry. He is a graduate of the University of Ceylon with a Masters in Food Technology at the CFTRI, Mysore. He has worked at the Unilever Research Laboratory, in Bedford, UK, before joining the Unilever Instant Tea factory – Ceytea Ltd., Agrapatana as R&D Manager. Later he took charge of Ceytea Ltd. Since retiring from the Unilever Instant Tea factory, he was a member in the committee appointed by then Minister of Plantation Industries Lakshman Kiriella, on ‘Quality Improvement of Sri Lankan Tea’. Later he joined Dilmah Tea and was on the Board of Kahawatte Plantations for several years.)
+

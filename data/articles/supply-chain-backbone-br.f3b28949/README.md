@@ -1,0 +1,52 @@
+# Supply chain: Backbone bridge of success
+
+[https://www.ft.lk/columns/Supply-chain-Backbone-bridge-of-success/4-778180](https://www.ft.lk/columns/Supply-chain-Backbone-bridge-of-success/4-778180)
+
+*04:36 AM, Thursday, June 26, 2025*
+
+The supply chain is one of the most important and dynamic topics in business today. While it has been an essential part of commerce for decades, its strategic importance has increased even more since the COVID-19 pandemic, as organisations around the world have recognised that supply chains are not just back-end functions; they are the lifeblood that keeps businesses running.
+
+The term ‘supply chain’ has many definitions, such as ‘supply chain management’ or ‘SCM’, which is the practice of managing the movement of products and services across different processes and locations. It includes the storage and transportation of raw materials, work-in-process inventory, finished items, and end-to-end order fulfilment from the point of origin to the point of consumption.
+
+The Stockarea defines Supply Chain Management (SCM) as the practice of managing the movement of products and services across different processes and locations.
+
+This includes everything from raw material sourcing to work-in-process inventory, finished goods, storage, transportation, and ultimately, delivery to the end user.
+
+Seamless movement and coordination
+
+SCM ensures seamless movement and coordination across all stages of production and distribution, from origin to consumption.
+
+The supply chain is a complex logistics system that consists of facilities that convert raw materials into finished products and distribute them to end consumers or end customers. Meanwhile, supply chain management deals with the flow of goods within the supply chain in the most efficient manner.
+
+Wikipedia describes the supply chain as “a complex logistics system that consists of facilities that convert raw materials into finished products and distribute them to consumers.” It further notes that SCM deals with managing the flow of goods efficiently within this system.
+
+Interconnected system
+
+The supply chain is an interconnected system, and SCM focuses on optimising this system for maximum efficiency and minimal waste.
+
+A supply chain is a network of individuals and companies who are involved in creating a product and delivering it to the consumer. Links on the chain begin with the producers of the raw materials and end when the van delivers the finished product to the end user.
+
+Investopedia offers a definition of the supply chain as a network of individuals and companies involved in creating a product and delivering it to the consumer. The process begins with raw material suppliers and ends when the product reaches the end user.
+
+Collaborative network
+
+The supply chain functions as a collaborative network where every link – from raw materials to final delivery – plays a critical role in value creation.
+
+What becomes clear is that the scope of supply chain varies by organisation. Some organisations include many departments such as planning, manufacturing, sales, warehousing, procurement, and logistics under the supply chain umbrella, while others focus only on planning, procurement, warehousing, and logistics.
+
+Regardless of its scope, the supply chain always acts as a bridge within the organisation. It connects key functions, enabling seamless communication and material flow from one stage to the next.
+
+For instance, even in a setup where the supply chain team manages only procurement, warehousing, and logistics, it is still:
+
+Bridging suppliers and manufacturing: Ensuring the timely procurement and availability of raw materials for production.
+
+Linking production and sales: Managing inventory, warehousing, and order fulfilment to meet customer demands.
+
+Connecting sales and customers: Facilitating efficient distribution and last-mile delivery to ensure customer satisfaction.
+
+By acting as this bridge, the supply chain ensures a seamless flow from raw material sourcing to final delivery, optimising every stage to enhance efficiency and customer experience. Whether a company’s supply chain includes broader functions or focuses on core logistics elements, its role as a unifying force remains indispensable in modern business operations.
+
+No matter how it is structured, the supply chain is more than a function; it’s the connective tissue that unites strategy with execution.
+
+(The writer is the Manager of Supply Chain at Ceylon Agro Industries Ltd., Prima Group Sri Lanka. He is also a Life Member of the ISMM.)
+

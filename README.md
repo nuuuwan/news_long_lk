@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-25 18:23:15**
+Last Updated **2025-06-26 06:25:50**
+
+## 2025-06-26
+
+* [Pause or peace? Iran’s resilience, resistance and rebooted revolution](data/articles/pause-or-peace-iran-s-re.d90a72e0/README.md) `ft.lk`
+* [Lies, liars and onlookers of a tragic drama](data/articles/lies-liars-and-onlookers.3ef6229e/README.md) `ft.lk`
+* [Supply chain: Backbone bridge of success](data/articles/supply-chain-backbone-br.f3b28949/README.md) `ft.lk`
+* [Pink yeast: Natural and effective way to improve Sri Lankan tea](data/articles/pink-yeast-natural-and-e.9150c8b2/README.md) `ft.lk`
+* [A currency that works for all: Why we need balance, not strength](data/articles/a-currency-that-works-fo.ff942b2c/README.md) `ft.lk`
 
 ## 2025-06-25
 
+* [Google’s new AI will help researchers understand how our genes work](data/articles/google-s-new-ai-will-hel.6f13a1c0/README.md) `technologyreview.com`
 * [The Bank Secrecy Act is failing everyone. It’s time to rethink financial surveillance.](data/articles/the-bank-secrecy-act-is.d62333ae/README.md) `technologyreview.com`
 * [Did we commit  genocide in the Vanni?](data/articles/did-we-commit-genocide-i.620b05f2/README.md) `ft.lk`
 * [Regulatory reforms for securities market operations](data/articles/regulatory-reforms-for-s.4fe68316/README.md) `ft.lk`
@@ -329,6 +338,7 @@ Last Updated **2025-06-25 18:23:15**
 * [AI could keep us dependent on natural gas for decades to come](data/articles/ai-could-keep-us-depende.db4fddb0/README.md) `technologyreview.com`
 * [The data center boom in the desert](data/articles/the-data-center-boom-in.e811dc3d/README.md) `technologyreview.com`
 * [Four reasons to be optimistic about AI’s energy usage](data/articles/four-reasons-to-be-optim.2efc1e9a/README.md) `technologyreview.com`
+* [We did the math on AI’s energy footprint. Here’s the story you haven’t heard.](data/articles/we-did-the-math-on-ai-s.e5d5411d/README.md) `technologyreview.com`
 * [Can nuclear power really fuel the rise of AI?](data/articles/can-nuclear-power-really.535afbd1/README.md) `technologyreview.com`
 * [AKD; promise and performance](data/articles/akd-promise-and-performa.74bbb04b/README.md) `ft.lk`
 * [Media’s AI use needs strong ethical framework and reality checks](data/articles/media-s-ai-use-needs-str.8b38976e/README.md) `ft.lk`
