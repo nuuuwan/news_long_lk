@@ -2,18 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-26 06:25:50**
+Last Updated **2025-06-26 18:22:47**
 
 ## 2025-06-26
 
+* [It’s officially summer, and the grid is stressed](data/articles/it-s-officially-summer-a.35f221e8/README.md) `technologyreview.com`
 * [Pause or peace? Iran’s resilience, resistance and rebooted revolution](data/articles/pause-or-peace-iran-s-re.d90a72e0/README.md) `ft.lk`
 * [Lies, liars and onlookers of a tragic drama](data/articles/lies-liars-and-onlookers.3ef6229e/README.md) `ft.lk`
 * [Supply chain: Backbone bridge of success](data/articles/supply-chain-backbone-br.f3b28949/README.md) `ft.lk`
 * [Pink yeast: Natural and effective way to improve Sri Lankan tea](data/articles/pink-yeast-natural-and-e.9150c8b2/README.md) `ft.lk`
+* [Pink yeast: Natural and effective way to improve Sri Lankan tea](data/articles/pink-yeast-natural-and-e.13d0f270/README.md) `ft.lk`
+* [A currency that works for all: Why we need balance, not strength](data/articles/a-currency-that-works-fo.a61def90/README.md) `ft.lk`
 * [A currency that works for all: Why we need balance, not strength](data/articles/a-currency-that-works-fo.ff942b2c/README.md) `ft.lk`
 
 ## 2025-06-25
 
+* [Did the LTTE get the Idea of  Suicide Bombers Using an Explosive Packed Belt  from  Author Frederick  Forsyth’s Novel ” The Negotiator”?](data/articles/did-the-ltte-get-the-ide.04dc0ed3/README.md) `dbsjeyaraj.com`
 * [Google’s new AI will help researchers understand how our genes work](data/articles/google-s-new-ai-will-hel.6f13a1c0/README.md) `technologyreview.com`
 * [The Bank Secrecy Act is failing everyone. It’s time to rethink financial surveillance.](data/articles/the-bank-secrecy-act-is.d62333ae/README.md) `technologyreview.com`
 * [Did we commit  genocide in the Vanni?](data/articles/did-we-commit-genocide-i.620b05f2/README.md) `ft.lk`
