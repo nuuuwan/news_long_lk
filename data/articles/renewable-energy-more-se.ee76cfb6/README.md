@@ -1,0 +1,32 @@
+# Renewable energy: More serious focus is needed
+
+[https://www.ft.lk/columns/Renewable-energy-More-serious-focus-is-needed/4-778227](https://www.ft.lk/columns/Renewable-energy-More-serious-focus-is-needed/4-778227)
+
+*11:09 PM, Thursday, June 26, 2025*
+
+We have the potential for a quick resurgence to get best results from renewable energy sources that could be mobilised
+
+In the context of the ongoing conflict between Israel and Iran and carrying a significant risk of escalating into a potential war situation developing first as a regional war and a subsequent involvement of other global powers signalling eventualities unpredictable, we have to be seriously concerned about our fuel supplies and the consequential energy issues that we may have to face.
+
+This should not be another exercise of pacification only to avoid a possible panic situation among the public on account of future supply of fuel only confined to consoling statements to the effect that we have sufficient fuel stocks for the next two months. This is a time we have to address it more seriously, being mindful of the future fuel consumptions of the country as well as the energy situation which is heavily dependent on fuel-based production as of now.
+
+Therefore, it is necessary to pay special attention to alternate sources of energy in particular to renewable energy sources. There is a growing conjecture about our attention and focus on this aspect due to various questionable decisions taken during the recent past on issues connected to renewable energy production. We have to swim away from the slow progress experienced by the sector due to these reasons.
+
+Today the sector is slogging in its slow march towards the far-fetched high targets set to be achieved, many years hence which remains highly optimistic looking more like idealistic vision only. The current global trends fast developing into highly controversial situations will make things unbearable for small highly dependent countries like us to actively engage in the energy sector improvement on a short-term basis.
+
+The less we can become dependent on fuel-based energy will be better with an early attention rather than waiting with crossed fingers till a crisis is developed. Such an interest is warranted taking into account our critical economic conditions we are currently going through having just overcome a serious economic crisis.
+
+It is hardly necessary to highlight the imminent dangers to the international community, especially to those countries heavily dependent on fuel supplies. The building conflict around the Strait of Hormuz, which is the only opening from the Persian gulf to the open ocean, is one of the world’s most strategically important passages for fuel transports. On one side in the north of this strait is Iran which is threatening to block it. Which means in the most unlikely event that this happens 20% of fuel transport will be affected with countries in and around the Indian Ocean affected.
+
+These risks associated with international situations apart from our own predicaments related to our poor economic situation will be unbearable. Hence before it is too late we must address ways and means of minimising the dependency on fuel for our energy purposes as far as possible. For this a special focus on quick result-oriented programs will be necessary.
+
+We have the potential for a quick resurgence to get best results from renewable energy sources that could be mobilised. Mini hydro power section, solar energy sector specialty the roof top solar energy development, are immediate resources that we could seek refuge. The production of energy from city waste currently unutilised is another quick resource base for quick results. Investing in projects of this nature will give a political boost for the newly appointed local bodies majority of which are under the Government control. In addition to the energy production it will pave the way for a profitable and healthy disposal of the municipal waste which is a big menace now. The known by-products such as manure from these projects will bring additional incomes to the local bodies to be utilised for more welfare measures.
+
+There are many mini hydro projects awaiting clearance of obstacles created by the local public authorities due to various reasons, most of which are undue influences that could be resolved with authoritative interventions. In some areas public bodies have formed into mafia operations to block these with ulterior intentions. The held up MHPs have the potential of generating nearly 2 to 300 MWs of power within a short time in addition to another 3 to 400 MWs of power from the rooftop solar sector.
+
+Another important aspect which will result in quick restoration of a huge quantity of electricity is to restore energy lost in transmission. It has been found the quantum loss is huge and can be quickly arrested if addressed as an urgent measure with the blessings of even aided assistance.
+
+One reason for the serious lagging behind and the slow progress of the renewable energy sector is the lack of coordination among the dedicated responsible authorities in addressing issues confronted by proponents and developers.
+
+Under the circumstances it will be a prudent step to create a single final one stop unit with authority consisting of representatives from Government agencies such as the CEB, SEA and CEA which play a role independent of one another of monitoring the activities and resolving issues of renewable energy developers. The urgency of focusing this need is emphasised again due to the pending dangers confronting us.
+

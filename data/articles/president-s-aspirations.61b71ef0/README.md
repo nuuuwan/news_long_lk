@@ -1,0 +1,76 @@
+# President’s aspirations and ground realities
+
+[https://www.ft.lk/columns/President-s-aspirations-and-ground-realities/4-778231](https://www.ft.lk/columns/President-s-aspirations-and-ground-realities/4-778231)
+
+*12:05 AM, Friday, June 27, 2025*
+
+In spite of many ardent attempts to highlight the fallacy of the arguments of the CEB and the many unanswered questions of the true status of the finances of the CEB, particularly over the past two years, the consumer tariff has been hiked once more by 15%. No lesser expert than Dr. Lakshman Watawala, the head of the National Accounting Standards body outlined the unacceptability of the submissions made by the CEB claiming for an increase of consumer tariff of 18.3%.
+
+As Dr. Watawala pointed out the CEB has continually failed to conduct a cost audit of their operations. Obviously such an audit would have brought to light the continued false claims to ask for a cost replacement tariff, to coverup the total lack of proper management and ability to harness best from the now well-established and undoubted indigenous resources to dramatically bring down the cost of generation. Then no one would have any objection to the principle of a cost reflective consumer tariff being granted in accordance with the relevant clauses of the Electricity Act No. 20 of 2009 viz; Clause Nos 3 (1)d, 4(1) a, 4(1) c.
+
+This principle has not been changed in the new Electricity Act No. 36 of 2024 now in force. Then even the IMF could not demand a tariff to cover a cost of totally inefficient and outdated energy mix, continually being pushed by the CEB in total ignorance of the world trends.
+
+Obviously the PUCSL would have been pressurised to ignore all the representations and facts presented in the public consultation, as evidenced by the directive of the Ministry of Finance to the PUCSL to abide by the dictates of the IMF. This is in total violation of the principle of independence of action by the sector Regulator, which is clearly emphasised in the relevant clauses of the Electricity Act No. 36.
+
+Appreciating the knife edge on which the President is poised to maintain the fragile state of economy and the Damocles’ Sword hanging by a thin tread, of the need to resume repayment of the External Debt commencing from 2028, one could feel empathy with the President on this outcome. As such the kudos heaped on him by the First Deputy Managing Director of the IMF Dr. Gita Gopinath at the economic summit held recently, is no surprise.
+
+Aspirations of the President
+
+Accordingly, the comments and aspirations of the President, in his keynote speech were as expected with the relief he must have felt of the IMF coming through. The aspirations he expressed for future Sri Lanka to become a prosperous and happy nation, free of corruption and bribery and due process of law, strikes a chord of resonance with all Sri Lankans. His wish for this to be the last time Sri Lanka would seek IMF bailout could not be any closer to all our hopes to once more become a proud nation.
+
+However, being pragmatic and realistic and having heard similar rhetoric umpteen times in the past, it is imperative that the President appreciates the two important inescapable issues.
+
+The President has to take only two clear steps to reverse the present mess
+
+Two undeniable realities
+
+One, that he inherited an economy which was on the mend from the disastrous situation prevailing in 2022. It is immaterial whether this came about by design for which there could be many claimants, or by the sheer inevitable of circumstances. As such the mandate of the present regime headed by the President is to nurture such advancement from the levels inherited by the present Government which he rightly claimed as acceptable at surface level, to escalate to the levels needed, if any of his aspirations are to become a reality.
+
+In this regard the first hurdle to be negotiated is resumption of the payment of external debts in 2028 with confidence. This cannot be relied upon only by the organic growth of the momentum gained but require very specific dynamic and concerted efforts, which could be seen as being practical to garner the essential support he needs locally and from abroad. The first of such measures should be to eradicate and reverse the impact of misdeeds and misadventures of the past regimes. Very constructive, transparent and skilful actions are needed if such an outcome is to be expected in decidedly the very short time available.
+
+Unfortunately, no such activities, plans and programs are visible at present and if at all are taking the country in an entirely opposite direction as explained later.
+
+Two. No such success can be expected unless we root out the multiple scrouges of Corruption, Bribery and Nepotism and misuse of State properties, at all levels of the body politic that has plagued Sri Lanka over several decades as the President spelled out once more. While there are some positive moves in this direction, they are no different from the 16 points of action that the IMF spelled out by the IMF at the very outset of their current intervention. No sane person could object to any of them not being the only way forward for Sri Lanka.
+
+But while such drastic changes are essential and necessary, are they sufficient to ensure the degree of progress as aspired by the President and all Sri Lankans? The answer is clearly no and much more effective and proactive actions are needed.
+
+In this light it was encouraging to hear the President being very outspoken in recent times of the corruption and misdeeds as well as the apathy of the State officials. Unless he fully understands the depth and prevalence of this problem across the entire Government service, also aided and abetted by some unscrupulous private sector entities, the way forward to reach his stated aspirations would be full of unseen barriers and wilful obstructions.
+
+In this regard one is left to wonder if all the visions and expectations are limited to the President alone. The support and active participation of his Cabinet of Ministers and appointed officials handpicked to head the important positions are woefully absent or visible to walk the talk of the President. Instead, some of the directives and actions of such ministers and officials are distinctly pointed in the opposite direction.
+
+Is it only the President who wants the 70% RE target?
+
+With particular reference to the electricity sector, which placed the President between a rock and a hard place, having to go ahead with an increase of 15%, having to go against the election promise of reducing the consumer tariff by 33%, which is still eminently possible of only the Ministry and the CEB wakes up the realities of the sector. Many such negative actions are taking place, which can only make matters worse in the near future making it impossible to reduce the tariff which has multiple benefits to the consumers as well as the economy in general.
+
+The concerted effort to destroy the indigenous renewable energy industry is already in place. This sector which was contributing positively to increase the proportion of indigenous renewable energy resources to the electricity mix, available at no cost, unlike the imported fossil fuels of any description bought with dollars. This is the only way Sri Lanka can hope to reduce the cost of generation of electricity. In fact, the concerted drive in Europe much less blessed with natural sources of energy, unlike tropical Sri Lanka, the cost of electricity has become so low as to even become negative on some days. Sri Lanka will have to go a long way to achieve such status given the utterly backward attitude and ignorance of the sector authorities.
+
+This in the short term may pose some technical problems, but a visionary approach to move towards an all-electric economy is on the cards. This would be of immense hep to Sri Lanka, still trapped in an over dependence on imported fossil fuels, most adversely impacting on transport.
+
+Eliminating the import of fossil fuels at least oil would save country over $ 5,000 annually, much needed to get ready to for the debacle to be faced in 2028. One hopes that the President realises that averting the drain of forex is much easier than earning same with new exports, which he continually espouses as the way forward.
+
+The mere elimination of oil alone for power generation which has been proven possible on the ground on some days as illustrated below would save some $ 800 million annually at present day prices. This could easily reach $ 1 billion before long with the war situation in the Middle East. In parallel this would save the CEB over Rs. 100 billion annually, enabling the consumer tariff to be reduced by at least Rs. 7.00 per kWh.
+
+This is one of many such days. There is no reason why this cannot be achieved daily with solar and other RE sources filling the gap of hydro during dry months.
+
+Killing the golden goose for Sri Lanka to sustain the oil mafia
+
+The moves to destroy the renewable energy industry mainly being developed by local entrepreneurs including “Prosumers” with locally generated funds with no burden on the Government, are already in place. The most recent being the decision by CEB to lower once more the tariff payable for roof top solar PV, obviously with the sanctions of the Cabinet which approves any utterly irrational proposal put up by the Minister of Energy. While this is totally illegal without the approval of the PUCSL as clearly provided for by the Electricity Act No. 36 of 2024 already empowered by the Parliament. The fact that the rooftop solar alone has now contributed 1700 MW of power (over 2000 GWH of energy), which directly replaces the equivalent amount of oil-based generation must be hurting some and hence these moves to destroy the sector. It is quite clear that the Ministry and the CEB are moved by the interests of the oil lobby which has already lost over 2000 MW of generation which would have earned them billions of rupees annually. A conservative estimate would place this over Rs. 100 billion annually is therefore easy to conjecture how the Ministry and the CEB are moved in the present situation.
+
+But then such minor issues like abiding by the laws of the country do not seem to be of concern to the Ministry of Power and the CEB, leaving aside such responsibilities like ensuring the energy security and the consumers’ rights for clean energy at affordable prices, judging from many of their recent actions. What price the President’s promise of due process of law? The people-centric Government.
+
+The CEB does seem to ignore all the laws of the country aided and abetted by a Minister, who does seem to be aware of even the principles enumerated by the NPP manifesto on the energy sector, judging by his actions. Other such moves, which will ensure that no investor even a small scale “Prosumer” now being entirely non bankable.
+
+However, transcending all such regulatory actions already in place, which has made any RE project non bankable, the recently announced for the feed in tariff payable for the vibrant rooftop solar PV systems shown in the given tables is the final nail in the coffin.
+
+The tables show the prevailing tariff for rooftop solar PV, and new announced tariff applicable from 16 June 2025. What is more relevant is the impact of RE on overall cost of generation illustrated in actual 2024 data from CEB. The Q3 and Q4 are even more favourable for RE with enhanced hydro.
+
+In this light the announcement that the World Bank has granted a $ 150 million loan to develop the RE industry has no meaning. There is the strong possibility that the moves are underway to open the door for foreigners to take control of the electricity sector by first destroying the local industry with grave consequences to the National Energy Security.
+
+The President has to take only two clear steps to reverse the present mess
+
+1.Assign the responsibility of achieving the 70% RE target by 2030 with penalties for non-achievement to the CEB.
+
+2.Ensure the provisions of the Electricity Act No. 36 are enacted promptly instead of the present attempt to amend the most progressive provisions of the Act No. 36, based on recommendations cooked up in the most unethical and unconditional manner by a committee ill-suited and ill-equipped to the task
+
+If the President has not the perspicacity of understanding the critical need of these actions, then the recurrence of the events of 2022 are inevitable made a near certainty by Iran deciding to close down the Strait of Homuz as a result of the present turmoil in the Middle East.
+

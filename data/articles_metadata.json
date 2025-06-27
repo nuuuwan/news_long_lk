@@ -1,5 +1,40 @@
 [
   {
+    "title": "President\u2019s aspirations and ground realities",
+    "url": "https://www.ft.lk/columns/President-s-aspirations-and-ground-realities/4-778231",
+    "ut": 1750962903.0,
+    "dir_path_unix": "data/articles/president-s-aspirations.61b71ef0",
+    "time_str_formatted": "12:05 AM, Friday, June 27, 2025"
+  },
+  {
+    "title": "With purpose we strive and succeed",
+    "url": "https://www.ft.lk/columns/With-purpose-we-strive-and-succeed/4-778230",
+    "ut": 1750962553.0,
+    "dir_path_unix": "data/articles/with-purpose-we-strive-a.f2f2eeb5",
+    "time_str_formatted": "11:59 PM, Thursday, June 26, 2025"
+  },
+  {
+    "title": "Chandrika Bandaranaike Kumaratunga: Sri Lanka\u2019s daughter of destiny",
+    "url": "https://www.ft.lk/columns/Chandrika-Bandaranaike-Kumaratunga-Sri-Lanka-s-daughter-of-destiny/4-778228",
+    "ut": 1750960782.0,
+    "dir_path_unix": "data/articles/chandrika-bandaranaike-k.f8343fbe",
+    "time_str_formatted": "11:29 PM, Thursday, June 26, 2025"
+  },
+  {
+    "title": "Renewable energy: More serious focus is needed",
+    "url": "https://www.ft.lk/columns/Renewable-energy-More-serious-focus-is-needed/4-778227",
+    "ut": 1750959595.0,
+    "dir_path_unix": "data/articles/renewable-energy-more-se.ee76cfb6",
+    "time_str_formatted": "11:09 PM, Thursday, June 26, 2025"
+  },
+  {
+    "title": "Israel, stop the genocide; free Palestine; stop US-sponsored imperialist project in Middle-East",
+    "url": "https://www.ft.lk/opinion/Israel-stop-the-genocide-free-Palestine-stop-US-sponsored-imperialist-project-in-Middle-East/14-778225",
+    "ut": 1750959063.0,
+    "dir_path_unix": "data/articles/israel-stop-the-genocide.924c2b48",
+    "time_str_formatted": "11:01 PM, Thursday, June 26, 2025"
+  },
+  {
     "title": "It\u2019s officially summer, and the grid is stressed",
     "url": "https://www.technologyreview.com/2025/06/26/1119358/summer-grid-ai-air-conditioning/",
     "ut": 1750897800.0,
@@ -29,16 +64,16 @@
   },
   {
     "title": "Pink yeast: Natural and effective way to improve Sri Lankan tea",
-    "url": "https://www.ft.lk/opinion/Pink-yeast-Natural-and-effective-way-to-improve-Sri-Lankan-tea/14-778179",
+    "url": "https://www.ft.lk/columns/Pink-yeast-Natural-and-effective-way-to-improve-Sri-Lankan-tea/4-778179",
     "ut": 1750892503.0,
-    "dir_path_unix": "data/articles/pink-yeast-natural-and-e.9150c8b2",
+    "dir_path_unix": "data/articles/pink-yeast-natural-and-e.13d0f270",
     "time_str_formatted": "04:31 AM, Thursday, June 26, 2025"
   },
   {
     "title": "Pink yeast: Natural and effective way to improve Sri Lankan tea",
-    "url": "https://www.ft.lk/columns/Pink-yeast-Natural-and-effective-way-to-improve-Sri-Lankan-tea/4-778179",
+    "url": "https://www.ft.lk/opinion/Pink-yeast-Natural-and-effective-way-to-improve-Sri-Lankan-tea/14-778179",
     "ut": 1750892503.0,
-    "dir_path_unix": "data/articles/pink-yeast-natural-and-e.13d0f270",
+    "dir_path_unix": "data/articles/pink-yeast-natural-and-e.9150c8b2",
     "time_str_formatted": "04:31 AM, Thursday, June 26, 2025"
   },
   {
@@ -141,16 +176,16 @@
   },
   {
     "title": "Sri Lanka 2025\u20132030: Private sector opportunities in changing global economy",
-    "url": "https://www.ft.lk/columns/Sri-Lanka-20252030-Private-sector-opportunities-in-changing-global-economy/4-778082",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-20252030-Private-sector-opportunities-in-changing-global-economy/14-778082",
     "ut": 1750712547.0,
-    "dir_path_unix": "data/articles/sri-lanka-2025-2030-priv.01fddfae",
+    "dir_path_unix": "data/articles/sri-lanka-2025-2030-priv.5696aff4",
     "time_str_formatted": "02:32 AM, Tuesday, June 24, 2025"
   },
   {
     "title": "Sri Lanka 2025\u20132030: Private sector opportunities in changing global economy",
-    "url": "https://www.ft.lk/opinion/Sri-Lanka-20252030-Private-sector-opportunities-in-changing-global-economy/14-778082",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-20252030-Private-sector-opportunities-in-changing-global-economy/4-778082",
     "ut": 1750712547.0,
-    "dir_path_unix": "data/articles/sri-lanka-2025-2030-priv.5696aff4",
+    "dir_path_unix": "data/articles/sri-lanka-2025-2030-priv.01fddfae",
     "time_str_formatted": "02:32 AM, Tuesday, June 24, 2025"
   },
   {
@@ -364,17 +399,17 @@
     "time_str_formatted": "11:08 AM, Thursday, June 19, 2025"
   },
   {
-    "title": "Inside the US power struggle over coal",
-    "url": "https://www.technologyreview.com/2025/06/19/1119027/us-coal-power-struggle/",
-    "ut": 1750293000.0,
-    "dir_path_unix": "data/articles/inside-the-us-power-stru.d77ddb9e",
-    "time_str_formatted": "06:00 AM, Thursday, June 19, 2025"
-  },
-  {
     "title": "Is this the electric grid of the future?",
     "url": "https://www.technologyreview.com/2025/06/19/1118248/electric-grid-future-lincoln-nebraska-utilities-energy-transition/",
     "ut": 1750293000.0,
     "dir_path_unix": "data/articles/is-this-the-electric-gri.afb47b82",
+    "time_str_formatted": "06:00 AM, Thursday, June 19, 2025"
+  },
+  {
+    "title": "Inside the US power struggle over coal",
+    "url": "https://www.technologyreview.com/2025/06/19/1119027/us-coal-power-struggle/",
+    "ut": 1750293000.0,
+    "dir_path_unix": "data/articles/inside-the-us-power-stru.d77ddb9e",
     "time_str_formatted": "06:00 AM, Thursday, June 19, 2025"
   },
   {
@@ -462,17 +497,17 @@
     "time_str_formatted": "12:39 AM, Wednesday, June 18, 2025"
   },
   {
-    "title": "AI copyright anxiety will hold back creativity",
-    "url": "https://www.technologyreview.com/2025/06/17/1118898/ai-copyright-anxiety-will-hold-back-creativity/",
-    "ut": 1750120200.0,
-    "dir_path_unix": "data/articles/ai-copyright-anxiety-wil.a65a56f6",
-    "time_str_formatted": "06:00 AM, Tuesday, June 17, 2025"
-  },
-  {
     "title": "Puerto Rico\u2019s power struggles",
     "url": "https://www.technologyreview.com/2025/06/17/1118216/puerto-rico-power-struggles-future/",
     "ut": 1750120200.0,
     "dir_path_unix": "data/articles/puerto-rico-s-power-stru.9023b957",
+    "time_str_formatted": "06:00 AM, Tuesday, June 17, 2025"
+  },
+  {
+    "title": "AI copyright anxiety will hold back creativity",
+    "url": "https://www.technologyreview.com/2025/06/17/1118898/ai-copyright-anxiety-will-hold-back-creativity/",
+    "ut": 1750120200.0,
+    "dir_path_unix": "data/articles/ai-copyright-anxiety-wil.a65a56f6",
     "time_str_formatted": "06:00 AM, Tuesday, June 17, 2025"
   },
   {
@@ -722,16 +757,16 @@
   },
   {
     "title": "Electricity Act amendments: Reversing reform",
-    "url": "https://www.ft.lk/opinion/Electricity-Act-amendments-Reversing-reform/14-777559",
+    "url": "https://www.ft.lk/columns/Electricity-Act-amendments-Reversing-reform/4-777559",
     "ut": 1749581504.0,
-    "dir_path_unix": "data/articles/electricity-act-amendmen.f536c475",
+    "dir_path_unix": "data/articles/electricity-act-amendmen.90df2512",
     "time_str_formatted": "12:21 AM, Wednesday, June 11, 2025"
   },
   {
     "title": "Electricity Act amendments: Reversing reform",
-    "url": "https://www.ft.lk/columns/Electricity-Act-amendments-Reversing-reform/4-777559",
+    "url": "https://www.ft.lk/opinion/Electricity-Act-amendments-Reversing-reform/14-777559",
     "ut": 1749581504.0,
-    "dir_path_unix": "data/articles/electricity-act-amendmen.90df2512",
+    "dir_path_unix": "data/articles/electricity-act-amendmen.f536c475",
     "time_str_formatted": "12:21 AM, Wednesday, June 11, 2025"
   },
   {
@@ -1022,17 +1057,17 @@
     "time_str_formatted": "04:21 AM, Wednesday, June 04, 2025"
   },
   {
-    "title": "Inside the effort to tally AI\u2019s energy appetite",
-    "url": "https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/",
-    "ut": 1748907000.0,
-    "dir_path_unix": "data/articles/inside-the-effort-to-tal.1643a97b",
-    "time_str_formatted": "05:00 AM, Tuesday, June 03, 2025"
-  },
-  {
     "title": "Inside the tedious effort to tally AI\u2019s energy appetite",
     "url": "https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/",
     "ut": 1748907000.0,
     "dir_path_unix": "data/articles/inside-the-tedious-effor.1643a97b",
+    "time_str_formatted": "05:00 AM, Tuesday, June 03, 2025"
+  },
+  {
+    "title": "Inside the effort to tally AI\u2019s energy appetite",
+    "url": "https://www.technologyreview.com/2025/06/03/1117685/inside-the-tedious-effort-to-tally-ais-energy-appetite/",
+    "ut": 1748907000.0,
+    "dir_path_unix": "data/articles/inside-the-effort-to-tal.1643a97b",
     "time_str_formatted": "05:00 AM, Tuesday, June 03, 2025"
   },
   {
@@ -1449,17 +1484,17 @@
     "time_str_formatted": "11:25 PM, Friday, May 23, 2025"
   },
   {
-    "title": "Meet Cathy Tie, Bride of \u201cChina\u2019s Frankenstein\u201d",
-    "url": "https://www.technologyreview.com/2025/05/23/1117373/cathy-tie-he-jiankui-china-crispr-x-twitter-feed/",
-    "ut": 1747956600.0,
-    "dir_path_unix": "data/articles/meet-cathy-tie-bride-of.5b0841fe",
-    "time_str_formatted": "05:00 AM, Friday, May 23, 2025"
-  },
-  {
     "title": "The FDA plans to limit access to covid vaccines. Here\u2019s why that\u2019s not all bad.",
     "url": "https://www.technologyreview.com/2025/05/23/1117329/fda-limit-access-covid-vaccines/",
     "ut": 1747956600.0,
     "dir_path_unix": "data/articles/the-fda-plans-to-limit-a.3134eead",
+    "time_str_formatted": "05:00 AM, Friday, May 23, 2025"
+  },
+  {
+    "title": "Meet Cathy Tie, Bride of \u201cChina\u2019s Frankenstein\u201d",
+    "url": "https://www.technologyreview.com/2025/05/23/1117373/cathy-tie-he-jiankui-china-crispr-x-twitter-feed/",
+    "ut": 1747956600.0,
+    "dir_path_unix": "data/articles/meet-cathy-tie-bride-of.5b0841fe",
     "time_str_formatted": "05:00 AM, Friday, May 23, 2025"
   },
   {
@@ -1589,27 +1624,6 @@
     "time_str_formatted": "06:00 PM, Tuesday, May 20, 2025"
   },
   {
-    "title": "Everything you need to know about estimating AI\u2019s energy and emissions burden",
-    "url": "https://www.technologyreview.com/2025/05/20/1116331/ai-energy-demand-methodology/",
-    "ut": 1747697400.0,
-    "dir_path_unix": "data/articles/everything-you-need-to-k.6020cf71",
-    "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
-  },
-  {
-    "title": "AI could keep us dependent on natural gas for decades to come",
-    "url": "https://www.technologyreview.com/2025/05/20/1116272/ai-natural-gas-data-centers-energy-power-plants/",
-    "ut": 1747697400.0,
-    "dir_path_unix": "data/articles/ai-could-keep-us-depende.db4fddb0",
-    "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
-  },
-  {
-    "title": "The data center boom in the desert",
-    "url": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/",
-    "ut": 1747697400.0,
-    "dir_path_unix": "data/articles/the-data-center-boom-in.e811dc3d",
-    "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
-  },
-  {
     "title": "Four reasons to be optimistic about AI\u2019s energy usage",
     "url": "https://www.technologyreview.com/2025/05/20/1116337/ai-energy-use-optimism/",
     "ut": 1747697400.0,
@@ -1624,10 +1638,31 @@
     "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
   },
   {
+    "title": "The data center boom in the desert",
+    "url": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/",
+    "ut": 1747697400.0,
+    "dir_path_unix": "data/articles/the-data-center-boom-in.e811dc3d",
+    "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
+  },
+  {
+    "title": "Everything you need to know about estimating AI\u2019s energy and emissions burden",
+    "url": "https://www.technologyreview.com/2025/05/20/1116331/ai-energy-demand-methodology/",
+    "ut": 1747697400.0,
+    "dir_path_unix": "data/articles/everything-you-need-to-k.6020cf71",
+    "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
+  },
+  {
     "title": "Can nuclear power really fuel the rise of AI?",
     "url": "https://www.technologyreview.com/2025/05/20/1116339/ai-nuclear-power-energy-reactors/",
     "ut": 1747697400.0,
     "dir_path_unix": "data/articles/can-nuclear-power-really.535afbd1",
+    "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
+  },
+  {
+    "title": "AI could keep us dependent on natural gas for decades to come",
+    "url": "https://www.technologyreview.com/2025/05/20/1116272/ai-natural-gas-data-centers-energy-power-plants/",
+    "ut": 1747697400.0,
+    "dir_path_unix": "data/articles/ai-could-keep-us-depende.db4fddb0",
     "time_str_formatted": "05:00 AM, Tuesday, May 20, 2025"
   },
   {
@@ -1995,10 +2030,10 @@
     "time_str_formatted": "12:58 PM, Thursday, May 08, 2025"
   },
   {
-    "title": "Did solar power cause Spain\u2019s blackout?",
+    "title": "What Spain\u2019s blackout says about the grid",
     "url": "https://www.technologyreview.com/2025/05/08/1116166/spain-blackout-grid/",
     "ut": 1746660600.0,
-    "dir_path_unix": "data/articles/did-solar-power-cause-sp.f69b11f8",
+    "dir_path_unix": "data/articles/what-spain-s-blackout-sa.f69b11f8",
     "time_str_formatted": "05:00 AM, Thursday, May 08, 2025"
   },
   {
@@ -2009,10 +2044,10 @@
     "time_str_formatted": "05:00 AM, Thursday, May 08, 2025"
   },
   {
-    "title": "What Spain\u2019s blackout says about the grid",
+    "title": "Did solar power cause Spain\u2019s blackout?",
     "url": "https://www.technologyreview.com/2025/05/08/1116166/spain-blackout-grid/",
     "ut": 1746660600.0,
-    "dir_path_unix": "data/articles/what-spain-s-blackout-sa.f69b11f8",
+    "dir_path_unix": "data/articles/did-solar-power-cause-sp.f69b11f8",
     "time_str_formatted": "05:00 AM, Thursday, May 08, 2025"
   },
   {
@@ -2821,13 +2856,6 @@
     "time_str_formatted": "06:00 AM, Monday, April 21, 2025"
   },
   {
-    "title": "The quest to build islands with ocean currents in the Maldives",
-    "url": "https://www.technologyreview.com/2025/04/21/1114759/maldives-erosion-climate-dredging/",
-    "ut": 1745191800.0,
-    "dir_path_unix": "data/articles/the-quest-to-build-islan.e6dfded4",
-    "time_str_formatted": "05:00 AM, Monday, April 21, 2025"
-  },
-  {
     "title": "$8 billion of US climate tech projects have been canceled so far in 2025",
     "url": "https://www.technologyreview.com/2025/04/21/1115511/canceled-climate-tech-projects/",
     "ut": 1745191800.0,
@@ -2839,6 +2867,13 @@
     "url": "https://www.technologyreview.com/2025/04/21/1115518/yahoo-will-give-millions-to-a-settlement-fund-for-chinese-dissidents-decades-after-exposing-user-data/",
     "ut": 1745191800.0,
     "dir_path_unix": "data/articles/yahoo-will-give-millions.b6addfab",
+    "time_str_formatted": "05:00 AM, Monday, April 21, 2025"
+  },
+  {
+    "title": "The quest to build islands with ocean currents in the Maldives",
+    "url": "https://www.technologyreview.com/2025/04/21/1114759/maldives-erosion-climate-dredging/",
+    "ut": 1745191800.0,
+    "dir_path_unix": "data/articles/the-quest-to-build-islan.e6dfded4",
     "time_str_formatted": "05:00 AM, Monday, April 21, 2025"
   },
   {
@@ -2905,17 +2940,17 @@
     "time_str_formatted": "05:01 AM, Friday, April 18, 2025"
   },
   {
-    "title": "Longevity clinics around the world are selling unproven treatments",
-    "url": "https://www.technologyreview.com/2025/04/18/1115372/longevity-clinics-selling-unproven-treatments/",
-    "ut": 1744932600.0,
-    "dir_path_unix": "data/articles/longevity-clinics-around.0e4817ce",
-    "time_str_formatted": "05:00 AM, Friday, April 18, 2025"
-  },
-  {
     "title": "The world\u2019s biggest space-based radar will measure Earth\u2019s forests from orbit",
     "url": "https://www.technologyreview.com/2025/04/18/1115388/esa-airbus-biomass-mission-measure-earths-forests-from-orbit/",
     "ut": 1744932600.0,
     "dir_path_unix": "data/articles/the-world-s-biggest-spac.b6c69e4e",
+    "time_str_formatted": "05:00 AM, Friday, April 18, 2025"
+  },
+  {
+    "title": "Longevity clinics around the world are selling unproven treatments",
+    "url": "https://www.technologyreview.com/2025/04/18/1115372/longevity-clinics-selling-unproven-treatments/",
+    "ut": 1744932600.0,
+    "dir_path_unix": "data/articles/longevity-clinics-around.0e4817ce",
     "time_str_formatted": "05:00 AM, Friday, April 18, 2025"
   },
   {
@@ -3080,17 +3115,17 @@
     "time_str_formatted": "06:00 AM, Tuesday, April 15, 2025"
   },
   {
-    "title": "Phase two of military AI has arrived",
-    "url": "https://www.technologyreview.com/2025/04/15/1115078/phase-two-of-military-ai-has-arrived/",
-    "ut": 1744673400.0,
-    "dir_path_unix": "data/articles/phase-two-of-military-ai.ce706668",
-    "time_str_formatted": "05:00 AM, Tuesday, April 15, 2025"
-  },
-  {
     "title": "How the federal government is tracking changes in the supply of street drugs",
     "url": "https://www.technologyreview.com/2025/04/15/1114362/nist-harm-reduction-prevention-street-drugs/",
     "ut": 1744673400.0,
     "dir_path_unix": "data/articles/how-the-federal-governme.c209204b",
+    "time_str_formatted": "05:00 AM, Tuesday, April 15, 2025"
+  },
+  {
+    "title": "Phase two of military AI has arrived",
+    "url": "https://www.technologyreview.com/2025/04/15/1115078/phase-two-of-military-ai-has-arrived/",
+    "ut": 1744673400.0,
+    "dir_path_unix": "data/articles/phase-two-of-military-ai.ce706668",
     "time_str_formatted": "05:00 AM, Tuesday, April 15, 2025"
   },
   {
@@ -3836,17 +3871,17 @@
     "time_str_formatted": "09:17 PM, Wednesday, March 26, 2025"
   },
   {
-    "title": "China built hundreds of AI data centers to catch the AI boom. Now many stand unused.",
-    "url": "https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/",
-    "ut": 1742945400.0,
-    "dir_path_unix": "data/articles/china-built-hundreds-of.df5f774d",
-    "time_str_formatted": "05:00 AM, Wednesday, March 26, 2025"
-  },
-  {
     "title": "The AI Hype Index: DeepSeek mania, Israel\u2019s spying tool, and cheating at chess",
     "url": "https://www.technologyreview.com/2025/03/26/1113694/ai-hype-index-artificial-intelligence-openai-manus-doge/",
     "ut": 1742945400.0,
     "dir_path_unix": "data/articles/the-ai-hype-index-deepse.1dc6c588",
+    "time_str_formatted": "05:00 AM, Wednesday, March 26, 2025"
+  },
+  {
+    "title": "China built hundreds of AI data centers to catch the AI boom. Now many stand unused.",
+    "url": "https://www.technologyreview.com/2025/03/26/1113802/china-ai-data-centers-unused/",
+    "ut": 1742945400.0,
+    "dir_path_unix": "data/articles/china-built-hundreds-of.df5f774d",
     "time_str_formatted": "05:00 AM, Wednesday, March 26, 2025"
   },
   {
@@ -4095,17 +4130,17 @@
     "time_str_formatted": "05:21 AM, Friday, March 21, 2025"
   },
   {
-    "title": "Autopsies can reveal intimate health details. Should they be kept private?",
-    "url": "https://www.technologyreview.com/2025/03/21/1113549/autopsies-reveal-intimate-health-details-kept-private/",
-    "ut": 1742513400.0,
-    "dir_path_unix": "data/articles/autopsies-can-reveal-int.7fa233e0",
-    "time_str_formatted": "05:00 AM, Friday, March 21, 2025"
-  },
-  {
     "title": "Inside a new quest to save the \u201cdoomsday glacier\u201d",
     "url": "https://www.technologyreview.com/2025/03/21/1113396/inside-a-new-quest-to-save-the-doomsday-glacier/",
     "ut": 1742513400.0,
     "dir_path_unix": "data/articles/inside-a-new-quest-to-sa.777861ed",
+    "time_str_formatted": "05:00 AM, Friday, March 21, 2025"
+  },
+  {
+    "title": "Autopsies can reveal intimate health details. Should they be kept private?",
+    "url": "https://www.technologyreview.com/2025/03/21/1113549/autopsies-reveal-intimate-health-details-kept-private/",
+    "ut": 1742513400.0,
+    "dir_path_unix": "data/articles/autopsies-can-reveal-int.7fa233e0",
     "time_str_formatted": "05:00 AM, Friday, March 21, 2025"
   },
   {
@@ -4180,16 +4215,16 @@
   },
   {
     "title": "NCPA leads effort to train journalists on ethical coverage of child abuse cases",
-    "url": "https://www.ft.lk/opinion/NCPA-leads-effort-to-train-journalists-on-ethical-coverage-of-child-abuse-cases/14-774450",
+    "url": "https://www.ft.lk/columns/NCPA-leads-effort-to-train-journalists-on-ethical-coverage-of-child-abuse-cases/4-774450",
     "ut": 1742345283.0,
-    "dir_path_unix": "data/articles/ncpa-leads-effort-to-tra.7e891539",
+    "dir_path_unix": "data/articles/ncpa-leads-effort-to-tra.5a266672",
     "time_str_formatted": "06:18 AM, Wednesday, March 19, 2025"
   },
   {
     "title": "NCPA leads effort to train journalists on ethical coverage of child abuse cases",
-    "url": "https://www.ft.lk/columns/NCPA-leads-effort-to-train-journalists-on-ethical-coverage-of-child-abuse-cases/4-774450",
+    "url": "https://www.ft.lk/opinion/NCPA-leads-effort-to-train-journalists-on-ethical-coverage-of-child-abuse-cases/14-774450",
     "ut": 1742345283.0,
-    "dir_path_unix": "data/articles/ncpa-leads-effort-to-tra.5a266672",
+    "dir_path_unix": "data/articles/ncpa-leads-effort-to-tra.7e891539",
     "time_str_formatted": "06:18 AM, Wednesday, March 19, 2025"
   },
   {
@@ -4963,17 +4998,17 @@
     "time_str_formatted": "11:00 AM, Thursday, February 27, 2025"
   },
   {
-    "title": "Amazon\u2019s first quantum computing chip makes its debut",
-    "url": "https://www.technologyreview.com/2025/02/27/1112560/amazon-quantum-computing-chip-makes-its-debut/",
-    "ut": 1740616200.0,
-    "dir_path_unix": "data/articles/amazon-s-first-quantum-c.e2fbe41f",
-    "time_str_formatted": "06:00 AM, Thursday, February 27, 2025"
-  },
-  {
     "title": "The best time to stop a battery fire? Before it starts.",
     "url": "https://www.technologyreview.com/2025/02/27/1112556/battery-fire-safety/",
     "ut": 1740616200.0,
     "dir_path_unix": "data/articles/the-best-time-to-stop-a.2c55d4a5",
+    "time_str_formatted": "06:00 AM, Thursday, February 27, 2025"
+  },
+  {
+    "title": "Amazon\u2019s first quantum computing chip makes its debut",
+    "url": "https://www.technologyreview.com/2025/02/27/1112560/amazon-quantum-computing-chip-makes-its-debut/",
+    "ut": 1740616200.0,
+    "dir_path_unix": "data/articles/amazon-s-first-quantum-c.e2fbe41f",
     "time_str_formatted": "06:00 AM, Thursday, February 27, 2025"
   },
   {
@@ -5383,10 +5418,10 @@
     "time_str_formatted": "02:27 AM, Wednesday, February 19, 2025"
   },
   {
-    "title": "How to have a child in the digital age",
-    "url": "https://www.technologyreview.com/2025/02/18/1111419/amanda-hess-second-life-online-internet-targeted-ads-period-tracking/",
+    "title": "Inside China\u2019s electric-vehicle-to-humanoid-robot pivot",
+    "url": "https://www.technologyreview.com/2025/02/18/1111964/inside-chinas-electric-vehicle-to-humanoid-robot-pivot/",
     "ut": 1739835000.0,
-    "dir_path_unix": "data/articles/how-to-have-a-child-in-t.c18e711b",
+    "dir_path_unix": "data/articles/inside-china-s-electric.37675e9a",
     "time_str_formatted": "05:00 AM, Tuesday, February 18, 2025"
   },
   {
@@ -5397,10 +5432,10 @@
     "time_str_formatted": "05:00 AM, Tuesday, February 18, 2025"
   },
   {
-    "title": "Inside China\u2019s electric-vehicle-to-humanoid-robot pivot",
-    "url": "https://www.technologyreview.com/2025/02/18/1111964/inside-chinas-electric-vehicle-to-humanoid-robot-pivot/",
+    "title": "How to have a child in the digital age",
+    "url": "https://www.technologyreview.com/2025/02/18/1111419/amanda-hess-second-life-online-internet-targeted-ads-period-tracking/",
     "ut": 1739835000.0,
-    "dir_path_unix": "data/articles/inside-china-s-electric.37675e9a",
+    "dir_path_unix": "data/articles/how-to-have-a-child-in-t.c18e711b",
     "time_str_formatted": "05:00 AM, Tuesday, February 18, 2025"
   },
   {
@@ -5607,17 +5642,17 @@
     "time_str_formatted": "05:34 AM, Friday, February 14, 2025"
   },
   {
-    "title": "A woman made her AI voice clone say \u201carse.\u201d Then she got banned.",
-    "url": "https://www.technologyreview.com/2025/02/14/1111900/ai-voice-clone-say-arse-then-banned/",
-    "ut": 1739489400.0,
-    "dir_path_unix": "data/articles/a-woman-made-her-ai-voic.240aea3b",
-    "time_str_formatted": "05:00 AM, Friday, February 14, 2025"
-  },
-  {
     "title": "My sex doll is mad at me: A short story",
     "url": "https://www.technologyreview.com/2025/02/14/1111382/robots-sex-doll-relationships-fiction-speculation-customer-service/",
     "ut": 1739489400.0,
     "dir_path_unix": "data/articles/my-sex-doll-is-mad-at-me.fd13329c",
+    "time_str_formatted": "05:00 AM, Friday, February 14, 2025"
+  },
+  {
+    "title": "A woman made her AI voice clone say \u201carse.\u201d Then she got banned.",
+    "url": "https://www.technologyreview.com/2025/02/14/1111900/ai-voice-clone-say-arse-then-banned/",
+    "ut": 1739489400.0,
+    "dir_path_unix": "data/articles/a-woman-made-her-ai-voic.240aea3b",
     "time_str_formatted": "05:00 AM, Friday, February 14, 2025"
   },
   {
@@ -6041,17 +6076,17 @@
     "time_str_formatted": "05:49 AM, Friday, February 07, 2025"
   },
   {
-    "title": "How the tiny microbes in your mouth could be putting your health at risk",
-    "url": "https://www.technologyreview.com/2025/02/07/1111219/tiny-microbes-in-your-mouth-could-be-putting-your-health-at-risk/",
-    "ut": 1738884600.0,
-    "dir_path_unix": "data/articles/how-the-tiny-microbes-in.f6cadcb6",
-    "time_str_formatted": "05:00 AM, Friday, February 07, 2025"
-  },
-  {
     "title": "From COBOL to chaos: Elon Musk, DOGE, and the Evil Housekeeper Problem",
     "url": "https://www.technologyreview.com/2025/02/07/1111283/elon-musk-doge-and-the-evil-housekeeper-problem-government-technology/",
     "ut": 1738884600.0,
     "dir_path_unix": "data/articles/from-cobol-to-chaos-elon.198d923d",
+    "time_str_formatted": "05:00 AM, Friday, February 07, 2025"
+  },
+  {
+    "title": "How the tiny microbes in your mouth could be putting your health at risk",
+    "url": "https://www.technologyreview.com/2025/02/07/1111219/tiny-microbes-in-your-mouth-could-be-putting-your-health-at-risk/",
+    "ut": 1738884600.0,
+    "dir_path_unix": "data/articles/how-the-tiny-microbes-in.f6cadcb6",
     "time_str_formatted": "05:00 AM, Friday, February 07, 2025"
   },
   {
@@ -7168,17 +7203,17 @@
     "time_str_formatted": "11:10 PM, Tuesday, January 21, 2025"
   },
   {
-    "title": "OpenAI has upped its lobbying efforts nearly sevenfold",
-    "url": "https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/",
-    "ut": 1737466866.0,
-    "dir_path_unix": "data/articles/openai-has-upped-its-lob.2b3f84b9",
-    "time_str_formatted": "07:11 PM, Tuesday, January 21, 2025"
-  },
-  {
     "title": "OpenAI ups its lobbying efforts nearly seven-fold",
     "url": "https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/",
     "ut": 1737466866.0,
     "dir_path_unix": "data/articles/openai-ups-its-lobbying.2b3f84b9",
+    "time_str_formatted": "07:11 PM, Tuesday, January 21, 2025"
+  },
+  {
+    "title": "OpenAI has upped its lobbying efforts nearly sevenfold",
+    "url": "https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/",
+    "ut": 1737466866.0,
+    "dir_path_unix": "data/articles/openai-has-upped-its-lob.2b3f84b9",
     "time_str_formatted": "07:11 PM, Tuesday, January 21, 2025"
   },
   {
@@ -8463,17 +8498,17 @@
     "time_str_formatted": "08:00 AM, Friday, January 03, 2025"
   },
   {
-    "title": "Stem-cell therapies that work: 10 Breakthrough Technologies 2025",
-    "url": "https://www.technologyreview.com/2025/01/03/1108944/stem-cell-therapies-epilepsy-type-1-diabetes-breakthrough-technologies-2025/",
-    "ut": 1735871400.0,
-    "dir_path_unix": "data/articles/stem-cell-therapies-that.d0c24a48",
-    "time_str_formatted": "08:00 AM, Friday, January 03, 2025"
-  },
-  {
     "title": "10 Breakthrough Technologies 2025",
     "url": "https://www.technologyreview.com/2025/01/03/1109178/10-breakthrough-technologies-2025/",
     "ut": 1735871400.0,
     "dir_path_unix": "data/articles/10-breakthrough-technolo.bff71104",
+    "time_str_formatted": "08:00 AM, Friday, January 03, 2025"
+  },
+  {
+    "title": "Stem-cell therapies that work: 10 Breakthrough Technologies 2025",
+    "url": "https://www.technologyreview.com/2025/01/03/1108944/stem-cell-therapies-epilepsy-type-1-diabetes-breakthrough-technologies-2025/",
+    "ut": 1735871400.0,
+    "dir_path_unix": "data/articles/stem-cell-therapies-that.d0c24a48",
     "time_str_formatted": "08:00 AM, Friday, January 03, 2025"
   },
   {
@@ -9121,13 +9156,6 @@
     "time_str_formatted": "06:12 AM, Wednesday, December 25, 2024"
   },
   {
-    "title": "Revisiting a year of Roundtables, MIT Technology Review\u2019s subscriber-only events",
-    "url": "https://www.technologyreview.com/2024/12/25/1109371/revisiting-a-year-of-roundtables-mit-technology-reviews-subscriber-only-events/",
-    "ut": 1735083000.0,
-    "dir_path_unix": "data/articles/revisiting-a-year-of-rou.53441100",
-    "time_str_formatted": "05:00 AM, Wednesday, December 25, 2024"
-  },
-  {
     "title": "These stunning images trace ships\u2019 routes as they move",
     "url": "https://www.technologyreview.com/2024/12/25/1108508/public-data-ship-movements-data-visualization/",
     "ut": 1735083000.0,
@@ -9135,17 +9163,24 @@
     "time_str_formatted": "05:00 AM, Wednesday, December 25, 2024"
   },
   {
-    "title": "A roller-coaster of a year and finally hope Blame \u2018Seeya\u2019 that country is out of restricted default",
-    "url": "https://www.dailymirror.lk/opinion/A-roller-coaster-of-a-year-and-finally-hope-Blame-Seeya-that-country-is-out-of-restricted-default/172-298826",
-    "ut": 1735064612.0,
-    "dir_path_unix": "data/articles/a-roller-coaster-of-a-ye.1e099d34",
-    "time_str_formatted": "11:53 PM, Tuesday, December 24, 2024"
+    "title": "Revisiting a year of Roundtables, MIT Technology Review\u2019s subscriber-only events",
+    "url": "https://www.technologyreview.com/2024/12/25/1109371/revisiting-a-year-of-roundtables-mit-technology-reviews-subscriber-only-events/",
+    "ut": 1735083000.0,
+    "dir_path_unix": "data/articles/revisiting-a-year-of-rou.53441100",
+    "time_str_formatted": "05:00 AM, Wednesday, December 25, 2024"
   },
   {
     "title": "A roller-coaster of a year and finally hope",
     "url": "https://www.dailymirror.lk/opinion/A-roller-coaster-of-a-year-and-finally-hope/172-298826",
     "ut": 1735064612.0,
     "dir_path_unix": "data/articles/a-roller-coaster-of-a-ye.1de69262",
+    "time_str_formatted": "11:53 PM, Tuesday, December 24, 2024"
+  },
+  {
+    "title": "A roller-coaster of a year and finally hope Blame \u2018Seeya\u2019 that country is out of restricted default",
+    "url": "https://www.dailymirror.lk/opinion/A-roller-coaster-of-a-year-and-finally-hope-Blame-Seeya-that-country-is-out-of-restricted-default/172-298826",
+    "ut": 1735064612.0,
+    "dir_path_unix": "data/articles/a-roller-coaster-of-a-ye.1e099d34",
     "time_str_formatted": "11:53 PM, Tuesday, December 24, 2024"
   },
   {
@@ -9520,13 +9555,6 @@
     "time_str_formatted": "05:39 AM, Friday, December 20, 2024"
   },
   {
-    "title": "Why childhood vaccines are a public health success story",
-    "url": "https://www.technologyreview.com/2024/12/20/1109087/childhood-vaccines-public-health-success/",
-    "ut": 1734651000.0,
-    "dir_path_unix": "data/articles/why-childhood-vaccines-a.3a04c0b9",
-    "time_str_formatted": "05:00 AM, Friday, December 20, 2024"
-  },
-  {
     "title": "The next generation of neural networks could live in hardware",
     "url": "https://www.technologyreview.com/2024/12/20/1109183/the-next-generation-of-neural-networks-could-live-in-hardware/",
     "ut": 1734651000.0,
@@ -9534,17 +9562,24 @@
     "time_str_formatted": "05:00 AM, Friday, December 20, 2024"
   },
   {
-    "title": "Will life end at 40 for comatose SAARC?",
-    "url": "https://www.dailymirror.lk/opinion/Will-life-end-at-40-for-comatose-SAARC/172-298522",
-    "ut": 1734642002.0,
-    "dir_path_unix": "data/articles/will-life-end-at-40-for.03da21ad",
-    "time_str_formatted": "02:30 AM, Friday, December 20, 2024"
+    "title": "Why childhood vaccines are a public health success story",
+    "url": "https://www.technologyreview.com/2024/12/20/1109087/childhood-vaccines-public-health-success/",
+    "ut": 1734651000.0,
+    "dir_path_unix": "data/articles/why-childhood-vaccines-a.3a04c0b9",
+    "time_str_formatted": "05:00 AM, Friday, December 20, 2024"
   },
   {
     "title": "Will life end at 40 for comatose SAARC?",
     "url": "https://www.dailymirror.lk/plus/Will-life-end-at-40-for-comatose-SAARC/352-298522",
     "ut": 1734642002.0,
     "dir_path_unix": "data/articles/will-life-end-at-40-for.96a309fb",
+    "time_str_formatted": "02:30 AM, Friday, December 20, 2024"
+  },
+  {
+    "title": "Will life end at 40 for comatose SAARC?",
+    "url": "https://www.dailymirror.lk/opinion/Will-life-end-at-40-for-comatose-SAARC/172-298522",
+    "ut": 1734642002.0,
+    "dir_path_unix": "data/articles/will-life-end-at-40-for.03da21ad",
     "time_str_formatted": "02:30 AM, Friday, December 20, 2024"
   },
   {
@@ -9724,16 +9759,16 @@
   },
   {
     "title": "AMAN Dialogue 2025 aims to foster collaboration among maritime nations - Adm. Ashraf",
-    "url": "https://www.dailymirror.lk/hard-talk/AMAN-Dialogue-2025-aims-to-foster-collaboration-among-maritime-nations-Adm-Ashraf/334-298344",
+    "url": "https://www.dailymirror.lk/plus/AMAN-Dialogue-2025-aims-to-foster-collaboration-among-maritime-nations-Adm-Ashraf/352-298344",
     "ut": 1734456906.0,
-    "dir_path_unix": "data/articles/aman-dialogue-2025-aims.dd908450",
+    "dir_path_unix": "data/articles/aman-dialogue-2025-aims.25eb15f1",
     "time_str_formatted": "11:05 PM, Tuesday, December 17, 2024"
   },
   {
     "title": "AMAN Dialogue 2025 aims to foster collaboration among maritime nations - Adm. Ashraf",
-    "url": "https://www.dailymirror.lk/plus/AMAN-Dialogue-2025-aims-to-foster-collaboration-among-maritime-nations-Adm-Ashraf/352-298344",
+    "url": "https://www.dailymirror.lk/hard-talk/AMAN-Dialogue-2025-aims-to-foster-collaboration-among-maritime-nations-Adm-Ashraf/334-298344",
     "ut": 1734456906.0,
-    "dir_path_unix": "data/articles/aman-dialogue-2025-aims.25eb15f1",
+    "dir_path_unix": "data/articles/aman-dialogue-2025-aims.dd908450",
     "time_str_formatted": "11:05 PM, Tuesday, December 17, 2024"
   },
   {
@@ -10808,17 +10843,17 @@
     "time_str_formatted": "01:05 PM, Tuesday, December 03, 2024"
   },
   {
-    "title": "The search startup trying to turn the web into a database",
-    "url": "https://www.technologyreview.com/2024/12/03/1107726/the-startup-trying-to-turn-the-web-into-a-database/",
-    "ut": 1733211137.0,
-    "dir_path_unix": "data/articles/the-search-startup-tryin.c9f1477e",
-    "time_str_formatted": "01:02 PM, Tuesday, December 03, 2024"
-  },
-  {
     "title": "The startup trying to turn the web into a database",
     "url": "https://www.technologyreview.com/2024/12/03/1107726/the-startup-trying-to-turn-the-web-into-a-database/",
     "ut": 1733211137.0,
     "dir_path_unix": "data/articles/the-startup-trying-to-tu.c9f1477e",
+    "time_str_formatted": "01:02 PM, Tuesday, December 03, 2024"
+  },
+  {
+    "title": "The search startup trying to turn the web into a database",
+    "url": "https://www.technologyreview.com/2024/12/03/1107726/the-startup-trying-to-turn-the-web-into-a-database/",
+    "ut": 1733211137.0,
+    "dir_path_unix": "data/articles/the-search-startup-tryin.c9f1477e",
     "time_str_formatted": "01:02 PM, Tuesday, December 03, 2024"
   },
   {
@@ -11053,13 +11088,6 @@
     "time_str_formatted": "01:05 PM, Friday, November 29, 2024"
   },
   {
-    "title": "The moon is just the beginning for this waterless concrete",
-    "url": "https://www.technologyreview.com/2024/11/29/1107536/moon-beginning-waterless-concrete/",
-    "ut": 1732836600.0,
-    "dir_path_unix": "data/articles/the-moon-is-just-the-beg.336c3d20",
-    "time_str_formatted": "05:00 AM, Friday, November 29, 2024"
-  },
-  {
     "title": "The risk of a bird flu pandemic is rising",
     "url": "https://www.technologyreview.com/2024/11/29/1107552/risk-of-bird-flu-pandemic-rising/",
     "ut": 1732836600.0,
@@ -11067,17 +11095,24 @@
     "time_str_formatted": "05:00 AM, Friday, November 29, 2024"
   },
   {
-    "title": "\u201cOurs isn\u2019t a leftist Govt, but one of leftist, democratic and progressive forces\u2019\u2019- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna",
-    "url": "https://www.dailymirror.lk/plus/Ours-isnt-a-leftist-Govt-but-one-of-leftist-democratic-and-progressive-forces-Tilvin-Silva-General-Secretary-of-Janatha-Vimukthi-Peramuna/352-297019",
-    "ut": 1732830984.0,
-    "dir_path_unix": "data/articles/ours-isn-t-a-leftist-go.16ab84f6",
-    "time_str_formatted": "03:26 AM, Friday, November 29, 2024"
+    "title": "The moon is just the beginning for this waterless concrete",
+    "url": "https://www.technologyreview.com/2024/11/29/1107536/moon-beginning-waterless-concrete/",
+    "ut": 1732836600.0,
+    "dir_path_unix": "data/articles/the-moon-is-just-the-beg.336c3d20",
+    "time_str_formatted": "05:00 AM, Friday, November 29, 2024"
   },
   {
     "title": "\u201cOurs isn\u2019t a leftist Govt, but one of leftist, democratic and progressive forces\u2019\u2019- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna",
     "url": "https://www.dailymirror.lk/hard-talk/Ours-isnt-a-leftist-Govt-but-one-of-leftist-democratic-and-progressive-forces-Tilvin-Silva-General-Secretary-of-Janatha-Vimukthi-Peramuna/334-297019",
     "ut": 1732830984.0,
     "dir_path_unix": "data/articles/ours-isn-t-a-leftist-go.d603be59",
+    "time_str_formatted": "03:26 AM, Friday, November 29, 2024"
+  },
+  {
+    "title": "\u201cOurs isn\u2019t a leftist Govt, but one of leftist, democratic and progressive forces\u2019\u2019- Tilvin Silva General Secretary of Janatha Vimukthi Peramuna",
+    "url": "https://www.dailymirror.lk/plus/Ours-isnt-a-leftist-Govt-but-one-of-leftist-democratic-and-progressive-forces-Tilvin-Silva-General-Secretary-of-Janatha-Vimukthi-Peramuna/352-297019",
+    "ut": 1732830984.0,
+    "dir_path_unix": "data/articles/ours-isn-t-a-leftist-go.16ab84f6",
     "time_str_formatted": "03:26 AM, Friday, November 29, 2024"
   },
   {
@@ -11326,17 +11361,17 @@
     "time_str_formatted": "09:17 AM, Tuesday, November 26, 2024"
   },
   {
-    "title": "The way we measure progress in AI is terrible",
-    "url": "https://www.technologyreview.com/2024/11/26/1107346/the-way-we-measure-progress-in-ai-is-terrible/",
-    "ut": 1732577400.0,
-    "dir_path_unix": "data/articles/the-way-we-measure-progr.58c9f574",
-    "time_str_formatted": "05:00 AM, Tuesday, November 26, 2024"
-  },
-  {
     "title": "We need to start wrestling with the ethics of AI agents",
     "url": "https://www.technologyreview.com/2024/11/26/1107309/we-need-to-start-wrestling-with-the-ethics-of-ai-agents/",
     "ut": 1732577400.0,
     "dir_path_unix": "data/articles/we-need-to-start-wrestli.a3110883",
+    "time_str_formatted": "05:00 AM, Tuesday, November 26, 2024"
+  },
+  {
+    "title": "The way we measure progress in AI is terrible",
+    "url": "https://www.technologyreview.com/2024/11/26/1107346/the-way-we-measure-progress-in-ai-is-terrible/",
+    "ut": 1732577400.0,
+    "dir_path_unix": "data/articles/the-way-we-measure-progr.58c9f574",
     "time_str_formatted": "05:00 AM, Tuesday, November 26, 2024"
   },
   {
@@ -11964,16 +11999,16 @@
   },
   {
     "title": "Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara",
-    "url": "https://www.ft.lk/opinion/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/14-769380",
+    "url": "https://www.ft.lk/columns/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/4-769380",
     "ut": 1731950859.0,
-    "dir_path_unix": "data/articles/arugam-bay-is-not-gaza-a.39884684",
+    "dir_path_unix": "data/articles/arugam-bay-is-not-gaza-a.24a6c506",
     "time_str_formatted": "10:57 PM, Monday, November 18, 2024"
   },
   {
     "title": "Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara",
-    "url": "https://www.ft.lk/columns/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/4-769380",
+    "url": "https://www.ft.lk/opinion/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/14-769380",
     "ut": 1731950859.0,
-    "dir_path_unix": "data/articles/arugam-bay-is-not-gaza-a.24a6c506",
+    "dir_path_unix": "data/articles/arugam-bay-is-not-gaza-a.39884684",
     "time_str_formatted": "10:57 PM, Monday, November 18, 2024"
   },
   {
@@ -12776,30 +12811,30 @@
   },
   {
     "title": "Easter Sunday attacks:  Govt should be given enough time - Kavinda Jayawardena",
-    "url": "https://www.dailymirror.lk/recomended-news/Easter-Sunday-attacks-Govt-should-be-given-enough-time-Kavinda-Jayawardena/277-295517",
-    "ut": 1731003058.0,
-    "dir_path_unix": "data/articles/easter-sunday-attacks-go.9fdf95da",
-    "time_str_formatted": "11:40 PM, Thursday, November 07, 2024"
-  },
-  {
-    "title": "Easter Sunday attacks:  Govt should be given enough time - Kavinda Jayawardena",
     "url": "https://www.dailymirror.lk/hard-talk/Easter-Sunday-attacks-Govt-should-be-given-enough-time-Kavinda-Jayawardena/334-295517",
     "ut": 1731003058.0,
     "dir_path_unix": "data/articles/easter-sunday-attacks-go.b8723994",
     "time_str_formatted": "11:40 PM, Thursday, November 07, 2024"
   },
   {
-    "title": "President wants to suppress Easter Sunday attack reports with ulterior motives- Udaya Gammanpila",
-    "url": "https://www.dailymirror.lk/hard-talk/President-wants-to-suppress-Easter-Sunday-attack-reports-with-ulterior-motives-Udaya-Gammanpila/334-295516",
-    "ut": 1731002663.0,
-    "dir_path_unix": "data/articles/president-wants-to-suppr.ce711cbc",
-    "time_str_formatted": "11:34 PM, Thursday, November 07, 2024"
+    "title": "Easter Sunday attacks:  Govt should be given enough time - Kavinda Jayawardena",
+    "url": "https://www.dailymirror.lk/recomended-news/Easter-Sunday-attacks-Govt-should-be-given-enough-time-Kavinda-Jayawardena/277-295517",
+    "ut": 1731003058.0,
+    "dir_path_unix": "data/articles/easter-sunday-attacks-go.9fdf95da",
+    "time_str_formatted": "11:40 PM, Thursday, November 07, 2024"
   },
   {
     "title": "President wants to suppress Easter Sunday attack reports with ulterior motives- Udaya Gammanpila",
     "url": "https://www.dailymirror.lk/recomended-news/President-wants-to-suppress-Easter-Sunday-attack-reports-with-ulterior-motives-Udaya-Gammanpila/277-295516",
     "ut": 1731002663.0,
     "dir_path_unix": "data/articles/president-wants-to-suppr.437e6712",
+    "time_str_formatted": "11:34 PM, Thursday, November 07, 2024"
+  },
+  {
+    "title": "President wants to suppress Easter Sunday attack reports with ulterior motives- Udaya Gammanpila",
+    "url": "https://www.dailymirror.lk/hard-talk/President-wants-to-suppress-Easter-Sunday-attack-reports-with-ulterior-motives-Udaya-Gammanpila/334-295516",
+    "ut": 1731002663.0,
+    "dir_path_unix": "data/articles/president-wants-to-suppr.ce711cbc",
     "time_str_formatted": "11:34 PM, Thursday, November 07, 2024"
   },
   {
@@ -12860,16 +12895,16 @@
   },
   {
     "title": "\u201cEstate community still looks up to TPA and SJB\u201d - Digambaram",
-    "url": "https://www.dailymirror.lk/recomended-news/Estate-community-still-looks-up-to-TPA-and-SJB-Digambaram/277-295430",
+    "url": "https://www.dailymirror.lk/hard-talk/Estate-community-still-looks-up-to-TPA-and-SJB-Digambaram/334-295430",
     "ut": 1730923937.0,
-    "dir_path_unix": "data/articles/estate-community-still.727d95f2",
+    "dir_path_unix": "data/articles/estate-community-still.d943a10c",
     "time_str_formatted": "01:42 AM, Thursday, November 07, 2024"
   },
   {
     "title": "\u201cEstate community still looks up to TPA and SJB\u201d - Digambaram",
-    "url": "https://www.dailymirror.lk/hard-talk/Estate-community-still-looks-up-to-TPA-and-SJB-Digambaram/334-295430",
+    "url": "https://www.dailymirror.lk/recomended-news/Estate-community-still-looks-up-to-TPA-and-SJB-Digambaram/277-295430",
     "ut": 1730923937.0,
-    "dir_path_unix": "data/articles/estate-community-still.d943a10c",
+    "dir_path_unix": "data/articles/estate-community-still.727d95f2",
     "time_str_formatted": "01:42 AM, Thursday, November 07, 2024"
   },
   {
@@ -13070,30 +13105,30 @@
   },
   {
     "title": "\u201cWe support president\u2019s anti-corruption policy  not one-party state\u201d Eran Wickramaratne",
-    "url": "https://www.dailymirror.lk/recomended-news/We-support-presidents-anti-corruption-policy-not-one-party-state-Eran-Wickramaratne/277-295332",
-    "ut": 1730829011.0,
-    "dir_path_unix": "data/articles/we-support-president-s.00aabe12",
-    "time_str_formatted": "11:20 PM, Tuesday, November 05, 2024"
-  },
-  {
-    "title": "\u201cWe support president\u2019s anti-corruption policy  not one-party state\u201d Eran Wickramaratne",
     "url": "https://www.dailymirror.lk/hard-talk/We-support-presidents-anti-corruption-policy-not-one-party-state-Eran-Wickramaratne/334-295332",
     "ut": 1730829011.0,
     "dir_path_unix": "data/articles/we-support-president-s.daaca116",
     "time_str_formatted": "11:20 PM, Tuesday, November 05, 2024"
   },
   {
-    "title": "We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe",
-    "url": "https://www.dailymirror.lk/hard-talk/We-are-not-seeking-23rds-in-Parliament-only-a-simple-majority-Chathuranga-Abeysinghe/334-295331",
-    "ut": 1730828832.0,
-    "dir_path_unix": "data/articles/we-are-not-seeking-2-3rd.dc458bbd",
-    "time_str_formatted": "11:17 PM, Tuesday, November 05, 2024"
+    "title": "\u201cWe support president\u2019s anti-corruption policy  not one-party state\u201d Eran Wickramaratne",
+    "url": "https://www.dailymirror.lk/recomended-news/We-support-presidents-anti-corruption-policy-not-one-party-state-Eran-Wickramaratne/277-295332",
+    "ut": 1730829011.0,
+    "dir_path_unix": "data/articles/we-support-president-s.00aabe12",
+    "time_str_formatted": "11:20 PM, Tuesday, November 05, 2024"
   },
   {
     "title": "We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe",
     "url": "https://www.dailymirror.lk/recomended-news/We-are-not-seeking-23rds-in-Parliament-only-a-simple-majority-Chathuranga-Abeysinghe/277-295331",
     "ut": 1730828832.0,
     "dir_path_unix": "data/articles/we-are-not-seeking-2-3rd.05474538",
+    "time_str_formatted": "11:17 PM, Tuesday, November 05, 2024"
+  },
+  {
+    "title": "We are not seeking 2/3rds in Parliament, only a simple majority Chathuranga Abeysinghe",
+    "url": "https://www.dailymirror.lk/hard-talk/We-are-not-seeking-23rds-in-Parliament-only-a-simple-majority-Chathuranga-Abeysinghe/334-295331",
+    "ut": 1730828832.0,
+    "dir_path_unix": "data/articles/we-are-not-seeking-2-3rd.dc458bbd",
     "time_str_formatted": "11:17 PM, Tuesday, November 05, 2024"
   },
   {
@@ -13854,16 +13889,16 @@
   },
   {
     "title": "Sri Lanka needs stable exchange rate mechanism",
-    "url": "https://www.ft.lk/opinion/Sri-Lanka-needs-stable-exchange-rate-mechanism/14-768383",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-needs-stable-exchange-rate-mechanism/4-768383",
     "ut": 1729795558.0,
-    "dir_path_unix": "data/articles/sri-lanka-needs-stable-e.03a2b8a1",
+    "dir_path_unix": "data/articles/sri-lanka-needs-stable-e.1f5fa6f5",
     "time_str_formatted": "12:15 AM, Friday, October 25, 2024"
   },
   {
     "title": "Sri Lanka needs stable exchange rate mechanism",
-    "url": "https://www.ft.lk/columns/Sri-Lanka-needs-stable-exchange-rate-mechanism/4-768383",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-needs-stable-exchange-rate-mechanism/14-768383",
     "ut": 1729795558.0,
-    "dir_path_unix": "data/articles/sri-lanka-needs-stable-e.1f5fa6f5",
+    "dir_path_unix": "data/articles/sri-lanka-needs-stable-e.03a2b8a1",
     "time_str_formatted": "12:15 AM, Friday, October 25, 2024"
   },
   {
@@ -14504,17 +14539,17 @@
     "time_str_formatted": "04:24 AM, Thursday, October 17, 2024"
   },
   {
-    "title": "International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka",
-    "url": "https://www.dailymirror.lk/opinion/International-Day-for-the-Eradication-of-Poverty-is-today-Aswesuma-to-Prajashakthi-Considerations-for-future-social-protection-programmes-in-Sri-Lanka/172-293952",
-    "ut": 1729114429.0,
-    "dir_path_unix": "data/articles/international-day-for-th.d8a6d734",
-    "time_str_formatted": "03:03 AM, Thursday, October 17, 2024"
-  },
-  {
     "title": "Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka",
     "url": "https://www.dailymirror.lk/opinion/Aswesuma-to-Prajashakthi-Considerations-for-future-social-protection-programmes-in-Sri-Lanka/172-293952",
     "ut": 1729114429.0,
     "dir_path_unix": "data/articles/aswesuma-to-prajashakthi.b723ec73",
+    "time_str_formatted": "03:03 AM, Thursday, October 17, 2024"
+  },
+  {
+    "title": "International Day for the Eradication of Poverty is today Aswesuma to Prajashakthi:  Considerations for future social protection programmes  in Sri Lanka",
+    "url": "https://www.dailymirror.lk/opinion/International-Day-for-the-Eradication-of-Poverty-is-today-Aswesuma-to-Prajashakthi-Considerations-for-future-social-protection-programmes-in-Sri-Lanka/172-293952",
+    "ut": 1729114429.0,
+    "dir_path_unix": "data/articles/international-day-for-th.d8a6d734",
     "time_str_formatted": "03:03 AM, Thursday, October 17, 2024"
   },
   {
@@ -14624,16 +14659,16 @@
   },
   {
     "title": "Parliamentary polls Seeing a \u2018System Change\u2019 is now or never",
-    "url": "https://www.dailymirror.lk/opinion/Parliamentary-polls-Seeing-a-System-Change-is-now-or-never/172-293860",
+    "url": "https://www.dailymirror.lk/plus/Parliamentary-polls-Seeing-a-System-Change-is-now-or-never/352-293860",
     "ut": 1729014850.0,
-    "dir_path_unix": "data/articles/parliamentary-polls-seei.07c3bac7",
+    "dir_path_unix": "data/articles/parliamentary-polls-seei.c450c1bb",
     "time_str_formatted": "11:24 PM, Tuesday, October 15, 2024"
   },
   {
     "title": "Parliamentary polls Seeing a \u2018System Change\u2019 is now or never",
-    "url": "https://www.dailymirror.lk/plus/Parliamentary-polls-Seeing-a-System-Change-is-now-or-never/352-293860",
+    "url": "https://www.dailymirror.lk/opinion/Parliamentary-polls-Seeing-a-System-Change-is-now-or-never/172-293860",
     "ut": 1729014850.0,
-    "dir_path_unix": "data/articles/parliamentary-polls-seei.c450c1bb",
+    "dir_path_unix": "data/articles/parliamentary-polls-seei.07c3bac7",
     "time_str_formatted": "11:24 PM, Tuesday, October 15, 2024"
   },
   {
@@ -15023,16 +15058,16 @@
   },
   {
     "title": "Only sanity will help Sri Lanka in balancing ties with India and China",
-    "url": "https://www.dailymirror.lk/opinion/Only-sanity-will-help-Sri-Lanka-in-balancing-ties-with-India-and-China/231-293427",
+    "url": "https://www.dailymirror.lk/opinion/Only-sanity-will-help-Sri-Lanka-in-balancing-ties-with-India-and-China/172-293427",
     "ut": 1728495160.0,
-    "dir_path_unix": "data/articles/only-sanity-will-help-sr.d3eebe43",
+    "dir_path_unix": "data/articles/only-sanity-will-help-sr.8c8c1f3c",
     "time_str_formatted": "11:02 PM, Wednesday, October 09, 2024"
   },
   {
     "title": "Only sanity will help Sri Lanka in balancing ties with India and China",
-    "url": "https://www.dailymirror.lk/opinion/Only-sanity-will-help-Sri-Lanka-in-balancing-ties-with-India-and-China/172-293427",
+    "url": "https://www.dailymirror.lk/opinion/Only-sanity-will-help-Sri-Lanka-in-balancing-ties-with-India-and-China/231-293427",
     "ut": 1728495160.0,
-    "dir_path_unix": "data/articles/only-sanity-will-help-sr.8c8c1f3c",
+    "dir_path_unix": "data/articles/only-sanity-will-help-sr.d3eebe43",
     "time_str_formatted": "11:02 PM, Wednesday, October 09, 2024"
   },
   {
@@ -15750,31 +15785,10 @@
     "time_str_formatted": "03:15 PM, Tuesday, October 01, 2024"
   },
   {
-    "title": "2024 Climate Tech Companies to Watch: Pano AI and its fire-detecting AI",
-    "url": "https://www.technologyreview.com/2024/10/01/1104375/2024-climate-tech-companies-pano-ai-fire-detecting-ai/",
-    "ut": 1727767800.0,
-    "dir_path_unix": "data/articles/2024-climate-tech-compan.0a78d802",
-    "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
-  },
-  {
     "title": "2024 Climate Tech Companies to Watch: LanzaJet and its next-generation jet fuel",
     "url": "https://www.technologyreview.com/2024/10/01/1104331/2024-climate-tech-companies-lanzajet-saf-next-generation-jet-fuel/",
     "ut": 1727767800.0,
     "dir_path_unix": "data/articles/2024-climate-tech-compan.e31b36f0",
-    "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
-  },
-  {
-    "title": "2024 Climate Tech Companies to Watch: Ceibo and its copper mining tech",
-    "url": "https://www.technologyreview.com/2024/10/01/1104318/2024-climate-tech-companies-ceibo-copper-mining/",
-    "ut": 1727767800.0,
-    "dir_path_unix": "data/articles/2024-climate-tech-compan.9ce4f724",
-    "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
-  },
-  {
-    "title": "2024 Climate Tech Companies to Watch: Solugen and its bio-based chemicals",
-    "url": "https://www.technologyreview.com/2024/10/01/1104403/2024-climate-tech-companies-solugen-chemicals/",
-    "ut": 1727767800.0,
-    "dir_path_unix": "data/articles/2024-climate-tech-compan.28accfaf",
     "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
   },
   {
@@ -15789,6 +15803,27 @@
     "url": "https://www.technologyreview.com/2024/10/01/1104396/2024-climate-tech-companies-sublime-systems-low-emissions-cement/",
     "ut": 1727767800.0,
     "dir_path_unix": "data/articles/2024-climate-tech-compan.06924195",
+    "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
+  },
+  {
+    "title": "2024 Climate Tech Companies to Watch: Solugen and its bio-based chemicals",
+    "url": "https://www.technologyreview.com/2024/10/01/1104403/2024-climate-tech-companies-solugen-chemicals/",
+    "ut": 1727767800.0,
+    "dir_path_unix": "data/articles/2024-climate-tech-compan.28accfaf",
+    "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
+  },
+  {
+    "title": "2024 Climate Tech Companies to Watch: Pano AI and its fire-detecting AI",
+    "url": "https://www.technologyreview.com/2024/10/01/1104375/2024-climate-tech-companies-pano-ai-fire-detecting-ai/",
+    "ut": 1727767800.0,
+    "dir_path_unix": "data/articles/2024-climate-tech-compan.0a78d802",
+    "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
+  },
+  {
+    "title": "2024 Climate Tech Companies to Watch: Ceibo and its copper mining tech",
+    "url": "https://www.technologyreview.com/2024/10/01/1104318/2024-climate-tech-companies-ceibo-copper-mining/",
+    "ut": 1727767800.0,
+    "dir_path_unix": "data/articles/2024-climate-tech-compan.9ce4f724",
     "time_str_formatted": "01:00 PM, Tuesday, October 01, 2024"
   },
   {
@@ -15961,16 +15996,16 @@
   },
   {
     "title": "President faces a problem common to many developing nations: Austerity imposed by the West",
-    "url": "https://www.dailymirror.lk/plus/President-faces-a-problem-common-to-many-developing-nations-Austerity-imposed-by-the-West/352-292703",
+    "url": "https://www.dailymirror.lk/opinion/President-faces-a-problem-common-to-many-developing-nations-Austerity-imposed-by-the-West/172-292703",
     "ut": 1727648691.0,
-    "dir_path_unix": "data/articles/president-faces-a-proble.6120fa5b",
+    "dir_path_unix": "data/articles/president-faces-a-proble.3e2ced2e",
     "time_str_formatted": "03:54 AM, Monday, September 30, 2024"
   },
   {
     "title": "President faces a problem common to many developing nations: Austerity imposed by the West",
-    "url": "https://www.dailymirror.lk/opinion/President-faces-a-problem-common-to-many-developing-nations-Austerity-imposed-by-the-West/172-292703",
+    "url": "https://www.dailymirror.lk/plus/President-faces-a-problem-common-to-many-developing-nations-Austerity-imposed-by-the-West/352-292703",
     "ut": 1727648691.0,
-    "dir_path_unix": "data/articles/president-faces-a-proble.3e2ced2e",
+    "dir_path_unix": "data/articles/president-faces-a-proble.6120fa5b",
     "time_str_formatted": "03:54 AM, Monday, September 30, 2024"
   },
   {
@@ -16423,16 +16458,16 @@
   },
   {
     "title": "Beyond Red Tape: How Digitalization Can Save Sri Lanka\u2019s Economy",
-    "url": "https://www.dailymirror.lk/opinion/Beyond-Red-Tape-How-Digitalization-Can-Save-Sri-Lankas-Economy/231-292314",
+    "url": "https://www.dailymirror.lk/opinion/Beyond-Red-Tape-How-Digitalization-Can-Save-Sri-Lankas-Economy/172-292314",
     "ut": 1727125897.0,
-    "dir_path_unix": "data/articles/beyond-red-tape-how-digi.56b5c35b",
+    "dir_path_unix": "data/articles/beyond-red-tape-how-digi.f1025558",
     "time_str_formatted": "02:41 AM, Tuesday, September 24, 2024"
   },
   {
     "title": "Beyond Red Tape: How Digitalization Can Save Sri Lanka\u2019s Economy",
-    "url": "https://www.dailymirror.lk/opinion/Beyond-Red-Tape-How-Digitalization-Can-Save-Sri-Lankas-Economy/172-292314",
+    "url": "https://www.dailymirror.lk/opinion/Beyond-Red-Tape-How-Digitalization-Can-Save-Sri-Lankas-Economy/231-292314",
     "ut": 1727125897.0,
-    "dir_path_unix": "data/articles/beyond-red-tape-how-digi.f1025558",
+    "dir_path_unix": "data/articles/beyond-red-tape-how-digi.56b5c35b",
     "time_str_formatted": "02:41 AM, Tuesday, September 24, 2024"
   },
   {
@@ -16927,16 +16962,16 @@
   },
   {
     "title": "How will  1.65  million  Muslims  vote  on Saturday?",
-    "url": "https://www.dailymirror.lk/opinion/How-will-1-65-million-Muslims-vote-on-Saturday/172-291886",
+    "url": "https://www.dailymirror.lk/plus/How-will-1-65-million-Muslims-vote-on-Saturday/352-291886",
     "ut": 1726595525.0,
-    "dir_path_unix": "data/articles/how-will-1-65-million-mu.ace7aed5",
+    "dir_path_unix": "data/articles/how-will-1-65-million-mu.26f9513b",
     "time_str_formatted": "11:22 PM, Tuesday, September 17, 2024"
   },
   {
     "title": "How will  1.65  million  Muslims  vote  on Saturday?",
-    "url": "https://www.dailymirror.lk/plus/How-will-1-65-million-Muslims-vote-on-Saturday/352-291886",
+    "url": "https://www.dailymirror.lk/opinion/How-will-1-65-million-Muslims-vote-on-Saturday/172-291886",
     "ut": 1726595525.0,
-    "dir_path_unix": "data/articles/how-will-1-65-million-mu.26f9513b",
+    "dir_path_unix": "data/articles/how-will-1-65-million-mu.ace7aed5",
     "time_str_formatted": "11:22 PM, Tuesday, September 17, 2024"
   },
   {
@@ -17130,16 +17165,16 @@
   },
   {
     "title": "All UNPers in SJB will vote for RW at the polls  -  Rosy Senanayake",
-    "url": "https://www.dailymirror.lk/recomended-news/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/277-291787",
+    "url": "https://www.dailymirror.lk/hard-talk/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/334-291787",
     "ut": 1726429184.0,
-    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.942c6481",
+    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.1b1b4730",
     "time_str_formatted": "01:09 AM, Monday, September 16, 2024"
   },
   {
     "title": "All UNPers in SJB will vote for RW at the polls  -  Rosy Senanayake",
-    "url": "https://www.dailymirror.lk/hard-talk/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/334-291787",
+    "url": "https://www.dailymirror.lk/recomended-news/All-UNPers-in-SJB-will-vote-for-RW-at-the-polls-Rosy-Senanayake/277-291787",
     "ut": 1726429184.0,
-    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.1b1b4730",
+    "dir_path_unix": "data/articles/all-unpers-in-sjb-will-v.942c6481",
     "time_str_formatted": "01:09 AM, Monday, September 16, 2024"
   },
   {
@@ -17332,17 +17367,17 @@
     "time_str_formatted": "09:00 AM, Thursday, September 12, 2024"
   },
   {
-    "title": "Meet 2024\u2019s climate innovators under 35",
-    "url": "https://www.technologyreview.com/2024/09/12/1103908/climate-innovators-2024/",
-    "ut": 1726097400.0,
-    "dir_path_unix": "data/articles/meet-2024-s-climate-inno.b11c2acc",
-    "time_str_formatted": "05:00 AM, Thursday, September 12, 2024"
-  },
-  {
     "title": "Meet the radio-obsessed civilian shaping Ukraine\u2019s drone defense",
     "url": "https://www.technologyreview.com/2024/09/12/1103833/ukraine-russia-drone-war-flash-radio-serhii-beskrestnov-social-media/",
     "ut": 1726097400.0,
     "dir_path_unix": "data/articles/meet-the-radio-obsessed.b0ebabcf",
+    "time_str_formatted": "05:00 AM, Thursday, September 12, 2024"
+  },
+  {
+    "title": "Meet 2024\u2019s climate innovators under 35",
+    "url": "https://www.technologyreview.com/2024/09/12/1103908/climate-innovators-2024/",
+    "ut": 1726097400.0,
+    "dir_path_unix": "data/articles/meet-2024-s-climate-inno.b11c2acc",
     "time_str_formatted": "05:00 AM, Thursday, September 12, 2024"
   },
   {
@@ -17676,16 +17711,16 @@
   },
   {
     "title": "Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera",
-    "url": "https://www.dailymirror.lk/hard-talk/Sri-Lanka-has-a-black-economy-three-four-times-the-size-of-actual-economy-Dilith-Jayaweera/334-291301",
+    "url": "https://www.dailymirror.lk/plus/Sri-Lanka-has-a-black-economy-three-four-times-the-size-of-actual-economy-Dilith-Jayaweera/352-291301",
     "ut": 1725835660.0,
-    "dir_path_unix": "data/articles/sri-lanka-has-a-black-ec.2e8cc147",
+    "dir_path_unix": "data/articles/sri-lanka-has-a-black-ec.36d0b7f7",
     "time_str_formatted": "04:17 AM, Monday, September 09, 2024"
   },
   {
     "title": "Sri Lanka has a black economy, three- four times the size of actual economy- Dilith Jayaweera",
-    "url": "https://www.dailymirror.lk/plus/Sri-Lanka-has-a-black-economy-three-four-times-the-size-of-actual-economy-Dilith-Jayaweera/352-291301",
+    "url": "https://www.dailymirror.lk/hard-talk/Sri-Lanka-has-a-black-economy-three-four-times-the-size-of-actual-economy-Dilith-Jayaweera/334-291301",
     "ut": 1725835660.0,
-    "dir_path_unix": "data/articles/sri-lanka-has-a-black-ec.36d0b7f7",
+    "dir_path_unix": "data/articles/sri-lanka-has-a-black-ec.2e8cc147",
     "time_str_formatted": "04:17 AM, Monday, September 09, 2024"
   },
   {
@@ -18123,17 +18158,17 @@
     "time_str_formatted": "05:11 AM, Tuesday, September 03, 2024"
   },
   {
-    "title": "Here\u2019s how ed-tech companies are pitching AI to teachers",
-    "url": "https://www.technologyreview.com/2024/09/03/1103481/heres-how-ed-tech-companies-are-pitching-ai-to-teachers/",
-    "ut": 1725319800.0,
-    "dir_path_unix": "data/articles/here-s-how-ed-tech-compa.bf72c77b",
-    "time_str_formatted": "05:00 AM, Tuesday, September 03, 2024"
-  },
-  {
     "title": "AI\u2019s impact on elections is being overblown",
     "url": "https://www.technologyreview.com/2024/09/03/1103464/ai-impact-elections-overblown/",
     "ut": 1725319800.0,
     "dir_path_unix": "data/articles/ai-s-impact-on-elections.a4948561",
+    "time_str_formatted": "05:00 AM, Tuesday, September 03, 2024"
+  },
+  {
+    "title": "Here\u2019s how ed-tech companies are pitching AI to teachers",
+    "url": "https://www.technologyreview.com/2024/09/03/1103481/heres-how-ed-tech-companies-are-pitching-ai-to-teachers/",
+    "ut": 1725319800.0,
+    "dir_path_unix": "data/articles/here-s-how-ed-tech-compa.bf72c77b",
     "time_str_formatted": "05:00 AM, Tuesday, September 03, 2024"
   },
   {
@@ -18236,16 +18271,16 @@
   },
   {
     "title": "Elections,Debt Sustainability and IMF Blackmail",
-    "url": "https://www.dailymirror.lk/opinion/Elections-Debt-Sustainability-and-IMF-Blackmail/172-290800",
+    "url": "https://www.dailymirror.lk/plus/Elections-Debt-Sustainability-and-IMF-Blackmail/352-290800",
     "ut": 1725228156.0,
-    "dir_path_unix": "data/articles/elections-debt-sustainab.29f7de93",
+    "dir_path_unix": "data/articles/elections-debt-sustainab.aa49c60f",
     "time_str_formatted": "03:32 AM, Monday, September 02, 2024"
   },
   {
     "title": "Elections,Debt Sustainability and IMF Blackmail",
-    "url": "https://www.dailymirror.lk/plus/Elections-Debt-Sustainability-and-IMF-Blackmail/352-290800",
+    "url": "https://www.dailymirror.lk/opinion/Elections-Debt-Sustainability-and-IMF-Blackmail/172-290800",
     "ut": 1725228156.0,
-    "dir_path_unix": "data/articles/elections-debt-sustainab.aa49c60f",
+    "dir_path_unix": "data/articles/elections-debt-sustainab.29f7de93",
     "time_str_formatted": "03:32 AM, Monday, September 02, 2024"
   },
   {
@@ -18564,13 +18599,6 @@
     "time_str_formatted": "11:07 AM, Wednesday, August 28, 2024"
   },
   {
-    "title": "African farmers are using private satellite data to improve crop yields",
-    "url": "https://www.technologyreview.com/2024/08/28/1096743/african-farmers-space-satellite-data-crop-yields/",
-    "ut": 1724808600.0,
-    "dir_path_unix": "data/articles/african-farmers-are-usin.b00df829",
-    "time_str_formatted": "07:00 AM, Wednesday, August 28, 2024"
-  },
-  {
     "title": "The year is 2149 and \u2026",
     "url": "https://www.technologyreview.com/2024/08/28/1096774/sean-michaels-2149-fiction-speculation/",
     "ut": 1724808600.0,
@@ -18578,17 +18606,24 @@
     "time_str_formatted": "07:00 AM, Wednesday, August 28, 2024"
   },
   {
-    "title": "Job title of the future: Weather maker",
-    "url": "https://www.technologyreview.com/2024/08/28/1096738/digital-forest-ranger-future-jobs/",
-    "ut": 1724805000.0,
-    "dir_path_unix": "data/articles/job-title-of-the-future.c0179df5",
-    "time_str_formatted": "06:00 AM, Wednesday, August 28, 2024"
+    "title": "African farmers are using private satellite data to improve crop yields",
+    "url": "https://www.technologyreview.com/2024/08/28/1096743/african-farmers-space-satellite-data-crop-yields/",
+    "ut": 1724808600.0,
+    "dir_path_unix": "data/articles/african-farmers-are-usin.b00df829",
+    "time_str_formatted": "07:00 AM, Wednesday, August 28, 2024"
   },
   {
     "title": "This startup is making coffee without coffee beans",
     "url": "https://www.technologyreview.com/2024/08/28/1096751/prefer-coffee-upcycling-fermentation/",
     "ut": 1724805000.0,
     "dir_path_unix": "data/articles/this-startup-is-making-c.6583c5fc",
+    "time_str_formatted": "06:00 AM, Wednesday, August 28, 2024"
+  },
+  {
+    "title": "Job title of the future: Weather maker",
+    "url": "https://www.technologyreview.com/2024/08/28/1096738/digital-forest-ranger-future-jobs/",
+    "ut": 1724805000.0,
+    "dir_path_unix": "data/articles/job-title-of-the-future.c0179df5",
     "time_str_formatted": "06:00 AM, Wednesday, August 28, 2024"
   },
   {
@@ -18649,16 +18684,16 @@
   },
   {
     "title": "Presidential Elections Realistic approaches matter more than ever",
-    "url": "https://www.dailymirror.lk/opinion/Presidential-Elections-Realistic-approaches-matter-more-than-ever/172-290464",
+    "url": "https://www.dailymirror.lk/plus/Presidential-Elections-Realistic-approaches-matter-more-than-ever/352-290464",
     "ut": 1724781926.0,
-    "dir_path_unix": "data/articles/presidential-elections-r.06eb3aca",
+    "dir_path_unix": "data/articles/presidential-elections-r.9f166547",
     "time_str_formatted": "11:35 PM, Tuesday, August 27, 2024"
   },
   {
     "title": "Presidential Elections Realistic approaches matter more than ever",
-    "url": "https://www.dailymirror.lk/plus/Presidential-Elections-Realistic-approaches-matter-more-than-ever/352-290464",
+    "url": "https://www.dailymirror.lk/opinion/Presidential-Elections-Realistic-approaches-matter-more-than-ever/172-290464",
     "ut": 1724781926.0,
-    "dir_path_unix": "data/articles/presidential-elections-r.9f166547",
+    "dir_path_unix": "data/articles/presidential-elections-r.06eb3aca",
     "time_str_formatted": "11:35 PM, Tuesday, August 27, 2024"
   },
   {
@@ -18774,17 +18809,17 @@
     "time_str_formatted": "08:00 AM, Monday, August 26, 2024"
   },
   {
-    "title": "AI and the future of sex",
-    "url": "https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/",
-    "ut": 1724635800.0,
-    "dir_path_unix": "data/articles/ai-and-the-future-of-sex.908af337",
-    "time_str_formatted": "07:00 AM, Monday, August 26, 2024"
-  },
-  {
     "title": "Maybe you will be able to live past 122",
     "url": "https://www.technologyreview.com/2024/08/26/1096126/aging-health-longevity-lifespan-advances-investment/",
     "ut": 1724635800.0,
     "dir_path_unix": "data/articles/maybe-you-will-be-able-t.4d3a2ded",
+    "time_str_formatted": "07:00 AM, Monday, August 26, 2024"
+  },
+  {
+    "title": "AI and the future of sex",
+    "url": "https://www.technologyreview.com/2024/08/26/1096526/ai-sex-relationships-porn/",
+    "ut": 1724635800.0,
+    "dir_path_unix": "data/articles/ai-and-the-future-of-sex.908af337",
     "time_str_formatted": "07:00 AM, Monday, August 26, 2024"
   },
   {
@@ -18803,16 +18838,16 @@
   },
   {
     "title": "Ukraine\u2019s new gamble: Taking the war to the Russians",
-    "url": "https://www.dailymirror.lk/opinion/Ukraines-new-gamble-Taking-the-war-to-the-Russians/172-290282",
+    "url": "https://www.dailymirror.lk/plus/Ukraines-new-gamble-Taking-the-war-to-the-Russians/352-290282",
     "ut": 1724622609.0,
-    "dir_path_unix": "data/articles/ukraine-s-new-gamble-tak.daf124ee",
+    "dir_path_unix": "data/articles/ukraine-s-new-gamble-tak.b58b3275",
     "time_str_formatted": "03:20 AM, Monday, August 26, 2024"
   },
   {
     "title": "Ukraine\u2019s new gamble: Taking the war to the Russians",
-    "url": "https://www.dailymirror.lk/plus/Ukraines-new-gamble-Taking-the-war-to-the-Russians/352-290282",
+    "url": "https://www.dailymirror.lk/opinion/Ukraines-new-gamble-Taking-the-war-to-the-Russians/172-290282",
     "ut": 1724622609.0,
-    "dir_path_unix": "data/articles/ukraine-s-new-gamble-tak.b58b3275",
+    "dir_path_unix": "data/articles/ukraine-s-new-gamble-tak.daf124ee",
     "time_str_formatted": "03:20 AM, Monday, August 26, 2024"
   },
   {
@@ -18992,16 +19027,16 @@
   },
   {
     "title": "Covid-19  policy,  a breach of trust",
-    "url": "https://www.dailymirror.lk/opinion/Covid-19-policy-a-breach-of-trust/172-290134",
+    "url": "https://www.dailymirror.lk/plus/Covid-19-policy-a-breach-of-trust/352-290134",
     "ut": 1724358935.0,
-    "dir_path_unix": "data/articles/covid-19-policy-a-breach.63ccd862",
+    "dir_path_unix": "data/articles/covid-19-policy-a-breach.ebea5ae7",
     "time_str_formatted": "02:05 AM, Friday, August 23, 2024"
   },
   {
     "title": "Covid-19  policy,  a breach of trust",
-    "url": "https://www.dailymirror.lk/plus/Covid-19-policy-a-breach-of-trust/352-290134",
+    "url": "https://www.dailymirror.lk/opinion/Covid-19-policy-a-breach-of-trust/172-290134",
     "ut": 1724358935.0,
-    "dir_path_unix": "data/articles/covid-19-policy-a-breach.ebea5ae7",
+    "dir_path_unix": "data/articles/covid-19-policy-a-breach.63ccd862",
     "time_str_formatted": "02:05 AM, Friday, August 23, 2024"
   },
   {
@@ -19061,17 +19096,17 @@
     "time_str_formatted": "08:39 AM, Thursday, August 22, 2024"
   },
   {
-    "title": "Want to understand the future of technology? Take a look at this one obscure metal.",
-    "url": "https://www.technologyreview.com/2024/08/22/1097189/future-material-demand-neodymium/",
-    "ut": 1724286600.0,
-    "dir_path_unix": "data/articles/want-to-understand-the-f.34b7bb83",
-    "time_str_formatted": "06:00 AM, Thursday, August 22, 2024"
-  },
-  {
     "title": "Beyond gene-edited babies: the possible paths for tinkering with human evolution",
     "url": "https://www.technologyreview.com/2024/08/22/1096458/crispr-gene-editing-babies-evolution/",
     "ut": 1724286600.0,
     "dir_path_unix": "data/articles/beyond-gene-edited-babie.767ce5db",
+    "time_str_formatted": "06:00 AM, Thursday, August 22, 2024"
+  },
+  {
+    "title": "Want to understand the future of technology? Take a look at this one obscure metal.",
+    "url": "https://www.technologyreview.com/2024/08/22/1097189/future-material-demand-neodymium/",
+    "ut": 1724286600.0,
+    "dir_path_unix": "data/articles/want-to-understand-the-f.34b7bb83",
     "time_str_formatted": "06:00 AM, Thursday, August 22, 2024"
   },
   {
@@ -19188,16 +19223,16 @@
   },
   {
     "title": "Economic crisis, policy choices, anti-incumbency shape  Lanka\u2019s presidential race",
-    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/231-289956",
+    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/172-289956",
     "ut": 1724177736.0,
-    "dir_path_unix": "data/articles/economic-crisis-policy-c.23f51241",
+    "dir_path_unix": "data/articles/economic-crisis-policy-c.b5de0cc4",
     "time_str_formatted": "11:45 PM, Tuesday, August 20, 2024"
   },
   {
     "title": "Economic crisis, policy choices, anti-incumbency shape  Lanka\u2019s presidential race",
-    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/172-289956",
+    "url": "https://www.dailymirror.lk/opinion/Economic-crisis-policy-choices-anti-incumbency-shape-Lankas-presidential-race/231-289956",
     "ut": 1724177736.0,
-    "dir_path_unix": "data/articles/economic-crisis-policy-c.b5de0cc4",
+    "dir_path_unix": "data/articles/economic-crisis-policy-c.23f51241",
     "time_str_formatted": "11:45 PM, Tuesday, August 20, 2024"
   },
   {
@@ -19250,17 +19285,17 @@
     "time_str_formatted": "05:38 AM, Tuesday, August 20, 2024"
   },
   {
-    "title": "Why you\u2019re about to see a lot more drones in the sky",
-    "url": "https://www.technologyreview.com/2024/08/20/1097005/why-youre-about-to-see-a-lot-more-drones-in-the-sky/",
-    "ut": 1724110200.0,
-    "dir_path_unix": "data/articles/why-you-re-about-to-see.47cd9417",
-    "time_str_formatted": "05:00 AM, Tuesday, August 20, 2024"
-  },
-  {
     "title": "How to fine-tune AI for prosperity",
     "url": "https://www.technologyreview.com/2024/08/20/1096733/how-to-fine-tune-ai-for-prosperity/",
     "ut": 1724110200.0,
     "dir_path_unix": "data/articles/how-to-fine-tune-ai-for.a87afeca",
+    "time_str_formatted": "05:00 AM, Tuesday, August 20, 2024"
+  },
+  {
+    "title": "Why you\u2019re about to see a lot more drones in the sky",
+    "url": "https://www.technologyreview.com/2024/08/20/1097005/why-youre-about-to-see-a-lot-more-drones-in-the-sky/",
+    "ut": 1724110200.0,
+    "dir_path_unix": "data/articles/why-you-re-about-to-see.47cd9417",
     "time_str_formatted": "05:00 AM, Tuesday, August 20, 2024"
   },
   {
@@ -19657,16 +19692,16 @@
   },
   {
     "title": "Abusing the goddess of law \u2013 a disaster pending?",
-    "url": "https://www.ft.lk/opinion/Abusing-the-goddess-of-law-a-disaster-pending/14-765480",
+    "url": "https://www.ft.lk/columns/Abusing-the-goddess-of-law-a-disaster-pending/4-765480",
     "ut": 1723575924.0,
-    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.7b843116",
+    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.077823fe",
     "time_str_formatted": "12:35 AM, Wednesday, August 14, 2024"
   },
   {
     "title": "Abusing the goddess of law \u2013 a disaster pending?",
-    "url": "https://www.ft.lk/columns/Abusing-the-goddess-of-law-a-disaster-pending/4-765480",
+    "url": "https://www.ft.lk/opinion/Abusing-the-goddess-of-law-a-disaster-pending/14-765480",
     "ut": 1723575924.0,
-    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.077823fe",
+    "dir_path_unix": "data/articles/abusing-the-goddess-of-l.7b843116",
     "time_str_formatted": "12:35 AM, Wednesday, August 14, 2024"
   },
   {
@@ -19685,16 +19720,16 @@
   },
   {
     "title": "\u201cBangladesh vs Sri Lanka\u201d  - A Tie?",
-    "url": "https://www.dailymirror.lk/opinion/Bangladesh-vs-Sri-Lanka-A-Tie/172-289462",
+    "url": "https://www.dailymirror.lk/plus/Bangladesh-vs-Sri-Lanka-A-Tie/352-289462",
     "ut": 1723572865.0,
-    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.717cb2cb",
+    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.cf74d30d",
     "time_str_formatted": "11:44 PM, Tuesday, August 13, 2024"
   },
   {
     "title": "\u201cBangladesh vs Sri Lanka\u201d  - A Tie?",
-    "url": "https://www.dailymirror.lk/plus/Bangladesh-vs-Sri-Lanka-A-Tie/352-289462",
+    "url": "https://www.dailymirror.lk/opinion/Bangladesh-vs-Sri-Lanka-A-Tie/172-289462",
     "ut": 1723572865.0,
-    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.cf74d30d",
+    "dir_path_unix": "data/articles/bangladesh-vs-sri-lanka.717cb2cb",
     "time_str_formatted": "11:44 PM, Tuesday, August 13, 2024"
   },
   {
@@ -20280,16 +20315,16 @@
   },
   {
     "title": "No law is perfect! Embracing Change:  The Economic Transformation Bill",
-    "url": "https://www.dailymirror.lk/opinion/No-law-is-perfect-Embracing-Change-The-Economic-Transformation-Bill/231-288842",
+    "url": "https://www.dailymirror.lk/opinion/No-law-is-perfect-Embracing-Change-The-Economic-Transformation-Bill/172-288842",
     "ut": 1722897530.0,
-    "dir_path_unix": "data/articles/no-law-is-perfect-embrac.5ae99215",
+    "dir_path_unix": "data/articles/no-law-is-perfect-embrac.fb3a8ab6",
     "time_str_formatted": "04:08 AM, Tuesday, August 06, 2024"
   },
   {
     "title": "No law is perfect! Embracing Change:  The Economic Transformation Bill",
-    "url": "https://www.dailymirror.lk/opinion/No-law-is-perfect-Embracing-Change-The-Economic-Transformation-Bill/172-288842",
+    "url": "https://www.dailymirror.lk/opinion/No-law-is-perfect-Embracing-Change-The-Economic-Transformation-Bill/231-288842",
     "ut": 1722897530.0,
-    "dir_path_unix": "data/articles/no-law-is-perfect-embrac.fb3a8ab6",
+    "dir_path_unix": "data/articles/no-law-is-perfect-embrac.5ae99215",
     "time_str_formatted": "04:08 AM, Tuesday, August 06, 2024"
   },
   {
@@ -20349,17 +20384,17 @@
     "time_str_formatted": "12:05 PM, Monday, August 05, 2024"
   },
   {
-    "title": "We need to prepare for \u2018addictive intelligence\u2019",
-    "url": "https://www.technologyreview.com/2024/08/05/1095600/we-need-to-prepare-for-addictive-intelligence/",
-    "ut": 1722814200.0,
-    "dir_path_unix": "data/articles/we-need-to-prepare-for-a.d6eb4f27",
-    "time_str_formatted": "05:00 AM, Monday, August 05, 2024"
-  },
-  {
     "title": "Hydrogen bikes are struggling to gain traction in China",
     "url": "https://www.technologyreview.com/2024/08/05/1095637/china-hydrogen-shared-bike-youon/",
     "ut": 1722814200.0,
     "dir_path_unix": "data/articles/hydrogen-bikes-are-strug.85eaec8d",
+    "time_str_formatted": "05:00 AM, Monday, August 05, 2024"
+  },
+  {
+    "title": "We need to prepare for \u2018addictive intelligence\u2019",
+    "url": "https://www.technologyreview.com/2024/08/05/1095600/we-need-to-prepare-for-addictive-intelligence/",
+    "ut": 1722814200.0,
+    "dir_path_unix": "data/articles/we-need-to-prepare-for-a.d6eb4f27",
     "time_str_formatted": "05:00 AM, Monday, August 05, 2024"
   },
   {
@@ -20798,16 +20833,16 @@
   },
   {
     "title": "Amal Sanderatne: An appreciation",
-    "url": "https://www.ft.lk/opinion/Amal-Sanderatne-An-appreciation/14-764834",
+    "url": "https://www.ft.lk/columns/Amal-Sanderatne-An-appreciation/4-764834",
     "ut": 1722196300.0,
-    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.6f478376",
+    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.bbdc6892",
     "time_str_formatted": "01:21 AM, Monday, July 29, 2024"
   },
   {
     "title": "Amal Sanderatne: An appreciation",
-    "url": "https://www.ft.lk/columns/Amal-Sanderatne-An-appreciation/4-764834",
+    "url": "https://www.ft.lk/opinion/Amal-Sanderatne-An-appreciation/14-764834",
     "ut": 1722196300.0,
-    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.bbdc6892",
+    "dir_path_unix": "data/articles/amal-sanderatne-an-appre.6f478376",
     "time_str_formatted": "01:21 AM, Monday, July 29, 2024"
   },
   {
@@ -20910,16 +20945,16 @@
   },
   {
     "title": "Resource-rich, policy-poor: Sri Lanka\u2019s flagging growth sectors",
-    "url": "https://www.ft.lk/opinion/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/14-764781",
+    "url": "https://www.ft.lk/columns/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/4-764781",
     "ut": 1721943355.0,
-    "dir_path_unix": "data/articles/resource-rich-policy-poo.867d7afa",
+    "dir_path_unix": "data/articles/resource-rich-policy-poo.59ab4d57",
     "time_str_formatted": "03:05 AM, Friday, July 26, 2024"
   },
   {
     "title": "Resource-rich, policy-poor: Sri Lanka\u2019s flagging growth sectors",
-    "url": "https://www.ft.lk/columns/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/4-764781",
+    "url": "https://www.ft.lk/opinion/Resource-rich-policy-poor-Sri-Lanka-s-flagging-growth-sectors/14-764781",
     "ut": 1721943355.0,
-    "dir_path_unix": "data/articles/resource-rich-policy-poo.59ab4d57",
+    "dir_path_unix": "data/articles/resource-rich-policy-poo.867d7afa",
     "time_str_formatted": "03:05 AM, Friday, July 26, 2024"
   },
   {
@@ -21085,16 +21120,16 @@
   },
   {
     "title": "Ranil Wickremesinghe: the pragmatic leadership during challenging times",
-    "url": "https://www.ft.lk/columns/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/4-764663",
+    "url": "https://www.ft.lk/opinion/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/14-764663",
     "ut": 1721780221.0,
-    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.302efc82",
+    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.81f822a4",
     "time_str_formatted": "05:47 AM, Wednesday, July 24, 2024"
   },
   {
     "title": "Ranil Wickremesinghe: the pragmatic leadership during challenging times",
-    "url": "https://www.ft.lk/opinion/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/14-764663",
+    "url": "https://www.ft.lk/columns/Ranil-Wickremesinghe-the-pragmatic-leadership-during-challenging-times/4-764663",
     "ut": 1721780221.0,
-    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.81f822a4",
+    "dir_path_unix": "data/articles/ranil-wickremesinghe-the.302efc82",
     "time_str_formatted": "05:47 AM, Wednesday, July 24, 2024"
   },
   {
@@ -21294,17 +21329,17 @@
     "time_str_formatted": "11:20 PM, Friday, July 19, 2024"
   },
   {
-    "title": "Physicians Need Better Data Management Systems to Improve Patient Care",
-    "url": "https://hbr.org/sponsored/2024/07/physicians-need-better-data-management-systems-to-improve-patient-care",
-    "ut": 1721372755.0,
-    "dir_path_unix": "data/articles/physicians-need-better-d.393b5d10",
-    "time_str_formatted": "12:35 PM, Friday, July 19, 2024"
-  },
-  {
     "title": "How to Gracefully Decline a Networking Request",
     "url": "https://hbr.org/2024/07/how-to-gracefully-decline-a-networking-request",
     "ut": 1721372755.0,
     "dir_path_unix": "data/articles/how-to-gracefully-declin.89434680",
+    "time_str_formatted": "12:35 PM, Friday, July 19, 2024"
+  },
+  {
+    "title": "Physicians Need Better Data Management Systems to Improve Patient Care",
+    "url": "https://hbr.org/sponsored/2024/07/physicians-need-better-data-management-systems-to-improve-patient-care",
+    "ut": 1721372755.0,
+    "dir_path_unix": "data/articles/physicians-need-better-d.393b5d10",
     "time_str_formatted": "12:35 PM, Friday, July 19, 2024"
   },
   {
@@ -22051,16 +22086,16 @@
   },
   {
     "title": "Why parate is so hot these days",
-    "url": "https://www.ft.lk/columns/Why-parate-is-so-hot-these-days/4-763851",
+    "url": "https://www.ft.lk/opinion/Why-parate-is-so-hot-these-days/14-763851",
     "ut": 1720122508.0,
-    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.f4a2a8a6",
+    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.2e539223",
     "time_str_formatted": "01:18 AM, Friday, July 05, 2024"
   },
   {
     "title": "Why parate is so hot these days",
-    "url": "https://www.ft.lk/opinion/Why-parate-is-so-hot-these-days/14-763851",
+    "url": "https://www.ft.lk/columns/Why-parate-is-so-hot-these-days/4-763851",
     "ut": 1720122508.0,
-    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.2e539223",
+    "dir_path_unix": "data/articles/why-parate-is-so-hot-the.f4a2a8a6",
     "time_str_formatted": "01:18 AM, Friday, July 05, 2024"
   },
   {
@@ -22611,16 +22646,16 @@
   },
   {
     "title": "Sri Lanka economic recovery gathers pace",
-    "url": "https://www.ft.lk/columns/Sri-Lanka-economic-recovery-gathers-pace/4-763413",
+    "url": "https://www.ft.lk/opinion/Sri-Lanka-economic-recovery-gathers-pace/14-763413",
     "ut": 1719255002.0,
-    "dir_path_unix": "data/articles/sri-lanka-economic-recov.ca84e689",
+    "dir_path_unix": "data/articles/sri-lanka-economic-recov.43a2618b",
     "time_str_formatted": "12:20 AM, Tuesday, June 25, 2024"
   },
   {
     "title": "Sri Lanka economic recovery gathers pace",
-    "url": "https://www.ft.lk/opinion/Sri-Lanka-economic-recovery-gathers-pace/14-763413",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-economic-recovery-gathers-pace/4-763413",
     "ut": 1719255002.0,
-    "dir_path_unix": "data/articles/sri-lanka-economic-recov.43a2618b",
+    "dir_path_unix": "data/articles/sri-lanka-economic-recov.ca84e689",
     "time_str_formatted": "12:20 AM, Tuesday, June 25, 2024"
   },
   {
@@ -22828,16 +22863,16 @@
   },
   {
     "title": "Responding to Shantha Jayaratne\u2019s bogus claims",
-    "url": "https://www.ft.lk/columns/Responding-to-Shantha-Jayaratne-s-bogus-claims/4-763272",
+    "url": "https://www.ft.lk/opinion/Responding-to-Shantha-Jayaratne-s-bogus-claims/14-763272",
     "ut": 1718840829.0,
-    "dir_path_unix": "data/articles/responding-to-shantha-ja.1fd5748a",
+    "dir_path_unix": "data/articles/responding-to-shantha-ja.9be89b3a",
     "time_str_formatted": "05:17 AM, Thursday, June 20, 2024"
   },
   {
     "title": "Responding to Shantha Jayaratne\u2019s bogus claims",
-    "url": "https://www.ft.lk/opinion/Responding-to-Shantha-Jayaratne-s-bogus-claims/14-763272",
+    "url": "https://www.ft.lk/columns/Responding-to-Shantha-Jayaratne-s-bogus-claims/4-763272",
     "ut": 1718840829.0,
-    "dir_path_unix": "data/articles/responding-to-shantha-ja.9be89b3a",
+    "dir_path_unix": "data/articles/responding-to-shantha-ja.1fd5748a",
     "time_str_formatted": "05:17 AM, Thursday, June 20, 2024"
   },
   {
@@ -23380,17 +23415,17 @@
     "time_str_formatted": "12:39 AM, Friday, June 07, 2024"
   },
   {
-    "title": "Sri Lanka is an unsinkable aircraft carrier--The country manufactures  poverty  as politics is more profitable  than its industries- Maj. Gen. Dr. Boniface Perera",
-    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Maj-Gen-Dr-Boniface-Perera/231-284314",
-    "ut": 1717696500.0,
-    "dir_path_unix": "data/articles/sri-lanka-is-an-unsinkab.f6c07ba8",
-    "time_str_formatted": "11:25 PM, Thursday, June 06, 2024"
-  },
-  {
     "title": "Says Sri Lanka is an unsinkable aircraft carrier \u201cThe country manufactures  poverty  as politics is more profitable  than its industries\u201d  - Major Gen. Dr. Boniface Perera",
     "url": "https://www.dailymirror.lk/opinion/Says-Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Major-Gen-Dr-Boniface-Perera/231-284314",
     "ut": 1717696500.0,
     "dir_path_unix": "data/articles/says-sri-lanka-is-an-uns.25ee1557",
+    "time_str_formatted": "11:25 PM, Thursday, June 06, 2024"
+  },
+  {
+    "title": "Sri Lanka is an unsinkable aircraft carrier--The country manufactures  poverty  as politics is more profitable  than its industries- Maj. Gen. Dr. Boniface Perera",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Maj-Gen-Dr-Boniface-Perera/231-284314",
+    "ut": 1717696500.0,
+    "dir_path_unix": "data/articles/sri-lanka-is-an-unsinkab.f6c07ba8",
     "time_str_formatted": "11:25 PM, Thursday, June 06, 2024"
   },
   {
@@ -23485,6 +23520,13 @@
     "time_str_formatted": "12:36 AM, Thursday, June 06, 2024"
   },
   {
+    "title": "An assessment of China growing ties with the Arab world",
+    "url": "https://www.dailymirror.lk/opinion/An-assessment-of-China-growing-ties-with-the-Arab-world/172-284189",
+    "ut": 1717612200.0,
+    "dir_path_unix": "data/articles/an-assessment-of-china-g.feb96c71",
+    "time_str_formatted": "12:00 AM, Thursday, June 06, 2024"
+  },
+  {
     "title": "Sports for peace and development",
     "url": "https://www.dailymirror.lk/opinion/Sports-for-peace-and-development/172-284192",
     "ut": 1717612200.0,
@@ -23496,13 +23538,6 @@
     "url": "https://www.dailymirror.lk/opinion/Lifestyles-of-politicians-and-the-life-of-an-artist/172-284193",
     "ut": 1717612200.0,
     "dir_path_unix": "data/articles/lifestyles-of-politician.864c502c",
-    "time_str_formatted": "12:00 AM, Thursday, June 06, 2024"
-  },
-  {
-    "title": "An assessment of China growing ties with the Arab world",
-    "url": "https://www.dailymirror.lk/opinion/An-assessment-of-China-growing-ties-with-the-Arab-world/172-284189",
-    "ut": 1717612200.0,
-    "dir_path_unix": "data/articles/an-assessment-of-china-g.feb96c71",
     "time_str_formatted": "12:00 AM, Thursday, June 06, 2024"
   },
   {
@@ -23660,17 +23695,17 @@
     "time_str_formatted": "12:02 AM, Tuesday, June 04, 2024"
   },
   {
-    "title": "\u201cWe need to dream new dreams\u201d",
-    "url": "https://www.dailymirror.lk/opinion/We-need-to-dream-new-dreams/172-284034",
-    "ut": 1717439460.0,
-    "dir_path_unix": "data/articles/we-need-to-dream-new-dr.cc906dec",
-    "time_str_formatted": "12:01 AM, Tuesday, June 04, 2024"
-  },
-  {
     "title": "O/L Exam mess puts Department of Examinations in soup!",
     "url": "https://www.dailymirror.lk/opinion/OL-Exam-mess-puts-Department-of-Examinations-in-soup/172-284038",
     "ut": 1717439460.0,
     "dir_path_unix": "data/articles/o-l-exam-mess-puts-depar.5ea83604",
+    "time_str_formatted": "12:01 AM, Tuesday, June 04, 2024"
+  },
+  {
+    "title": "\u201cWe need to dream new dreams\u201d",
+    "url": "https://www.dailymirror.lk/opinion/We-need-to-dream-new-dreams/172-284034",
+    "ut": 1717439460.0,
+    "dir_path_unix": "data/articles/we-need-to-dream-new-dr.cc906dec",
     "time_str_formatted": "12:01 AM, Tuesday, June 04, 2024"
   },
   {
@@ -23814,10 +23849,10 @@
     "time_str_formatted": "12:03 AM, Saturday, June 01, 2024"
   },
   {
-    "title": "Red herrings, referendums, poverty and postponing elections",
-    "url": "https://www.dailymirror.lk/opinion/Red-herrings-referendums-poverty-and-postponing-elections/172-283850",
+    "title": "Referendum to extend President\u2019s term: Is it ploy to avoid election defeat?",
+    "url": "https://www.dailymirror.lk/opinion/Referendum-to-extend-Presidents-term-Is-it-ploy-to-avoid-election-defeat/172-283853",
     "ut": 1717180200.0,
-    "dir_path_unix": "data/articles/red-herrings-referendums.fc270172",
+    "dir_path_unix": "data/articles/referendum-to-extend-pre.fe67946d",
     "time_str_formatted": "12:00 AM, Saturday, June 01, 2024"
   },
   {
@@ -23828,10 +23863,10 @@
     "time_str_formatted": "12:00 AM, Saturday, June 01, 2024"
   },
   {
-    "title": "Referendum to extend President\u2019s term: Is it ploy to avoid election defeat?",
-    "url": "https://www.dailymirror.lk/opinion/Referendum-to-extend-Presidents-term-Is-it-ploy-to-avoid-election-defeat/172-283853",
+    "title": "Red herrings, referendums, poverty and postponing elections",
+    "url": "https://www.dailymirror.lk/opinion/Red-herrings-referendums-poverty-and-postponing-elections/172-283850",
     "ut": 1717180200.0,
-    "dir_path_unix": "data/articles/referendum-to-extend-pre.fe67946d",
+    "dir_path_unix": "data/articles/red-herrings-referendums.fc270172",
     "time_str_formatted": "12:00 AM, Saturday, June 01, 2024"
   },
   {
@@ -23926,17 +23961,17 @@
     "time_str_formatted": "05:33 AM, Friday, May 31, 2024"
   },
   {
-    "title": "Lies used in the name of transforming a nation",
-    "url": "https://www.dailymirror.lk/opinion/Lies-used-in-the-name-of-transforming-a-nation/172-283728",
-    "ut": 1717093800.0,
-    "dir_path_unix": "data/articles/lies-used-in-the-name-of.e1276bde",
-    "time_str_formatted": "12:00 AM, Friday, May 31, 2024"
-  },
-  {
     "title": "Matara hospital rocks parents\u2019 world misplacing stillborn",
     "url": "https://www.dailymirror.lk/news-features/Matara-hospital-rocks-parents-world-misplacing-stillborn/131-283737",
     "ut": 1717093800.0,
     "dir_path_unix": "data/articles/matara-hospital-rocks-pa.353764b5",
+    "time_str_formatted": "12:00 AM, Friday, May 31, 2024"
+  },
+  {
+    "title": "Lies used in the name of transforming a nation",
+    "url": "https://www.dailymirror.lk/opinion/Lies-used-in-the-name-of-transforming-a-nation/172-283728",
+    "ut": 1717093800.0,
+    "dir_path_unix": "data/articles/lies-used-in-the-name-of.e1276bde",
     "time_str_formatted": "12:00 AM, Friday, May 31, 2024"
   },
   {
@@ -23996,17 +24031,10 @@
     "time_str_formatted": "04:40 AM, Thursday, May 30, 2024"
   },
   {
-    "title": "World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry",
-    "url": "https://www.dailymirror.lk/opinion/World-No-Tobacco-Day-Calls-to-strengthen-measures-to-protect-children-from-tobacco-industry/172-283636",
+    "title": "Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS",
+    "url": "https://www.dailymirror.lk/opinion/Unlocking-economic-growth-and-Strategic-Advantages-Potential-benefits-for-Sri-Lanka-from-BRICS/172-283634",
     "ut": 1717007400.0,
-    "dir_path_unix": "data/articles/world-no-tobacco-day-cal.875bf238",
-    "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
-  },
-  {
-    "title": "Why are boys falling behind in education and what can we do about it?",
-    "url": "https://www.dailymirror.lk/opinion/Why-are-boys-falling-behind-in-education-and-what-can-we-do-about-it/172-283638",
-    "ut": 1717007400.0,
-    "dir_path_unix": "data/articles/why-are-boys-falling-beh.4de96379",
+    "dir_path_unix": "data/articles/unlocking-economic-growt.1b773504",
     "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
   },
   {
@@ -24017,10 +24045,17 @@
     "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
   },
   {
-    "title": "Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS",
-    "url": "https://www.dailymirror.lk/opinion/Unlocking-economic-growth-and-Strategic-Advantages-Potential-benefits-for-Sri-Lanka-from-BRICS/172-283634",
+    "title": "Why are boys falling behind in education and what can we do about it?",
+    "url": "https://www.dailymirror.lk/opinion/Why-are-boys-falling-behind-in-education-and-what-can-we-do-about-it/172-283638",
     "ut": 1717007400.0,
-    "dir_path_unix": "data/articles/unlocking-economic-growt.1b773504",
+    "dir_path_unix": "data/articles/why-are-boys-falling-beh.4de96379",
+    "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
+  },
+  {
+    "title": "World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry",
+    "url": "https://www.dailymirror.lk/opinion/World-No-Tobacco-Day-Calls-to-strengthen-measures-to-protect-children-from-tobacco-industry/172-283636",
+    "ut": 1717007400.0,
+    "dir_path_unix": "data/articles/world-no-tobacco-day-cal.875bf238",
     "time_str_formatted": "12:00 AM, Thursday, May 30, 2024"
   },
   {
@@ -24151,16 +24186,16 @@
   },
   {
     "title": "Who guards the guardians?",
-    "url": "https://www.ft.lk/columns/Who-guards-the-guardians/4-762224",
+    "url": "https://www.ft.lk/opinion/Who-guards-the-guardians/14-762224",
     "ut": 1716830202.0,
-    "dir_path_unix": "data/articles/who-guards-the-guardians.6902fd32",
+    "dir_path_unix": "data/articles/who-guards-the-guardians.7360c8c3",
     "time_str_formatted": "10:46 PM, Monday, May 27, 2024"
   },
   {
     "title": "Who guards the guardians?",
-    "url": "https://www.ft.lk/opinion/Who-guards-the-guardians/14-762224",
+    "url": "https://www.ft.lk/columns/Who-guards-the-guardians/4-762224",
     "ut": 1716830202.0,
-    "dir_path_unix": "data/articles/who-guards-the-guardians.7360c8c3",
+    "dir_path_unix": "data/articles/who-guards-the-guardians.6902fd32",
     "time_str_formatted": "10:46 PM, Monday, May 27, 2024"
   },
   {
@@ -24269,13 +24304,6 @@
     "time_str_formatted": "01:11 AM, Saturday, May 25, 2024"
   },
   {
-    "title": "God won\u2019t change your destiny until you change yourself",
-    "url": "https://www.dailymirror.lk/opinion/God-wont-change-your-destiny-until-you-change-yourself/172-283320",
-    "ut": 1716575400.0,
-    "dir_path_unix": "data/articles/god-won-t-change-your-de.3463c633",
-    "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
-  },
-  {
     "title": "Commemoration of war victims-celebrations and harassment",
     "url": "https://www.dailymirror.lk/opinion/Commemoration-of-war-victims-celebrations-and-harassment/172-283318",
     "ut": 1716575400.0,
@@ -24283,17 +24311,24 @@
     "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
   },
   {
-    "title": "Tragedy and farce on a day of mourning",
-    "url": "https://www.dailymirror.lk/opinion/Tragedy-and-farce-on-a-day-of-mourning/172-283316",
-    "ut": 1716575400.0,
-    "dir_path_unix": "data/articles/tragedy-and-farce-on-a-d.34099509",
-    "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
-  },
-  {
     "title": "Sajith-Anura Debate, that never happened",
     "url": "https://www.dailymirror.lk/opinion/Sajith-Anura-Debate-that-never-happened/172-283317",
     "ut": 1716575400.0,
     "dir_path_unix": "data/articles/sajith-anura-debate-that.64f5f919",
+    "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
+  },
+  {
+    "title": "God won\u2019t change your destiny until you change yourself",
+    "url": "https://www.dailymirror.lk/opinion/God-wont-change-your-destiny-until-you-change-yourself/172-283320",
+    "ut": 1716575400.0,
+    "dir_path_unix": "data/articles/god-won-t-change-your-de.3463c633",
+    "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
+  },
+  {
+    "title": "Tragedy and farce on a day of mourning",
+    "url": "https://www.dailymirror.lk/opinion/Tragedy-and-farce-on-a-day-of-mourning/172-283316",
+    "ut": 1716575400.0,
+    "dir_path_unix": "data/articles/tragedy-and-farce-on-a-d.34099509",
     "time_str_formatted": "12:00 AM, Saturday, May 25, 2024"
   },
   {
@@ -24459,16 +24494,16 @@
   },
   {
     "title": "Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?",
-    "url": "https://www.ft.lk/columns/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/4-762103",
+    "url": "https://www.ft.lk/opinion/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/14-762103",
     "ut": 1716335715.0,
-    "dir_path_unix": "data/articles/should-sri-lankan-tamils.e5c84fc0",
+    "dir_path_unix": "data/articles/should-sri-lankan-tamils.9c26120a",
     "time_str_formatted": "05:25 AM, Wednesday, May 22, 2024"
   },
   {
     "title": "Should Sri Lankan Tamils mourn Prabhakaran on his death anniversary?",
-    "url": "https://www.ft.lk/opinion/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/14-762103",
+    "url": "https://www.ft.lk/columns/Should-Sri-Lankan-Tamils-mourn-Prabhakaran-on-his-death-anniversary/4-762103",
     "ut": 1716335715.0,
-    "dir_path_unix": "data/articles/should-sri-lankan-tamils.9c26120a",
+    "dir_path_unix": "data/articles/should-sri-lankan-tamils.e5c84fc0",
     "time_str_formatted": "05:25 AM, Wednesday, May 22, 2024"
   },
   {
@@ -24591,17 +24626,17 @@
     "time_str_formatted": "12:05 PM, Monday, May 20, 2024"
   },
   {
-    "title": "A device that zaps the spinal cord gave paralyzed people better control of their hands",
-    "url": "https://www.technologyreview.com/2024/05/20/1092688/noninvasive-spinal-stimulation-trial-hands/",
-    "ut": 1716183000.0,
-    "dir_path_unix": "data/articles/a-device-that-zaps-the-s.a156632c",
-    "time_str_formatted": "11:00 AM, Monday, May 20, 2024"
-  },
-  {
     "title": "AI models can outperform humans in tests to identify mental states",
     "url": "https://www.technologyreview.com/2024/05/20/1092681/ai-models-can-outperform-humans-in-tests-to-identify-mental-states/",
     "ut": 1716183000.0,
     "dir_path_unix": "data/articles/ai-models-can-outperform.edfc7765",
+    "time_str_formatted": "11:00 AM, Monday, May 20, 2024"
+  },
+  {
+    "title": "A device that zaps the spinal cord gave paralyzed people better control of their hands",
+    "url": "https://www.technologyreview.com/2024/05/20/1092688/noninvasive-spinal-stimulation-trial-hands/",
+    "ut": 1716183000.0,
+    "dir_path_unix": "data/articles/a-device-that-zaps-the-s.a156632c",
     "time_str_formatted": "11:00 AM, Monday, May 20, 2024"
   },
   {
