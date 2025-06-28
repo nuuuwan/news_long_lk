@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-27 06:25:51**
+Last Updated **2025-06-28 06:25:31**
+
+## 2025-06-28
+
+* [Looking ahead: Multilateral climate negotiations in 2025 and beyond](data/articles/looking-ahead-multilater.43208966/README.md) `ft.lk`
+* [An island in the slipstream amidst  milestones, memories, manifestoes](data/articles/an-island-in-the-slipstr.c430c176/README.md) `ft.lk`
+* [Leading with vision: Mahinda Rajapaksa’s plan to sterilise 1 million dogs](data/articles/leading-with-vision-mahi.ee155e37/README.md) `ft.lk`
+* [CBK at 80: Trailblazer’s legacy in perspective](data/articles/cbk-at-80-trailblazer-s.dc8508e4/README.md) `ft.lk`
 
 ## 2025-06-27
 
+* [We’re learning more about what weight-loss drugs do to the body](data/articles/we-re-learning-more-abou.9b1e0d4a/README.md) `technologyreview.com`
 * [President’s aspirations and ground realities](data/articles/president-s-aspirations.61b71ef0/README.md) `ft.lk`
 
 ## 2025-06-26
