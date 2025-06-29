@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-29 06:25:41**
+Last Updated **2025-06-29 18:22:18**
+
+## 2025-06-29
+
+* [Chandrika  Bandaranaike  Kumaratunga:  Sri  Lanka’s Daughter of Destiny, Celebrates her 80th Birthday on June 29th.](data/articles/chandrika-bandaranaike-k.314a2570/README.md) `dbsjeyaraj.com`
+* [Veteran Tamil Journalist Sinnathurai “Thillai” Thillainathan  Celebrates his 75th Biirthday on 29 June 2025.](data/articles/veteran-tamil-journalist.4e23cd20/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-28
 
