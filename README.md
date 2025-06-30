@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-29 18:22:18**
+Last Updated **2025-06-30 06:25:56**
+
+## 2025-06-30
+
+* [Adverse global shocks and Sri Lanka’s road to recovery](data/articles/adverse-global-shocks-an.5e74b0be/README.md) `ft.lk`
+* [Social cohesion: Relevance for Sri Lanka](data/articles/social-cohesion-relevanc.fcf6519b/README.md) `ft.lk`
+* [Enter the precious ship of entrepreneurship](data/articles/enter-the-precious-ship.82f5b5e7/README.md) `ft.lk`
+* [Honouring Dr. Saman Kelegama:  Legacy guiding Sri Lanka’s digital and fintech future](data/articles/honouring-dr-saman-keleg.4ae329e9/README.md) `ft.lk`
 
 ## 2025-06-29
 
