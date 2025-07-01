@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-01 06:26:00**
+Last Updated **2025-07-01 18:23:00**
 
 ## 2025-07-01
 
+* [Cloudflare will now, by default, block AI bots from crawling its clients’ websites](data/articles/cloudflare-will-now-by-d.cccc0f56/README.md) `technologyreview.com`
 * [Rebuilding trust, reforming habits, rethinking tax compliance](data/articles/rebuilding-trust-reformi.a500a68a/README.md) `ft.lk`
 * [Compelling case for smarter VAT solution for exporters](data/articles/compelling-case-for-smar.00c6f8ec/README.md) `ft.lk`
 * [Sri Lanka’s Local Government reform: Strategic imperative for progress – Part 1](data/articles/sri-lanka-s-local-govern.a60f7835/README.md) `ft.lk`
@@ -14,6 +15,8 @@ Last Updated **2025-07-01 06:26:00**
 
 ## 2025-06-30
 
+* [Shanakiyan Rasamanickam MP   Wants  international community to pressure Govt to give more protection to Chemmani mass grave site; Reveals suspected move about attempts to remove some skeletons from site.](data/articles/shanakiyan-rasamanickam.2266c2f5/README.md) `dbsjeyaraj.com`
+* [Customs Inquiry Report Reveals that 999 red-classified containers were  released on 13 occasions without proper screening or follow-up since July 2024 says Opposition MP Mujibur Rahman in Parliament.](data/articles/customs-inquiry-report-r.8e9dc7e0/README.md) `dbsjeyaraj.com`
 * [Adverse global shocks and Sri Lanka’s road to recovery](data/articles/adverse-global-shocks-an.5e74b0be/README.md) `ft.lk`
 * [Social cohesion: Relevance for Sri Lanka](data/articles/social-cohesion-relevanc.fcf6519b/README.md) `ft.lk`
 * [Enter the precious ship of entrepreneurship](data/articles/enter-the-precious-ship.82f5b5e7/README.md) `ft.lk`
