@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-06-30 18:23:01**
+Last Updated **2025-07-01 06:26:00**
+
+## 2025-07-01
+
+* [Rebuilding trust, reforming habits, rethinking tax compliance](data/articles/rebuilding-trust-reformi.a500a68a/README.md) `ft.lk`
+* [Compelling case for smarter VAT solution for exporters](data/articles/compelling-case-for-smar.00c6f8ec/README.md) `ft.lk`
+* [Sri Lanka’s Local Government reform: Strategic imperative for progress – Part 1](data/articles/sri-lanka-s-local-govern.a60f7835/README.md) `ft.lk`
+* [Energy sector governance under scrutiny: Questions mount over policy direction and transparency](data/articles/energy-sector-governance.2f5bfea6/README.md) `ft.lk`
+* [Electricity reforms and CEB restructure: Confusion, conjecture or calmness?](data/articles/electricity-reforms-and.787b31b9/README.md) `ft.lk`
 
 ## 2025-06-30
 
@@ -10,6 +18,7 @@ Last Updated **2025-06-30 18:23:01**
 * [Social cohesion: Relevance for Sri Lanka](data/articles/social-cohesion-relevanc.fcf6519b/README.md) `ft.lk`
 * [Enter the precious ship of entrepreneurship](data/articles/enter-the-precious-ship.82f5b5e7/README.md) `ft.lk`
 * [Honouring Dr. Saman Kelegama:  Legacy guiding Sri Lanka’s digital and fintech future](data/articles/honouring-dr-saman-keleg.4ae329e9/README.md) `ft.lk`
+* [பிரெடரிக் ஃபோசைத் (Frederick  Forsyth) ஒருவரில் நால்வர் ; விமானி, பத்திரிகையாளர், உளவாளி, எழுத்தாளர். அவருக்கும் விடுதலை புலிகளுக்கும் இடையில் என்ன தொடர்பு?](data/articles/ப-ர-டர-க-ஃப-ச-த-frederic.36d88dad/README.md) `dbsjeyaraj.com`
 
 ## 2025-06-29
 

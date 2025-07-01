@@ -1,0 +1,86 @@
+# Sri Lanka’s Local Government reform: Strategic imperative for progress – Part 1
+
+[https://www.ft.lk/columns/Sri-Lanka-s-Local-Government-reform-Strategic-imperative-for-progress-Part-1/4-778396](https://www.ft.lk/columns/Sri-Lanka-s-Local-Government-reform-Strategic-imperative-for-progress-Part-1/4-778396)
+
+*12:49 AM, Tuesday, July 01, 2025*
+
+With a fresh electoral mandate and the potential for reform, Sri Lanka is at a crossroads
+
+Sri Lanka’s recent Local Government elections marked a pivotal moment in the nation’s democratic process, as citizens voted to appoint representatives to municipal councils and Pradeshiya Sabhas. While political negotiations regarding leadership positions at the local level still dominate discussions at the national level, the real focus for Sri Lankans should be on the effectiveness, transparency, and accountability of local governance. Voters expect action on issues such as service delivery, infrastructure, and community welfare areas that have often been neglected.
+
+The National People’s Power (NPP) Government now faces an important opportunity to lead meaningful reforms at the local level. Although it does not control all local authorities, it has the mandate and responsibility to drive positive change. However, reforming Sri Lanka’s local governance system requires more than just the election of new leaders. It requires systemic transformation in local governance and service delivery.
+
+The need for comprehensive reform
+
+The challenge for new leaders lies in the outdated and often inefficient framework governing local councils. Without comprehensive reform, even the most dedicated representatives will struggle to meet the needs of their communities. True progress requires a modernised approach in structural, procedural, and cultural changes to local government operations.
+
+My personal experience in local government reform, both in Sri Lanka and Australia, has shown that sustainable change is achievable, but only through strategic, long-term efforts. In Australia, I have been directly involved in the restructuring process of a premier City Council, which led to significant improvements in service delivery, operational efficiency, and community trust. The foundational pillars of the restructuring process were advanced asset management principles. Sri Lanka’s local government system faces similar challenges, such as inefficiencies, politicisation, and fragmented service delivery, demanding urgent reform.
+
+Sri Lanka’s reform agenda: An ongoing journey
+
+Having worked in Sri Lanka’s local government sector and contributed to reform efforts in New South Wales, I understand the limitations of the existing system. When I previously called for reform, there was a lack of political will to implement significant changes. In the present context, with new electoral mandates in place, the opportunity for reform is again within reach, but the window is narrowing.
+
+The path forward for Sri Lanka must include institutionalising reform at the local level. This involves modernising regulatory frameworks, professionalising council operations, and adopting contemporary asset management and planning practices. Drawing from Australia’s own experiences, I believe Sri Lanka can benefit from a sustained effort led by political leadership and expert-driven policy design.
+
+Strengthening local government: Empowering the grassroots
+
+Sri Lanka’s local government system comprises 340 institutions, Pradeshiya Sabhas (PSs), Urban Councils (UCs), and Municipal Councils (MCs) that form the backbone of grassroots governance. These bodies are responsible for critical services such as waste management, road maintenance, public health, and community development. The performance of local councils directly impacts the daily lives of citizens, making them the “pulse” of public sentiment.
+
+To meet citizens’ expectations, local councils must adopt modern governance practices, including real-time data analysis, customer service, and responsive decision-making. The use of data-driven planning and robust reporting must become standard practice, not an aspiration.
+
+Harnessing the public sector for reform
+
+The ongoing downsizing of Sri Lanka’s public service presents a unique opportunity to redirect skilled personnel towards local government reform. By seconding experts from national ministries and agencies, Sri Lanka can infuse local councils with the expertise needed to drive reform. This model allows for targeted, time-bound reform initiatives without increasing the size of the public service.
+
+Such an approach must be anchored in clear goals: building institutional capacity, improving service standards, and restoring public trust. Properly managed, this can become a cornerstone of a broader national reform agenda.
+
+A system in need of urgent reform
+
+Despite its intent to decentralise decision-making, Sri Lanka’s local government system struggles with chronic underfunding, limited capacity, and political interference. These challenges are exacerbated by fragmented service delivery across the three tiers of government.
+
+Municipal Councils have main responsibilities such as urban planning and development, maintenance of roads, drainage, and street lighting, public health (including waste collection, sanitation, public toilets), issuing building permits and overseeing construction, regulation of markets, slaughterhouses, and trade licenses, maintenance of parks, playgrounds, and libraries, management of cemeteries and crematoriums, disaster management and emergency response.
+
+The responsibilities of Urban Councils include the maintenance of local roads and public utilities, waste collection and sanitation services, overseeing local markets and fairs, issuance of trade and business licenses, regulation of building construction, public health and hygiene.
+
+Pradeshiya Sabhas serve rural and semi-urban areas, managing the maintenance of rural roads and small infrastructure, waste management and sanitation (basic services), public health awareness and community hygiene, issuance of permits for trade and small businesses, support for agriculture, local economic development, and cooperatives, maintenance of rural community centres and small libraries, and managing village-level fairs and markets.
+
+The disconnect between mandates and outcomes is growing, and addressing this gap is critical to restoring public trust. Local government reform is no longer optional; it is a national priority.
+
+The path forward for Sri Lanka must include institutionalising reform at the local level. This involves modernising regulatory frameworks, professionalising council operations, and adopting contemporary asset management and planning practices. Drawing from Australia’s own experiences, I believe Sri Lanka can benefit from a sustained effort led by political leadership and expert-driven policy design
+
+Reforming Sri Lanka’s local government system requires more than technical changes. It demands a strategic overhaul that empowers councils with the resources, leadership, and systems needed to meet modern governance standards. The political will to undertake this reform is now in place, and with expert guidance, Sri Lanka has the opportunity to evolve its local government into a model of responsive, transparent service delivery.
+
+Sri Lankans have fulfilled their democratic responsibility by voting. Now, it is time for their leaders, at every level, to deliver on the promise of effective governance.
+
+Seizing the opportunity for reform
+
+With a fresh electoral mandate and the potential for reform, Sri Lanka is at a crossroads. Will the political leadership seize the moment to modernise and strengthen local governance, or will this opportunity slip away, as it has in the past?
+
+The choice rests with the country’s leaders. However, the window for action is limited. Time will tell whether Sri Lanka’s leaders will rise to the challenge or allow the cycle of stagnation to continue.
+
+The crucial role of local governance
+
+Local government is the primary point of contact between citizens and the State. The quality of services such as waste management, public health, and infrastructure management directly influences public perceptions of government competence. As the “frontline” of public service, local councils must embrace professionalism and integrity to restore public trust. This can only be achieved through data-driven planning, robust customer service, and clear, outcome-based reporting.
+
+Sri Lanka need not reinvent the wheel when it comes to local government reform. Countries such as Australia have confronted comparable challenges and, through targeted reform, have developed more resilient and effective local governance systems. By drawing on these international experiences, Sri Lanka has the opportunity to craft a reform agenda that is both contextually relevant and responsive to its unique institutional and community needs.
+
+With over 24 years of experience in Australian local government and a deep understanding of Sri Lanka’s system, I am committed to contributing to this reform dialogue. It is time for Sri Lanka’s local government to evolve into a model of modern, responsive governance that meets the needs of its citizens and secures its future.
+
+Behavioural change before legal reform
+
+In the pursuit of effective governance, the temptation often arises to start with rewriting legislation. However, in the case of Sri Lanka’s local government reform, legal changes should not be the first step. Instead, the initial focus must be on optimising performance within the existing legal framework. This will highlight areas where law changes are necessary, and where cultural and operational reforms can provide immediate improvements.
+
+The priority should be shifting institutional behaviour to foster transparency, accountability, integrity, and collaboration as the default norms. Only by addressing these behavioural changes can meaningful reform take root.
+
+A practical first step: Reform through a ministerial circular
+
+To initiate reform promptly, I propose a standardised planning and reporting initiative via a ministerial circular. This initiative would establish a measurable framework for local councils to develop strategic and annual plans, monitor and report on performance, engage communities through structured consultations, benchmark service standards and operational efficiency.
+
+This approach requires no legislative changes but would instil a culture of performance, transparency, and continuous improvement. It would also provide a solid evidence base to guide future legal reforms, once the system and its people are prepared.
+
+Harnessing national resources for local reform
+
+The Government’s plan to reduce public sector employment offers a unique opportunity to support local government reform. Surplus staff from the national level public sector could be seconded to local councils to provide critical expertise without increasing the payroll. Managed strategically under a national framework, these secondees could help bridge skills gaps and accelerate local-level reform.
+
+(The writer is a Chartered Professional Engineer, a Fellow, and an International Professional Engineer of both the Institution of Engineers, Sri Lanka, and Australia. He holds two Masters Degrees in Local Government Engineering and in Engineering Management and at present, works in the Australian NSW Local Government Sector. He shares over three decades of local and overseas experience with Sri Lankan professionals to transform public sector management practices to meet international standards. He is contactable via [email protected].)
+

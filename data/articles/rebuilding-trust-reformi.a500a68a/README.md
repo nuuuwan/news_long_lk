@@ -1,0 +1,44 @@
+# Rebuilding trust, reforming habits, rethinking tax compliance
+
+[https://www.ft.lk/columns/Rebuilding-trust-reforming-habits-rethinking-tax-compliance/4-778398](https://www.ft.lk/columns/Rebuilding-trust-reforming-habits-rethinking-tax-compliance/4-778398)
+
+*01:15 AM, Tuesday, July 01, 2025*
+
+Rethinking taxes through the lens of mental accounting opens the door to smarter, more empathetic solutions
+
+In today’s world, earning a steady income has become more varied and complex than ever before. Many of us no longer depend on a single steady paycheck. Instead, our income comes from a variety of sources whether it’s a full-time job, freelance work, rental income, investments, or side gigs like driving for ride-share services, tutoring, or selling handmade crafts online. While this diverse mix brings flexibility and new opportunities, it also adds layers of complexity especially when it comes to managing money and keeping up with tax payments.
+
+What might surprise us is that people don’t usually delay or miss tax payments because they don’t want to pay. Often, it comes down to how they think about their money. There’s a natural habit, called mental accounting, where we divide our money into different “buckets” in our minds; some for daily expenses, some for fun, some for saving. Unfortunately, taxes often end up in the “maybe later” pile, or sometimes they’re forgotten altogether.
+
+Understanding this can help us see why even responsible people struggle with tax deadlines and point the way to better solutions that make tax time less stressful for everyone.
+
+What is mental accounting?
+
+Pioneered by a Nobel-winning American economist, Richard Thaler, mental accounting describes how people mentally divide their money into separate “buckets” for different purposes like groceries, entertainment, rent, or emergencies. This natural habit helps us feel more in control of our finances but can also cause us to treat money differently depending on where it comes from or how we plan to use it. For instance, someone may treat their salary as “serious” money for bills, while freelance income feels like “bonus” money for fun or shopping. Crucially, taxes are often placed in a mental category labelled “later,” “not urgent,” or worse completely overlooked.
+
+Such mental separation often leaves many people unprepared for tax payments, even when they’ve actually earned enough to cover them. Without consciously setting aside money for taxes, these payments can catch people off guard feeling like sudden, unwelcome expenses. This surprise can lead to delays, partial payments, or even skipping payments entirely, causing stress and financial trouble down the line.
+
+Changing the way people mentally account for taxes is both possible and necessary, and it requires a collective effort from taxpayers, tax consultants, policymakers, and tax administrators alike. By understanding how individuals naturally think about money, we can support more sustainable and responsible tax behaviour. For example, encouraging taxpayers to treat taxes like a regular monthly expense can ease the burden of year-end payments. At the same time, tax authorities and consultants can provide timely, friendly reminders and messages that highlight how tax revenue supports vital public services fostering a sense of shared purpose
+
+Why it matters for tax compliance?
+
+People who see taxes as a regular, unavoidable expense much like rent or utility bills tend to pay on time because they mentally set aside money throughout the year. This steady approach makes tax payments feel manageable and routine. However, for freelancers, self-employed individuals, and gig workers whose taxes aren’t automatically withheld, tax payment time can feel like a sudden burden or “extra cost” that disrupts their finances. Without clear reminders from the tax authority or simple planning tools, it’s easy for these taxpayers to delay or overlook payments. Creating supportive systems that encourage gradual saving and timely reminders can help turn taxes into a natural part of financial habits, boosting compliance.
+
+Common mistakes and misconceptions
+
+Mental accounting often causes people to view money from different sources through very different lenses. For example, a tax refund might be happily set aside for a vacation or a treat, while unpaid taxes quietly pile up unnoticed. Similarly, small, occasional earnings like selling old furniture online or taking a weekend consulting job can feel like “extra” or “free” money, leading taxpayers to overlook their tax obligations on these amounts. This isn’t about irresponsibility or neglect; rather, it’s a natural way our minds simplify complex financial decisions.
+
+Unfortunately, these mental shortcuts can create a false sense of security, causing many to underestimate what they owe. Over time, this gap between perception and reality increases stress, leads to penalties, and may result in long-term compliance challenges. Understanding these common feelings and mental habits is key to helping taxpayers better prepare and manage their obligations.
+
+Building better tax habits
+
+Changing the way people mentally account for taxes is both possible and necessary, and it requires a collective effort from taxpayers, tax consultants, policymakers, and tax administrators alike. By understanding how individuals naturally think about money, we can support more sustainable and responsible tax behaviour. For example, encouraging taxpayers to treat taxes like a regular monthly expense can ease the burden of year-end payments. At the same time, tax authorities and consultants can provide timely, friendly reminders and messages that highlight how tax revenue supports vital public services fostering a sense of shared purpose.
+
+Embracing user-friendly technology such as budgeting tools and automated savings features further empowers individuals to plan and stay compliant. Additionally, tailored messaging based on life stages from young freelancers to retirees ensures that the right guidance reaches the right people. Together, these strategies promote a more engaged and informed taxpayer community, making compliance more accessible and trust in the system stronger.
+
+Changing minds, changing compliance
+
+Rethinking taxes through the lens of mental accounting opens the door to smarter, more empathetic solutions. When taxpayers, policymakers, consultants, and administrators work together to align financial habits with tax obligations, compliance becomes less of a burden and more of a shared civic practice. By normalising routine planning, embracing digital tools, and delivering timely, transparent messaging, we can turn tax time into a manageable, even empowering, part of everyday life. The goal isn’t just to collect more it’s to build trust, foster responsibility, and create a tax culture that works for everyone.
+
+(The writer is the Deputy Commissioner General, Inland Revenue Department.)
+
