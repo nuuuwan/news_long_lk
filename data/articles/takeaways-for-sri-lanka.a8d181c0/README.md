@@ -1,0 +1,56 @@
+# Takeaways for Sri Lanka from UNCTAD’s Investment Reality Check
+
+[https://www.ft.lk/columns/Takeaways-for-Sri-Lanka-from-UNCTAD-s-Investment-Reality-Check/4-778443](https://www.ft.lk/columns/Takeaways-for-Sri-Lanka-from-UNCTAD-s-Investment-Reality-Check/4-778443)
+
+*05:46 AM, Wednesday, July 02, 2025*
+
+The key lies in recognising that the traditional model of competing for FDI through regulatory arbitrage and cost advantages is becoming more and more obsolete
+
+The release of UNCTAD’s ‘World Investment Report 2025’ delivers a sobering assessment of global capital flows, which serve both as a warning and opportunity for Sri Lanka’s economic recovery trajectory. Global foreign direct investment fell by 11%, marking the second consecutive year of decline and confirming a deepening slowdown in productive capital flows, while revealing a critical disconnect between where capital flows and where development needs are most acute. The report’s central thesis – that “too many economies are being left behind not for a lack of potential – but because the system still sends capital where it’s easiest, not where it’s needed” – resonates particularly strongly for an economy that is rebuilding its investment credentials.
+
+Investment Reality Check
+
+International project finance – often crucial for infrastructure – fell by 26% in 2024. The drop was especially steep in sectors critical to achieving the Sustainable Development Goals – renewable energy (-31%), transport (-32%) and water and sanitation (-30%). The global pullback from infrastructure finance compounds the challenge of securing the estimated $ 4 trillion annually needed for sustainable development in developing countries worldwide. Investments into digital projects, the issue is one of concentration where just ten countries accounted for 80% of all greenfield projects in the Global South.
+
+For a country that desperately needs infrastructure investment to support economic recovery and climate resilience, these trends suggest that traditional financing models may prove insufficient. These sobering statistics on global flows come alongside rising investment needs in Sri Lanka – to upgrade the power grid, improve transport networks, and enhance water management systems. While domestic savings alone cannot fund these massive capital injections, a refocus on innovative approaches to mobilising domestic capital may be needed. The report’s emphasis on blended finance mechanisms suggests that Sri Lanka must become more sophisticated in structuring public-private partnerships that can attract patient capital.
+
+Regional context and competitive positioning
+
+The divergent regional trends highlighted in the report offer both challenges and opportunities for Sri Lanka. In developing economies, regional trends diverged: Africa saw FDI rise 12% (net of a single large project in Egypt). Asia remained the world’s top FDI recipient, despite a modest 3% decline. Countries in Southeast Asia posted a 10% rise, reaching $ 225 billion — the second-highest level on record. South Asia’s performance remains uneven, with India leading the pack.
+
+Sri Lanka’s challenge lies in positioning itself competitively within Asia’s investment landscape while overcoming the reputational damage from its recent economic crisis. The country’s traditional strengths – strategic location, educated workforce, and English proficiency – remain relevant, but investors now demand greater regulatory predictability and policy consistency. Furthermore, attracting investment into the digital economy demands new capabilities. The country’s universities and technical institutions must rapidly adapt curricula to meet evolving skill demands, while regulatory frameworks need updating to support digital innovation without compromising security and privacy.
+
+Geopolitical fragmentation and investment flows
+
+The investment landscape in 2024 was shaped by geopolitical tensions, trade fragmentation and intensifying industrial policy competition, according to the UNCTAD report. These dynamics, combined with elevated financial risk and uncertainty, are redrawing global investment maps and eroding long-term investor confidence.
+
+For Sri Lanka, this fragmentation presents both risks and opportunities. The country’s historically non-aligned foreign policy stance could prove advantageous as multinational companies seek investment destinations that offer political stability without forcing difficult geopolitical choices. However, this requires maintaining delicate diplomatic balance while ensuring that domestic policies create an enabling environment for investment. Meanwhile, Sri Lanka may need to increasingly consider national security issues in investment policy and regulation, as we pointed out in a recent CSF Discussion Paper (‘The Emergence of National Security Considerations in Foreign Investment Regulation’).
+
+Sustainable finance: A window of opportunity
+
+The growing emphasis on sustainable finance presents a unique opportunity for Sri Lanka to reframe its investment narrative. With global sustainable fund markets expanding rapidly and Environmental, Social, and Governance (ESG) criteria becoming central to investment decisions. The report underscores that sustainable finance flows are increasingly directed toward projects that demonstrate clear alignment with the Sustainable Development Goals (SDGs).
+
+For Sri Lanka, this means that infrastructure projects combining climate resilience, digital connectivity, and social impact could access financing streams unavailable to purely commercial ventures. The country’s recent moves toward green bonds and sustainability-linked financing represent early steps, but a more comprehensive sustainable finance framework – including robust environmental and social safeguards, transparent reporting mechanisms, and clear performance metrics – will be essential to tap into this growing capital pool. As traditional FDI flows become more volatile, sustainable finance offers Sri Lanka a pathway to attract long-term, development-oriented investment that aligns with both recovery imperatives and climate commitments.
+
+Mobilising domestic capital
+
+Even as Sri Lanka remains sanguine about international sustainable finance flows, it’s useful to remain realistic about how soon and in what volumes these may come to Sri Lanka. While macroeconomic conditions improve, sovereign ratings upgrade, and foreign investor confidence builds, turning our attention to domestic sources of capital is important. Mobilising domestic sustainability-linked bonds, green deposits, special development financing windows in state banks, and blended finance mechanisms to attract multilateral finance to ‘tag team’ with domestic finance, should receive renewed focus.
+
+Strategic imperatives for policy reform
+
+Sri Lanka’s ongoing International Monetary Fund program has focused heavily on fiscal consolidation and debt sustainability – necessary but insufficient conditions for a sustainable recovery in growth. The UNCTAD findings suggest that without complementary policies to attract quality FDI, the country may find itself trapped in a low-growth equilibrium.
+
+The report’s call for “smarter capital – long-term, inclusive and aligned with sustainable development” should inform Sri Lanka’s investment promotion strategy. Rather than competing solely on traditional factors like low cost factor input (like labour) or revenue-eroding tax incentives, the country must position itself as a sophisticated, well-governed, and environmentally-conscious destination for transformative investments.
+
+Successive recent Governments’ efforts to streamline investment approvals and establish one-stop services represent positive steps, but deeper reforms are necessary. Progressive elements of the Economic Transformation Act (mainly enshrined in its Investment chapter) merit stronger consideration, as they provide for robust new platforms like the Economic Commission and Invest Sri Lanka (to drive FDI promotion and facilitation), and consolidates and updates Sri Lanka’s international investment obligations. The global trend toward investment concentration in digital sectors means that without deliberate policy intervention, the country risks being relegated to the periphery of the digital transformation that will define 21st-century economic competitiveness.
+
+Turning crisis into opportunity
+
+The World Investment Report 2025 serves as both warning and roadmap for Sri Lanka. The global investment environment is becoming more challenging, but countries that adapt quickly to new realities can still attract transformative capital.
+
+The key lies in recognising that the traditional model of competing for FDI through regulatory arbitrage and cost advantages is becoming more and more obsolete. Tomorrow’s winners will be countries that can offer modernising digital economy and trade infrastructure, skilled workforces, and regulatory frameworks that support openness while managing risks responsibly.
+
+Sri Lanka’s current economic difficulties, while painful, may paradoxically position the country to benefit from the global investment recalibration that the latest UNCTAD report describes. The economic and governance reforms being undertaken as part of Sri Lanka’s larger restructuring could make the country an attractive destination for investors seeking stable, predictable environments, in an uncertain global environment volatile world. Sri Lanka’s path to sustainable recovery depends on positioning itself not just as a reformed economy, but as a forward-looking partner for investors seeking stable, sustainable returns in an uncertain global environment.
+
+(The writer is Co-founder/Director at Centre for a Smart Future (CSF), and was previously Advisor to the Minister of Development Strategies and International Trade. He has worked in over ten countries advising Governments and private sectors on competitiveness and economic transformation strategies. He is an Appointed Member of the Governing Board and Monetary Policy Board of the Central Bank of Sri Lanka. Views expressed in this article are strictly the author’s own.)
+

@@ -1,5 +1,26 @@
 [
   {
+    "title": "Opposition and related problems",
+    "url": "https://www.ft.lk/columns/Opposition-and-related-problems/4-778445",
+    "ut": 1751415897.0,
+    "dir_path_unix": "data/articles/opposition-and-related-p.ac123d75",
+    "time_str_formatted": "05:54 AM, Wednesday, July 02, 2025"
+  },
+  {
+    "title": "Takeaways for Sri Lanka from UNCTAD\u2019s Investment Reality Check",
+    "url": "https://www.ft.lk/columns/Takeaways-for-Sri-Lanka-from-UNCTAD-s-Investment-Reality-Check/4-778443",
+    "ut": 1751415380.0,
+    "dir_path_unix": "data/articles/takeaways-for-sri-lanka.a8d181c0",
+    "time_str_formatted": "05:46 AM, Wednesday, July 02, 2025"
+  },
+  {
+    "title": "Wake-up call: Part 2  \u2013 Demystifying AI in business",
+    "url": "https://www.ft.lk/columns/Wake-up-call-Part-2-Demystifying-AI-in-business/4-778442",
+    "ut": 1751414963.0,
+    "dir_path_unix": "data/articles/wake-up-call-part-2-demy.a9b31304",
+    "time_str_formatted": "05:39 AM, Wednesday, July 02, 2025"
+  },
+  {
     "title": "Cloudflare will now, by default, block AI bots from crawling its clients\u2019 websites",
     "url": "https://www.technologyreview.com/2025/07/01/1119498/cloudflare-will-now-by-default-block-ai-bots-from-crawling-its-clients-websites/",
     "ut": 1751329857.0,
@@ -40,6 +61,20 @@
     "ut": 1751310431.0,
     "dir_path_unix": "data/articles/electricity-reforms-and.787b31b9",
     "time_str_formatted": "12:37 AM, Tuesday, July 01, 2025"
+  },
+  {
+    "title": "The Rise of Agentic Collaboration",
+    "url": "https://hbr.org/sponsored/2025/06/the-rise-of-agentic-collaboration",
+    "ut": 1751295076.0,
+    "dir_path_unix": "data/articles/the-rise-of-agentic-coll.8367fa4c",
+    "time_str_formatted": "08:21 PM, Monday, June 30, 2025"
+  },
+  {
+    "title": "How Physical Operations Organizations Are Using AI to Protect Workers and Increase Efficiency",
+    "url": "https://hbr.org/sponsored/2025/06/how-physical-operations-organizations-are-using-ai-to-protect-workers-and-increase-efficiency",
+    "ut": 1751294403.0,
+    "dir_path_unix": "data/articles/how-physical-operations.3f229e75",
+    "time_str_formatted": "08:10 PM, Monday, June 30, 2025"
   },
   {
     "title": "Shanakiyan Rasamanickam MP   Wants  international community to pressure Govt to give more protection to Chemmani mass grave site; Reveals suspected move about attempts to remove some skeletons from site.",
@@ -1909,6 +1944,13 @@
     "ut": 1747419106.0,
     "dir_path_unix": "data/articles/npp-running-high-on-rhet.df5ab03e",
     "time_str_formatted": "11:41 PM, Friday, May 16, 2025"
+  },
+  {
+    "title": "A pulse check from Ningbo, the epicentre of the tariff war",
+    "url": "https://www.eiu.com/n/a-pulse-check-from-ningbo-the-epicentre-of-the-tariff-war/",
+    "ut": 1747407360.0,
+    "dir_path_unix": "data/articles/a-pulse-check-from-ningb.dffd41ec",
+    "time_str_formatted": "08:26 PM, Friday, May 16, 2025"
   },
   {
     "title": "Teapots and ghosts: the economics behind China\u2019s Russian oil imports",

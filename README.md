@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-01 18:23:00**
+Last Updated **2025-07-02 06:26:13**
+
+## 2025-07-02
+
+* [Opposition and related problems](data/articles/opposition-and-related-p.ac123d75/README.md) `ft.lk`
+* [Takeaways for Sri Lanka from UNCTAD’s Investment Reality Check](data/articles/takeaways-for-sri-lanka.a8d181c0/README.md) `ft.lk`
+* [Wake-up call: Part 2  – Demystifying AI in business](data/articles/wake-up-call-part-2-demy.a9b31304/README.md) `ft.lk`
 
 ## 2025-07-01
 
@@ -15,6 +21,8 @@ Last Updated **2025-07-01 18:23:00**
 
 ## 2025-06-30
 
+* [The Rise of Agentic Collaboration](data/articles/the-rise-of-agentic-coll.8367fa4c/README.md) `hbr.org`
+* [How Physical Operations Organizations Are Using AI to Protect Workers and Increase Efficiency](data/articles/how-physical-operations.3f229e75/README.md) `hbr.org`
 * [Shanakiyan Rasamanickam MP   Wants  international community to pressure Govt to give more protection to Chemmani mass grave site; Reveals suspected move about attempts to remove some skeletons from site.](data/articles/shanakiyan-rasamanickam.2266c2f5/README.md) `dbsjeyaraj.com`
 * [Customs Inquiry Report Reveals that 999 red-classified containers were  released on 13 occasions without proper screening or follow-up since July 2024 says Opposition MP Mujibur Rahman in Parliament.](data/articles/customs-inquiry-report-r.8e9dc7e0/README.md) `dbsjeyaraj.com`
 * [Adverse global shocks and Sri Lanka’s road to recovery](data/articles/adverse-global-shocks-an.5e74b0be/README.md) `ft.lk`
@@ -408,6 +416,7 @@ Last Updated **2025-07-01 18:23:00**
 ## 2025-05-16
 
 * [NPP: running high on rhetoric  vs. run-of-the-mill corruption](data/articles/npp-running-high-on-rhet.df5ab03e/README.md) `ft.lk`
+* [A pulse check from Ningbo, the epicentre of the tariff war](data/articles/a-pulse-check-from-ningb.dffd41ec/README.md) `eiu.com`
 * [Teapots and ghosts: the economics behind China’s Russian oil imports](data/articles/teapots-and-ghosts-the-e.f1442b33/README.md) `eiu.com`
 * [Access to experimental medical treatments is expanding across the US](data/articles/access-to-experimental-m.a0c376b3/README.md) `technologyreview.com`
 * [Priority trade and competitiveness reforms for Sri Lanka – Part 1](data/articles/priority-trade-and-compe.1f03c43c/README.md) `ft.lk`

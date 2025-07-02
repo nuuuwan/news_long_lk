@@ -1,0 +1,62 @@
+# The Rise of Agentic Collaboration
+
+[https://hbr.org/sponsored/2025/06/the-rise-of-agentic-collaboration](https://hbr.org/sponsored/2025/06/the-rise-of-agentic-collaboration)
+
+*08:21 PM, Monday, June 30, 2025*
+
+AI is transforming how people work across their organizations. As these tremendous changes unfold, it’s increasingly clear that unlocking AI’s true potential hinges on how well teams collaborate with AI agents.
+
+While such seismic shifts can be daunting, we are on the precipice of newer, better ways of working. AI agents and, more specifically, agentic collaboration, are good for business, great for teams, and crucial for innovating at the speed of change.
+
+What makes a high-performing team in the age of AI? These teams exhibit three core competencies: consistent and creative problem-solving; continuous co-creation; and faster, smarter decision making. Let’s take a closer look at why these human competencies are so critical, and how AI can enhance them.
+
+1. Constant creative problem solving
+
+As humans, we have creative problem solving in our DNA. AI’s deeper automation removes repetitive execution tasks from our workloads, freeing up more time for teams to do continuous problem-solving. This change creates more headspace for human teams to tackle the harder, more ambitious problems.
+
+2. Continuous co-creation
+
+As AI democratizes work itself, formerly distinct job functions are blurring. We’re entering an age when product managers have the tools to design, and designers can code. The old silos are falling away, which means teams have to get much better at “yes, and” moments that invite deeper co-creation across job lines.
+
+3.  Improved decision-making
+
+Decisions and approvals should fuel work to get it over the finish line, not stall progress. With omnipresent data, teams and leaders now have access to more knowledge and insights than ever before. AI will enable leaders to better distinguish the signal from the noise to make informed decisions quickly.
+
+How AI agents increase momentum
+
+By fueling these crucial competencies, AI agents can exponentially increase a team’s momentum. And organizations that don’t embrace agentic collaboration will fall behind.
+
+What’s been getting in the way of momentum until now?
+
+Consider the way a team brainstorm generates a new idea for a project. Everyone leaves the session excited and eager to start their work—until the momentum-killers arrive. The team gets stalled for a week while someone synthesizes the brainstorm and clarifies next steps. Or perhaps it hits a delay, waiting for validation. Other projects get in the way, excitement fades, and momentum stalls.
+
+AI agents offer an antidote to momentum-killers. Instead of being mired in processes and approvals, the agents can begin work immediately post-session, turning ideas into a project plan while enabling the team to maintain its energy and focus. Instead of weeks of delays, team members can move swiftly from ideation to execution. And, with agents, a team of five has the power of a team of 50.
+
+Putting people at the center
+
+In the age of AI, people are more important than ever.
+
+Old models of work set up operations and processes centered around the tools themselves instead of around teams. This model adds layers of complexity around context switching and constant information transfer, and it creates laborious hoops for people to jump through.
+
+But with agentic collaboration, an entirely different and human-centric approach takes hold: people are at the center, with AI agents at their side.
+
+AI agents can solve problems that plague even the best organizations. Cross-functional silos, lagging processes, competing projects that dampen collaborative magic: these challenges stall momentum by creating logistical and psychological roadblocks—ones that AI agents can help relieve.
+
+Agentic collaboration also supports stronger asynchronous work within and across teams. Team members still have the opportunity to brainstorm as they would in a traditional group session, but an agent can uncover the “aha” moments and best ideas.
+
+This AI capability boosts inclusivity by ensuring that everyone can contribute and get equal consideration for their ideas, not just the loudest voices in the room.
+
+This is especially important for innovation, because the strongest new ideas emerge when people from different backgrounds, perspectives, and expertise imagine new futures together.
+
+Elevating agentic collaboration
+
+Thanks to AI, the value of collaboration itself is changing for organizations, and the potential is tremendous. Agents are the fuel organizations need to turn ideas into reality faster than ever.
+
+Gone are the days of individual superpowers. It’s time to focus on the power of teams, with humans at the center, and AI agents at our sides. With this new way of working, organizations can accelerate every aspect of innovation, from the spark of early ideas to the delivery of the final product.
+
+The future of collaboration is here—and agents are poised to become every team’s most valued partner.
+
+Jeff Chow is Chief Product and Technology Officer at Miro.
+
+Learn more about how Miro helps teams harness the power of AI.
+
