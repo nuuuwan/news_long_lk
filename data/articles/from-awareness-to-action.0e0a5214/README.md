@@ -1,0 +1,42 @@
+# From awareness to action: Applying marketing principles to transform tax administration in Sri Lanka
+
+[https://www.ft.lk/columns/From-awareness-to-action-Applying-marketing-principles-to-transform-tax-administration-in-Sri-Lanka/4-778493](https://www.ft.lk/columns/From-awareness-to-action-Applying-marketing-principles-to-transform-tax-administration-in-Sri-Lanka/4-778493)
+
+*03:07 AM, Thursday, July 03, 2025*
+
+Every nation adopts its own unique approach to managing and administering taxes, reflecting its economic priorities and governance model. In this context, tax administration plays a key role in economic development and is an important performance indicators (KPI) of a government’s success. In Sri Lanka, as in many developing countries, key challenges include low tax revenue, weak enforcement of tax laws, and the need for stronger strategies to improve tax collection and administration. Sri Lanka has had a problem of proper tax collection for decades.
+
+Furthermore, IMF highlights that Sri Lanka needs a fair tax system to boost revenue, stabilise its finances, and support sustainable economic growth during these challenging times. As part of its loan program, the IMF is urging Sri Lanka to carry out tax reforms to strengthen revenue collection and ensure fiscal sustainability. More importantly, we need to understand the role of marketing in tax administration and explore how we can use its concepts in an innovative way in this context.
+
+Tax administration and marketing
+
+There is a need to keep the public and all stakeholders aware of the importance of the tax system and it can be considered as part of tax administration. So we need to understand the importance of “marketing” in tax administration. As highlighted by Beyereh in his article published on thebftonline.com, marketing plays a vital role in modern tax administration by building trust, improving communication, and fostering voluntary compliance. There are many marketing models and strategies we can apply to improve tax administration. In this article, we focus on how the AIDA model can play a role in strengthening tax administration.
+
+Tax administration and the AIDA model
+
+The AIDA model is a well-known and highly effective framework that describes the stages individuals typically follow before making a decision: Attention, Interest, Desire, and Action. While it originated in marketing and advertising, this model is very much applicable for various purposes beyond sales, providing a strong structure for creating persuasive and impactful messages. We need to understand how the AIDA model can be used for effective tax administration.
+
+Refer to the given diagram, and the explanation below describes the AIDA model:
+
+Awareness – Creating awareness so people recognise your product or service.
+
+Interest – Generating interest by showing how your product or service can benefit them and encouraging further exploration.
+
+Desire – Building an emotional connection that moves people from liking to wanting your product or service.
+
+Action – Inspiring people to take action, such as contacting you, signing up, or making a purchase. Many organisations also aim for Retention, focusing on keeping customers loyal and encouraging referrals.
+
+Now we need to discuss how we can get the help of AIDA for tax administration in Sri Lanka.
+
+Awareness: The first step is to create greater public awareness about why paying taxes is important for the country’s development. We need to have better strategies and this can be done through media campaigns, school programs, and community meetings that explain how tax money supports services like infrastructure, education, and healthcare. We can have a theme (in English, Sinhala and Tamil) like “You pay taxes for better roads, schools, hospitals,” which needs to be promoted through traditional media like TV, radio and print, as well as social media such as FB, Instagram, Twitter which would play an important role.
+
+Interest: Once people are aware, it’s important to generate interest by highlighting the benefits of paying taxes. As an example, we can share success stories where tax revenue helped improve public services, etc. More importantly, digital platforms and social media can make this information engaging and accessible.
+
+Desire: To build desire, relevant parties need to strengthen the emotional connection by showing transparency and fairness in the Sri Lankan system. When people see that taxes are used efficiently and effectively and services improve, they are more willing to contribute.
+
+Action: Digitalisation and technology are essential for Sri Lanka, as they have the power to transform tax administration and make it more efficient, transparent, and user-friendly. Finally, making it easy to pay taxes through online systems, mobile apps, and help desks—can drive people into action. Providing reminders for your taxpayers and step-by-step guidance ensures people follow through.
+
+Sri Lanka must adopt stronger, more effective strategies across multiple sectors. Building a resilient and prosperous future requires not only sound policymaking and clear strategic direction but also the promotion of discipline at every level of society. In this context, tax income always plays a key role in generating revenue for the nation. There is a need for the entire community of the country to understand this and have proper attitude towards paying taxes for the betterment of all. In this context, marketing plays a vital role in tax administration, as it helps shape public perception and compliance. Policymakers in this sector must adopt well-defined strategies to ensure effective communication, trust-building, and engagement with citizens.
+
+(The writer is a Professor in Management Studies, Open University of Sri Lanka and can be reached at [email protected].)
+

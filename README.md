@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-02 18:22:42**
+Last Updated **2025-07-03 06:25:52**
+
+## 2025-07-03
+
+* [Ragging: Cause for or symptom of outdated higher education system?](data/articles/ragging-cause-for-or-sym.8bb5a1cd/README.md) `ft.lk`
+* [From awareness to action: Applying marketing principles to transform tax administration in Sri Lanka](data/articles/from-awareness-to-action.0e0a5214/README.md) `ft.lk`
+* [Beyond borders: Closer look at  France-Sri Lanka economic cooperation](data/articles/beyond-borders-closer-lo.cfe4df4b/README.md) `ft.lk`
 
 ## 2025-07-02
 
+* [Volker Türk’s accountability absurdities, nasty Nazi allusions and internationalisation trap](data/articles/volker-türk-s-accountabi.0185a010/README.md) `ft.lk`
+* [If the SJB continues to blunder and dither, come 2029, it will find itself outsmarted again, this time by a rejuvenated SLPP and a Candidate Namal who appeals to the primordial fears of a disenchanted electorate.](data/articles/if-the-sjb-continues-to.193bfc54/README.md) `dbsjeyaraj.com`
 * [Opposition and related problems](data/articles/opposition-and-related-p.ac123d75/README.md) `ft.lk`
 * [Takeaways for Sri Lanka from UNCTAD’s Investment Reality Check](data/articles/takeaways-for-sri-lanka.a8d181c0/README.md) `ft.lk`
 * [Wake-up call: Part 2  – Demystifying AI in business](data/articles/wake-up-call-part-2-demy.a9b31304/README.md) `ft.lk`
@@ -51,6 +59,7 @@ Last Updated **2025-07-02 18:22:42**
 ## 2025-06-26
 
 * [With purpose we strive and succeed](data/articles/with-purpose-we-strive-a.f2f2eeb5/README.md) `ft.lk`
+* [This battery recycling company is now cleaning up AI data centers](data/articles/this-battery-recycling-c.5c27b961/README.md) `technologyreview.com`
 * [Chandrika Bandaranaike Kumaratunga: Sri Lanka’s daughter of destiny](data/articles/chandrika-bandaranaike-k.f8343fbe/README.md) `ft.lk`
 * [Renewable energy: More serious focus is needed](data/articles/renewable-energy-more-se.ee76cfb6/README.md) `ft.lk`
 * [Israel, stop the genocide; free Palestine; stop US-sponsored imperialist project in Middle-East](data/articles/israel-stop-the-genocide.924c2b48/README.md) `ft.lk`
