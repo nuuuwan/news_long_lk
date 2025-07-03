@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-03 06:25:52**
+Last Updated **2025-07-03 18:24:46**
 
 ## 2025-07-03
 
+* [Don’t let hype about AI agents get ahead of reality](data/articles/don-t-let-hype-about-ai.35586b08/README.md) `technologyreview.com`
 * [Ragging: Cause for or symptom of outdated higher education system?](data/articles/ragging-cause-for-or-sym.8bb5a1cd/README.md) `ft.lk`
 * [From awareness to action: Applying marketing principles to transform tax administration in Sri Lanka](data/articles/from-awareness-to-action.0e0a5214/README.md) `ft.lk`
 * [Beyond borders: Closer look at  France-Sri Lanka economic cooperation](data/articles/beyond-borders-closer-lo.cfe4df4b/README.md) `ft.lk`
@@ -21,6 +22,7 @@ Last Updated **2025-07-03 06:25:52**
 ## 2025-07-01
 
 * [Cloudflare will now, by default, block AI bots from crawling its clients’ websites](data/articles/cloudflare-will-now-by-d.cccc0f56/README.md) `technologyreview.com`
+* [What comes next for AI copyright lawsuits?](data/articles/what-comes-next-for-ai-c.1e80a76b/README.md) `technologyreview.com`
 * [Rebuilding trust, reforming habits, rethinking tax compliance](data/articles/rebuilding-trust-reformi.a500a68a/README.md) `ft.lk`
 * [Compelling case for smarter VAT solution for exporters](data/articles/compelling-case-for-smar.00c6f8ec/README.md) `ft.lk`
 * [Sri Lanka’s Local Government reform: Strategic imperative for progress – Part 1](data/articles/sri-lanka-s-local-govern.a60f7835/README.md) `ft.lk`
@@ -33,6 +35,7 @@ Last Updated **2025-07-03 06:25:52**
 * [How Physical Operations Organizations Are Using AI to Protect Workers and Increase Efficiency](data/articles/how-physical-operations.3f229e75/README.md) `hbr.org`
 * [Shanakiyan Rasamanickam MP   Wants  international community to pressure Govt to give more protection to Chemmani mass grave site; Reveals suspected move about attempts to remove some skeletons from site.](data/articles/shanakiyan-rasamanickam.2266c2f5/README.md) `dbsjeyaraj.com`
 * [Customs Inquiry Report Reveals that 999 red-classified containers were  released on 13 occasions without proper screening or follow-up since July 2024 says Opposition MP Mujibur Rahman in Parliament.](data/articles/customs-inquiry-report-r.8e9dc7e0/README.md) `dbsjeyaraj.com`
+* [Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man](data/articles/meet-jim-o-neill-the-lon.29f07184/README.md) `technologyreview.com`
 * [Adverse global shocks and Sri Lanka’s road to recovery](data/articles/adverse-global-shocks-an.5e74b0be/README.md) `ft.lk`
 * [Social cohesion: Relevance for Sri Lanka](data/articles/social-cohesion-relevanc.fcf6519b/README.md) `ft.lk`
 * [Enter the precious ship of entrepreneurship](data/articles/enter-the-precious-ship.82f5b5e7/README.md) `ft.lk`
