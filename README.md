@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-04 06:25:45**
+Last Updated **2025-07-04 18:23:06**
 
 ## 2025-07-04
 
 * [JVP-NPP Govt. and 5,941 acre “gazetted landgrab” attempt in north](data/articles/jvp-npp-govt-and-5-941-a.d5e2905c/README.md) `ft.lk`
+* [Why Sri Lanka needs smarter approach to tobacco tax policy](data/articles/why-sri-lanka-needs-smar.6d7052bc/README.md) `ft.lk`
 * [Why Sri Lanka needs smarter approach to tobacco tax policy](data/articles/why-sri-lanka-needs-smar.cf955e2e/README.md) `ft.lk`
 * [Gaza: Humanity’s litmus test](data/articles/gaza-humanity-s-litmus-t.ada25a6f/README.md) `ft.lk`
 * [Will Sri Lanka keep the good governance prize?](data/articles/will-sri-lanka-keep-the.ddf5b7d7/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-07-04 06:25:45**
 
 ## 2025-07-03
 
+* [Google’s electricity demand is skyrocketing](data/articles/google-s-electricity-dem.3668ef4e/README.md) `technologyreview.com`
 * [Don’t let hype about AI agents get ahead of reality](data/articles/don-t-let-hype-about-ai.35586b08/README.md) `technologyreview.com`
 * [Ragging: Cause for or symptom of outdated higher education system?](data/articles/ragging-cause-for-or-sym.8bb5a1cd/README.md) `ft.lk`
 * [From awareness to action: Applying marketing principles to transform tax administration in Sri Lanka](data/articles/from-awareness-to-action.0e0a5214/README.md) `ft.lk`
@@ -30,6 +32,7 @@ Last Updated **2025-07-04 06:25:45**
 ## 2025-07-01
 
 * [Cloudflare will now, by default, block AI bots from crawling its clients’ websites](data/articles/cloudflare-will-now-by-d.cccc0f56/README.md) `technologyreview.com`
+* [People are using AI to ‘sit’ with them while they trip on psychedelics](data/articles/people-are-using-ai-to-s.30847add/README.md) `technologyreview.com`
 * [What comes next for AI copyright lawsuits?](data/articles/what-comes-next-for-ai-c.1e80a76b/README.md) `technologyreview.com`
 * [Rebuilding trust, reforming habits, rethinking tax compliance](data/articles/rebuilding-trust-reformi.a500a68a/README.md) `ft.lk`
 * [Compelling case for smarter VAT solution for exporters](data/articles/compelling-case-for-smar.00c6f8ec/README.md) `ft.lk`
