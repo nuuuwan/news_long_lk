@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-03 18:24:46**
+Last Updated **2025-07-04 06:25:45**
+
+## 2025-07-04
+
+* [JVP-NPP Govt. and 5,941 acre “gazetted landgrab” attempt in north](data/articles/jvp-npp-govt-and-5-941-a.d5e2905c/README.md) `ft.lk`
+* [Why Sri Lanka needs smarter approach to tobacco tax policy](data/articles/why-sri-lanka-needs-smar.cf955e2e/README.md) `ft.lk`
+* [Gaza: Humanity’s litmus test](data/articles/gaza-humanity-s-litmus-t.ada25a6f/README.md) `ft.lk`
+* [Will Sri Lanka keep the good governance prize?](data/articles/will-sri-lanka-keep-the.ddf5b7d7/README.md) `ft.lk`
+* [SL: dying to be born on  some ‘Fourth of Never’](data/articles/sl-dying-to-be-born-on-s.54337fb2/README.md) `ft.lk`
 
 ## 2025-07-03
 
