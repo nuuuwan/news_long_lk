@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-04 18:23:06**
+Last Updated **2025-07-05 06:25:48**
 
 ## 2025-07-04
 
+* [Oceans and the triple planetary crisis](data/articles/oceans-and-the-triple-pl.a5311e3d/README.md) `ft.lk`
+* [What America doesn’t get about South Asia: India and Pakistan can’t be equated](data/articles/what-america-doesn-t-get.8fc8c298/README.md) `ft.lk`
+* [Fury unleashed in Jaffna](data/articles/fury-unleashed-in-jaffna.0230a23f/README.md) `ft.lk`
+* [Drug shortages in State hospitals: Creation by interested parties?](data/articles/drug-shortages-in-state.536f1ae4/README.md) `ft.lk`
+* [Will   Israeli Prime Minister Benjamin  Netanyahu be Convicted on  Corruption Charges of  Bribery,Fraud and Breach of Trust or  Simply  be let off the Hook?](data/articles/will-israeli-prime-minis.3c24b286/README.md) `dbsjeyaraj.com`
+* [“Capt. Miller” the LTTE’s first Black Tiger suicide bomber: 5 July 1987 Nelliaddy attack gave birth to the Black Tigers](data/articles/capt-miller-the-ltte-s.177c0a74/README.md) `dbsjeyaraj.com`
 * [JVP-NPP Govt. and 5,941 acre “gazetted landgrab” attempt in north](data/articles/jvp-npp-govt-and-5-941-a.d5e2905c/README.md) `ft.lk`
 * [Why Sri Lanka needs smarter approach to tobacco tax policy](data/articles/why-sri-lanka-needs-smar.6d7052bc/README.md) `ft.lk`
 * [Why Sri Lanka needs smarter approach to tobacco tax policy](data/articles/why-sri-lanka-needs-smar.cf955e2e/README.md) `ft.lk`
