@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-06 18:22:15**
+Last Updated **2025-07-07 06:25:58**
+
+## 2025-07-07
+
+* [Middlemen in shipping and logistics at it again, lobbying for anti-competitive charges on exporters and importers?](data/articles/middlemen-in-shipping-an.c31d07b6/README.md) `ft.lk`
+* [Fifty years of faith, forgiveness, and fearless advocacy](data/articles/fifty-years-of-faith-for.c7e4d411/README.md) `ft.lk`
+* [A tribute to Rienzie Wijetilleke](data/articles/a-tribute-to-rienzie-wij.2247da53/README.md) `ft.lk`
+* [Appreciation: Rienzie Wijetilleke is no more but his name remains in our hearts forever](data/articles/appreciation-rienzie-wij.08f96090/README.md) `ft.lk`
 
 ## 2025-07-04
 
