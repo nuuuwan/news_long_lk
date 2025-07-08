@@ -1,0 +1,80 @@
+# Insight of economics: Push and pull factors
+
+[https://www.ft.lk/columns/Insight-of-economics-Push-and-pull-factors/4-778723](https://www.ft.lk/columns/Insight-of-economics-Push-and-pull-factors/4-778723)
+
+*05:10 AM, Tuesday, July 08, 2025*
+
+Sri Lanka is navigating in turbulent waters with uncertainties and risks in the midst of conflicts in the Middle East and Ukraine and changes to US export tariffs in the offing. Being under the IMF agreement, the Government has limited leverage in forming acceptable changes to fulfil the key election promise “Rich Country and Healthy Lifestyle”. One could view the IMF agreement as so harsh and inhumane for most marginalised communities, however at the same time no other conducible alternatives exist to revive the economy towards stability and growth. As theorists say the economic policy framework should be constructed under three distinct components, Macroeconomy, Microeconomy and Economic modelling.
+
+In general terms the economy of a state is built upon the production and consumption of goods and services and the supply of money. The production, and delivery of goods and services basically fall in the space of microeconomy and the growth and prompts economic momentum. In this setting a country’s macroeconomy is the top layer of the economic pyramid and microeconomy is construed to the layer below. To economically succeed, it is imperative to strengthen this layer which constitute of MSME (Micro, Small and Medium Enterprises) sectors, the key drivers of success. On the contrary, it has been recently seen that Sri Lanka’s big and largescale enterprises reporting YoY profits despite the macroeconomy is in the crutches and supported on IMF and other loan schemes.
+
+As previously mentioned, macroeconomics is the study of the behaviour of the whole economy of a state and compound to the Gross National Product and its relationship to the variations of employment, national income, growth rate and price levels. Other key factors are inflation, interest rate, exchange rate, government debts, primary account balance, the state revenue primarily on taxes, duties, licences direct and indirect. The given picture [1] shows how Sri Lanka manoeuvred the economy over the years since 2018 in respect of the key indices.
+
+Microeconomics is the study of the cumulated effect of moves, actions by the people and businesses make regarding the share of resources and prices of goods and services. It focuses on supply and demand and other forces that determine the price levels. Companies could stimulate the demand of the goods and services by maximising their production and capacity thus lowering the prices to increase the consumption and to be profitable which in turn state benefits from tax revenue within the framework of set rules and regulations. Although, the big businesses are profitable the MSME sector is still crawling and failed to contribute to national economy as expected.
+
+It appears that the Government so far has not taken tangible decisions to resurrect this sector. One example would be the likely termination of the parate scheme despite persistent pressure exerted by the Opposition. Is the Government’s “Aswasuma” scheme rightly targeted to provide relief and trigger micro-small-scale sectors to grow and also has a scheme to monitor the progress?
+
+The picture [1] shows the correlation of key micro-economic indices to GDP. For example, inflation index (price levels) has a direct correlation, whereas GDP per capita has inverse correlation to GDP.
+
+Macro-economic policy
+
+Government is solely responsible for the formulation of policy framework and accountable for the results and deviations. In the current context as Sri Lanka is under the microscope of the IMF (Extended Fund Facility) scheme and fulfilment of goals are imperative to continue and reaping the benefit therein. Despite these restrictions of IMF, where they are primarily looking at State revenue collection for stabilisation, Government has to devise and manage its policies and fiscal tools, such as taxation, public expenditure, money circulation, interest rates to target development and stimulate the growth of the MSME sector.
+
+Macro-economic polices greatly impact employment and sustainable economic growth. Are these IMF program guidelines create negative consequences? I am sure it does to an extent.
+
+The purpose of strong and righteous policies and continued assessments of goals and developments will work towards achieving targets curbing the political interferences. The weak economy that has been seen over the past decades, e.g. developments with no ROI, failed to withstand any unforeseen economic tremors without international assistance. In the event the Israeli-Iran issue flares up SL economy will be hit harder.
+
+Micro-economic policy
+
+Micro economic policies target at the development of firms and households playing a key role, firms count all sectors including MSMEs. Policies should also be favourable to attract FDI opportunities weighing the pros and cons and ensure whilst achieving State objectives, in a nutshell provide employment, raising living standards, revenue, productivity and efficiency. Shall not encourage Ghost FDI where to benefit from exploiting the tax concessions offered by the State.
+
+The purpose of this work stream is to identify the available micro-economic policy options, appraise different options against development and with real objectives work goals and make recommendations to cabinet on policy and implementation issues. In doing so, it will identify relevant micro-economic policy issues with due regard to the policy goals of Government. In order to perform its functions effectively, shall develop an economic brainpower database on real economy entities, economic entities that the State has a shareholding in and provides incentives to or which have received State support. In fulfilling its functions, the work stream will research and develop policies that help manufacture equity and the generation of full employment.
+
+It is worthwhile to be mentioned that the previous regimes had State ministers for local cottage industries namely few: Batik, handloom and local apparel products, gold, brass, pottery, furniture and rural industrial promotion, minor crops, etc. primarily as a windfall for the tireless work carried out during the election campaigns and not to uplift and grow such local industries. The wrong policies and actions brought the country to its knees. Sri Lanka needs to learn lessons from our neighbouring countries who had successfully managed their economies and become world leaders in the past few decades.
+
+Econometrics – Economic modelling
+
+Econometrics, in simple terms modelling, is a field that applies statistical methods to economic data to quantify and analyse economic relationships. This uses mathematical tools to turn economic theory into testable models using statistical inference and mathematical tools making to understand how different factors interact and to make predictions about future economic behaviour. Applying these tools, assessments could be arrived at with high confidence margins to understand how different factors interact and to make predictions about future outlook.
+
+The economy is a complex system and depends upon internal and external factors that we are unable to comprehend due to uncertainties. To begin with, a quantifiable framework is the key to understand variables and how they play in real-time also forecasting. Furthermore, assessment of risk factors, their hit probabilities, timing and impacts against policies is vital to steer the economy without shipwreck. Based on the well thought framework, modelling needs to be carried out thus evaluate measures and counter-measure to initiate, overcome viz: economic perturbations and shocks of reasonable magnitude. Over the years it has been seen Sri Lanka had never stuck to a rigid framework and regrettably policies within. The bankruptcy and followed by IMF EFF, brought some financial discipline to revive the economic sustainability, however, the most marginalised and vulnerable communities have been hard hit although providing negligible relief package.
+
+Whilst analysing the consequences of a policy proposal at the macroeconomic level, where high correlation between policies need to be factored into the model, adding risks and issues, local and extraneous nature. Models help establishing synergy between various policies by capturing empirically important effects and indirect links in the economy and count the blow of policy proposals on aggregate variables (e.g., growth, employment, inflation, etc.), sector performance, poverty and inequality.
+
+The external trade risks and issues of both short term and long term, require to be assessed particularly for high export dependant countries. Worth noting the recent lukewarm action and less preparedness of the Government in spite of early warnings by US announcing changes to tariffs was appalling. For example, Sri Lanka earns trade surplus with US over many years, e.g. SL export earnings $ 2.93 billion with a surplus of $ 2.44 billion (ref source: https://oec.world/en/profile/country/lka year 2023), this change will hit hard the economy especially whilst with IMF EFF. Another example is the impact of uncertainty to the economy as a result of the unresolved, ongoing conflict in the Middle East affecting on oil prices and the world trade.
+
+Government fiscal strategy statement for the year 2026
+
+On 30 June 2025, Sri Lanka Government presented the Fiscal Strategy statement for 2026. It appears to be a high-level presentation and lacks details. Several Government MPs used this stage to attack previous Governments’ malpractices, corruption and saying they inherited a bankrupt country. The current Government has completely forgotten they were part and parcel of previous regimes supporting directly and indirectly. This is the habit and nature of Sri Lanka politics and is regrettable. Government answering clarification said the GDP growth is forecasted to be around 10% in the coming years despite ADB forecasted 3.5 to 3.1% growth which was hardly sufficient to pay back loans commencing year 2028. As mentioned earlier has Government applied the econometrics to assess the economic growth understanding the key concepts such as interdependency of variables, causal inferences regression and mathematical tools, etc.? Has Sri Lanka got expertise to assess and determine the direction of the economy in the years ahead?
+
+The main engine driving the macroeconomy is undoubtedly the MSME sector. The incentives to grow this sector appear to be forgotten and even the basic essentials are being imported and disincentivising the local industries. It is to be mentioned that Government is only a driver of growth but not the drivers of growth, this means the private sector, big and small businesses should be the primary drivers of growth. Governments should make a level playing ground, reducing the cost of businesses – taxes, rates, etc. Has not seen such move in the policy statement rather than maintain Government control. As the parate execution is to be recommenced, the small business owners will be worst off beyond recovery.
+
+It has also been said that the capital budget allocation for this Financial Year was Rs. 1,400 billion, primary aim to stimulate the economy and thus growing the GDP over 4% this year. At the current level of usage approx. 20%, is far low in continuing the economic recovery program. In the event Government failed to accelerate its capital programs the savings thereupon will be wasted and get transferred back to Primary Account thus showing hypothetical gains balance – another IMF target achieved. Boasting and announcing a record-high capital budget allocation at the presentation of Budget was a spin and unachievable target?
+
+In another area to stimulate economic growth by bringing high level FDIs, some decisions of the Government have worked against this phenomenon, the World Bank, ADB and JICA raised their displeasure to the amendment of the electricity bill, highlighting this bill will lead to pessimism for attracting FDIs. There were also confusion and contradictory statements floating around the volume of secured FDIs quarterly-wise and to date.
+
+The current Government’s focus is to catch the culprits, mainly opponents who have stolen public assets and built wealth setting for luxurious life unknowingly their long-term repercussion. Is this a momentum to attract high quality FDIs, convincing Sri Lanka is a corruption-free State?
+
+Has the IMF factored in the extraneous economic issues and disturbances while determining the objectives and goals in their EFF package for the ensuing period or simply assumed other events being normal? It comes to my mind that in Physics, the Boyle’s law stipulates P (pressure) × V (volume) is a constant when other dependant variables are unchanged specifically, the temperature. Could such assumptions be applied for economic modelling and hold all the dependant variables are fixed?
+
+The management of issues as and when they hit should be avoided and instead be managed through robust economic modelling. This process will ease the undue pressure and hardships to the public in achieving IMF goals, or at ease borrow more through multilateral agencies to redress such situations, if so, this surely ends in a second IMF EFF in the years ahead with no returning back.
+
+[1] https://www.dailymirror.lk/business-247/SL-lacks-reform-momentum-despite-political-shift-Top-economist/395-312915
+
+[2] https://www.dailymirror.lk/breaking-news/Government-announces-ambitious-plan-to-reduce-debt-to-95-of-GDP-by-2032-MP/108-312923
+
+[3] https://www.google.com/search?q=adb+gdp+projection+on+sri+lanka+gdp&rlz=1C1GIVB_enAU788AU788&oq=ADB+GDP+projection+on+Sri+Lanka+&aqs=chrome.1.69i57j33i160l4.26627j0j15&sourceid=chrome&ie=UTF-8#vhid=B2MKyPIKtO5KTM&vssid=l
+
+[4] https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Micro-and-Macro
+
+[5] https://www.researchgate.net/publication/333131562_MICROECONOMIC_AND_MACROECONOMIC_ISSUES_EFFECTS_ON_ECONOMIC_GROWTH
+
+[6] https://cepr.org/voxeu/columns/health-and-economic-growth-reconciling-micro-and-macro-evidence
+
+[7] https://research.com/education/microeconomics-vs-macroeconomics
+
+[8] https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-economic-review/annual-economic-review-2024
+
+[9] https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/publications/aer/2024/en/Full_Text.pdf
+
+[10] https://www.ft.lk/front-page/Economy-loses-steam-in-1Q-with-lower-growth/44-777811#
+

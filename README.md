@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-07 06:25:58**
+Last Updated **2025-07-08 06:25:51**
+
+## 2025-07-08
+
+* [Insight of economics: Push and pull factors](data/articles/insight-of-economics-pus.c1fc1538/README.md) `ft.lk`
+* [Inside the Echo Temple: Moral binding and architecture of belief – Part 2A](data/articles/inside-the-echo-temple-m.171584b6/README.md) `ft.lk`
+* [Innovation and lives at stake in Sri Lanka’s smoking policy decisions](data/articles/innovation-and-lives-at.63a0b5af/README.md) `ft.lk`
+* [Sri Lanka’s rapid ageing: Challenge and opportunity](data/articles/sri-lanka-s-rapid-ageing.990d55df/README.md) `ft.lk`
+* [Why investors are reluctant to come to Sri Lanka despite incredible potential](data/articles/why-investors-are-reluct.3a7b93d2/README.md) `ft.lk`
 
 ## 2025-07-07
 
@@ -25,6 +33,7 @@ Last Updated **2025-07-07 06:25:58**
 * [Gaza: Humanity’s litmus test](data/articles/gaza-humanity-s-litmus-t.ada25a6f/README.md) `ft.lk`
 * [Will Sri Lanka keep the good governance prize?](data/articles/will-sri-lanka-keep-the.ddf5b7d7/README.md) `ft.lk`
 * [SL: dying to be born on  some ‘Fourth of Never’](data/articles/sl-dying-to-be-born-on-s.54337fb2/README.md) `ft.lk`
+* [Inside India’s scramble for AI independence](data/articles/inside-india-s-scramble.9be60df0/README.md) `technologyreview.com`
 
 ## 2025-07-03
 
