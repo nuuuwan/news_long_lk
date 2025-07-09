@@ -1,0 +1,58 @@
+# Delayed promise of a new constitution: Why NPP is failing to stick to mandate
+
+[https://www.ft.lk/columns/Delayed-promise-of-a-new-constitution-Why-NPP-is-failing-to-stick-to-mandate/4-778748](https://www.ft.lk/columns/Delayed-promise-of-a-new-constitution-Why-NPP-is-failing-to-stick-to-mandate/4-778748)
+
+*05:40 AM, Wednesday, July 09, 2025*
+
+President Anura Kumara Disanayake in Parliament
+
+When the National People’s Power (NPP) swept into office in a landmark election, it did so riding a wave of public frustration and hope. Their mandate was clear: dismantle the corrupt political order, deliver socio-economic justice, and most crucially, bring in a new constitution that reflects the aspirations of a post-crisis Sri Lanka. But nearly a year into their governance, that promise appears to be wavering.
+
+In its 2024 election manifesto, the NPP explicitly pledged to “introduce a new people-centered constitution that ensures sovereignty, abolishes the executive presidency, strengthens democracy, and guarantees the rights of all citizens.” This was not a vague vision, it was a cornerstone commitment that formed the backbone of their legitimacy.
+
+A Constitutional reset: Why it’s non-negotiable
+
+Without a new constitution, Sri Lanka cannot establish the new political system the NPP promised. The current legal and governance framework, shaped by decades of authoritarianism and excessive centralisation, cannot support the democratic, just, and inclusive state that the people demanded during the Aragalaya. Power remains too heavily concentrated in the executive, undermining accountability, participation, and provincial empowerment. Only a new constitution can lay the foundation for genuine power devolution, stronger provincial & local governance, and a system where citizens, not political elites, are at the center of decision-making.
+
+Moreover, economic sovereignty is impossible without political transformation. The present constitution enables unchecked executive power, patronage politics, and institutional weakness, factors that have long undermined investor confidence, economic planning, and fiscal responsibility. Without addressing these structural flaws, even the most well-intentioned economic reforms are bound to fail.
+
+Some may argue that Sri Lanka’s economic crisis was purely a result of poor fiscal management or external shocks. But the deeper truth lies in the lack of constitutional provisions to ensure financial sovereignty. There is no robust constitutional mechanism to prevent unsustainable debt, misappropriation of public funds, or abuse of national assets. If Sri Lanka truly wants to become a financially sustainable nation, we must constitutionally enshrine the principles of financial sovereignty, through independent fiscal institutions, transparent budget oversight, and limits on executive overreach in economic matters.
+
+Sri Lanka’s deeper deficit: A Constitutional vision
+
+Sri Lanka is a country that has long suffered from the absence of a “constitutional vision.” While multiple constitutions have been enacted, often in response to political power struggles or ethnic conflict, none have laid out a coherent, future-oriented framework for national unity, economic justice, and democratic renewal.
+
+A constitutional vision is not simply about legal clauses; it is about a shared national direction, a commitment to long-term transformation, equity, and accountability. This NPP Government has a golden opportunity to give Sri Lanka what it has never truly had: a clear, inclusive, and modern constitutional philosophy that redefines the state-citizen relationship and safeguards the future. The tragedy is that this opportunity is slipping away in silence.
+
+Why is a Government that came to power on the back of a historic people’s movement failing to use this rare political space to construct a meaningful constitutional vision? What is stopping them from taking the bold steps required to correct decades of systemic failure?
+
+A Crisis of delay, or a deliberate detour?
+
+To date, the Government has yet to present a draft constitutional framework. Consultative processes, promised as inclusive and transparent, have been fragmented and largely symbolic. Civil society organisations, minority representatives, and legal professionals, once vocal supporters of the NPP, are now expressing deep disappointment over the lack of clarity and urgency.
+
+The Government attributes the delay to the need for “broad consensus” and “technical complexities.” But critics argue that these are convenient smokescreens. s
+
+One of the most anticipated elements of the NPP’s proposed new constitution was the abolition of the executive presidency, a system widely viewed as the root of authoritarianism and institutional breakdown in Sri Lanka. Yet the presidency remains intact, and some allege that the current leadership is finding comfort in the same sweeping powers they once criticised.
+
+There are signs that the executive arm is being used to centralise rather than devolve power. Key appointments, delays in empowering independent commissions, and a lack of transparency in cabinet deliberations suggest a reversion to the old political playbook.
+
+Public trust on the line
+
+For a generation that led mass protests against the Rajapaksa-led regime and demanded structural reform, not just a change in leadership, the NPP’s hesitancy feels like betrayal. The Aragalaya spirit was not about partisan politics; it was about a new political culture. Without visible constitutional change, many fear that the NPP risks becoming the very establishment it vowed to replace.
+
+“The mandate was not for maintenance, but for transformation,” says human rights advocate Shreen Abdul Saroor. “Every day that passes without constitutional reform is a day that chips away at the people’s faith in this experiment.”
+
+Strategic calculations or political cowardice?
+
+Political analysts speculate that the NPP may be calculating that structural change could alienate key interest groups or complicate future elections. But this strategy could backfire. The NPP’s support base is not static, it is contingent. If the public sees no tangible progress on promises, political disillusionment may set in once again.
+
+The Opposition, sensing opportunity, has already begun to critique the NPP’s silence on constitutional reform. Ironically, some former establishment figures now portray themselves as champions of change, using the Government’s inaction as a rhetorical weapon.
+
+The window for constitutional reform is not indefinite. Political capital, like public trust, is perishable. The longer the delay, the harder it will become to enact meaningful reform without encountering cynicism, resistance, or political fatigue.
+
+The NPP Government must remember that it was not elected to manage a broken system, it was elected to replace it. A clear timeline, a transparent drafting process, and a genuine effort to include all stakeholders, especially marginalised communities, must be prioritised immediately.
+
+Without a new constitution, there can be no new Sri Lanka. There can be no new political culture, and certainly no economic sovereignty. And without a bold, inclusive constitutional vision, Sri Lanka will remain a nation adrift, repeating the same mistakes under new faces.
+
+(The author is a dedicated social and political activist actively engaged in constitutional reform efforts through the Citizen Constitution Council, advocating for a more democratic, inclusive, and accountable governance framework in Sri Lanka and could be reached via email at [email protected])
+

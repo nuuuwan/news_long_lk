@@ -1,0 +1,82 @@
+# “Work closely together to build resilient and regenerative India-Sri Lanka partnership”: Colonne
+
+[https://www.ft.lk/opinion/Work-closely-together-to-build-resilient-and-regenerative-India-Sri-Lanka-partnership-Colonne/14-778751](https://www.ft.lk/opinion/Work-closely-together-to-build-resilient-and-regenerative-India-Sri-Lanka-partnership-Colonne/14-778751)
+
+*06:02 AM, Wednesday, July 09, 2025*
+
+High Commissioner of Sri Lanka to India Mahishini Colonne
+
+Following are special remarks delivered by High Commissioner of Sri Lanka to India Mahishini Colonne, at the roundtable on ‘Deepening India-Sri Lanka trade and economic cooperation in uncertain global economic times’, organised by CUTS International and ODI Global and held on Friday 4 July, at the India International Centre (IIC), New Delhi
+
+Shri Bipul Chattopadhyay, Executive Director of CUTS International; Distinguished panellists; Distinguished Guests; Friends; Ladies and Gentlemen,
+
+It’s an honour to be here at this roundtable this evening. Thank you for inviting me.
+
+The title of this roundtable very clearly describes the global economic circumstances that prevail at the moment as “Uncertain”. With each passing day, the uncertainty appears to get more and more acute. Unravelling of the rules-based order, supply chain disruptions, climate shocks, food and energy insecurity, geopolitical tensions and increasing disorder – indicating an obvious shift from the post-World War II global order that we had all got used to.
+
+The IMF’s April 2025 World Economic Outlook projects a global growth slowdown to 2.8% this year with advanced economies growing at 1.4% and emerging economies at 3.7%. The IMF emphasises the need for policy adjustments and international cooperation to mitigate risks and foster stability. Growth in advanced economies is expected to be 1.4% in 2025, with the US projected to slow to 1.8% and the Euro area to 0.8%. Growth in Emerging Markets and Developing Economies (EMDEs) is projected to slow to 3.7%. However, India’s economy is expected to grow by 6.2% in 2025.
+
+While the IMF report underscores the need for international cooperation to address global imbalances and mitigate the impact of risks, it paints a picture of a global economy facing headwinds from various factors, with a need for careful policy navigation and international collaboration to ensure a stable and sustainable recovery.
+
+Where Sri Lanka is concerned, the IMF Executive Board announced just two days ago on the 2nd of July, that it completed the Fourth Review under the 48-month Extended Fund Facility with Sri Lanka, providing the country with immediate access to SDR 254 million (about US$350 million) to support Sri Lanka’s economic policies and reforms. Debt restructuring is nearly complete, and the Board announced that the economic outlook remains positive. Yet, it cautioned that the global trade policy uncertainties pose significant risks to Sri Lanka’s macroeconomic and social stability.
+
+In such a scenario, it becomes a necessity for Sri Lanka to strengthen its economic partnership with India. Simply put – it is actually common sense.
+
+Closest of neighbours
+
+That India and Sri Lanka are the closest of neighbours, not just in terms of geographic proximity, but naturally, in every conceivable way, is a given. History, culture, language, religion, food, dance forms, music, attire – it is impossible to think of any aspect of life in Sri Lanka that is not connected to India in some way or the other.
+
+A 3 trillion-dollar economy, India is projected to become the world’s third largest economy by 2030, with a projected GDP of 7.3 trillion. The expectation is that India will become a 10 trillion-dollar economy by 2032; and a developed country with a 30 trillion-dollar economy by 2047.
+
+Sri Lanka has much to learn from India’s growth story, particularly from the years of decisive governance, and visionary reforms, under Prime Minister Modi’s leadership since 2014. This includes the ‘Digital India’ initiative that has revolutionised access to technology and governance.
+
+As you all know, India is Sri Lanka’s largest trading partner; a key investor; and largest source of tourism.
+
+The India-Sri Lanka FTA that entered into force two-and-a-half decades ago has contributed much to the expansion of trade between the two countries. But there is much that needs to be done.
+
+Today, we are at an important point where relations between our two countries are concerned. Perhaps one that can be described as a unique moment in India-Sri Lanka relations. The back-to-back State visits by President Disanayake and Prime Minister Modi just about four months apart have placed relations at an all-time high, and this is a moment that must be seized especially by the business communities on both sides.
+
+When Sri Lanka’s economy was in crisis, India provided significant assistance including $ 4 billion in financing facilities, and humanitarian assistance; and participated actively and supported debt restructuring efforts – all of which we are grateful for.
+
+The crisis in Sri Lanka was precipitated by declining tax revenues, mismanaged and depleted foreign exchange reserves and unsustainable increase in public debt. Things became so acute that, as I am sure you are all aware, daily life was disrupted with queues for basic necessities, record inflation, and power cuts.
+
+Bold reforms and commitment
+
+However, following a period of severe contraction in 2022-2023, the economy has now rebounded as a result of bold reforms and commitment of the Sri Lankan people. Inflation has been brought under control and economic growth has returned – expanding by 5% in 2024. The Government has also succeeded in achieving adjustments in tax revenues which have increased by more than two-thirds as a share of GDP.
+
+Moreover, the Government has committed to improving governance which is essential for establishing trust with Sri Lanka’s own citizens as well as investors to ensure sustained growth. Some of the achievements on this front include Central Bank independence, improving financial management, and strengthening the legal framework for anti-corruption. Political stability has returned as well, following Presidential and Parliamentary elections late last year (August and November 2024), and Local Government elections this year (May 2025).
+
+Much, however, is yet to be done to ensure sustainable economic recovery, and to place Sri Lanka on a sustainable growth path. This involves going beyond the IMF program, and implementing trade liberalisation, FDI liberalisation and simplifying regulations – basically undertaking structural reforms that are necessary to create a better environment for investors, and integrating Sri Lanka into global value chains.
+
+For Sri Lanka, the obvious path to ensuring growth and prosperity for her people is to partner with India, and seize and maximise opportunities that India offers in every aspect including markets, investments, services, and technology.
+
+India-Sri Lanka relations, especially in trade and investment must not be seen as a zero-sum game. It is to the advantage of both countries that the business communities on both sides of the Palk Strait begin to focus on the long-term view, treating Sri Lanka as part of the Indian subcontinent and a common space when it comes to trade and investment.
+
+The FTA that is two-and-a-half decades old which was a first for both countries needs to be upgraded for certain; and negotiations on the Economic and Technology Cooperation Agreement (ETCA) must resume.
+
+Sri Lanka being a smaller country, it is easier for disrupters with vested interests to play on people’s emotions and sentiments and make them fear greater partnership and integration with India. Social media and communication platforms on hand-held devices make the spread of such fears easier and faster.
+
+Therefore, communicating facts and well-reasoned information around trade and investment opportunities, connectivity, digitisation, energy security and the entire range of areas around which India and Sri Lanka can cooperate and collaborate for the benefit of the people of both countries shouldn’t be left to the governments alone.
+
+It is important that the business communities on both sides also step into this domain to reassure, inform and inspire confidence in the public about how they would be the beneficiaries of fair competition, and greater trade and investment being mobilised between the two countries.
+
+At the same time, India must consider providing special and differential treatment for Sri Lanka, given the enormous asymmetry in economic terms between the two countries. Prime Minister Modi is greatly admired and respected by the people of Sri Lanka for the remarkable progress India has achieved under his leadership. In this context, for India to keep winning the hearts and minds of the people of Sri Lanka through gestures that would make a real difference in their lives is not a difficult task.
+
+Sri Lanka’s location so close to India makes it an attractive destination for Indians in terms of ease of travel.
+
+Therefore, it makes sense to invest and develop Sri Lanka as a hub for R&R as well as trade for Indian businesspersons.
+
+Sri Lanka is a natural cost-efficient hub for India’s export and import trade with the world, using Sri Lanka’s deep-water and efficient ports located in the East-West shipping lanes.
+
+Sri Lanka holds much potential for developing high-end travel experiences, and experiences around historic and cultural sites, as well as national parks and nature. Therefore, joint initiatives and investment in the tourism and leisure industry are worthy avenues to explore.
+
+A CEOs delegation of the Confederation of Indian Industry (CII) visited Sri Lanka earlier this week, led by Mr. Sanjiv Puri, Immediate Past President of the CII and Chairman and Managing Director of ITC Limited. The visit followed an invitation extended by the President of Sri Lanka during his State Visit to India in December 2024. The delegation comprised over 15 prominent Indian business leaders representing diverse sectors including hospitality, manufacturing, energy, healthcare, textiles, and tourism. During the visit, they have identified various areas of mutual interest for forging further economic linkages and trade connections. I hope that this will lead to fruitful outcomes.
+
+Envisioning the heights of progress
+
+There is a saying that – “It is a bird’s imagination, not its wings, that determines how high it can fly.”
+
+I think India and Sri Lanka are blessed to have two leaders at present who are not constrained when it comes to envisioning the heights of progress, development, and prosperity that can be achieved for their people through meaningful partnership.
+
+If we work closely together, there is nothing that prevents building an India-Sri Lanka partnership that is resilient and regenerative – one that shapes the future of the Indian Ocean economy.
+

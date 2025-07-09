@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-08 06:25:51**
+Last Updated **2025-07-09 06:26:01**
+
+## 2025-07-09
+
+* [“Work closely together to build resilient and regenerative India-Sri Lanka partnership”: Colonne](data/articles/work-closely-together-t.598b1cf0/README.md) `ft.lk`
+* [100-year anniversary celebration of Sri Lanka Medical Council](data/articles/100-year-anniversary-cel.7a3b65b8/README.md) `ft.lk`
+* [Beyond bailouts: Can Sri Lanka reform without IMF?](data/articles/beyond-bailouts-can-sri.1cd70350/README.md) `ft.lk`
+* [Delayed promise of a new constitution: Why NPP is failing to stick to mandate](data/articles/delayed-promise-of-a-new.e4837587/README.md) `ft.lk`
 
 ## 2025-07-08
 
+* [Why the US and Europe could lose the race for fusion energy](data/articles/why-the-us-and-europe-co.767486dc/README.md) `technologyreview.com`
 * [Insight of economics: Push and pull factors](data/articles/insight-of-economics-pus.c1fc1538/README.md) `ft.lk`
 * [Inside the Echo Temple: Moral binding and architecture of belief – Part 2A](data/articles/inside-the-echo-temple-m.171584b6/README.md) `ft.lk`
 * [Innovation and lives at stake in Sri Lanka’s smoking policy decisions](data/articles/innovation-and-lives-at.63a0b5af/README.md) `ft.lk`
