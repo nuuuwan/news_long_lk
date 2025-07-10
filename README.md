@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-09 18:22:52**
+Last Updated **2025-07-10 06:25:56**
+
+## 2025-07-10
+
+* [Exporters warn against back-door charges, urge Govt. to uphold transparent trade practices](data/articles/exporters-warn-against-b.1eb1d98b/README.md) `ft.lk`
+* [Welcome to new Mayor](data/articles/welcome-to-new-mayor.766f8019/README.md) `ft.lk`
+* [Anura Shakthi: Indianisation, rhetoric, zero-development, socioeconomic regression](data/articles/anura-shakthi-indianisat.ccb40b13/README.md) `ft.lk`
+* [Heretic’s Mirror: Moral psychology and collapse of reform in NPP – Part 2B](data/articles/heretic-s-mirror-moral-p.e84262fb/README.md) `ft.lk`
+* [Building a resourcing strategy: Blueprint for sustainable local governance – Part 3](data/articles/building-a-resourcing-st.7b9440f3/README.md) `ft.lk`
 
 ## 2025-07-09
 
@@ -10,6 +18,7 @@ Last Updated **2025-07-09 18:22:52**
 * [100-year anniversary celebration of Sri Lanka Medical Council](data/articles/100-year-anniversary-cel.7a3b65b8/README.md) `ft.lk`
 * [Beyond bailouts: Can Sri Lanka reform without IMF?](data/articles/beyond-bailouts-can-sri.1cd70350/README.md) `ft.lk`
 * [Delayed promise of a new constitution: Why NPP is failing to stick to mandate](data/articles/delayed-promise-of-a-new.e4837587/README.md) `ft.lk`
+* [Inside OpenAI’s empire: A conversation with Karen Hao](data/articles/inside-openai-s-empire-a.e038c11f/README.md) `technologyreview.com`
 
 ## 2025-07-08
 
@@ -22,6 +31,7 @@ Last Updated **2025-07-09 18:22:52**
 
 ## 2025-07-07
 
+* [The latest threat from the rise of Chinese manufacturing](data/articles/the-latest-threat-from-t.b95ed963/README.md) `technologyreview.com`
 * [Middlemen in shipping and logistics at it again, lobbying for anti-competitive charges on exporters and importers?](data/articles/middlemen-in-shipping-an.c31d07b6/README.md) `ft.lk`
 * [Fifty years of faith, forgiveness, and fearless advocacy](data/articles/fifty-years-of-faith-for.c7e4d411/README.md) `ft.lk`
 * [A tribute to Rienzie Wijetilleke](data/articles/a-tribute-to-rienzie-wij.2247da53/README.md) `ft.lk`

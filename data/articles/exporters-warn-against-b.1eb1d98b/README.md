@@ -1,0 +1,26 @@
+# Exporters warn against back-door charges, urge Govt. to uphold transparent trade practices
+
+[https://www.ft.lk/opinion/Exporters-warn-against-back-door-charges-urge-Govt-to-uphold-transparent-trade-practices/14-778788](https://www.ft.lk/opinion/Exporters-warn-against-back-door-charges-urge-Govt-to-uphold-transparent-trade-practices/14-778788)
+
+*02:44 AM, Thursday, July 10, 2025*
+
+Sri Lanka Shippers’ Council Chairman Sean Van Dort
+
+The Joint Chambers of Commerce on Tuesday urged the Government of Sri Lanka to engage in meaningful consultation with all recognised industry chambers before making decisions that directly impact trade, exports, and the wider economy.
+
+The call comes in response to renewed lobbying efforts by certain shipping agents and intermediaries seeking to reintroduce anti-competitive terminal handling charges (THC) through misleading claims to policymakers.
+
+At the recent Annual General Meeting (AGM) of the Sri Lanka Association of NVOCC Agents (SLANA), calls were made to reinstate THC, citing alleged adverse impacts on the Port of Colombo. However, the Joint Chambers strongly rejected this assertion, clarifying that there is no legal or operational void to “reinstate.” Port terminal handling charges are already paid by shipping lines under existing market contracts, and any further charges imposed on exporters or importers would constitute a reversion to pre-2014 cartel-like practices that hurt competitiveness and transparency.
+
+Sri Lanka Shippers’ Council Chairman Sean Van Dort condemned the move, stating: “This is yet another attempt by powerful intermediaries in the shipping and logistics sector to reintroduce anti-competitive fees through the backdoor. Exporters and importers already pay all-inclusive freight based on market terms. There is no free service being provided. What we are seeing is a push to extract surcharges from non-contracting parties, which is against global trade norms and local regulation.”
+
+He added that since the 2014 regulation, introduced with support from the International Chamber of Commerce (ICC) and based on Incoterms best practices, the Port of Colombo has seen volume growth and an increase in licenced agents—contrary to claims that the regulations have harmed the sector.
+
+Joint Apparel Association Forum (JAAF) Secretary General Yohan Lawrence also expressed concern: “The apparel industry cannot afford renewed cost pressures or uncertainty due to policy shifts driven by narrow interests. Sri Lanka’s export sector is already under strain, and the Government must ensure that any regulatory changes are made with full industry consultation. Fragmented lobbying only undermines our national competitiveness.”
+
+The Joint Chambers warned that unbundling freight charges to reintroduce THC would raise costs for manufacturers, disrupt supply chains, and ultimately burden consumers through hidden costs. They reiterated that Sri Lanka’s competitiveness hinges on transparent and predictable trade policy.
+
+The Chambers further cautioned that such attempts, often timed around transitions in political leadership or changes in Ministerial portfolios, aim to exploit gaps in regulatory oversight. They urged the Ports, Shipping and Aviation Ministry and the Merchant Shipping Secretariat to act with integrity and consult all stakeholders—not just intermediaries with vested interests.
+
+As the country focuses on rebuilding exports and attracting investment, the Joint Chambers reaffirm their commitment to protecting the interests of Sri Lankan businesses, exporters, and consumers alike, and calls on the Government to uphold regulatory clarity and market fairness.
+
