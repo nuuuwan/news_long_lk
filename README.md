@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-10 06:25:56**
+Last Updated **2025-07-10 18:23:10**
 
 ## 2025-07-10
 
+* [China’s energy dominance in three charts](data/articles/china-s-energy-dominance.504f8d3e/README.md) `technologyreview.com`
 * [Exporters warn against back-door charges, urge Govt. to uphold transparent trade practices](data/articles/exporters-warn-against-b.1eb1d98b/README.md) `ft.lk`
 * [Welcome to new Mayor](data/articles/welcome-to-new-mayor.766f8019/README.md) `ft.lk`
 * [Anura Shakthi: Indianisation, rhetoric, zero-development, socioeconomic regression](data/articles/anura-shakthi-indianisat.ccb40b13/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-07-10 06:25:56**
 
 ## 2025-07-09
 
+* [“Thamizh Arasuk Katchi” in Trouble : Jaffna MP  Sivagnanam Shritharan’s Insidious Campaign Against his own party ITAK.](data/articles/thamizh-arasuk-katchi-i.00fa3dcd/README.md) `dbsjeyaraj.com`
 * [“Work closely together to build resilient and regenerative India-Sri Lanka partnership”: Colonne](data/articles/work-closely-together-t.598b1cf0/README.md) `ft.lk`
 * [100-year anniversary celebration of Sri Lanka Medical Council](data/articles/100-year-anniversary-cel.7a3b65b8/README.md) `ft.lk`
 * [Beyond bailouts: Can Sri Lanka reform without IMF?](data/articles/beyond-bailouts-can-sri.1cd70350/README.md) `ft.lk`
@@ -23,8 +25,10 @@ Last Updated **2025-07-10 06:25:56**
 ## 2025-07-08
 
 * [Why the US and Europe could lose the race for fusion energy](data/articles/why-the-us-and-europe-co.767486dc/README.md) `technologyreview.com`
+* [How scientists are trying to use AI to unlock the human mind](data/articles/how-scientists-are-tryin.95079235/README.md) `technologyreview.com`
 * [Insight of economics: Push and pull factors](data/articles/insight-of-economics-pus.c1fc1538/README.md) `ft.lk`
 * [Inside the Echo Temple: Moral binding and architecture of belief – Part 2A](data/articles/inside-the-echo-temple-m.171584b6/README.md) `ft.lk`
+* [Inside the most dangerous asteroid hunt ever](data/articles/inside-the-most-dangerou.03724050/README.md) `technologyreview.com`
 * [Innovation and lives at stake in Sri Lanka’s smoking policy decisions](data/articles/innovation-and-lives-at.63a0b5af/README.md) `ft.lk`
 * [Sri Lanka’s rapid ageing: Challenge and opportunity](data/articles/sri-lanka-s-rapid-ageing.990d55df/README.md) `ft.lk`
 * [Why investors are reluctant to come to Sri Lanka despite incredible potential](data/articles/why-investors-are-reluct.3a7b93d2/README.md) `ft.lk`
