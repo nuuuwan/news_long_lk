@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-10 18:23:10**
+Last Updated **2025-07-11 06:25:51**
+
+## 2025-07-11
+
+* [Assassination of Tamil political leader Appapillai Amirthalingam](data/articles/assassination-of-tamil-p.e8877f2c/README.md) `ft.lk`
+* [“Just as we breathe again”: Trump’s tariff blow to Sri Lanka’s fragile recovery](data/articles/just-as-we-breathe-agai.be125970/README.md) `ft.lk`
+* [Bridging the language gap: How AI can unlock new opportunities for tourism industry](data/articles/bridging-the-language-ga.fadabdcb/README.md) `ft.lk`
+* [Sri Lanka’s Electricity Amendment Bill 2025: Trojan Horse for national economic collapse](data/articles/sri-lanka-s-electricity.a8f4e8d3/README.md) `ft.lk`
+* [Don’t panic: Sri Lanka’s fertility decline is temporary, not a demographic collapse](data/articles/don-t-panic-sri-lanka-s.da72a722/README.md) `ft.lk`
 
 ## 2025-07-10
 
