@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-11 06:25:51**
+Last Updated **2025-07-11 18:30:11**
 
 ## 2025-07-11
 
+* [The first babies have been born following “simplified” IVF in a mobile lab](data/articles/the-first-babies-have-be.7eff499f/README.md) `technologyreview.com`
 * [Assassination of Tamil political leader Appapillai Amirthalingam](data/articles/assassination-of-tamil-p.e8877f2c/README.md) `ft.lk`
 * [“Just as we breathe again”: Trump’s tariff blow to Sri Lanka’s fragile recovery](data/articles/just-as-we-breathe-agai.be125970/README.md) `ft.lk`
 * [Bridging the language gap: How AI can unlock new opportunities for tourism industry](data/articles/bridging-the-language-ga.fadabdcb/README.md) `ft.lk`
 * [Sri Lanka’s Electricity Amendment Bill 2025: Trojan Horse for national economic collapse](data/articles/sri-lanka-s-electricity.a8f4e8d3/README.md) `ft.lk`
 * [Don’t panic: Sri Lanka’s fertility decline is temporary, not a demographic collapse](data/articles/don-t-panic-sri-lanka-s.da72a722/README.md) `ft.lk`
+* [Chemmani is more than a grave. It is a mirror. It reflects not just the brutality of a past war, but the moral decay of the present. The bones beneath Jaffna’s soil are not bones of the enemy. They are citizens. Children. Loved ones. They are the responsibility of a state that promised to protect all](data/articles/chemmani-is-more-than-a.fbff978b/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-10
 
@@ -29,6 +31,7 @@ Last Updated **2025-07-11 06:25:51**
 * [Beyond bailouts: Can Sri Lanka reform without IMF?](data/articles/beyond-bailouts-can-sri.1cd70350/README.md) `ft.lk`
 * [Delayed promise of a new constitution: Why NPP is failing to stick to mandate](data/articles/delayed-promise-of-a-new.e4837587/README.md) `ft.lk`
 * [Inside OpenAI’s empire: A conversation with Karen Hao](data/articles/inside-openai-s-empire-a.e038c11f/README.md) `technologyreview.com`
+* [Why the AI moratorium’s defeat may signal a new political era](data/articles/why-the-ai-moratorium-s.15518368/README.md) `technologyreview.com`
 
 ## 2025-07-08
 
