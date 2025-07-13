@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-13 06:26:12**
+Last Updated **2025-07-13 18:22:50**
+
+## 2025-07-12
+
+* [The Abominable Assassination of Tamil Political Leader Appapillai  Amirthalingam on 13 July 1989.](data/articles/the-abominable-assassina.29913c2e/README.md) `dbsjeyaraj.com`
+* [The Ilankai Thamil Arasuk Katchi(ITAK)wants President Anura Kumara Dissanayake to take urgent and decisive action regarding the exhumation of human remains at Chemmani in Jaffna.](data/articles/the-ilankai-thamil-arasu.36c75fe5/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-11
 
