@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-14 06:26:02**
+Last Updated **2025-07-14 18:23:09**
 
 ## 2025-07-14
 
@@ -11,6 +11,7 @@ Last Updated **2025-07-14 06:26:02**
 * [Reopening Katchatheevu issue by BJP: Ploy to target DMK, blame Nehru legacy, or checkmate Sri Lanka?](data/articles/reopening-katchatheevu-i.391cb80f/README.md) `ft.lk`
 * [Sri Lanka’s solar dilemma](data/articles/sri-lanka-s-solar-dilemm.f3b8a3e0/README.md) `ft.lk`
 * [Ragging: Defiling the cornerstones of free education](data/articles/ragging-defiling-the-cor.09711764/README.md) `ft.lk`
+* [Reflections on “Rhythm of the Guitar”: Clarence as a classic “start-up”](data/articles/reflections-on-rhythm-of.ffc9bb0d/README.md) `ft.lk`
 
 ## 2025-07-12
 
