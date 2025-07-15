@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-15 06:26:21**
+Last Updated **2025-07-15 18:24:08**
 
 ## 2025-07-15
 
+* [AI’s giants want to take over the classroom](data/articles/ai-s-giants-want-to-take.28dc8608/README.md) `technologyreview.com`
+* [Is the BJP Govt in India Re-opening the Katchatheevu Issue to Undermine its Political Rivals the Congress and DMK or to Pressure or Checkmate  Sri Lanka and Increase Leverage Over the Colombo Govt?](data/articles/is-the-bjp-govt-in-india.40d652a5/README.md) `dbsjeyaraj.com`
+* [தமிழ் அரசியல் தலைவர்  அப்பாபிள்ளை அமிர்தலிங்கம் 1989 ஜூலை 13 ஆம் திகதி கொல்லப்பட்ட சம்பவம்](data/articles/தம-ழ-அரச-யல-தல-வர-அப-ப-ப.1400c111/README.md) `dbsjeyaraj.com`
 * [Antisemitic terrorism: Global North’s propaganda](data/articles/antisemitic-terrorism-gl.04fd1401/README.md) `ft.lk`
 * [Sri Lanka’s digital tax shift: Balancing revenue needs with innovation and growth](data/articles/sri-lanka-s-digital-tax.be82a0e8/README.md) `ft.lk`
 * [From regulation to confusion:  Challenges of VAT on non-resident service providers via electronic platforms](data/articles/from-regulation-to-confu.3d88379c/README.md) `ft.lk`
@@ -43,6 +46,7 @@ Last Updated **2025-07-15 06:26:21**
 ## 2025-07-10
 
 * [China’s energy dominance in three charts](data/articles/china-s-energy-dominance.504f8d3e/README.md) `technologyreview.com`
+* [This tool strips away anti-AI protections from digital art](data/articles/this-tool-strips-away-an.9292ce93/README.md) `technologyreview.com`
 * [Exporters warn against back-door charges, urge Govt. to uphold transparent trade practices](data/articles/exporters-warn-against-b.1eb1d98b/README.md) `ft.lk`
 * [Welcome to new Mayor](data/articles/welcome-to-new-mayor.766f8019/README.md) `ft.lk`
 * [Anura Shakthi: Indianisation, rhetoric, zero-development, socioeconomic regression](data/articles/anura-shakthi-indianisat.ccb40b13/README.md) `ft.lk`
