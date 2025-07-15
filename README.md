@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-14 18:23:09**
+Last Updated **2025-07-15 06:26:21**
+
+## 2025-07-15
+
+* [Antisemitic terrorism: Global North’s propaganda](data/articles/antisemitic-terrorism-gl.04fd1401/README.md) `ft.lk`
+* [Sri Lanka’s digital tax shift: Balancing revenue needs with innovation and growth](data/articles/sri-lanka-s-digital-tax.be82a0e8/README.md) `ft.lk`
+* [From regulation to confusion:  Challenges of VAT on non-resident service providers via electronic platforms](data/articles/from-regulation-to-confu.3d88379c/README.md) `ft.lk`
 
 ## 2025-07-14
 
+* [Legendary  Actress B. Saroja Devi Passes away in Bengaluru  at the age og 87. Tributes Pour in for the Star known as “Abhinaya Saraswathie” and “Kannadathup Paingkili”](data/articles/legendary-actress-b-saro.9188c3fe/README.md) `dbsjeyaraj.com`
 * [My View issues 750th piece when Trump enforces unilaterally 30% tariff on Sri Lanka](data/articles/my-view-issues-750th-pie.f43012df/README.md) `ft.lk`
 * [Back to the gates  of other Bastilles](data/articles/back-to-the-gates-of-oth.3ecc98d8/README.md) `ft.lk`
 * [Reopening Katchatheevu issue by BJP: Ploy to target DMK, blame Nehru legacy, or checkmate Sri Lanka?](data/articles/reopening-katchatheevu-i.391cb80f/README.md) `ft.lk`
