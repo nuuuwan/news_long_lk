@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-15 18:24:08**
+Last Updated **2025-07-16 06:26:29**
 
 ## 2025-07-15
 
+* [Cultivating a Culture of Human Ingenuity in the Age of AI](data/articles/cultivating-a-culture-of.eb624dde/README.md) `hbr.org`
+* [Google’s generative video model Veo 3 has a subtitles problem](data/articles/google-s-generative-vide.46f4fee4/README.md) `technologyreview.com`
 * [AI’s giants want to take over the classroom](data/articles/ai-s-giants-want-to-take.28dc8608/README.md) `technologyreview.com`
 * [Is the BJP Govt in India Re-opening the Katchatheevu Issue to Undermine its Political Rivals the Congress and DMK or to Pressure or Checkmate  Sri Lanka and Increase Leverage Over the Colombo Govt?](data/articles/is-the-bjp-govt-in-india.40d652a5/README.md) `dbsjeyaraj.com`
 * [தமிழ் அரசியல் தலைவர்  அப்பாபிள்ளை அமிர்தலிங்கம் 1989 ஜூலை 13 ஆம் திகதி கொல்லப்பட்ட சம்பவம்](data/articles/தம-ழ-அரச-யல-தல-வர-அப-ப-ப.1400c111/README.md) `dbsjeyaraj.com`
@@ -36,6 +38,7 @@ Last Updated **2025-07-15 18:24:08**
 * [Aragalaya anniversary: all  hail it! or another nostrum?](data/articles/aragalaya-anniversary-al.d7a865ca/README.md) `ft.lk`
 * [BRICS’ vision for a new financial architecture](data/articles/brics-vision-for-a-new-f.f91a5625/README.md) `ft.lk`
 * [The first babies have been born following “simplified” IVF in a mobile lab](data/articles/the-first-babies-have-be.7eff499f/README.md) `technologyreview.com`
+* [Cybersecurity’s global alarm system is breaking down](data/articles/cybersecurity-s-global-a.776e2f07/README.md) `technologyreview.com`
 * [Assassination of Tamil political leader Appapillai Amirthalingam](data/articles/assassination-of-tamil-p.e8877f2c/README.md) `ft.lk`
 * [“Just as we breathe again”: Trump’s tariff blow to Sri Lanka’s fragile recovery](data/articles/just-as-we-breathe-agai.be125970/README.md) `ft.lk`
 * [Bridging the language gap: How AI can unlock new opportunities for tourism industry](data/articles/bridging-the-language-ga.fadabdcb/README.md) `ft.lk`

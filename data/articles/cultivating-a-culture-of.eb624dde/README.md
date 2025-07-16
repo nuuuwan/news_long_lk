@@ -1,0 +1,48 @@
+# Cultivating a Culture of Human Ingenuity in the Age of AI
+
+[https://hbr.org/sponsored/2025/07/cultivating-a-culture-of-human-ingenuity-in-the-age-of-ai](https://hbr.org/sponsored/2025/07/cultivating-a-culture-of-human-ingenuity-in-the-age-of-ai)
+
+*05:09 PM, Tuesday, July 15, 2025*
+
+For decades, the biopharmaceutical industry has been rightly focused on changing the practice of medicine. But in the new age of biomedical research fueled by artificial intelligence (AI), the focus must also be on reinventing how we work.
+
+At Sanofi, we have undergone a journey of modernization that positions us to deliver robust innovation over the next decade—advancing health for millions of people around the world. Our success depends as much on what we do as how we do it. When our core capabilities match the speed and sophistication of our science and technology, we accelerate the pace of innovation, decision making, and access to medicines and vaccines.
+
+Our unwavering purpose—chasing the miracles of science to improve people’s lives—fuels our high-performance culture and drives us toward excellence.
+
+Fiercely Prioritizing Time
+
+Patients are waiting for life-changing—and in some instances life-saving—medicines. This reality demands that we create a culture that rewards the fierce prioritization of our efforts. We have given our employees the power to make deliberate and sometimes difficult choices about what truly matters. In direct alignment with our purpose, we assess every project against its potential to improve patient outcomes. But a culture isn’t created overnight; it takes practice and intention.
+
+First, we tackled complexity head-on. For the past three years, our companywide simplification initiative has dramatically reduced administrative processes, accelerated scientific workflows, improved data management, and streamlined cross-sector strategic planning. This transformation allowed us to identify and address operational challenges through strategic investments and targeted solutions—and it was guided by our employees.
+
+Second, we built a culture that values impact over broad activity. As AI increasingly handles routine tasks that once consumed our time, we’ve shifted our focus to uniquely human strengths: patient-centered action, bold thinking, and collaborative leadership. This represents a fundamental shift to recognize thoughtful work as inherently productive.
+
+Innovating Beyond the Science
+
+Innovation at Sanofi extends far beyond our laboratories and research facilities—it requires every employee to rethink how we work, collaborate, and serve patients worldwide. Today we are innovating beyond the science by embracing AI and upskilling our employees to leverage the technology to its fullest potential.
+
+In 2023, we launched Plai, an industry-leading AI-powered platform developed in partnership with Aily Labs, which solved the critical challenge of breaking down internal silos and democratizing access to information. In line with our responsible AI guiding principles, Plai delivers real-time, reactive data interactions and gives an unprecedented 360-degree view across all Sanofi activities, empowering more than 30,000 employees to make faster, intelligence-driven decisions.
+
+To embed this capability deeply within our organization, we brought employees along the journey with a 10-week immersive training program providing in-depth knowledge of the power of large language models and inspiring new applications across our business.
+
+We aimed to create an environment that allows our teams to reimagine how AI could inform their everyday decisions, improve their productivity, and accelerate our development timelines. We wanted them to think about how we can change the pace of our business. The democratization of information has been a true game changer for us at Sanofi—not only in how we work together but also in our collective mindset.
+
+Our experience with rolling out Plai has provided us with a vision of how innovating beyond science is helping us shape our future. We must continue to reimagine every aspect of our business to serve patients worldwide.
+
+Through strategic initiatives that promote both calculated risk-taking and professional growth, we’re reshaping how our teams collaborate, make decisions, and ultimately serve patients. Our approach combines the agility of a startup with the resources of a global health care leader, creating an environment where bold ideas flourish and talent flows to where it can make the greatest impact.
+
+Our Thoughtful Risk-Taking (TRT) framework equips our teams with the resources they need to make informed decisions with confidence, empowering employees at all levels to weigh options carefully, then act decisively in the best interests of patients. This approach promotes psychological safety, while encouraging bold action.
+
+Teams worldwide have embraced TRT as they work to bring life-changing medicines to patients who simply cannot wait for the often drawn-out decision-making process that exists in large companies. We’ve already seen remarkable initiatives emerge, including innovative compassionate-use programs that provide patients with early access to select medicines, addressing unmet medical needs faster than traditional approaches would allow.
+
+We have also enabled dynamic resourcing to staff important projects with the highest need through our Gig program. This initiative allows employees to volunteer for short-term assignments that tap into specialized skills from other business areas. All employees can proactively apply their talents where their skill sets can create the most value for patient outcomes and adopt new skills along the way. Our leadership team has actively supported 700 gigs in support of employee development and operational excellence.
+
+What Got Us Here Won’t Get Us There
+
+At Sanofi, we recognize the significance of this moment. Each of us carries the power to reimagine what’s possible in our R&D-driven, AI-powered, and patient-integrated world. When we embrace our collective purpose, we create a high-performance culture focused on improving people’s lives. By boldly questioning our past, honestly assessing our present, and fearlessly reaching toward tomorrow, we aren’t just preparing for the future—we’re also shaping it.
+
+We are an R&D-driven, AI-powered biopharma company committed to improving people’s lives and creating compelling growth. Learn more at Sanofi.com
+
+Brian Foard is executive vice president, specialty care, Sanofi.
+

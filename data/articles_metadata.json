@@ -1,5 +1,19 @@
 [
   {
+    "title": "Cultivating a Culture of Human Ingenuity in the Age of AI",
+    "url": "https://hbr.org/sponsored/2025/07/cultivating-a-culture-of-human-ingenuity-in-the-age-of-ai",
+    "ut": 1752579590.0,
+    "dir_path_unix": "data/articles/cultivating-a-culture-of.eb624dde",
+    "time_str_formatted": "05:09 PM, Tuesday, July 15, 2025"
+  },
+  {
+    "title": "Google\u2019s generative video model Veo 3 has a subtitles problem",
+    "url": "https://www.technologyreview.com/2025/07/15/1120156/googles-generative-video-model-veo-3-has-a-subtitles-problem/",
+    "ut": 1752556232.0,
+    "dir_path_unix": "data/articles/google-s-generative-vide.46f4fee4",
+    "time_str_formatted": "10:40 AM, Tuesday, July 15, 2025"
+  },
+  {
     "title": "AI\u2019s giants want to take over the classroom",
     "url": "https://www.technologyreview.com/2025/07/15/1120086/ais-giants-want-to-take-over-the-classroom/",
     "ut": 1752535800.0,
@@ -144,6 +158,13 @@
     "url": "https://www.technologyreview.com/2025/07/11/1119976/first-babies-born-simplified-ivf-mobile-lab/",
     "ut": 1752190200.0,
     "dir_path_unix": "data/articles/the-first-babies-have-be.7eff499f",
+    "time_str_formatted": "05:00 AM, Friday, July 11, 2025"
+  },
+  {
+    "title": "Cybersecurity\u2019s global alarm system is breaking down",
+    "url": "https://www.technologyreview.com/2025/07/11/1119370/cybersecurity-alarm-system-breaking-down/",
+    "ut": 1752190200.0,
+    "dir_path_unix": "data/articles/cybersecurity-s-global-a.776e2f07",
     "time_str_formatted": "05:00 AM, Friday, July 11, 2025"
   },
   {
