@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-17 06:26:12**
+Last Updated **2025-07-17 18:35:52**
+
+## 2025-07-17
+
+* [In defense of air-conditioning](data/articles/in-defense-of-air-condit.0462a166/README.md) `technologyreview.com`
 
 ## 2025-07-16
 
