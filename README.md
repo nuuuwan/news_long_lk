@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-16 06:26:29**
+Last Updated **2025-07-17 06:26:12**
+
+## 2025-07-16
+
+* [Chronic impunctuality, haphazard time management: Silent assassins of Sri Lanka’s productivity](data/articles/chronic-impunctuality-ha.ad986687/README.md) `ft.lk`
+* [IMF is a bandage, not a cure: Moving towards lasting solutions](data/articles/imf-is-a-bandage-not-a-c.74100972/README.md) `ft.lk`
+* [“Cards on the table”: What new gambling Bill means for Sri Lanka’s casino future](data/articles/cards-on-the-table-what.3afdbbaa/README.md) `ft.lk`
+* [Bradman Weerakoon as crisis manager and international relations advisor](data/articles/bradman-weerakoon-as-cri.db54ca4f/README.md) `ft.lk`
+* [Negotiation of reciprocal tariff to competitive level critical for  Sri Lanka’s exports survival](data/articles/negotiation-of-reciproca.58b89634/README.md) `ft.lk`
+* [Researchers announce babies born from a trial of three-person IVF](data/articles/researchers-announce-bab.db02b4b9/README.md) `technologyreview.com`
 
 ## 2025-07-15
 
@@ -18,6 +27,7 @@ Last Updated **2025-07-16 06:26:29**
 ## 2025-07-14
 
 * [Legendary  Actress B. Saroja Devi Passes away in Bengaluru  at the age og 87. Tributes Pour in for the Star known as “Abhinaya Saraswathie” and “Kannadathup Paingkili”](data/articles/legendary-actress-b-saro.9188c3fe/README.md) `dbsjeyaraj.com`
+* [California is set to become the first US state to manage power outages with AI](data/articles/california-is-set-to-bec.076d75ae/README.md) `technologyreview.com`
 * [My View issues 750th piece when Trump enforces unilaterally 30% tariff on Sri Lanka](data/articles/my-view-issues-750th-pie.f43012df/README.md) `ft.lk`
 * [Back to the gates  of other Bastilles](data/articles/back-to-the-gates-of-oth.3ecc98d8/README.md) `ft.lk`
 * [Reopening Katchatheevu issue by BJP: Ploy to target DMK, blame Nehru legacy, or checkmate Sri Lanka?](data/articles/reopening-katchatheevu-i.391cb80f/README.md) `ft.lk`
