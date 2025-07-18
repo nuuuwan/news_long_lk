@@ -2,11 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-17 18:35:52**
+Last Updated **2025-07-18 06:26:07**
+
+## 2025-07-18
+
+* [Krishanthi Kumaraswamy tragedy and mass graves in Chemmani](data/articles/krishanthi-kumaraswamy-t.01ccfde8/README.md) `ft.lk`
+* [Nation that lets its elephants die has lost its soul](data/articles/nation-that-lets-its-ele.a8a9431f/README.md) `ft.lk`
+* [Ajit Jayaratne: Colossus among giants](data/articles/ajit-jayaratne-colossus.85b13e99/README.md) `ft.lk`
+* [Revolution outside:  Sri Lanka’s policy slumber](data/articles/revolution-outside-sri-l.6b86ed80/README.md) `ft.lk`
+* [Bye Bye Beijing: Your lessons are with me](data/articles/bye-bye-beijing-your-les.34e80b90/README.md) `ft.lk`
 
 ## 2025-07-17
 
+* [How to run an LLM on your laptop](data/articles/how-to-run-an-llm-on-you.70aee0ea/README.md) `technologyreview.com`
 * [In defense of air-conditioning](data/articles/in-defense-of-air-condit.0462a166/README.md) `technologyreview.com`
+* [Bradman Weerakoon :  The Man for all Seasons who Served Nine Sri Lankan  Premiers and Presidents with Dedication.](data/articles/bradman-weerakoon-the-ma.b89da65c/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-16
 
@@ -21,6 +31,8 @@ Last Updated **2025-07-17 18:35:52**
 
 * [Cultivating a Culture of Human Ingenuity in the Age of AI](data/articles/cultivating-a-culture-of.eb624dde/README.md) `hbr.org`
 * [Google’s generative video model Veo 3 has a subtitles problem](data/articles/google-s-generative-vide.46f4fee4/README.md) `technologyreview.com`
+* [Economist Intelligence launches the Democracy Index and the Liveability Index on Snowflake Marketplace](data/articles/economist-intelligence-l.335f86f0/README.md) `eiu.com`
+* [AI text-to-speech programs could “unlearn” how to imitate certain people](data/articles/ai-text-to-speech-progra.80953fab/README.md) `technologyreview.com`
 * [AI’s giants want to take over the classroom](data/articles/ai-s-giants-want-to-take.28dc8608/README.md) `technologyreview.com`
 * [Is the BJP Govt in India Re-opening the Katchatheevu Issue to Undermine its Political Rivals the Congress and DMK or to Pressure or Checkmate  Sri Lanka and Increase Leverage Over the Colombo Govt?](data/articles/is-the-bjp-govt-in-india.40d652a5/README.md) `dbsjeyaraj.com`
 * [தமிழ் அரசியல் தலைவர்  அப்பாபிள்ளை அமிர்தலிங்கம் 1989 ஜூலை 13 ஆம் திகதி கொல்லப்பட்ட சம்பவம்](data/articles/தம-ழ-அரச-யல-தல-வர-அப-ப-ப.1400c111/README.md) `dbsjeyaraj.com`
