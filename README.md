@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-18 06:26:07**
+Last Updated **2025-07-19 06:25:54**
 
 ## 2025-07-18
 
+* [Apology accepted, second visit against consensus view](data/articles/apology-accepted-second.583f1091/README.md) `ft.lk`
+* [Elusive definition: Terrorism without terror?](data/articles/elusive-definition-terro.68977797/README.md) `ft.lk`
+* [Israel-Palestine conflict: Looking to future rather than past](data/articles/israel-palestine-conflic.c29cd3ce/README.md) `ft.lk`
+* [A brief history of “three-parent babies”](data/articles/a-brief-history-of-three.bd8240e1/README.md) `technologyreview.com`
 * [Krishanthi Kumaraswamy tragedy and mass graves in Chemmani](data/articles/krishanthi-kumaraswamy-t.01ccfde8/README.md) `ft.lk`
 * [Nation that lets its elephants die has lost its soul](data/articles/nation-that-lets-its-ele.a8a9431f/README.md) `ft.lk`
 * [Ajit Jayaratne: Colossus among giants](data/articles/ajit-jayaratne-colossus.85b13e99/README.md) `ft.lk`
@@ -26,6 +30,7 @@ Last Updated **2025-07-18 06:26:07**
 * [Bradman Weerakoon as crisis manager and international relations advisor](data/articles/bradman-weerakoon-as-cri.db54ca4f/README.md) `ft.lk`
 * [Negotiation of reciprocal tariff to competitive level critical for  Sri Lanka’s exports survival](data/articles/negotiation-of-reciproca.58b89634/README.md) `ft.lk`
 * [Researchers announce babies born from a trial of three-person IVF](data/articles/researchers-announce-bab.db02b4b9/README.md) `technologyreview.com`
+* [These four charts show where AI companies could go next in the US](data/articles/these-four-charts-show-w.0790046e/README.md) `technologyreview.com`
 
 ## 2025-07-15
 
