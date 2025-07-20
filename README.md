@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-20 06:26:01**
+Last Updated **2025-07-20 18:22:35**
+
+## 2025-07-20
+
+* [The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.](data/articles/the-krishanthi-kumaraswa.d3045096/README.md) `dbsjeyaraj.com`
+* [Tamil Nadu Chief Minister Stalin’s Brother Mu.Ka. Muthu Passes Away in Chennai at the age of 77;  DMK leader Kalaigner Karunanidhi’s eldest son Muthu was a Singer and Film Actor Who Tried to Emulate ADMK Leader M.G.Ramachandran.](data/articles/tamil-nadu-chief-ministe.2ad0cf0d/README.md) `dbsjeyaraj.com`
+* [The Chemmani  mass grave site in  Jaffna district,which has drawn domestic and international attention, is putting to test the Anura Kumara Dissanayake government’s pledge to address Tamil people’s grievances.](data/articles/the-chemmani-mass-grave.6083c86e/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-18
 
