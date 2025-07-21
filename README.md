@@ -2,16 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-20 18:22:35**
+Last Updated **2025-07-21 06:25:57**
+
+## 2025-07-21
+
+* [Who’s trying to derail power sector reforms?](data/articles/who-s-trying-to-derail-p.7c9e4573/README.md) `ft.lk`
+* [Global shocks and  Sri Lanka’s road to recovery](data/articles/global-shocks-and-sri-la.7390027b/README.md) `ft.lk`
 
 ## 2025-07-20
 
+* [Former Chief Minister of  merged North Eastern Province Annamalai Varadaraja Perumal says  he will tryto create awareness among Tamils about the need to protect the provincial governance system](data/articles/former-chief-minister-of.eacaf121/README.md) `dbsjeyaraj.com`
+* [It is not hard to envisage NPP/JVP leaders being detained under the PTA by a future Namal Rajapaksa dispensation, maybe for the crime of threatening the president’s second cousin! After all, the NPP/JVP in government has set a new record in abusing the PTA.](data/articles/it-is-not-hard-to-envisa.49742c80/README.md) `dbsjeyaraj.com`
 * [The Krishanthi Kumaraswamy Tragedy and the  Chemmani  Mass Graves Phenomenon.](data/articles/the-krishanthi-kumaraswa.d3045096/README.md) `dbsjeyaraj.com`
 * [Tamil Nadu Chief Minister Stalin’s Brother Mu.Ka. Muthu Passes Away in Chennai at the age of 77;  DMK leader Kalaigner Karunanidhi’s eldest son Muthu was a Singer and Film Actor Who Tried to Emulate ADMK Leader M.G.Ramachandran.](data/articles/tamil-nadu-chief-ministe.2ad0cf0d/README.md) `dbsjeyaraj.com`
 * [The Chemmani  mass grave site in  Jaffna district,which has drawn domestic and international attention, is putting to test the Anura Kumara Dissanayake government’s pledge to address Tamil people’s grievances.](data/articles/the-chemmani-mass-grave.6083c86e/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-18
 
+* [Apology accepted, second visit against consensus view](data/articles/apology-accepted-second.bed15b53/README.md) `ft.lk`
 * [Apology accepted, second visit against consensus view](data/articles/apology-accepted-second.583f1091/README.md) `ft.lk`
 * [Elusive definition: Terrorism without terror?](data/articles/elusive-definition-terro.68977797/README.md) `ft.lk`
 * [Israel-Palestine conflict: Looking to future rather than past](data/articles/israel-palestine-conflic.c29cd3ce/README.md) `ft.lk`
