@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-21 06:25:57**
+Last Updated **2025-07-21 18:23:26**
 
 ## 2025-07-21
 
@@ -23,6 +23,7 @@ Last Updated **2025-07-21 06:25:57**
 * [Apology accepted, second visit against consensus view](data/articles/apology-accepted-second.583f1091/README.md) `ft.lk`
 * [Elusive definition: Terrorism without terror?](data/articles/elusive-definition-terro.68977797/README.md) `ft.lk`
 * [Israel-Palestine conflict: Looking to future rather than past](data/articles/israel-palestine-conflic.c29cd3ce/README.md) `ft.lk`
+* [A major AI training data set contains millions of examples of personal data](data/articles/a-major-ai-training-data.50151ada/README.md) `technologyreview.com`
 * [A brief history of “three-parent babies”](data/articles/a-brief-history-of-three.bd8240e1/README.md) `technologyreview.com`
 * [Krishanthi Kumaraswamy tragedy and mass graves in Chemmani](data/articles/krishanthi-kumaraswamy-t.01ccfde8/README.md) `ft.lk`
 * [Nation that lets its elephants die has lost its soul](data/articles/nation-that-lets-its-ele.a8a9431f/README.md) `ft.lk`
