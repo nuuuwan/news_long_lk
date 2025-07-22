@@ -2,12 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-21 18:23:26**
+Last Updated **2025-07-22 06:26:31**
+
+## 2025-07-22
+
+* [Governance sans management skill results in “no action, talk only”](data/articles/governance-sans-manageme.975ac655/README.md) `ft.lk`
+* [Towards decentralised, citizen-centric governance model for Sri Lanka](data/articles/towards-decentralised-ci.7afae0fc/README.md) `ft.lk`
+* [Factors guiding voter preference in Sri Lanka: European Union funded survey reveals](data/articles/factors-guiding-voter-pr.61feaa24/README.md) `ft.lk`
+* [Social proof in action: Behavioural path to better tax system](data/articles/social-proof-in-action-b.307a1b3b/README.md) `ft.lk`
 
 ## 2025-07-21
 
 * [Who’s trying to derail power sector reforms?](data/articles/who-s-trying-to-derail-p.7c9e4573/README.md) `ft.lk`
 * [Global shocks and  Sri Lanka’s road to recovery](data/articles/global-shocks-and-sri-la.7390027b/README.md) `ft.lk`
+* [If  we fail to disentangle ourselves from Israel’s toxic web, a new round of ethno-religious strife might be our unavoidable future. And for the Rajapaksas, the resurgence of Muslim Enemy will be an unmixed blessing, a straight path to power](data/articles/if-we-fail-to-disentangl.bac27907/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-20
 
