@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-22 06:26:31**
+Last Updated **2025-07-23 06:26:04**
 
 ## 2025-07-22
 
+* [Coconut growers in dilemma](data/articles/coconut-growers-in-dilem.aadb8673/README.md) `ft.lk`
+* [Expectations and disappointments](data/articles/expectations-and-disappo.8cad412d/README.md) `ft.lk`
+* [Towards sustainable growth: Expanding Swiss-Sri Lanka economic cooperation](data/articles/towards-sustainable-grow.aea88719/README.md) `ft.lk`
+* [Five things you need to know about AI right now](data/articles/five-things-you-need-to.06af9fed/README.md) `technologyreview.com`
 * [Governance sans management skill results in “no action, talk only”](data/articles/governance-sans-manageme.975ac655/README.md) `ft.lk`
 * [Towards decentralised, citizen-centric governance model for Sri Lanka](data/articles/towards-decentralised-ci.7afae0fc/README.md) `ft.lk`
 * [Factors guiding voter preference in Sri Lanka: European Union funded survey reveals](data/articles/factors-guiding-voter-pr.61feaa24/README.md) `ft.lk`
