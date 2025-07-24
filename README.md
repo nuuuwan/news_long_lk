@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-24 06:26:28**
+Last Updated **2025-07-24 18:23:36**
 
 ## 2025-07-24
 
+* [The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin](data/articles/the-download-gas-and-oil.710792da/README.md) `technologyreview.com`
 * [Progressive or retrogressive? Rationally defining AKD’s Presidency and NPP Government](data/articles/progressive-or-retrogres.17714796/README.md) `ft.lk`
 * [For US, UK and Europe, wars, death  and destruction are profitable business](data/articles/for-us-uk-and-europe-war.476b42a2/README.md) `ft.lk`
 * [Black July 1983: Remembering the past to secure the future](data/articles/black-july-1983-remember.2a8d5dc2/README.md) `ft.lk`
@@ -31,6 +32,7 @@ Last Updated **2025-07-24 06:26:28**
 
 ## 2025-07-21
 
+* [AI companies have stopped warning you that their chatbots aren’t doctors](data/articles/ai-companies-have-stoppe.42ecce50/README.md) `technologyreview.com`
 * [Who’s trying to derail power sector reforms?](data/articles/who-s-trying-to-derail-p.7c9e4573/README.md) `ft.lk`
 * [Global shocks and  Sri Lanka’s road to recovery](data/articles/global-shocks-and-sri-la.7390027b/README.md) `ft.lk`
 * [If  we fail to disentangle ourselves from Israel’s toxic web, a new round of ethno-religious strife might be our unavoidable future. And for the Rajapaksas, the resurgence of Muslim Enemy will be an unmixed blessing, a straight path to power](data/articles/if-we-fail-to-disentangl.bac27907/README.md) `dbsjeyaraj.com`
