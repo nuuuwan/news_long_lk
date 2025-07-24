@@ -2,13 +2,27 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-23 06:26:04**
+Last Updated **2025-07-24 06:26:28**
+
+## 2025-07-24
+
+* [Progressive or retrogressive? Rationally defining AKD’s Presidency and NPP Government](data/articles/progressive-or-retrogres.17714796/README.md) `ft.lk`
+* [For US, UK and Europe, wars, death  and destruction are profitable business](data/articles/for-us-uk-and-europe-war.476b42a2/README.md) `ft.lk`
+* [Black July 1983: Remembering the past to secure the future](data/articles/black-july-1983-remember.2a8d5dc2/README.md) `ft.lk`
+* [CIMA Sri Lanka celebrates 60 years of excellence in finance and business](data/articles/cima-sri-lanka-celebrate.0399023e/README.md) `ft.lk`
+* [New IPS publication – ‘Debt for climate and nature swaps in Sri Lanka: Scoping study’](data/articles/new-ips-publication-debt.3501ab4a/README.md) `ft.lk`
+
+## 2025-07-23
+
+* [சுண்டிக்குளி மகளிர் உயர்பாடசாலையின் 18 வயது மாணவி  கிருசாந்தி குமாரசுவாமியின்  துன்பக் கதையும் செம்மணி மனிதப் புதைகுழிகளும்](data/articles/ச-ண-ட-க-க-ள-மகள-ர-உயர-ப.189c95b2/README.md) `dbsjeyaraj.com`
+* [“Black July”:Anatomy of the July 1983 Anti-Tamil Pogrom.](data/articles/black-july-anatomy-of-t.05fd21fc/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-22
 
 * [Coconut growers in dilemma](data/articles/coconut-growers-in-dilem.aadb8673/README.md) `ft.lk`
 * [Expectations and disappointments](data/articles/expectations-and-disappo.8cad412d/README.md) `ft.lk`
 * [Towards sustainable growth: Expanding Swiss-Sri Lanka economic cooperation](data/articles/towards-sustainable-grow.aea88719/README.md) `ft.lk`
+* [This startup wants to use beams of energy to drill geothermal wells](data/articles/this-startup-wants-to-us.5c088fc9/README.md) `technologyreview.com`
 * [Five things you need to know about AI right now](data/articles/five-things-you-need-to.06af9fed/README.md) `technologyreview.com`
 * [Governance sans management skill results in “no action, talk only”](data/articles/governance-sans-manageme.975ac655/README.md) `ft.lk`
 * [Towards decentralised, citizen-centric governance model for Sri Lanka](data/articles/towards-decentralised-ci.7afae0fc/README.md) `ft.lk`
