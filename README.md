@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-24 18:23:36**
+Last Updated **2025-07-25 06:26:29**
+
+## 2025-07-25
+
+* [Is global free trading paradoxical?](data/articles/is-global-free-trading-p.aaa8967a/README.md) `ft.lk`
+* [Trump tariff: Jolt to Sri Lanka’s dependence voracity and innate complacency](data/articles/trump-tariff-jolt-to-sri.1ad1d233/README.md) `ft.lk`
+* [B. Saroja Devi: Sweet voiced Kannada parrot was goddess of expression](data/articles/b-saroja-devi-sweet-voic.1d999fa4/README.md) `ft.lk`
 
 ## 2025-07-24
 
+* [Trump’s AI Action Plan is a distraction](data/articles/trump-s-ai-action-plan-i.757cea30/README.md) `technologyreview.com`
 * [The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin](data/articles/the-download-gas-and-oil.710792da/README.md) `technologyreview.com`
 * [Progressive or retrogressive? Rationally defining AKD’s Presidency and NPP Government](data/articles/progressive-or-retrogres.17714796/README.md) `ft.lk`
 * [For US, UK and Europe, wars, death  and destruction are profitable business](data/articles/for-us-uk-and-europe-war.476b42a2/README.md) `ft.lk`
