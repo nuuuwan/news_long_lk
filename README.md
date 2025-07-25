@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-25 06:26:29**
+Last Updated **2025-07-25 18:23:22**
 
 ## 2025-07-25
 
+* [The deadly saga of the controversial gene therapy Elevidys](data/articles/the-deadly-saga-of-the-c.18dd488b/README.md) `technologyreview.com`
 * [Is global free trading paradoxical?](data/articles/is-global-free-trading-p.aaa8967a/README.md) `ft.lk`
 * [Trump tariff: Jolt to Sri Lanka’s dependence voracity and innate complacency](data/articles/trump-tariff-jolt-to-sri.1ad1d233/README.md) `ft.lk`
 * [B. Saroja Devi: Sweet voiced Kannada parrot was goddess of expression](data/articles/b-saroja-devi-sweet-voic.1d999fa4/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-07-25 06:26:29**
 
 * [Trump’s AI Action Plan is a distraction](data/articles/trump-s-ai-action-plan-i.757cea30/README.md) `technologyreview.com`
 * [The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin](data/articles/the-download-gas-and-oil.710792da/README.md) `technologyreview.com`
+* [What role should oil and gas companies play in climate tech?](data/articles/what-role-should-oil-and.b901a8e5/README.md) `technologyreview.com`
 * [Progressive or retrogressive? Rationally defining AKD’s Presidency and NPP Government](data/articles/progressive-or-retrogres.17714796/README.md) `ft.lk`
 * [For US, UK and Europe, wars, death  and destruction are profitable business](data/articles/for-us-uk-and-europe-war.476b42a2/README.md) `ft.lk`
 * [Black July 1983: Remembering the past to secure the future](data/articles/black-july-1983-remember.2a8d5dc2/README.md) `ft.lk`
@@ -22,6 +24,7 @@ Last Updated **2025-07-25 06:26:29**
 
 ## 2025-07-23
 
+* [Google DeepMind’s new AI can help historians understand ancient Latin inscriptions](data/articles/google-deepmind-s-new-ai.d8821e31/README.md) `technologyreview.com`
 * [சுண்டிக்குளி மகளிர் உயர்பாடசாலையின் 18 வயது மாணவி  கிருசாந்தி குமாரசுவாமியின்  துன்பக் கதையும் செம்மணி மனிதப் புதைகுழிகளும்](data/articles/ச-ண-ட-க-க-ள-மகள-ர-உயர-ப.189c95b2/README.md) `dbsjeyaraj.com`
 * [“Black July”:Anatomy of the July 1983 Anti-Tamil Pogrom.](data/articles/black-july-anatomy-of-t.05fd21fc/README.md) `dbsjeyaraj.com`
 
