@@ -2,14 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-25 18:23:22**
+Last Updated **2025-07-26 06:25:57**
 
 ## 2025-07-25
 
+* [Govt. urged to safeguard animals and nature through scientific, humane policies](data/articles/govt-urged-to-safeguard.8c7c4318/README.md) `ft.lk`
+* [Remembering Rajendram Rajamahendran: Legacy  of courage and compassion](data/articles/remembering-rajendram-ra.04d152b5/README.md) `ft.lk`
+* [Addressing black carbon for double impact on climate and health](data/articles/addressing-black-carbon.5195e8ac/README.md) `ft.lk`
+* [Multi-dimensional approach to lift status of rural sector: Praja Shakthi program in context](data/articles/multi-dimensional-approa.e654f0b7/README.md) `ft.lk`
+* [Bait of ruble and shadow of war: Sri Lanka’s mercenary scandal](data/articles/bait-of-ruble-and-shadow.05a7fb2f/README.md) `ft.lk`
 * [The deadly saga of the controversial gene therapy Elevidys](data/articles/the-deadly-saga-of-the-c.18dd488b/README.md) `technologyreview.com`
 * [Is global free trading paradoxical?](data/articles/is-global-free-trading-p.aaa8967a/README.md) `ft.lk`
 * [Trump tariff: Jolt to Sri Lanka’s dependence voracity and innate complacency](data/articles/trump-tariff-jolt-to-sri.1ad1d233/README.md) `ft.lk`
 * [B. Saroja Devi: Sweet voiced Kannada parrot was goddess of expression](data/articles/b-saroja-devi-sweet-voic.1d999fa4/README.md) `ft.lk`
+* [Beginning of “Black July “; 15 July Meesalai Army Attack and 23 July Thinnavely LTTE Ambush.](data/articles/beginning-of-black-july.1c0c5882/README.md) `dbsjeyaraj.com`
 
 ## 2025-07-24
 
