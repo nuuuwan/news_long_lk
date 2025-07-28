@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-28 06:26:29**
+Last Updated **2025-07-28 18:23:41**
 
 ## 2025-07-28
 
@@ -19,6 +19,7 @@ Last Updated **2025-07-28 06:26:29**
 * [Addressing black carbon for double impact on climate and health](data/articles/addressing-black-carbon.5195e8ac/README.md) `ft.lk`
 * [Multi-dimensional approach to lift status of rural sector: Praja Shakthi program in context](data/articles/multi-dimensional-approa.e654f0b7/README.md) `ft.lk`
 * [Bait of ruble and shadow of war: Sri Lanka’s mercenary scandal](data/articles/bait-of-ruble-and-shadow.05a7fb2f/README.md) `ft.lk`
+* [How nonprofits and academia are stepping up to salvage US climate programs](data/articles/how-nonprofits-and-acade.6e0e9a07/README.md) `technologyreview.com`
 * [The deadly saga of the controversial gene therapy Elevidys](data/articles/the-deadly-saga-of-the-c.18dd488b/README.md) `technologyreview.com`
 * [Is global free trading paradoxical?](data/articles/is-global-free-trading-p.aaa8967a/README.md) `ft.lk`
 * [Trump tariff: Jolt to Sri Lanka’s dependence voracity and innate complacency](data/articles/trump-tariff-jolt-to-sri.1ad1d233/README.md) `ft.lk`
