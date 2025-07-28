@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-27 18:22:29**
+Last Updated **2025-07-28 06:26:29**
+
+## 2025-07-28
+
+* [Sri Lanka’s globalisation and its policy challenges, according to Dr. Sarath Rajapatirana](data/articles/sri-lanka-s-globalisatio.3b481da8/README.md) `ft.lk`
+* [Navigating crisis](data/articles/navigating-crisis.d5f5543e/README.md) `ft.lk`
+* [Who protects the vulnerable? Reframing role of Police in preventing gendered harassment in Sri Lanka](data/articles/who-protects-the-vulnera.012f3712/README.md) `ft.lk`
+* [Maldives history:  From Sri Lankan Prince to first King](data/articles/maldives-history-from-sr.a1ea85fb/README.md) `ft.lk`
+* [Invisible trails: Navigating intersections of digital exhaust, trust, and privacy](data/articles/invisible-trails-navigat.e407de55/README.md) `ft.lk`
 
 ## 2025-07-25
 
