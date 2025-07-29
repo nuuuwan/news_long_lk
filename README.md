@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-28 18:23:41**
+Last Updated **2025-07-29 06:26:49**
+
+## 2025-07-29
+
+* [Power imbalance and corporate failure](data/articles/power-imbalance-and-corp.7b97704c/README.md) `ft.lk`
+* [Sri Lanka should stop appeasing Trump](data/articles/sri-lanka-should-stop-ap.d2e5fa60/README.md) `ft.lk`
+* [Celebrating $ 500 million FDI: Drop in the ocean compared to our neighbours](data/articles/celebrating-500-million.f7e8f545/README.md) `ft.lk`
+* [Real hangover: Outdated laws and who they serve](data/articles/real-hangover-outdated-l.da42b3c0/README.md) `ft.lk`
+* [Reject violence and war, struggle for peace and harmony](data/articles/reject-violence-and-war.69572943/README.md) `ft.lk`
 
 ## 2025-07-28
 
+* [Sirimavo Bandaranaike: The “Weeping Widow”  who Became the World’s First Woman Prime Minister 65 Years ago.](data/articles/sirimavo-bandaranaike-th.73825c88/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s globalisation and its policy challenges, according to Dr. Sarath Rajapatirana](data/articles/sri-lanka-s-globalisatio.3b481da8/README.md) `ft.lk`
 * [Navigating crisis](data/articles/navigating-crisis.d5f5543e/README.md) `ft.lk`
 * [Who protects the vulnerable? Reframing role of Police in preventing gendered harassment in Sri Lanka](data/articles/who-protects-the-vulnera.012f3712/README.md) `ft.lk`
