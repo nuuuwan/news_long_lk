@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-29 06:26:49**
+Last Updated **2025-07-29 18:23:33**
 
 ## 2025-07-29
 
+* [What you may have missed about Trump’s AI Action Plan](data/articles/what-you-may-have-missed.5fa3af75/README.md) `technologyreview.com`
 * [Power imbalance and corporate failure](data/articles/power-imbalance-and-corp.7b97704c/README.md) `ft.lk`
 * [Sri Lanka should stop appeasing Trump](data/articles/sri-lanka-should-stop-ap.d2e5fa60/README.md) `ft.lk`
 * [Celebrating $ 500 million FDI: Drop in the ocean compared to our neighbours](data/articles/celebrating-500-million.f7e8f545/README.md) `ft.lk`
@@ -38,6 +39,7 @@ Last Updated **2025-07-29 06:26:49**
 ## 2025-07-24
 
 * [Trump’s AI Action Plan is a distraction](data/articles/trump-s-ai-action-plan-i.757cea30/README.md) `technologyreview.com`
+* [America’s AI watchdog is losing its bite](data/articles/america-s-ai-watchdog-is.cc768d1e/README.md) `technologyreview.com`
 * [The Download: gas and oil’s role in climate tech, and using AI to decipher ancient Latin](data/articles/the-download-gas-and-oil.710792da/README.md) `technologyreview.com`
 * [What role should oil and gas companies play in climate tech?](data/articles/what-role-should-oil-and.b901a8e5/README.md) `technologyreview.com`
 * [Progressive or retrogressive? Rationally defining AKD’s Presidency and NPP Government](data/articles/progressive-or-retrogres.17714796/README.md) `ft.lk`
