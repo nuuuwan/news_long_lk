@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-29 18:23:33**
+Last Updated **2025-07-30 06:26:18**
+
+## 2025-07-30
+
+* [Provinces, development and governance](data/articles/provinces-development-an.12178267/README.md) `ft.lk`
+* [Vision for development by provinces](data/articles/vision-for-development-b.0da9d929/README.md) `ft.lk`
+* [Poverty alleviation an approach](data/articles/poverty-alleviation-an-a.f7aab190/README.md) `ft.lk`
+* [Digital VAT, DST, retaliatory taxes and US laws](data/articles/digital-vat-dst-retaliat.170c03a5/README.md) `ft.lk`
+* [Modernising Sri Lanka’s Armed Forces: Preparing  for future security challenges](data/articles/modernising-sri-lanka-s.39b163d4/README.md) `ft.lk`
 
 ## 2025-07-29
 
+* [OpenAI is launching a version of ChatGPT for college students](data/articles/openai-is-launching-a-ve.e224beb4/README.md) `technologyreview.com`
 * [What you may have missed about Trump’s AI Action Plan](data/articles/what-you-may-have-missed.5fa3af75/README.md) `technologyreview.com`
 * [Power imbalance and corporate failure](data/articles/power-imbalance-and-corp.7b97704c/README.md) `ft.lk`
 * [Sri Lanka should stop appeasing Trump](data/articles/sri-lanka-should-stop-ap.d2e5fa60/README.md) `ft.lk`
