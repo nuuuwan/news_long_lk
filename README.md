@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-30 18:23:14**
+Last Updated **2025-07-31 06:26:13**
+
+## 2025-07-31
+
+* [Building value-centric nation: Navigating complex journey from corruption to integrity](data/articles/building-value-centric-n.3e960234/README.md) `ft.lk`
+* [Beyond visa waivers: Building Sri Lanka’s global tourism brand](data/articles/beyond-visa-waivers-buil.1065bc4a/README.md) `ft.lk`
+* [Letter of concern to Defence Secretary over arrest of former Navy Chief](data/articles/letter-of-concern-to-def.65aa081d/README.md) `ft.lk`
+* [Renewable with solar, the way forward](data/articles/renewable-with-solar-the.7ae1fcc4/README.md) `ft.lk`
+* [Post-July ‘83 JVP, evil Israeli State and US global hegemony](data/articles/post-july-83-jvp-evil-is.9a82ff27/README.md) `ft.lk`
 
 ## 2025-07-30
 
+* [The AI Hype Index: The White House’s war on “woke AI”](data/articles/the-ai-hype-index-the-wh.aa657e3e/README.md) `technologyreview.com`
 * [Provinces, development and governance](data/articles/provinces-development-an.12178267/README.md) `ft.lk`
 * [Vision for development by provinces](data/articles/vision-for-development-b.0da9d929/README.md) `ft.lk`
 * [Poverty alleviation an approach](data/articles/poverty-alleviation-an-a.f7aab190/README.md) `ft.lk`
@@ -16,6 +25,7 @@ Last Updated **2025-07-30 18:23:14**
 
 * [OpenAI is launching a version of ChatGPT for college students](data/articles/openai-is-launching-a-ve.e224beb4/README.md) `technologyreview.com`
 * [What you may have missed about Trump’s AI Action Plan](data/articles/what-you-may-have-missed.5fa3af75/README.md) `technologyreview.com`
+* [This startup wants to use the Earth as a massive battery](data/articles/this-startup-wants-to-us.fb3f483a/README.md) `technologyreview.com`
 * [Power imbalance and corporate failure](data/articles/power-imbalance-and-corp.7b97704c/README.md) `ft.lk`
 * [Sri Lanka should stop appeasing Trump](data/articles/sri-lanka-should-stop-ap.d2e5fa60/README.md) `ft.lk`
 * [Celebrating $ 500 million FDI: Drop in the ocean compared to our neighbours](data/articles/celebrating-500-million.f7e8f545/README.md) `ft.lk`
@@ -24,6 +34,7 @@ Last Updated **2025-07-30 18:23:14**
 
 ## 2025-07-28
 
+* [Chinese universities want students to use more AI, not less](data/articles/chinese-universities-wan.bf974f3a/README.md) `technologyreview.com`
 * [Sirimavo Bandaranaike: The “Weeping Widow”  who Became the World’s First Woman Prime Minister 65 Years ago.](data/articles/sirimavo-bandaranaike-th.73825c88/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s globalisation and its policy challenges, according to Dr. Sarath Rajapatirana](data/articles/sri-lanka-s-globalisatio.3b481da8/README.md) `ft.lk`
 * [Navigating crisis](data/articles/navigating-crisis.d5f5543e/README.md) `ft.lk`
