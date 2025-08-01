@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-07-31 18:23:03**
+Last Updated **2025-08-01 06:26:10**
+
+## 2025-08-01
+
+* [Do leopards and people actually share the same world?](data/articles/do-leopards-and-people-a.48567643/README.md) `ft.lk`
+* [Navigating perpetual uncertainty: Leader’s toolkit](data/articles/navigating-perpetual-unc.fe2d1a48/README.md) `ft.lk`
+* [Varatharaja Perumal: First, last  and only North-Eastern Chief Minister](data/articles/varatharaja-perumal-firs.6316ec17/README.md) `ft.lk`
+* [How bacteria exposed a scandal](data/articles/how-bacteria-exposed-a-s.29d4ca89/README.md) `ft.lk`
+* [Reforming Sri Lanka’s coconut auction system: Call to empower growers and restore fairness](data/articles/reforming-sri-lanka-s-co.530833f1/README.md) `ft.lk`
 
 ## 2025-07-31
 
