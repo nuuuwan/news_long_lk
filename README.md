@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-01 06:26:10**
+Last Updated **2025-08-01 18:23:35**
 
 ## 2025-08-01
 
@@ -11,6 +11,7 @@ Last Updated **2025-08-01 06:26:10**
 * [Varatharaja Perumal: First, last  and only North-Eastern Chief Minister](data/articles/varatharaja-perumal-firs.6316ec17/README.md) `ft.lk`
 * [How bacteria exposed a scandal](data/articles/how-bacteria-exposed-a-s.29d4ca89/README.md) `ft.lk`
 * [Reforming Sri Lanka’s coconut auction system: Call to empower growers and restore fairness](data/articles/reforming-sri-lanka-s-co.530833f1/README.md) `ft.lk`
+* [How decades-old frozen embryos are changing the shape of families](data/articles/how-decades-old-frozen-e.0140fffb/README.md) `technologyreview.com`
 
 ## 2025-07-31
 
