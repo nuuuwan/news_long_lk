@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-02 06:26:18**
+Last Updated **2025-08-02 18:22:53**
 
 ## 2025-08-02
 
@@ -14,6 +14,8 @@ Last Updated **2025-08-02 06:26:18**
 
 ## 2025-08-01
 
+* [ஒன்பது பிரதமர்கள், ஜனாதிபதிகளுடன் பணியாற்றிய   தலைசிறந்த சிவில் சேவை அதிகாரி  பிரட்மன் வீரக்கோன்](data/articles/ஒன-பத-ப-ரதமர-கள-ஜன-த-பத.08ecc3e7/README.md) `dbsjeyaraj.com`
+* [Instead of  44% , Sri Lanka today faces a US 20% tariff! President Disanayake has proved that he  can actually get into the ring and win!](data/articles/instead-of-44-sri-lanka.a43b65b9/README.md) `dbsjeyaraj.com`
 * [Forcing LLMs to be evil during training can make them nicer in the long run](data/articles/forcing-llms-to-be-evil.ea70ef7e/README.md) `technologyreview.com`
 * [Do leopards and people actually share the same world?](data/articles/do-leopards-and-people-a.48567643/README.md) `ft.lk`
 * [Navigating perpetual uncertainty: Leader’s toolkit](data/articles/navigating-perpetual-unc.fe2d1a48/README.md) `ft.lk`
