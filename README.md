@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-01 18:23:35**
+Last Updated **2025-08-02 06:26:18**
+
+## 2025-08-02
+
+* [Why deportations, border and immigration controls in Global North?](data/articles/why-deportations-border.9660f81e/README.md) `ft.lk`
+* [Ramani, the woman soldier who picked up the pen](data/articles/ramani-the-woman-soldier.c62bc175/README.md) `ft.lk`
+* [Sri Lanka’s tariff triumph: Cool President in hot crisis](data/articles/sri-lanka-s-tariff-trium.db92e9a2/README.md) `ft.lk`
+* [Three years after Aragalaya: bring on the next revolution](data/articles/three-years-after-aragal.fcb934bf/README.md) `ft.lk`
+* [Historic pageant of the hill capital](data/articles/historic-pageant-of-the.954a1ad0/README.md) `ft.lk`
 
 ## 2025-08-01
 
+* [Forcing LLMs to be evil during training can make them nicer in the long run](data/articles/forcing-llms-to-be-evil.ea70ef7e/README.md) `technologyreview.com`
 * [Do leopards and people actually share the same world?](data/articles/do-leopards-and-people-a.48567643/README.md) `ft.lk`
 * [Navigating perpetual uncertainty: Leader’s toolkit](data/articles/navigating-perpetual-unc.fe2d1a48/README.md) `ft.lk`
 * [Varatharaja Perumal: First, last  and only North-Eastern Chief Minister](data/articles/varatharaja-perumal-firs.6316ec17/README.md) `ft.lk`
@@ -32,6 +41,7 @@ Last Updated **2025-08-01 18:23:35**
 
 ## 2025-07-29
 
+* [Exclusive: A record-breaking baby has been born from an embryo that’s over 30 years old](data/articles/exclusive-a-record-break.dd7cf8c0/README.md) `technologyreview.com`
 * [OpenAI is launching a version of ChatGPT for college students](data/articles/openai-is-launching-a-ve.e224beb4/README.md) `technologyreview.com`
 * [What you may have missed about Trump’s AI Action Plan](data/articles/what-you-may-have-missed.5fa3af75/README.md) `technologyreview.com`
 * [This startup wants to use the Earth as a massive battery](data/articles/this-startup-wants-to-us.fb3f483a/README.md) `technologyreview.com`

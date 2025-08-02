@@ -1,5 +1,47 @@
 [
   {
+    "title": "Why deportations, border and immigration controls in Global North?",
+    "url": "https://www.ft.lk/columns/Why-deportations-border-and-immigration-controls-in-Global-North/4-779798",
+    "ut": 1754073962.0,
+    "dir_path_unix": "data/articles/why-deportations-border.9660f81e",
+    "time_str_formatted": "12:16 AM, Saturday, August 02, 2025"
+  },
+  {
+    "title": "Ramani, the woman soldier who picked up the pen",
+    "url": "https://www.ft.lk/opinion/Ramani-the-woman-soldier-who-picked-up-the-pen/14-779797",
+    "ut": 1754073801.0,
+    "dir_path_unix": "data/articles/ramani-the-woman-soldier.c62bc175",
+    "time_str_formatted": "12:13 AM, Saturday, August 02, 2025"
+  },
+  {
+    "title": "Sri Lanka\u2019s tariff triumph: Cool President in hot crisis",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-tariff-triumph-Cool-President-in-hot-crisis/4-779786",
+    "ut": 1754073347.0,
+    "dir_path_unix": "data/articles/sri-lanka-s-tariff-trium.db92e9a2",
+    "time_str_formatted": "12:05 AM, Saturday, August 02, 2025"
+  },
+  {
+    "title": "Three years after Aragalaya: bring on the next revolution",
+    "url": "https://www.ft.lk/columns/Three-years-after-Aragalaya-bring-on-the-next-revolution/4-779785",
+    "ut": 1754073225.0,
+    "dir_path_unix": "data/articles/three-years-after-aragal.fcb934bf",
+    "time_str_formatted": "12:03 AM, Saturday, August 02, 2025"
+  },
+  {
+    "title": "Historic pageant of the hill capital",
+    "url": "https://www.ft.lk/columns/Historic-pageant-of-the-hill-capital/4-779783",
+    "ut": 1754073070.0,
+    "dir_path_unix": "data/articles/historic-pageant-of-the.954a1ad0",
+    "time_str_formatted": "12:01 AM, Saturday, August 02, 2025"
+  },
+  {
+    "title": "Forcing LLMs to be evil during training can make them nicer in the long run",
+    "url": "https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/",
+    "ut": 1754029800.0,
+    "dir_path_unix": "data/articles/forcing-llms-to-be-evil.ea70ef7e",
+    "time_str_formatted": "12:00 PM, Friday, August 01, 2025"
+  },
+  {
     "title": "Do leopards and people actually share the same world?",
     "url": "https://www.ft.lk/columns/Do-leopards-and-people-actually-share-the-same-world/4-779763",
     "ut": 1754007421.0,
@@ -117,6 +159,13 @@
     "ut": 1753831757.0,
     "dir_path_unix": "data/articles/modernising-sri-lanka-s.39b163d4",
     "time_str_formatted": "04:59 AM, Wednesday, July 30, 2025"
+  },
+  {
+    "title": "Exclusive: A record-breaking baby has been born from an embryo that\u2019s over 30 years old",
+    "url": "https://www.technologyreview.com/2025/07/29/1120769/exclusive-record-breaking-baby-born-embryo-over-30-years-old/",
+    "ut": 1753776416.0,
+    "dir_path_unix": "data/articles/exclusive-a-record-break.dd7cf8c0",
+    "time_str_formatted": "01:36 PM, Tuesday, July 29, 2025"
   },
   {
     "title": "OpenAI is launching a version of ChatGPT for college students",
