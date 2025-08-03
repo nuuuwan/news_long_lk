@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-03 06:26:02**
+Last Updated **2025-08-03 18:23:01**
+
+## 2025-08-03
+
+* [B.Saroja Devi: Sparkling Actress  Hailed as the “Kannadathup Painkili” (Kannada Parrot)  was also  Praised as  the “Abhinaya  Saraswathi” (Goddess of Expression)](data/articles/b-saroja-devi-sparkling.e7654ed9/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-02
 
