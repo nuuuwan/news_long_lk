@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-03 18:23:01**
+Last Updated **2025-08-04 06:26:30**
+
+## 2025-08-04
+
+* [Environment and how its issues should be tackled through public policy](data/articles/environment-and-how-its.0a9f856f/README.md) `ft.lk`
+* [Financing Sri Lanka’s electricity sector growth and transition](data/articles/financing-sri-lanka-s-el.4ec38054/README.md) `ft.lk`
 
 ## 2025-08-03
 
