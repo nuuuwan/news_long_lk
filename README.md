@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-04 06:26:30**
+Last Updated **2025-08-04 18:23:36**
 
 ## 2025-08-04
 
+* [Sri Lanka’s  first,last and only North -Eastern  Province Chief Minister A. Varatharaja Perumal Embarks on Political Project to Boost Provincial Councils.](data/articles/sri-lanka-s-first-last-a.24fb0e9e/README.md) `dbsjeyaraj.com`
 * [Environment and how its issues should be tackled through public policy](data/articles/environment-and-how-its.0a9f856f/README.md) `ft.lk`
 * [Financing Sri Lanka’s electricity sector growth and transition](data/articles/financing-sri-lanka-s-el.4ec38054/README.md) `ft.lk`
 
@@ -26,6 +27,8 @@ Last Updated **2025-08-04 06:26:30**
 * [ஒன்பது பிரதமர்கள், ஜனாதிபதிகளுடன் பணியாற்றிய   தலைசிறந்த சிவில் சேவை அதிகாரி  பிரட்மன் வீரக்கோன்](data/articles/ஒன-பத-ப-ரதமர-கள-ஜன-த-பத.08ecc3e7/README.md) `dbsjeyaraj.com`
 * [Instead of  44% , Sri Lanka today faces a US 20% tariff! President Disanayake has proved that he  can actually get into the ring and win!](data/articles/instead-of-44-sri-lanka.a43b65b9/README.md) `dbsjeyaraj.com`
 * [Forcing LLMs to be evil during training can make them nicer in the long run](data/articles/forcing-llms-to-be-evil.ea70ef7e/README.md) `technologyreview.com`
+* [Asia: five key points on new US tariffs](data/articles/asia-five-key-points-on.091b56d1/README.md) `eiu.com`
+* [US employment momentum slows sharply in July](data/articles/us-employment-momentum-s.05672594/README.md) `eiu.com`
 * [Do leopards and people actually share the same world?](data/articles/do-leopards-and-people-a.48567643/README.md) `ft.lk`
 * [Navigating perpetual uncertainty: Leader’s toolkit](data/articles/navigating-perpetual-unc.fe2d1a48/README.md) `ft.lk`
 * [Varatharaja Perumal: First, last  and only North-Eastern Chief Minister](data/articles/varatharaja-perumal-firs.6316ec17/README.md) `ft.lk`
@@ -35,6 +38,7 @@ Last Updated **2025-08-04 06:26:30**
 
 ## 2025-07-31
 
+* [Middle East chart of the week: robust Gulf FDI prospects](data/articles/middle-east-chart-of-the.1db2c3a4/README.md) `eiu.com`
 * [Building value-centric nation: Navigating complex journey from corruption to integrity](data/articles/building-value-centric-n.3e960234/README.md) `ft.lk`
 * [Beyond visa waivers: Building Sri Lanka’s global tourism brand](data/articles/beyond-visa-waivers-buil.1065bc4a/README.md) `ft.lk`
 * [Letter of concern to Defence Secretary over arrest of former Navy Chief](data/articles/letter-of-concern-to-def.65aa081d/README.md) `ft.lk`
