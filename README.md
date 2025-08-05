@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-04 18:23:36**
+Last Updated **2025-08-05 06:26:08**
 
 ## 2025-08-04
 
+* [IMF debt trap in Sri Lanka:  How conditionalities stifle investment and growth](data/articles/imf-debt-trap-in-sri-lan.635f5f84/README.md) `ft.lk`
 * [Sri Lanka’s  first,last and only North -Eastern  Province Chief Minister A. Varatharaja Perumal Embarks on Political Project to Boost Provincial Councils.](data/articles/sri-lanka-s-first-last-a.24fb0e9e/README.md) `dbsjeyaraj.com`
 * [Environment and how its issues should be tackled through public policy](data/articles/environment-and-how-its.0a9f856f/README.md) `ft.lk`
 * [Financing Sri Lanka’s electricity sector growth and transition](data/articles/financing-sri-lanka-s-el.4ec38054/README.md) `ft.lk`
@@ -48,6 +49,7 @@ Last Updated **2025-08-04 18:23:36**
 ## 2025-07-30
 
 * [The AI Hype Index: The White House’s war on “woke AI”](data/articles/the-ai-hype-index-the-wh.aa657e3e/README.md) `technologyreview.com`
+* [An EPA rule change threatens to gut US climate regulations](data/articles/an-epa-rule-change-threa.3b7e6919/README.md) `technologyreview.com`
 * [Provinces, development and governance](data/articles/provinces-development-an.12178267/README.md) `ft.lk`
 * [Vision for development by provinces](data/articles/vision-for-development-b.0da9d929/README.md) `ft.lk`
 * [Poverty alleviation an approach](data/articles/poverty-alleviation-an-a.f7aab190/README.md) `ft.lk`
