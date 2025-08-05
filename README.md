@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-05 06:26:08**
+Last Updated **2025-08-05 18:23:39**
+
+## 2025-08-05
+
+* [A glimpse into OpenAI’s largest ambitions](data/articles/a-glimpse-into-openai-s.0aab6309/README.md) `technologyreview.com`
 
 ## 2025-08-04
 
