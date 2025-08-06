@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-06 06:26:05**
+Last Updated **2025-08-06 18:23:30**
 
 ## 2025-08-06
 
@@ -15,6 +15,8 @@ Last Updated **2025-08-06 06:26:05**
 ## 2025-08-05
 
 * [மாகாண சபைகளை மேம்படுத்தும் அரசியல் செயற்திட்டத்தில் இறங்கியிருக்கும் இணைந்த வடக்கு — கிழக்கு மாகாணசபையின் முதலும் கடைசியுமான ஒரேயொரு  முதலமைச்சர் ஏ. வரதராஜப் பெருமாள்.](data/articles/ம-க-ண-சப-கள-ம-ம-பட-த-த-ம.d93f3a1a/README.md) `dbsjeyaraj.com`
+* [From a toehold then, to a freehold today, Israel has turned international law, UN mechanisms for a safer world and street ethics, on its head.](data/articles/from-a-toehold-then-to-a.a736ec76/README.md) `dbsjeyaraj.com`
+* [It is the Sinhala-Buddhist extremist fringe oversion of history that is being taught to Lankan students as History in the Grade 11 textbook.  A history textbook which validates Sinhala-Buddhist supremacism](data/articles/it-is-the-sinhala-buddhi.c70dbf42/README.md) `dbsjeyaraj.com`
 * [A glimpse into OpenAI’s largest ambitions](data/articles/a-glimpse-into-openai-s.0aab6309/README.md) `technologyreview.com`
 
 ## 2025-08-04
