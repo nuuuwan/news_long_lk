@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-05 18:23:39**
+Last Updated **2025-08-06 06:26:05**
+
+## 2025-08-06
+
+* [Marine pollution issues relating to nurdles spill in Sri Lanka](data/articles/marine-pollution-issues.8dcbf2f0/README.md) `ft.lk`
+* [Delusion of fund raising: How a group of electrical engineers is starving power sector of investment](data/articles/delusion-of-fund-raising.7d065eb1/README.md) `ft.lk`
+* [From toe-hold to freehold: Zionist occupation strategies-unlimited](data/articles/from-toe-hold-to-freehol.ae5637de/README.md) `ft.lk`
+* [Defence Ministry has its say over remanding of former Navy Commander Ulugetenne](data/articles/defence-ministry-has-its.f3b60533/README.md) `ft.lk`
+* [The history debate: Which history?](data/articles/the-history-debate-which.7abe4e0a/README.md) `ft.lk`
 
 ## 2025-08-05
 
+* [மாகாண சபைகளை மேம்படுத்தும் அரசியல் செயற்திட்டத்தில் இறங்கியிருக்கும் இணைந்த வடக்கு — கிழக்கு மாகாணசபையின் முதலும் கடைசியுமான ஒரேயொரு  முதலமைச்சர் ஏ. வரதராஜப் பெருமாள்.](data/articles/ம-க-ண-சப-கள-ம-ம-பட-த-த-ம.d93f3a1a/README.md) `dbsjeyaraj.com`
 * [A glimpse into OpenAI’s largest ambitions](data/articles/a-glimpse-into-openai-s.0aab6309/README.md) `technologyreview.com`
 
 ## 2025-08-04
@@ -44,6 +53,7 @@ Last Updated **2025-08-05 18:23:39**
 ## 2025-07-31
 
 * [Middle East chart of the week: robust Gulf FDI prospects](data/articles/middle-east-chart-of-the.1db2c3a4/README.md) `eiu.com`
+* [The two people shaping the future of OpenAI’s research](data/articles/the-two-people-shaping-t.d41d0b4e/README.md) `technologyreview.com`
 * [Building value-centric nation: Navigating complex journey from corruption to integrity](data/articles/building-value-centric-n.3e960234/README.md) `ft.lk`
 * [Beyond visa waivers: Building Sri Lanka’s global tourism brand](data/articles/beyond-visa-waivers-buil.1065bc4a/README.md) `ft.lk`
 * [Letter of concern to Defence Secretary over arrest of former Navy Chief](data/articles/letter-of-concern-to-def.65aa081d/README.md) `ft.lk`
@@ -174,6 +184,7 @@ Last Updated **2025-08-05 18:23:39**
 ## 2025-07-15
 
 * [Cultivating a Culture of Human Ingenuity in the Age of AI](data/articles/cultivating-a-culture-of.eb624dde/README.md) `hbr.org`
+* [Assessing the risks of extreme weather events](data/articles/assessing-the-risks-of-e.44288b44/README.md) `eiu.com`
 * [Google’s generative video model Veo 3 has a subtitles problem](data/articles/google-s-generative-vide.46f4fee4/README.md) `technologyreview.com`
 * [Economist Intelligence launches the Democracy Index and the Liveability Index on Snowflake Marketplace](data/articles/economist-intelligence-l.335f86f0/README.md) `eiu.com`
 * [AI text-to-speech programs could “unlearn” how to imitate certain people](data/articles/ai-text-to-speech-progra.80953fab/README.md) `technologyreview.com`
