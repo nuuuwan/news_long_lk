@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-06 18:23:30**
+Last Updated **2025-08-07 06:26:22**
+
+## 2025-08-07
+
+* [Rule of law in taxation: Rights before revenue – Part 1](data/articles/rule-of-law-in-taxation.350b329c/README.md) `ft.lk`
 
 ## 2025-08-06
 
+* [Evicting Mahinda, arresting Ulugetenne, becoming India’s Macau: Anura as Yeltsin](data/articles/evicting-mahinda-arresti.2819c0fc/README.md) `ft.lk`
 * [Marine pollution issues relating to nurdles spill in Sri Lanka](data/articles/marine-pollution-issues.8dcbf2f0/README.md) `ft.lk`
 * [Delusion of fund raising: How a group of electrical engineers is starving power sector of investment](data/articles/delusion-of-fund-raising.7d065eb1/README.md) `ft.lk`
 * [From toe-hold to freehold: Zionist occupation strategies-unlimited](data/articles/from-toe-hold-to-freehol.ae5637de/README.md) `ft.lk`
@@ -17,11 +22,13 @@ Last Updated **2025-08-06 18:23:30**
 * [மாகாண சபைகளை மேம்படுத்தும் அரசியல் செயற்திட்டத்தில் இறங்கியிருக்கும் இணைந்த வடக்கு — கிழக்கு மாகாணசபையின் முதலும் கடைசியுமான ஒரேயொரு  முதலமைச்சர் ஏ. வரதராஜப் பெருமாள்.](data/articles/ம-க-ண-சப-கள-ம-ம-பட-த-த-ம.d93f3a1a/README.md) `dbsjeyaraj.com`
 * [From a toehold then, to a freehold today, Israel has turned international law, UN mechanisms for a safer world and street ethics, on its head.](data/articles/from-a-toehold-then-to-a.a736ec76/README.md) `dbsjeyaraj.com`
 * [It is the Sinhala-Buddhist extremist fringe oversion of history that is being taught to Lankan students as History in the Grade 11 textbook.  A history textbook which validates Sinhala-Buddhist supremacism](data/articles/it-is-the-sinhala-buddhi.c70dbf42/README.md) `dbsjeyaraj.com`
+* [OpenAI has finally released open-weight language models](data/articles/openai-has-finally-relea.c4e3f0f8/README.md) `technologyreview.com`
 * [A glimpse into OpenAI’s largest ambitions](data/articles/a-glimpse-into-openai-s.0aab6309/README.md) `technologyreview.com`
 
 ## 2025-08-04
 
 * [IMF debt trap in Sri Lanka:  How conditionalities stifle investment and growth](data/articles/imf-debt-trap-in-sri-lan.635f5f84/README.md) `ft.lk`
+* [These protocols will help AI agents navigate our messy lives](data/articles/these-protocols-will-hel.c5997077/README.md) `technologyreview.com`
 * [Sri Lanka’s  first,last and only North -Eastern  Province Chief Minister A. Varatharaja Perumal Embarks on Political Project to Boost Provincial Councils.](data/articles/sri-lanka-s-first-last-a.24fb0e9e/README.md) `dbsjeyaraj.com`
 * [Environment and how its issues should be tackled through public policy](data/articles/environment-and-how-its.0a9f856f/README.md) `ft.lk`
 * [Financing Sri Lanka’s electricity sector growth and transition](data/articles/financing-sri-lanka-s-el.4ec38054/README.md) `ft.lk`
