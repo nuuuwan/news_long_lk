@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-07 06:26:22**
+Last Updated **2025-08-07 18:23:24**
 
 ## 2025-08-07
 
+* [The greenhouse gases we’re not accounting for](data/articles/the-greenhouse-gases-we.ca478f9e/README.md) `technologyreview.com`
 * [Rule of law in taxation: Rights before revenue – Part 1](data/articles/rule-of-law-in-taxation.350b329c/README.md) `ft.lk`
 
 ## 2025-08-06
