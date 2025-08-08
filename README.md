@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-07 18:23:24**
+Last Updated **2025-08-08 06:25:57**
+
+## 2025-08-08
+
+* [‘Unsilenced’: Neelan Tiruchelvam revisited](data/articles/unsilenced-neelan-tiruc.c46ef597/README.md) `ft.lk`
+* [Multi-faceted personality Lakshman Kadirgamar’s spiritual side](data/articles/multi-faceted-personalit.b3de50cd/README.md) `ft.lk`
+* [A time to put off  times of trouble](data/articles/a-time-to-put-off-times.3ca01001/README.md) `ft.lk`
+* [Why Sri Lanka should be ready for “B-READY”](data/articles/why-sri-lanka-should-be.00196b27/README.md) `ft.lk`
+* [Has Israel become a pariah State of the world?](data/articles/has-israel-become-a-pari.54b2bf36/README.md) `ft.lk`
 
 ## 2025-08-07
 
@@ -12,6 +20,7 @@ Last Updated **2025-08-07 18:23:24**
 ## 2025-08-06
 
 * [Evicting Mahinda, arresting Ulugetenne, becoming India’s Macau: Anura as Yeltsin](data/articles/evicting-mahinda-arresti.2819c0fc/README.md) `ft.lk`
+* [Five ways that AI is learning to improve itself](data/articles/five-ways-that-ai-is-lea.114040c1/README.md) `technologyreview.com`
 * [Marine pollution issues relating to nurdles spill in Sri Lanka](data/articles/marine-pollution-issues.8dcbf2f0/README.md) `ft.lk`
 * [Delusion of fund raising: How a group of electrical engineers is starving power sector of investment](data/articles/delusion-of-fund-raising.7d065eb1/README.md) `ft.lk`
 * [From toe-hold to freehold: Zionist occupation strategies-unlimited](data/articles/from-toe-hold-to-freehol.ae5637de/README.md) `ft.lk`
