@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-10 06:26:19**
+Last Updated **2025-08-10 18:23:31**
 
 ## 2025-08-09
 
+* [“I, as the Acting President,  made the impugned proclamation to uphold the powers and privileges of Parliament to enable the Parliament to sit on July 20, 2022, to permit the election of the President. These facts were known to the entire country.”- Former President Ranil Wickremesinghe](data/articles/i-as-the-acting-preside.e829ef5d/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s Finest Foreign Minister and Multi-faceted Personality Lakshman Kadirgamar’s Spiritual  Dimension.](data/articles/sri-lanka-s-finest-forei.f2ba063b/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-08
