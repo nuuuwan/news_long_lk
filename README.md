@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-09 18:22:40**
+Last Updated **2025-08-10 06:26:19**
+
+## 2025-08-09
+
+* [Sri Lanka’s Finest Foreign Minister and Multi-faceted Personality Lakshman Kadirgamar’s Spiritual  Dimension.](data/articles/sri-lanka-s-finest-forei.f2ba063b/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-08
 
