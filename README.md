@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-10 18:23:31**
+Last Updated **2025-08-11 06:25:54**
+
+## 2025-08-11
+
+* [Is increase in tobacco tax incidence practical policy option in Sri Lanka?](data/articles/is-increase-in-tobacco-t.364223fc/README.md) `ft.lk`
+* [Are residential apartments the best asset class in town? Probably](data/articles/are-residential-apartmen.9ad16fba/README.md) `ft.lk`
+* [Arugam Bay: Gentle warning, Mr. President](data/articles/arugam-bay-gentle-warnin.426af396/README.md) `ft.lk`
+* [Environment and how its issues should be tackled through public policy](data/articles/environment-and-how-its.e171c323/README.md) `ft.lk`
 
 ## 2025-08-09
 
