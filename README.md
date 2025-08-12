@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-11 18:23:36**
+Last Updated **2025-08-12 06:26:55**
+
+## 2025-08-12
+
+* [Should MEPA be apportioned major part of blame for X-Press Pearl marine environmental disaster?](data/articles/should-mepa-be-apportion.61f3124f/README.md) `ft.lk`
+* [Don’t abandon our war heroes](data/articles/don-t-abandon-our-war-he.e4e85fac/README.md) `ft.lk`
+* [Sri Lanka: Next frontier for global investors](data/articles/sri-lanka-next-frontier.06083060/README.md) `ft.lk`
 
 ## 2025-08-11
 
+* [Sam Altman and the whale](data/articles/sam-altman-and-the-whale.848341f1/README.md) `technologyreview.com`
 * [This quantum radar could image buried objects](data/articles/this-quantum-radar-could.9df3b202/README.md) `technologyreview.com`
 * [Is increase in tobacco tax incidence practical policy option in Sri Lanka?](data/articles/is-increase-in-tobacco-t.364223fc/README.md) `ft.lk`
 * [Is increase in tobacco tax incidence practical policy option in Sri Lanka?](data/articles/is-increase-in-tobacco-t.c7c7bb8d/README.md) `ft.lk`
@@ -28,6 +35,7 @@ Last Updated **2025-08-11 18:23:36**
 
 ## 2025-08-07
 
+* [GPT-5 is here. Now what?](data/articles/gpt-5-is-here-now-what.4b85a595/README.md) `technologyreview.com`
 * [The greenhouse gases we’re not accounting for](data/articles/the-greenhouse-gases-we.ca478f9e/README.md) `technologyreview.com`
 * [Rule of law in taxation: Rights before revenue – Part 1](data/articles/rule-of-law-in-taxation.350b329c/README.md) `ft.lk`
 
