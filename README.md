@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-12 06:26:55**
+Last Updated **2025-08-12 18:23:15**
 
 ## 2025-08-12
 
+* [What you may have missed about GPT-5](data/articles/what-you-may-have-missed.7f7c1f56/README.md) `technologyreview.com`
 * [Should MEPA be apportioned major part of blame for X-Press Pearl marine environmental disaster?](data/articles/should-mepa-be-apportion.61f3124f/README.md) `ft.lk`
 * [Don’t abandon our war heroes](data/articles/don-t-abandon-our-war-he.e4e85fac/README.md) `ft.lk`
 * [Sri Lanka: Next frontier for global investors](data/articles/sri-lanka-next-frontier.06083060/README.md) `ft.lk`
