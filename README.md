@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-12 18:23:15**
+Last Updated **2025-08-13 06:26:18**
+
+## 2025-08-13
+
+* [How CID bypassed Navy Act to pull former Commander into Civilian Court](data/articles/how-cid-bypassed-navy-ac.c95bb7ed/README.md) `ft.lk`
+* [Pulse of a nation: Why tax compliance is a collective heartbeat](data/articles/pulse-of-a-nation-why-ta.d2f68494/README.md) `ft.lk`
+* [President AKD’s speech inspires power sector reforms](data/articles/president-akd-s-speech-i.83bac357/README.md) `ft.lk`
+* [Sri Lanka’s billion-dollar X-Press Pearl judgment faces uphill legal battle in Singapore](data/articles/sri-lanka-s-billion-doll.454c8571/README.md) `ft.lk`
+* [Why biz chambers must lead on trade diplomacy](data/articles/why-biz-chambers-must-le.0e74da47/README.md) `ft.lk`
 
 ## 2025-08-12
 
