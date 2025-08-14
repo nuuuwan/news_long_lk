@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-13 18:22:58**
+Last Updated **2025-08-14 06:25:48**
+
+## 2025-08-14
+
+* [Rising sons: Namal Rajapaksa, Sajith Premadasa  and the Opposition project](data/articles/rising-sons-namal-rajapa.027b41fc/README.md) `ft.lk`
+* [History repeats, failure to failure](data/articles/history-repeats-failure.c434a347/README.md) `ft.lk`
+* [Trumpeting Trump’s tariff](data/articles/trumpeting-trump-s-tarif.132258d8/README.md) `ft.lk`
+* [Trade under pressure: India’s rise and Sri Lanka’s struggle in tea and oil sectors amid sanctions](data/articles/trade-under-pressure-ind.10ce4435/README.md) `ft.lk`
+* [How inclusive design strategies can transform Sri Lankan banking experience](data/articles/how-inclusive-design-str.5dd369f7/README.md) `ft.lk`
 
 ## 2025-08-13
 
