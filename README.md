@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-14 18:23:05**
+Last Updated **2025-08-15 06:26:42**
+
+## 2025-08-15
+
+* [Premier Harini’s gaffe and JVP-led NPP Govt.’s damage control efforts](data/articles/premier-harini-s-gaffe-a.56add521/README.md) `ft.lk`
+* [Sri Lanka at Human Rights Council: “Engage to Disengage”](data/articles/sri-lanka-at-human-right.8d6e79f1/README.md) `ft.lk`
 
 ## 2025-08-14
 
+* [Driving Digital Transformation in Japan’s Insurance Sector](data/articles/driving-digital-transfor.1908e0e0/README.md) `hbr.org`
 * [Rising sons: Namal Rajapaksa, Sajith Premadasa  and the Opposition project](data/articles/rising-sons-namal-rajapa.027b41fc/README.md) `ft.lk`
 * [History repeats, failure to failure](data/articles/history-repeats-failure.c434a347/README.md) `ft.lk`
 * [The US could really use an affordable electric truck](data/articles/the-us-could-really-use.b686bdf4/README.md) `technologyreview.com`
