@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-15 06:26:42**
+Last Updated **2025-08-15 18:22:52**
 
 ## 2025-08-15
 
+* [Losing GPT-4o sent some people into mourning. That was predictable.](data/articles/losing-gpt-4o-sent-some.e9aedd9d/README.md) `technologyreview.com`
+* [Indigenous knowledge meets artificial intelligence](data/articles/indigenous-knowledge-mee.299436db/README.md) `technologyreview.com`
+* [Why US federal health agencies are abandoning mRNA vaccines](data/articles/why-us-federal-health-ag.0310f62c/README.md) `technologyreview.com`
+* [Taiwan’s “silicon shield” could be weakening](data/articles/taiwan-s-silicon-shield.698cf911/README.md) `technologyreview.com`
 * [Premier Harini’s gaffe and JVP-led NPP Govt.’s damage control efforts](data/articles/premier-harini-s-gaffe-a.56add521/README.md) `ft.lk`
 * [Sri Lanka at Human Rights Council: “Engage to Disengage”](data/articles/sri-lanka-at-human-right.8d6e79f1/README.md) `ft.lk`
 
