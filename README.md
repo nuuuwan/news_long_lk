@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-15 18:22:52**
+Last Updated **2025-08-16 06:25:48**
 
 ## 2025-08-15
 
+* [Imported sustainability: Rethinking Sri Lanka’s paradoxical wind energy ambitions](data/articles/imported-sustainability.8694c3aa/README.md) `ft.lk`
+* [Tribute to Dr. Sarath de Silva on 80th birthday](data/articles/tribute-to-dr-sarath-de.c2c96c23/README.md) `ft.lk`
+* [Lessons to be learnt from death of Bhathiya, the wild elephant](data/articles/lessons-to-be-learnt-fro.c7d0bef2/README.md) `ft.lk`
+* [Don’t fly me to the Moon  again, Mr. Rocketman](data/articles/don-t-fly-me-to-the-moon.6f418209/README.md) `ft.lk`
+* [India’s cosmic leap: A billion dreams will see visits to Moon, Mars and Venus](data/articles/india-s-cosmic-leap-a-bi.73e4a1d4/README.md) `ft.lk`
+* [இலங்கையின் தலைசிறந்த வெளியுறவு அமைச்சர் என்று பலராலும் கருதப்பட்ட “பன்முக ஆளுமை” லக்ஸ்மன் கதிர்காமரின் ஆன்மீகப் பரிமாணம்](data/articles/இலங-க-ய-ன-தல-ச-றந-த-வ-ள.6dd07c6a/README.md) `dbsjeyaraj.com`
 * [Losing GPT-4o sent some people into mourning. That was predictable.](data/articles/losing-gpt-4o-sent-some.e9aedd9d/README.md) `technologyreview.com`
 * [Indigenous knowledge meets artificial intelligence](data/articles/indigenous-knowledge-mee.299436db/README.md) `technologyreview.com`
 * [Why US federal health agencies are abandoning mRNA vaccines](data/articles/why-us-federal-health-ag.0310f62c/README.md) `technologyreview.com`
