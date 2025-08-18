@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-18 06:25:54**
+Last Updated **2025-08-18 18:23:12**
 
 ## 2025-08-17
 
@@ -25,6 +25,7 @@ Last Updated **2025-08-18 06:25:54**
 * [India’s cosmic leap: A billion dreams will see visits to Moon, Mars and Venus](data/articles/india-s-cosmic-leap-a-bi.73e4a1d4/README.md) `ft.lk`
 * [இலங்கையின் தலைசிறந்த வெளியுறவு அமைச்சர் என்று பலராலும் கருதப்பட்ட “பன்முக ஆளுமை” லக்ஸ்மன் கதிர்காமரின் ஆன்மீகப் பரிமாணம்](data/articles/இலங-க-ய-ன-தல-ச-றந-த-வ-ள.6dd07c6a/README.md) `dbsjeyaraj.com`
 * [Losing GPT-4o sent some people into mourning. That was predictable.](data/articles/losing-gpt-4o-sent-some.e9aedd9d/README.md) `technologyreview.com`
+* [Why GPT-4o’s sudden shutdown left people grieving](data/articles/why-gpt-4o-s-sudden-shut.e9aedd9d/README.md) `technologyreview.com`
 * [Indigenous knowledge meets artificial intelligence](data/articles/indigenous-knowledge-mee.299436db/README.md) `technologyreview.com`
 * [Why US federal health agencies are abandoning mRNA vaccines](data/articles/why-us-federal-health-ag.0310f62c/README.md) `technologyreview.com`
 * [Taiwan’s “silicon shield” could be weakening](data/articles/taiwan-s-silicon-shield.698cf911/README.md) `technologyreview.com`
@@ -43,6 +44,7 @@ Last Updated **2025-08-18 06:25:54**
 
 ## 2025-08-13
 
+* [Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies](data/articles/why-trump-s-golden-dome.43f527d5/README.md) `technologyreview.com`
 * [How CID bypassed Navy Act to pull former Commander into Civilian Court](data/articles/how-cid-bypassed-navy-ac.c95bb7ed/README.md) `ft.lk`
 * [Pulse of a nation: Why tax compliance is a collective heartbeat](data/articles/pulse-of-a-nation-why-ta.d2f68494/README.md) `ft.lk`
 * [President AKD’s speech inspires power sector reforms](data/articles/president-akd-s-speech-i.83bac357/README.md) `ft.lk`
