@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-17 18:22:17**
+Last Updated **2025-08-18 06:25:54**
+
+## 2025-08-17
+
+* [Remembering my friend Harry on his 83rd birthday](data/articles/remembering-my-friend-ha.f272268a/README.md) `ft.lk`
+* [Bridging the gap: What will it take to get more women in management](data/articles/bridging-the-gap-what-wi.0a70f731/README.md) `ft.lk`
+* [Not too late for a winning bet: Need to redraft Gambling Bill](data/articles/not-too-late-for-a-winni.8be2d6ab/README.md) `ft.lk`
+* [Rule of law in taxation: Rights before revenue – Part 2](data/articles/rule-of-law-in-taxation.c1c50bee/README.md) `ft.lk`
+* [Circular economy: Philosophy, history, and prospects](data/articles/circular-economy-philoso.c0330349/README.md) `ft.lk`
+
+## 2025-08-16
+
+* [Premier Harini’s  Blunder about Chichi’s Rocket  and  Minister Wasantha’s Damage Control  Statement.](data/articles/premier-harini-s-blunder.26a50dc7/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-15
 
