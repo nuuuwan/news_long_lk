@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-19 06:25:35**
+Last Updated **2025-08-19 18:22:41**
+
+## 2025-08-19
+
+* [Apple AirPods : a gateway hearing aid](data/articles/apple-airpods-a-gateway.2b6826c5/README.md) `technologyreview.com`
+* [Hartal  Called by prominent Tamil party Ilankai Tamil Arasu Kadchi held in Sri Lanka’s north and east in protest of the recent killing of a Tamil youth, allegedly by the military, and the continuing military presence in Tamil-majority areas](data/articles/hartal-called-by-promine.63ff0316/README.md) `dbsjeyaraj.com`
+* [“If Israel gets away with this genocide, that fact will convey a sense of impunity to powerful nations, placing smaller, weaker countries, countries without super-power patrons in danger.”](data/articles/if-israel-gets-away-wit.0364fc85/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-17
 
