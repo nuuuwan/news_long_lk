@@ -2,11 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-20 06:26:23**
+Last Updated **2025-08-20 18:24:31**
+
+## 2025-08-20
+
+* [Building high-performing teams: Converting mystery into reality](data/articles/building-high-performing.baaa0b23/README.md) `ft.lk`
+* [Sri Lanka’s energy crossroads: From crisis to clean powerhouse](data/articles/sri-lanka-s-energy-cross.f2f608cb/README.md) `ft.lk`
+* [SVAT to risk-based refunds: Turning point in Sri Lanka’s tax policy](data/articles/svat-to-risk-based-refun.80fec38f/README.md) `ft.lk`
+* [What Karannagoda’s ‘Turning Point’ teaches post-conflict generation](data/articles/what-karannagoda-s-turni.eed88141/README.md) `ft.lk`
+* [Appreciation: Oscar Gunewardena](data/articles/appreciation-oscar-gunew.d28ceb78/README.md) `ft.lk`
 
 ## 2025-08-19
 
 * [Apple AirPods : a gateway hearing aid](data/articles/apple-airpods-a-gateway.2b6826c5/README.md) `technologyreview.com`
+* [Should AI flatter us, fix us, or just inform us?](data/articles/should-ai-flatter-us-fix.262b712f/README.md) `technologyreview.com`
 * [Hartal  Called by prominent Tamil party Ilankai Tamil Arasu Kadchi held in Sri Lanka’s north and east in protest of the recent killing of a Tamil youth, allegedly by the military, and the continuing military presence in Tamil-majority areas](data/articles/hartal-called-by-promine.63ff0316/README.md) `dbsjeyaraj.com`
 * [“If Israel gets away with this genocide, that fact will convey a sense of impunity to powerful nations, placing smaller, weaker countries, countries without super-power patrons in danger.”](data/articles/if-israel-gets-away-wit.0364fc85/README.md) `dbsjeyaraj.com`
 
