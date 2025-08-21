@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-20 18:24:31**
+Last Updated **2025-08-21 18:23:53**
+
+## 2025-08-21
+
+* [Sahasdhanavi and LNG: Search for real costs in the midst of obfuscation](data/articles/sahasdhanavi-and-lng-sea.a1e42da9/README.md) `ft.lk`
+* [Volker Türk report, toxic West, UK-Canada resolution, Israel’s North-East connection](data/articles/volker-türk-report-toxic.bfd42f83/README.md) `ft.lk`
+* [From ports to power: Sri Lanka’s 20-year journey in foreign investment (2004–2024)](data/articles/from-ports-to-power-sri.72574187/README.md) `ft.lk`
+* [Palestine without Palestinians: Rhetoric and reality?](data/articles/palestine-without-palest.3f3dd275/README.md) `ft.lk`
+* [Against national policy on reconciliation: Tamil perspective](data/articles/against-national-policy.50d6e0cf/README.md) `ft.lk`
 
 ## 2025-08-20
 
@@ -11,6 +19,7 @@ Last Updated **2025-08-20 18:24:31**
 * [SVAT to risk-based refunds: Turning point in Sri Lanka’s tax policy](data/articles/svat-to-risk-based-refun.80fec38f/README.md) `ft.lk`
 * [What Karannagoda’s ‘Turning Point’ teaches post-conflict generation](data/articles/what-karannagoda-s-turni.eed88141/README.md) `ft.lk`
 * [Appreciation: Oscar Gunewardena](data/articles/appreciation-oscar-gunew.d28ceb78/README.md) `ft.lk`
+* [Material Cultures looks to the past to build the future](data/articles/material-cultures-looks.8977957b/README.md) `technologyreview.com`
 
 ## 2025-08-19
 
