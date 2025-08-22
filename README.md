@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-22 06:25:40**
+Last Updated **2025-08-22 18:22:37**
 
 ## 2025-08-22
 
@@ -13,6 +13,7 @@ Last Updated **2025-08-22 06:25:40**
 
 ## 2025-08-21
 
+* [Why recycling isn’t enough to address the plastic problem](data/articles/why-recycling-isn-t-enou.a6b3db17/README.md) `technologyreview.com`
 * [Sahasdhanavi and LNG: Search for real costs in the midst of obfuscation](data/articles/sahasdhanavi-and-lng-sea.a1e42da9/README.md) `ft.lk`
 * [Volker Türk report, toxic West, UK-Canada resolution, Israel’s North-East connection](data/articles/volker-türk-report-toxic.bfd42f83/README.md) `ft.lk`
 * [From ports to power: Sri Lanka’s 20-year journey in foreign investment (2004–2024)](data/articles/from-ports-to-power-sri.72574187/README.md) `ft.lk`
