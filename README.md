@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-21 18:23:53**
+Last Updated **2025-08-22 06:25:40**
+
+## 2025-08-22
+
+* [ITAK launches half-day hartal with twin objectives in North-East](data/articles/itak-launches-half-day-h.5cd5ed7a/README.md) `ft.lk`
+* [Harsha’s strategy for financing long-term credit for SMEs: Is it viable?](data/articles/harsha-s-strategy-for-fi.1826e114/README.md) `ft.lk`
+* [George Steuart turning 190: A phenomenal landmark](data/articles/george-steuart-turning-1.f70b9066/README.md) `ft.lk`
+* [Social protection: Not an option but a necessity in Asia and the Pacific](data/articles/social-protection-not-an.3685db4d/README.md) `ft.lk`
 
 ## 2025-08-21
 
