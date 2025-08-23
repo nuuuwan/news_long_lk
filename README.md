@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-23 06:25:34**
+Last Updated **2025-08-23 18:21:17**
 
 ## 2025-08-23
 
+* [Former President Ranil Wickremesinghe Transferred to National Hospital from Prison Hospital due to Unstable Health Condition. Intensive Specialist care provided after steeo rise in Blood Pressure and Blood sugar levels](data/articles/former-president-ranil-w.550bd20d/README.md) `dbsjeyaraj.com`
+* [Former   President Ranil Wickremesinghe Arrested on August 22  by CID  for alleged misuse of State funds for personal UK trip in 2023  and  Remanded by Colombo Fort Magistrate Until Aug 26](data/articles/former-president-ranil-w.98845338/README.md) `dbsjeyaraj.com`
 * [The show must not go on, Sri Lanka](data/articles/the-show-must-not-go-on.173cdad0/README.md) `ft.lk`
 
 ## 2025-08-22
