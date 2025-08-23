@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-22 18:22:37**
+Last Updated **2025-08-23 06:25:34**
+
+## 2025-08-23
+
+* [The show must not go on, Sri Lanka](data/articles/the-show-must-not-go-on.173cdad0/README.md) `ft.lk`
 
 ## 2025-08-22
 
+* [President hits pause on Mannar: Will SL’s present Govt. finally press play on real energy reform?](data/articles/president-hits-pause-on.f818699f/README.md) `ft.lk`
+* [Integrating cross-cutting considerations into national adaptation planning](data/articles/integrating-cross-cuttin.d8c57cdd/README.md) `ft.lk`
+* [Rules-based order at risk: Return of power politics](data/articles/rules-based-order-at-ris.6af6156b/README.md) `ft.lk`
+* [The day negligence exploded: How greed  and ignorance fuelled Sri Lanka’s LPG disaster](data/articles/the-day-negligence-explo.8a3e4aa3/README.md) `ft.lk`
 * [ITAK launches half-day hartal with twin objectives in North-East](data/articles/itak-launches-half-day-h.5cd5ed7a/README.md) `ft.lk`
 * [Harsha’s strategy for financing long-term credit for SMEs: Is it viable?](data/articles/harsha-s-strategy-for-fi.1826e114/README.md) `ft.lk`
 * [George Steuart turning 190: A phenomenal landmark](data/articles/george-steuart-turning-1.f70b9066/README.md) `ft.lk`
