@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-25 06:25:59**
+Last Updated **2025-08-25 18:22:46**
 
 ## 2025-08-25
 
+* [When a President travels whether to Anuradhapura  to see his mother , or to London  to accompany his spouse , does the law expect the head of state to discard the security trappings of that office?](data/articles/when-a-president-travels.5483cf18/README.md) `dbsjeyaraj.com`
+* [Coalition of Opposition Party Leaders  Mobilise Under Slogan  “Let’s Defeat the Constitutional Dictatorship ” and Denounce Arrest of Ex- president Ranil Wickremesinghe; Accuse JVP-led NPP Govt  of weaponising the legal system against political rivals](data/articles/coalition-of-opposition.8906f0e2/README.md) `dbsjeyaraj.com`
+* [Bimal Ratnayake says Charges on which Ranil Wickremesinghe was arrested May  seem Trivial and that the Former President should have been brought to justice decades ago for “far more serious allegations.”](data/articles/bimal-ratnayake-says-cha.0172d055/README.md) `dbsjeyaraj.com`
 * [Development surge in Peninsula India: Lessons for Sri Lanka](data/articles/development-surge-in-pen.552e4625/README.md) `ft.lk`
+* [Development surge in Peninsula India: Lessons for Sri Lanka](data/articles/development-surge-in-pen.70d16e18/README.md) `ft.lk`
 * [Exporting in new era: ESG reporting as strategic enabler for global market entry](data/articles/exporting-in-new-era-esg.49628bf0/README.md) `ft.lk`
 * [Reducing prison congestion and costs using technology](data/articles/reducing-prison-congesti.a36b74a8/README.md) `ft.lk`
 * [CFEP: ‘Think-tank’ of the young, by the young but for all of us](data/articles/cfep-think-tank-of-the-y.762b640e/README.md) `ft.lk`
@@ -37,6 +41,7 @@ Last Updated **2025-08-25 06:25:59**
 
 ## 2025-08-21
 
+* [In a first, Google has released data on how much energy an AI prompt uses](data/articles/in-a-first-google-has-re.a1d67540/README.md) `technologyreview.com`
 * [Why recycling isn’t enough to address the plastic problem](data/articles/why-recycling-isn-t-enou.a6b3db17/README.md) `technologyreview.com`
 * [Sahasdhanavi and LNG: Search for real costs in the midst of obfuscation](data/articles/sahasdhanavi-and-lng-sea.a1e42da9/README.md) `ft.lk`
 * [Volker Türk report, toxic West, UK-Canada resolution, Israel’s North-East connection](data/articles/volker-türk-report-toxic.bfd42f83/README.md) `ft.lk`
