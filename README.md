@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-24 18:21:44**
+Last Updated **2025-08-25 06:25:59**
+
+## 2025-08-25
+
+* [Development surge in Peninsula India: Lessons for Sri Lanka](data/articles/development-surge-in-pen.552e4625/README.md) `ft.lk`
+* [Exporting in new era: ESG reporting as strategic enabler for global market entry](data/articles/exporting-in-new-era-esg.49628bf0/README.md) `ft.lk`
+* [Reducing prison congestion and costs using technology](data/articles/reducing-prison-congesti.a36b74a8/README.md) `ft.lk`
+* [CFEP: ‘Think-tank’ of the young, by the young but for all of us](data/articles/cfep-think-tank-of-the-y.762b640e/README.md) `ft.lk`
+* [Cost of wrong strategies in internal conflicts](data/articles/cost-of-wrong-strategies.48ea4498/README.md) `ft.lk`
+
+## 2025-08-24
+
+* [ITAK  Launches Half-day Hartal  in North-East Over Alleged Killing of Tamil Youth by Army and Excessive Military Presence Amidst Civilian Habitats.](data/articles/itak-launches-half-day-h.09facabb/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-23
 
