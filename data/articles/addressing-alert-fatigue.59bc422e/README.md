@@ -1,0 +1,64 @@
+# Addressing Alert Fatigue in Cybersecurity Through Generative AI
+
+[https://hbr.org/sponsored/2025/06/addressing-alert-fatigue-in-cybersecurity-through-generative-ai](https://hbr.org/sponsored/2025/06/addressing-alert-fatigue-in-cybersecurity-through-generative-ai)
+
+*12:40 PM, Monday, June 30, 2025*
+
+By Martin Holste and Mark Weiss
+
+Security operations centers (SOCs) have faced an impossible dilemma over the last 20 years. Either the alerts they pay for overwhelm them, so the SOCs can’t tell the signal from the noise—or, worse, the SOCs turn off the flood of alerts and hope they aren’t missing anything urgent.
+
+Most enterprises that haven’t suppressed the majority of their alerts face over a thousand per day: a flood known as “alert fatigue.” And since the early days of moving beyond simple anti-virus solutions, there had been limited meaningful progress in addressing it—until generative AI.
+
+A generative AI–driven approach provides a completely new method to address this alert fatigue dilemma. Instead of the traditional flow of security tools passing alerts directly to humans with the assumption that all alerts are valuable, the new approach uses generative AI to craft automated, human-like pre-investigations that take place as a down selection, so humans can focus on the alerts that matter.
+
+This tool is a background workhorse, sifting through mountains of potentially critical alerts that may be marked “low” or “informational” and piecing together the story these events tell to uncover what is truly critical. Advanced attackers are defined by their ability to evade the loudest “critical” alarms, so the key to detecting them is analyzing the low-level innocuous events to see if they fit a pattern or threat model.
+
+But how can we trust that AI is making the right decisions? The answer is continuous testing and validation.
+
+How Trellix Approaches AI Model Orchestration
+
+Trellix is a cybersecurity company formed from two giants, McAfee Enterprise and FireEye, whose merged product portfolios created the perfect building blocks to develop its generative AI solutions. The combined visibility across endpoint, network, and email security provided the diverse data foundation Trellix needed to train AI systems that can go beyond summarizing alerts and investigate them, which competitors with narrower data scopes often struggled to achieve.
+
+Trellix’s open platform extends visibility even further by integrating third-party partners like AWS to allow generative AI systems to agentically gather data—reaching beyond internal systems to compile supporting evidence, drive investigations, and scale security operations beyond human limitations.
+
+The company has found a scalable solution to alert fatigue by employing three primary AI models that work in tandem: Anthropic’s Claude 3.7 Sonnet, for complex analysis and reasoning tasks; Amazon Nova Micro, for quick analysis and formatting; and Amazon Nova Lite, for automation and lightweight coding.
+
+Claude 3.7 Sonnet excels across instruction-following, general reasoning, multimodal capabilities, and agentic coding, with extended thinking that provides a notable boost in math and science. But while Claude models work well for many workflows, some of the Trellix evaluation workflows require processing of large volumes of data and queries in a timely and cost-effective manner.
+
+This is where Amazon Nova Micro and Amazon Nova Lite excel. Amazon Nova Micro, a text-only model, delivers low latency at very low cost; Amazon Nova Lite is a low-cost multimodal model that processes image, video, text, and code at lightning speed.
+
+Building on the best models allows the team to deliver the best outcomes at each stage and the optimal customer experience. Recent evaluation of Trellix’s performance data demonstrates Claude 3.7 Sonnet achieves the highest levels of detail in the analysis, while Amazon Nova Micro delivered the lowest cost for Trellix’s required level of detail.
+
+The first performance chart (above) measures the “correctness,” or accuracy, of several AI models, charting each model in two dimensions: “correct decision” metrics, based on each model’s agreement with the baseline of Claude 3.5 Sonnet, with 0 representing the least correct decision-making and 1.0 representing the most correct; and “detail,” expressed as a percentage up to 100%. By these metrics, Anthropic Claude Sonnet versions demonstrate superior performance in both dimensions.
+
+The second chart (below) breaks down performance categories by percentages ranging from “mistaken” to “better than human.” This chart shows versions of Claude 3.7 Sonnet achieve the highest proportion of senior analyst-level performance with minimal mistakes, validating strategic model choices in knowing for which tasks to use Claude 3.7 Sonnet, and which to use Amazon Nova models. (For further detail, visit the authors’ recent AWS blog post.)
+
+The approach maximizes the value Trellix gets from smaller models, like Amazon Nova Micro, through three techniques. Best-of-n Attempts uses AI’s non-deterministic nature by running multiple iterations to select optimal responses. Model Distillation transfers knowledge from larger to smaller models, enabling deployment flexibility. Model Tiering allows smaller models to escalate complex issues to larger ones, optimizing resource usage while maintaining analytical power.
+
+The system delivers impressive practical results, including 30-second initial alert analysis and five-minute plugin creation and integration. Rather than training AI models with customer data, the effective solution feeds models real-time, relevant data while maintaining strict data separation between customers. This ensures full situational awareness without cross-contamination of customer information.
+
+The alert investigation process follows two phases. First, the system uses Amazon Nova Micro to quickly generate investigative questions based on the alert context. Second, it uses Claude 3.7 Sonnet to comprehend and analyze the gathered information, using its superior performance in security analysis, as demonstrated in the human-equivalency chart. Amazon Nova Micro is almost 100 times more cost effective, and up to three times faster, than Claude 3.7 Sonnet, so finding the best model for the job has significant benefits.
+
+The data management strategy prioritizes real-time data feeding over model training, ensuring each analysis is based on current information while maintaining individual customer privacy. This allows the system to combine tactical real-time security data with the model’s inherent human-like general knowledge to understand new threats.
+
+By automating complex analysis tasks and providing rapid, accurate threat assessments, this solution allows security teams to focus their expertise on strategic decision-making and threat response.
+
+This shift from reactive to proactive security management represents a long-awaited evolution in cybersecurity, changing the role of humans in the analysis process by relieving them of low-level, repetitive, and reactive tasks.
+
+The results have been impressive, reducing the average customer’s alert count from over one thousand to fewer than 10, and reducing the mean time to detection (the mean time it takes to know when an attacker is in the environment) by up to 50%.
+
+Through strategic model selection and innovative implementation techniques, this multimodel AI system matches and often exceeds human analyst capabilities in specific security tasks. The empirical data from both performance charts validates this approach, showing how newer AI models achieve and sometimes exceed human-expert-level analysis capabilities. It demonstrates how each model is optimized for specific tasks and together create an intelligent system that goes beyond simple automation to handle complex security analyses.
+
+But none of this would matter if the system can’t be trusted. It’s the constant, systematic quantifying and validating of the AI decisions that transforms the system from an interesting experiment to a new way of managing security.
+
+For an in-depth look at evaluating the latest large language models (LLMs) for a security use case, see the joint blog post from Trellix and AWS and the presentation at the AWS AI and Data Conference 2025, which deep-dives into the important nuances in how LLMs make decisions.
+
+Martin Holste is CTO for Cloud and AI at Trellix, responsible for helping shape AI offerings, developing the corporate AI security strategy, providing subject matter expertise on AI, and passionately working with customers to improve their security outcomes.
+
+Mark Weiss is Global Infrastructure Category Lead at AWS. He is responsible for creating and implementing strategies for market-leading cybersecurity and DevOps companies working with AWS.
+
+Take the Trellix No Alert Left Behind Challenge.
+
+Get started with Anthropic’s Claude, Amazon Nova, and hundreds of other leading models on the Amazon Bedrock console, and experience Amazon Nova models at nova.amazon.com.
+

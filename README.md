@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-25 18:22:46**
+Last Updated **2025-08-26 06:25:54**
+
+## 2025-08-26
+
+* [Milk is a basic need, though a luxury at present but meticulous supply chain can curb price](data/articles/milk-is-a-basic-need-tho.20b7fb9f/README.md) `ft.lk`
+* [How private is a “private” visit?](data/articles/how-private-is-a-private.cf0a59be/README.md) `ft.lk`
+* [Sri Lanka’s political crossroads: The arrest of Ranil Wickremesinghe and its implications](data/articles/sri-lanka-s-political-cr.5665040e/README.md) `ft.lk`
 
 ## 2025-08-25
 
+* [From warning to wake-up call: Elephants  now drive 40% of Sri Lanka’s tourism economy](data/articles/from-warning-to-wake-up.21480965/README.md) `ft.lk`
+* [Why economic inequality matters for development](data/articles/why-economic-inequality.85e45db8/README.md) `ft.lk`
 * [When a President travels whether to Anuradhapura  to see his mother , or to London  to accompany his spouse , does the law expect the head of state to discard the security trappings of that office?](data/articles/when-a-president-travels.5483cf18/README.md) `dbsjeyaraj.com`
 * [Coalition of Opposition Party Leaders  Mobilise Under Slogan  “Let’s Defeat the Constitutional Dictatorship ” and Denounce Arrest of Ex- president Ranil Wickremesinghe; Accuse JVP-led NPP Govt  of weaponising the legal system against political rivals](data/articles/coalition-of-opposition.8906f0e2/README.md) `dbsjeyaraj.com`
 * [Bimal Ratnayake says Charges on which Ranil Wickremesinghe was arrested May  seem Trivial and that the Former President should have been brought to justice decades ago for “far more serious allegations.”](data/articles/bimal-ratnayake-says-cha.0172d055/README.md) `dbsjeyaraj.com`
@@ -34,6 +42,7 @@ Last Updated **2025-08-25 18:22:46**
 * [Integrating cross-cutting considerations into national adaptation planning](data/articles/integrating-cross-cuttin.d8c57cdd/README.md) `ft.lk`
 * [Rules-based order at risk: Return of power politics](data/articles/rules-based-order-at-ris.6af6156b/README.md) `ft.lk`
 * [The day negligence exploded: How greed  and ignorance fuelled Sri Lanka’s LPG disaster](data/articles/the-day-negligence-explo.8a3e4aa3/README.md) `ft.lk`
+* [Meet the researcher hosting a scientific conference by and for AI](data/articles/meet-the-researcher-host.febcb0cf/README.md) `technologyreview.com`
 * [ITAK launches half-day hartal with twin objectives in North-East](data/articles/itak-launches-half-day-h.5cd5ed7a/README.md) `ft.lk`
 * [Harsha’s strategy for financing long-term credit for SMEs: Is it viable?](data/articles/harsha-s-strategy-for-fi.1826e114/README.md) `ft.lk`
 * [George Steuart turning 190: A phenomenal landmark](data/articles/george-steuart-turning-1.f70b9066/README.md) `ft.lk`
@@ -470,6 +479,7 @@ Last Updated **2025-08-25 18:22:46**
 * [How Physical Operations Organizations Are Using AI to Protect Workers and Increase Efficiency](data/articles/how-physical-operations.3f229e75/README.md) `hbr.org`
 * [Shanakiyan Rasamanickam MP   Wants  international community to pressure Govt to give more protection to Chemmani mass grave site; Reveals suspected move about attempts to remove some skeletons from site.](data/articles/shanakiyan-rasamanickam.2266c2f5/README.md) `dbsjeyaraj.com`
 * [Customs Inquiry Report Reveals that 999 red-classified containers were  released on 13 occasions without proper screening or follow-up since July 2024 says Opposition MP Mujibur Rahman in Parliament.](data/articles/customs-inquiry-report-r.8e9dc7e0/README.md) `dbsjeyaraj.com`
+* [Addressing Alert Fatigue in Cybersecurity Through Generative AI](data/articles/addressing-alert-fatigue.59bc422e/README.md) `hbr.org`
 * [Meet Jim O’Neill, the longevity enthusiast who is now RFK Jr.’s right-hand man](data/articles/meet-jim-o-neill-the-lon.29f07184/README.md) `technologyreview.com`
 * [Adverse global shocks and Sri Lanka’s road to recovery](data/articles/adverse-global-shocks-an.5e74b0be/README.md) `ft.lk`
 * [Social cohesion: Relevance for Sri Lanka](data/articles/social-cohesion-relevanc.fcf6519b/README.md) `ft.lk`
