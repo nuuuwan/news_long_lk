@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-26 06:25:54**
+Last Updated **2025-08-26 18:23:01**
 
 ## 2025-08-26
 
+* [Successful M&A Integration Requires a Corporate Real Estate Strategy](data/articles/successful-m-a-integrati.0732c9c9/README.md) `hbr.org`
+* [The  Controversial Arrest,Indictment,  Remand  and Release on Bail of Former President Ranil Wickremesinghe.](data/articles/the-controversial-arrest.7486ab07/README.md) `dbsjeyaraj.com`
+* [Open the pod bay doors, Claude](data/articles/open-the-pod-bay-doors-c.975457d4/README.md) `technologyreview.com`
 * [Milk is a basic need, though a luxury at present but meticulous supply chain can curb price](data/articles/milk-is-a-basic-need-tho.20b7fb9f/README.md) `ft.lk`
 * [How private is a “private” visit?](data/articles/how-private-is-a-private.cf0a59be/README.md) `ft.lk`
 * [Sri Lanka’s political crossroads: The arrest of Ranil Wickremesinghe and its implications](data/articles/sri-lanka-s-political-cr.5665040e/README.md) `ft.lk`
@@ -46,6 +49,7 @@ Last Updated **2025-08-26 06:25:54**
 * [ITAK launches half-day hartal with twin objectives in North-East](data/articles/itak-launches-half-day-h.5cd5ed7a/README.md) `ft.lk`
 * [Harsha’s strategy for financing long-term credit for SMEs: Is it viable?](data/articles/harsha-s-strategy-for-fi.1826e114/README.md) `ft.lk`
 * [George Steuart turning 190: A phenomenal landmark](data/articles/george-steuart-turning-1.f70b9066/README.md) `ft.lk`
+* [I gave the police access to my DNA—and maybe some of yours](data/articles/i-gave-the-police-access.bd10621c/README.md) `technologyreview.com`
 * [Social protection: Not an option but a necessity in Asia and the Pacific](data/articles/social-protection-not-an.3685db4d/README.md) `ft.lk`
 
 ## 2025-08-21
