@@ -2,11 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-26 18:23:01**
+Last Updated **2025-08-27 06:25:27**
+
+## 2025-08-27
+
+* [Sri Lanka will become a $ 100 billion plus economy in 2025](data/articles/sri-lanka-will-become-a.ba4a32d7/README.md) `ft.lk`
+* [Misuse and abuse of public funds beyond presidency](data/articles/misuse-and-abuse-of-publ.7a1bbcf6/README.md) `ft.lk`
 
 ## 2025-08-26
 
 * [Successful M&A Integration Requires a Corporate Real Estate Strategy](data/articles/successful-m-a-integrati.0732c9c9/README.md) `hbr.org`
+* [Sri Lanka’s former President Ranil Wickremesinghe ,arrested on charges of misuse of state funds,  granted bail:  has been in hospital since he was remanded on August 22](data/articles/sri-lanka-s-former-presi.2cd98c7b/README.md) `dbsjeyaraj.com`
 * [The  Controversial Arrest,Indictment,  Remand  and Release on Bail of Former President Ranil Wickremesinghe.](data/articles/the-controversial-arrest.7486ab07/README.md) `dbsjeyaraj.com`
 * [Open the pod bay doors, Claude](data/articles/open-the-pod-bay-doors-c.975457d4/README.md) `technologyreview.com`
 * [Milk is a basic need, though a luxury at present but meticulous supply chain can curb price](data/articles/milk-is-a-basic-need-tho.20b7fb9f/README.md) `ft.lk`
