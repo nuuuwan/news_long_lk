@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-27 06:25:27**
+Last Updated **2025-08-27 18:22:57**
 
 ## 2025-08-27
 
+* [Government must share plan for national reconciliation with the people](data/articles/government-must-share-pl.2cbce64c/README.md) `ft.lk`
+* [Job titles of the future: Satellite streak astronomer](data/articles/job-titles-of-the-future.fc7b5175/README.md) `technologyreview.com`
 * [Sri Lanka will become a $ 100 billion plus economy in 2025](data/articles/sri-lanka-will-become-a.ba4a32d7/README.md) `ft.lk`
 * [Misuse and abuse of public funds beyond presidency](data/articles/misuse-and-abuse-of-publ.7a1bbcf6/README.md) `ft.lk`
 
@@ -14,6 +16,7 @@ Last Updated **2025-08-27 06:25:27**
 * [Successful M&A Integration Requires a Corporate Real Estate Strategy](data/articles/successful-m-a-integrati.0732c9c9/README.md) `hbr.org`
 * [Sri Lanka’s former President Ranil Wickremesinghe ,arrested on charges of misuse of state funds,  granted bail:  has been in hospital since he was remanded on August 22](data/articles/sri-lanka-s-former-presi.2cd98c7b/README.md) `dbsjeyaraj.com`
 * [The  Controversial Arrest,Indictment,  Remand  and Release on Bail of Former President Ranil Wickremesinghe.](data/articles/the-controversial-arrest.7486ab07/README.md) `dbsjeyaraj.com`
+* [How these two brothers became go-to experts on America’s “mystery drone” invasion](data/articles/how-these-two-brothers-b.0a744afc/README.md) `technologyreview.com`
 * [Open the pod bay doors, Claude](data/articles/open-the-pod-bay-doors-c.975457d4/README.md) `technologyreview.com`
 * [Milk is a basic need, though a luxury at present but meticulous supply chain can curb price](data/articles/milk-is-a-basic-need-tho.20b7fb9f/README.md) `ft.lk`
 * [How private is a “private” visit?](data/articles/how-private-is-a-private.cf0a59be/README.md) `ft.lk`
