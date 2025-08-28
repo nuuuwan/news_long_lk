@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-28 06:25:58**
+Last Updated **2025-08-28 18:24:18**
 
 ## 2025-08-28
 
+* [3 problems with Google’s AI energy use data](data/articles/3-problems-with-google-s.c7a412d3/README.md) `technologyreview.com`
 * [Companies (Amendment) Act No. 12 of 2025: What it means  for businesses](data/articles/companies-amendment-act.c036192f/README.md) `ft.lk`
 * [Strategic planning: Missing link for SME success in Sri Lanka](data/articles/strategic-planning-missi.3d81cea5/README.md) `ft.lk`
 * [Perverse pleasures of genocide](data/articles/perverse-pleasures-of-ge.3dfefe56/README.md) `ft.lk`
@@ -16,6 +17,7 @@ Last Updated **2025-08-28 06:25:58**
 
 * [Government must share plan for national reconciliation with the people](data/articles/government-must-share-pl.2cbce64c/README.md) `ft.lk`
 * [The AI Hype Index: AI-designed antibiotics show promise](data/articles/the-ai-hype-index-ai-des.a2ab874c/README.md) `technologyreview.com`
+* [India is still working on sewer robots](data/articles/india-is-still-working-o.d4c30649/README.md) `technologyreview.com`
 * [3 Things James O’Donnell is into right now](data/articles/3-things-james-o-donnell.92e47673/README.md) `technologyreview.com`
 * [Job titles of the future: Satellite streak astronomer](data/articles/job-titles-of-the-future.fc7b5175/README.md) `technologyreview.com`
 * [Sri Lanka will become a $ 100 billion plus economy in 2025](data/articles/sri-lanka-will-become-a.ba4a32d7/README.md) `ft.lk`
