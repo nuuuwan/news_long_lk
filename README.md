@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-28 18:24:18**
+Last Updated **2025-08-29 06:26:02**
+
+## 2025-08-29
+
+* [Ranil and the rigours  of a new republicanism](data/articles/ranil-and-the-rigours-of.738ba00a/README.md) `ft.lk`
+* [Due process and power: Lessons from arrest of Ranil Wickremesinghe](data/articles/due-process-and-power-le.a6be3eca/README.md) `ft.lk`
+* [The Great Divide](data/articles/the-great-divide.f4eed637/README.md) `ft.lk`
+* [Are tobacco taxes still a reliable source of revenue?](data/articles/are-tobacco-taxes-still.f798cf7a/README.md) `ft.lk`
+* [Presidential immunity on trial:  Boundaries of accountability from Washington to Colombo](data/articles/presidential-immunity-on.886a095b/README.md) `ft.lk`
 
 ## 2025-08-28
 
+* [Google’s still not giving us the full picture on AI energy use](data/articles/google-s-still-not-givin.c7a412d3/README.md) `technologyreview.com`
 * [3 problems with Google’s AI energy use data](data/articles/3-problems-with-google-s.c7a412d3/README.md) `technologyreview.com`
 * [Companies (Amendment) Act No. 12 of 2025: What it means  for businesses](data/articles/companies-amendment-act.c036192f/README.md) `ft.lk`
 * [Strategic planning: Missing link for SME success in Sri Lanka](data/articles/strategic-planning-missi.3d81cea5/README.md) `ft.lk`
