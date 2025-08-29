@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-29 06:26:02**
+Last Updated **2025-08-29 18:22:54**
 
 ## 2025-08-29
 
+* [RFK Jr’s plan to improve America’s diet is missing the point](data/articles/rfk-jr-s-plan-to-improve.77691c3b/README.md) `technologyreview.com`
 * [Ranil and the rigours  of a new republicanism](data/articles/ranil-and-the-rigours-of.738ba00a/README.md) `ft.lk`
 * [Due process and power: Lessons from arrest of Ranil Wickremesinghe](data/articles/due-process-and-power-le.a6be3eca/README.md) `ft.lk`
 * [The Great Divide](data/articles/the-great-divide.f4eed637/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-08-29 06:26:02**
 
 ## 2025-08-28
 
+* [இரண்டு நோக்கங்களுக்காக  வடக்கு, கிழக்கில்  அரைநாள் ஹர்த்தால் நடத்திய தமிழரசு கட்சி :  முதலாவது முல்லைத்தீவு மாவட்டத்தில் இராணுவத்தினரின் தாக்குதலில் குடிமகன் ஒருவர் கொல்லப்பட்டது; இரண்டாவது வடக்கு, கிழக்கில் குடிமக்கள் மத்தியில் பெருமளவு இராணுவத்தினர் இருப்பதனால் ஏற்படுகின்ற பிரச்சினைகளை கவனத்துக்கு கொண்டுவருவது.](data/articles/இரண-ட-ந-க-கங-கள-க-க-க-வட.0439c2fa/README.md) `dbsjeyaraj.com`
 * [Google’s still not giving us the full picture on AI energy use](data/articles/google-s-still-not-givin.c7a412d3/README.md) `technologyreview.com`
 * [3 problems with Google’s AI energy use data](data/articles/3-problems-with-google-s.c7a412d3/README.md) `technologyreview.com`
 * [Companies (Amendment) Act No. 12 of 2025: What it means  for businesses](data/articles/companies-amendment-act.c036192f/README.md) `ft.lk`
@@ -21,6 +23,7 @@ Last Updated **2025-08-29 06:26:02**
 * [Perverse pleasures of genocide](data/articles/perverse-pleasures-of-ge.3dfefe56/README.md) `ft.lk`
 * [Arrest of former President Ranil: Test case for Sri Lanka’s democracy](data/articles/arrest-of-former-preside.91a137aa/README.md) `ft.lk`
 * [Government must work with mandatory fingerprint attendance system](data/articles/government-must-work-wit.0cc8d395/README.md) `ft.lk`
+* [Ranil’s arrest, political ethics and seeing “this administration’s true face”](data/articles/ranil-s-arrest-political.34a65b20/README.md) `ft.lk`
 
 ## 2025-08-27
 
@@ -29,6 +32,7 @@ Last Updated **2025-08-29 06:26:02**
 * [India is still working on sewer robots](data/articles/india-is-still-working-o.d4c30649/README.md) `technologyreview.com`
 * [3 Things James O’Donnell is into right now](data/articles/3-things-james-o-donnell.92e47673/README.md) `technologyreview.com`
 * [Job titles of the future: Satellite streak astronomer](data/articles/job-titles-of-the-future.fc7b5175/README.md) `technologyreview.com`
+* [AI comes for the job market, security, and prosperity: The Debrief](data/articles/ai-comes-for-the-job-mar.3f5e69a2/README.md) `technologyreview.com`
 * [Sri Lanka will become a $ 100 billion plus economy in 2025](data/articles/sri-lanka-will-become-a.ba4a32d7/README.md) `ft.lk`
 * [Misuse and abuse of public funds beyond presidency](data/articles/misuse-and-abuse-of-publ.7a1bbcf6/README.md) `ft.lk`
 
