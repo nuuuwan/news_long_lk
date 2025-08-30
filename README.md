@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-29 18:22:54**
+Last Updated **2025-08-30 06:25:22**
 
 ## 2025-08-29
 
+* [Mullahs and Muslim politics](data/articles/mullahs-and-muslim-polit.e36ea09c/README.md) `ft.lk`
+* [Necessary civic revolution: Bureaucratic inertia, system change and national awakening (Punorudaya)](data/articles/necessary-civic-revoluti.27d4235e/README.md) `ft.lk`
+* [North star for climate change adaptation: Making progress on the Global Goal on Adaptation](data/articles/north-star-for-climate-c.798c8341/README.md) `ft.lk`
+* [Indictment of President Emeritus](data/articles/indictment-of-president.e5cb0c04/README.md) `ft.lk`
+* [Has the JVP led NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?](data/articles/has-the-jvp-led-npp-laun.d6196074/README.md) `dbsjeyaraj.com`
 * [RFK Jr’s plan to improve America’s diet is missing the point](data/articles/rfk-jr-s-plan-to-improve.77691c3b/README.md) `technologyreview.com`
 * [Ranil and the rigours  of a new republicanism](data/articles/ranil-and-the-rigours-of.738ba00a/README.md) `ft.lk`
 * [Due process and power: Lessons from arrest of Ranil Wickremesinghe](data/articles/due-process-and-power-le.a6be3eca/README.md) `ft.lk`
