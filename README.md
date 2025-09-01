@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-01 06:26:30**
+Last Updated **2025-09-01 18:22:46**
 
 ## 2025-09-01
 
+* [Here’s how we picked this year’s Innovators Under 35](data/articles/here-s-how-we-picked-thi.6e036c50/README.md) `technologyreview.com`
 * [Sri Lanka’s Colombo Consumer Price Index based inflation back in positive territory](data/articles/sri-lanka-s-colombo-cons.cc9d569c/README.md) `ft.lk`
 * [The clock is ticking for Europe’s chemical industry](data/articles/the-clock-is-ticking-for.ad486047/README.md) `ft.lk`
 * [Educational reforms meaningless unless learning culture is inculcated](data/articles/educational-reforms-mean.777a6951/README.md) `ft.lk`
 * [Rule of law in taxation: Rights before revenue – Part 3](data/articles/rule-of-law-in-taxation.fa393068/README.md) `ft.lk`
+* [Remembering  Legendary Trade Union Leader amd Trotskyite Firebrand   Comrade  Bala Tampoe .](data/articles/remembering-legendary-tr.d804b779/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-29
 
