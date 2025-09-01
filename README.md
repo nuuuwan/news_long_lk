@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-08-31 18:21:10**
+Last Updated **2025-09-01 06:26:30**
+
+## 2025-09-01
+
+* [Sri Lanka’s Colombo Consumer Price Index based inflation back in positive territory](data/articles/sri-lanka-s-colombo-cons.cc9d569c/README.md) `ft.lk`
+* [The clock is ticking for Europe’s chemical industry](data/articles/the-clock-is-ticking-for.ad486047/README.md) `ft.lk`
+* [Educational reforms meaningless unless learning culture is inculcated](data/articles/educational-reforms-mean.777a6951/README.md) `ft.lk`
+* [Rule of law in taxation: Rights before revenue – Part 3](data/articles/rule-of-law-in-taxation.fa393068/README.md) `ft.lk`
 
 ## 2025-08-29
 
