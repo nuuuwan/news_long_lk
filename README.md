@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-01 18:22:46**
+Last Updated **2025-09-02 06:26:04**
+
+## 2025-09-02
+
+* [Brief history of Central Bank of Sri Lanka](data/articles/brief-history-of-central.57149a87/README.md) `ft.lk`
+* [Sri Lanka’s automobile market: Subliminal economic bubble?](data/articles/sri-lanka-s-automobile-m.e7d4d953/README.md) `ft.lk`
+* [How we are being misled by fiscal illusion in Sri Lanka](data/articles/how-we-are-being-misled.5b7f9ec5/README.md) `ft.lk`
+* [Accountability is not petty: Response to Dr. Dayan Jayatilleka](data/articles/accountability-is-not-pe.19320ec6/README.md) `ft.lk`
+* [Capitalism, socialism, and promise of social entrepreneurship](data/articles/capitalism-socialism-and.ca90e8bc/README.md) `ft.lk`
 
 ## 2025-09-01
 
@@ -12,6 +20,8 @@ Last Updated **2025-09-01 18:22:46**
 * [Educational reforms meaningless unless learning culture is inculcated](data/articles/educational-reforms-mean.777a6951/README.md) `ft.lk`
 * [Rule of law in taxation: Rights before revenue – Part 3](data/articles/rule-of-law-in-taxation.fa393068/README.md) `ft.lk`
 * [Remembering  Legendary Trade Union Leader amd Trotskyite Firebrand   Comrade  Bala Tampoe .](data/articles/remembering-legendary-tr.d804b779/README.md) `dbsjeyaraj.com`
+* [“CHEMMANI” ;  Journalist Trio  Comprising Two Sinhala and  One Muslim  Publishes  Book in Sinhala   Revealing the  History of the Discovery of Mass Graves in Chemmani,Jaffna](data/articles/chemmani-journalist-tri.4bf0fae2/README.md) `dbsjeyaraj.com`
+* [Why is the NPP Govt in a hurry to Replace the PTA Within a Short Period? Will the Counter Terrorism Act Draft and Anti -Terror Bill be the Blueprints for the NPP Govt’s new Counter Terror  or Anti-Terror Legislation?](data/articles/why-is-the-npp-govt-in-a.ab5d1993/README.md) `dbsjeyaraj.com`
 
 ## 2025-08-29
 
