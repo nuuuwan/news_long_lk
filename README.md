@@ -2,18 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-02 06:26:04**
+Last Updated **2025-09-02 18:22:50**
 
 ## 2025-09-02
 
+* [Can an AI doppelgänger help me do my job?](data/articles/can-an-ai-doppelgänger-h.9291e575/README.md) `technologyreview.com`
 * [Brief history of Central Bank of Sri Lanka](data/articles/brief-history-of-central.57149a87/README.md) `ft.lk`
 * [Sri Lanka’s automobile market: Subliminal economic bubble?](data/articles/sri-lanka-s-automobile-m.e7d4d953/README.md) `ft.lk`
+* [Sri Lanka’s automobile market: Subliminal economic bubble?](data/articles/sri-lanka-s-automobile-m.a5877bb7/README.md) `ft.lk`
 * [How we are being misled by fiscal illusion in Sri Lanka](data/articles/how-we-are-being-misled.5b7f9ec5/README.md) `ft.lk`
 * [Accountability is not petty: Response to Dr. Dayan Jayatilleka](data/articles/accountability-is-not-pe.19320ec6/README.md) `ft.lk`
 * [Capitalism, socialism, and promise of social entrepreneurship](data/articles/capitalism-socialism-and.ca90e8bc/README.md) `ft.lk`
 
 ## 2025-09-01
 
+* [Sri Lanka born Ruwan Jayakody: Culinary Excellence and Entrepreneurial Vision from Toronto to the World](data/articles/sri-lanka-born-ruwan-jay.5bf8ddcf/README.md) `dbsjeyaraj.com`
+* [Sri Lankan  President Anura Kumara Dissanayake makes  a quick, unannounced visit to Katchatheevu, after vowing to safeguard “seas and islands” around the country and resist any “external pressure”.](data/articles/sri-lankan-president-anu.a21dad96/README.md) `dbsjeyaraj.com`
 * [Here’s how we picked this year’s Innovators Under 35](data/articles/here-s-how-we-picked-thi.6e036c50/README.md) `technologyreview.com`
 * [Sri Lanka’s Colombo Consumer Price Index based inflation back in positive territory](data/articles/sri-lanka-s-colombo-cons.cc9d569c/README.md) `ft.lk`
 * [The clock is ticking for Europe’s chemical industry](data/articles/the-clock-is-ticking-for.ad486047/README.md) `ft.lk`
