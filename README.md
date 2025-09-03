@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-02 18:22:50**
+Last Updated **2025-09-03 06:25:44**
+
+## 2025-09-03
+
+* [Israel and the undermining of pluralist Sri Lanka](data/articles/israel-and-the-undermini.d39ab4d8/README.md) `ft.lk`
+* [Family, inheritance and identity: Can UNP and SJB reconcile?](data/articles/family-inheritance-and-i.6ff9419b/README.md) `ft.lk`
+* [Entitlement mentality of national leaders must give way to empathy, sensitivity and morality](data/articles/entitlement-mentality-of.6618c8bc/README.md) `ft.lk`
+* [How to react to remanding of politicians](data/articles/how-to-react-to-remandin.8f0c1578/README.md) `ft.lk`
+* [Sri Lanka moved to end elite impunity with arrest of former president](data/articles/sri-lanka-moved-to-end-e.f596ecb8/README.md) `ft.lk`
 
 ## 2025-09-02
 
+* [Is Your Enterprise Data Strategy Ready for the Age of Intelligence?](data/articles/is-your-enterprise-data.0b404ed6/README.md) `hbr.org`
 * [Can an AI doppelgänger help me do my job?](data/articles/can-an-ai-doppelgänger-h.9291e575/README.md) `technologyreview.com`
 * [Brief history of Central Bank of Sri Lanka](data/articles/brief-history-of-central.57149a87/README.md) `ft.lk`
 * [Sri Lanka’s automobile market: Subliminal economic bubble?](data/articles/sri-lanka-s-automobile-m.e7d4d953/README.md) `ft.lk`
