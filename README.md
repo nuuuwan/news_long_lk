@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-03 06:25:44**
+Last Updated **2025-09-04 06:25:31**
+
+## 2025-09-04
+
+* [Companies (Amendment) Act No. 12 of 2025: Legal reforms and comparative insights](data/articles/companies-amendment-act.597891e6/README.md) `ft.lk`
+* [Sri Lanka’s SVAT abolition: Exporters call for urgent e-invoicing solution ahead of 1 Oct.](data/articles/sri-lanka-s-svat-aboliti.59d724b6/README.md) `ft.lk`
+* [Trilateralism: Ranil-Sajith-Namal should reinforce the Centre, not ‘unite the Right’](data/articles/trilateralism-ranil-saji.4a4c7e87/README.md) `ft.lk`
+* [Clarifying the nature of official trips and ethical considerations: Response to Dr. Jayalath Adikarige](data/articles/clarifying-the-nature-of.b8594efd/README.md) `ft.lk`
+* [Parent’s perspective on British primary education](data/articles/parent-s-perspective-on.ecfc3840/README.md) `ft.lk`
 
 ## 2025-09-03
 
@@ -14,6 +22,7 @@ Last Updated **2025-09-03 06:25:44**
 
 ## 2025-09-02
 
+* [Buddhist Extremist Monks and Organizations  Cultivating Links with Israel want to Turn Sri Lanka into a Buddhist State like how Israel is a 100% Jewish State while Israel wants Sri Lanka to Provide Cheap Manual Labour and a Welcoming Recipient of Israeli Tourists](data/articles/buddhist-extremist-monks.30ec2edc/README.md) `dbsjeyaraj.com`
 * [Is Your Enterprise Data Strategy Ready for the Age of Intelligence?](data/articles/is-your-enterprise-data.0b404ed6/README.md) `hbr.org`
 * [Can an AI doppelgänger help me do my job?](data/articles/can-an-ai-doppelgänger-h.9291e575/README.md) `technologyreview.com`
 * [Brief history of Central Bank of Sri Lanka](data/articles/brief-history-of-central.57149a87/README.md) `ft.lk`
