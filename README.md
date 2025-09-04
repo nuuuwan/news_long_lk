@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-04 06:25:31**
+Last Updated **2025-09-04 18:22:18**
 
 ## 2025-09-04
 
+* [How Trump is helping China extend its massive lead in clean energy](data/articles/how-trump-is-helping-chi.b35ec907/README.md) `technologyreview.com`
 * [Companies (Amendment) Act No. 12 of 2025: Legal reforms and comparative insights](data/articles/companies-amendment-act.597891e6/README.md) `ft.lk`
 * [Sri Lanka’s SVAT abolition: Exporters call for urgent e-invoicing solution ahead of 1 Oct.](data/articles/sri-lanka-s-svat-aboliti.59d724b6/README.md) `ft.lk`
 * [Trilateralism: Ranil-Sajith-Namal should reinforce the Centre, not ‘unite the Right’](data/articles/trilateralism-ranil-saji.4a4c7e87/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-09-04 06:25:31**
 
 ## 2025-09-03
 
+* [முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் சர்ச்சைக்குரிய கைது, குற்றச்சாட்டு, விளக்கமறியல், பிணையில் விடுதலை](data/articles/ம-ன-ன-ள-ஜன-த-பத-ரண-ல-வ-க.ea337779/README.md) `dbsjeyaraj.com`
 * [Israel and the undermining of pluralist Sri Lanka](data/articles/israel-and-the-undermini.d39ab4d8/README.md) `ft.lk`
 * [Family, inheritance and identity: Can UNP and SJB reconcile?](data/articles/family-inheritance-and-i.6ff9419b/README.md) `ft.lk`
 * [Entitlement mentality of national leaders must give way to empathy, sensitivity and morality](data/articles/entitlement-mentality-of.6618c8bc/README.md) `ft.lk`
@@ -52,6 +54,7 @@ Last Updated **2025-09-04 06:25:31**
 * [North star for climate change adaptation: Making progress on the Global Goal on Adaptation](data/articles/north-star-for-climate-c.798c8341/README.md) `ft.lk`
 * [Indictment of President Emeritus](data/articles/indictment-of-president.e5cb0c04/README.md) `ft.lk`
 * [Has the JVP led NPP Launched a Political Witch Hunt Targeting  Former  President Ranil Wickremesinghe ?](data/articles/has-the-jvp-led-npp-laun.d6196074/README.md) `dbsjeyaraj.com`
+* [This American nuclear company could help India’s thorium dream](data/articles/this-american-nuclear-co.aa21ef7a/README.md) `technologyreview.com`
 * [RFK Jr’s plan to improve America’s diet is missing the point](data/articles/rfk-jr-s-plan-to-improve.77691c3b/README.md) `technologyreview.com`
 * [Ranil and the rigours  of a new republicanism](data/articles/ranil-and-the-rigours-of.738ba00a/README.md) `ft.lk`
 * [Due process and power: Lessons from arrest of Ranil Wickremesinghe](data/articles/due-process-and-power-le.a6be3eca/README.md) `ft.lk`
