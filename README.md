@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-05 06:25:32**
+Last Updated **2025-09-05 18:22:37**
 
 ## 2025-09-05
 
@@ -14,6 +14,7 @@ Last Updated **2025-09-05 06:25:32**
 
 ## 2025-09-04
 
+* [Synthesia’s AI clones are more expressive than ever. Soon they’ll be able to talk back.](data/articles/synthesia-s-ai-clones-ar.67f4f14e/README.md) `technologyreview.com`
 * [How Trump is helping China extend its massive lead in clean energy](data/articles/how-trump-is-helping-chi.b35ec907/README.md) `technologyreview.com`
 * [Companies (Amendment) Act No. 12 of 2025: Legal reforms and comparative insights](data/articles/companies-amendment-act.597891e6/README.md) `ft.lk`
 * [Sri Lanka’s SVAT abolition: Exporters call for urgent e-invoicing solution ahead of 1 Oct.](data/articles/sri-lanka-s-svat-aboliti.59d724b6/README.md) `ft.lk`
