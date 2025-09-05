@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-04 18:22:18**
+Last Updated **2025-09-05 06:25:32**
+
+## 2025-09-05
+
+* [Human-elephant conflict, the worst animal cruelty](data/articles/human-elephant-conflict.cb187768/README.md) `ft.lk`
+* [Why Prince William’s support could be a turning point for Sri Lanka’s elephants](data/articles/why-prince-william-s-sup.ed31b8bb/README.md) `ft.lk`
+* [Timely visit of President to Katchatheevu](data/articles/timely-visit-of-presiden.27437422/README.md) `ft.lk`
+* [Is JVP-led NPP Govt. weaponising the law to target Wickremesinghe?](data/articles/is-jvp-led-npp-govt-weap.02ec13dc/README.md) `ft.lk`
+* [Profile of a deeply divisive defence  mechanism in our democracy today](data/articles/profile-of-a-deeply-divi.c78fc0e5/README.md) `ft.lk`
 
 ## 2025-09-04
 
