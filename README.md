@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-05 18:22:37**
+Last Updated **2025-09-06 06:25:23**
 
 ## 2025-09-05
 
@@ -11,6 +11,7 @@ Last Updated **2025-09-05 18:22:37**
 * [Timely visit of President to Katchatheevu](data/articles/timely-visit-of-presiden.27437422/README.md) `ft.lk`
 * [Is JVP-led NPP Govt. weaponising the law to target Wickremesinghe?](data/articles/is-jvp-led-npp-govt-weap.02ec13dc/README.md) `ft.lk`
 * [Profile of a deeply divisive defence  mechanism in our democracy today](data/articles/profile-of-a-deeply-divi.c78fc0e5/README.md) `ft.lk`
+* [‘அபிநய சரஸ்வதி’ என்று மெச்சப்பட்ட கன்னடத்துப் பைங்கிளியாக கொஞ்சும் மொழியில்  இனிமையாக பேசிய  சரோஜாதேவி தென்னிந்திய நடிகைகளில் திரையில் கவர்ந்திழுக்கும் “கஜ காமினி” யின் நடையைக் காண்பித்தவர்](data/articles/அப-நய-சரஸ-வத-என-ற-ம-ச-ச.22f4e604/README.md) `dbsjeyaraj.com`
 
 ## 2025-09-04
 
