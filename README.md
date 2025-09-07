@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-07 06:25:33**
+Last Updated **2025-09-07 18:20:25**
+
+## 2025-09-06
+
+* [Is the  JVP-led NPP Govt Weaponising the Law to Target Former President Ranil Wickremesinghe?Over his UK trip ?](data/articles/is-the-jvp-led-npp-govt.0e75df2c/README.md) `dbsjeyaraj.com`
 
 ## 2025-09-05
 
