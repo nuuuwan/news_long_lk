@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-08 06:27:09**
+Last Updated **2025-09-08 18:22:59**
 
 ## 2025-09-08
 
+* [Why basic science deserves our boldest investment](data/articles/why-basic-science-deserv.f629071f/README.md) `technologyreview.com`
+* [Meet the Ethiopian entrepreneur who is reinventing ammonia production](data/articles/meet-the-ethiopian-entre.c24ad74a/README.md) `technologyreview.com`
 * [No rule of law unless rule of men defeated](data/articles/no-rule-of-law-unless-ru.c9838453/README.md) `ft.lk`
 * [Is India a ‘tariff king’? Not really](data/articles/is-india-a-tariff-king-n.a2c9dad4/README.md) `ft.lk`
 * [Cases on modern marketing: Exploring the essentials](data/articles/cases-on-modern-marketin.941185a1/README.md) `ft.lk`
