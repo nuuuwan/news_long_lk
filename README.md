@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-07 18:20:25**
+Last Updated **2025-09-08 06:27:09**
+
+## 2025-09-08
+
+* [No rule of law unless rule of men defeated](data/articles/no-rule-of-law-unless-ru.c9838453/README.md) `ft.lk`
+* [Is India a ‘tariff king’? Not really](data/articles/is-india-a-tariff-king-n.a2c9dad4/README.md) `ft.lk`
+* [Cases on modern marketing: Exploring the essentials](data/articles/cases-on-modern-marketin.941185a1/README.md) `ft.lk`
+* [Taxes for life: Shaping our collective future through education](data/articles/taxes-for-life-shaping-o.63ff0ebe/README.md) `ft.lk`
+* [Digital influencers and new age of marketing  in Sri Lanka: Paradigm shift in brand engagement](data/articles/digital-influencers-and.e99b3964/README.md) `ft.lk`
 
 ## 2025-09-06
 
