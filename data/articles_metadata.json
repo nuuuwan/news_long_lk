@@ -1,5 +1,12 @@
 [
   {
+    "title": "Help! My therapist is secretly using ChatGPT",
+    "url": "https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/",
+    "ut": 1757374200.0,
+    "dir_path_unix": "data/articles/help-my-therapist-is-sec.5de00ddf",
+    "time_str_formatted": "05:00 AM, Tuesday, September 09, 2025"
+  },
+  {
     "title": "Roadmap for Sri Lanka\u2019s regenerative future",
     "url": "https://www.ft.lk/columns/Roadmap-for-Sri-Lanka-s-regenerative-future/4-781396",
     "ut": 1757360212.0,
@@ -40,6 +47,13 @@
     "ut": 1757294100.0,
     "dir_path_unix": "data/articles/why-basic-science-deserv.f629071f",
     "time_str_formatted": "06:45 AM, Monday, September 08, 2025"
+  },
+  {
+    "title": "2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology",
+    "url": "https://www.technologyreview.com/2025/09/08/1121509/innovator-of-the-year-sneha-goenka/",
+    "ut": 1757293200.0,
+    "dir_path_unix": "data/articles/2025-innovator-of-the-ye.226116ed",
+    "time_str_formatted": "06:30 AM, Monday, September 08, 2025"
   },
   {
     "title": "Meet the Ethiopian entrepreneur who is reinventing ammonia production",

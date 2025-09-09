@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-09 06:27:14**
+Last Updated **2025-09-09 18:23:03**
 
 ## 2025-09-09
 
+* [Help! My therapist is secretly using ChatGPT](data/articles/help-my-therapist-is-sec.5de00ddf/README.md) `technologyreview.com`
 * [Roadmap for Sri Lanka’s regenerative future](data/articles/roadmap-for-sri-lanka-s.69108261/README.md) `ft.lk`
 * [Copyright and creativity: Why Sri Lanka must embrace global standards](data/articles/copyright-and-creativity.4d1c23b9/README.md) `ft.lk`
 
@@ -15,6 +16,7 @@ Last Updated **2025-09-09 06:27:14**
 * [Ranil and Aragalaya effect](data/articles/ranil-and-aragalaya-effe.16bec3c1/README.md) `ft.lk`
 * [Ex-President’s arrest in Sri Lanka: Some should not be more equal than others](data/articles/ex-president-s-arrest-in.02f7457f/README.md) `ft.lk`
 * [Why basic science deserves our boldest investment](data/articles/why-basic-science-deserv.f629071f/README.md) `technologyreview.com`
+* [2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology](data/articles/2025-innovator-of-the-ye.226116ed/README.md) `technologyreview.com`
 * [Meet the Ethiopian entrepreneur who is reinventing ammonia production](data/articles/meet-the-ethiopian-entre.c24ad74a/README.md) `technologyreview.com`
 * [No rule of law unless rule of men defeated](data/articles/no-rule-of-law-unless-ru.c9838453/README.md) `ft.lk`
 * [Is India a ‘tariff king’? Not really](data/articles/is-india-a-tariff-king-n.a2c9dad4/README.md) `ft.lk`
