@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-09 18:23:03**
+Last Updated **2025-09-10 06:26:04**
+
+## 2025-09-10
+
+* [Separating Chairman and CEO roles in PLCs](data/articles/separating-chairman-and.e6846709/README.md) `ft.lk`
+* [Apparel sector losing edge as global rivals outpace productivity and innovation](data/articles/apparel-sector-losing-ed.3721d2b2/README.md) `ft.lk`
+* [Challenges faced by Sri Lanka’s apparel and textile industry in US market](data/articles/challenges-faced-by-sri.dcf5b7f4/README.md) `ft.lk`
 
 ## 2025-09-09
 
