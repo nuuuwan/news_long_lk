@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-10 18:22:49**
+Last Updated **2025-09-11 06:26:06**
+
+## 2025-09-11
+
+* [My dear Vijay](data/articles/my-dear-vijay.dc3b130e/README.md) `ft.lk`
+* [Time and space to eclipse  the sad face of Sri Lanka](data/articles/time-and-space-to-eclips.f022d4d6/README.md) `ft.lk`
+* [Eurasia rising, Anura’s SCO absence, strategic-security blindness, and NPP-Israel axis](data/articles/eurasia-rising-anura-s-s.2c338e12/README.md) `ft.lk`
+* [Mass graves in Sri Lanka](data/articles/mass-graves-in-sri-lanka.b4c6130c/README.md) `ft.lk`
+* [Banking on trust: Shaping responsible  AI agenda for Sri Lanka](data/articles/banking-on-trust-shaping.95898639/README.md) `ft.lk`
 
 ## 2025-09-10
 
@@ -13,6 +21,7 @@ Last Updated **2025-09-10 18:22:49**
 ## 2025-09-09
 
 * [Help! My therapist is secretly using ChatGPT](data/articles/help-my-therapist-is-sec.5de00ddf/README.md) `technologyreview.com`
+* [AI is changing the grid. Could it help more than it harms?](data/articles/ai-is-changing-the-grid.355dbf38/README.md) `technologyreview.com`
 * [Roadmap for Sri Lanka’s regenerative future](data/articles/roadmap-for-sri-lanka-s.69108261/README.md) `ft.lk`
 * [Copyright and creativity: Why Sri Lanka must embrace global standards](data/articles/copyright-and-creativity.4d1c23b9/README.md) `ft.lk`
 

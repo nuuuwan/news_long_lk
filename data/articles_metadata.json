@@ -1,5 +1,40 @@
 [
   {
+    "title": "My dear Vijay",
+    "url": "https://www.ft.lk/opinion/My-dear-Vijay/14-781505",
+    "ut": 1757550799.0,
+    "dir_path_unix": "data/articles/my-dear-vijay.dc3b130e",
+    "time_str_formatted": "06:03 AM, Thursday, September 11, 2025"
+  },
+  {
+    "title": "Time and space to eclipse  the sad face of Sri Lanka",
+    "url": "https://www.ft.lk/columns/Time-and-space-to-eclipse-the-sad-face-of-Sri-Lanka/4-781504",
+    "ut": 1757550620.0,
+    "dir_path_unix": "data/articles/time-and-space-to-eclips.f022d4d6",
+    "time_str_formatted": "06:00 AM, Thursday, September 11, 2025"
+  },
+  {
+    "title": "Eurasia rising, Anura\u2019s SCO absence, strategic-security blindness, and NPP-Israel axis",
+    "url": "https://www.ft.lk/columns/Eurasia-rising-Anura-s-SCO-absence-strategic-security-blindness-and-NPP-Israel-axis/4-781503",
+    "ut": 1757550302.0,
+    "dir_path_unix": "data/articles/eurasia-rising-anura-s-s.2c338e12",
+    "time_str_formatted": "05:55 AM, Thursday, September 11, 2025"
+  },
+  {
+    "title": "Mass graves in Sri Lanka",
+    "url": "https://www.ft.lk/columns/Mass-graves-in-Sri-Lanka/4-781502",
+    "ut": 1757549808.0,
+    "dir_path_unix": "data/articles/mass-graves-in-sri-lanka.b4c6130c",
+    "time_str_formatted": "05:46 AM, Thursday, September 11, 2025"
+  },
+  {
+    "title": "Banking on trust: Shaping responsible  AI agenda for Sri Lanka",
+    "url": "https://www.ft.lk/opinion/Banking-on-trust-Shaping-responsible-AI-agenda-for-Sri-Lanka/14-781499",
+    "ut": 1757549435.0,
+    "dir_path_unix": "data/articles/banking-on-trust-shaping.95898639",
+    "time_str_formatted": "05:40 AM, Thursday, September 11, 2025"
+  },
+  {
     "title": "Separating Chairman and CEO roles in PLCs",
     "url": "https://www.ft.lk/columns/Separating-Chairman-and-CEO-roles-in-PLCs/4-781439",
     "ut": 1757456623.0,
@@ -25,6 +60,13 @@
     "url": "https://www.technologyreview.com/2025/09/09/1123386/help-my-therapist-is-secretly-using-chatgpt/",
     "ut": 1757374200.0,
     "dir_path_unix": "data/articles/help-my-therapist-is-sec.5de00ddf",
+    "time_str_formatted": "05:00 AM, Tuesday, September 09, 2025"
+  },
+  {
+    "title": "AI is changing the grid. Could it help more than it harms?",
+    "url": "https://www.technologyreview.com/2025/09/09/1123404/ai-grid-help/",
+    "ut": 1757374200.0,
+    "dir_path_unix": "data/articles/ai-is-changing-the-grid.355dbf38",
     "time_str_formatted": "05:00 AM, Tuesday, September 09, 2025"
   },
   {
