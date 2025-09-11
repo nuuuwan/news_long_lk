@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-11 06:26:06**
+Last Updated **2025-09-11 18:22:46**
 
 ## 2025-09-11
 
@@ -31,6 +31,7 @@ Last Updated **2025-09-11 06:26:06**
 * [Ranil and Aragalaya effect](data/articles/ranil-and-aragalaya-effe.16bec3c1/README.md) `ft.lk`
 * [Ex-President’s arrest in Sri Lanka: Some should not be more equal than others](data/articles/ex-president-s-arrest-in.02f7457f/README.md) `ft.lk`
 * [Why basic science deserves our boldest investment](data/articles/why-basic-science-deserv.f629071f/README.md) `technologyreview.com`
+* [How Trump’s policies are affecting early-career scientists—in their own words](data/articles/how-trump-s-policies-are.bcae54de/README.md) `technologyreview.com`
 * [2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology](data/articles/2025-innovator-of-the-ye.226116ed/README.md) `technologyreview.com`
 * [Meet the Ethiopian entrepreneur who is reinventing ammonia production](data/articles/meet-the-ethiopian-entre.c24ad74a/README.md) `technologyreview.com`
 * [No rule of law unless rule of men defeated](data/articles/no-rule-of-law-unless-ru.c9838453/README.md) `ft.lk`
