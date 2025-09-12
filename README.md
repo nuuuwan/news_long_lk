@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-11 18:22:46**
+Last Updated **2025-09-12 06:26:24**
+
+## 2025-09-12
+
+* [Main problem is Indian illegal fishing, not possession of Katchatheevu](data/articles/main-problem-is-indian-i.2831916f/README.md) `ft.lk`
+* [WIPO’s GII for my breakfast: This year’s serving is on 16 Sept.](data/articles/wipo-s-gii-for-my-breakf.d1ab4ae3/README.md) `ft.lk`
+* [Responsibility of universities in getting graduates job-ready](data/articles/responsibility-of-univer.dfec7e2a/README.md) `ft.lk`
+* [Over tourism or over visitation?](data/articles/over-tourism-or-over-vis.a385a35a/README.md) `ft.lk`
+* [Strategic audits: Health check every strategy needs](data/articles/strategic-audits-health.ffa3e2b3/README.md) `ft.lk`
 
 ## 2025-09-11
 
@@ -11,6 +19,7 @@ Last Updated **2025-09-11 18:22:46**
 * [Eurasia rising, Anura’s SCO absence, strategic-security blindness, and NPP-Israel axis](data/articles/eurasia-rising-anura-s-s.2c338e12/README.md) `ft.lk`
 * [Mass graves in Sri Lanka](data/articles/mass-graves-in-sri-lanka.b4c6130c/README.md) `ft.lk`
 * [Banking on trust: Shaping responsible  AI agenda for Sri Lanka](data/articles/banking-on-trust-shaping.95898639/README.md) `ft.lk`
+* [Texas banned lab-grown meat. What’s next for the industry?](data/articles/texas-banned-lab-grown-m.d4818ba3/README.md) `technologyreview.com`
 
 ## 2025-09-10
 
