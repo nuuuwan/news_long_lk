@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-12 06:26:24**
+Last Updated **2025-09-12 18:22:00**
 
 ## 2025-09-12
 
@@ -11,6 +11,7 @@ Last Updated **2025-09-12 06:26:24**
 * [Responsibility of universities in getting graduates job-ready](data/articles/responsibility-of-univer.dfec7e2a/README.md) `ft.lk`
 * [Over tourism or over visitation?](data/articles/over-tourism-or-over-vis.a385a35a/README.md) `ft.lk`
 * [Strategic audits: Health check every strategy needs](data/articles/strategic-audits-health.ffa3e2b3/README.md) `ft.lk`
+* [How do AI models generate videos?](data/articles/how-do-ai-models-generat.8961a205/README.md) `technologyreview.com`
 
 ## 2025-09-11
 
@@ -29,6 +30,7 @@ Last Updated **2025-09-12 06:26:24**
 
 ## 2025-09-09
 
+* [Three big things we still don’t know about AI’s energy burden](data/articles/three-big-things-we-stil.41b06d68/README.md) `technologyreview.com`
 * [Help! My therapist is secretly using ChatGPT](data/articles/help-my-therapist-is-sec.5de00ddf/README.md) `technologyreview.com`
 * [AI is changing the grid. Could it help more than it harms?](data/articles/ai-is-changing-the-grid.355dbf38/README.md) `technologyreview.com`
 * [Roadmap for Sri Lanka’s regenerative future](data/articles/roadmap-for-sri-lanka-s.69108261/README.md) `ft.lk`

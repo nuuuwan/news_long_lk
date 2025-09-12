@@ -35,6 +35,13 @@
     "time_str_formatted": "06:06 AM, Friday, September 12, 2025"
   },
   {
+    "title": "How do AI models generate videos?",
+    "url": "https://www.technologyreview.com/2025/09/12/1123562/how-do-ai-models-generate-videos/",
+    "ut": 1757637104.0,
+    "dir_path_unix": "data/articles/how-do-ai-models-generat.8961a205",
+    "time_str_formatted": "06:01 AM, Friday, September 12, 2025"
+  },
+  {
     "title": "My dear Vijay",
     "url": "https://www.ft.lk/opinion/My-dear-Vijay/14-781505",
     "ut": 1757550799.0,
@@ -96,6 +103,13 @@
     "ut": 1757455671.0,
     "dir_path_unix": "data/articles/challenges-faced-by-sri.dcf5b7f4",
     "time_str_formatted": "03:37 AM, Wednesday, September 10, 2025"
+  },
+  {
+    "title": "Three big things we still don\u2019t know about AI\u2019s energy burden",
+    "url": "https://www.technologyreview.com/2025/09/09/1123408/three-big-things-we-still-dont-know-about-ais-energy-burden/",
+    "ut": 1757374200.0,
+    "dir_path_unix": "data/articles/three-big-things-we-stil.41b06d68",
+    "time_str_formatted": "05:00 AM, Tuesday, September 09, 2025"
   },
   {
     "title": "Help! My therapist is secretly using ChatGPT",
