@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-12 18:22:00**
+Last Updated **2025-09-13 06:25:24**
 
 ## 2025-09-12
 
@@ -15,6 +15,7 @@ Last Updated **2025-09-12 18:22:00**
 
 ## 2025-09-11
 
+* [We can’t “make American children healthy again” without tackling the gun crisis](data/articles/we-can-t-make-american-c.57148457/README.md) `technologyreview.com`
 * [My dear Vijay](data/articles/my-dear-vijay.dc3b130e/README.md) `ft.lk`
 * [Time and space to eclipse  the sad face of Sri Lanka](data/articles/time-and-space-to-eclips.f022d4d6/README.md) `ft.lk`
 * [Eurasia rising, Anura’s SCO absence, strategic-security blindness, and NPP-Israel axis](data/articles/eurasia-rising-anura-s-s.2c338e12/README.md) `ft.lk`
