@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-13 06:25:24**
+Last Updated **2025-09-13 18:19:59**
 
 ## 2025-09-12
 
+* [Public property, ours or theirs?](data/articles/public-property-ours-or.6ad5f48d/README.md) `ft.lk`
+* [Strike on Doha, strike against the order: Time for meaningful response](data/articles/strike-on-doha-strike-ag.5fba6abb/README.md) `ft.lk`
+* [Gaza genocide: Global North’s premeditated crime](data/articles/gaza-genocide-global-nor.7660350c/README.md) `ft.lk`
+* [Triple threat of malnutrition puts children in South Asia at risk, UNICEF warns](data/articles/triple-threat-of-malnutr.9d148740/README.md) `ft.lk`
+* [When politics meets drug trade: Sri Lanka Customs under fire](data/articles/when-politics-meets-drug.82982345/README.md) `ft.lk`
 * [Main problem is Indian illegal fishing, not possession of Katchatheevu](data/articles/main-problem-is-indian-i.2831916f/README.md) `ft.lk`
 * [WIPO’s GII for my breakfast: This year’s serving is on 16 Sept.](data/articles/wipo-s-gii-for-my-breakf.d1ab4ae3/README.md) `ft.lk`
 * [Responsibility of universities in getting graduates job-ready](data/articles/responsibility-of-univer.dfec7e2a/README.md) `ft.lk`
