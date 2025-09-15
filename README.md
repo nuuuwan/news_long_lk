@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-15 06:25:47**
+Last Updated **2025-09-15 18:22:57**
+
+## 2025-09-15
+
+* [The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.](data/articles/the-katchatheevu-ownersh.0d9e36d8/README.md) `dbsjeyaraj.com`
+* [Repeal of Presidents’ Entitlements Act: Reform or retrospective punishment?](data/articles/repeal-of-presidents-ent.6679b382/README.md) `ft.lk`
+* [Independent central bank is for citizens and not for politicians](data/articles/independent-central-bank.45123792/README.md) `ft.lk`
+* [Case of “unknowns” hijacking isolated protests with “anti-corruption” rhetoric](data/articles/case-of-unknowns-hijacki.45499358/README.md) `ft.lk`
 
 ## 2025-09-12
 
