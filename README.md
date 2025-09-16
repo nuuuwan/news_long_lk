@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-16 06:25:34**
+Last Updated **2025-09-16 18:22:57**
+
+## 2025-09-16
+
+* [The looming crackdown on AI companionship](data/articles/the-looming-crackdown-on.63f05d25/README.md) `technologyreview.com`
+* [North, East and West: Navigating  Sri Lanka’s compass in new world order](data/articles/north-east-and-west-navi.2e328a65/README.md) `ft.lk`
+* [Budget 2026 imperative: Making housing affordable through tax reform](data/articles/budget-2026-imperative-m.837d9609/README.md) `ft.lk`
+* [M.H.M. Ashraff PC: Power of  education to transform communities](data/articles/m-h-m-ashraff-pc-power-o.e8f158b8/README.md) `ft.lk`
+* [National Shoora Council urges UN to suspend Israel from UN](data/articles/national-shoora-council.26699bd8/README.md) `ft.lk`
+* [AI fundamentals: Demystifying technology that’s reshaping our world](data/articles/ai-fundamentals-demystif.384bbe05/README.md) `ft.lk`
 
 ## 2025-09-15
 
+* [பத்திரிகையாளர் வீரகத்தி தனபாலசிங்கம் எழுதிய ‘ தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம் ‘ நூல் வெளியீட்டு நிகழ்வு](data/articles/பத-த-ர-க-ய-ளர-வ-ரகத-த-தன.9b990e2d/README.md) `dbsjeyaraj.com`
 * [The Katchatheevu Ownership Controversy is Diverting Attention away from the Real Problem of Indian Illegal Fishers Bottom Trawling in Sri Lanka’s  Northern Territorial Waters.](data/articles/the-katchatheevu-ownersh.0d9e36d8/README.md) `dbsjeyaraj.com`
 * [Repeal of Presidents’ Entitlements Act: Reform or retrospective punishment?](data/articles/repeal-of-presidents-ent.6679b382/README.md) `ft.lk`
 * [Independent central bank is for citizens and not for politicians](data/articles/independent-central-bank.45123792/README.md) `ft.lk`
