@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-16 18:22:57**
+Last Updated **2025-09-17 06:25:29**
+
+## 2025-09-17
+
+* [Consultation conundrum: How ‘people friendly’ is the Government?](data/articles/consultation-conundrum-h.b292c0fa/README.md) `ft.lk`
+* [Stolen innocence, shattered lives: Sri Lanka’s digital heartbreak](data/articles/stolen-innocence-shatter.44a1d0a3/README.md) `ft.lk`
+* [Kithul’s revival: Blending tradition, wellness and export potential](data/articles/kithul-s-revival-blendin.bf02fd83/README.md) `ft.lk`
+* [Designed for control: Digital infrastructure and public](data/articles/designed-for-control-dig.0366bd1f/README.md) `ft.lk`
+* [Rewiring for growth: How Government and fintechs can power Sri Lanka’s digital revival](data/articles/rewiring-for-growth-how.49596813/README.md) `ft.lk`
 
 ## 2025-09-16
 
+* [Legendary  Muslim Congress Leader MHM Ashraff and the Course of Muslim Politics.](data/articles/legendary-muslim-congres.60b7dd0d/README.md) `dbsjeyaraj.com`
 * [The looming crackdown on AI companionship](data/articles/the-looming-crackdown-on.63f05d25/README.md) `technologyreview.com`
 * [North, East and West: Navigating  Sri Lanka’s compass in new world order](data/articles/north-east-and-west-navi.2e328a65/README.md) `ft.lk`
 * [Budget 2026 imperative: Making housing affordable through tax reform](data/articles/budget-2026-imperative-m.837d9609/README.md) `ft.lk`
