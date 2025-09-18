@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-17 18:22:49**
+Last Updated **2025-09-18 06:25:39**
+
+## 2025-09-18
+
+* [There are humans in Gaza](data/articles/there-are-humans-in-gaza.177e9097/README.md) `ft.lk`
+* [Geneva arena, Mahinda Rajapaksa returns to Ruhuna, Sri Lanka-Nepal outcomes](data/articles/geneva-arena-mahinda-raj.36b4d23a/README.md) `ft.lk`
 
 ## 2025-09-17
 
@@ -11,6 +16,7 @@ Last Updated **2025-09-17 18:22:49**
 * [Kithul’s revival: Blending tradition, wellness and export potential](data/articles/kithul-s-revival-blendin.bf02fd83/README.md) `ft.lk`
 * [Designed for control: Digital infrastructure and public](data/articles/designed-for-control-dig.0366bd1f/README.md) `ft.lk`
 * [Rewiring for growth: How Government and fintechs can power Sri Lanka’s digital revival](data/articles/rewiring-for-growth-how.49596813/README.md) `ft.lk`
+* [How to measure the returns on R&D spending](data/articles/how-to-measure-the-retur.10dcde92/README.md) `technologyreview.com`
 
 ## 2025-09-16
 
