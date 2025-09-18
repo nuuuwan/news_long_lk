@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-18 06:25:39**
+Last Updated **2025-09-18 18:22:40**
 
 ## 2025-09-18
 
+* [Clean hydrogen is facing a big reality check](data/articles/clean-hydrogen-is-facing.b34ebf41/README.md) `technologyreview.com`
+* [Crafting legacy through collaboration and synergy](data/articles/crafting-legacy-through.de4c2991/README.md) `ft.lk`
 * [There are humans in Gaza](data/articles/there-are-humans-in-gaza.177e9097/README.md) `ft.lk`
 * [Geneva arena, Mahinda Rajapaksa returns to Ruhuna, Sri Lanka-Nepal outcomes](data/articles/geneva-arena-mahinda-raj.36b4d23a/README.md) `ft.lk`
 
