@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-18 18:22:40**
+Last Updated **2025-09-19 06:25:58**
+
+## 2025-09-19
+
+* [Sampath Bank leads discourse on Sri Lanka’s recovery in a shifting global economy](data/articles/sampath-bank-leads-disco.5b48cd68/README.md) `ft.lk`
+* [Nobility of professions is  being traded for silver and gold](data/articles/nobility-of-professions.10f04f1a/README.md) `ft.lk`
 
 ## 2025-09-18
 
