@@ -2,15 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-19 06:25:58**
+Last Updated **2025-09-19 18:22:45**
 
 ## 2025-09-19
 
+* [The year that was: thrashing  towards NPP’s thriving nation](data/articles/the-year-that-was-thrash.f6b2f7c4/README.md) `ft.lk`
+* [Sri Lanka’s hollow democracy: Need to awaken and reclaim our nation](data/articles/sri-lanka-s-hollow-democ.ba4fd1a4/README.md) `ft.lk`
+* [Promoting reconciliation and accountability in Sri Lanka](data/articles/promoting-reconciliation.d725157a/README.md) `ft.lk`
+* [JVP-led NPP Govt. must take meaningful action to end illegal Indian fishing in northern waters](data/articles/jvp-led-npp-govt-must-ta.c1241a8f/README.md) `ft.lk`
+* [Crossing the Tax Rubicon](data/articles/crossing-the-tax-rubicon.572c2a89/README.md) `ft.lk`
 * [Sampath Bank leads discourse on Sri Lanka’s recovery in a shifting global economy](data/articles/sampath-bank-leads-disco.5b48cd68/README.md) `ft.lk`
 * [Nobility of professions is  being traded for silver and gold](data/articles/nobility-of-professions.10f04f1a/README.md) `ft.lk`
 
 ## 2025-09-18
 
+* [ரணில் விக்கிரமசிங்கவை இலக்குவைக்க தேசிய மக்கள் சக்தி அரசாங்கம் சட்டத்தை ஆயுதமாகப் பயன்படுத்துகிறதா?](data/articles/ரண-ல-வ-க-க-ரமச-ங-கவ-இலக.62728f5f/README.md) `dbsjeyaraj.com`
+* [கச்சதீவை உடைமையாக்குவது அல்ல, இந்திய மீனவர்கள் சட்டவிரோதமாக மீன்பிடிப்பதே பிரதான பிரச்சினை](data/articles/கச-சத-வ-உட-ம-ய-க-க-வத-அல.bbbf53d4/README.md) `dbsjeyaraj.com`
 * [Clean hydrogen is facing a big reality check](data/articles/clean-hydrogen-is-facing.b34ebf41/README.md) `technologyreview.com`
 * [Crafting legacy through collaboration and synergy](data/articles/crafting-legacy-through.de4c2991/README.md) `ft.lk`
 * [There are humans in Gaza](data/articles/there-are-humans-in-gaza.177e9097/README.md) `ft.lk`
