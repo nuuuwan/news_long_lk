@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-19 18:22:45**
+Last Updated **2025-09-20 06:25:26**
 
 ## 2025-09-19
 
+* [Wordy end of a vociferous parley in Qatar](data/articles/wordy-end-of-a-vociferou.ba733bf4/README.md) `ft.lk`
 * [The year that was: thrashing  towards NPP’s thriving nation](data/articles/the-year-that-was-thrash.f6b2f7c4/README.md) `ft.lk`
 * [Sri Lanka’s hollow democracy: Need to awaken and reclaim our nation](data/articles/sri-lanka-s-hollow-democ.ba4fd1a4/README.md) `ft.lk`
 * [Promoting reconciliation and accountability in Sri Lanka](data/articles/promoting-reconciliation.d725157a/README.md) `ft.lk`
