@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-20 06:25:26**
+Last Updated **2025-09-20 18:21:11**
 
 ## 2025-09-19
 
 * [Wordy end of a vociferous parley in Qatar](data/articles/wordy-end-of-a-vociferou.ba733bf4/README.md) `ft.lk`
+* [Tribute to Rajiv Perera on 60th birthday](data/articles/tribute-to-rajiv-perera.cebf53a9/README.md) `ft.lk`
+* [Similarities and differences of three recent uprisings in South Asia: Lesson for democracies](data/articles/similarities-and-differe.8220267f/README.md) `ft.lk`
+* [China’s entry into SAARC: Gateway to South Asian prosperity](data/articles/china-s-entry-into-saarc.592455c2/README.md) `ft.lk`
+* [Response to Mahinda Rajapaksa: It is  not personal revenge or political terrorism](data/articles/response-to-mahinda-raja.e9f79f5f/README.md) `ft.lk`
 * [The year that was: thrashing  towards NPP’s thriving nation](data/articles/the-year-that-was-thrash.f6b2f7c4/README.md) `ft.lk`
 * [Sri Lanka’s hollow democracy: Need to awaken and reclaim our nation](data/articles/sri-lanka-s-hollow-democ.ba4fd1a4/README.md) `ft.lk`
 * [Promoting reconciliation and accountability in Sri Lanka](data/articles/promoting-reconciliation.d725157a/README.md) `ft.lk`
