@@ -2,13 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-22 06:25:59**
+Last Updated **2025-09-22 18:23:16**
 
 ## 2025-09-22
 
+* [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](data/articles/an-oil-and-gas-giant-sig.7827613f/README.md) `technologyreview.com`
 * [Phoenix rising: How Colombo Stock Exchange symbolises nation’s remarkable resurrection](data/articles/phoenix-rising-how-colom.7e7630c5/README.md) `ft.lk`
 * [Of awards, rewards and swards](data/articles/of-awards-rewards-and-sw.461beea6/README.md) `ft.lk`
 * [Be warned of thieves and nuisance-makers in AI space](data/articles/be-warned-of-thieves-and.ff8a5891/README.md) `ft.lk`
+
+## 2025-09-21
+
+* [Tamil Nadu fishers  must stop their illegal fishing and Bottom Trawling   in Sri Lankan Northern Waters. Long suffering Tamil fishermen should be able  to  rebuild their lives and resurrect  their livelihood](data/articles/tamil-nadu-fishers-must.41081a76/README.md) `dbsjeyaraj.com`
 
 ## 2025-09-19
 
