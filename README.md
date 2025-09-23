@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-22 18:23:16**
+Last Updated **2025-09-23 06:25:43**
 
 ## 2025-09-22
 
+* [Digitalisation or dependency? Sri Lanka’s AI dilemma beyond AKD’s binary](data/articles/digitalisation-or-depend.753ea4a8/README.md) `ft.lk`
+* [Nepal’s uprising and lessons for South Asia](data/articles/nepal-s-uprising-and-les.8049052c/README.md) `ft.lk`
+* [What Doha delivered: Diplomacy beyond the podium](data/articles/what-doha-delivered-dipl.bddbacdb/README.md) `ft.lk`
 * [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](data/articles/an-oil-and-gas-giant-sig.7827613f/README.md) `technologyreview.com`
 * [Phoenix rising: How Colombo Stock Exchange symbolises nation’s remarkable resurrection](data/articles/phoenix-rising-how-colom.7e7630c5/README.md) `ft.lk`
 * [Of awards, rewards and swards](data/articles/of-awards-rewards-and-sw.461beea6/README.md) `ft.lk`
