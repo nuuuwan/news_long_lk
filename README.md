@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-23 06:25:43**
+Last Updated **2025-09-23 18:22:38**
 
 ## 2025-09-22
 
@@ -44,6 +44,7 @@ Last Updated **2025-09-23 06:25:43**
 
 ## 2025-09-17
 
+* [AI-designed viruses are here and already killing bacteria](data/articles/ai-designed-viruses-are.cb4b0f65/README.md) `technologyreview.com`
 * [Consultation conundrum: How ‘people friendly’ is the Government?](data/articles/consultation-conundrum-h.b292c0fa/README.md) `ft.lk`
 * [Stolen innocence, shattered lives: Sri Lanka’s digital heartbreak](data/articles/stolen-innocence-shatter.44a1d0a3/README.md) `ft.lk`
 * [Kithul’s revival: Blending tradition, wellness and export potential](data/articles/kithul-s-revival-blendin.bf02fd83/README.md) `ft.lk`
