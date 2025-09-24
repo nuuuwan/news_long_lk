@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-23 18:22:38**
+Last Updated **2025-09-24 06:25:48**
+
+## 2025-09-24
+
+* [Gaza, genocide and Sri Lanka’s dilemma of conscience](data/articles/gaza-genocide-and-sri-la.f7663091/README.md) `ft.lk`
+* [NPP Government’s shamelessness over Gaza](data/articles/npp-government-s-shamele.133bc5cc/README.md) `ft.lk`
+* [Who cries for Hambantota, and why?](data/articles/who-cries-for-hambantota.554a3920/README.md) `ft.lk`
+* [Sri Lanka’s next big green industry](data/articles/sri-lanka-s-next-big-gre.f0d919c0/README.md) `ft.lk`
+* [Empowering Sri Lanka’s youth: Building globally recognised career pathways beyond university](data/articles/empowering-sri-lanka-s-y.91b37c47/README.md) `ft.lk`
 
 ## 2025-09-22
 
