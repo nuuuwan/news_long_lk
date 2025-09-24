@@ -2,15 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-24 06:25:48**
+Last Updated **2025-09-24 18:22:57**
 
 ## 2025-09-24
 
+* [The AI Hype Index: Cracking the chatbot code](data/articles/the-ai-hype-index-cracki.cc688322/README.md) `technologyreview.com`
 * [Gaza, genocide and Sri Lanka’s dilemma of conscience](data/articles/gaza-genocide-and-sri-la.f7663091/README.md) `ft.lk`
 * [NPP Government’s shamelessness over Gaza](data/articles/npp-government-s-shamele.133bc5cc/README.md) `ft.lk`
+* [NPP Government’s shamelessness over Gaza](data/articles/npp-government-s-shamele.8da6909f/README.md) `ft.lk`
 * [Who cries for Hambantota, and why?](data/articles/who-cries-for-hambantota.554a3920/README.md) `ft.lk`
 * [Sri Lanka’s next big green industry](data/articles/sri-lanka-s-next-big-gre.f0d919c0/README.md) `ft.lk`
 * [Empowering Sri Lanka’s youth: Building globally recognised career pathways beyond university](data/articles/empowering-sri-lanka-s-y.91b37c47/README.md) `ft.lk`
+* [President Anura Kumara Dissanayake’s U-turn : Pre-poll Propaganda  and Post-Election Performance.](data/articles/president-anura-kumara-d.dfe1930f/README.md) `dbsjeyaraj.com`
 
 ## 2025-09-22
 
@@ -18,6 +21,7 @@ Last Updated **2025-09-24 06:25:48**
 * [Nepal’s uprising and lessons for South Asia](data/articles/nepal-s-uprising-and-les.8049052c/README.md) `ft.lk`
 * [What Doha delivered: Diplomacy beyond the podium](data/articles/what-doha-delivered-dipl.bddbacdb/README.md) `ft.lk`
 * [An oil and gas giant signed a $1 billion deal with Commonwealth Fusion Systems](data/articles/an-oil-and-gas-giant-sig.7827613f/README.md) `technologyreview.com`
+* [This medical startup uses LLMs to run appointments and make diagnoses](data/articles/this-medical-startup-use.14e6b2ac/README.md) `technologyreview.com`
 * [Phoenix rising: How Colombo Stock Exchange symbolises nation’s remarkable resurrection](data/articles/phoenix-rising-how-colom.7e7630c5/README.md) `ft.lk`
 * [Of awards, rewards and swards](data/articles/of-awards-rewards-and-sw.461beea6/README.md) `ft.lk`
 * [Be warned of thieves and nuisance-makers in AI space](data/articles/be-warned-of-thieves-and.ff8a5891/README.md) `ft.lk`
