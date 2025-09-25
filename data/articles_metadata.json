@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fusion power plants don\u2019t exist yet, but they\u2019re making money anyway",
+    "url": "https://www.technologyreview.com/2025/09/25/1124050/fusion-future-funding/",
+    "ut": 1758760200.0,
+    "dir_path_unix": "data/articles/fusion-power-plants-don.c4bccaed",
+    "time_str_formatted": "06:00 AM, Thursday, September 25, 2025"
+  },
+  {
     "title": "Zakath and poverty: Why the powerful tool falls short in Sri Lanka",
     "url": "https://www.ft.lk/columns/Zakath-and-poverty-Why-the-powerful-tool-falls-short-in-Sri-Lanka/4-782124",
     "ut": 1758746250.0,
@@ -68,6 +75,13 @@
     "ut": 1758656467.0,
     "dir_path_unix": "data/articles/president-anura-kumara-d.dfe1930f",
     "time_str_formatted": "01:11 AM, Wednesday, September 24, 2025"
+  },
+  {
+    "title": "AI models are using material from retracted scientific papers",
+    "url": "https://www.technologyreview.com/2025/09/23/1123897/ai-models-are-using-material-from-retracted-scientific-papers/",
+    "ut": 1758583800.0,
+    "dir_path_unix": "data/articles/ai-models-are-using-mate.675c4ada",
+    "time_str_formatted": "05:00 AM, Tuesday, September 23, 2025"
   },
   {
     "title": "Digitalisation or dependency? Sri Lanka\u2019s AI dilemma beyond AKD\u2019s binary",

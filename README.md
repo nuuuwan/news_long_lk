@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-25 06:26:00**
+Last Updated **2025-09-25 18:23:06**
 
 ## 2025-09-25
 
+* [Fusion power plants don’t exist yet, but they’re making money anyway](data/articles/fusion-power-plants-don.c4bccaed/README.md) `technologyreview.com`
 * [Zakath and poverty: Why the powerful tool falls short in Sri Lanka](data/articles/zakath-and-poverty-why-t.cc3e8487/README.md) `ft.lk`
 * [AKD’s Year I: Recognising the reality revealed](data/articles/akd-s-year-i-recognising.4c195537/README.md) `ft.lk`
 
@@ -19,6 +20,10 @@ Last Updated **2025-09-25 06:26:00**
 * [Sri Lanka’s next big green industry](data/articles/sri-lanka-s-next-big-gre.f0d919c0/README.md) `ft.lk`
 * [Empowering Sri Lanka’s youth: Building globally recognised career pathways beyond university](data/articles/empowering-sri-lanka-s-y.91b37c47/README.md) `ft.lk`
 * [President Anura Kumara Dissanayake’s U-turn : Pre-poll Propaganda  and Post-Election Performance.](data/articles/president-anura-kumara-d.dfe1930f/README.md) `dbsjeyaraj.com`
+
+## 2025-09-23
+
+* [AI models are using material from retracted scientific papers](data/articles/ai-models-are-using-mate.675c4ada/README.md) `technologyreview.com`
 
 ## 2025-09-22
 
