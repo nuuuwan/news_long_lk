@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-25 18:23:06**
+Last Updated **2025-09-26 06:25:53**
+
+## 2025-09-26
+
+* [Genocide, incitement to genocide and impunity](data/articles/genocide-incitement-to-g.eaefe01d/README.md) `ft.lk`
+* [From Panama to Pandora — but never to Hulftsdorp](data/articles/from-panama-to-pandora-b.0ed71269/README.md) `ft.lk`
 
 ## 2025-09-25
 
+* [Shoplifters could soon be chased down by drones](data/articles/shoplifters-could-soon-b.ca8a59b4/README.md) `technologyreview.com`
 * [Fusion power plants don’t exist yet, but they’re making money anyway](data/articles/fusion-power-plants-don.c4bccaed/README.md) `technologyreview.com`
 * [Zakath and poverty: Why the powerful tool falls short in Sri Lanka](data/articles/zakath-and-poverty-why-t.cc3e8487/README.md) `ft.lk`
 * [AKD’s Year I: Recognising the reality revealed](data/articles/akd-s-year-i-recognising.4c195537/README.md) `ft.lk`
@@ -13,6 +19,7 @@ Last Updated **2025-09-25 18:23:06**
 ## 2025-09-24
 
 * [The AI Hype Index: Cracking the chatbot code](data/articles/the-ai-hype-index-cracki.cc688322/README.md) `technologyreview.com`
+* [It’s surprisingly easy to stumble into a relationship with an AI chatbot](data/articles/it-s-surprisingly-easy-t.c5ab2f19/README.md) `technologyreview.com`
 * [Gaza, genocide and Sri Lanka’s dilemma of conscience](data/articles/gaza-genocide-and-sri-la.f7663091/README.md) `ft.lk`
 * [NPP Government’s shamelessness over Gaza](data/articles/npp-government-s-shamele.133bc5cc/README.md) `ft.lk`
 * [NPP Government’s shamelessness over Gaza](data/articles/npp-government-s-shamele.8da6909f/README.md) `ft.lk`
