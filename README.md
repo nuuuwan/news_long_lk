@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-26 18:23:05**
+Last Updated **2025-09-27 06:25:34**
+
+## 2025-09-27
+
+* [Politics of Tamil-Muslim relations](data/articles/politics-of-tamil-muslim.d5f86151/README.md) `ft.lk`
 
 ## 2025-09-26
 
+* [Selective republicanism of socialist regime rules](data/articles/selective-republicanism.916486c6/README.md) `ft.lk`
+* [Shutting down the internet shuts down your right to know](data/articles/shutting-down-the-intern.d3914b26/README.md) `ft.lk`
+* [Sri Lanka’s tourism at crossroads: Wake-up call on World Tourism Day](data/articles/sri-lanka-s-tourism-at-c.24f28d70/README.md) `ft.lk`
+* [City-centric approaches to climate-related human mobility](data/articles/city-centric-approaches.ce8d1635/README.md) `ft.lk`
+* [US investigators are using AI to detect child abuse images made by AI](data/articles/us-investigators-are-usi.2c693fa8/README.md) `technologyreview.com`
 * [Genocide, incitement to genocide and impunity](data/articles/genocide-incitement-to-g.eaefe01d/README.md) `ft.lk`
 * [From Panama to Pandora — but never to Hulftsdorp](data/articles/from-panama-to-pandora-b.0ed71269/README.md) `ft.lk`
 
