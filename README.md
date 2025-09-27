@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-27 06:25:34**
+Last Updated **2025-09-27 18:20:27**
 
 ## 2025-09-27
 
@@ -17,6 +17,7 @@ Last Updated **2025-09-27 06:25:34**
 * [US investigators are using AI to detect child abuse images made by AI](data/articles/us-investigators-are-usi.2c693fa8/README.md) `technologyreview.com`
 * [Genocide, incitement to genocide and impunity](data/articles/genocide-incitement-to-g.eaefe01d/README.md) `ft.lk`
 * [From Panama to Pandora — but never to Hulftsdorp](data/articles/from-panama-to-pandora-b.0ed71269/README.md) `ft.lk`
+* [Murder Most Foul: Assassination of  Prime Minister SWRD Bandaranaike](data/articles/murder-most-foul-assassi.93509d01/README.md) `dbsjeyaraj.com`
 
 ## 2025-09-25
 
