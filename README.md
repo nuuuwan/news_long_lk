@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-28 18:20:38**
+Last Updated **2025-09-29 06:25:37**
+
+## 2025-09-29
+
+* [85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya](data/articles/85th-birthday-commemorat.bc93fb8f/README.md) `ft.lk`
+* [Your right to know: Why journalism and access to information matter more than ever](data/articles/your-right-to-know-why-j.9a4663ec/README.md) `ft.lk`
+* [Cultivating circular futures: Youth as agents of change](data/articles/cultivating-circular-fut.7a2c1473/README.md) `ft.lk`
+* [First year of AKD Government: Is it RW in driving seat with a difference?](data/articles/first-year-of-akd-govern.5c975a4b/README.md) `ft.lk`
+* [COPE, oversight, and boundaries of power: Necessary caution](data/articles/cope-oversight-and-bound.affe74db/README.md) `ft.lk`
 
 ## 2025-09-27
 
