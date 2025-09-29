@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-29 06:25:37**
+Last Updated **2025-09-29 18:22:50**
 
 ## 2025-09-29
 
@@ -36,6 +36,7 @@ Last Updated **2025-09-29 06:25:37**
 
 ## 2025-09-24
 
+* [Trump is pushing leucovorin as a treatment for autism. What is it?](data/articles/trump-is-pushing-leucovo.0b95574d/README.md) `technologyreview.com`
 * [The AI Hype Index: Cracking the chatbot code](data/articles/the-ai-hype-index-cracki.cc688322/README.md) `technologyreview.com`
 * [It’s surprisingly easy to stumble into a relationship with an AI chatbot](data/articles/it-s-surprisingly-easy-t.c5ab2f19/README.md) `technologyreview.com`
 * [Gaza, genocide and Sri Lanka’s dilemma of conscience](data/articles/gaza-genocide-and-sri-la.f7663091/README.md) `ft.lk`
