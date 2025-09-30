@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-30 06:25:36**
+Last Updated **2025-09-30 18:22:46**
 
 ## 2025-09-30
 
+* [The US may be heading toward a drone-filled future](data/articles/the-us-may-be-heading-to.53f8c54c/README.md) `technologyreview.com`
 * [US tariffs: Implications and opportunities for Sri Lanka](data/articles/us-tariffs-implications.976374c5/README.md) `ft.lk`
+* [Sivaji Ganesan Made Many Tamils Appreciate Their  Vibrant   Language More](data/articles/sivaji-ganesan-made-many.9ab48bb8/README.md) `dbsjeyaraj.com`
 * [FCEJ stands in support of the birds, the land and the people of Mannar](data/articles/fcej-stands-in-support-o.987ae1c7/README.md) `ft.lk`
 * [Can Gaza be saved by the UN General Assembly through a 1950 Resolution?](data/articles/can-gaza-be-saved-by-the.6d19f1d8/README.md) `ft.lk`
 
