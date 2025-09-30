@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-29 18:22:50**
+Last Updated **2025-09-30 06:25:36**
+
+## 2025-09-30
+
+* [US tariffs: Implications and opportunities for Sri Lanka](data/articles/us-tariffs-implications.976374c5/README.md) `ft.lk`
+* [FCEJ stands in support of the birds, the land and the people of Mannar](data/articles/fcej-stands-in-support-o.987ae1c7/README.md) `ft.lk`
+* [Can Gaza be saved by the UN General Assembly through a 1950 Resolution?](data/articles/can-gaza-be-saved-by-the.6d19f1d8/README.md) `ft.lk`
 
 ## 2025-09-29
 
+* [Budget 2025: Smiles in every rupee](data/articles/budget-2025-smiles-in-ev.948a1802/README.md) `ft.lk`
+* [Ranil’s resolve to end rule of law](data/articles/ranil-s-resolve-to-end-r.287eeba2/README.md) `ft.lk`
+* [Four Strategic Signals Technology Leaders Are Tuning In To](data/articles/four-strategic-signals-t.e2bcc942/README.md) `hbr.org`
 * [85th birthday commemoration of former Speaker Sri Lankabhimanya Karu Jayasuriya](data/articles/85th-birthday-commemorat.bc93fb8f/README.md) `ft.lk`
 * [Your right to know: Why journalism and access to information matter more than ever](data/articles/your-right-to-know-why-j.9a4663ec/README.md) `ft.lk`
 * [Cultivating circular futures: Youth as agents of change](data/articles/cultivating-circular-fut.7a2c1473/README.md) `ft.lk`
