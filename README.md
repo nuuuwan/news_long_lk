@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-01 06:25:53**
+Last Updated **2025-10-01 18:23:04**
 
 ## 2025-10-01
 
@@ -10,6 +10,7 @@ Last Updated **2025-10-01 06:25:53**
 * [Lacklustre Government, blessed by the Opposition](data/articles/lacklustre-government-bl.cefb255a/README.md) `ft.lk`
 * [Tragedy at Na Uyana monastery, killing seven Buddhist monks is much more than meets the eye](data/articles/tragedy-at-na-uyana-mona.1b9aa2bc/README.md) `ft.lk`
 * [Confirmation bias: Silently destroying meritocracy, objectivity and fairness](data/articles/confirmation-bias-silent.2f0754a9/README.md) `ft.lk`
+* [How the JVP -led NPP Projected  Anura Kumara Dissanayake  in 2024  as  both a Champion for Change and an Agent of Change.](data/articles/how-the-jvp-led-npp-proj.87615477/README.md) `dbsjeyaraj.com`
 
 ## 2025-09-30
 
