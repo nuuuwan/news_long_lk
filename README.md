@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-09-30 18:22:46**
+Last Updated **2025-10-01 06:25:53**
+
+## 2025-10-01
+
+* [Gotabaya: Untold achievements](data/articles/gotabaya-untold-achievem.a1d87f25/README.md) `ft.lk`
+* [Lacklustre Government, blessed by the Opposition](data/articles/lacklustre-government-bl.cefb255a/README.md) `ft.lk`
+* [Tragedy at Na Uyana monastery, killing seven Buddhist monks is much more than meets the eye](data/articles/tragedy-at-na-uyana-mona.1b9aa2bc/README.md) `ft.lk`
+* [Confirmation bias: Silently destroying meritocracy, objectivity and fairness](data/articles/confirmation-bias-silent.2f0754a9/README.md) `ft.lk`
 
 ## 2025-09-30
 
