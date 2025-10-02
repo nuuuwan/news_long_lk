@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-02 06:25:29**
+Last Updated **2025-10-02 18:23:15**
+
+## 2025-10-02
+
+* [Anura, Mahinda, Premadasa: Who is progressive, who isn’t and why?](data/articles/anura-mahinda-premadasa.ecf71fad/README.md) `ft.lk`
+* [CMA Sri Lanka Budget proposals for promotion and development of MSME sector](data/articles/cma-sri-lanka-budget-pro.8ef8d4dc/README.md) `ft.lk`
 
 ## 2025-10-01
 
+* [OpenAI is huge in India. Its models are steeped in caste bias.](data/articles/openai-is-huge-in-india.2651cf82/README.md) `technologyreview.com`
 * [Gotabaya: Untold achievements](data/articles/gotabaya-untold-achievem.a1d87f25/README.md) `ft.lk`
 * [Lacklustre Government, blessed by the Opposition](data/articles/lacklustre-government-bl.cefb255a/README.md) `ft.lk`
 * [Lacklustre Government, blessed by the Opposition](data/articles/lacklustre-government-bl.382f1e22/README.md) `ft.lk`
