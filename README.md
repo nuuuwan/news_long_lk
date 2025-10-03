@@ -2,12 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-02 18:23:15**
+Last Updated **2025-10-03 06:25:53**
+
+## 2025-10-03
+
+* [Beyond degrees: Creating future-ready workforce for Sri Lanka](data/articles/beyond-degrees-creating.d1946ae9/README.md) `ft.lk`
+* [Growing the pool of billion-dollar companies in Sri Lanka](data/articles/growing-the-pool-of-bill.c0e7682b/README.md) `ft.lk`
+* [Financial institutions at crossroads: Redefining risk management in the age of climate change](data/articles/financial-institutions-a.947e3553/README.md) `ft.lk`
+* [Energy diplomacy: How Sri Lanka can bridge trade gap with United States](data/articles/energy-diplomacy-how-sri.2b5866fb/README.md) `ft.lk`
 
 ## 2025-10-02
 
+* [A Formula to Help Quantify the True Value of Marketing](data/articles/a-formula-to-help-quanti.ce319253/README.md) `hbr.org`
 * [Anura, Mahinda, Premadasa: Who is progressive, who isn’t and why?](data/articles/anura-mahinda-premadasa.ecf71fad/README.md) `ft.lk`
 * [CMA Sri Lanka Budget proposals for promotion and development of MSME sector](data/articles/cma-sri-lanka-budget-pro.8ef8d4dc/README.md) `ft.lk`
+* [EV tax credits are dead in the US. Now what?](data/articles/ev-tax-credits-are-dead.ed75e9d5/README.md) `technologyreview.com`
 
 ## 2025-10-01
 
@@ -36,6 +45,7 @@ Last Updated **2025-10-02 18:23:15**
 * [Your right to know: Why journalism and access to information matter more than ever](data/articles/your-right-to-know-why-j.9a4663ec/README.md) `ft.lk`
 * [Cultivating circular futures: Youth as agents of change](data/articles/cultivating-circular-fut.7a2c1473/README.md) `ft.lk`
 * [First year of AKD Government: Is it RW in driving seat with a difference?](data/articles/first-year-of-akd-govern.5c975a4b/README.md) `ft.lk`
+* [Coming soon: Our 2025 list of Climate Tech Companies to Watch](data/articles/coming-soon-our-2025-lis.3909c88b/README.md) `technologyreview.com`
 * [COPE, oversight, and boundaries of power: Necessary caution](data/articles/cope-oversight-and-bound.affe74db/README.md) `ft.lk`
 
 ## 2025-09-27
