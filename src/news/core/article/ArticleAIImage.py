@@ -42,6 +42,7 @@ class ArticleAIImage:
         image_url = response.data[0].url
         log.debug(f'{image_url=}')
 
-        WWW.download_binary(image_url, ai_image_path.path)
+        WWW(image_url).download_binary(ai_image_path.path)
         log.debug(f'🤖 Wrote {ai_image_path.path}')
         return ai_image_path
+
