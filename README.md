@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-03 18:22:26**
+Last Updated **2025-10-04 06:25:27**
 
 ## 2025-10-03
 
+* [Constitutional dictatorships – OR: is the era and ethos of ‘strongman’  governments gone for good? (1/4)](data/articles/constitutional-dictators.c4402ac3/README.md) `ft.lk`
+* [Fools, knaves and narratives](data/articles/fools-knaves-and-narrati.6041f2ac/README.md) `ft.lk`
+* [Russian envoy speaks out at Pathfinder Foundation’s ‘Ambassador’s Roundtable’](data/articles/russian-envoy-speaks-out.30ebc21e/README.md) `ft.lk`
+* [Alcohol and tobacco usage in SL decline, reveal latest surveys](data/articles/alcohol-and-tobacco-usag.7e3724dd/README.md) `ft.lk`
+* [Sri Lanka-born strategist Prof. Patrick Mendis to meet corporate and national leaders](data/articles/sri-lanka-born-strategis.1ad170ec/README.md) `ft.lk`
 * [Beyond degrees: Creating future-ready workforce for Sri Lanka](data/articles/beyond-degrees-creating.d1946ae9/README.md) `ft.lk`
 * [Growing the pool of billion-dollar companies in Sri Lanka](data/articles/growing-the-pool-of-bill.c0e7682b/README.md) `ft.lk`
 * [Financial institutions at crossroads: Redefining risk management in the age of climate change](data/articles/financial-institutions-a.947e3553/README.md) `ft.lk`
