@@ -2,12 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-06 18:23:19**
+Last Updated **2025-10-07 06:25:44**
+
+## 2025-10-07
+
+* [Condemning surveillance, harassment, and intimidation of journalist Kumanan Kanapathipillai](data/articles/condemning-surveillance.0d0091d2/README.md) `ft.lk`
+* [Aruni Shapiro introduces Adam Smith to Sri Lanka’s readers](data/articles/aruni-shapiro-introduces.d85b21e0/README.md) `ft.lk`
+* [Being Buddhist during genocide](data/articles/being-buddhist-during-ge.55136d5c/README.md) `ft.lk`
 
 ## 2025-10-06
 
 * [Bill Gates: Our best weapon against climate change is ingenuity](data/articles/bill-gates-our-best-weap.8906ce7e/README.md) `technologyreview.com`
 * [How we picked promising climate tech companies in an especially unsettling year](data/articles/how-we-picked-promising.b5e1f7cf/README.md) `technologyreview.com`
+* [2025 Climate Tech Companies to Watch: Redwood Materials and its new AI microgrids](data/articles/2025-climate-tech-compan.ff075f79/README.md) `technologyreview.com`
 * [2025 Climate Tech Companies to Watch: Fervo Energy and its advanced geothermal power plants](data/articles/2025-climate-tech-compan.02418e84/README.md) `technologyreview.com`
 * [2025 Climate Tech Companies to Watch: Cemvision and its low-emissions cement](data/articles/2025-climate-tech-compan.2a905448/README.md) `technologyreview.com`
 
