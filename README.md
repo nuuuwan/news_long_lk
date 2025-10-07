@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-07 06:25:44**
+Last Updated **2025-10-07 18:23:01**
 
 ## 2025-10-07
 
@@ -13,6 +13,7 @@ Last Updated **2025-10-07 06:25:44**
 ## 2025-10-06
 
 * [Bill Gates: Our best weapon against climate change is ingenuity](data/articles/bill-gates-our-best-weap.8906ce7e/README.md) `technologyreview.com`
+* [2025 Climate Tech Companies to Watch: Kairos Power and its next-generation nuclear reactors](data/articles/2025-climate-tech-compan.2b6b548e/README.md) `technologyreview.com`
 * [How we picked promising climate tech companies in an especially unsettling year](data/articles/how-we-picked-promising.b5e1f7cf/README.md) `technologyreview.com`
 * [2025 Climate Tech Companies to Watch: Redwood Materials and its new AI microgrids](data/articles/2025-climate-tech-compan.ff075f79/README.md) `technologyreview.com`
 * [2025 Climate Tech Companies to Watch: Fervo Energy and its advanced geothermal power plants](data/articles/2025-climate-tech-compan.02418e84/README.md) `technologyreview.com`
