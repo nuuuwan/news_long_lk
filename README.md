@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-08 06:26:01**
+Last Updated **2025-10-08 18:23:20**
+
+## 2025-10-08
+
+* [Sustaining transformative growth in Sri Lanka 2025-2030](data/articles/sustaining-transformativ.84fc683c/README.md) `ft.lk`
+* [Licence for indiscipline? Perils of Sri Lanka’s new child rights agenda](data/articles/licence-for-indiscipline.4345dba1/README.md) `ft.lk`
+* [Digital decency](data/articles/digital-decency.89352037/README.md) `ft.lk`
+* [Leading with authenticity and accountability: Insights and impacts](data/articles/leading-with-authenticit.120309ca/README.md) `ft.lk`
+* [Paradigm shift needed in economic thinking, policies and strategy](data/articles/paradigm-shift-needed-in.43502119/README.md) `ft.lk`
 
 ## 2025-10-07
 
