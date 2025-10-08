@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-07 18:23:01**
+Last Updated **2025-10-08 06:26:01**
 
 ## 2025-10-07
 
+* [Transforming Risk Management in Financial Services with Generative AI](data/articles/transforming-risk-manage.ed5c5d6b/README.md) `hbr.org`
+* [Navi Pillay Headed UN  Inquiry  Commission’s Report   States  Israel is Committing  Genocide in Gaza.](data/articles/navi-pillay-headed-un-in.836abf58/README.md) `dbsjeyaraj.com`
+* [The three big unanswered questions about Sora](data/articles/the-three-big-unanswered.87f1c8a0/README.md) `technologyreview.com`
 * [Condemning surveillance, harassment, and intimidation of journalist Kumanan Kanapathipillai](data/articles/condemning-surveillance.0d0091d2/README.md) `ft.lk`
 * [Aruni Shapiro introduces Adam Smith to Sri Lanka’s readers](data/articles/aruni-shapiro-introduces.d85b21e0/README.md) `ft.lk`
 * [Being Buddhist during genocide](data/articles/being-buddhist-during-ge.55136d5c/README.md) `ft.lk`
