@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-09 06:25:32**
+Last Updated **2025-10-09 18:22:55**
 
 ## 2025-10-09
 
@@ -20,6 +20,7 @@ Last Updated **2025-10-09 06:25:32**
 ## 2025-10-07
 
 * [Transforming Risk Management in Financial Services with Generative AI](data/articles/transforming-risk-manage.ed5c5d6b/README.md) `hbr.org`
+* [AI toys are all the rage in China—and now they’re appearing on shelves in the US too](data/articles/ai-toys-are-all-the-rage.a11f07f3/README.md) `technologyreview.com`
 * [Navi Pillay Headed UN  Inquiry  Commission’s Report   States  Israel is Committing  Genocide in Gaza.](data/articles/navi-pillay-headed-un-in.836abf58/README.md) `dbsjeyaraj.com`
 * [The three big unanswered questions about Sora](data/articles/the-three-big-unanswered.87f1c8a0/README.md) `technologyreview.com`
 * [Condemning surveillance, harassment, and intimidation of journalist Kumanan Kanapathipillai](data/articles/condemning-surveillance.0d0091d2/README.md) `ft.lk`
