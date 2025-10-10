@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-10 06:25:32**
+Last Updated **2025-10-10 18:22:58**
 
 ## 2025-10-10
 
@@ -13,6 +13,7 @@ Last Updated **2025-10-10 06:25:32**
 
 ## 2025-10-09
 
+* [3 takeaways about climate tech right now](data/articles/3-takeaways-about-climat.abfcad3c/README.md) `technologyreview.com`
 * [Adopted without a vote in Geneva: Inept at the international](data/articles/adopted-without-a-vote-i.9e604d6b/README.md) `ft.lk`
 * [SWRD to AKD: From mastery to marginality in foreign policy](data/articles/swrd-to-akd-from-mastery.26951169/README.md) `ft.lk`
 
