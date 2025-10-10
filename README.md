@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-09 18:22:55**
+Last Updated **2025-10-10 06:25:32**
+
+## 2025-10-10
+
+* [Tamil actor Vijay and the cinematic politics of “Dravidian” Tamil Nadu](data/articles/tamil-actor-vijay-and-th.0921d921/README.md) `ft.lk`
+* [CEB at crossroads: Reform reversed, financing jeopardised](data/articles/ceb-at-crossroads-reform.79a296d4/README.md) `ft.lk`
+* [Turning disaster into opportunity](data/articles/turning-disaster-into-op.45cdfafe/README.md) `ft.lk`
+* [What to do about Online Safety Act?](data/articles/what-to-do-about-online.ca50a0e6/README.md) `ft.lk`
 
 ## 2025-10-09
 
