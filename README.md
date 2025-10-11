@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-10 18:22:58**
+Last Updated **2025-10-11 06:25:57**
 
 ## 2025-10-10
 
+* [How ‘noble’ is Trump for a Nobel?](data/articles/how-noble-is-trump-for-a.50fe5f04/README.md) `ft.lk`
+* [New Case-File Tracking System revolutionises anti-corruption investigations](data/articles/new-case-file-tracking-s.fa78839f/README.md) `ft.lk`
+* [Science College Rugby Support Group decries poaching via deceptive scholarships](data/articles/science-college-rugby-su.c448314a/README.md) `ft.lk`
+* [Apparel industry redefines sustainability: From climate action to community impact](data/articles/apparel-industry-redefin.97029fae/README.md) `ft.lk`
+* [More than merely messiahs – viz: is the era and ethos of ‘strongman’  governments gone for good? (2/4)](data/articles/more-than-merely-messiah.386cf298/README.md) `ft.lk`
 * [Tamil actor Vijay and the cinematic politics of “Dravidian” Tamil Nadu](data/articles/tamil-actor-vijay-and-th.0921d921/README.md) `ft.lk`
 * [CEB at crossroads: Reform reversed, financing jeopardised](data/articles/ceb-at-crossroads-reform.79a296d4/README.md) `ft.lk`
 * [Turning disaster into opportunity](data/articles/turning-disaster-into-op.45cdfafe/README.md) `ft.lk`
@@ -13,6 +18,8 @@ Last Updated **2025-10-10 18:22:58**
 
 ## 2025-10-09
 
+* [How Neurosymbolic AI Finds Growth That Others Cannot See](data/articles/how-neurosymbolic-ai-fin.1df196c7/README.md) `hbr.org`
+* [How healthy am I? My immunome knows the score.](data/articles/how-healthy-am-i-my-immu.f7294031/README.md) `technologyreview.com`
 * [3 takeaways about climate tech right now](data/articles/3-takeaways-about-climat.abfcad3c/README.md) `technologyreview.com`
 * [Adopted without a vote in Geneva: Inept at the international](data/articles/adopted-without-a-vote-i.9e604d6b/README.md) `ft.lk`
 * [SWRD to AKD: From mastery to marginality in foreign policy](data/articles/swrd-to-akd-from-mastery.26951169/README.md) `ft.lk`
