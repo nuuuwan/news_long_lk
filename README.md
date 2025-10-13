@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-13 06:26:11**
+Last Updated **2025-10-13 18:23:02**
 
 ## 2025-10-13
 
@@ -11,6 +11,7 @@ Last Updated **2025-10-13 06:26:11**
 * [Forging future-ready directors in Sri Lanka](data/articles/forging-future-ready-dir.3e2d98de/README.md) `ft.lk`
 * [ICCSL webinar empowers taxpayers as tax filing deadline draws closer](data/articles/iccsl-webinar-empowers-t.47f77e59/README.md) `ft.lk`
 * [Deloitte webinar unpacks Companies (Amendment) Act No. 12 of 2025](data/articles/deloitte-webinar-unpacks.748e6818/README.md) `ft.lk`
+* [Tamil Actor Vijay,his new Political Party TVP  and the Cinematic Politics Ecology  of “Dravidian” Tamil Nadu.](data/articles/tamil-actor-vijay-his-ne.ab6109cc/README.md) `dbsjeyaraj.com`
 
 ## 2025-10-10
 
