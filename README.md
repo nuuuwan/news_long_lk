@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-12 18:20:28**
+Last Updated **2025-10-13 06:26:11**
+
+## 2025-10-13
+
+* [EUDR: What is it and what are its implications?](data/articles/eudr-what-is-it-and-what.07b26192/README.md) `ft.lk`
+* [Muslim politics and culture: Disturbing symbiosis](data/articles/muslim-politics-and-cult.940c2e60/README.md) `ft.lk`
+* [Forging future-ready directors in Sri Lanka](data/articles/forging-future-ready-dir.3e2d98de/README.md) `ft.lk`
+* [ICCSL webinar empowers taxpayers as tax filing deadline draws closer](data/articles/iccsl-webinar-empowers-t.47f77e59/README.md) `ft.lk`
+* [Deloitte webinar unpacks Companies (Amendment) Act No. 12 of 2025](data/articles/deloitte-webinar-unpacks.748e6818/README.md) `ft.lk`
 
 ## 2025-10-10
 
