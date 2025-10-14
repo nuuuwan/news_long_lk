@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-14 06:25:45**
+Last Updated **2025-10-14 18:23:10**
 
 ## 2025-10-14
 
@@ -11,6 +11,7 @@ Last Updated **2025-10-14 06:25:45**
 
 ## 2025-10-13
 
+* [An Earthling’s guide to planet hunting](data/articles/an-earthling-s-guide-to.591dffb1/README.md) `technologyreview.com`
 * [EUDR: What is it and what are its implications?](data/articles/eudr-what-is-it-and-what.07b26192/README.md) `ft.lk`
 * [Muslim politics and culture: Disturbing symbiosis](data/articles/muslim-politics-and-cult.940c2e60/README.md) `ft.lk`
 * [Forging future-ready directors in Sri Lanka](data/articles/forging-future-ready-dir.3e2d98de/README.md) `ft.lk`
