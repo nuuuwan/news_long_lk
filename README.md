@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-13 18:23:02**
+Last Updated **2025-10-14 06:25:45**
+
+## 2025-10-14
+
+* [Traffic Police: It’s time you moved away from ‘white line’ fixation](data/articles/traffic-police-it-s-time.f80703e0/README.md) `ft.lk`
+* [Reform first — growth will follow](data/articles/reform-first-growth-will.fef65981/README.md) `ft.lk`
 
 ## 2025-10-13
 
