@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-14 18:23:10**
+Last Updated **2025-10-15 06:26:40**
+
+## 2025-10-15
+
+* [Ants’ march, promises, and one-year rule of AKD](data/articles/ants-march-promises-and.f9721642/README.md) `ft.lk`
+* [Sri Lanka’s Robotic Governance Council: Politician of the future](data/articles/sri-lanka-s-robotic-gove.fd195b2e/README.md) `ft.lk`
+* [Open note to President Disanayake](data/articles/open-note-to-president-d.282b5a12/README.md) `ft.lk`
+* [Trending trade in rare earths:  Turning Sri Lanka’s mineral potential into national power](data/articles/trending-trade-in-rare-e.52af3f72/README.md) `ft.lk`
+* [Let’s talk about it: Ending stigma around mental health in Sri Lanka](data/articles/let-s-talk-about-it-endi.08861d0e/README.md) `ft.lk`
 
 ## 2025-10-14
 
