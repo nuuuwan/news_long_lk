@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-15 06:26:40**
+Last Updated **2025-10-15 18:23:07**
 
 ## 2025-10-15
 
@@ -11,6 +11,7 @@ Last Updated **2025-10-15 06:26:40**
 * [Open note to President Disanayake](data/articles/open-note-to-president-d.282b5a12/README.md) `ft.lk`
 * [Trending trade in rare earths:  Turning Sri Lanka’s mineral potential into national power](data/articles/trending-trade-in-rare-e.52af3f72/README.md) `ft.lk`
 * [Let’s talk about it: Ending stigma around mental health in Sri Lanka](data/articles/let-s-talk-about-it-endi.08861d0e/README.md) `ft.lk`
+* [Big Tech’s big bet on a controversial carbon removal tactic](data/articles/big-tech-s-big-bet-on-a.4f82ea8b/README.md) `technologyreview.com`
 
 ## 2025-10-14
 
