@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-15 18:23:07**
+Last Updated **2025-10-16 06:26:21**
+
+## 2025-10-16
+
+* [Gaza reprieved, Geneva match-fixed, devolution auctioned, Venezuela targeted](data/articles/gaza-reprieved-geneva-ma.495b94cd/README.md) `ft.lk`
+* [Enhancing tax morale in Sri Lanka: Path to sustainable compliance](data/articles/enhancing-tax-morale-in.8718be06/README.md) `ft.lk`
+* [Beyond prediction: Rise of explainable AI in financial decision making](data/articles/beyond-prediction-rise-o.5c2a726d/README.md) `ft.lk`
+* [Promise and peril of relativism: Respecting perspectives without excusing injustice](data/articles/promise-and-peril-of-rel.b1a0e06d/README.md) `ft.lk`
+* [Hand in hand for better foods and a better future: Partnerships for Sri Lanka’s SDG journey](data/articles/hand-in-hand-for-better.57beb53e/README.md) `ft.lk`
 
 ## 2025-10-15
 
@@ -15,6 +23,7 @@ Last Updated **2025-10-15 18:23:07**
 
 ## 2025-10-14
 
+* [How aging clocks can help us understand why we age—and if we can reverse it](data/articles/how-aging-clocks-can-hel.7e791cf5/README.md) `technologyreview.com`
 * [Traffic Police: It’s time you moved away from ‘white line’ fixation](data/articles/traffic-police-it-s-time.f80703e0/README.md) `ft.lk`
 * [Reform first — growth will follow](data/articles/reform-first-growth-will.fef65981/README.md) `ft.lk`
 
