@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-16 06:26:21**
+Last Updated **2025-10-16 18:23:11**
 
 ## 2025-10-16
 
+* [Meet the man building a starter kit for civilization](data/articles/meet-the-man-building-a.9520f242/README.md) `technologyreview.com`
 * [Gaza reprieved, Geneva match-fixed, devolution auctioned, Venezuela targeted](data/articles/gaza-reprieved-geneva-ma.495b94cd/README.md) `ft.lk`
 * [Enhancing tax morale in Sri Lanka: Path to sustainable compliance](data/articles/enhancing-tax-morale-in.8718be06/README.md) `ft.lk`
 * [Beyond prediction: Rise of explainable AI in financial decision making](data/articles/beyond-prediction-rise-o.5c2a726d/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2025-10-16 06:26:21**
 
 ## 2025-10-15
 
+* [“Black October” 1990 :Mass Expulsion of Northern   Province Muslims by the  Tigers  35 Years ago](data/articles/black-october-1990-mass.1c3267ea/README.md) `dbsjeyaraj.com`
 * [Ants’ march, promises, and one-year rule of AKD](data/articles/ants-march-promises-and.f9721642/README.md) `ft.lk`
 * [Sri Lanka’s Robotic Governance Council: Politician of the future](data/articles/sri-lanka-s-robotic-gove.fd195b2e/README.md) `ft.lk`
 * [Open note to President Disanayake](data/articles/open-note-to-president-d.282b5a12/README.md) `ft.lk`
