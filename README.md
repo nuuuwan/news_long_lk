@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-17 06:25:56**
+Last Updated **2025-10-17 18:23:03**
 
 ## 2025-10-17
 
@@ -14,6 +14,7 @@ Last Updated **2025-10-17 06:25:56**
 
 ## 2025-10-16
 
+* [Take our quiz: How much do you know about antimicrobial resistance?](data/articles/take-our-quiz-how-much-d.1034dc89/README.md) `technologyreview.com`
 * [Meet the man building a starter kit for civilization](data/articles/meet-the-man-building-a.9520f242/README.md) `technologyreview.com`
 * [The race to make the perfect baby is creating an ethical mess](data/articles/the-race-to-make-the-per.96eab35b/README.md) `technologyreview.com`
 * [Gaza reprieved, Geneva match-fixed, devolution auctioned, Venezuela targeted](data/articles/gaza-reprieved-geneva-ma.495b94cd/README.md) `ft.lk`
