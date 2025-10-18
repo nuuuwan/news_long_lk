@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-17 18:23:03**
+Last Updated **2025-10-18 06:25:49**
+
+## 2025-10-18
+
+* [Batting maestro Aravinda celebrates 60](data/articles/batting-maestro-aravinda.e816ec95/README.md) `ft.lk`
 
 ## 2025-10-17
 
+* [Arab regimes supported Israeli genocide; now support US plan to eliminate Hamas](data/articles/arab-regimes-supported-i.02d6066d/README.md) `ft.lk`
+* [A few fresh facets of leadership: Is the era and ethos of strongman  governments gone for good? (3/4)](data/articles/a-few-fresh-facets-of-le.412c7cba/README.md) `ft.lk`
+* [Latest Geneva resolution: Putting Sri Lanka’s commitment to the test](data/articles/latest-geneva-resolution.32fd1eef/README.md) `ft.lk`
+* [What Happens When Your Buildings Can Manage Themselves?](data/articles/what-happens-when-your-b.36b553e1/README.md) `hbr.org`
 * [A breath of Kandy on the road](data/articles/a-breath-of-kandy-on-the.cd8a8b79/README.md) `ft.lk`
 * [Sirimavo Bandaranaike, the grand old lady of Sri Lankan politics](data/articles/sirimavo-bandaranaike-th.770dff65/README.md) `ft.lk`
 * [To improve education, fix the tax system](data/articles/to-improve-education-fix.b4ac1370/README.md) `ft.lk`
