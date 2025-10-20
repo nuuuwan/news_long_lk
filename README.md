@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-19 18:21:18**
+Last Updated **2025-10-20 06:26:02**
+
+## 2025-10-19
+
+* [Elder Statewoman  Sirimavo  Bandaranaike the Grand Old Lady of Sri Lankan Politics.](data/articles/elder-statewoman-sirimav.b079b38b/README.md) `dbsjeyaraj.com`
 
 ## 2025-10-18
 
