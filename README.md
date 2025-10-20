@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-20 06:26:02**
+Last Updated **2025-10-20 18:22:57**
+
+## 2025-10-20
+
+* [AI could predict who will have a heart attack](data/articles/ai-could-predict-who-wil.11b00b2e/README.md) `technologyreview.com`
 
 ## 2025-10-19
 
