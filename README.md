@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-21 06:25:52**
+Last Updated **2025-10-21 18:23:55**
 
 ## 2025-10-21
 
+* [New noninvasive endometriosis tests are on the rise](data/articles/new-noninvasive-endometr.710d33c2/README.md) `technologyreview.com`
 * [US Dollar’s collapse, rise of Bitcoin and the run of gold](data/articles/us-dollar-s-collapse-ris.b63a1465/README.md) `ft.lk`
 * [In turbulent trade times, South Asia needs reform, cooperation and resilience](data/articles/in-turbulent-trade-times.2fdc0b54/README.md) `ft.lk`
 * [A storm in a teacup](data/articles/a-storm-in-a-teacup.8b18daad/README.md) `ft.lk`
@@ -14,6 +15,9 @@ Last Updated **2025-10-21 06:25:52**
 
 ## 2025-10-20
 
+* [காசாவில் இஸ்ரேல் இனைப்படுகொலை செய்வதாக கூறும் ஐக்கிய நாடுகள் விசாரணை ஆணைக்குழுவின் அறிக்கை](data/articles/க-ச-வ-ல-இஸ-ர-ல-இன-ப-பட-க.3e39ee0e/README.md) `dbsjeyaraj.com`
+* [What is new, concerning, and indeed grotesque, is the opposition’s willingness to stand shoulder-to-shoulder with the Rajapaksas in defence of democracy, basic rights, and rule of law.](data/articles/what-is-new-concerning-a.1f971a0c/README.md) `dbsjeyaraj.com`
+* [வடபிராந்திய கடற்பரப்பில் இந்தியர்கள் சட்டவிரோதமாக மீன்பிடிப்பதை முடிவுக்கு கொண்டுவர தேசிய மக்கள் சக்தி அரசாங்கம் அர்த்தமுடைய நடவடிக்கை எடுக்க வேணடும்](data/articles/வடப-ர-ந-த-ய-கடற-பரப-ப-ல.956e88da/README.md) `dbsjeyaraj.com`
 * [AI could predict who will have a heart attack](data/articles/ai-could-predict-who-wil.11b00b2e/README.md) `technologyreview.com`
 
 ## 2025-10-19
@@ -35,6 +39,8 @@ Last Updated **2025-10-21 06:25:52**
 * [To improve education, fix the tax system](data/articles/to-improve-education-fix.b4ac1370/README.md) `ft.lk`
 * [Another health ‘bill’ for the consumer to foot?](data/articles/another-health-bill-for.a28d937a/README.md) `ft.lk`
 * [Central Expressway resumption a milestone of Sri Lanka-China friendship under BRI](data/articles/central-expressway-resum.d07795f1/README.md) `ft.lk`
+* [This startup thinks slime mold can help us design better cities](data/articles/this-startup-thinks-slim.c70ac816/README.md) `technologyreview.com`
+* [From slop to Sotheby’s? AI art enters a new phase](data/articles/from-slop-to-sotheby-s-a.6f9d9ef7/README.md) `technologyreview.com`
 
 ## 2025-10-16
 
