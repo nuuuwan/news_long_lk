@@ -1,5 +1,12 @@
 [
   {
+    "title": "When brands take a stand: High-stakes game of activism marketing",
+    "url": "https://www.ft.lk/columns/When-brands-take-a-stand-High-stakes-game-of-activism-marketing/4-783285",
+    "ut": 1761095231.0,
+    "dir_path_unix": "data/articles/when-brands-take-a-stand.507efe66",
+    "time_str_formatted": "06:37 AM, Wednesday, October 22, 2025"
+  },
+  {
     "title": "Fixing the tax code: Fairness in, distortions out",
     "url": "https://www.ft.lk/columns/Fixing-the-tax-code-Fairness-in-distortions-out/4-783264",
     "ut": 1761092785.0,
@@ -19,6 +26,13 @@
     "ut": 1761006600.0,
     "dir_path_unix": "data/articles/new-noninvasive-endometr.710d33c2",
     "time_str_formatted": "06:00 AM, Tuesday, October 21, 2025"
+  },
+  {
+    "title": "The astonishing embryo models of Jacob Hanna",
+    "url": "https://www.technologyreview.com/2025/10/21/1125523/jacob-hanna-israel-synthetic-embryo-models/",
+    "ut": 1761003158.0,
+    "dir_path_unix": "data/articles/the-astonishing-embryo-m.3743ddac",
+    "time_str_formatted": "05:02 AM, Tuesday, October 21, 2025"
   },
   {
     "title": "US Dollar\u2019s collapse, rise of Bitcoin and the run of gold",
@@ -264,6 +278,13 @@
     "ut": 1760488348.0,
     "dir_path_unix": "data/articles/trending-trade-in-rare-e.52af3f72",
     "time_str_formatted": "06:02 AM, Wednesday, October 15, 2025"
+  },
+  {
+    "title": "AI is changing how we quantify pain",
+    "url": "https://www.technologyreview.com/2025/10/15/1125116/ai-is-changing-how-we-quantify-pain/",
+    "ut": 1760488200.0,
+    "dir_path_unix": "data/articles/ai-is-changing-how-we-qu.a44494e5",
+    "time_str_formatted": "06:00 AM, Wednesday, October 15, 2025"
   },
   {
     "title": "Let\u2019s talk about it: Ending stigma around mental health in Sri Lanka",

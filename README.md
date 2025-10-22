@@ -2,16 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-22 06:26:01**
+Last Updated **2025-10-22 18:23:40**
 
 ## 2025-10-22
 
+* [When brands take a stand: High-stakes game of activism marketing](data/articles/when-brands-take-a-stand.507efe66/README.md) `ft.lk`
 * [Fixing the tax code: Fairness in, distortions out](data/articles/fixing-the-tax-code-fair.55c8b666/README.md) `ft.lk`
 * [Can Sri Lanka enhance Government quality through strengthening rule by law?](data/articles/can-sri-lanka-enhance-go.310abab3/README.md) `ft.lk`
 
 ## 2025-10-21
 
 * [New noninvasive endometriosis tests are on the rise](data/articles/new-noninvasive-endometr.710d33c2/README.md) `technologyreview.com`
+* [The astonishing embryo models of Jacob Hanna](data/articles/the-astonishing-embryo-m.3743ddac/README.md) `technologyreview.com`
 * [US Dollar’s collapse, rise of Bitcoin and the run of gold](data/articles/us-dollar-s-collapse-ris.b63a1465/README.md) `ft.lk`
 * [In turbulent trade times, South Asia needs reform, cooperation and resilience](data/articles/in-turbulent-trade-times.2fdc0b54/README.md) `ft.lk`
 * [A storm in a teacup](data/articles/a-storm-in-a-teacup.8b18daad/README.md) `ft.lk`
@@ -65,6 +67,7 @@ Last Updated **2025-10-22 06:26:01**
 * [Sri Lanka’s Robotic Governance Council: Politician of the future](data/articles/sri-lanka-s-robotic-gove.fd195b2e/README.md) `ft.lk`
 * [Open note to President Disanayake](data/articles/open-note-to-president-d.282b5a12/README.md) `ft.lk`
 * [Trending trade in rare earths:  Turning Sri Lanka’s mineral potential into national power](data/articles/trending-trade-in-rare-e.52af3f72/README.md) `ft.lk`
+* [AI is changing how we quantify pain](data/articles/ai-is-changing-how-we-qu.a44494e5/README.md) `technologyreview.com`
 * [Let’s talk about it: Ending stigma around mental health in Sri Lanka](data/articles/let-s-talk-about-it-endi.08861d0e/README.md) `ft.lk`
 * [Big Tech’s big bet on a controversial carbon removal tactic](data/articles/big-tech-s-big-bet-on-a.4f82ea8b/README.md) `technologyreview.com`
 
