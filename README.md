@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-21 18:23:55**
+Last Updated **2025-10-22 06:26:01**
+
+## 2025-10-22
+
+* [Fixing the tax code: Fairness in, distortions out](data/articles/fixing-the-tax-code-fair.55c8b666/README.md) `ft.lk`
+* [Can Sri Lanka enhance Government quality through strengthening rule by law?](data/articles/can-sri-lanka-enhance-go.310abab3/README.md) `ft.lk`
 
 ## 2025-10-21
 
