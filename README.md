@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-22 18:23:40**
+Last Updated **2025-10-23 06:25:59**
+
+## 2025-10-23
+
+* [“Govt. should impose death penalty” – Prof. Mahanamahewa](data/articles/govt-should-impose-deat.31a1f50b/README.md) `ft.lk`
+* [Electoral reactivation of provincial councils is an urgent systemic imperative](data/articles/electoral-reactivation-o.56fd95e0/README.md) `ft.lk`
+* [Resistance matrix: How a narrative was forged to remake the Middle East](data/articles/resistance-matrix-how-a.05e05a0c/README.md) `ft.lk`
+* [Unspoken rift: When founders and siblings collide in family businesses](data/articles/unspoken-rift-when-found.0ae216e1/README.md) `ft.lk`
 
 ## 2025-10-22
 
+* [Benchmarking National Budget 2026 and making theatrics of cheerleaders superfluous](data/articles/benchmarking-national-bu.5cbb68a7/README.md) `ft.lk`
 * [When brands take a stand: High-stakes game of activism marketing](data/articles/when-brands-take-a-stand.507efe66/README.md) `ft.lk`
 * [Fixing the tax code: Fairness in, distortions out](data/articles/fixing-the-tax-code-fair.55c8b666/README.md) `ft.lk`
 * [Can Sri Lanka enhance Government quality through strengthening rule by law?](data/articles/can-sri-lanka-enhance-go.310abab3/README.md) `ft.lk`
