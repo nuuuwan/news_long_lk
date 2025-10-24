@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-24 06:26:00**
+Last Updated **2025-10-24 18:23:55**
 
 ## 2025-10-24
 
@@ -25,6 +25,7 @@ Last Updated **2025-10-24 06:26:00**
 * [When brands take a stand: High-stakes game of activism marketing](data/articles/when-brands-take-a-stand.507efe66/README.md) `ft.lk`
 * [3 Things Stephanie Arnett is into right now](data/articles/3-things-stephanie-arnet.ba15a242/README.md) `technologyreview.com`
 * [Job titles of the future: AI embryologist](data/articles/job-titles-of-the-future.db291889/README.md) `technologyreview.com`
+* [Dispatch: Partying at one of Africa’s largest AI gatherings](data/articles/dispatch-partying-at-one.5af1b8e3/README.md) `technologyreview.com`
 * [Fixing the tax code: Fairness in, distortions out](data/articles/fixing-the-tax-code-fair.55c8b666/README.md) `ft.lk`
 * [Can Sri Lanka enhance Government quality through strengthening rule by law?](data/articles/can-sri-lanka-enhance-go.310abab3/README.md) `ft.lk`
 
