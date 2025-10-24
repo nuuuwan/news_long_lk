@@ -1,5 +1,33 @@
 [
   {
+    "title": "Budget 2026:\u00a0Interest or investment?",
+    "url": "https://www.ft.lk/columns/Budget-2026-Interest-or-investment/4-783377",
+    "ut": 1761254021.0,
+    "dir_path_unix": "data/articles/budget-2026-interest-or.d3d24130",
+    "time_str_formatted": "02:43 AM, Friday, October 24, 2025"
+  },
+  {
+    "title": "Betrayal of trust",
+    "url": "https://www.ft.lk/columns/Betrayal-of-trust/4-783376",
+    "ut": 1761253726.0,
+    "dir_path_unix": "data/articles/betrayal-of-trust.d8f92a9b",
+    "time_str_formatted": "02:38 AM, Friday, October 24, 2025"
+  },
+  {
+    "title": "Budget 26: Reset the policy paradigm",
+    "url": "https://www.ft.lk/opinion/Budget-26-Reset-the-policy-paradigm/14-783375",
+    "ut": 1761253534.0,
+    "dir_path_unix": "data/articles/budget-26-reset-the-poli.b81ff260",
+    "time_str_formatted": "02:35 AM, Friday, October 24, 2025"
+  },
+  {
+    "title": "Can AI help Sri Lanka leapfrog in digitisation drive?",
+    "url": "https://www.ft.lk/columns/Can-AI-help-Sri-Lanka-leapfrog-in-digitisation-drive/4-783370",
+    "ut": 1761251658.0,
+    "dir_path_unix": "data/articles/can-ai-help-sri-lanka-le.704e6138",
+    "time_str_formatted": "02:04 AM, Friday, October 24, 2025"
+  },
+  {
     "title": "What a massive thermal battery means for energy storage",
     "url": "https://www.technologyreview.com/2025/10/23/1126419/thermal-batteries-energy-storage/",
     "ut": 1761179400.0,
@@ -53,6 +81,13 @@
     "url": "https://www.technologyreview.com/2025/10/22/1125356/3-things-stephanie-arnett/",
     "ut": 1761093000.0,
     "dir_path_unix": "data/articles/3-things-stephanie-arnet.ba15a242",
+    "time_str_formatted": "06:00 AM, Wednesday, October 22, 2025"
+  },
+  {
+    "title": "Job titles of the future: AI embryologist",
+    "url": "https://www.technologyreview.com/2025/10/22/1125367/ai-embryologist-reproduction-future-jobs/",
+    "ut": 1761093000.0,
+    "dir_path_unix": "data/articles/job-titles-of-the-future.db291889",
     "time_str_formatted": "06:00 AM, Wednesday, October 22, 2025"
   },
   {
@@ -138,6 +173,13 @@
     "ut": 1760952631.0,
     "dir_path_unix": "data/articles/\u0bb5\u0b9f\u0baa-\u0bb0-\u0ba8-\u0ba4-\u0baf-\u0b95\u0b9f\u0bb1-\u0baa\u0bb0\u0baa-\u0baa-\u0bb2.956e88da",
     "time_str_formatted": "03:00 PM, Monday, October 20, 2025"
+  },
+  {
+    "title": "This retina implant lets people with vision loss do a crossword puzzle",
+    "url": "https://www.technologyreview.com/2025/10/20/1126065/this-retina-implant-lets-people-with-vision-loss-do-a-crossword-puzzle/",
+    "ut": 1760927400.0,
+    "dir_path_unix": "data/articles/this-retina-implant-lets.89d69fe5",
+    "time_str_formatted": "08:00 AM, Monday, October 20, 2025"
   },
   {
     "title": "AI could predict who will have a heart attack",
@@ -1797,6 +1839,13 @@
     "ut": 1756769400.0,
     "dir_path_unix": "data/articles/can-an-ai-doppelg\u00e4nger-h.9291e575",
     "time_str_formatted": "05:00 AM, Tuesday, September 02, 2025"
+  },
+  {
+    "title": "Therapists are secretly using ChatGPT. Clients are triggered.",
+    "url": "https://www.technologyreview.com/2025/09/02/1122871/therapists-using-chatgpt-secretly/",
+    "ut": 1756768104.0,
+    "dir_path_unix": "data/articles/therapists-are-secretly.ee3b7823",
+    "time_str_formatted": "04:38 AM, Tuesday, September 02, 2025"
   },
   {
     "title": "Brief history of Central Bank of Sri Lanka",

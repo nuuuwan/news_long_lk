@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-23 18:23:25**
+Last Updated **2025-10-24 06:26:00**
+
+## 2025-10-24
+
+* [Budget 2026: Interest or investment?](data/articles/budget-2026-interest-or.d3d24130/README.md) `ft.lk`
+* [Betrayal of trust](data/articles/betrayal-of-trust.d8f92a9b/README.md) `ft.lk`
+* [Budget 26: Reset the policy paradigm](data/articles/budget-26-reset-the-poli.b81ff260/README.md) `ft.lk`
+* [Can AI help Sri Lanka leapfrog in digitisation drive?](data/articles/can-ai-help-sri-lanka-le.704e6138/README.md) `ft.lk`
 
 ## 2025-10-23
 
@@ -17,6 +24,7 @@ Last Updated **2025-10-23 18:23:25**
 * [Benchmarking National Budget 2026 and making theatrics of cheerleaders superfluous](data/articles/benchmarking-national-bu.5cbb68a7/README.md) `ft.lk`
 * [When brands take a stand: High-stakes game of activism marketing](data/articles/when-brands-take-a-stand.507efe66/README.md) `ft.lk`
 * [3 Things Stephanie Arnett is into right now](data/articles/3-things-stephanie-arnet.ba15a242/README.md) `technologyreview.com`
+* [Job titles of the future: AI embryologist](data/articles/job-titles-of-the-future.db291889/README.md) `technologyreview.com`
 * [Fixing the tax code: Fairness in, distortions out](data/articles/fixing-the-tax-code-fair.55c8b666/README.md) `ft.lk`
 * [Can Sri Lanka enhance Government quality through strengthening rule by law?](data/articles/can-sri-lanka-enhance-go.310abab3/README.md) `ft.lk`
 
@@ -35,6 +43,7 @@ Last Updated **2025-10-23 18:23:25**
 * [காசாவில் இஸ்ரேல் இனைப்படுகொலை செய்வதாக கூறும் ஐக்கிய நாடுகள் விசாரணை ஆணைக்குழுவின் அறிக்கை](data/articles/க-ச-வ-ல-இஸ-ர-ல-இன-ப-பட-க.3e39ee0e/README.md) `dbsjeyaraj.com`
 * [What is new, concerning, and indeed grotesque, is the opposition’s willingness to stand shoulder-to-shoulder with the Rajapaksas in defence of democracy, basic rights, and rule of law.](data/articles/what-is-new-concerning-a.1f971a0c/README.md) `dbsjeyaraj.com`
 * [வடபிராந்திய கடற்பரப்பில் இந்தியர்கள் சட்டவிரோதமாக மீன்பிடிப்பதை முடிவுக்கு கொண்டுவர தேசிய மக்கள் சக்தி அரசாங்கம் அர்த்தமுடைய நடவடிக்கை எடுக்க வேணடும்](data/articles/வடப-ர-ந-த-ய-கடற-பரப-ப-ல.956e88da/README.md) `dbsjeyaraj.com`
+* [This retina implant lets people with vision loss do a crossword puzzle](data/articles/this-retina-implant-lets.89d69fe5/README.md) `technologyreview.com`
 * [AI could predict who will have a heart attack](data/articles/ai-could-predict-who-wil.11b00b2e/README.md) `technologyreview.com`
 
 ## 2025-10-19
@@ -389,6 +398,7 @@ Last Updated **2025-10-23 18:23:25**
 * [Buddhist Extremist Monks and Organizations  Cultivating Links with Israel want to Turn Sri Lanka into a Buddhist State like how Israel is a 100% Jewish State while Israel wants Sri Lanka to Provide Cheap Manual Labour and a Welcoming Recipient of Israeli Tourists](data/articles/buddhist-extremist-monks.30ec2edc/README.md) `dbsjeyaraj.com`
 * [Is Your Enterprise Data Strategy Ready for the Age of Intelligence?](data/articles/is-your-enterprise-data.0b404ed6/README.md) `hbr.org`
 * [Can an AI doppelgänger help me do my job?](data/articles/can-an-ai-doppelgänger-h.9291e575/README.md) `technologyreview.com`
+* [Therapists are secretly using ChatGPT. Clients are triggered.](data/articles/therapists-are-secretly.ee3b7823/README.md) `technologyreview.com`
 * [Brief history of Central Bank of Sri Lanka](data/articles/brief-history-of-central.57149a87/README.md) `ft.lk`
 * [Sri Lanka’s automobile market: Subliminal economic bubble?](data/articles/sri-lanka-s-automobile-m.a5877bb7/README.md) `ft.lk`
 * [Sri Lanka’s automobile market: Subliminal economic bubble?](data/articles/sri-lanka-s-automobile-m.e7d4d953/README.md) `ft.lk`
