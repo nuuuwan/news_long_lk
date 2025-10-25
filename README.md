@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-25 06:25:50**
+Last Updated **2025-10-25 18:21:05**
 
 ## 2025-10-25
 
@@ -11,6 +11,7 @@ Last Updated **2025-10-25 06:25:50**
 ## 2025-10-24
 
 * [The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4)](data/articles/the-close-of-that-strang.5b420039/README.md) `ft.lk`
+* [“Black October” 35th Anniversary: Why did the LTTE Expel Northern Muslims  En Masse in 1990?](data/articles/black-october-35th-anni.99423abf/README.md) `dbsjeyaraj.com`
 * [Budget 2026: Interest or investment?](data/articles/budget-2026-interest-or.d3d24130/README.md) `ft.lk`
 * [Betrayal of trust](data/articles/betrayal-of-trust.d8f92a9b/README.md) `ft.lk`
 * [Budget 26: Reset the policy paradigm](data/articles/budget-26-reset-the-poli.b81ff260/README.md) `ft.lk`
