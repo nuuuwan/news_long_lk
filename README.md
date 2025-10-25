@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-24 18:23:55**
+Last Updated **2025-10-25 06:25:50**
+
+## 2025-10-25
+
+* [When guardians of the law collide: Call for restraint and respect](data/articles/when-guardians-of-the-la.b459798e/README.md) `ft.lk`
 
 ## 2025-10-24
 
+* [The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4)](data/articles/the-close-of-that-strang.5b420039/README.md) `ft.lk`
 * [Budget 2026: Interest or investment?](data/articles/budget-2026-interest-or.d3d24130/README.md) `ft.lk`
 * [Betrayal of trust](data/articles/betrayal-of-trust.d8f92a9b/README.md) `ft.lk`
 * [Budget 26: Reset the policy paradigm](data/articles/budget-26-reset-the-poli.b81ff260/README.md) `ft.lk`
