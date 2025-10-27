@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-27 06:26:07**
+Last Updated **2025-10-27 18:23:14**
 
 ## 2025-10-27
 
@@ -28,6 +28,7 @@ Last Updated **2025-10-27 06:26:07**
 ## 2025-10-23
 
 * [What a massive thermal battery means for energy storage](data/articles/what-a-massive-thermal-b.700417c0/README.md) `technologyreview.com`
+* [This startup is about to conduct the biggest real-world test of aluminum as a zero-carbon fuel](data/articles/this-startup-is-about-to.7cf64a91/README.md) `technologyreview.com`
 * [“Govt. should impose death penalty” – Prof. Mahanamahewa](data/articles/govt-should-impose-deat.31a1f50b/README.md) `ft.lk`
 * [Electoral reactivation of provincial councils is an urgent systemic imperative](data/articles/electoral-reactivation-o.56fd95e0/README.md) `ft.lk`
 * [Resistance matrix: How a narrative was forged to remake the Middle East](data/articles/resistance-matrix-how-a.05e05a0c/README.md) `ft.lk`
