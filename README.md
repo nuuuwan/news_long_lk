@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-26 18:21:49**
+Last Updated **2025-10-27 06:26:07**
+
+## 2025-10-27
+
+* [Cybersecurity is not an IT problem – it’s a boardroom responsibility](data/articles/cybersecurity-is-not-an.acf60f6a/README.md) `ft.lk`
+* [Inside Lithuania’s digital frontline: How Delfi’s fact-checkers combat disinformation across languages and platforms](data/articles/inside-lithuania-s-digit.3a6e386f/README.md) `ft.lk`
+* [IMF, Arugam Bay and US warning](data/articles/imf-arugam-bay-and-us-wa.72702151/README.md) `ft.lk`
+* [Government must seize moment to deliver justice and reconciliation](data/articles/government-must-seize-mo.241644bb/README.md) `ft.lk`
+* [Rusiripala Tennekoon travails long journey across time but not without facing life’s trials](data/articles/rusiripala-tennekoon-tra.f31002c1/README.md) `ft.lk`
 
 ## 2025-10-25
 
