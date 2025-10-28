@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-28 06:25:52**
+Last Updated **2025-10-28 18:22:59**
 
 ## 2025-10-28
 
@@ -13,6 +13,7 @@ Last Updated **2025-10-28 06:25:52**
 
 ## 2025-10-27
 
+* [தமிழ் நடிகர் விஜயும் ‘ திராவிடத் ‘ தமிழ்நாட்டின் சினிமா அரசியலும்](data/articles/தம-ழ-நட-கர-வ-ஜய-ம-த-ர-வ.684ff5dd/README.md) `dbsjeyaraj.com`
 * [Cybersecurity is not an IT problem – it’s a boardroom responsibility](data/articles/cybersecurity-is-not-an.acf60f6a/README.md) `ft.lk`
 * [Inside Lithuania’s digital frontline: How Delfi’s fact-checkers combat disinformation across languages and platforms](data/articles/inside-lithuania-s-digit.3a6e386f/README.md) `ft.lk`
 * [IMF, Arugam Bay and US warning](data/articles/imf-arugam-bay-and-us-wa.72702151/README.md) `ft.lk`
@@ -27,6 +28,7 @@ Last Updated **2025-10-28 06:25:52**
 
 * [The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4)](data/articles/the-close-of-that-strang.5b420039/README.md) `ft.lk`
 * [“Black October” 35th Anniversary: Why did the LTTE Expel Northern Muslims  En Masse in 1990?](data/articles/black-october-35th-anni.99423abf/README.md) `dbsjeyaraj.com`
+* [What’s next for carbon removal?](data/articles/what-s-next-for-carbon-r.09221c72/README.md) `technologyreview.com`
 * [Budget 2026: Interest or investment?](data/articles/budget-2026-interest-or.d3d24130/README.md) `ft.lk`
 * [Betrayal of trust](data/articles/betrayal-of-trust.d8f92a9b/README.md) `ft.lk`
 * [Budget 26: Reset the policy paradigm](data/articles/budget-26-reset-the-poli.b81ff260/README.md) `ft.lk`
