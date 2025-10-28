@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-27 18:23:14**
+Last Updated **2025-10-28 06:25:52**
+
+## 2025-10-28
+
+* [Auditor General gets letter on audited financials of Royal College SDS for 2024](data/articles/auditor-general-gets-let.d1c915d3/README.md) `ft.lk`
+* [Unequal exchange: Systematic drain of value from Global South](data/articles/unequal-exchange-systema.c78e38d2/README.md) `ft.lk`
+* [From “No Kings” to “No Clients”: Political and economic gravity – Part 1](data/articles/from-no-kings-to-no-clie.a2c6b090/README.md) `ft.lk`
+* [Role of Government in a market economy](data/articles/role-of-government-in-a.09ac4e70/README.md) `ft.lk`
 
 ## 2025-10-27
 
