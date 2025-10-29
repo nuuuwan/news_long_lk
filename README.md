@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-29 06:26:13**
+Last Updated **2025-10-29 18:23:32**
 
 ## 2025-10-29
 
@@ -20,6 +20,7 @@ Last Updated **2025-10-29 06:26:13**
 
 * [தமிழ் நடிகர் விஜயும் ‘ திராவிடத் ‘ தமிழ்நாட்டின் சினிமா அரசியலும்](data/articles/தம-ழ-நட-கர-வ-ஜய-ம-த-ர-வ.684ff5dd/README.md) `dbsjeyaraj.com`
 * [தமிழ் நடிகர் விஜய்யும் ‘ திராவிடத் ‘ தமிழ்நாட்டின் சினிமா அரசியலும்](data/articles/தம-ழ-நட-கர-வ-ஜய-ய-ம-த-ர.684ff5dd/README.md) `dbsjeyaraj.com`
+* [I tried OpenAI’s new Atlas browser but I still don’t know what it’s for](data/articles/i-tried-openai-s-new-atl.3498c401/README.md) `technologyreview.com`
 * [Cybersecurity is not an IT problem – it’s a boardroom responsibility](data/articles/cybersecurity-is-not-an.acf60f6a/README.md) `ft.lk`
 * [Inside Lithuania’s digital frontline: How Delfi’s fact-checkers combat disinformation across languages and platforms](data/articles/inside-lithuania-s-digit.3a6e386f/README.md) `ft.lk`
 * [IMF, Arugam Bay and US warning](data/articles/imf-arugam-bay-and-us-wa.72702151/README.md) `ft.lk`
