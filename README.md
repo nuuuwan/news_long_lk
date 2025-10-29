@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-28 18:22:59**
+Last Updated **2025-10-29 06:26:13**
+
+## 2025-10-29
+
+* [Law, morality, and re-founding of the republic – Part 2](data/articles/law-morality-and-re-foun.06071182/README.md) `ft.lk`
+* [Remembering eviction of northern Muslims and making commitment to coexistence](data/articles/remembering-eviction-of.c2daf222/README.md) `ft.lk`
 
 ## 2025-10-28
 
@@ -14,6 +19,7 @@ Last Updated **2025-10-28 18:22:59**
 ## 2025-10-27
 
 * [தமிழ் நடிகர் விஜயும் ‘ திராவிடத் ‘ தமிழ்நாட்டின் சினிமா அரசியலும்](data/articles/தம-ழ-நட-கர-வ-ஜய-ம-த-ர-வ.684ff5dd/README.md) `dbsjeyaraj.com`
+* [தமிழ் நடிகர் விஜய்யும் ‘ திராவிடத் ‘ தமிழ்நாட்டின் சினிமா அரசியலும்](data/articles/தம-ழ-நட-கர-வ-ஜய-ய-ம-த-ர.684ff5dd/README.md) `dbsjeyaraj.com`
 * [Cybersecurity is not an IT problem – it’s a boardroom responsibility](data/articles/cybersecurity-is-not-an.acf60f6a/README.md) `ft.lk`
 * [Inside Lithuania’s digital frontline: How Delfi’s fact-checkers combat disinformation across languages and platforms](data/articles/inside-lithuania-s-digit.3a6e386f/README.md) `ft.lk`
 * [IMF, Arugam Bay and US warning](data/articles/imf-arugam-bay-and-us-wa.72702151/README.md) `ft.lk`
