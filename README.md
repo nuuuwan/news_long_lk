@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-30 06:26:13**
+Last Updated **2025-10-30 18:23:24**
 
 ## 2025-10-30
 
+* [What it’s like to be in the middle of a conspiracy theory (according to a conspiracy theory expert)](data/articles/what-it-s-like-to-be-in.823a68da/README.md) `technologyreview.com`
+* [Why it’s so hard to bust the weather control conspiracy theory](data/articles/why-it-s-so-hard-to-bust.cf7be9f8/README.md) `technologyreview.com`
+* [It’s never been easier to be a conspiracy theorist](data/articles/it-s-never-been-easier-t.03c09067/README.md) `technologyreview.com`
+* [How AGI became the most consequential conspiracy theory of our time](data/articles/how-agi-became-the-most.387f4327/README.md) `technologyreview.com`
 * [Changing patterns of cinnamon marketing in Sri Lanka](data/articles/changing-patterns-of-cin.f2e4937a/README.md) `ft.lk`
 * [Global reset: Why the world could benefit from Trump-style leadership](data/articles/global-reset-why-the-wor.bb4b69a4/README.md) `ft.lk`
 * [Sinhalese nationalism, monastic power, and myth of sacred land](data/articles/sinhalese-nationalism-mo.8a6cbbfe/README.md) `ft.lk`
