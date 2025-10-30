@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-29 18:23:32**
+Last Updated **2025-10-30 06:26:13**
+
+## 2025-10-30
+
+* [Changing patterns of cinnamon marketing in Sri Lanka](data/articles/changing-patterns-of-cin.f2e4937a/README.md) `ft.lk`
+* [Global reset: Why the world could benefit from Trump-style leadership](data/articles/global-reset-why-the-wor.bb4b69a4/README.md) `ft.lk`
+* [Sinhalese nationalism, monastic power, and myth of sacred land](data/articles/sinhalese-nationalism-mo.8a6cbbfe/README.md) `ft.lk`
+* [Evolution of UNHRC resolutions on Sri Lanka: From sovereignty to accountability](data/articles/evolution-of-unhrc-resol.cebfe108/README.md) `ft.lk`
+* [Weligama watershed, leftist legacy and tomorrow’s post-JVP Lankan left](data/articles/weligama-watershed-lefti.38fde48c/README.md) `ft.lk`
 
 ## 2025-10-29
 
+* [How AI Will Forge the Next Generation of Cybersecurity Talent](data/articles/how-ai-will-forge-the-ne.9a51232e/README.md) `hbr.org`
+* [How Tech Product Managers Can Drive Innovation by Focusing on Customer Needs](data/articles/how-tech-product-manager.a0d8f56a/README.md) `hbr.org`
 * [Law, morality, and re-founding of the republic – Part 2](data/articles/law-morality-and-re-foun.06071182/README.md) `ft.lk`
 * [Remembering eviction of northern Muslims and making commitment to coexistence](data/articles/remembering-eviction-of.c2daf222/README.md) `ft.lk`
 
@@ -15,6 +25,7 @@ Last Updated **2025-10-29 18:23:32**
 * [Unequal exchange: Systematic drain of value from Global South](data/articles/unequal-exchange-systema.c78e38d2/README.md) `ft.lk`
 * [From “No Kings” to “No Clients”: Political and economic gravity – Part 1](data/articles/from-no-kings-to-no-clie.a2c6b090/README.md) `ft.lk`
 * [Role of Government in a market economy](data/articles/role-of-government-in-a.09ac4e70/README.md) `ft.lk`
+* [An AI adoption riddle](data/articles/an-ai-adoption-riddle.c072cd82/README.md) `technologyreview.com`
 
 ## 2025-10-27
 

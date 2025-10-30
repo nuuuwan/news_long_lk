@@ -1,0 +1,80 @@
+# How AI Will Forge the Next Generation of Cybersecurity Talent
+
+[https://hbr.org/sponsored/2025/10/how-ai-will-forge-the-next-generation-of-cybersecurity-talent](https://hbr.org/sponsored/2025/10/how-ai-will-forge-the-next-generation-of-cybersecurity-talent)
+
+*08:16 PM, Wednesday, October 29, 2025*
+
+Esteemed voices in the AI community are speaking of a near-term horizon where AI significantly reshapes the job market, potentially leading to major reductions in white-collar employment. It’s a conversation that understandably stokes anxiety and inevitably begs this question: Are cybersecurity jobs also at risk of being automated into obsolescence?
+
+As someone who has dedicated his career to AI, navigating its evolution from theoretical constructs to the powerful agents we see today, my answer is emphatically no. The narrative for cybersecurity is different—and far more empowering.
+
+AI will not lead to obsolescence; it will lead to evolution. In fact, it already has. While it will automate routine tasks, AI will simultaneously elevate the demand for professionals who understand uniquely human skills.
+
+The future of our field will be defined by enduring archetypes:
+
+• The strategic risk translator, who negotiates the critical trade-offs between risk and operational needs.
+
+• The AI-augmented hunter, whose intuition and creativity outmaneuver intelligent threats.
+
+• The AI governance specialist, who provides essential human judgment and accountability for these powerful new systems.
+
+AI as the Great Enabler
+
+Before we dig into AI’s impact, let’s first acknowledge a foundational truth: Cybersecurity is an incredibly demanding discipline.
+
+For decades, even with significant advancements in automation, we’ve grappled with a persistent shortage of experienced professionals capable of navigating its complex landscape. The sheer difficulty of doing cybersecurity right—and staying ahead of determined adversaries—means human expertise remains an invaluable and often scarce resource. This isn’t a gap conventional automation alone has closed.
+
+AI arrives in this challenging environment as the most potent amplifier for human ingenuity—not as our replacement. Its role is to augment our capabilities, allowing us to achieve more, faster and with greater precision.
+
+Imagine providing your security analysts with an intelligent partner that tirelessly sifts through petabytes of data, identifies the signals of a sophisticated attack, and prioritizes critical alerts with superhuman speed.
+
+Here, AI acts as a force multiplier, enabling teams to achieve what was previously impossible—coverage at both scale and depth. Instead of choosing between lower-resolution monitoring across the landscape or deep analysis on a few critical assets, your teams can now apply forensic-level scrutiny everywhere. This enables them to manage the massive queue of potential issues and protect the entire organization with unprecedented speed and precision.
+
+AI is poised to revolutionize how we cultivate talent.
+
+For new team members, AI can act as an intelligent apprentice or a personalized mentor, guiding them through complex tasks and organizational specifics that once took months, if not years, to fully comprehend. This dramatically shortens the learning curve, enabling new hires to become effective contributors much faster and reducing the overall cost and time associated with talent development.
+
+For seasoned experts, AI offers a new dimension of insight. It can synthesize global threat intelligence in real time, identify emerging attack vectors previously obscured, and help veterans apply their deep expertise across an ever-expanding digital attack surface.
+
+The Expanding Digital Universe
+
+While AI undoubtedly boosts efficiency, the digital frontier we must defend continues its inexorable growth. Every new technology adds layers of complexity, but none more so than AI itself. This creates a fascinating paradox: The tool we use to manage scale is simultaneously creating a vast new continent of risk that requires securing.
+
+The discipline of securing AI systems is becoming deeply interwoven with traditional cybersecurity. It’s difficult to fathom a future where we entrust the security of these powerful autonomous agents exclusively to another AI. As these systems proliferate, the need for human oversight, strategic judgment, and ethical governance will persist and intensify.
+
+AI doesn’t shrink the workload. It helps manage a rapidly expanding one while creating an entirely new domain that demands enduring human talent.
+
+Judgment, Accountability, and Security
+
+For all its analytical power, AI is not a CISO. It cannot replicate the uniquely human attributes essential for true security leadership.
+
+Yet who is responsible when an AI makes a mistake or when the path forward is clouded by ambiguity? The accountability for that decision rests firmly with people.
+
+And this isn’t a responsibility reserved for the C-suite; it is distributed throughout the entire security organization. It’s present in the countless judgment calls people make every day—from the frontline analyst validating an AI-flagged alert to the security engineer assessing the business risk of an automated response. In an AI-powered world, every security professional becomes a crucial steward of accountability and context, a role technology enhances but cannot replace.
+
+Security is rarely a binary decision. It often involves negotiating trade-offs with the business, balancing risk mitigation with operational needs and strategic goals. AI can inform these decisions with data, but it cannot navigate the nuanced discussions or make the value judgments inherent in these trade-offs.
+
+Where People Meet Peril
+
+We must also remember that cybersecurity is not solely a battle of machines. Many of an organization’s most significant vulnerabilities lie at the interface between humans and technology. Social engineering, business email compromise, insider threats, and ensuring data loss prevention and compliance are fundamentally human problems that require human understanding, training, and effective communication as part of the solution.
+
+And when an incident does occur, managing the response in a calm, effective manner requires working with people who are often under immense stress. This demands empathy, integrity, trust, relationships, and leadership—qualities that are, for the foreseeable future, uniquely human.
+
+An Enduring Adversarial Dance
+
+Finally, we operate in an inherently adversarial world, which is not a problem that technology, even AI, will “solve” in perpetuity. As defenders get better and use AI, attackers will inevitably respond in kind, developing their own AI-driven tools and techniques to attack at scale or craft increasingly sophisticated exploits.
+
+This new AI-driven landscape is also inherently adversarial. As we are defenders, our strategic advantage comes from using comprehensive data within a well-designed security platform to train superior defensive AI models.
+
+But this advantage doesn’t mean the work is done; it changes. The ongoing arms race shifts the burden from manual tasks to uniquely human ones: the ingenuity to anticipate novel attacks, the strategic insight to guide our AI counterparts, and the adaptability to outmaneuver our adversaries.
+
+So will AI diminish the role of cybersecurity professionals?
+
+I’m convinced it will do the opposite. AI will free us from the repetitive, data-intensive tasks that can lead to burnout, enabling us to focus on the strategic, creative, and human-centric aspects of our work. It will amplify our expertise, accelerate our learning, and empower us to tackle more complex challenges across a broader and more intricate digital world.
+
+The future I envision is one where human ingenuity, significantly augmented by intelligent AI, leads to a more resilient and secure digital society. The demand for smart, adaptable, and strategically minded cybersecurity talent will persist and grow as we collectively forge this new, more secure future.
+
+For more information, be sure to check out our hub for cybersecurity executives on Perspectives.
+
+Aaron Isaksen is a VP of AI/Engineering at Palo Alto Networks.
+
