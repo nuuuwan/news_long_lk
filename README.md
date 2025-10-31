@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-30 18:23:24**
+Last Updated **2025-10-31 06:25:56**
+
+## 2025-10-31
+
+* [Why some countries prosper, whilst others continue to remain poor and in chaos](data/articles/why-some-countries-prosp.3fa5ae66/README.md) `ft.lk`
+* [Proposal for establishment of Advisory Board for revival of welding technology](data/articles/proposal-for-establishme.0c5fed77/README.md) `ft.lk`
+* [Peace – without justice in letting go of backlog?](data/articles/peace-without-justice-in.d729f8a1/README.md) `ft.lk`
+* [Why governments bet on long-term sports tourism partnerships](data/articles/why-governments-bet-on-l.1ef03468/README.md) `ft.lk`
+* [From Kerala to Colombo: Lessons in building gender-responsive tourism](data/articles/from-kerala-to-colombo-l.6d3390c5/README.md) `ft.lk`
 
 ## 2025-10-30
 
+* [How Aon Transformed into a Future-Ready, Data-Driven Enterprise Built for the Age of Intelligence](data/articles/how-aon-transformed-into.87949429/README.md) `hbr.org`
 * [What it’s like to be in the middle of a conspiracy theory (according to a conspiracy theory expert)](data/articles/what-it-s-like-to-be-in.823a68da/README.md) `technologyreview.com`
 * [Why it’s so hard to bust the weather control conspiracy theory](data/articles/why-it-s-so-hard-to-bust.cf7be9f8/README.md) `technologyreview.com`
 * [It’s never been easier to be a conspiracy theorist](data/articles/it-s-never-been-easier-t.03c09067/README.md) `technologyreview.com`

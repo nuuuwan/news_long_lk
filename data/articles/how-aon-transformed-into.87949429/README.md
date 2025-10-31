@@ -1,0 +1,46 @@
+# How Aon Transformed into a Future-Ready, Data-Driven Enterprise Built for the Age of Intelligence
+
+[https://hbr.org/sponsored/2025/10/how-aon-transformed-into-a-future-ready-data-driven-enterprise-built-for-the-age-of-intelligence](https://hbr.org/sponsored/2025/10/how-aon-transformed-into-a-future-ready-data-driven-enterprise-built-for-the-age-of-intelligence)
+
+*09:32 PM, Thursday, October 30, 2025*
+
+By Abdul Razack, Sudipto Dasgupta, and Manish Sood
+
+As artificial intelligence transforms every industry, organizations are placing an increased focus on the quality of their data. The ability to generate value from AI depends not only on computational power or model sophistication but also on the trustworthiness of the data that underpins every insight, decision, and interaction.
+
+For Aon, the global professional services firm, this recognition is central to its enterprise transformation. For more than a century, Aon has served as an advisor to clients navigating complex and interconnected risks. For the Age of Intelligence, that trust must extend beyond relationships to the data that informs them.
+
+Over time, the firm’s regional expansion and acquisitions contributed to a diverse and decentralized data environment. Its multiple policy management systems and bespoke tools, while effective in their local contexts, created barriers to achieving a unified view of the client, automating workflows, and scaling innovation.
+
+This fragmentation is common. Only 26% of organizations have a well-defined data strategy and fewer than 10% are ready to scale AI. Aon saw an opportunity to evolve this complexity into a strategic advantage by building the data capabilities it needed to unlock value from the latest advancements in large language models.
+
+A Global Data Transformation
+
+To tap the full value of its data, Aon launched a global data transformation initiative with a mandate to unify and govern data across the enterprise, enabling intelligent decision making and scaled innovation.
+
+At the heart of Aon’s transformation is its “3×3 Plan,” a three-year plan with three priorities:
+
+1. Address an increasingly complex risk environment through the firm’s differentiated Risk Capital and Human Capital structures
+
+2. Deliver a next-generation client experience
+
+3. Apply AI at scale via Aon Business Services to drive innovation and sustainable growth
+
+This framework reflects both a commitment to digital modernization and an effort to align data, talent, and technology with the firm’s most critical sources of value creation. By embedding these priorities in the operating model, Aon can respond with agility to client needs while building the infrastructure long-term scalability requires.
+
+Rather than pursue a wholesale consolidation of systems, Aon adopted a phased approach, beginning with high-impact business lines, by standardizing core processes and expanding iteratively. This strategy balances strategic urgency with operational pragmatism, enabling the firm to maintain compliance across jurisdictions as it scales globally. This transformation effort is an extension of the firm’s commitment to integrated, client-centered delivery.
+
+Aon’s approach to AI built for the Age of Intelligence is both pragmatic and ambitious, integrating generative AI tools into core workflows to automate routine tasks, such as generating certificates of insurance, while reimagining client and colleague experiences.
+
+The firm is also aware of AI’s risks. In a regulated industry, poor data quality and governance gaps can have serious consequences. Beyond compliance, data governance at Aon is a strategic function that ensures accuracy, privacy, and interoperability across global operations. Without that foundation, AI can’t scale safely.
+
+Aon has migrated more than 50% of its data to the new platform, but its larger challenge is in driving adoption. Change management, communication, and training are essential. The firm is investing in data and AI literacy, helping teams understand how the new systems will benefit their work.
+
+As AI continues to reshape the enterprise landscape, organizations must respond with data strategies that emphasize speed, trust, and contextual intelligence. Aon’s transformation illustrates that strategy in practice, and the results could be profound. By integrating data across geographies, business lines, and functions, the firm is establishing a unified foundation that enables faster and more informed decision making and responses to client needs and market dynamics.
+
+For legacy enterprises pursuing digital transformation in the Age of Intelligence, Aon’s journey offers a roadmap—start with business outcomes, invest in a trusted data foundation, integrate modern platforms, and manage the human side of change. In the age of AI, those who move fast—and move smart—will lead.
+
+Abdul Razack is Chief Technology and Product Officer at Aon. Sudipto Dasgupta is Global Head of Data and AI platforms at Aon. Manish Sood is the founder and CEO of Reltio.
+
+By partnering with Reltio—a leader in data intelligence—Aon built a cloud-native foundation for trusted, real-time, and richly contextual data across its global businesses. To learn the 10 data rules to position your company for long-term success, visit Reltio’s website to access the full strategic playbook.
+
