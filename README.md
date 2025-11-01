@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-10-31 18:23:10**
+Last Updated **2025-11-01 06:26:03**
 
 ## 2025-10-31
 
+* [NPP Government’s troubling ambivalence on Malaiyaha Tamils](data/articles/npp-government-s-troubli.2f385912/README.md) `ft.lk`
+* [Is a system change possible without a mindset change?](data/articles/is-a-system-change-possi.d063f67e/README.md) `ft.lk`
 * [Why some countries prosper, whilst others continue to remain poor and in chaos](data/articles/why-some-countries-prosp.3fa5ae66/README.md) `ft.lk`
 * [Proposal for establishment of Advisory Board for revival of welding technology](data/articles/proposal-for-establishme.0c5fed77/README.md) `ft.lk`
 * [Peace – without justice in letting go of backlog?](data/articles/peace-without-justice-in.d729f8a1/README.md) `ft.lk`
@@ -15,6 +17,8 @@ Last Updated **2025-10-31 18:23:10**
 ## 2025-10-30
 
 * [How Aon Transformed into a Future-Ready, Data-Driven Enterprise Built for the Age of Intelligence](data/articles/how-aon-transformed-into.87949429/README.md) `hbr.org`
+* [Do You Have the Right Data Storage Infrastructure to Support Your AI Strategy?](data/articles/do-you-have-the-right-da.5792bf2b/README.md) `hbr.org`
+* [Tapping AI’s Potential with Powerful Infrastructure from Cloud to Edge](data/articles/tapping-ai-s-potential-w.494a29cf/README.md) `hbr.org`
 * [What it’s like to be in the middle of a conspiracy theory (according to a conspiracy theory expert)](data/articles/what-it-s-like-to-be-in.823a68da/README.md) `technologyreview.com`
 * [Why it’s so hard to bust the weather control conspiracy theory](data/articles/why-it-s-so-hard-to-bust.cf7be9f8/README.md) `technologyreview.com`
 * [It’s never been easier to be a conspiracy theorist](data/articles/it-s-never-been-easier-t.03c09067/README.md) `technologyreview.com`
