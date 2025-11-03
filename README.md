@@ -2,15 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-03 06:25:48**
+Last Updated **2025-11-03 18:22:54**
 
 ## 2025-11-03
 
+* [This startup wants to clean up the copper industry](data/articles/this-startup-wants-to-cl.36927536/README.md) `technologyreview.com`
 * [Hanif Yusoof as President’s Special Envoy for FDIs: The man for the job](data/articles/hanif-yusoof-as-presiden.2dbe855f/README.md) `ft.lk`
 * [Does the Government know what it’s doing with Sinopec?](data/articles/does-the-government-know.9e950728/README.md) `ft.lk`
 * [IPS 2025 shows AKD how technology should be used for change and driving digital economy](data/articles/ips-2025-shows-akd-how-t.3c22414d/README.md) `ft.lk`
 * [Cold chains, hot problems: Fixing Sri Lanka’s fisheries — from catch to export](data/articles/cold-chains-hot-problems.2ba98d2b/README.md) `ft.lk`
 * [From arrests to allies: How President Disanayake’s anti-drug drive seeks to rewrite Sri Lanka’s strategy](data/articles/from-arrests-to-allies-h.d9240682/README.md) `ft.lk`
+
+## 2025-11-02
+
+* [Was the Killing of Weligama Pradeshiya Sabha Chairman  Lasantha Wickramasekara alias “Midigama Lasa”, a  Political Assassination or Gangland Execution?](data/articles/was-the-killing-of-welig.b8d2c360/README.md) `dbsjeyaraj.com`
 
 ## 2025-10-31
 
@@ -27,6 +32,7 @@ Last Updated **2025-11-03 06:25:48**
 * [How Aon Transformed into a Future-Ready, Data-Driven Enterprise Built for the Age of Intelligence](data/articles/how-aon-transformed-into.87949429/README.md) `hbr.org`
 * [Do You Have the Right Data Storage Infrastructure to Support Your AI Strategy?](data/articles/do-you-have-the-right-da.5792bf2b/README.md) `hbr.org`
 * [Tapping AI’s Potential with Powerful Infrastructure from Cloud to Edge](data/articles/tapping-ai-s-potential-w.494a29cf/README.md) `hbr.org`
+* [How to help friends and family dig out of a conspiracy theory black hole](data/articles/how-to-help-friends-and.407c5648/README.md) `technologyreview.com`
 * [What it’s like to be in the middle of a conspiracy theory (according to a conspiracy theory expert)](data/articles/what-it-s-like-to-be-in.823a68da/README.md) `technologyreview.com`
 * [Why it’s so hard to bust the weather control conspiracy theory](data/articles/why-it-s-so-hard-to-bust.cf7be9f8/README.md) `technologyreview.com`
 * [It’s never been easier to be a conspiracy theorist](data/articles/it-s-never-been-easier-t.03c09067/README.md) `technologyreview.com`
