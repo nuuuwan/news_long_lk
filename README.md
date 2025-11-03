@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-02 18:20:55**
+Last Updated **2025-11-03 06:25:48**
+
+## 2025-11-03
+
+* [Hanif Yusoof as President’s Special Envoy for FDIs: The man for the job](data/articles/hanif-yusoof-as-presiden.2dbe855f/README.md) `ft.lk`
+* [Does the Government know what it’s doing with Sinopec?](data/articles/does-the-government-know.9e950728/README.md) `ft.lk`
+* [IPS 2025 shows AKD how technology should be used for change and driving digital economy](data/articles/ips-2025-shows-akd-how-t.3c22414d/README.md) `ft.lk`
+* [Cold chains, hot problems: Fixing Sri Lanka’s fisheries — from catch to export](data/articles/cold-chains-hot-problems.2ba98d2b/README.md) `ft.lk`
+* [From arrests to allies: How President Disanayake’s anti-drug drive seeks to rewrite Sri Lanka’s strategy](data/articles/from-arrests-to-allies-h.d9240682/README.md) `ft.lk`
 
 ## 2025-10-31
 
