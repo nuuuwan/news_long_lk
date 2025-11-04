@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-04 06:26:18**
+Last Updated **2025-11-04 18:23:22**
 
 ## 2025-11-04
 
@@ -41,6 +41,7 @@ Last Updated **2025-11-04 06:26:18**
 * [How Aon Transformed into a Future-Ready, Data-Driven Enterprise Built for the Age of Intelligence](data/articles/how-aon-transformed-into.87949429/README.md) `hbr.org`
 * [Do You Have the Right Data Storage Infrastructure to Support Your AI Strategy?](data/articles/do-you-have-the-right-da.5792bf2b/README.md) `hbr.org`
 * [Tapping AI’s Potential with Powerful Infrastructure from Cloud to Edge](data/articles/tapping-ai-s-potential-w.494a29cf/README.md) `hbr.org`
+* [Four thoughts from Bill Gates on climate tech](data/articles/four-thoughts-from-bill.233d1e4f/README.md) `technologyreview.com`
 * [How to help friends and family dig out of a conspiracy theory black hole](data/articles/how-to-help-friends-and.407c5648/README.md) `technologyreview.com`
 * [What it’s like to be in the middle of a conspiracy theory (according to a conspiracy theory expert)](data/articles/what-it-s-like-to-be-in.823a68da/README.md) `technologyreview.com`
 * [Why it’s so hard to bust the weather control conspiracy theory](data/articles/why-it-s-so-hard-to-bust.cf7be9f8/README.md) `technologyreview.com`
