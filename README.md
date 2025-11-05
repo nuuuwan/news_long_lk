@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-04 18:23:22**
+Last Updated **2025-11-05 06:26:33**
+
+## 2025-11-05
+
+* [China’s stability, a blessing for the world](data/articles/china-s-stability-a-bles.78e02a09/README.md) `ft.lk`
+* [Trump’s deceptive peace plan](data/articles/trump-s-deceptive-peace.15f65eaf/README.md) `ft.lk`
+* [Prisoners of imagined histories](data/articles/prisoners-of-imagined-hi.cc6a545f/README.md) `ft.lk`
+* [Sri Lanka overperforms IMF targets: Does this mean Sri Lanka will avoid another economic crisis?](data/articles/sri-lanka-overperforms-i.948a1a94/README.md) `ft.lk`
 
 ## 2025-11-04
 
+* [Why the for-profit race into solar geoengineering is bad for science and public trust](data/articles/why-the-for-profit-race.d38c259d/README.md) `technologyreview.com`
 * [ICCSL-RKMT proposes smarter tax policies, modern administration for Budget 2026](data/articles/iccsl-rkmt-proposes-smar.5686cec9/README.md) `ft.lk`
 * [Capitalising on Confidence: Investor expectations from 2026 Budget amidst high-flying CSE](data/articles/capitalising-on-confiden.73d5c452/README.md) `ft.lk`
 * [So now we have to pay Rs. 5 for the bag too?](data/articles/so-now-we-have-to-pay-rs.1fa66594/README.md) `ft.lk`
@@ -35,6 +43,7 @@ Last Updated **2025-11-04 18:23:22**
 * [Peace – without justice in letting go of backlog?](data/articles/peace-without-justice-in.d729f8a1/README.md) `ft.lk`
 * [Why governments bet on long-term sports tourism partnerships](data/articles/why-governments-bet-on-l.1ef03468/README.md) `ft.lk`
 * [From Kerala to Colombo: Lessons in building gender-responsive tourism](data/articles/from-kerala-to-colombo-l.6d3390c5/README.md) `ft.lk`
+* [Here’s why we don’t have a cold vaccine. Yet.](data/articles/here-s-why-we-don-t-have.959d483b/README.md) `technologyreview.com`
 
 ## 2025-10-30
 
