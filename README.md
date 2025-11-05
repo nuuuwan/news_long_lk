@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-05 06:26:33**
+Last Updated **2025-11-05 18:22:53**
 
 ## 2025-11-05
 
@@ -10,6 +10,7 @@ Last Updated **2025-11-05 06:26:33**
 * [Trump’s deceptive peace plan](data/articles/trump-s-deceptive-peace.15f65eaf/README.md) `ft.lk`
 * [Prisoners of imagined histories](data/articles/prisoners-of-imagined-hi.cc6a545f/README.md) `ft.lk`
 * [Sri Lanka overperforms IMF targets: Does this mean Sri Lanka will avoid another economic crisis?](data/articles/sri-lanka-overperforms-i.948a1a94/README.md) `ft.lk`
+* [Buddhism could have been a unifying factor in Sri Lanka, if it had not been turned into the identity badge of the Sinhala race. The Mahawamsa mindset reshaped a historically pluralist Lanka into a Sinhala-Buddhist supremacist land](data/articles/buddhism-could-have-been.f2ae7940/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-04
 
