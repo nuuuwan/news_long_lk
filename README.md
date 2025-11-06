@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-05 18:22:53**
+Last Updated **2025-11-06 06:25:57**
+
+## 2025-11-06
+
+* [South Centre: Add value at home, close the tech gap—Gamani Corea’s agenda is more urgent than ever](data/articles/south-centre-add-value-a.ec9c18a6/README.md) `ft.lk`
+* [Black state, Anura’s drug war, Cuba’s UN victory over US](data/articles/black-state-anura-s-drug.2539ffaf/README.md) `ft.lk`
+* [Taxation and silent killing of local industries](data/articles/taxation-and-silent-kill.ac4dfcb7/README.md) `ft.lk`
+* [Sri Lanka’s 2026 Budget: Defining moment for stability, growth, and confidence](data/articles/sri-lanka-s-2026-budget.cfa2d9b3/README.md) `ft.lk`
+* [The education Budget: a pre-Budget exploration](data/articles/the-education-budget-a-p.4c9ebf20/README.md) `ft.lk`
 
 ## 2025-11-05
 
