@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-06 06:25:57**
+Last Updated **2025-11-06 18:22:58**
 
 ## 2025-11-06
 
+* [Stop worrying about your AI footprint. Look at the big picture instead.](data/articles/stop-worrying-about-your.d52c8e0b/README.md) `technologyreview.com`
 * [South Centre: Add value at home, close the tech gap—Gamani Corea’s agenda is more urgent than ever](data/articles/south-centre-add-value-a.ec9c18a6/README.md) `ft.lk`
 * [Black state, Anura’s drug war, Cuba’s UN victory over US](data/articles/black-state-anura-s-drug.2539ffaf/README.md) `ft.lk`
 * [Taxation and silent killing of local industries](data/articles/taxation-and-silent-kill.ac4dfcb7/README.md) `ft.lk`
@@ -47,6 +48,7 @@ Last Updated **2025-11-06 06:25:57**
 
 * [NPP Government’s troubling ambivalence on Malaiyaha Tamils](data/articles/npp-government-s-troubli.2f385912/README.md) `ft.lk`
 * [Is a system change possible without a mindset change?](data/articles/is-a-system-change-possi.d063f67e/README.md) `ft.lk`
+* [Here’s the latest company planning for gene-edited babies](data/articles/here-s-the-latest-compan.f87442b6/README.md) `technologyreview.com`
 * [Why some countries prosper, whilst others continue to remain poor and in chaos](data/articles/why-some-countries-prosp.3fa5ae66/README.md) `ft.lk`
 * [Proposal for establishment of Advisory Board for revival of welding technology](data/articles/proposal-for-establishme.0c5fed77/README.md) `ft.lk`
 * [Peace – without justice in letting go of backlog?](data/articles/peace-without-justice-in.d729f8a1/README.md) `ft.lk`
