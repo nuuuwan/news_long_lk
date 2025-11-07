@@ -2,12 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-07 06:25:49**
+Last Updated **2025-11-07 18:23:08**
 
 ## 2025-11-07
 
+* [Policy challengers: Where to start?](data/articles/policy-challengers-where.7bf83c4b/README.md) `ft.lk`
+* [Sri Lanka’s Northern Gateway: Economic promise and geopolitical power in Indian Ocean](data/articles/sri-lanka-s-northern-gat.5b45336d/README.md) `ft.lk`
+* [“Mahinda Sulanga”, “Maha Jana Handa” and Nugegoda mass rallies](data/articles/mahinda-sulanga-maha-ja.fc6f2db1/README.md) `ft.lk`
 * [Beyond congestion: Urgent need to reform Colombo’s port operations](data/articles/beyond-congestion-urgent.a71c8c33/README.md) `ft.lk`
 * [Can SMEs boost exports and foreign reserves  into the stratosphere through sharper policy?](data/articles/can-smes-boost-exports-a.5709833c/README.md) `ft.lk`
+* [Cloning isn’t just for celebrity pets like Tom Brady’s dog](data/articles/cloning-isn-t-just-for-c.4465f88c/README.md) `technologyreview.com`
 
 ## 2025-11-06
 
