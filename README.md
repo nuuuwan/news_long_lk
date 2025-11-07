@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-06 18:22:58**
+Last Updated **2025-11-07 06:25:49**
+
+## 2025-11-07
+
+* [Beyond congestion: Urgent need to reform Colombo’s port operations](data/articles/beyond-congestion-urgent.a71c8c33/README.md) `ft.lk`
+* [Can SMEs boost exports and foreign reserves  into the stratosphere through sharper policy?](data/articles/can-smes-boost-exports-a.5709833c/README.md) `ft.lk`
 
 ## 2025-11-06
 
