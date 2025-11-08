@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-07 18:23:08**
+Last Updated **2025-11-08 06:25:57**
 
 ## 2025-11-07
 
+* [Can SMEs boost exports as well as foreign reserves into the stratosphere through sharper policy? (2/2)](data/articles/can-smes-boost-exports-a.338ffec6/README.md) `ft.lk`
+* [Israel and UAE: Partners in genocide](data/articles/israel-and-uae-partners.740e7ae8/README.md) `ft.lk`
+* [Kunming Biodiversity Fund approves $5.8 m in funding for FAO-led projects in SL among others](data/articles/kunming-biodiversity-fun.0c5e1d33/README.md) `ft.lk`
 * [Policy challengers: Where to start?](data/articles/policy-challengers-where.7bf83c4b/README.md) `ft.lk`
 * [Sri Lanka’s Northern Gateway: Economic promise and geopolitical power in Indian Ocean](data/articles/sri-lanka-s-northern-gat.5b45336d/README.md) `ft.lk`
 * [“Mahinda Sulanga”, “Maha Jana Handa” and Nugegoda mass rallies](data/articles/mahinda-sulanga-maha-ja.fc6f2db1/README.md) `ft.lk`
