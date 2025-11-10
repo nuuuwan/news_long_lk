@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-09 18:21:36**
+Last Updated **2025-11-10 06:26:11**
+
+## 2025-11-10
+
+* [2026 Budget: An opportunity lost?](data/articles/2026-budget-an-opportuni.622b4ec2/README.md) `ft.lk`
+* [AKD’s neo-liberal Budget 2026: Will it resolve slow growth issues quickly?](data/articles/akd-s-neo-liberal-budget.72f3c7cd/README.md) `ft.lk`
+* [International Accounting Day Walk 2025 by CA Sri Lanka](data/articles/international-accounting.1fc63a4f/README.md) `ft.lk`
+* [Boards that deliver: Embedding accountability and competence into sustainability governance](data/articles/boards-that-deliver-embe.b0aa29e6/README.md) `ft.lk`
+
+## 2025-11-09
+
+* [The State of AI: Energy is king, and the US is falling behind](data/articles/the-state-of-ai-energy-i.30f95711/README.md) `technologyreview.com`
 
 ## 2025-11-07
 
