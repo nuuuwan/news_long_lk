@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-10 06:26:11**
+Last Updated **2025-11-10 18:23:10**
 
 ## 2025-11-10
 
+* [2015 “Mahinda Sulanga” ,  2025 “Maha Jana Handa” and the  Politics of Holding  Mass Rallies at Nugegoda.](data/articles/2015-mahinda-sulanga-202.cf72d1ac/README.md) `dbsjeyaraj.com`
 * [2026 Budget: An opportunity lost?](data/articles/2026-budget-an-opportuni.622b4ec2/README.md) `ft.lk`
 * [AKD’s neo-liberal Budget 2026: Will it resolve slow growth issues quickly?](data/articles/akd-s-neo-liberal-budget.72f3c7cd/README.md) `ft.lk`
 * [International Accounting Day Walk 2025 by CA Sri Lanka](data/articles/international-accounting.1fc63a4f/README.md) `ft.lk`
