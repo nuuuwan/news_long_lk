@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-10 18:23:10**
+Last Updated **2025-11-11 06:26:17**
+
+## 2025-11-11
+
+* [Leading without trust is akin to building on quicksand](data/articles/leading-without-trust-is.ab69b14d/README.md) `ft.lk`
+* [Rebuilding from collapse: From stabilisation to transformation](data/articles/rebuilding-from-collapse.47dcd90c/README.md) `ft.lk`
+* [Beyond the facade: A strategic critique of 2026 Budget](data/articles/beyond-the-facade-a-stra.7c8ebf88/README.md) `ft.lk`
 
 ## 2025-11-10
 
+* [Silence, support, and the cost of speaking up](data/articles/silence-support-and-the.8f18de5d/README.md) `ft.lk`
+* [The State of AI: Energy is king, and the US is falling behind](data/articles/the-state-of-ai-energy-i.c5ede240/README.md) `technologyreview.com`
 * [2015 “Mahinda Sulanga” ,  2025 “Maha Jana Handa” and the  Politics of Holding  Mass Rallies at Nugegoda.](data/articles/2015-mahinda-sulanga-202.cf72d1ac/README.md) `dbsjeyaraj.com`
 * [2026 Budget: An opportunity lost?](data/articles/2026-budget-an-opportuni.622b4ec2/README.md) `ft.lk`
 * [AKD’s neo-liberal Budget 2026: Will it resolve slow growth issues quickly?](data/articles/akd-s-neo-liberal-budget.72f3c7cd/README.md) `ft.lk`
@@ -40,6 +48,7 @@ Last Updated **2025-11-10 18:23:10**
 
 ## 2025-11-05
 
+* [A new ion-based quantum computer makes error correction simpler](data/articles/a-new-ion-based-quantum.b3e9c719/README.md) `technologyreview.com`
 * [China’s stability, a blessing for the world](data/articles/china-s-stability-a-bles.78e02a09/README.md) `ft.lk`
 * [Trump’s deceptive peace plan](data/articles/trump-s-deceptive-peace.15f65eaf/README.md) `ft.lk`
 * [Prisoners of imagined histories](data/articles/prisoners-of-imagined-hi.cc6a545f/README.md) `ft.lk`
