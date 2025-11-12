@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-11 18:23:05**
+Last Updated **2025-11-12 06:25:54**
+
+## 2025-11-12
+
+* [2026 a growth Budget for Sri Lanka?](data/articles/2026-a-growth-budget-for.b7773d66/README.md) `ft.lk`
+* [2026 Budget: Well balanced between economic  growth and development](data/articles/2026-budget-well-balance.44ed0151/README.md) `ft.lk`
 
 ## 2025-11-11
 
