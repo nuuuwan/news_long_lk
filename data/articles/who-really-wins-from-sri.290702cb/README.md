@@ -1,0 +1,42 @@
+# Who really wins from Sri Lanka’s vehicle loan boom?
+
+[https://www.ft.lk/opinion/Who-really-wins-from-Sri-Lanka-s-vehicle-loan-boom/14-784256](https://www.ft.lk/opinion/Who-really-wins-from-Sri-Lanka-s-vehicle-loan-boom/14-784256)
+
+*06:22 AM, Thursday, November 13, 2025*
+
+The Central Bank’s latest report reveals that Rs. 1.16 trillion in vehicle-backed loans were issued in just the first six months of 2025—an astonishing 63% of total lending by Licensed Finance Companies. On the surface, this looks like a sign of recovery. Pent-up demand has finally been released after years of import restrictions. Government revenue has improved, and auto sector activity has revived.
+
+But beneath this celebratory headline lies a troubling question:
+
+Are we once again fuelling consumption with debt, instead of funding growth?
+
+In the past, Sri Lanka’s foreign exchange crisis was triggered partly by excessive reliance on imported, non-productive consumption goods—vehicles being the most notable example. Now, scarce credit and foreign reserves are again being
+
+funnelled into the same pattern.
+
+From a national economic standpoint, the risks are clear:
+
+nHigher foreign currency leakage — over $ 1.5 billion payments expected for vehicle imports this year
+
+nWorsening trade deficit — more pressure on already fragile external stability
+
+nReduced credit to productive sectors — exports, SMEs, local manufacturing pushed aside
+
+nInflation and fuel demand spike — as more imported vehicles hit congested roads
+
+nRising household debt burden — future consumption and financial resilience weakened
+
+And what about the borrowers who are being tempted by easy leasing and promotional offers?
+
+A vehicle is not an appreciating asset—it loses value every day, even from the time it is rolled out of a showroom. When loan instalments stretch beyond incomes, many families risk ending up with a depreciated vehicle and a very real debt. If a future depreciation of the rupee or interest rate hike occurs, that risk becomes even more severe.
+
+So yes—government coffers are smiling today. But is this truly fiscal achievement if it is built on taxing imported cars, instead of growing our economy?
+
+Sri Lanka cannot afford another cycle where debt-driven consumption is mistaken for development. If two-thirds of lending is going into vehicles rather than value-adding to productive enterprises, we are postponing progress—not advancing it.
+
+It is time policymakers asked themselves a simple question:
+
+Are we financing mobility—or mortgaging the future?
+
+A Worried Mind - Moratuwa
+

@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-12 18:22:59**
+Last Updated **2025-11-13 06:25:47**
+
+## 2025-11-13
+
+* [Who really wins from Sri Lanka’s vehicle loan boom?](data/articles/who-really-wins-from-sri.290702cb/README.md) `ft.lk`
+* [Retaining talent: Missing link in tourism’s recovery](data/articles/retaining-talent-missing.72d793de/README.md) `ft.lk`
+* [Ephemeral wealth: Serving gig economy worker whose income disappears overnight](data/articles/ephemeral-wealth-serving.2e9722d5/README.md) `ft.lk`
 
 ## 2025-11-12
 
+* [2015 பெப்ரவரி 18  ஆம் தகதி  நுகேகொடையில் நடைபெற்ற “மகிந்த காற்று “(Mahinda Sulanga)பேரணியும், 2025 நவம்பர் 21 ஆம் திகதி நடத்தப்படவிருக்கும் “மக்கள் குரல்”(Maha Jana Handa) நுகேகொடை பேரணியும் முற்றிலும் வேறுபட்டவை](data/articles/2015-ப-ப-ரவர-18-ஆம-தகத-ந.12de6295/README.md) `dbsjeyaraj.com`
 * [2026 a growth Budget for Sri Lanka?](data/articles/2026-a-growth-budget-for.b7773d66/README.md) `ft.lk`
 * [2026 Budget: Well balanced between economic  growth and development](data/articles/2026-budget-well-balance.44ed0151/README.md) `ft.lk`
 
