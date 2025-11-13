@@ -2,12 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-13 06:25:47**
+Last Updated **2025-11-13 18:23:23**
 
 ## 2025-11-13
 
+* [Anura suspends social and ethnic contracts; Mamdani presents new socialism](data/articles/anura-suspends-social-an.2abf43bf/README.md) `ft.lk`
+* [Reforming our Constitution: Getting basics right first](data/articles/reforming-our-constituti.56652336/README.md) `ft.lk`
 * [Who really wins from Sri Lanka’s vehicle loan boom?](data/articles/who-really-wins-from-sri.290702cb/README.md) `ft.lk`
 * [Retaining talent: Missing link in tourism’s recovery](data/articles/retaining-talent-missing.72d793de/README.md) `ft.lk`
+* [Google is still aiming for its “moonshot” 2030 energy goals](data/articles/google-is-still-aiming-f.f151f40e/README.md) `technologyreview.com`
 * [Ephemeral wealth: Serving gig economy worker whose income disappears overnight](data/articles/ephemeral-wealth-serving.2e9722d5/README.md) `ft.lk`
 
 ## 2025-11-12
