@@ -1,0 +1,32 @@
+# “Justice for All”wants Govt  to make public the report and draft Bill Submitted to the  Justice Minister by the Committee appointed to draft the Act to repeal the Prevention of Terrorism Act
+
+[https://dbsjeyaraj.com/dbsj/?p=86615](https://dbsjeyaraj.com/dbsj/?p=86615)
+
+*01:11 AM, Friday, November 14, 2025*
+
+(Text of Press Release Issued by “Justice for all” on 14 November 2025)
+
+We have seen news reports that the Committee appointed to draft the Act to repeal the Prevention of Terrorism Act handed over its report and the draft bill to the Minister of Justice.
+
+The Prevention of Terrorism Temporary Provisions Act No. 48 of 1979 has universally been regarded as a draconian piece of legislation that must be taken off from the statute books for quite a long time now. Justice for All has always consistently advocated for the complete repeal of the PTA.
+
+The NPP Election Manifesto also promises to repeal the same. We are hopeful that the new draft bill will fully reflect this promise.
+
+We call upon the government, and the Minister of Justice in particular, to make public the said report and the draft bill.
+
+1.	Prof. Jayadeva Uyangoda
+
+2.	Dr. Jayampathy Wickramaratne, PC
+
+3.	Eran Wickremaratne
+
+5.	M A Sumanthiran PC
+
+6.	Shanakiyan Rasamanickam MP
+
+10.	Jerusha Crosette – Thambiah
+
+11.	Swasthika Arulingam
+
+12.	Ravinthiran Niloshan
+
