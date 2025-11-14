@@ -2,16 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-13 18:23:23**
+Last Updated **2025-11-14 06:26:18**
+
+## 2025-11-14
+
+* [2026 Budget: A balancing act between IMF program and relief](data/articles/2026-budget-a-balancing.441703c9/README.md) `ft.lk`
+* [NPP’s Budget 2026: Cautious where it should be, but not bold where it could be](data/articles/npp-s-budget-2026-cautio.1081b394/README.md) `ft.lk`
+* [Sri Lanka’s digital crossroads: Why coherent crypto framework is now policy imperative](data/articles/sri-lanka-s-digital-cros.5d10fdf5/README.md) `ft.lk`
+* [Deepfakes, disinformation, and defiance](data/articles/deepfakes-disinformation.c75454e0/README.md) `ft.lk`
 
 ## 2025-11-13
 
+* [OpenAI’s new LLM exposes the secrets of how AI really works](data/articles/openai-s-new-llm-exposes.d54767bc/README.md) `technologyreview.com`
 * [Anura suspends social and ethnic contracts; Mamdani presents new socialism](data/articles/anura-suspends-social-an.2abf43bf/README.md) `ft.lk`
 * [Reforming our Constitution: Getting basics right first](data/articles/reforming-our-constituti.56652336/README.md) `ft.lk`
 * [Who really wins from Sri Lanka’s vehicle loan boom?](data/articles/who-really-wins-from-sri.290702cb/README.md) `ft.lk`
 * [Retaining talent: Missing link in tourism’s recovery](data/articles/retaining-talent-missing.72d793de/README.md) `ft.lk`
 * [Google is still aiming for its “moonshot” 2030 energy goals](data/articles/google-is-still-aiming-f.f151f40e/README.md) `technologyreview.com`
 * [Ephemeral wealth: Serving gig economy worker whose income disappears overnight](data/articles/ephemeral-wealth-serving.2e9722d5/README.md) `ft.lk`
+* [Southern Skylark Susheela Soars  To ‘Record’ Heights In  Singing  Film Songs ♫♥](data/articles/southern-skylark-susheel.f1099186/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-12
 
@@ -51,6 +60,7 @@ Last Updated **2025-11-13 18:23:23**
 * [Beyond congestion: Urgent need to reform Colombo’s port operations](data/articles/beyond-congestion-urgent.a71c8c33/README.md) `ft.lk`
 * [Can SMEs boost exports and foreign reserves  into the stratosphere through sharper policy?](data/articles/can-smes-boost-exports-a.5709833c/README.md) `ft.lk`
 * [Cloning isn’t just for celebrity pets like Tom Brady’s dog](data/articles/cloning-isn-t-just-for-c.4465f88c/README.md) `technologyreview.com`
+* [The first new subsea habitat in 40 years is about to launch](data/articles/the-first-new-subsea-hab.f10b8445/README.md) `technologyreview.com`
 
 ## 2025-11-06
 
