@@ -2,14 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-14 18:23:04**
+Last Updated **2025-11-15 06:26:04**
 
 ## 2025-11-14
 
+* [New York goes Left](data/articles/new-york-goes-left.2eac2d6c/README.md) `ft.lk`
+* [China’s poverty reduction story: A magnificent chapter in global development](data/articles/china-s-poverty-reductio.bac6d24a/README.md) `ft.lk`
+* [US policies driving India-China closer, create new avenues for developing nations](data/articles/us-policies-driving-indi.00234ab0/README.md) `ft.lk`
+* [Govt: from an arrogant incompetence  to a quite charming amateurishness?](data/articles/govt-from-an-arrogant-in.f1d819a1/README.md) `ft.lk`
+* [The shifting landscape of global extremism: From retreat to reinvention](data/articles/the-shifting-landscape-o.19698b67/README.md) `ft.lk`
 * [Why insurance industry must step out of the box](data/articles/why-insurance-industry-m.913d1e94/README.md) `ft.lk`
 * [Budget 2026: Reform with fairness — A vision for stability, trust, and growth](data/articles/budget-2026-reform-with.f0e7a7ed/README.md) `ft.lk`
 * [2026 Budget: A balancing act between IMF program and relief](data/articles/2026-budget-a-balancing.441703c9/README.md) `ft.lk`
 * [NPP’s Budget 2026: Cautious where it should be, but not bold where it could be](data/articles/npp-s-budget-2026-cautio.1081b394/README.md) `ft.lk`
+* [How a Transparent Company Culture Strengthens Cybersecurity and Data Resilience](data/articles/how-a-transparent-compan.34f2ab72/README.md) `hbr.org`
 * [Sri Lanka’s digital crossroads: Why coherent crypto framework is now policy imperative](data/articles/sri-lanka-s-digital-cros.5d10fdf5/README.md) `ft.lk`
 * [Deepfakes, disinformation, and defiance](data/articles/deepfakes-disinformation.c75454e0/README.md) `ft.lk`
 * [These technologies could help put a stop to animal testing](data/articles/these-technologies-could.6c3931a7/README.md) `technologyreview.com`
