@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-15 18:22:39**
+Last Updated **2025-11-16 06:26:06**
+
+## 2025-11-15
+
+* [Mahinda Rajapaksa at 80; Demonised by Opponents and Deified by Supporters.](data/articles/mahinda-rajapaksa-at-80.8b571eb9/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-14
 
