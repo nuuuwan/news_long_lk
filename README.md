@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-16 18:21:43**
+Last Updated **2025-11-17 06:25:42**
+
+## 2025-11-17
+
+* [JVP/NPP Govt. abusing public funds for political advantage](data/articles/jvp-npp-govt-abusing-pub.2fcfd0a6/README.md) `ft.lk`
+* [Throwing good taxpayer money after bad](data/articles/throwing-good-taxpayer-m.d16af7b4/README.md) `ft.lk`
+* [Removing trading activities from VAT and limiting SSCL only to non-VAT registrants](data/articles/removing-trading-activit.b55e9a9d/README.md) `ft.lk`
+* [Healing founder’s rift: Turning family conflict into lasting continuity](data/articles/healing-founder-s-rift-t.8b81caa0/README.md) `ft.lk`
 
 ## 2025-11-15
 
