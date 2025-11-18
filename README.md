@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-18 06:25:43**
+Last Updated **2025-11-18 18:22:55**
 
 ## 2025-11-18
 
 * [Dismantling the case against decent wages in tea plantations](data/articles/dismantling-the-case-aga.1840f406/README.md) `ft.lk`
 * [Rebuilding nation on rails:  Eng. Rampala Memorial Oration calls for bold railway reforms](data/articles/rebuilding-nation-on-rai.876e3e81/README.md) `ft.lk`
 * [Unlocking economic constraints through Oil Palm cultivation](data/articles/unlocking-economic-const.6e5774b7/README.md) `ft.lk`
+* [Unlocking economic constraints through Oil Palm cultivation](data/articles/unlocking-economic-const.9b46ab6f/README.md) `ft.lk`
 * [Smallholders locked out, imports locked in: The case to end Palm Oil ban](data/articles/smallholders-locked-out.3ce2ae6d/README.md) `ft.lk`
+* [“Kaadhal Mannan” Gemini Ganesan: On- screen Romancer and Off-screen Casanova.](data/articles/kaadhal-mannan-gemini-g.dede59db/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-17
 
@@ -19,6 +21,7 @@ Last Updated **2025-11-18 06:25:43**
 * [Throwing good taxpayer money after bad](data/articles/throwing-good-taxpayer-m.d16af7b4/README.md) `ft.lk`
 * [Removing trading activities from VAT and limiting SSCL only to non-VAT registrants](data/articles/removing-trading-activit.b55e9a9d/README.md) `ft.lk`
 * [Healing founder’s rift: Turning family conflict into lasting continuity](data/articles/healing-founder-s-rift-t.8b81caa0/README.md) `ft.lk`
+* [What is the chance your plane will be hit by space debris?](data/articles/what-is-the-chance-your.c81490a8/README.md) `technologyreview.com`
 
 ## 2025-11-16
 
