@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-17 18:22:54**
+Last Updated **2025-11-18 06:25:43**
+
+## 2025-11-18
+
+* [Dismantling the case against decent wages in tea plantations](data/articles/dismantling-the-case-aga.1840f406/README.md) `ft.lk`
+* [Rebuilding nation on rails:  Eng. Rampala Memorial Oration calls for bold railway reforms](data/articles/rebuilding-nation-on-rai.876e3e81/README.md) `ft.lk`
+* [Unlocking economic constraints through Oil Palm cultivation](data/articles/unlocking-economic-const.6e5774b7/README.md) `ft.lk`
+* [Smallholders locked out, imports locked in: The case to end Palm Oil ban](data/articles/smallholders-locked-out.3ce2ae6d/README.md) `ft.lk`
 
 ## 2025-11-17
 
+* [The State of AI: How war will be changed forever](data/articles/the-state-of-ai-how-war.56370cc3/README.md) `technologyreview.com`
 * [War against polythene: Recycling is the  best long run solution](data/articles/war-against-polythene-re.e58c214f/README.md) `ft.lk`
 * [JVP/NPP Govt. abusing public funds for political advantage](data/articles/jvp-npp-govt-abusing-pub.2fcfd0a6/README.md) `ft.lk`
 * [Throwing good taxpayer money after bad](data/articles/throwing-good-taxpayer-m.d16af7b4/README.md) `ft.lk`
