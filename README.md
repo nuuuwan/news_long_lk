@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-19 06:33:41**
+Last Updated **2025-11-19 18:23:14**
 
 ## 2025-11-19
 
@@ -14,6 +14,7 @@ Last Updated **2025-11-19 06:33:41**
 
 ## 2025-11-18
 
+* [Google’s new Gemini 3 “vibe-codes” responses and comes with its own agent](data/articles/google-s-new-gemini-3-vi.75539fbe/README.md) `technologyreview.com`
 * [Dismantling the case against decent wages in tea plantations](data/articles/dismantling-the-case-aga.1840f406/README.md) `ft.lk`
 * [Rebuilding nation on rails:  Eng. Rampala Memorial Oration calls for bold railway reforms](data/articles/rebuilding-nation-on-rai.876e3e81/README.md) `ft.lk`
 * [Unlocking economic constraints through Oil Palm cultivation](data/articles/unlocking-economic-const.6e5774b7/README.md) `ft.lk`
