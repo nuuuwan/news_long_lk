@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-18 18:22:55**
+Last Updated **2025-11-19 06:33:41**
+
+## 2025-11-19
+
+* [Communist Party on Budget 2026 says ‘technocratic continuity in populist garb’](data/articles/communist-party-on-budge.14441e8c/README.md) `ft.lk`
+* [Open letter to AKD on Budget 2026, investments and growth optimisation](data/articles/open-letter-to-akd-on-bu.9fd16e82/README.md) `ft.lk`
+* [Kachchativu: Time for fresh perspective](data/articles/kachchativu-time-for-fre.62390df6/README.md) `ft.lk`
+* [The National Budget is IMF influenced, so what? Do we have a choice?](data/articles/the-national-budget-is-i.d3e27ed1/README.md) `ft.lk`
+* [50 years of nourishing a nation: How Bairaha defined Sri Lanka’s poultry industry](data/articles/50-years-of-nourishing-a.25bdab66/README.md) `ft.lk`
 
 ## 2025-11-18
 
@@ -51,6 +59,7 @@ Last Updated **2025-11-18 18:22:55**
 ## 2025-11-13
 
 * [OpenAI’s new LLM exposes the secrets of how AI really works](data/articles/openai-s-new-llm-exposes.d54767bc/README.md) `technologyreview.com`
+* [Google DeepMind is using Gemini to train agents inside Goat Simulator 3](data/articles/google-deepmind-is-using.17c1f523/README.md) `technologyreview.com`
 * [Anura suspends social and ethnic contracts; Mamdani presents new socialism](data/articles/anura-suspends-social-an.2abf43bf/README.md) `ft.lk`
 * [Reforming our Constitution: Getting basics right first](data/articles/reforming-our-constituti.56652336/README.md) `ft.lk`
 * [Who really wins from Sri Lanka’s vehicle loan boom?](data/articles/who-really-wins-from-sri.290702cb/README.md) `ft.lk`
