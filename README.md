@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-20 06:25:54**
+Last Updated **2025-11-20 18:23:01**
 
 ## 2025-11-20
 
@@ -17,6 +17,7 @@ Last Updated **2025-11-20 06:25:54**
 * [How Data Centers Can Support Energy Resiliency While Managing AI Demand](data/articles/how-data-centers-can-sup.42ac661f/README.md) `hbr.org`
 * [The Saudi FDA’s Innovative Strategies for Leading Regional and Global Food Safety](data/articles/the-saudi-fda-s-innovati.9bd16d5b/README.md) `hbr.org`
 * [“Mahinda Gamana”:  Mahinda Rajapaksa’s Political Journey  Spanning Over  50 Years.](data/articles/mahinda-gamana-mahinda.494a82f1/README.md) `dbsjeyaraj.com`
+* [Quantum physicists have shrunk and “de-censored” DeepSeek R1](data/articles/quantum-physicists-have.add18a1f/README.md) `technologyreview.com`
 * [Communist Party on Budget 2026 says ‘technocratic continuity in populist garb’](data/articles/communist-party-on-budge.14441e8c/README.md) `ft.lk`
 * [Open letter to AKD on Budget 2026, investments and growth optimisation](data/articles/open-letter-to-akd-on-bu.9fd16e82/README.md) `ft.lk`
 * [Kachchativu: Time for fresh perspective](data/articles/kachchativu-time-for-fre.62390df6/README.md) `ft.lk`
