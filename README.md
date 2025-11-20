@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-19 18:23:14**
+Last Updated **2025-11-20 06:25:54**
+
+## 2025-11-20
+
+* [Level playing field for Maize: Securing future of poultry industry](data/articles/level-playing-field-for.4591baa9/README.md) `ft.lk`
+* [Oman exploring avenues to deepen economic ties with Sri Lanka](data/articles/oman-exploring-avenues-t.a51dd0db/README.md) `ft.lk`
+* [Budget and inclusive development](data/articles/budget-and-inclusive-dev.ae4e2633/README.md) `ft.lk`
+* [JVP-FSP contestation, Sajith and 13A, Mahinda Rajapaksa in history](data/articles/jvp-fsp-contestation-saj.f85a18ec/README.md) `ft.lk`
 
 ## 2025-11-19
 
+* [Sri Lanka’s PPP, SOE reforms  ambitious and transformative - Deloitte](data/articles/sri-lanka-s-ppp-soe-refo.135025a6/README.md) `ft.lk`
+* [How Data Centers Can Support Energy Resiliency While Managing AI Demand](data/articles/how-data-centers-can-sup.42ac661f/README.md) `hbr.org`
+* [The Saudi FDA’s Innovative Strategies for Leading Regional and Global Food Safety](data/articles/the-saudi-fda-s-innovati.9bd16d5b/README.md) `hbr.org`
+* [“Mahinda Gamana”:  Mahinda Rajapaksa’s Political Journey  Spanning Over  50 Years.](data/articles/mahinda-gamana-mahinda.494a82f1/README.md) `dbsjeyaraj.com`
 * [Communist Party on Budget 2026 says ‘technocratic continuity in populist garb’](data/articles/communist-party-on-budge.14441e8c/README.md) `ft.lk`
 * [Open letter to AKD on Budget 2026, investments and growth optimisation](data/articles/open-letter-to-akd-on-bu.9fd16e82/README.md) `ft.lk`
 * [Kachchativu: Time for fresh perspective](data/articles/kachchativu-time-for-fre.62390df6/README.md) `ft.lk`
