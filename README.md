@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-20 18:23:01**
+Last Updated **2025-11-21 06:25:42**
+
+## 2025-11-21
+
+* [Rallying between a new will to power  and the apathy of the powers that be](data/articles/rallying-between-a-new-w.2041297d/README.md) `ft.lk`
+* [Choosing our dance partners: An impact-investment playbook for Sri Lanka’s next tourism chapter](data/articles/choosing-our-dance-partn.4cb0508c/README.md) `ft.lk`
+* [Jeevan Thondaman loses his ‘Eligible Bachelor’ status on 23 November](data/articles/jeevan-thondaman-loses-h.19c497df/README.md) `ft.lk`
+* [The crime after the crime](data/articles/the-crime-after-the-crim.8cde4254/README.md) `ft.lk`
+* [Not everyone who dies by suicide is depressed](data/articles/not-everyone-who-dies-by.3c765270/README.md) `ft.lk`
 
 ## 2025-11-20
 
+* [Roundtables: Surviving the New Age of Conspiracies](data/articles/roundtables-surviving-th.664f714a/README.md) `technologyreview.com`
 * [Level playing field for Maize: Securing future of poultry industry](data/articles/level-playing-field-for.4591baa9/README.md) `ft.lk`
 * [Oman exploring avenues to deepen economic ties with Sri Lanka](data/articles/oman-exploring-avenues-t.a51dd0db/README.md) `ft.lk`
 * [Budget and inclusive development](data/articles/budget-and-inclusive-dev.ae4e2633/README.md) `ft.lk`
