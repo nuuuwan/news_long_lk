@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-21 06:25:42**
+Last Updated **2025-11-21 18:23:04**
 
 ## 2025-11-21
 
+* [We’re learning more about what vitamin D does to our bodies](data/articles/we-re-learning-more-abou.fec18005/README.md) `technologyreview.com`
 * [Rallying between a new will to power  and the apathy of the powers that be](data/articles/rallying-between-a-new-w.2041297d/README.md) `ft.lk`
 * [Choosing our dance partners: An impact-investment playbook for Sri Lanka’s next tourism chapter](data/articles/choosing-our-dance-partn.4cb0508c/README.md) `ft.lk`
 * [Jeevan Thondaman loses his ‘Eligible Bachelor’ status on 23 November](data/articles/jeevan-thondaman-loses-h.19c497df/README.md) `ft.lk`
@@ -14,6 +15,8 @@ Last Updated **2025-11-21 06:25:42**
 
 ## 2025-11-20
 
+* [“Govt believes longstanding issues faced by the people of the Northern and Eastern Provinces can no longer be addressed through outdated political solutions”-President Dissanayake Tells ITAK Delegation](data/articles/govt-believes-longstand.5058e1e1/README.md) `dbsjeyaraj.com`
+* [President AK Dissanayake Tells ITAK  that  Elections to the Provincial Councils Would be held without Further Delay Withut Providig a Timeline for Polls; AKD says  Talks on Proposed new Constitution would start  in January 2026](data/articles/president-ak-dissanayake.b139c460/README.md) `dbsjeyaraj.com`
 * [Roundtables: Surviving the New Age of Conspiracies](data/articles/roundtables-surviving-th.664f714a/README.md) `technologyreview.com`
 * [Level playing field for Maize: Securing future of poultry industry](data/articles/level-playing-field-for.4591baa9/README.md) `ft.lk`
 * [Oman exploring avenues to deepen economic ties with Sri Lanka](data/articles/oman-exploring-avenues-t.a51dd0db/README.md) `ft.lk`
