@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-21 18:23:04**
+Last Updated **2025-11-22 06:25:39**
 
 ## 2025-11-21
 
+* [Is the Online Safety Act an unnecessary piece of law?](data/articles/is-the-online-safety-act.66eee65c/README.md) `ft.lk`
+* [Mrs J – the students are in the library](data/articles/mrs-j-the-students-are-i.8720da1c/README.md) `ft.lk`
+* [The Bhagawan Sri Sathya Sai Baba’s mission – ‘Serve the Mankind’](data/articles/the-bhagawan-sri-sathya.59501dc0/README.md) `ft.lk`
+* [How survivor-centred tech solutions can reduce digital violence](data/articles/how-survivor-centred-tec.0ad6cdc2/README.md) `ft.lk`
 * [We’re learning more about what vitamin D does to our bodies](data/articles/we-re-learning-more-abou.fec18005/README.md) `technologyreview.com`
 * [Rallying between a new will to power  and the apathy of the powers that be](data/articles/rallying-between-a-new-w.2041297d/README.md) `ft.lk`
 * [Choosing our dance partners: An impact-investment playbook for Sri Lanka’s next tourism chapter](data/articles/choosing-our-dance-partn.4cb0508c/README.md) `ft.lk`
