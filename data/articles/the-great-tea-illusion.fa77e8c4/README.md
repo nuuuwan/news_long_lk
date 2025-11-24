@@ -1,0 +1,146 @@
+# The great tea illusion
+
+[https://www.ft.lk/columns/The-great-tea-illusion/4-784719](https://www.ft.lk/columns/The-great-tea-illusion/4-784719)
+
+*04:23 AM, Monday, November 24, 2025*
+
+Some believe that all it would take to restore Ceylon Tea to its old glory is better management, stronger policy, or a return to past values. That is comforting — but fundamentally untrue. A genuine revival would require: Massive capital investment, with no returns for at least a decade; A trained labour force, available daily, the year-round; Replanting 90% of the extent over a ten-year horizon, replacing much of the existing tea; Expert and meticulous agricultural supervision. None of these preconditions exist today.
+
+How we lost an industry and didn’t notice
+
+For more than a century, Ceylon Tea was not just an export crop. It was the main foreign exchange earner of the nation — a national inheritance left behind by British planters who, whatever one may say of colonial exploitation, built an industrial and managerial system of extraordinary discipline. They also did something rarely acknowledged today: they trained Ceylonese planters and superintendents to run those estates with the same precision and discipline when the British eventually departed.
+
+After independence, and through the early years of nationalisation, these Sri Lankan planters maintained excellent agricultural standards, meticulous field supervision, and efficient manufacturing. Standards remained high even as costs rose through wage hikes, because these managers understood — as their teachers had — that the industry’s success depended on uncompromising discipline from leaf to auction.
+
+Yet today, the same plantation sector that once fed our economy has collapsed to a shadow of its former self. And the most remarkable part is this: Sri Lanka has lost more than half its plantation tea output in thirty years — and as a nation, we barely noticed.
+
+A decline hidden in plain sight
+
+When the Regional Plantation Companies (RPCs) took over estate management in the early 1990s, the plantation sector was producing around 160,000 metric tons of tea. Last year, that same sector produced around 66,000 metric tons. This is not a mild decline. It is a structural collapse.
+
+So why is the country not alarmed?
+
+Because the fall in RPC production has been masked by the rise of tea smallholders, who expanded their output and kept Sri Lanka’s total annual production near the 250,000 metric ton mark. (In 1995, the total national output was 246,000 MT.)
+
+The national figure stayed stable, and the illusion of a functioning plantation sector remained intact.
+
+The RPC profit paradox
+
+If production has fallen so dramatically, how is it that several plantation companies recorded billion-rupee profits and paid handsome dividends and bonuses?
+
+The uncomfortable answer is this:
+
+These profits were not earned by strengthening the estates — but by extracting value from a dying asset.
+
+To control their Cost of Production (COP), RPCs reduced their resident workforce through golden handshakes and strict no-recruitment policies. The average age of an estate worker today is well above 45, and the sector has no young labour force willing to take up field work.
+
+To compensate, many companies outsourced plucking, resulting in what any old-school planter would call unacceptable harvesting standards. The once-famous “two leaves and a bud” became three, four, or five leaves — often without a bud at all. The raw material deteriorated, and so did the output.
+
+Other consequences followed:
+
+Weed control is almost nonexistent. Many fields lie under a carpet of weeds.
+
+Fertiliser application is inadequate, and bushes cannot absorb nutrients effectively because the tea has to compete with the weeds.
+
+Diseases such as livewood termite, shot-hole borer, and eelworm are common and can wipe out 30% of yield.
+
+The old seedling fields that had about 3,500 bushes per acre now have now only 1,500 bushes or less , due to dieback and disease.
+
+Estate roads — once strictly maintained for rapid leaf transport — are in an advanced state of disrepair.
+
+Factories have closed, some abandoned entirely, others operating in a dangerous, deteriorated condition.
+
+And yet profits continue in the billions as no money is spent on development or an good agriculture — resulting in a slow decline in production.
+
+They are being harvested down to the roots.
+
+The fall in RPC production has been masked by the rise of tea smallholders, who expanded their output and kept Sri Lanka’s total annual production near the 250,000 metric ton mark. (In 1995, the total national output was 246,000 MT.) The national figure stayed stable, and the illusion of a functioning plantation sector remained intact. If production has fallen so dramatically, how is it that several plantation companies recorded billion-rupee profits and paid handsome dividends and bonuses?
+
+Why this cannot be reversed
+
+Some believe that all it would take to restore Ceylon Tea to its old glory is better management, stronger policy, or a return to past values. That is comforting — but fundamentally untrue.
+
+A genuine revival would require:
+
+Massive capital investment, with no returns for at least a decade
+
+A trained labor force, available daily, the year-round
+
+Replanting 90% of the extent over a ten-year horizon, replacing much of the existing tea
+
+Expert and meticulous agricultural supervision
+
+None of these preconditions exist today.
+
+Even if wages were raised substantially, there are not enough workers willing to return to estate labor. Training new workers requires experienced trainers, whose knowledge is already disappearing. And in a world of lower-cost producers — Kenya, India, Vietnam — who will invest billions in an uncertain recovery?
+
+The old plantation system depended on structural advantages that no longer exist:
+
+cheap land, cheap labour, trained workers, reliable reinvestment, and a stable export market.
+
+Those conditions are gone. Permanently.
+
+A reckoning long avoided
+
+Successive governments must answer for this outcome. The decline did not occur out of sight. It occurred in silence. Policymakers saw shareholder returns, tax receipts, and export totals and assumed the model remained intact.
+
+It was being slowly dismantled.
+
+Sri Lanka did not manage an agricultural sector.
+
+It presided over a long liquidation — an asset stripped in slow motion.
+
+The country now requires, at minimum:
+
+A public accounting of plantation asset conditions
+
+A parliamentary review of RPC performance obligations
+
+Transparency on replanting and reinvestment
+
+A national disclosure on factory closures and yield decline
+
+The numbers must finally be brought into the light.
+
+The plantation sector that once fed our economy has collapsed to a shadow of its former self. And the most remarkable part is this: Sri Lanka has lost more than half its plantation tea output in thirty years — and as a nation, we barely noticed
+
+Even if wages were raised substantially, there are not enough workers willing to return to estate labour. Training new workers requires experienced trainers, whose knowledge is already disappearing. And in a world of lower-cost producers — Kenya, India, Vietnam — who will invest billions in an uncertain recovery?
+
+The strategic pivot Sri Lanka must make
+
+If the best years of large-estate tea are behind us, what then?
+
+Sri Lanka must shift from the illusion of commodity revival to value-driven, specialty-based tea economics, where smallholders and artisanal producers have already demonstrated potential. Equally, we must look beyond tea to new sectors — technology, services, tourism, renewable energy — rather than pretending one plantation crop will carry us into the future.
+
+perspective, coffee could also be
+
+reconsidered as a partial replacement crop. It requires far less labour, and coffee was successfully cultivated here as far back as the 18th century.
+
+The illusion ends here
+
+Ceylon Tea earned this nation foreign exchange, identity, and pride. But today we stand in a new century, in a new world. The industry’s decline is not a temporary misfortune. It is a structural reality.
+
+The sooner we stop romanticising what cannot be restored, the sooner we can build what might still succeed.
+
+The great tea estates will not return to their pristine glory. But Sri Lanka’s future can still be prosperous — if we finally choose to see what is right before us.
+
+Points to remember and digest
+
+1) Sri Lanka lost more than half its plantation tea output — and the nation barely noticed.
+
+2) The RPC era did not rehabilitate the estates — it harvested a dying asset.
+
+3) Profits rose while factories closed, bushes died, and yields collapsed.
+
+4) This is not mismanagement. It is long-term decapitalisation disguised as success.
+
+5) The average estate worker is over 45. No new generation is waiting to replace them.
+
+6) Ceylon Tea did not “decline.” We dismantled it — systematically, silently, avoidably.
+
+7) No revival is possible when the labor force, capital, and expertise no longer exist.
+
+8) The great estates are gone. What remains is the choice: keep pretending, or face the truth.
+
+(The author is a Former Chairman, State Plantations Board II; Director, Board VI; CEO of Kelani Valley Plantations PLC, Senior Visiting Agent, Senior Superintendent and Advisor to the Ministry of Plantation Industries (2016–2018). He could be reached via email at [email protected])
+

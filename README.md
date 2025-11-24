@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-23 18:21:02**
+Last Updated **2025-11-24 06:26:36**
+
+## 2025-11-24
+
+* [The great tea illusion](data/articles/the-great-tea-illusion.fa77e8c4/README.md) `ft.lk`
+* [Rewarding the harvest: Why Sri Lanka must shift from input subsidies to output incentives](data/articles/rewarding-the-harvest-wh.c970f2e1/README.md) `ft.lk`
+* [Beware of the newest cyber scam: Pig Butchering](data/articles/beware-of-the-newest-cyb.3ae38fbb/README.md) `ft.lk`
+* [Time to bury the “6% of GDP for Education” slogan and manage with 2%](data/articles/time-to-bury-the-6-of-gd.86f6b2da/README.md) `ft.lk`
+
+## 2025-11-23
+
+* [JEEVAN WEDS SEETHAI](data/articles/jeevan-weds-seethai.5304bac1/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-21
 
