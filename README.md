@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-24 06:26:36**
+Last Updated **2025-11-24 18:23:07**
 
 ## 2025-11-24
 
@@ -13,6 +13,7 @@ Last Updated **2025-11-24 06:26:36**
 
 ## 2025-11-23
 
+* [When the left fails to provide sufficient respite to “the tired, the poor, the hungry”, they can be receptive to the  populist right.In Sri Lanka, the populist right uses the monks of the “Rajapaksa Nikaya” as flamethrowers and Buddha statues are their weapons of choice.](data/articles/when-the-left-fails-to-p.80b5bdc4/README.md) `dbsjeyaraj.com`
 * [JEEVAN WEDS SEETHAI](data/articles/jeevan-weds-seethai.5304bac1/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-21
