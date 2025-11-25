@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-25 06:25:58**
+Last Updated **2025-11-25 18:23:01**
 
 ## 2025-11-25
 
+* [ஜீவன் — சீதை திருமணம்: தமிழ்நாடு  சிவகக்கை மாவட்டத்தின் திருப்பத்தூரில் நவம்பர் 23  காலை , கெட்டிமேளம் முழங்க ஜீவன் குமாரவேல் தொண்டமான்,   சீதை ஸ்ரீ நாச்சியார் இராமேஸ்வரனின் கழுத்தில் தாலியைக் கட்டினார்.](data/articles/ஜ-வன-ச-த-த-ர-மணம-தம-ழ-ந.e5b6ae9e/README.md) `dbsjeyaraj.com`
 * [SriLankan Airlines: Time to get Govt. out of cockpit](data/articles/srilankan-airlines-time.8694e53d/README.md) `ft.lk`
 * [Scaling up energy transition in Asia and Pacific](data/articles/scaling-up-energy-transi.07ad73db/README.md) `ft.lk`
 * [Power sector reform: Turning setbacks into sustainable opportunity](data/articles/power-sector-reform-turn.2de1cb7f/README.md) `ft.lk`
@@ -16,6 +17,7 @@ Last Updated **2025-11-25 06:25:58**
 * [What if you log in one day, only to find out your life no longer belongs to you?](data/articles/what-if-you-log-in-one-d.e0314744/README.md) `ft.lk`
 * [](data/articles/.384d2d28/README.md) `dbsjeyaraj.com`
 * [Dashing Dharmendra with his Rugges Masculinity,Playful Charm and Comic Flair was neither  the best actor nor the  biggest star in Hindi cinema  but he was the most Loved.](data/articles/dashing-dharmendra-with.9bbbb2cb/README.md) `dbsjeyaraj.com`
+* [Summoning of “Aruna”Editor -in -chief Mahinda Ileperuma  for Questioning  Under the Parliamentary Privileges Act  on 24 Nov by the CID Regarding a Front Page News Item Published on 19 Nov Condemned by Sri Lanka Working Jpurnalist Association and Free Media Movement.](data/articles/summoning-of-aruna-edito.384d2d28/README.md) `dbsjeyaraj.com`
 * [The State of AI: Chatbot companions and the future of our privacy](data/articles/the-state-of-ai-chatbot.cdf34d8c/README.md) `technologyreview.com`
 * [The great tea illusion](data/articles/the-great-tea-illusion.fa77e8c4/README.md) `ft.lk`
 * [Rewarding the harvest: Why Sri Lanka must shift from input subsidies to output incentives](data/articles/rewarding-the-harvest-wh.c970f2e1/README.md) `ft.lk`
