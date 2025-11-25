@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-24 18:23:07**
+Last Updated **2025-11-25 06:25:58**
+
+## 2025-11-25
+
+* [SriLankan Airlines: Time to get Govt. out of cockpit](data/articles/srilankan-airlines-time.8694e53d/README.md) `ft.lk`
+* [Scaling up energy transition in Asia and Pacific](data/articles/scaling-up-energy-transi.07ad73db/README.md) `ft.lk`
+* [Power sector reform: Turning setbacks into sustainable opportunity](data/articles/power-sector-reform-turn.2de1cb7f/README.md) `ft.lk`
 
 ## 2025-11-24
 
+* [Are we safe from another economic crash?](data/articles/are-we-safe-from-another.50dfcf66/README.md) `ft.lk`
+* [What if you log in one day, only to find out your life no longer belongs to you?](data/articles/what-if-you-log-in-one-d.e0314744/README.md) `ft.lk`
+* [](data/articles/.384d2d28/README.md) `dbsjeyaraj.com`
+* [Dashing Dharmendra with his Rugges Masculinity,Playful Charm and Comic Flair was neither  the best actor nor the  biggest star in Hindi cinema  but he was the most Loved.](data/articles/dashing-dharmendra-with.9bbbb2cb/README.md) `dbsjeyaraj.com`
+* [The State of AI: Chatbot companions and the future of our privacy](data/articles/the-state-of-ai-chatbot.cdf34d8c/README.md) `technologyreview.com`
 * [The great tea illusion](data/articles/the-great-tea-illusion.fa77e8c4/README.md) `ft.lk`
 * [Rewarding the harvest: Why Sri Lanka must shift from input subsidies to output incentives](data/articles/rewarding-the-harvest-wh.c970f2e1/README.md) `ft.lk`
 * [Beware of the newest cyber scam: Pig Butchering](data/articles/beware-of-the-newest-cyb.3ae38fbb/README.md) `ft.lk`
