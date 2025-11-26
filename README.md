@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-25 18:23:01**
+Last Updated **2025-11-26 06:25:54**
+
+## 2025-11-26
+
+* [Sri Lanka Customs hitting record single-day revenue: A turning point or one-off?](data/articles/sri-lanka-customs-hittin.e5b1f00f/README.md) `ft.lk`
+* [The Baby Prince’s daydream: Opposition’s empty trump cards against AKD Govt.](data/articles/the-baby-prince-s-daydre.65708af1/README.md) `ft.lk`
+* [Demographic red flags for the economy](data/articles/demographic-red-flags-fo.200fba3d/README.md) `ft.lk`
+* [FCCISL presents five strategic Budget proposals](data/articles/fccisl-presents-five-str.c1a5c558/README.md) `ft.lk`
+* [Tax professionals: The backbone of ethical tax practices](data/articles/tax-professionals-the-ba.d43138eb/README.md) `ft.lk`
 
 ## 2025-11-25
 
