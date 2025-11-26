@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-26 06:25:54**
+Last Updated **2025-11-26 18:23:36**
 
 ## 2025-11-26
 
@@ -11,6 +11,7 @@ Last Updated **2025-11-26 06:25:54**
 * [Demographic red flags for the economy](data/articles/demographic-red-flags-fo.200fba3d/README.md) `ft.lk`
 * [FCCISL presents five strategic Budget proposals](data/articles/fccisl-presents-five-str.c1a5c558/README.md) `ft.lk`
 * [Tax professionals: The backbone of ethical tax practices](data/articles/tax-professionals-the-ba.d43138eb/README.md) `ft.lk`
+* [The AI Hype Index: The people can’t get enough of AI slop](data/articles/the-ai-hype-index-the-pe.6c268cea/README.md) `technologyreview.com`
 
 ## 2025-11-25
 
@@ -56,6 +57,7 @@ Last Updated **2025-11-26 06:25:54**
 * [“Govt believes longstanding issues faced by the people of the Northern and Eastern Provinces can no longer be addressed through outdated political solutions”-President Dissanayake Tells ITAK Delegation](data/articles/govt-believes-longstand.5058e1e1/README.md) `dbsjeyaraj.com`
 * [President AK Dissanayake Tells ITAK  that  Elections to the Provincial Councils Would be held without Further Delay Withut Providig a Timeline for Polls; AKD says  Talks on Proposed new Constitution would start  in January 2026](data/articles/president-ak-dissanayake.b139c460/README.md) `dbsjeyaraj.com`
 * [Roundtables: Surviving the New Age of Conspiracies](data/articles/roundtables-surviving-th.664f714a/README.md) `technologyreview.com`
+* [Three things to know about the future of electricity](data/articles/three-things-to-know-abo.afddcfae/README.md) `technologyreview.com`
 * [Level playing field for Maize: Securing future of poultry industry](data/articles/level-playing-field-for.4591baa9/README.md) `ft.lk`
 * [Oman exploring avenues to deepen economic ties with Sri Lanka](data/articles/oman-exploring-avenues-t.a51dd0db/README.md) `ft.lk`
 * [Budget and inclusive development](data/articles/budget-and-inclusive-dev.ae4e2633/README.md) `ft.lk`
