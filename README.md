@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-26 18:23:36**
+Last Updated **2025-11-27 06:25:46**
+
+## 2025-11-27
+
+* [What AKD missed: Sri Lanka must earn $50 b foreign exchange annually](data/articles/what-akd-missed-sri-lank.6874d523/README.md) `ft.lk`
+* [2026 Budget commits over Rs. 688 b to construction: Sector poised for acceleration](data/articles/2026-budget-commits-over.ece94640/README.md) `ft.lk`
+* [Budget 2026 and SMEs](data/articles/budget-2026-and-smes.a427d51e/README.md) `ft.lk`
+* [Rainy day in Nugegoda: Namal as contender, Sajith’s strategic shortsightedness](data/articles/rainy-day-in-nugegoda-na.8139fd66/README.md) `ft.lk`
+* [Colombo – the Venice in the Indian Ocean? Our tryst with a glacier](data/articles/colombo-the-venice-in-th.6dbd2340/README.md) `ft.lk`
 
 ## 2025-11-26
 
