@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-28 06:25:47**
+Last Updated **2025-11-28 18:23:02**
 
 ## 2025-11-28
 
@@ -14,6 +14,7 @@ Last Updated **2025-11-28 06:25:47**
 
 ## 2025-11-27
 
+* [This year’s UN climate talks avoided fossil fuels, again](data/articles/this-year-s-un-climate-t.2d47615f/README.md) `technologyreview.com`
 * [What AKD missed: Sri Lanka must earn $50 b foreign exchange annually](data/articles/what-akd-missed-sri-lank.6874d523/README.md) `ft.lk`
 * [2026 Budget commits over Rs. 688 b to construction: Sector poised for acceleration](data/articles/2026-budget-commits-over.ece94640/README.md) `ft.lk`
 * [Budget 2026 and SMEs](data/articles/budget-2026-and-smes.a427d51e/README.md) `ft.lk`
