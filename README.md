@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-27 18:23:31**
+Last Updated **2025-11-28 06:25:47**
+
+## 2025-11-28
+
+* [The SriLankan Airlines Paradox: When talent cannot overcome structural failure](data/articles/the-srilankan-airlines-p.b70b7bb4/README.md) `ft.lk`
+* [Anura Kumara Dissanayake a Sri Lankan President like no other](data/articles/anura-kumara-dissanayake.e90d268e/README.md) `ft.lk`
+* [Hubbub SL: babel at the junc and torn between two+ voices](data/articles/hubbub-sl-babel-at-the-j.e7f404e4/README.md) `ft.lk`
+* [Royal College alumnus’ Open Letter to Prime Minister raises questions over collection of money for “SAGA 2025”](data/articles/royal-college-alumnus-op.aa518c8a/README.md) `ft.lk`
+* [How to beat the NPP In 2029: BluePrints and Bloc parties](data/articles/how-to-beat-the-npp-in-2.c12b9a5c/README.md) `ft.lk`
 
 ## 2025-11-27
 
