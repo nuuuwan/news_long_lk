@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-29 06:26:16**
+Last Updated **2025-11-29 18:22:34**
+
+## 2025-11-29
+
+* [Anura Kumara Dissanayake a  Sri Lankan  President Like No Other.](data/articles/anura-kumara-dissanayake.8338b2fd/README.md) `dbsjeyaraj.com`
+* [Country-wide red alert as  Unprecedented rainfall  triggered by Cyclone Ditwah wreaks havoc across Sri Lanka; 20 districts  badly hit and 2,00,000 people directly affected; Nearly 100 dead and Dozens reported missing.](data/articles/country-wide-red-alert-a.db7a761a/README.md) `dbsjeyaraj.com`
+* [India Launches “Operation Sagar Bandhu ” to provide  Immediate Humanitarian Relief to Sri Lanka amid Cyclone Ditwah; essential supplies distributed through   Indian Naval Ships INS Vikrant and INS Udayagiri currently docked  in Sri Lanka](data/articles/india-launches-operation.08751580/README.md) `dbsjeyaraj.com`
+* [When the scale of this disaster is so enormous even the strongest nations sometimes need the hand of a friend. Sri Lanka needs the support of all her friends.  Your support, whether through relief supplies, medical aid, logistical assistance, or financial contributions, will directly help families who are suffering and accelerate the country’s recovery](data/articles/when-the-scale-of-this-d.5bdfb5ff/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-28
 
