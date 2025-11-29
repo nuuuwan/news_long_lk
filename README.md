@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-28 18:23:02**
+Last Updated **2025-11-29 06:26:16**
 
 ## 2025-11-28
 
+* [Sri Lanka needs you now, more than ever](data/articles/sri-lanka-needs-you-now.a908140d/README.md) `ft.lk`
+* [Self-censorship in media has no place in democratic jurisdictions](data/articles/self-censorship-in-media.b7017e23/README.md) `ft.lk`
+* [Enhancing strategic and sustainable Corporate Social Responsibility endeavours in SL](data/articles/enhancing-strategic-and.0fed143b/README.md) `ft.lk`
 * [The SriLankan Airlines Paradox: When talent cannot overcome structural failure](data/articles/the-srilankan-airlines-p.b70b7bb4/README.md) `ft.lk`
 * [Anura Kumara Dissanayake a Sri Lankan President like no other](data/articles/anura-kumara-dissanayake.e90d268e/README.md) `ft.lk`
 * [Hubbub SL: babel at the junc and torn between two+ voices](data/articles/hubbub-sl-babel-at-the-j.e7f404e4/README.md) `ft.lk`
