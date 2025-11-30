@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-30 06:26:06**
+Last Updated **2025-11-30 18:22:39**
 
 ## 2025-11-29
 
+* [President  Dissanayake Declares Emergency as Devastation Caused by Cyclone Ditwa Unfolds,59 dead,203 missing. Over 800,000 People Affected with More than 100,000 Accommodated in  State -run Safety Centres,](data/articles/president-dissanayake-de.68ab05a9/README.md) `dbsjeyaraj.com`
 * [Anura Kumara Dissanayake a  Sri Lankan  President Like No Other.](data/articles/anura-kumara-dissanayake.8338b2fd/README.md) `dbsjeyaraj.com`
 * [Country-wide red alert as  Unprecedented rainfall  triggered by Cyclone Ditwah wreaks havoc across Sri Lanka; 20 districts  badly hit and 2,00,000 people directly affected; Nearly 100 dead and Dozens reported missing.](data/articles/country-wide-red-alert-a.db7a761a/README.md) `dbsjeyaraj.com`
 * [India Launches “Operation Sagar Bandhu ” to provide  Immediate Humanitarian Relief to Sri Lanka amid Cyclone Ditwah; essential supplies distributed through   Indian Naval Ships INS Vikrant and INS Udayagiri currently docked  in Sri Lanka](data/articles/india-launches-operation.08751580/README.md) `dbsjeyaraj.com`
