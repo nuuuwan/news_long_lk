@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-11-30 18:22:39**
+Last Updated **2025-12-01 06:26:25**
+
+## 2025-12-01
+
+* [Rising together: The private sector’s moment](data/articles/rising-together-the-priv.edd01f20/README.md) `ft.lk`
+* [Double down to tackle Sri Lanka’s freshwater tsunami](data/articles/double-down-to-tackle-sr.122b246f/README.md) `ft.lk`
+* [Cyclone Ditwa: A storm Sri Lanka saw coming but tourism still paid the price](data/articles/cyclone-ditwa-a-storm-sr.ac080286/README.md) `ft.lk`
+* [Big businesses must reform now](data/articles/big-businesses-must-refo.75730ea1/README.md) `ft.lk`
+* [Be warned: Deepfakes are on increase in attacking financial institutions](data/articles/be-warned-deepfakes-are.b30b5a09/README.md) `ft.lk`
 
 ## 2025-11-29
 
