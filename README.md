@@ -2,15 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-01 06:26:25**
+Last Updated **2025-12-01 18:23:36**
 
 ## 2025-12-01
 
+* [Nominations are now open for our global 2026 Innovators Under 35 competition](data/articles/nominations-are-now-open.7129817a/README.md) `technologyreview.com`
 * [Rising together: The private sector’s moment](data/articles/rising-together-the-priv.edd01f20/README.md) `ft.lk`
 * [Double down to tackle Sri Lanka’s freshwater tsunami](data/articles/double-down-to-tackle-sr.122b246f/README.md) `ft.lk`
 * [Cyclone Ditwa: A storm Sri Lanka saw coming but tourism still paid the price](data/articles/cyclone-ditwa-a-storm-sr.ac080286/README.md) `ft.lk`
 * [Big businesses must reform now](data/articles/big-businesses-must-refo.75730ea1/README.md) `ft.lk`
 * [Be warned: Deepfakes are on increase in attacking financial institutions](data/articles/be-warned-deepfakes-are.b30b5a09/README.md) `ft.lk`
+
+## 2025-11-30
+
+* [Devastating  Impact of “Cyclone Ditwah” on Sri Lanka : At least 334 dead and 370 missing, Over Eleven  Lakhs of people affected with Nearly Two Lakhs Displaced  Accommodated in State run Safety Centres](data/articles/devastating-impact-of-cy.cd33a03a/README.md) `dbsjeyaraj.com`
+* [“Emergency regulations have been enacted to provide legal and financial safeguards for efficient reconstruction. I assure every citizen that these emergency powers will not be misused for any other purpose.” – President Anura Kumara  Dissanayake in Address to the Nation.](data/articles/emergency-regulations-h.3f15fc58/README.md) `dbsjeyaraj.com`
 
 ## 2025-11-29
 
@@ -64,6 +70,7 @@ Last Updated **2025-12-01 06:26:25**
 * [Dashing Dharmendra with his Rugges Masculinity,Playful Charm and Comic Flair was neither  the best actor nor the  biggest star in Hindi cinema  but he was the most Loved.](data/articles/dashing-dharmendra-with.9bbbb2cb/README.md) `dbsjeyaraj.com`
 * [Summoning of “Aruna”Editor -in -chief Mahinda Ileperuma  for Questioning  Under the Parliamentary Privileges Act  on 24 Nov by the CID Regarding a Front Page News Item Published on 19 Nov Condemned by Sri Lanka Working Jpurnalist Association and Free Media Movement.](data/articles/summoning-of-aruna-edito.384d2d28/README.md) `dbsjeyaraj.com`
 * [The State of AI: Chatbot companions and the future of our privacy](data/articles/the-state-of-ai-chatbot.cdf34d8c/README.md) `technologyreview.com`
+* [What’s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate](data/articles/what-s-next-for-alphafol.cafec18d/README.md) `technologyreview.com`
 * [The great tea illusion](data/articles/the-great-tea-illusion.fa77e8c4/README.md) `ft.lk`
 * [Rewarding the harvest: Why Sri Lanka must shift from input subsidies to output incentives](data/articles/rewarding-the-harvest-wh.c970f2e1/README.md) `ft.lk`
 * [Beware of the newest cyber scam: Pig Butchering](data/articles/beware-of-the-newest-cyb.3ae38fbb/README.md) `ft.lk`
