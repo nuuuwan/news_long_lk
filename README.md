@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-01 18:23:36**
+Last Updated **2025-12-02 06:25:49**
+
+## 2025-12-02
+
+* [Transparency and accountability in disaster relief: A new era after decades of misuse](data/articles/transparency-and-account.403732e5/README.md) `ft.lk`
+* [Responding competently to natural disasters](data/articles/responding-competently-t.b6e31b25/README.md) `ft.lk`
+* [President urged to submit report on recovery and rehabilitation during  “Cyclone Ditwah”](data/articles/president-urged-to-submi.82a840c7/README.md) `ft.lk`
+* [Cyclone Ditwah: Testing NPP Govt.’s competence and public confidence](data/articles/cyclone-ditwah-testing-n.5b91782d/README.md) `ft.lk`
+* [Let us tax for democracy](data/articles/let-us-tax-for-democracy.896a6174/README.md) `ft.lk`
 
 ## 2025-12-01
 
+* [The State of AI: Welcome to the economic singularity](data/articles/the-state-of-ai-welcome.7fa18506/README.md) `technologyreview.com`
 * [Nominations are now open for our global 2026 Innovators Under 35 competition](data/articles/nominations-are-now-open.7129817a/README.md) `technologyreview.com`
 * [Rising together: The private sector’s moment](data/articles/rising-together-the-priv.edd01f20/README.md) `ft.lk`
 * [Double down to tackle Sri Lanka’s freshwater tsunami](data/articles/double-down-to-tackle-sr.122b246f/README.md) `ft.lk`
