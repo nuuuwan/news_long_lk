@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-02 06:25:49**
+Last Updated **2025-12-02 18:23:31**
 
 ## 2025-12-02
 
@@ -14,6 +14,8 @@ Last Updated **2025-12-02 06:25:49**
 
 ## 2025-12-01
 
+* [After the storm: A policy blueprint to protect MSMEs from climate shocks](data/articles/after-the-storm-a-policy.674e0811/README.md) `ft.lk`
+* [Cyclone Ditwah  Devastation : Death Toll Rises to  390 ; Over 15,000 Houses Destroyed.  More than 200 Roads  Remain Inaccessible; Bridges, Sections of Railway  Tracks and Power Lines Damaged. Many Countries Pledge Support to Sri Lanka for Recovery Measures.](data/articles/cyclone-ditwah-devastati.22949386/README.md) `dbsjeyaraj.com`
 * [The State of AI: Welcome to the economic singularity](data/articles/the-state-of-ai-welcome.7fa18506/README.md) `technologyreview.com`
 * [Nominations are now open for our global 2026 Innovators Under 35 competition](data/articles/nominations-are-now-open.7129817a/README.md) `technologyreview.com`
 * [Rising together: The private sector’s moment](data/articles/rising-together-the-priv.edd01f20/README.md) `ft.lk`
