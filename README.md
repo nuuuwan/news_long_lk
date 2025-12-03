@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-02 18:23:31**
+Last Updated **2025-12-03 06:25:53**
+
+## 2025-12-03
+
+* [Leaving people behind in rebuilding Sri Lanka post-most challenging natural disaster](data/articles/leaving-people-behind-in.a2e7a80d/README.md) `ft.lk`
+* [When all that is solid melts](data/articles/when-all-that-is-solid-m.21e0e42c/README.md) `ft.lk`
+* [Cyclone Ditwah: A national tragedy and test of Sri Lanka’s resolve](data/articles/cyclone-ditwah-a-nationa.30b226ba/README.md) `ft.lk`
+* [Short notes on a tropical cyclone](data/articles/short-notes-on-a-tropica.ea8b7238/README.md) `ft.lk`
+* [From proactive risk reduction to reactive crisis:](data/articles/from-proactive-risk-redu.386ec1f6/README.md) `ft.lk`
 
 ## 2025-12-02
 
