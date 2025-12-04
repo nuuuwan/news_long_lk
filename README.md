@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-03 18:23:40**
+Last Updated **2025-12-04 06:26:10**
+
+## 2025-12-04
+
+* [Cyclone Ditwah and India-Sri Lanka relations: playbook for diplomacy in the neighbourhood](data/articles/cyclone-ditwah-and-india.87558a48/README.md) `ft.lk`
+* [Cyclone 2025, Anura’s crisis of competence and accountability, Sajith-SJB’s straitjacket](data/articles/cyclone-2025-anura-s-cri.12e9d478/README.md) `ft.lk`
+* [Not fighting corruption: From rhetoric to silence in Sri Lanka](data/articles/not-fighting-corruption.4eed8097/README.md) `ft.lk`
+* [Prioritise marginalised communities in disaster preparedness, equitable relief and economic justice](data/articles/prioritise-marginalised.6ee0b0e2/README.md) `ft.lk`
+* [We were too late: Lives lost to another system failure](data/articles/we-were-too-late-lives-l.eeaa356d/README.md) `ft.lk`
 
 ## 2025-12-03
 
