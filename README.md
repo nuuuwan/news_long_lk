@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-04 06:26:10**
+Last Updated **2025-12-04 18:23:32**
 
 ## 2025-12-04
 
+* [Why the grid relies on nuclear reactors in the winter](data/articles/why-the-grid-relies-on-n.23742499/README.md) `technologyreview.com`
 * [Cyclone Ditwah and India-Sri Lanka relations: playbook for diplomacy in the neighbourhood](data/articles/cyclone-ditwah-and-india.87558a48/README.md) `ft.lk`
 * [Cyclone 2025, Anura’s crisis of competence and accountability, Sajith-SJB’s straitjacket](data/articles/cyclone-2025-anura-s-cri.12e9d478/README.md) `ft.lk`
 * [Not fighting corruption: From rhetoric to silence in Sri Lanka](data/articles/not-fighting-corruption.4eed8097/README.md) `ft.lk`
@@ -61,6 +62,7 @@ Last Updated **2025-12-04 06:26:10**
 * [Sri Lanka needs you now, more than ever](data/articles/sri-lanka-needs-you-now.a908140d/README.md) `ft.lk`
 * [Self-censorship in media has no place in democratic jurisdictions](data/articles/self-censorship-in-media.b7017e23/README.md) `ft.lk`
 * [Enhancing strategic and sustainable Corporate Social Responsibility endeavours in SL](data/articles/enhancing-strategic-and.0fed143b/README.md) `ft.lk`
+* [What we still don’t know about weight-loss drugs](data/articles/what-we-still-don-t-know.b38505a2/README.md) `technologyreview.com`
 * [The SriLankan Airlines Paradox: When talent cannot overcome structural failure](data/articles/the-srilankan-airlines-p.b70b7bb4/README.md) `ft.lk`
 * [Anura Kumara Dissanayake a Sri Lankan President like no other](data/articles/anura-kumara-dissanayake.e90d268e/README.md) `ft.lk`
 * [Hubbub SL: babel at the junc and torn between two+ voices](data/articles/hubbub-sl-babel-at-the-j.e7f404e4/README.md) `ft.lk`
