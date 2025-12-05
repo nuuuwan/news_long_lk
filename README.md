@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-04 18:23:32**
+Last Updated **2025-12-05 06:26:13**
+
+## 2025-12-05
+
+* [Secured Transactions Registry: Role of financial institutions](data/articles/secured-transactions-reg.bcf057b4/README.md) `ft.lk`
+* [Rebuilding Sri Lanka beyond the catastrophe](data/articles/rebuilding-sri-lanka-bey.96299469/README.md) `ft.lk`
+* [The usual suspects  crop up in post-disaster Sri Lanka](data/articles/the-usual-suspects-crop.468a856d/README.md) `ft.lk`
 
 ## 2025-12-04
 
+* [Who decides what ‘Rebuilding’ looks like after Ditwah?](data/articles/who-decides-what-rebuild.37f1b4a2/README.md) `ft.lk`
+* [Cyclone Ditwah’s trail: lives lost, lessons unlearned](data/articles/cyclone-ditwah-s-trail-l.6af01620/README.md) `ft.lk`
+* [How AI is uncovering hidden geothermal energy resources](data/articles/how-ai-is-uncovering-hid.28fc64a6/README.md) `technologyreview.com`
 * [Why the grid relies on nuclear reactors in the winter](data/articles/why-the-grid-relies-on-n.23742499/README.md) `technologyreview.com`
 * [Cyclone Ditwah and India-Sri Lanka relations: playbook for diplomacy in the neighbourhood](data/articles/cyclone-ditwah-and-india.87558a48/README.md) `ft.lk`
 * [Cyclone 2025, Anura’s crisis of competence and accountability, Sajith-SJB’s straitjacket](data/articles/cyclone-2025-anura-s-cri.12e9d478/README.md) `ft.lk`
@@ -38,6 +47,7 @@ Last Updated **2025-12-04 18:23:32**
 * [Cyclone Ditwah  Devastation : Death Toll Rises to  390 ; Over 15,000 Houses Destroyed.  More than 200 Roads  Remain Inaccessible; Bridges, Sections of Railway  Tracks and Power Lines Damaged. Many Countries Pledge Support to Sri Lanka for Recovery Measures.](data/articles/cyclone-ditwah-devastati.22949386/README.md) `dbsjeyaraj.com`
 * [The State of AI: Welcome to the economic singularity](data/articles/the-state-of-ai-welcome.7fa18506/README.md) `technologyreview.com`
 * [Nominations are now open for our global 2026 Innovators Under 35 competition](data/articles/nominations-are-now-open.7129817a/README.md) `technologyreview.com`
+* [An AI model trained on prison phone calls now looks for planned crimes in those calls](data/articles/an-ai-model-trained-on-p.d32b886a/README.md) `technologyreview.com`
 * [Rising together: The private sector’s moment](data/articles/rising-together-the-priv.edd01f20/README.md) `ft.lk`
 * [Double down to tackle Sri Lanka’s freshwater tsunami](data/articles/double-down-to-tackle-sr.122b246f/README.md) `ft.lk`
 * [Cyclone Ditwa: A storm Sri Lanka saw coming but tourism still paid the price](data/articles/cyclone-ditwa-a-storm-sr.ac080286/README.md) `ft.lk`

@@ -1,5 +1,47 @@
 [
   {
+    "title": "Secured Transactions Registry: Role of financial institutions",
+    "url": "https://www.ft.lk/columns/Secured-Transactions-Registry-Role-of-financial-institutions/4-785246",
+    "ut": 1764892727.0,
+    "dir_path_unix": "data/articles/secured-transactions-reg.bcf057b4",
+    "time_str_formatted": "05:28 AM, Friday, December 05, 2025"
+  },
+  {
+    "title": "Rebuilding Sri Lanka beyond the catastrophe",
+    "url": "https://www.ft.lk/columns/Rebuilding-Sri-Lanka-beyond-the-catastrophe/4-785243",
+    "ut": 1764884306.0,
+    "dir_path_unix": "data/articles/rebuilding-sri-lanka-bey.96299469",
+    "time_str_formatted": "03:08 AM, Friday, December 05, 2025"
+  },
+  {
+    "title": "The usual suspects  crop up in post-disaster Sri Lanka",
+    "url": "https://www.ft.lk/columns/The-usual-suspects-crop-up-in-post-disaster-Sri-Lanka/4-785242",
+    "ut": 1764883798.0,
+    "dir_path_unix": "data/articles/the-usual-suspects-crop.468a856d",
+    "time_str_formatted": "02:59 AM, Friday, December 05, 2025"
+  },
+  {
+    "title": "Who decides what \u2018Rebuilding\u2019 looks like after Ditwah?",
+    "url": "https://www.ft.lk/columns/Who-decides-what-Rebuilding-looks-like-after-Ditwah/4-785223",
+    "ut": 1764872696.0,
+    "dir_path_unix": "data/articles/who-decides-what-rebuild.37f1b4a2",
+    "time_str_formatted": "11:54 PM, Thursday, December 04, 2025"
+  },
+  {
+    "title": "Cyclone Ditwah\u2019s trail: lives lost, lessons unlearned",
+    "url": "https://www.ft.lk/columns/Cyclone-Ditwah-s-trail-lives-lost-lessons-unlearned/4-785221",
+    "ut": 1764871752.0,
+    "dir_path_unix": "data/articles/cyclone-ditwah-s-trail-l.6af01620",
+    "time_str_formatted": "11:39 PM, Thursday, December 04, 2025"
+  },
+  {
+    "title": "How AI is uncovering hidden geothermal energy resources",
+    "url": "https://www.technologyreview.com/2025/12/04/1128763/ai-geothermal-zanskar/",
+    "ut": 1764815400.0,
+    "dir_path_unix": "data/articles/how-ai-is-uncovering-hid.28fc64a6",
+    "time_str_formatted": "08:00 AM, Thursday, December 04, 2025"
+  },
+  {
     "title": "Why the grid relies on nuclear reactors in the winter",
     "url": "https://www.technologyreview.com/2025/12/04/1128754/nuclear-power-reliability/",
     "ut": 1764808200.0,
@@ -159,6 +201,13 @@
     "ut": 1764549161.0,
     "dir_path_unix": "data/articles/nominations-are-now-open.7129817a",
     "time_str_formatted": "06:02 AM, Monday, December 01, 2025"
+  },
+  {
+    "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
+    "url": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
+    "ut": 1764547200.0,
+    "dir_path_unix": "data/articles/an-ai-model-trained-on-p.d32b886a",
+    "time_str_formatted": "05:30 AM, Monday, December 01, 2025"
   },
   {
     "title": "Rising together: The private sector\u2019s moment",
