@@ -2,13 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-05 06:26:13**
+Last Updated **2025-12-05 18:23:12**
 
 ## 2025-12-05
 
+* [The ads that sell the sizzle of genetic trait discrimination](data/articles/the-ads-that-sell-the-si.3fe64fbe/README.md) `technologyreview.com`
 * [Secured Transactions Registry: Role of financial institutions](data/articles/secured-transactions-reg.bcf057b4/README.md) `ft.lk`
+* [Alluring actress turned powerful politico Jayalalithaa Jayaram reigned as the  uncrowned Queen of Tamil cinema for a Decade](data/articles/alluring-actress-turned.bb4c5a8e/README.md) `dbsjeyaraj.com`
 * [Rebuilding Sri Lanka beyond the catastrophe](data/articles/rebuilding-sri-lanka-bey.96299469/README.md) `ft.lk`
 * [The usual suspects  crop up in post-disaster Sri Lanka](data/articles/the-usual-suspects-crop.468a856d/README.md) `ft.lk`
+* [Ranil Wickremesinghe  accuses Govt of politicising the distribution of relief  bypassing Parliament, the Cabinet, and the Disaster Management Centre, while establishing a parallel disaster relief fund without legal basis; State power during the Cyclone  disaster was exercised  from the JVP politburo in Pelawatte alleges ex-president](data/articles/ranil-wickremesinghe-acc.e031f721/README.md) `dbsjeyaraj.com`
+* [ஜே.வி.பி.யின் பலம்பொருந்திய பொதுச் செயலாளர் ரில்வின் சில்வாவுக்கு அண்மையில் லண்டனில் புலம்பெயர் தமிழ்ச் சமூகத்தின் மத்தியில் ஏற்பட்ட  அனுபவங்கள்](data/articles/ஜ-வ-ப-ய-ன-பலம-ப-ர-ந-த-ய.a740a4cd/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-04
 
@@ -24,6 +28,7 @@ Last Updated **2025-12-05 06:26:13**
 
 ## 2025-12-03
 
+* [OpenAI has trained its LLM to confess to bad behavior](data/articles/openai-has-trained-its-l.30844f75/README.md) `technologyreview.com`
 * [JVP General -Secretary Tilvin Silva’s  Negative and Positive “Encounters” with Two  Different Tamil Diaspora  Groups in London.](data/articles/jvp-general-secretary-ti.f0572b29/README.md) `dbsjeyaraj.com`
 * [Leaving people behind in rebuilding Sri Lanka post-most challenging natural disaster](data/articles/leaving-people-behind-in.a2e7a80d/README.md) `ft.lk`
 * [When all that is solid melts](data/articles/when-all-that-is-solid-m.21e0e42c/README.md) `ft.lk`
