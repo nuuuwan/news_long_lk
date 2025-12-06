@@ -2,12 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-05 18:23:12**
+Last Updated **2025-12-06 06:25:54**
+
+## 2025-12-06
+
+* [An unhappy commentary](data/articles/an-unhappy-commentary.9ec44ba5/README.md) `ft.lk`
+* [Beyond the rain: Systemic lessons  from the Ditwah catastrophe](data/articles/beyond-the-rain-systemic.8afd89a3/README.md) `ft.lk`
+* [Experience on rebuilding funds: Selective amnesia?](data/articles/experience-on-rebuilding.67962740/README.md) `ft.lk`
 
 ## 2025-12-05
 
 * [The ads that sell the sizzle of genetic trait discrimination](data/articles/the-ads-that-sell-the-si.3fe64fbe/README.md) `technologyreview.com`
 * [Secured Transactions Registry: Role of financial institutions](data/articles/secured-transactions-reg.bcf057b4/README.md) `ft.lk`
+* [The era of AI persuasion in elections is about to begin](data/articles/the-era-of-ai-persuasion.e5ba84e4/README.md) `technologyreview.com`
 * [Alluring actress turned powerful politico Jayalalithaa Jayaram reigned as the  uncrowned Queen of Tamil cinema for a Decade](data/articles/alluring-actress-turned.bb4c5a8e/README.md) `dbsjeyaraj.com`
 * [Rebuilding Sri Lanka beyond the catastrophe](data/articles/rebuilding-sri-lanka-bey.96299469/README.md) `ft.lk`
 * [The usual suspects  crop up in post-disaster Sri Lanka](data/articles/the-usual-suspects-crop.468a856d/README.md) `ft.lk`
