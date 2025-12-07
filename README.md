@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-07 06:26:27**
+Last Updated **2025-12-07 18:22:51**
 
 ## 2025-12-06
 
+* [Tamil Nadu  Chief Minister  MK Stalin Flags off  950 Tonnes Of  Massive Humanitarian Aid  From Tamil Nadu State To Cyclone-Hit Sri Lanka](data/articles/tamil-nadu-chief-ministe.c85e0996/README.md) `dbsjeyaraj.com`
 * [An unhappy commentary](data/articles/an-unhappy-commentary.9ec44ba5/README.md) `ft.lk`
 * [Beyond the rain: Systemic lessons  from the Ditwah catastrophe](data/articles/beyond-the-rain-systemic.8afd89a3/README.md) `ft.lk`
 * [Experience on rebuilding funds: Selective amnesia?](data/articles/experience-on-rebuilding.67962740/README.md) `ft.lk`
