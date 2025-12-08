@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-08 06:26:27**
+Last Updated **2025-12-08 18:23:05**
 
 ## 2025-12-08
 
+* [4 technologies that didn’t make our 2026 breakthroughs list](data/articles/4-technologies-that-didn.e52f9ab1/README.md) `technologyreview.com`
 * [Mammoth task to rebuild a nation: How Sri Lanka can rise from the debris](data/articles/mammoth-task-to-rebuild.79a85841/README.md) `ft.lk`
 * [Will the response to Ditwah be worse than disaster itself?](data/articles/will-the-response-to-dit.0f5dceba/README.md) `ft.lk`
 * [Unlocking wealth in tea sector](data/articles/unlocking-wealth-in-tea.91d1063b/README.md) `ft.lk`
