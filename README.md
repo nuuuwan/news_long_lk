@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-07 18:22:51**
+Last Updated **2025-12-08 06:26:27**
+
+## 2025-12-08
+
+* [Mammoth task to rebuild a nation: How Sri Lanka can rise from the debris](data/articles/mammoth-task-to-rebuild.79a85841/README.md) `ft.lk`
+* [Will the response to Ditwah be worse than disaster itself?](data/articles/will-the-response-to-dit.0f5dceba/README.md) `ft.lk`
+* [Unlocking wealth in tea sector](data/articles/unlocking-wealth-in-tea.91d1063b/README.md) `ft.lk`
+* [Natural disasters and  one-dimensional economies](data/articles/natural-disasters-and-on.02820e6d/README.md) `ft.lk`
+* [Unsung heroes of the Central Bank 1: Dr. A.G. Karunasena](data/articles/unsung-heroes-of-the-cen.9ba5345b/README.md) `ft.lk`
 
 ## 2025-12-06
 
