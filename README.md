@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-09 06:26:02**
+Last Updated **2025-12-09 18:23:35**
 
 ## 2025-12-09
 
@@ -11,6 +11,8 @@ Last Updated **2025-12-09 06:26:02**
 * [Cyclone Ditwah: Sri Lanka’s largest disaster and the path to resilient recovery](data/articles/cyclone-ditwah-sri-lanka.69fc3046/README.md) `ft.lk`
 * [Building a safer Sri Lanka: A presidential appeal for a National Building and Development Code](data/articles/building-a-safer-sri-lan.c43262b6/README.md) `ft.lk`
 * [Coping with and managing the agony and ecstasy of annual promotions](data/articles/coping-with-and-managing.7f768265/README.md) `ft.lk`
+* [For a language that had almost a continuous association with music since the Silapathikaram, Tamil was sidelined in Carnatic concerts — until visionaries of the “Thamil Isai Iyakkam”(tamil Music Movement) revived it.](data/articles/for-a-language-that-had.5500a5b9/README.md) `dbsjeyaraj.com`
+* [We accepted the  English language and English  education, but never became English “in taste, opinions, morals or intellect”.](data/articles/we-accepted-the-english.33205bea/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-08
 
