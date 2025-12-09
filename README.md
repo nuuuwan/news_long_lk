@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-08 18:23:05**
+Last Updated **2025-12-09 06:26:02**
+
+## 2025-12-09
+
+* [VAT reform in a time of crisis](data/articles/vat-reform-in-a-time-of.643091dc/README.md) `ft.lk`
+* [Rebuilding Sri Lanka cannot mean repeating what failed](data/articles/rebuilding-sri-lanka-can.06e4b45e/README.md) `ft.lk`
+* [Cyclone Ditwah: Sri Lanka’s largest disaster and the path to resilient recovery](data/articles/cyclone-ditwah-sri-lanka.69fc3046/README.md) `ft.lk`
+* [Building a safer Sri Lanka: A presidential appeal for a National Building and Development Code](data/articles/building-a-safer-sri-lan.c43262b6/README.md) `ft.lk`
+* [Coping with and managing the agony and ecstasy of annual promotions](data/articles/coping-with-and-managing.7f768265/README.md) `ft.lk`
 
 ## 2025-12-08
 
+* [The State of AI: A vision of the world in 2030](data/articles/the-state-of-ai-a-vision.134c1860/README.md) `technologyreview.com`
 * [4 technologies that didn’t make our 2026 breakthroughs list](data/articles/4-technologies-that-didn.e52f9ab1/README.md) `technologyreview.com`
 * [Mammoth task to rebuild a nation: How Sri Lanka can rise from the debris](data/articles/mammoth-task-to-rebuild.79a85841/README.md) `ft.lk`
 * [Will the response to Ditwah be worse than disaster itself?](data/articles/will-the-response-to-dit.0f5dceba/README.md) `ft.lk`
