@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-09 18:23:35**
+Last Updated **2025-12-10 06:26:07**
+
+## 2025-12-10
+
+* [Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority](data/articles/then-as-farce-now-as-tra.5516a473/README.md) `ft.lk`
+* [Rebuild Sri Lanka Better: A plea of Wildlife and Nature Protection Society](data/articles/rebuild-sri-lanka-better.7e15eebb/README.md) `ft.lk`
+* [Why Sri Lanka must step up for children orphaned by Ditwah cyclone](data/articles/why-sri-lanka-must-step.a99f1890/README.md) `ft.lk`
+* [Adapting to global trade shifts: Strategic opportunities for  Sri Lanka amid US tariff measures](data/articles/adapting-to-global-trade.ab638a47/README.md) `ft.lk`
+* [From “Helping Hambantota” to “Rebuilding Sri Lanka”: A tale of two disasters and two leaderships](data/articles/from-helping-hambantota.6dff5332/README.md) `ft.lk`
 
 ## 2025-12-09
 
