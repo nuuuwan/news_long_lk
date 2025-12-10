@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-10 06:26:07**
+Last Updated **2025-12-10 18:23:43**
 
 ## 2025-12-10
 
 * [Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority](data/articles/then-as-farce-now-as-tra.5516a473/README.md) `ft.lk`
+* [Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority](data/articles/then-as-farce-now-as-tra.5b2a3984/README.md) `ft.lk`
 * [Rebuild Sri Lanka Better: A plea of Wildlife and Nature Protection Society](data/articles/rebuild-sri-lanka-better.7e15eebb/README.md) `ft.lk`
 * [Why Sri Lanka must step up for children orphaned by Ditwah cyclone](data/articles/why-sri-lanka-must-step.a99f1890/README.md) `ft.lk`
 * [Adapting to global trade shifts: Strategic opportunities for  Sri Lanka amid US tariff measures](data/articles/adapting-to-global-trade.ab638a47/README.md) `ft.lk`
 * [From “Helping Hambantota” to “Rebuilding Sri Lanka”: A tale of two disasters and two leaderships](data/articles/from-helping-hambantota.6dff5332/README.md) `ft.lk`
+* [Cyclone Ditwah: A harsh reflection of Sri Lanka’s early-warning gap](data/articles/cyclone-ditwah-a-harsh-r.26a7e4b1/README.md) `ft.lk`
 
 ## 2025-12-09
 
@@ -54,6 +56,7 @@ Last Updated **2025-12-10 06:26:07**
 
 * [Who decides what ‘Rebuilding’ looks like after Ditwah?](data/articles/who-decides-what-rebuild.37f1b4a2/README.md) `ft.lk`
 * [Cyclone Ditwah’s trail: lives lost, lessons unlearned](data/articles/cyclone-ditwah-s-trail-l.6af01620/README.md) `ft.lk`
+* [AI chatbots can sway voters better than political advertisements](data/articles/ai-chatbots-can-sway-vot.857829a0/README.md) `technologyreview.com`
 * [How AI is uncovering hidden geothermal energy resources](data/articles/how-ai-is-uncovering-hid.28fc64a6/README.md) `technologyreview.com`
 * [Why the grid relies on nuclear reactors in the winter](data/articles/why-the-grid-relies-on-n.23742499/README.md) `technologyreview.com`
 * [Cyclone Ditwah and India-Sri Lanka relations: playbook for diplomacy in the neighbourhood](data/articles/cyclone-ditwah-and-india.87558a48/README.md) `ft.lk`
