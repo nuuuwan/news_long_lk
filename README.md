@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-11 06:26:13**
+Last Updated **2025-12-11 18:23:36**
 
 ## 2025-12-11
 
@@ -14,6 +14,7 @@ Last Updated **2025-12-11 06:26:13**
 ## 2025-12-10
 
 * [The Myth of Cloud Resilience in the Age of Intelligence](data/articles/the-myth-of-cloud-resili.0deca052/README.md) `hbr.org`
+* [How one controversial startup hopes to cool the planet](data/articles/how-one-controversial-st.7283933c/README.md) `technologyreview.com`
 * [Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority](data/articles/then-as-farce-now-as-tra.5516a473/README.md) `ft.lk`
 * [Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority](data/articles/then-as-farce-now-as-tra.5b2a3984/README.md) `ft.lk`
 * [Rebuild Sri Lanka Better: A plea of Wildlife and Nature Protection Society](data/articles/rebuild-sri-lanka-better.7e15eebb/README.md) `ft.lk`
