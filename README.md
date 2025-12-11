@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-10 18:23:43**
+Last Updated **2025-12-11 06:26:13**
+
+## 2025-12-11
+
+* [Myth of the 76-year-curse and the failed post-Independence political elite](data/articles/myth-of-the-76-year-curs.54102188/README.md) `ft.lk`
+* [How Sri Lankan workplace culture allows fraud to thrive — and what we can do about it](data/articles/how-sri-lankan-workplace.b0b9f660/README.md) `ft.lk`
+* [Rebuilding housing post-Ditwah: Lessons from Sri Lanka’s tsunami experience](data/articles/rebuilding-housing-post.4bee11d3/README.md) `ft.lk`
+* [Sri Lanka’s tourism narrative is being written online; We must shape it now](data/articles/sri-lanka-s-tourism-narr.4f7cea2a/README.md) `ft.lk`
 
 ## 2025-12-10
 
+* [The Myth of Cloud Resilience in the Age of Intelligence](data/articles/the-myth-of-cloud-resili.0deca052/README.md) `hbr.org`
 * [Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority](data/articles/then-as-farce-now-as-tra.5516a473/README.md) `ft.lk`
 * [Then as farce, now as tragedy: The second coming of Microfinance and Credit Regulatory Authority](data/articles/then-as-farce-now-as-tra.5b2a3984/README.md) `ft.lk`
 * [Rebuild Sri Lanka Better: A plea of Wildlife and Nature Protection Society](data/articles/rebuild-sri-lanka-better.7e15eebb/README.md) `ft.lk`
