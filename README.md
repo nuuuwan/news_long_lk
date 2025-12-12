@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-12 06:26:06**
+Last Updated **2025-12-12 18:23:15**
 
 ## 2025-12-12
 
+* [Southeast Asia seeks its place in space](data/articles/southeast-asia-seeks-its.b6369175/README.md) `technologyreview.com`
 * [From disaster to recovery:  Making the case for climate finance in post-flood rebuilding in Sri Lanka](data/articles/from-disaster-to-recover.428fb99d/README.md) `ft.lk`
 * [Why Sri Lanka needs a National Budget Performance and Evaluation Office now more than ever](data/articles/why-sri-lanka-needs-a-na.1e9c0e93/README.md) `ft.lk`
 * [A call to protect Sri Lanka’s tourism investors](data/articles/a-call-to-protect-sri-la.4bc44d8d/README.md) `ft.lk`
