@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-12 18:23:15**
+Last Updated **2025-12-13 06:25:49**
+
+## 2025-12-13
+
+* [Musings from Houston: Embrace challenges and be ready to take off](data/articles/musings-from-houston-emb.e0b18d63/README.md) `ft.lk`
+* [Brands driving urban revitalisation through creativity, arts and culture](data/articles/brands-driving-urban-rev.d767f0cd/README.md) `ft.lk`
+* [US tariffs vs. Chinese supremacy: Can US soybean “Make America Great Again?”](data/articles/us-tariffs-vs-chinese-su.2783b7b0/README.md) `ft.lk`
+* [News and irony intersect  in a cyclone’s aftermath](data/articles/news-and-irony-intersect.9afb9b09/README.md) `ft.lk`
 
 ## 2025-12-12
 
