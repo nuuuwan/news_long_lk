@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-14 06:25:42**
+Last Updated **2025-12-14 18:22:57**
+
+## 2025-12-14
+
+* [The “Rajadurai Amendment”: How  President JR Jayewardene  Amended his new  Constitution  Enabling  TULF Batticaloa  MP C. Rajadurai to Cross Over from the Opposition  and   Join the   UNP Govt.](data/articles/the-rajadurai-amendment.b65bc436/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-13
 
