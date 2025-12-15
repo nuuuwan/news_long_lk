@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-14 18:22:57**
+Last Updated **2025-12-15 06:26:09**
+
+## 2025-12-15
+
+* [Building a safer Sri Lanka](data/articles/building-a-safer-sri-lan.95ef80e3/README.md) `ft.lk`
+* [Presidential authority in times of emergency: A contemporary appraisal](data/articles/presidential-authority-i.b5fd567f/README.md) `ft.lk`
+* [Unsung heroes of the Central Bank 2: Computer Programmer N.M. Jayasekera](data/articles/unsung-heroes-of-the-cen.34d61fe3/README.md) `ft.lk`
+* [Placing smallholder farmers and fishers at the centre of Cyclone Ditwah recovery](data/articles/placing-smallholder-farm.374c4c8b/README.md) `ft.lk`
+* [Learn a lesson from the disaster; Build back better with decentralisation](data/articles/learn-a-lesson-from-the.6d74d18a/README.md) `ft.lk`
 
 ## 2025-12-14
 
