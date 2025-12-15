@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-15 06:26:09**
+Last Updated **2025-12-15 18:24:05**
 
 ## 2025-12-15
 
@@ -11,9 +11,13 @@ Last Updated **2025-12-15 06:26:09**
 * [Unsung heroes of the Central Bank 2: Computer Programmer N.M. Jayasekera](data/articles/unsung-heroes-of-the-cen.34d61fe3/README.md) `ft.lk`
 * [Placing smallholder farmers and fishers at the centre of Cyclone Ditwah recovery](data/articles/placing-smallholder-farm.374c4c8b/README.md) `ft.lk`
 * [Learn a lesson from the disaster; Build back better with decentralisation](data/articles/learn-a-lesson-from-the.6d74d18a/README.md) `ft.lk`
+* [The AI doomers feel undeterred](data/articles/the-ai-doomers-feel-unde.585a5937/README.md) `technologyreview.com`
+* [What even is the AI bubble?](data/articles/what-even-is-the-ai-bubb.b8197e2a/README.md) `technologyreview.com`
+* [Generative AI hype distracts us from AI’s more important breakthroughs](data/articles/generative-ai-hype-distr.0c78069d/README.md) `technologyreview.com`
 
 ## 2025-12-14
 
+* [Anton  Stanislaus Balasingham alias “Bala  Annai” :  An  Up , Close and Personal.  Account.](data/articles/anton-stanislaus-balasin.9186299a/README.md) `dbsjeyaraj.com`
 * [The “Rajadurai Amendment”: How  President JR Jayewardene  Amended his new  Constitution  Enabling  TULF Batticaloa  MP C. Rajadurai to Cross Over from the Opposition  and   Join the   UNP Govt.](data/articles/the-rajadurai-amendment.b65bc436/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-13
