@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-16 06:26:08**
+Last Updated **2025-12-16 18:23:39**
 
 ## 2025-12-16
 
+* [Why it’s time to reset our expectations for AI](data/articles/why-it-s-time-to-reset-o.8879e249/README.md) `technologyreview.com`
 * [From fear to informed  choice: Reframing youth, risk and innovation in Sri Lanka](data/articles/from-fear-to-informed-ch.9fa33fba/README.md) `ft.lk`
 * [Never waste a crisis](data/articles/never-waste-a-crisis.3a4c4c72/README.md) `ft.lk`
 * [Disaster risk financing and insurance for disaster-proof Sri Lanka tourism](data/articles/disaster-risk-financing.1c2aa1c1/README.md) `ft.lk`
@@ -22,6 +23,7 @@ Last Updated **2025-12-16 06:26:08**
 * [The AI doomers feel undeterred](data/articles/the-ai-doomers-feel-unde.585a5937/README.md) `technologyreview.com`
 * [What even is the AI bubble?](data/articles/what-even-is-the-ai-bubb.b8197e2a/README.md) `technologyreview.com`
 * [Generative AI hype distracts us from AI’s more important breakthroughs](data/articles/generative-ai-hype-distr.0c78069d/README.md) `technologyreview.com`
+* [AI coding is now everywhere. But not everyone is convinced.](data/articles/ai-coding-is-now-everywh.c0e7ce1e/README.md) `technologyreview.com`
 
 ## 2025-12-14
 
