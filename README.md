@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-15 18:24:05**
+Last Updated **2025-12-16 06:26:08**
+
+## 2025-12-16
+
+* [From fear to informed  choice: Reframing youth, risk and innovation in Sri Lanka](data/articles/from-fear-to-informed-ch.9fa33fba/README.md) `ft.lk`
+* [Never waste a crisis](data/articles/never-waste-a-crisis.3a4c4c72/README.md) `ft.lk`
+* [Disaster risk financing and insurance for disaster-proof Sri Lanka tourism](data/articles/disaster-risk-financing.1c2aa1c1/README.md) `ft.lk`
 
 ## 2025-12-15
 
+* [Rebuilding with purpose: Human Resources as the engine of business recovery](data/articles/rebuilding-with-purpose.bec3a983/README.md) `ft.lk`
+* [A nation stretched thin: Disaster fatigue in Sri Lanka](data/articles/a-nation-stretched-thin.07fdb6e8/README.md) `ft.lk`
 * [Building a safer Sri Lanka](data/articles/building-a-safer-sri-lan.95ef80e3/README.md) `ft.lk`
 * [Presidential authority in times of emergency: A contemporary appraisal](data/articles/presidential-authority-i.b5fd567f/README.md) `ft.lk`
 * [Unsung heroes of the Central Bank 2: Computer Programmer N.M. Jayasekera](data/articles/unsung-heroes-of-the-cen.34d61fe3/README.md) `ft.lk`
