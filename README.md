@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-17 06:25:47**
+Last Updated **2025-12-17 18:23:36**
 
 ## 2025-12-17
 
@@ -29,6 +29,7 @@ Last Updated **2025-12-17 06:25:47**
 * [Placing smallholder farmers and fishers at the centre of Cyclone Ditwah recovery](data/articles/placing-smallholder-farm.374c4c8b/README.md) `ft.lk`
 * [Learn a lesson from the disaster; Build back better with decentralisation](data/articles/learn-a-lesson-from-the.6d74d18a/README.md) `ft.lk`
 * [The AI doomers feel undeterred](data/articles/the-ai-doomers-feel-unde.585a5937/README.md) `technologyreview.com`
+* [The great AI hype correction of 2025](data/articles/the-great-ai-hype-correc.fa144fed/README.md) `technologyreview.com`
 * [What even is the AI bubble?](data/articles/what-even-is-the-ai-bubb.b8197e2a/README.md) `technologyreview.com`
 * [Generative AI hype distracts us from AI’s more important breakthroughs](data/articles/generative-ai-hype-distr.0c78069d/README.md) `technologyreview.com`
 * [AI coding is now everywhere. But not everyone is convinced.](data/articles/ai-coding-is-now-everywh.c0e7ce1e/README.md) `technologyreview.com`
