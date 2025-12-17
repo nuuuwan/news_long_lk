@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-16 18:23:39**
+Last Updated **2025-12-17 06:25:47**
+
+## 2025-12-17
+
+* [Ditwah disaster and the tax system: Relief for victims, recognition for donors](data/articles/ditwah-disaster-and-the.de17e23c/README.md) `ft.lk`
+* [Lakshman Balasuriya - simply a top-class human being](data/articles/lakshman-balasuriya-simp.17132fcf/README.md) `ft.lk`
+* [JVP’s Il Viru Samaruva](data/articles/jvp-s-il-viru-samaruva.cdcb1109/README.md) `ft.lk`
+* [What Sri Lanka Can Learn From Andhra Pradesh: Lessons from the CII Partnership Summit in Visakhapatnam](data/articles/what-sri-lanka-can-learn.b35cace8/README.md) `ft.lk`
+* [Not a moment to lose: Why Sri Lanka must mobilise its monetary and fiscal capacity](data/articles/not-a-moment-to-lose-why.fc2a2050/README.md) `ft.lk`
 
 ## 2025-12-16
 
