@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-17 18:23:36**
+Last Updated **2025-12-18 06:25:53**
+
+## 2025-12-18
+
+* [Unbalanced: Anura’s American partnership, Opposition’s foreign policy, Harsha’s ‘Hanuman-ism’](data/articles/unbalanced-anura-s-ameri.b8872349/README.md) `ft.lk`
+* [LSSP at 90: The Sama Samaja role in constitutional issues](data/articles/lssp-at-90-the-sama-sama.faa109e5/README.md) `ft.lk`
+* [How Sri Lanka can rebuild stronger after Cyclone Ditwah](data/articles/how-sri-lanka-can-rebuil.80a159c0/README.md) `ft.lk`
+* [Revisiting rainwater harvesting as a disaster risk reduction tool](data/articles/revisiting-rainwater-har.03c2f878/README.md) `ft.lk`
+* [‘Legalised begging’ and elegant targeting: What Ministers, Multilaterals are getting wrong about social protection in Sri Lanka](data/articles/legalised-begging-and-e.85a27a61/README.md) `ft.lk`
 
 ## 2025-12-17
 
