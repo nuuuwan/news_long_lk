@@ -2,18 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-18 06:25:53**
+Last Updated **2025-12-18 18:23:29**
 
 ## 2025-12-18
 
+* [Can AI really help us discover new materials?](data/articles/can-ai-really-help-us-di.17f37a0b/README.md) `technologyreview.com`
 * [Unbalanced: Anura’s American partnership, Opposition’s foreign policy, Harsha’s ‘Hanuman-ism’](data/articles/unbalanced-anura-s-ameri.b8872349/README.md) `ft.lk`
 * [LSSP at 90: The Sama Samaja role in constitutional issues](data/articles/lssp-at-90-the-sama-sama.faa109e5/README.md) `ft.lk`
 * [How Sri Lanka can rebuild stronger after Cyclone Ditwah](data/articles/how-sri-lanka-can-rebuil.80a159c0/README.md) `ft.lk`
 * [Revisiting rainwater harvesting as a disaster risk reduction tool](data/articles/revisiting-rainwater-har.03c2f878/README.md) `ft.lk`
 * [‘Legalised begging’ and elegant targeting: What Ministers, Multilaterals are getting wrong about social protection in Sri Lanka](data/articles/legalised-begging-and-e.85a27a61/README.md) `ft.lk`
+* [Lakshman Balasuriya  was gentle and a giant in every sense of the word. A deeply civilised man, refined in taste, gracious in manner, and extraordinarily humble.He carried himself with quiet class and had a way of making everyone around him feel at ease.](data/articles/lakshman-balasuriya-was.a22e46a8/README.md) `dbsjeyaraj.com`
+* [The Canadian Tamil Congress (CTC) extends it’s  sincere gratitude to the Government of Canada and to the people of Canada for their timely and compassionate humanitarian assistance in response to the devastation caused by Cyclone Ditwah in Sri Lanka.](data/articles/the-canadian-tamil-congr.a8631954/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-17
 
+* [“மட்டக்களப்பின் முடிசூடா மன்னன்” செல்வையா இராஜதுரை ஐக்கிய தேசிய கட்சி அரசாங்கத்தில் இணைவதற்கு வசதியாக அரசியலமைப்பை 1979 பெப்ரவரி 26 ஆம் திகதி திருத்திய ஜே.ஆர். ஜெயவர்தன](data/articles/மட-டக-களப-ப-ன-ம-ட-ச-ட-ம.e8f59238/README.md) `dbsjeyaraj.com`
+* [“The Sri Lanka Peace Process: An Inside View” :New Book Written  by Prof.G.L.Peiris  provides a scholarly, candid and first-hand account of the peace process Between the Sri Lanka Govt and the LTTE through the lens of the man who led the  Sri Lanka Govt Delegation in face-to-face talks with the Tigers](data/articles/the-sri-lanka-peace-pro.f082c5dc/README.md) `dbsjeyaraj.com`
 * [Ditwah disaster and the tax system: Relief for victims, recognition for donors](data/articles/ditwah-disaster-and-the.de17e23c/README.md) `ft.lk`
 * [Lakshman Balasuriya - simply a top-class human being](data/articles/lakshman-balasuriya-simp.17132fcf/README.md) `ft.lk`
 * [JVP’s Il Viru Samaruva](data/articles/jvp-s-il-viru-samaruva.cdcb1109/README.md) `ft.lk`
@@ -39,6 +44,7 @@ Last Updated **2025-12-18 06:25:53**
 * [The AI doomers feel undeterred](data/articles/the-ai-doomers-feel-unde.585a5937/README.md) `technologyreview.com`
 * [The great AI hype correction of 2025](data/articles/the-great-ai-hype-correc.fa144fed/README.md) `technologyreview.com`
 * [What even is the AI bubble?](data/articles/what-even-is-the-ai-bubb.b8197e2a/README.md) `technologyreview.com`
+* [AI materials discovery now needs to move into the real world](data/articles/ai-materials-discovery-n.c64f4b58/README.md) `technologyreview.com`
 * [Generative AI hype distracts us from AI’s more important breakthroughs](data/articles/generative-ai-hype-distr.0c78069d/README.md) `technologyreview.com`
 * [AI coding is now everywhere. But not everyone is convinced.](data/articles/ai-coding-is-now-everywh.c0e7ce1e/README.md) `technologyreview.com`
 
