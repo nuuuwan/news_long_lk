@@ -1,5 +1,12 @@
 [
   {
+    "title": "China figured out how to sell EVs. Now it has to bury their batteries.",
+    "url": "https://www.technologyreview.com/2025/12/18/1130148/china-ev-battery-recycle/",
+    "ut": 1766055298.0,
+    "dir_path_unix": "data/articles/china-figured-out-how-to.ea993f0d",
+    "time_str_formatted": "04:24 PM, Thursday, December 18, 2025"
+  },
+  {
     "title": "Can AI really help us discover new materials?",
     "url": "https://www.technologyreview.com/2025/12/18/1130102/ai-materials-discovery/",
     "ut": 1766017800.0,
@@ -110,6 +117,13 @@
     "ut": 1765850344.0,
     "dir_path_unix": "data/articles/why-it-s-time-to-reset-o.8879e249",
     "time_str_formatted": "07:29 AM, Tuesday, December 16, 2025"
+  },
+  {
+    "title": "Quantum navigation could solve the military\u2019s GPS jamming problem",
+    "url": "https://www.technologyreview.com/2025/12/16/1129887/quantum-navigation-militarys-gps-jamming-problem/",
+    "ut": 1765841400.0,
+    "dir_path_unix": "data/articles/quantum-navigation-could.8538647a",
+    "time_str_formatted": "05:00 AM, Tuesday, December 16, 2025"
   },
   {
     "title": "From fear to informed  choice: Reframing youth, risk and innovation in Sri Lanka",

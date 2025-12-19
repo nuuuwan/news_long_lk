@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-18 18:23:29**
+Last Updated **2025-12-19 06:26:10**
 
 ## 2025-12-18
 
+* [China figured out how to sell EVs. Now it has to bury their batteries.](data/articles/china-figured-out-how-to.ea993f0d/README.md) `technologyreview.com`
 * [Can AI really help us discover new materials?](data/articles/can-ai-really-help-us-di.17f37a0b/README.md) `technologyreview.com`
 * [Unbalanced: Anura’s American partnership, Opposition’s foreign policy, Harsha’s ‘Hanuman-ism’](data/articles/unbalanced-anura-s-ameri.b8872349/README.md) `ft.lk`
 * [LSSP at 90: The Sama Samaja role in constitutional issues](data/articles/lssp-at-90-the-sama-sama.faa109e5/README.md) `ft.lk`
@@ -28,6 +29,7 @@ Last Updated **2025-12-18 18:23:29**
 ## 2025-12-16
 
 * [Why it’s time to reset our expectations for AI](data/articles/why-it-s-time-to-reset-o.8879e249/README.md) `technologyreview.com`
+* [Quantum navigation could solve the military’s GPS jamming problem](data/articles/quantum-navigation-could.8538647a/README.md) `technologyreview.com`
 * [From fear to informed  choice: Reframing youth, risk and innovation in Sri Lanka](data/articles/from-fear-to-informed-ch.9fa33fba/README.md) `ft.lk`
 * [Never waste a crisis](data/articles/never-waste-a-crisis.3a4c4c72/README.md) `ft.lk`
 * [Disaster risk financing and insurance for disaster-proof Sri Lanka tourism](data/articles/disaster-risk-financing.1c2aa1c1/README.md) `ft.lk`
