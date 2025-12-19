@@ -2,11 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-19 06:26:10**
+Last Updated **2025-12-19 18:23:24**
+
+## 2025-12-19
+
+* [Rajinikanth saga: From Bengaluru bus conductor to Tamil cinema superstar](data/articles/rajinikanth-saga-from-be.4e7d327d/README.md) `ft.lk`
+* [A fit-for-purpose Disaster Management Act](data/articles/a-fit-for-purpose-disast.1c1a395e/README.md) `ft.lk`
+* [Causes of landslides in  Sri Lanka’s Central Highlands](data/articles/causes-of-landslides-in.9a8b5f20/README.md) `ft.lk`
 
 ## 2025-12-18
 
 * [China figured out how to sell EVs. Now it has to bury their batteries.](data/articles/china-figured-out-how-to.ea993f0d/README.md) `technologyreview.com`
+* [Take our quiz on the year in health and biotechnology](data/articles/take-our-quiz-on-the-yea.42a2b8ca/README.md) `technologyreview.com`
 * [Can AI really help us discover new materials?](data/articles/can-ai-really-help-us-di.17f37a0b/README.md) `technologyreview.com`
 * [Unbalanced: Anura’s American partnership, Opposition’s foreign policy, Harsha’s ‘Hanuman-ism’](data/articles/unbalanced-anura-s-ameri.b8872349/README.md) `ft.lk`
 * [LSSP at 90: The Sama Samaja role in constitutional issues](data/articles/lssp-at-90-the-sama-sama.faa109e5/README.md) `ft.lk`
