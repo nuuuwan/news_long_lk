@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-19 18:23:24**
+Last Updated **2025-12-20 06:26:00**
 
 ## 2025-12-19
 
+* [Xi Jinping’s blueprint for China 2030](data/articles/xi-jinping-s-blueprint-f.529645ef/README.md) `ft.lk`
+* [Ditwah, recovery and politics](data/articles/ditwah-recovery-and-poli.5e51390a/README.md) `ft.lk`
+* [Peril on the power ethics road ahead to rebuilding Sri Lanka](data/articles/peril-on-the-power-ethic.f49c2516/README.md) `ft.lk`
+* [6 Cybersecurity Predictions for the AI Economy in 2026](data/articles/6-cybersecurity-predicti.a3e167bb/README.md) `hbr.org`
+* [Why Chief Technology Officers Can’t Afford to Guess on Planning AI](data/articles/why-chief-technology-off.49c9e2a2/README.md) `hbr.org`
 * [Rajinikanth saga: From Bengaluru bus conductor to Tamil cinema superstar](data/articles/rajinikanth-saga-from-be.4e7d327d/README.md) `ft.lk`
 * [A fit-for-purpose Disaster Management Act](data/articles/a-fit-for-purpose-disast.1c1a395e/README.md) `ft.lk`
 * [Causes of landslides in  Sri Lanka’s Central Highlands](data/articles/causes-of-landslides-in.9a8b5f20/README.md) `ft.lk`
@@ -30,6 +35,7 @@ Last Updated **2025-12-19 18:23:24**
 * [Ditwah disaster and the tax system: Relief for victims, recognition for donors](data/articles/ditwah-disaster-and-the.de17e23c/README.md) `ft.lk`
 * [Lakshman Balasuriya - simply a top-class human being](data/articles/lakshman-balasuriya-simp.17132fcf/README.md) `ft.lk`
 * [JVP’s Il Viru Samaruva](data/articles/jvp-s-il-viru-samaruva.cdcb1109/README.md) `ft.lk`
+* [This Nobel Prize–winning chemist dreams of making water from thin air](data/articles/this-nobel-prize-winning.603b8069/README.md) `technologyreview.com`
 * [What Sri Lanka Can Learn From Andhra Pradesh: Lessons from the CII Partnership Summit in Visakhapatnam](data/articles/what-sri-lanka-can-learn.b35cace8/README.md) `ft.lk`
 * [Not a moment to lose: Why Sri Lanka must mobilise its monetary and fiscal capacity](data/articles/not-a-moment-to-lose-why.fc2a2050/README.md) `ft.lk`
 
