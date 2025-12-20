@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-20 06:26:00**
+Last Updated **2025-12-20 18:22:25**
+
+## 2025-12-20
+
+* [The Rajinikanth Saga: From Bengaluru Bus Conductor to Tamil Cinema Superstar.](data/articles/the-rajinikanth-saga-fro.6eb8b62e/README.md) `dbsjeyaraj.com`
+* [Somasundaram Nadesan QC  will be remembered for his brilliance as a lawyer, as an indefatigable fighter for human rights and for taking up public causes. He was an extraordinary human being.](data/articles/somasundaram-nadesan-qc.757f063d/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-19
 
