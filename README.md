@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-22 06:25:51**
+Last Updated **2025-12-22 18:23:14**
 
 ## 2025-12-22
 
+* [This company is developing gene therapies for muscle growth, erectile dysfunction, and “radical longevity”](data/articles/this-company-is-developi.06e64b90/README.md) `technologyreview.com`
 * [Let us rise together with resilience, courage and determination](data/articles/let-us-rise-together-wit.3c0114c9/README.md) `ft.lk`
 * [A nation overwhelmed – but not powerless](data/articles/a-nation-overwhelmed-but.e8ff57ff/README.md) `ft.lk`
 * [What not to do about the central hills](data/articles/what-not-to-do-about-the.50d4ef80/README.md) `ft.lk`
 * [Single National Asset Tax (SNAT): A bold blueprint for disaster recovery, economic revolution](data/articles/single-national-asset-ta.ee0e25c8/README.md) `ft.lk`
+* [Single National Asset Tax (SNAT): A bold blueprint for disaster recovery, economic revolution](data/articles/single-national-asset-ta.67b328cf/README.md) `ft.lk`
 * [Unsung Heroes of the Central Bank 3:  Dr. D. S. Wijesinghe, quantitative economist who did not have previous training in math](data/articles/unsung-heroes-of-the-cen.2cc07fb2/README.md) `ft.lk`
 
 ## 2025-12-20
