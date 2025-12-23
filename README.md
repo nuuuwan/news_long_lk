@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-22 18:23:14**
+Last Updated **2025-12-23 06:25:42**
+
+## 2025-12-23
+
+* [The call for immediate suspension of SL’s external sovereign debt payments](data/articles/the-call-for-immediate-s.0486b23f/README.md) `ft.lk`
+* [From disaster to economic resilience](data/articles/from-disaster-to-economi.1d55df6a/README.md) `ft.lk`
+* [Rebuilding businesses after Cyclone Ditwah](data/articles/rebuilding-businesses-af.5d162c0a/README.md) `ft.lk`
 
 ## 2025-12-22
 
