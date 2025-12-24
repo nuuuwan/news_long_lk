@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-24 06:26:15**
+Last Updated **2025-12-24 18:23:28**
+
+## 2025-12-24
+
+* [Navigating bureaucratic autonomy and capacity: The path to public sector reforms](data/articles/navigating-bureaucratic.acd4a94b/README.md) `ft.lk`
+* [Adam Smith goes digital](data/articles/adam-smith-goes-digital.587fcf85/README.md) `ft.lk`
+* [India’s generosity in Ditwah’s wake; a partnership of reliability](data/articles/india-s-generosity-in-di.9d83e042/README.md) `ft.lk`
+* [When backing grows stronger, and when it subtly declines](data/articles/when-backing-grows-stron.90b35583/README.md) `ft.lk`
+* [Meet the man hunting the spies in your smartphone](data/articles/meet-the-man-hunting-the.da2bbf20/README.md) `technologyreview.com`
 
 ## 2025-12-23
 
@@ -14,6 +22,7 @@ Last Updated **2025-12-24 06:26:15**
 
 ## 2025-12-22
 
+* [Welcome to Kenya’s Great Carbon Valley: a bold new gamble to fight climate change](data/articles/welcome-to-kenya-s-great.0422418c/README.md) `technologyreview.com`
 * [This company is developing gene therapies for muscle growth, erectile dysfunction, and “radical longevity”](data/articles/this-company-is-developi.06e64b90/README.md) `technologyreview.com`
 * [Let us rise together with resilience, courage and determination](data/articles/let-us-rise-together-wit.3c0114c9/README.md) `ft.lk`
 * [A nation overwhelmed – but not powerless](data/articles/a-nation-overwhelmed-but.e8ff57ff/README.md) `ft.lk`
