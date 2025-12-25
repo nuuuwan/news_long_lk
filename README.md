@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-24 18:23:28**
+Last Updated **2025-12-25 06:25:57**
+
+## 2025-12-25
+
+* [Mitigating landslides in the upper catchments of Sri Lanka](data/articles/mitigating-landslides-in.6f1e8e13/README.md) `ft.lk`
+* [Off track in Hill Country](data/articles/off-track-in-hill-countr.d27d2c82/README.md) `ft.lk`
+* [Wise Christmas](data/articles/wise-christmas.a261f52d/README.md) `ft.lk`
 
 ## 2025-12-24
 
