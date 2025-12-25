@@ -1,5 +1,33 @@
 [
   {
+    "title": "Christmas amidst climate catastrophe: Serenity of stillness",
+    "url": "https://www.ft.lk/columns/Christmas-amidst-climate-catastrophe-Serenity-of-stillness/4-786119",
+    "ut": 1766625309.0,
+    "dir_path_unix": "data/articles/christmas-amidst-climate.625d92b6",
+    "time_str_formatted": "06:45 AM, Thursday, December 25, 2025"
+  },
+  {
+    "title": "Gaza explodes in Sydney",
+    "url": "https://www.ft.lk/columns/Gaza-explodes-in-Sydney/4-786118",
+    "ut": 1766625056.0,
+    "dir_path_unix": "data/articles/gaza-explodes-in-sydney.085432e6",
+    "time_str_formatted": "06:40 AM, Thursday, December 25, 2025"
+  },
+  {
+    "title": "Elephants in the fridge and humans in the wedge?",
+    "url": "https://www.ft.lk/columns/Elephants-in-the-fridge-and-humans-in-the-wedge/4-786117",
+    "ut": 1766624650.0,
+    "dir_path_unix": "data/articles/elephants-in-the-fridge.efbf2643",
+    "time_str_formatted": "06:34 AM, Thursday, December 25, 2025"
+  },
+  {
+    "title": "Debt relief as disaster relief: A timely call by international experts",
+    "url": "https://www.ft.lk/columns/Debt-relief-as-disaster-relief-A-timely-call-by-international-experts/4-786116",
+    "ut": 1766624212.0,
+    "dir_path_unix": "data/articles/debt-relief-as-disaster.58b1baad",
+    "time_str_formatted": "06:26 AM, Thursday, December 25, 2025"
+  },
+  {
     "title": "Mitigating landslides in the upper catchments of Sri Lanka",
     "url": "https://www.ft.lk/columns/Mitigating-landslides-in-the-upper-catchments-of-Sri-Lanka/4-786115",
     "ut": 1766623928.0,
@@ -19,6 +47,13 @@
     "ut": 1766623372.0,
     "dir_path_unix": "data/articles/wise-christmas.a261f52d",
     "time_str_formatted": "06:12 AM, Thursday, December 25, 2025"
+  },
+  {
+    "title": "AI Wrapped: The 14 AI terms you couldn\u2019t avoid in 2025",
+    "url": "https://www.technologyreview.com/2025/12/25/1130298/ai-wrapped-the-14-ai-terms-you-couldnt-avoid-in-2025/",
+    "ut": 1766619000.0,
+    "dir_path_unix": "data/articles/ai-wrapped-the-14-ai-ter.91fd04c2",
+    "time_str_formatted": "05:00 AM, Thursday, December 25, 2025"
   },
   {
     "title": "Navigating bureaucratic autonomy and capacity: The path to public sector reforms",
@@ -54,6 +89,13 @@
     "ut": 1766536200.0,
     "dir_path_unix": "data/articles/meet-the-man-hunting-the.da2bbf20",
     "time_str_formatted": "06:00 AM, Wednesday, December 24, 2025"
+  },
+  {
+    "title": "How I learned to stop worrying and love AI slop",
+    "url": "https://www.technologyreview.com/2025/12/23/1130396/how-i-learned-to-stop-worrying-and-love-ai-slop/",
+    "ut": 1766446200.0,
+    "dir_path_unix": "data/articles/how-i-learned-to-stop-wo.b053e43b",
+    "time_str_formatted": "05:00 AM, Tuesday, December 23, 2025"
   },
   {
     "title": "How social media encourages the worst of AI boosterism",

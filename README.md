@@ -2,13 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-25 06:25:57**
+Last Updated **2025-12-25 18:23:17**
 
 ## 2025-12-25
 
+* [Christmas amidst climate catastrophe: Serenity of stillness](data/articles/christmas-amidst-climate.625d92b6/README.md) `ft.lk`
+* [Gaza explodes in Sydney](data/articles/gaza-explodes-in-sydney.085432e6/README.md) `ft.lk`
+* [Elephants in the fridge and humans in the wedge?](data/articles/elephants-in-the-fridge.efbf2643/README.md) `ft.lk`
+* [Debt relief as disaster relief: A timely call by international experts](data/articles/debt-relief-as-disaster.58b1baad/README.md) `ft.lk`
 * [Mitigating landslides in the upper catchments of Sri Lanka](data/articles/mitigating-landslides-in.6f1e8e13/README.md) `ft.lk`
 * [Off track in Hill Country](data/articles/off-track-in-hill-countr.d27d2c82/README.md) `ft.lk`
 * [Wise Christmas](data/articles/wise-christmas.a261f52d/README.md) `ft.lk`
+* [AI Wrapped: The 14 AI terms you couldn’t avoid in 2025](data/articles/ai-wrapped-the-14-ai-ter.91fd04c2/README.md) `technologyreview.com`
 
 ## 2025-12-24
 
@@ -20,6 +25,7 @@ Last Updated **2025-12-25 06:25:57**
 
 ## 2025-12-23
 
+* [How I learned to stop worrying and love AI slop](data/articles/how-i-learned-to-stop-wo.b053e43b/README.md) `technologyreview.com`
 * [How social media encourages the worst of AI boosterism](data/articles/how-social-media-encoura.7ff0f39e/README.md) `technologyreview.com`
 * [The call for immediate suspension of SL’s external sovereign debt payments](data/articles/the-call-for-immediate-s.2e5f1c75/README.md) `ft.lk`
 * [The call for immediate suspension of SL’s external sovereign debt payments](data/articles/the-call-for-immediate-s.0486b23f/README.md) `ft.lk`
