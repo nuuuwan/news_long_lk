@@ -1,5 +1,19 @@
 [
   {
+    "title": "MIT Technology Review\u2019s most popular stories of 2025",
+    "url": "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/",
+    "ut": 1766712600.0,
+    "dir_path_unix": "data/articles/mit-technology-review-s.36622fe4",
+    "time_str_formatted": "07:00 AM, Friday, December 26, 2025"
+  },
+  {
+    "title": "Murder in the Cathedral: Christmas Killing of TNA MP Joseph Pararajasingham",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=71392",
+    "ut": 1766691687.0,
+    "dir_path_unix": "data/articles/murder-in-the-cathedral.52b3e7a0",
+    "time_str_formatted": "01:11 AM, Friday, December 26, 2025"
+  },
+  {
     "title": "Christmas amidst climate catastrophe: Serenity of stillness",
     "url": "https://www.ft.lk/columns/Christmas-amidst-climate-catastrophe-Serenity-of-stillness/4-786119",
     "ut": 1766625309.0,
@@ -96,6 +110,13 @@
     "ut": 1766536200.0,
     "dir_path_unix": "data/articles/four-bright-spots-in-cli.c426a974",
     "time_str_formatted": "06:00 AM, Wednesday, December 24, 2025"
+  },
+  {
+    "title": "Researchers are getting organoids pregnant with human embryos",
+    "url": "https://www.technologyreview.com/2025/12/23/1130415/organoid-uterus-microfluidic-chip-embryo/",
+    "ut": 1766467800.0,
+    "dir_path_unix": "data/articles/researchers-are-getting.0f320195",
+    "time_str_formatted": "11:00 AM, Tuesday, December 23, 2025"
   },
   {
     "title": "How I learned to stop worrying and love AI slop",

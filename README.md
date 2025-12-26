@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-26 06:26:10**
+Last Updated **2025-12-26 18:23:18**
+
+## 2025-12-26
+
+* [MIT Technology Review’s most popular stories of 2025](data/articles/mit-technology-review-s.36622fe4/README.md) `technologyreview.com`
+* [Murder in the Cathedral: Christmas Killing of TNA MP Joseph Pararajasingham](data/articles/murder-in-the-cathedral.52b3e7a0/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-25
 
@@ -26,6 +31,7 @@ Last Updated **2025-12-26 06:26:10**
 
 ## 2025-12-23
 
+* [Researchers are getting organoids pregnant with human embryos](data/articles/researchers-are-getting.0f320195/README.md) `technologyreview.com`
 * [How I learned to stop worrying and love AI slop](data/articles/how-i-learned-to-stop-wo.b053e43b/README.md) `technologyreview.com`
 * [How social media encourages the worst of AI boosterism](data/articles/how-social-media-encoura.7ff0f39e/README.md) `technologyreview.com`
 * [The call for immediate suspension of SL’s external sovereign debt payments](data/articles/the-call-for-immediate-s.2e5f1c75/README.md) `ft.lk`
