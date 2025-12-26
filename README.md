@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-25 18:23:17**
+Last Updated **2025-12-26 06:26:10**
 
 ## 2025-12-25
 
@@ -22,6 +22,7 @@ Last Updated **2025-12-25 18:23:17**
 * [India’s generosity in Ditwah’s wake; a partnership of reliability](data/articles/india-s-generosity-in-di.9d83e042/README.md) `ft.lk`
 * [When backing grows stronger, and when it subtly declines](data/articles/when-backing-grows-stron.90b35583/README.md) `ft.lk`
 * [Meet the man hunting the spies in your smartphone](data/articles/meet-the-man-hunting-the.da2bbf20/README.md) `technologyreview.com`
+* [Four bright spots in climate news in 2025](data/articles/four-bright-spots-in-cli.c426a974/README.md) `technologyreview.com`
 
 ## 2025-12-23
 
