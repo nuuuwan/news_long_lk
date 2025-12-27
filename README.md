@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-26 18:23:18**
+Last Updated **2025-12-27 06:25:56**
 
 ## 2025-12-26
 
 * [MIT Technology Review’s most popular stories of 2025](data/articles/mit-technology-review-s.36622fe4/README.md) `technologyreview.com`
+* [The paints, coatings, and chemicals making the world a cooler place](data/articles/the-paints-coatings-and.266d8b13/README.md) `technologyreview.com`
 * [Murder in the Cathedral: Christmas Killing of TNA MP Joseph Pararajasingham](data/articles/murder-in-the-cathedral.52b3e7a0/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-25
