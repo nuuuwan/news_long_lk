@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-28 18:22:54**
+Last Updated **2025-12-29 06:25:56**
+
+## 2025-12-29
+
+* [Public panic, mass displacement and criminal culpability](data/articles/public-panic-mass-displa.bab9f93f/README.md) `ft.lk`
+* [Dr. Amal Utum Herat: Jack of all trades and master of everything](data/articles/dr-amal-utum-herat-jack.af3498cc/README.md) `ft.lk`
+* [Don’t take silence for recovery, we need to act before silence turns into hunger: FAO](data/articles/don-t-take-silence-for-r.9999a81d/README.md) `ft.lk`
+* [Beyond relief: Building Sri Lanka’s digital disaster brain](data/articles/beyond-relief-building-s.0838939f/README.md) `ft.lk`
+* [Corporate criminal liability under the Anti-Corruption Act of 2023](data/articles/corporate-criminal-liabi.8fd606fb/README.md) `ft.lk`
 
 ## 2025-12-26
 
