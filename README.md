@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-29 18:23:32**
+Last Updated **2025-12-30 06:25:55**
+
+## 2025-12-30
+
+* [What industries can learn from NIBM’s initiative](data/articles/what-industries-can-lear.f8dc2a74/README.md) `ft.lk`
+* [Rebuild smarter, better: A call to reimagine the railway to Kandy after Cyclone Ditwah](data/articles/rebuild-smarter-better-a.92853d78/README.md) `ft.lk`
+* [Postponing sovereign  debt repayment: Are we being pushed back to hell?](data/articles/postponing-sovereign-deb.5aa9853e/README.md) `ft.lk`
+* [A 150-year testament to Ceylon’s coffee era](data/articles/a-150-year-testament-to.eb9baa04/README.md) `ft.lk`
+* [Permits, privilege,  and the price we all pay](data/articles/permits-privilege-and-th.fdca67fa/README.md) `ft.lk`
 
 ## 2025-12-29
 
