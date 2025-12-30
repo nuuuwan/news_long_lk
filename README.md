@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-30 06:25:55**
+Last Updated **2025-12-30 18:23:16**
 
 ## 2025-12-30
 
+* [The ascent of the AI therapist](data/articles/the-ascent-of-the-ai-the.e4a7bbc2/README.md) `technologyreview.com`
 * [What industries can learn from NIBM’s initiative](data/articles/what-industries-can-lear.f8dc2a74/README.md) `ft.lk`
 * [Rebuild smarter, better: A call to reimagine the railway to Kandy after Cyclone Ditwah](data/articles/rebuild-smarter-better-a.92853d78/README.md) `ft.lk`
 * [Postponing sovereign  debt repayment: Are we being pushed back to hell?](data/articles/postponing-sovereign-deb.5aa9853e/README.md) `ft.lk`
