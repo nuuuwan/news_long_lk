@@ -2,13 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-31 06:25:57**
+Last Updated **2025-12-31 18:23:15**
 
 ## 2025-12-31
 
+* [Sri Lanka Railways after Ditwah: Rebuilding what was decimated; and building what a nation deserves](data/articles/sri-lanka-railways-after.c45c7510/README.md) `ft.lk`
+* [Telecom networks: Resilience or building back better?](data/articles/telecom-networks-resilie.e2ce188d/README.md) `ft.lk`
+* [India’s $450 m reconstruction package after Cyclone Ditwah](data/articles/india-s-450-m-reconstruc.ce8c57fc/README.md) `ft.lk`
+* [From flood relief to flood resilience:  Rethinking housing for disaster-affected families](data/articles/from-flood-relief-to-flo.ff4b378b/README.md) `ft.lk`
 * [Build back better for a thriving life-rebuilding Sri Lanka](data/articles/build-back-better-for-a.13699120/README.md) `ft.lk`
 * [A nearly nine-month vacancy and the quiet crisis of accountability](data/articles/a-nearly-nine-month-vaca.c58119eb/README.md) `ft.lk`
 * [Disaster and civic responsibility-Part I](data/articles/disaster-and-civic-respo.4d1966f6/README.md) `ft.lk`
+* [Arrest and Detention of EPDP Leader Douglas Devananda  who Fought with the  Sri Lankan Army Against the LTTE](data/articles/arrest-and-detention-of.02a935a5/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-30
 
