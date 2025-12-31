@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-30 18:23:16**
+Last Updated **2025-12-31 06:25:57**
+
+## 2025-12-31
+
+* [Build back better for a thriving life-rebuilding Sri Lanka](data/articles/build-back-better-for-a.13699120/README.md) `ft.lk`
+* [A nearly nine-month vacancy and the quiet crisis of accountability](data/articles/a-nearly-nine-month-vaca.c58119eb/README.md) `ft.lk`
+* [Disaster and civic responsibility-Part I](data/articles/disaster-and-civic-respo.4d1966f6/README.md) `ft.lk`
 
 ## 2025-12-30
 
