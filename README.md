@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2025-12-31 18:23:15**
+Last Updated **2026-01-01 06:26:29**
+
+## 2026-01-01
+
+* [From 2026 to 2029: Winning strategy for Sajith and Namal](data/articles/from-2026-to-2029-winnin.4c2f4397/README.md) `ft.lk`
 
 ## 2025-12-31
 
+* [Our rotten pillars, politicians and bureaucrats](data/articles/our-rotten-pillars-polit.0c6f97e1/README.md) `ft.lk`
+* [Sri Lanka needs more than transparency to break the cycle of corruption: University of London Economists](data/articles/sri-lanka-needs-more-tha.12dc8b41/README.md) `ft.lk`
+* [Tea grower’s story: Context for humanity](data/articles/tea-grower-s-story-conte.30dfb365/README.md) `ft.lk`
 * [Sri Lanka Railways after Ditwah: Rebuilding what was decimated; and building what a nation deserves](data/articles/sri-lanka-railways-after.c45c7510/README.md) `ft.lk`
 * [Telecom networks: Resilience or building back better?](data/articles/telecom-networks-resilie.e2ce188d/README.md) `ft.lk`
 * [India’s $450 m reconstruction package after Cyclone Ditwah](data/articles/india-s-450-m-reconstruc.ce8c57fc/README.md) `ft.lk`
