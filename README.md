@@ -2,12 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-02 06:26:13**
+Last Updated **2026-01-02 18:23:24**
 
 ## 2026-01-02
 
+* [University autonomy under siege: Sri Lanka’s dangerous drift towards politicised higher education](data/articles/university-autonomy-unde.7ed490f6/README.md) `ft.lk`
+* [Rise of digital forensics: Meeting demands of a data-driven world](data/articles/rise-of-digital-forensic.6c0029cc/README.md) `ft.lk`
+* [Disaster and civic responsibility-Part II](data/articles/disaster-and-civic-respo.a574edec/README.md) `ft.lk`
+* [From crisis to creativity: Rethinking economic resilience in Sri Lanka](data/articles/from-crisis-to-creativit.3e218ee5/README.md) `ft.lk`
 * [Separating ownership and operation will significantly improve public bus transportation system](data/articles/separating-ownership-and.9b95f571/README.md) `ft.lk`
 * [Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill](data/articles/civil-society-trade-unio.fec50ad8/README.md) `ft.lk`
+* [Job titles of the future: Head-transplant surgeon](data/articles/job-titles-of-the-future.27565234/README.md) `technologyreview.com`
 
 ## 2026-01-01
 
