@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-01 18:23:16**
+Last Updated **2026-01-02 06:26:13**
+
+## 2026-01-02
+
+* [Separating ownership and operation will significantly improve public bus transportation system](data/articles/separating-ownership-and.9b95f571/README.md) `ft.lk`
+* [Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill](data/articles/civil-society-trade-unio.fec50ad8/README.md) `ft.lk`
 
 ## 2026-01-01
 
@@ -20,6 +25,7 @@ Last Updated **2026-01-01 18:23:16**
 * [Build back better for a thriving life-rebuilding Sri Lanka](data/articles/build-back-better-for-a.13699120/README.md) `ft.lk`
 * [A nearly nine-month vacancy and the quiet crisis of accountability](data/articles/a-nearly-nine-month-vaca.c58119eb/README.md) `ft.lk`
 * [Disaster and civic responsibility-Part I](data/articles/disaster-and-civic-respo.4d1966f6/README.md) `ft.lk`
+* [Why inventing new emotions feels so good](data/articles/why-inventing-new-emotio.4413fe7f/README.md) `technologyreview.com`
 * [Arrest and Detention of EPDP Leader Douglas Devananda  who Fought with the  Sri Lankan Army Against the LTTE](data/articles/arrest-and-detention-of.02a935a5/README.md) `dbsjeyaraj.com`
 
 ## 2025-12-30
