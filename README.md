@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-03 06:25:55**
+Last Updated **2026-01-03 18:22:41**
 
 ## 2026-01-03
 
@@ -13,6 +13,7 @@ Last Updated **2026-01-03 06:25:55**
 
 ## 2026-01-02
 
+* [ஈ.பி.டி.பி தலைவர் டக்ளஸ்  கைதும் பின்னணியும்; மஹர சிறைச்சாலையின் வைத்தியசாலையில்  அனுமதிக்கப்பட்டிருக்கும்  தேவானந்தாவுக்கு அடுத்து என்ன நேரப்போகிறது?](data/articles/ஈ-ப-ட-ப-தல-வர-டக-ளஸ-க-த.06f86ef1/README.md) `dbsjeyaraj.com`
 * [University autonomy under siege: Sri Lanka’s dangerous drift towards politicised higher education](data/articles/university-autonomy-unde.7ed490f6/README.md) `ft.lk`
 * [Rise of digital forensics: Meeting demands of a data-driven world](data/articles/rise-of-digital-forensic.6c0029cc/README.md) `ft.lk`
 * [Disaster and civic responsibility-Part II](data/articles/disaster-and-civic-respo.a574edec/README.md) `ft.lk`
