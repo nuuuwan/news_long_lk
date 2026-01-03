@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-02 18:23:24**
+Last Updated **2026-01-03 06:25:55**
+
+## 2026-01-03
+
+* [What is local governance?](data/articles/what-is-local-governance.be92376f/README.md) `ft.lk`
+* [Solar power on irrigation canals: A dual solution for energy and water conservation](data/articles/solar-power-on-irrigatio.d3f0b72d/README.md) `ft.lk`
+* [Cyclone Ditwah: Wake-up call for national security policy and strategy](data/articles/cyclone-ditwah-wake-up-c.51bf2693/README.md) `ft.lk`
+* [Sri Lanka’s collision with nature: Lessons from India to address agrarian question and employment](data/articles/sri-lanka-s-collision-wi.e7853dc8/README.md) `ft.lk`
 
 ## 2026-01-02
 
@@ -12,6 +19,7 @@ Last Updated **2026-01-02 18:23:24**
 * [From crisis to creativity: Rethinking economic resilience in Sri Lanka](data/articles/from-crisis-to-creativit.3e218ee5/README.md) `ft.lk`
 * [Separating ownership and operation will significantly improve public bus transportation system](data/articles/separating-ownership-and.9b95f571/README.md) `ft.lk`
 * [Civil society, trade unions, activists urge Govt. to withdraw Protection of the State from Terrorism Bill](data/articles/civil-society-trade-unio.fec50ad8/README.md) `ft.lk`
+* [3 things Will Douglas Heaven is into right now](data/articles/3-things-will-douglas-he.c51dea74/README.md) `technologyreview.com`
 * [Job titles of the future: Head-transplant surgeon](data/articles/job-titles-of-the-future.27565234/README.md) `technologyreview.com`
 
 ## 2026-01-01
