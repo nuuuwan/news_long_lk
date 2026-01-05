@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-05 06:26:17**
+Last Updated **2026-01-05 18:23:36**
 
 ## 2026-01-05
 
@@ -14,6 +14,8 @@ Last Updated **2026-01-05 06:26:17**
 
 ## 2026-01-04
 
+* [20th Anniversary of Gruesome Killing of Five Tamil Students in Trinco Town: Emblematic Case of Impunity](data/articles/20th-anniversary-of-grue.43137f4a/README.md) `dbsjeyaraj.com`
+* [JVP  Issues Sinhala Statement Strongly Condemning  US  Military Aggression In Venezeula and Abduction of President Maduro and Wife but Sri Lanka’s Foreign Ministry yet to Issue Statement; No Comment by Govt Members so far](data/articles/jvp-issues-sinhala-state.32b44f4d/README.md) `dbsjeyaraj.com`
 * [Ilankai Thamil Arasuk Katchi(ITAK) Politburo Asks  Sivagnanam Shritharan to Step Down from the Constitutional Council Following the Jaffna MP Siding with the AKD Govt Backed Nominees for Top Posts on Eight Occasions](data/articles/ilankai-thamil-arasuk-ka.3a5cd668/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-03
