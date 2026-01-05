@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-04 18:23:30**
+Last Updated **2026-01-05 06:26:17**
+
+## 2026-01-05
+
+* [Cyclone Ditwah and its unparalleled damage: Seeking sustainable solutions is the biggest challenge in 2026](data/articles/cyclone-ditwah-and-its-u.67bfb538/README.md) `ft.lk`
+* [Reassessing Sri Lanka’s 2026 outlook after Cyclone Ditwah](data/articles/reassessing-sri-lanka-s.05f27177/README.md) `ft.lk`
+* [Protection of the State from Terrorism Act: A critique of the current proposal](data/articles/protection-of-the-state.52c84153/README.md) `ft.lk`
+* [Reclaiming Sri Lanka’s electricity future: The need for transparent, inclusive, and visionary policy reform](data/articles/reclaiming-sri-lanka-s-e.c4b00280/README.md) `ft.lk`
+* [Arrest without authority: Trump, Maduro, and strain on international law](data/articles/arrest-without-authority.0339b9d3/README.md) `ft.lk`
+
+## 2026-01-04
+
+* [Ilankai Thamil Arasuk Katchi(ITAK) Politburo Asks  Sivagnanam Shritharan to Step Down from the Constitutional Council Following the Jaffna MP Siding with the AKD Govt Backed Nominees for Top Posts on Eight Occasions](data/articles/ilankai-thamil-arasuk-ka.3a5cd668/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-03
 
