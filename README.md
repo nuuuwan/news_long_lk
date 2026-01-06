@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-05 18:23:36**
+Last Updated **2026-01-06 06:26:32**
+
+## 2026-01-06
+
+* [The case for bigger and stronger banks](data/articles/the-case-for-bigger-and.b6278ee4/README.md) `ft.lk`
+* [Ditwah disaster response: Legal limits and market costs of suspending debt payments](data/articles/ditwah-disaster-response.2c2a4664/README.md) `ft.lk`
+* [Debt after Ditwah: Why Sri Lanka should be cautious](data/articles/debt-after-ditwah-why-sr.cad919eb/README.md) `ft.lk`
+* [An open letter to Central Bank of Sri Lanka Governor Dr. Nandalal Weerasinghe](data/articles/an-open-letter-to-centra.f07b0a53/README.md) `ft.lk`
+* [Ruana Rajapakse’s fight for Galle Face Green](data/articles/ruana-rajapakse-s-fight.156a48e0/README.md) `ft.lk`
 
 ## 2026-01-05
 
