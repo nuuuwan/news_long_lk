@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-07 06:26:20**
+Last Updated **2026-01-07 18:23:54**
 
 ## 2026-01-07
 
+* [LLMs contain a LOT of parameters. But what’s a parameter?](data/articles/llms-contain-a-lot-of-pa.0ba59559/README.md) `technologyreview.com`
 * [Navigating Trump’s (old) world order](data/articles/navigating-trump-s-old-w.095e7bc4/README.md) `ft.lk`
 * [Rebuilding after disaster: Speed versus sustainability](data/articles/rebuilding-after-disaste.3fff3972/README.md) `ft.lk`
 * [Beyond bank discretion: Why Sri Lanka needs  independent mechanism to protect calamity-affected SMEs](data/articles/beyond-bank-discretion-w.3a295fe6/README.md) `ft.lk`
@@ -14,6 +15,8 @@ Last Updated **2026-01-07 06:26:20**
 
 ## 2026-01-06
 
+* [Graveside memorial service to mark 17th anniversary of Lasantha’s assassination On Thursday 8 January 9 a.m. at Borella Kanatte](data/articles/graveside-memorial-servi.ed6b8902/README.md) `dbsjeyaraj.com`
+* [Venezuela has the largest proven oil reserves in the world and its dense, sticky, tar-like crude oil is particularly suitable for US refineries. America wants that oil, as Donald Trump said, loud and clear.](data/articles/venezuela-has-the-larges.eb09da0d/README.md) `dbsjeyaraj.com`
 * [Why AI predictions are so hard](data/articles/why-ai-predictions-are-s.f2318d54/README.md) `technologyreview.com`
 * [The case for bigger and stronger banks](data/articles/the-case-for-bigger-and.b6278ee4/README.md) `ft.lk`
 * [Ditwah disaster response: Legal limits and market costs of suspending debt payments](data/articles/ditwah-disaster-response.2c2a4664/README.md) `ft.lk`
@@ -25,6 +28,7 @@ Last Updated **2026-01-07 06:26:20**
 
 ## 2026-01-05
 
+* [What’s next for AI in 2026](data/articles/what-s-next-for-ai-in-20.8bdc2f5a/README.md) `technologyreview.com`
 * [Cyclone Ditwah and its unparalleled damage: Seeking sustainable solutions is the biggest challenge in 2026](data/articles/cyclone-ditwah-and-its-u.67bfb538/README.md) `ft.lk`
 * [Reassessing Sri Lanka’s 2026 outlook after Cyclone Ditwah](data/articles/reassessing-sri-lanka-s.05f27177/README.md) `ft.lk`
 * [Protection of the State from Terrorism Act: A critique of the current proposal](data/articles/protection-of-the-state.52c84153/README.md) `ft.lk`
