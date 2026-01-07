@@ -1,0 +1,172 @@
+# Rebuilding after disaster: Speed versus sustainability
+
+[https://www.ft.lk/columns/Rebuilding-after-disaster-Speed-versus-sustainability/4-786599](https://www.ft.lk/columns/Rebuilding-after-disaster-Speed-versus-sustainability/4-786599)
+
+*04:28 AM, Wednesday, January 07, 2026*
+
+Climate change ensures that yesterday’s standards will not survive tomorrow’s storms. Every disaster repeats the same question: did we rebuild better— or just faster?
+
+President Anura Kumara Dissanayake in his 2026 New Year message stated, “We can collectively recreate a country far better than the one we inherited.” It is a powerful and hopeful statement, one that resonates deeply with a nation repeatedly tested by economic collapse, governance failures, and now yet another natural disaster.
+
+The real question is not whether we can rebuild Sri Lanka better. The question is whether we are learning from past mistakes and rebuilding in the right way, or whether we are once again mistaking speed for progress.
+
+The recent devastation caused by the Ditwah cyclone offers a critical test of our national maturity, institutional discipline, and commitment to long-term resilience.
+
+In the immediate aftermath of any disaster, speed is essential. Roads must reopen, communities must reconnect, and economic activity must resume. However, urgency should never replace accountability.
+
+Following the cyclone, several upcountry roads were badly damaged or completely washed away due to landslides and uncontrolled runoff from hill areas. Reports even indicated that soil displacement from the hill country travelled as far as Kotmale, highlighting the scale and seriousness of the environmental impact.
+
+Yet, within weeks, we began hearing official statements that:
+
+Road networks have been restored
+
+Transport is now possible
+
+Major connectivity has been re-established
+
+These announcements may reassure the public but they raise an uncomfortable and necessary question: Have these roads been rebuilt to withstand the next disaster?
+
+Are we rebuilding to any recognised standard?
+
+Reconstruction is not merely about putting asphalt back on washed-out land. It requires:
+
+Proper geotechnical assessments
+
+Slope stabilisation and drainage design
+
+Compliance with engineering and safety standards
+
+Independent quality audits
+
+Have the newly repaired roads:
+
+Been designed according to international or nationally accepted engineering standards?
+
+Undergone quality checks during construction?
+
+Been audited after completion?
+
+Been assessed for future rainfall and climate-related risks?
+
+If heavier rains arrive next year or even next month are these roads safe for public use? Without transparent answers, declarations of “completion” are premature and potentially dangerous.
+
+Fast work and quality assurance: A dangerous trade-off
+
+Sri Lanka has a long and painful history of confusing quick fixes with permanent solutions.
+
+Roads repaired repeatedly at the same locations
+
+Flood bunds breach year after year
+
+Public infrastructure collapse within months of completion
+
+In many cases, the root cause was not lack of funding but lack of responsibility for quality.
+
+True recovery is measured not by how fast roads reopen, but by how long they endure. When everyone builds but no one audits, disaster becomes a matter of time
+
+Global case studies: Lessons we must embrace
+
+Japan: Strict standards and continuous audits
+
+Japan’s resilience to earthquakes and typhoons is not an accident; it is the result of strict building codes, robust inspection systems, and a culture of institutional learning. In the 2024 earthquakes, infrastructure built to resilient standards suffered proportionately fewer losses, illustrating the value of compliance and quality enforcement. **
+
+These standards are complemented by continuous audits, community awareness, and integration of cutting-edge engineering into public works.
+
+Bangladesh: National codes and resilient design
+
+Bangladesh, highly vulnerable to cyclones and flooding, has developed a National Building Code (BNBC) that governs construction safety and environmental resilience. Such codes, when enforced with discipline and transparency, reduce risk and protect citizens.*
+
+Sri Lanka must adopt and enforce similarly robust codes for road, bridge, and public infrastructure reconstruction, especially in hazard-prone regions.
+
+Pakistan and Zimbabwe: Build back better in practice
+
+In post-earthquake reconstruction after the 2005 Pakistan quake and the Cyclone Idai floods in Zimbabwe, the BBB approach guided reconstruction to include stronger infrastructure and community capacity building. Studies show that reconstruction that focuses merely on restoring pre-disaster conditions leaves communities vulnerable to future shocks; higher standards and social inclusion directly contribute to resilience.
+
+The current reconstruction effort involves a mix of: Armed forces; Government agencies; Provincial authorities; Private contractors and Volunteer and donor-supported initiatives.
+
+While this collective effort is commendable, it creates a serious governance gap:
+
+Who is ultimately responsible for certifying final quality and safety?
+
+When everyone is involved, but no one is clearly accountable, the risk of failure multiplies.
+
+Lessons from our own history
+
+Sri Lanka does not need to look abroad for lessons, we have lived them ourselves.
+
+After past floods and landslides, hastily repaired infrastructure often failed again within a few monsoons.
+
+Poorly designed roads in hill country areas have contributed to repeated landslides due to blocked natural water flows.
+
+In several major public infrastructure projects, post-construction audits were either delayed, ignored, or never conducted.
+
+The result has always been the same:
+
+History consistently proves one truth: When no one is responsible for quality, disaster is only postponed and not prevented.
+
+Are we creating the conditions for the next disaster?
+
+Climate change ensures that extreme weather events will become more frequent and more intense. This means that rebuilding to old standards or no standards at all is no longer acceptable.
+
+If roads are rebuilt without:
+
+Proper slope protection
+
+Scientific drainage planning
+
+Environmental impact consideration
+
+Independent certification
+
+Then we are not rebuilding, we are preparing the ground for the next collapse. Worse, we may be doing so with public applause, believing that speed equals success.
+
+Recreating a better country: What must change
+
+If we truly want to “recreate a country far better than the one we inherited,” rebuilding must be guided by:
+
+Systematic planning, not ad-hoc decisions
+
+Independent technical audits
+
+Clear assignment of responsibility
+
+Transparency in reporting standards and safety
+
+Long-term resilience, not short-term optics
+
+A better country is not one that rebuilds fastest but one that builds wisely, safely, and sustainably.
+
+Public works without quality assurance are public risks. Rebuilding quickly may restore movement, but rebuilding wisely restores confidence
+
+Conclusion: The choice before us
+
+Sri Lanka stands at a familiar crossroads. We can choose the old path, repair quickly, announce success, and wait for the next failure. Or we can choose a harder but wiser path, learn from our mistakes, enforce standards, and demand accountability.
+
+The President’s vision is achievable. But it will only become reality if:
+
+Speed is balanced with discipline
+
+Collective action is matched with clear responsibility
+
+And rebuilding is measured not by how fast roads reopen but by how long they endure
+
+The true test of national progress is not how we respond to disaster but whether we ensure it does not happen again in the same way.
+
+(The author is an Economics Honors Graduate from the Sri Jayewardenepura University, Past President of the Sri Lanka Association of Printers and International Chamber of Commerce. He is the current President of the Federation of Chamber of Commerce and Industry of Sri Lanka.  Can be reached at [email protected])
+
+https://www.gfdrr.org/en/feature-story/mitigating-disaster-risk-sri-lanka-through-nature-based-solutions
+
+https://groundviews.org/2024/12/26/lessons-learnt-from-sri-lankas-worst-natural-disaster/
+
+http://www.water.columbia.edu/files/2011/11/Zubair2006NaturalDisaster.pdf
+
+https://en.wikipedia.org/wiki/Building_Back_Better?utm_source=chatgpt.com
+
+https://www.sciencedirect.com/science/article/abs/pii/S0313592620304689?utm_source=chatgpt.com
+
+https://www.weforum.org/stories/2024/03/global-earthquakes-resilient-infrastructure/?utm_source=chatgpt.com
+
+https://link.springer.com/article/10.1007/s13753-021-00373-3?utm_source=chatgpt.com
+
+https://www.weforum.org/stories/2024/03/global-earthquakes-resilient-infrastructure/?utm_source=chatgpt.com
+

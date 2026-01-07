@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-06 18:23:32**
+Last Updated **2026-01-07 06:26:20**
+
+## 2026-01-07
+
+* [Navigating Trump’s (old) world order](data/articles/navigating-trump-s-old-w.095e7bc4/README.md) `ft.lk`
+* [Rebuilding after disaster: Speed versus sustainability](data/articles/rebuilding-after-disaste.3fff3972/README.md) `ft.lk`
+* [Beyond bank discretion: Why Sri Lanka needs  independent mechanism to protect calamity-affected SMEs](data/articles/beyond-bank-discretion-w.3a295fe6/README.md) `ft.lk`
+* [Supporting a child with special needs](data/articles/supporting-a-child-with.2fd64566/README.md) `ft.lk`
+* [The happiness files: A book review](data/articles/the-happiness-files-a-bo.bbf95d77/README.md) `ft.lk`
 
 ## 2026-01-06
 
