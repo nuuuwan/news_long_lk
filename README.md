@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-08 06:26:17**
+Last Updated **2026-01-08 18:23:30**
 
 ## 2026-01-08
 
+* [What new legal challenges mean for the future of US offshore wind](data/articles/what-new-legal-challenge.3110754d/README.md) `technologyreview.com`
 * [US attacks Venezuela, proclaims imperial overlordship; SJB-UNP rapprochement; Devananda’s destiny](data/articles/us-attacks-venezuela-pro.327a0bf2/README.md) `ft.lk`
 * [Fresh policy approach to Lasantha Wickrematunge case in an age of apathy and indifference](data/articles/fresh-policy-approach-to.95260687/README.md) `ft.lk`
 * [Sri Lanka 2.0: From fragility to strategic strength](data/articles/sri-lanka-2-0-from-fragi.3a3cad5a/README.md) `ft.lk`
