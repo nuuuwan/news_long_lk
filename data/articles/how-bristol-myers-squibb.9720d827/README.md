@@ -1,0 +1,42 @@
+# How Bristol Myers Squibb Transformed Working Capital to Fund Its Future
+
+[https://hbr.org/sponsored/2026/01/how-bristol-myers-squibb-transformed-working-capital-to-fund-its-future](https://hbr.org/sponsored/2026/01/how-bristol-myers-squibb-transformed-working-capital-to-fund-its-future)
+
+*07:48 PM, Wednesday, January 07, 2026*
+
+Sometimes it takes a combination of building pressures to spark a landslide of positive change. For pharmaceutical giant Bristol Myers Squibb (BMS), the moment came following its $74 billion acquisition in 2019 of Celgene Corp., when BMS had to fund a major post-merger integration while preparing for the expiration of valuable pharmaceutical patents.
+
+Determined to make the most of the opportunity presented by the merger, one of the largest ever in the pharmaceutical industry, BMS leaders have since embarked on an enterprise-wide initiative to modernize departments and improve the use of technology and innovation.
+
+The company needed an infusion of liquidity to support its new capital allocation strategy. With borrowing costs rising, the BMS Treasury Department kicked off a far-reaching cash management overhaul focusing on technology, process, and culture.
+
+Cash management is critical for pharmaceutical companies: The ability to fund drug innovation can make the difference between success and failure. At the same time, BMS needed to prepare for the impact of the imminent “patent cliff,” the scheduled expiration of patents that would expose several valuable brands to generic competitors.
+
+“We have significant headwinds from the loss of the exclusivity period,” said BMS SVP and Treasurer Sandra Ramos-Alves. “Cash is critical for supporting our existing business pipeline and future business development and to offset the expected loss of revenue.”
+
+Ramos-Alves and her team embarked on a program called Treasury Forward, a multi-year, working capital and technology improvement initiative that was a critical part of the company’s global finance transformation.
+
+The program is designed to generate additional free cash flow from operations and improve total shareholder return. The project helps reimagine cash management within the enterprise by automating processes and upgrading data and analytics capabilities. These changes established disciplined cash-flow performance monitoring and governance in order-to-cash, procure-to-pay, and inventory processes.
+
+BMS engaged the EY-Parthenon Working Capital practice to help implement a cash leadership office (CLO) as the centerpiece of its cash management makeover.
+
+A critical function of the CLO is to oversee all things cash and to embed cash-flow incentives and accountability throughout the relevant business functions and processes. The CLO helps establish the necessary controls and visibility to coordinate various departments. The EY-Parthenon team established a high level of trust by operating with BMS’s financial priorities in mind, teaming with the Treasury team, and interacting with third parties.
+
+Actions that help improve cash flow, such as extending payment terms for supplies and services and shortening payment-collection terms for delivered products, may seem obvious. But numerous decision-making levers that affect cash flow are embedded throughout an organization and are often closely guarded by the teams that own them.
+
+A strong free cash flow policy must be supported by a cash culture throughout affected parts of the organization. These kinds of changes are difficult for a big organization like BMS, because they involve a shift in mindset and culture, but they are an essential part of the transformation.. It is necessary to address the human elements, not just the balance sheet and cash flow.
+
+After Treasury and the EY-P team demonstrated the clear cash-flow benefits through a year-long sample assessment, internal resistance fell away, and the critical culture overhaul went ahead.
+
+The CLO and related improvements provide BMS with a cash-management engine, with appropriate controls over cash management levers and the ability to sustainably identify cash flow improvement opportunities. The office has helped optimize hundreds of millions of dollars of free cash flow since its inception, focusing on procure-to-pay as a priority, Ramos-Alves said. The work continues as BMS embarks on the next stage of the CLO rollout, integrating global supply chain processes into the program.
+
+Based on the initiative, Treasury Today, the U.K.-based leading publication on corporate treasury matters, awarded this team its prestigious Top Treasury Team award in 2023 and recognized it as “highly commended” in 2024 for excellence across Treasury, including in cash-flow management optimization.
+
+The additional liquidity and accurate cash-flow forecasting are helping BMS to fund its future and deliver on its corporate mission as it navigates the long and often unpredictable timelines associated with bringing new drugs to market.
+
+Read the complete EY-Parthenon case study How Bristol Myers Squibb overhauled working capital to fund its future, and learn more about how EY teams are helping companies use cash management techniques to improve liquidity and resilience.
+
+Gerardo Gonzalez is an EY-Parthenon principal within the Working Capital practice at Ernst & Young LLP.
+
+The views reflected in this article are the views of the authors and do not necessarily reflect the views of Ernst & Young LLP or other members of the global EY organization.
+

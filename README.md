@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-07 18:23:54**
+Last Updated **2026-01-08 06:26:17**
+
+## 2026-01-08
+
+* [US attacks Venezuela, proclaims imperial overlordship; SJB-UNP rapprochement; Devananda’s destiny](data/articles/us-attacks-venezuela-pro.327a0bf2/README.md) `ft.lk`
+* [Fresh policy approach to Lasantha Wickrematunge case in an age of apathy and indifference](data/articles/fresh-policy-approach-to.95260687/README.md) `ft.lk`
+* [Sri Lanka 2.0: From fragility to strategic strength](data/articles/sri-lanka-2-0-from-fragi.3a3cad5a/README.md) `ft.lk`
+* [Foreign assistance and global trust: Rebuilding Sri Lanka with resilience and credibility](data/articles/foreign-assistance-and-g.bef6d556/README.md) `ft.lk`
 
 ## 2026-01-07
 
+* [How Bristol Myers Squibb Transformed Working Capital to Fund Its Future](data/articles/how-bristol-myers-squibb.9720d827/README.md) `hbr.org`
 * [LLMs contain a LOT of parameters. But what’s a parameter?](data/articles/llms-contain-a-lot-of-pa.0ba59559/README.md) `technologyreview.com`
 * [Navigating Trump’s (old) world order](data/articles/navigating-trump-s-old-w.095e7bc4/README.md) `ft.lk`
 * [Rebuilding after disaster: Speed versus sustainability](data/articles/rebuilding-after-disaste.3fff3972/README.md) `ft.lk`
