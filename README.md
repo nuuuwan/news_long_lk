@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-08 18:23:30**
+Last Updated **2026-01-09 06:26:16**
+
+## 2026-01-09
+
+* [Sri Lanka: A proven neutral destination in the region](data/articles/sri-lanka-a-proven-neutr.da983cb1/README.md) `ft.lk`
 
 ## 2026-01-08
 
@@ -26,6 +30,7 @@ Last Updated **2026-01-08 18:23:30**
 
 * [Graveside memorial service to mark 17th anniversary of Lasantha’s assassination On Thursday 8 January 9 a.m. at Borella Kanatte](data/articles/graveside-memorial-servi.ed6b8902/README.md) `dbsjeyaraj.com`
 * [Venezuela has the largest proven oil reserves in the world and its dense, sticky, tar-like crude oil is particularly suitable for US refineries. America wants that oil, as Donald Trump said, loud and clear.](data/articles/venezuela-has-the-larges.eb09da0d/README.md) `dbsjeyaraj.com`
+* [Europe’s drone-filled vision for the future of war](data/articles/europe-s-drone-filled-vi.b65d922f/README.md) `technologyreview.com`
 * [Why AI predictions are so hard](data/articles/why-ai-predictions-are-s.f2318d54/README.md) `technologyreview.com`
 * [The case for bigger and stronger banks](data/articles/the-case-for-bigger-and.b6278ee4/README.md) `ft.lk`
 * [Ditwah disaster response: Legal limits and market costs of suspending debt payments](data/articles/ditwah-disaster-response.2c2a4664/README.md) `ft.lk`
