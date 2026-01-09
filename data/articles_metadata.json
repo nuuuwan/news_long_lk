@@ -1,10 +1,38 @@
 [
   {
+    "title": "Education reforms, let\u2019s learn from Singapore",
+    "url": "https://www.ft.lk/columns/Education-reforms-let-s-learn-from-Singapore/4-786715",
+    "ut": 1767921319.0,
+    "dir_path_unix": "data/articles/education-reforms-let-s.4312fce7",
+    "time_str_formatted": "06:45 AM, Friday, January 09, 2026"
+  },
+  {
+    "title": "We are counting tourists, not measuring value: Part 2",
+    "url": "https://www.ft.lk/columns/We-are-counting-tourists-not-measuring-value-Part-2/4-786714",
+    "ut": 1767920683.0,
+    "dir_path_unix": "data/articles/we-are-counting-tourists.96745b34",
+    "time_str_formatted": "06:34 AM, Friday, January 09, 2026"
+  },
+  {
+    "title": "The disappointment that is the draft Prevention of Terrorism against the State Bill",
+    "url": "https://www.ft.lk/columns/The-disappointment-that-is-the-draft-Prevention-of-Terrorism-against-the-State-Bill/4-786713",
+    "ut": 1767920325.0,
+    "dir_path_unix": "data/articles/the-disappointment-that.c1d0ebe9",
+    "time_str_formatted": "06:28 AM, Friday, January 09, 2026"
+  },
+  {
     "title": "Sri Lanka: A proven neutral destination in the region",
     "url": "https://www.ft.lk/columns/Sri-Lanka-A-proven-neutral-destination-in-the-region/4-786712",
     "ut": 1767919648.0,
     "dir_path_unix": "data/articles/sri-lanka-a-proven-neutr.da983cb1",
     "time_str_formatted": "06:17 AM, Friday, January 09, 2026"
+  },
+  {
+    "title": "A new CRISPR startup is betting regulators will ease up on gene-editing",
+    "url": "https://www.technologyreview.com/2026/01/09/1130945/crispr-startup-aurora-betting-regulation-pku/",
+    "ut": 1767918600.0,
+    "dir_path_unix": "data/articles/a-new-crispr-startup-is.1ca61596",
+    "time_str_formatted": "06:00 AM, Friday, January 09, 2026"
   },
   {
     "title": "What new legal challenges mean for the future of US offshore wind",
@@ -54,6 +82,13 @@
     "ut": 1767747227.0,
     "dir_path_unix": "data/articles/llms-contain-a-lot-of-pa.0ba59559",
     "time_str_formatted": "06:23 AM, Wednesday, January 07, 2026"
+  },
+  {
+    "title": "The man who made India digital isn\u2019t done yet",
+    "url": "https://www.technologyreview.com/2026/01/07/1129748/aadhaar-nandan-nilekani-india-digital-biometric-identity-data/",
+    "ut": 1767745800.0,
+    "dir_path_unix": "data/articles/the-man-who-made-india-d.8d40c3ac",
+    "time_str_formatted": "06:00 AM, Wednesday, January 07, 2026"
   },
   {
     "title": "Navigating Trump\u2019s (old) world order",

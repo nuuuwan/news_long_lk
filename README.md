@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-09 06:26:16**
+Last Updated **2026-01-09 18:23:48**
 
 ## 2026-01-09
 
+* [Education reforms, let’s learn from Singapore](data/articles/education-reforms-let-s.4312fce7/README.md) `ft.lk`
+* [We are counting tourists, not measuring value: Part 2](data/articles/we-are-counting-tourists.96745b34/README.md) `ft.lk`
+* [The disappointment that is the draft Prevention of Terrorism against the State Bill](data/articles/the-disappointment-that.c1d0ebe9/README.md) `ft.lk`
 * [Sri Lanka: A proven neutral destination in the region](data/articles/sri-lanka-a-proven-neutr.da983cb1/README.md) `ft.lk`
+* [A new CRISPR startup is betting regulators will ease up on gene-editing](data/articles/a-new-crispr-startup-is.1ca61596/README.md) `technologyreview.com`
 
 ## 2026-01-08
 
@@ -20,6 +24,7 @@ Last Updated **2026-01-09 06:26:16**
 
 * [How Bristol Myers Squibb Transformed Working Capital to Fund Its Future](data/articles/how-bristol-myers-squibb.9720d827/README.md) `hbr.org`
 * [LLMs contain a LOT of parameters. But what’s a parameter?](data/articles/llms-contain-a-lot-of-pa.0ba59559/README.md) `technologyreview.com`
+* [The man who made India digital isn’t done yet](data/articles/the-man-who-made-india-d.8d40c3ac/README.md) `technologyreview.com`
 * [Navigating Trump’s (old) world order](data/articles/navigating-trump-s-old-w.095e7bc4/README.md) `ft.lk`
 * [Rebuilding after disaster: Speed versus sustainability](data/articles/rebuilding-after-disaste.3fff3972/README.md) `ft.lk`
 * [Beyond bank discretion: Why Sri Lanka needs  independent mechanism to protect calamity-affected SMEs](data/articles/beyond-bank-discretion-w.3a295fe6/README.md) `ft.lk`
