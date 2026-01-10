@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-09 18:23:48**
+Last Updated **2026-01-10 06:26:33**
 
 ## 2026-01-09
 
+* [Julie Chung made diplomacy meaningful](data/articles/julie-chung-made-diploma.1731bc88/README.md) `ft.lk`
+* [Geopolitical sentiments and implications for Sri Lanka](data/articles/geopolitical-sentiments.abd38b11/README.md) `ft.lk`
+* [Beyond blame: Rebuilding Sri Lanka after disaster](data/articles/beyond-blame-rebuilding.c63e65ab/README.md) `ft.lk`
+* [Installing road speed cameras will be a win–win solution](data/articles/installing-road-speed-ca.d3084808/README.md) `ft.lk`
+* [Selective sovereignty at sea: What the US seizure of Russian oil tanker tells about global order](data/articles/selective-sovereignty-at.5c143e2b/README.md) `ft.lk`
 * [Education reforms, let’s learn from Singapore](data/articles/education-reforms-let-s.4312fce7/README.md) `ft.lk`
 * [We are counting tourists, not measuring value: Part 2](data/articles/we-are-counting-tourists.96745b34/README.md) `ft.lk`
 * [The disappointment that is the draft Prevention of Terrorism against the State Bill](data/articles/the-disappointment-that.c1d0ebe9/README.md) `ft.lk`
@@ -14,6 +19,7 @@ Last Updated **2026-01-09 18:23:48**
 
 ## 2026-01-08
 
+* [America’s new dietary guidelines ignore decades of scientific research](data/articles/america-s-new-dietary-gu.cb843811/README.md) `technologyreview.com`
 * [What new legal challenges mean for the future of US offshore wind](data/articles/what-new-legal-challenge.3110754d/README.md) `technologyreview.com`
 * [US attacks Venezuela, proclaims imperial overlordship; SJB-UNP rapprochement; Devananda’s destiny](data/articles/us-attacks-venezuela-pro.327a0bf2/README.md) `ft.lk`
 * [Fresh policy approach to Lasantha Wickrematunge case in an age of apathy and indifference](data/articles/fresh-policy-approach-to.95260687/README.md) `ft.lk`
