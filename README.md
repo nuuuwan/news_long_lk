@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-11 18:22:56**
+Last Updated **2026-01-12 06:26:06**
+
+## 2026-01-12
+
+* [Asoka Handagama’s Moon Hunt: A re-enactment of an event in two time periods](data/articles/asoka-handagama-s-moon-h.d622c6f1/README.md) `ft.lk`
+* [Health after the floods: Scientific realities and shared responsibility for Sri Lanka’s future](data/articles/health-after-the-floods.182415c2/README.md) `ft.lk`
+* [Monks’ epic journey for peace captivates people across America](data/articles/monks-epic-journey-for-p.7077f5a8/README.md) `ft.lk`
+* [Education Reform: Don’t play politics with our future](data/articles/education-reform-don-t-p.a3b3f85c/README.md) `ft.lk`
+* [Royal College alumnus sends Open Letter to President Dissanayake alleging misuse of State assets](data/articles/royal-college-alumnus-se.0bccedab/README.md) `ft.lk`
 
 ## 2026-01-09
 
