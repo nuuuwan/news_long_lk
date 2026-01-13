@@ -2,18 +2,30 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-12 18:23:51**
+Last Updated **2026-01-13 06:26:17**
+
+## 2026-01-13
+
+* [“The talk is by palanquin, but the journey  is by foot’’- Depictive of Sri Lanka’s FDI efforts](data/articles/the-talk-is-by-palanqui.62e04194/README.md) `ft.lk`
+* [Non-issuance of original health records to patients](data/articles/non-issuance-of-original.70900560/README.md) `ft.lk`
+* [Missing pillar in Sri Lanka’s recovery: A new Public Development Bank](data/articles/missing-pillar-in-sri-la.ed9129d0/README.md) `ft.lk`
+* [Australia is not closing doors to Sri Lankans despite anti-immigration protests](data/articles/australia-is-not-closing.0bb1ba3f/README.md) `ft.lk`
+* [Sri Lanka’s fiscal future: A UK-UAE inspired blueprint for AI-powered tax digitalisation and transparency](data/articles/sri-lanka-s-fiscal-futur.15ffd174/README.md) `ft.lk`
 
 ## 2026-01-12
 
+* [CES showed me why Chinese tech companies feel so optimistic](data/articles/ces-showed-me-why-chines.563c95e5/README.md) `technologyreview.com`
 * [The astronaut training tourists to fly in the world’s first commercial space station](data/articles/the-astronaut-training-t.e26ba6d4/README.md) `technologyreview.com`
 * [Embryo scoring: 10 Breakthrough Technologies 2026](data/articles/embryo-scoring-10-breakt.07c4f571/README.md) `technologyreview.com`
+* [Sodium-ion batteries: 10 Breakthrough Technologies 2026](data/articles/sodium-ion-batteries-10.2ee6f0f5/README.md) `technologyreview.com`
 * [Gene resurrection: 10 Breakthrough Technologies 2026](data/articles/gene-resurrection-10-bre.149ab4ff/README.md) `technologyreview.com`
+* [Asoka Handagama, through his latest cinematic creation, ‘Sandha  Dadayama” (Moon Hunt, uses the inanimate Moon as the testifying witness to some crimes committed under the very bright moonlight](data/articles/asoka-handagama-through.2304123b/README.md) `dbsjeyaraj.com`
 * [Asoka Handagama’s Moon Hunt: A re-enactment of an event in two time periods](data/articles/asoka-handagama-s-moon-h.d622c6f1/README.md) `ft.lk`
 * [Health after the floods: Scientific realities and shared responsibility for Sri Lanka’s future](data/articles/health-after-the-floods.182415c2/README.md) `ft.lk`
 * [Monks’ epic journey for peace captivates people across America](data/articles/monks-epic-journey-for-p.7077f5a8/README.md) `ft.lk`
 * [Education Reform: Don’t play politics with our future](data/articles/education-reform-don-t-p.a3b3f85c/README.md) `ft.lk`
 * [Royal College alumnus sends Open Letter to President Dissanayake alleging misuse of State assets](data/articles/royal-college-alumnus-se.0bccedab/README.md) `ft.lk`
+* [“Parasakthi” : Sudha  Kongara’s new Film on the 1965 Anti-Hindi Agitation in Tamil Nadu is a fine blend of political history and human drama](data/articles/parasakthi-sudha-kongar.688acb36/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-09
 
