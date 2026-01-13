@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-13 06:26:17**
+Last Updated **2026-01-13 18:23:56**
 
 ## 2026-01-13
 
+* [‘Thai Pongal’ the Harvest Festival of Tamils](data/articles/thai-pongal-the-harvest.b4f9195c/README.md) `dbsjeyaraj.com`
 * [“The talk is by palanquin, but the journey  is by foot’’- Depictive of Sri Lanka’s FDI efforts](data/articles/the-talk-is-by-palanqui.62e04194/README.md) `ft.lk`
 * [Non-issuance of original health records to patients](data/articles/non-issuance-of-original.70900560/README.md) `ft.lk`
 * [Missing pillar in Sri Lanka’s recovery: A new Public Development Bank](data/articles/missing-pillar-in-sri-la.ed9129d0/README.md) `ft.lk`
