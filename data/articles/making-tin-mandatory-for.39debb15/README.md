@@ -1,0 +1,284 @@
+# Making TIN mandatory for vehicle registration in Sri Lanka
+
+[https://www.ft.lk/columns/Making-TIN-mandatory-for-vehicle-registration-in-Sri-Lanka/4-786896](https://www.ft.lk/columns/Making-TIN-mandatory-for-vehicle-registration-in-Sri-Lanka/4-786896)
+
+*04:35 AM, Wednesday, January 14, 2026*
+
+Strengthening tax compliance, transparency, and economic formalisation
+
+In a significant policy shift aimed at strengthening financial accountability and improving tax compliance, Sri Lanka’s Department of Motor Traffic (DMT) has made it mandatory to provide the Taxpayer Identification Number (TIN) for new vehicle registrations and ownership transfers.
+
+This requirement, effective from January 5, marks a crucial step in integrating tax administration with public service delivery, aligning Sri Lanka with global best practices in governance, transparency, and revenue monitoring.
+
+By linking vehicle ownership with tax identification, the Government is reinforcing formal registration, responsible citizenship, and active participation in the national tax system.
+
+What is a Taxpayer Identification Number (TIN)?
+
+A Taxpayer Identification Number (TIN) is a unique identification number issued by the Inland Revenue Department (IRD) of Sri Lanka to individuals, businesses, and other entities for tax administration purposes.
+
+The TIN serves as the primary reference number for:
+
+Income tax registration and filings
+
+Value Added Tax (VAT) and other statutory taxes
+
+Tax assessments and audits
+
+Asset ownership tracking
+
+Regulatory and financial compliance
+
+In essence, the TIN links a person or entity to Sri Lanka’s national tax system and enables the IRD to monitor income, assets, and tax obligations accurately.
+
+With the integration of TIN into public sector services such as vehicle registration, Sri Lanka is strengthening the connection between economic activity and tax compliance.
+
+Who should obtain a TIN in Sri Lanka? (As per IRD requirements)
+
+According to the Inland Revenue Department (IRD), TIN registration is required — or strongly encouraged — for a wide range of individuals and entities.
+
+1. All individuals aged 18 years and above
+
+In Sri Lanka, all individuals who are 18 years of age or above are encouraged to obtain a Taxpayer Identification Number (TIN), even if they are not currently engaged in employment, business, investment, or asset ownership activities.
+
+The TIN serves as the official tax identity for adults and is increasingly required for:
+
+Property transactions
+
+Banking and financial services
+
+Future employment and business activities
+
+Obtaining a TIN at the age of 18 ensures individuals are properly registered within the national tax system and prepared for future economic participation.
+
+2. Individuals Earning Income
+
+Any person earning income from:
+
+Professional services
+
+Rent, interest, or dividends
+
+is required to register for a TIN, even if their income is below the tax-paying threshold.
+
+3. Self-employed persons and professionals
+
+Chartered Accountants, lawyers, doctors, engineers, consultants, freelancers, and tuition masters must obtain a TIN to issue invoices, file returns, and comply with tax obligations.
+
+4. Business owners and entrepreneurs
+
+All forms of businesses — including sole proprietorships, partnerships, companies, start-ups, and online businesses — must obtain a TIN for corporate tax, VAT, and withholding tax compliance.
+
+5. VAT-registered persons
+
+Anyone registered or required to register for Value Added Tax (VAT) must have a valid TIN.
+
+6. Importers, exporters and traders
+
+Entities engaged in import/export and commercial trading require a TIN for customs and tax compliance.
+
+7. Property and asset owners
+
+Those buying, selling, or leasing high-value assets — including vehicles — are increasingly required to provide a TIN for transparency.
+
+8. Trusts, NGOs and institutions
+
+Trusts, charities, NGOs, and religious or educational institutions must also obtain TINs, even if they enjoy tax exemptions.
+
+9. Foreigners with Sri Lankan Income
+
+Non-residents earning income in Sri Lanka must register for a TIN.
+
+What has changed in vehicle registration?
+
+Under the new directive issued by the Department of Motor Traffic:
+
+Every new vehicle registration and ownership transfer must include:
+
+* The Taxpayer Identification Number (TIN)
+
+* The National Identity Card (NIC) number for individuals
+
+* The Business Registration Number (BRN) for companies
+
+These details must be entered into the DMT’s digital data systems at the time of processing.
+
+Exempted vehicle categories
+
+The following vehicle types are excluded from this requirement:
+
+For all other vehicle categories, TIN compliance is now compulsory.
+
+Why has TIN been made mandatory?
+
+This policy change is part of Sri Lanka’s broader fiscal reform agenda.
+
+1. Strengthening tax compliance
+
+Linking vehicle ownership to TIN allows tax authorities to:
+
+Identify potential taxpayers
+
+Track asset ownership
+
+Improve income declaration accuracy
+
+2. Improving financial transparency
+
+High-value vehicle purchases often indicate substantial income. The new system ensures that such transactions are aligned with declared tax profiles.
+
+3. Enhancing digital governance
+
+Integrating TIN into DMT systems supports:
+
+Inter-agency data sharing
+
+Automated compliance checks
+
+Reduced manual errors
+
+4. Broadening the tax base: Bringing more citizens into the formal economy
+
+Historically, a significant number of vehicle owners — particularly self-employed individuals, informal sector operators, and high-income earners without formal registration — remained outside the official tax system.
+
+By linking vehicle ownership to the TIN system, the Government has created a direct connection between asset ownership and tax identification.
+
+This enables the IRD to:
+
+Identify previously unregistered taxpayers
+
+Integrate the informal sector
+
+Encourage voluntary compliance
+
+Expand revenue without increasing tax rates
+
+Strengthen data-driven tax administration
+
+Why are certain vehicle categories exempted?
+
+The exemption of motorcycles, three-wheelers, hand tractors, tractors, and tractor trailers is based on economic, social, and administrative considerations.
+
+Protecting low-income and vulnerable groups
+
+These vehicles are commonly used by daily wage earners, rural households, farmers, and informal sector workers.
+
+Not high-value assets
+
+They are utility-based and do not reliably indicate high income or wealth.
+
+Supporting agriculture
+
+Tractors and hand tractors are essential for farming and food production.
+
+Avoiding disruption to public transport
+
+Three-wheelers and motorcycles provide critical last-mile transport services.
+
+Administrative practicality
+
+Many users have limited digital access and formal documentation.
+
+The policy therefore focuses on higher-value vehicles that better reflect taxable capacity.
+
+What about existing vehicle owners without a TIN?
+
+Existing vehicle owners who:
+
+Already have registered vehicles
+
+Are not planning to sell or transfer their vehicles
+
+are not immediately affected.
+
+The mandatory TIN requirement applies only to:
+
+New vehicle registrations
+
+However, any future transaction will require a TIN.
+
+This forward-looking approach encourages gradual compliance without disrupting current ownership.
+
+Required documentation
+
+Category  Individuals Businesses
+
+Without a TIN, DMT services for covered vehicle categories will not be processed.
+
+TINs can be obtained through:
+
+The Inland Revenue Department’s online portal
+
+Registered tax consultants
+
+The process requires basic identity and business information and is usually completed within a few working days.
+
+Implications for the business community
+
+Vehicle Dealers and Importers
+
+Must verify TINs before processing registrations.
+
+Leasing and Finance Companies
+
+TIN verification becomes part of onboarding and compliance.
+
+Corporate Fleet Operators
+
+Must align fleet records with tax data.
+
+Tax compliance and risk management
+
+Reduces undisclosed wealth
+
+Improves audit trails
+
+Supports asset-based income assessments
+
+Strengthens IRD enforcement
+
+Vehicle ownership can now be cross-checked against income tax and VAT records, enhancing risk-based audits.
+
+Public awareness and transition challenges
+
+Limited public awareness
+
+Confusion over effective dates
+
+Delays in obtaining TINs
+
+Rural accessibility issues
+
+Public education, digital access, and multilingual guidance are essential for smooth implementation.
+
+Alignment with Sri Lanka’s economic reforms
+
+This initiative supports:
+
+Digital Government transformation
+
+Revenue system modernisation
+
+Anti-corruption frameworks
+
+IMF-backed fiscal reforms
+
+It reflects a shift towards data-driven governance.
+
+All individuals aged 18+ should obtain a TIN
+
+TIN is mandatory for new vehicle registrations and transfers
+
+Certain low-value vehicle categories are exempt
+
+Existing owners are not immediately affected
+
+Future transactions will require a TIN
+
+Early registration avoids delays
+
+The mandatory use of the Taxpayer Identification Number (TIN) for vehicle registration and ownership transfers marks a significant milestone in Sri Lanka’s fiscal reform journey. By linking asset ownership with tax identification — and encouraging all adults above 18 to obtain a TIN — the Government is strengthening compliance, broadening the tax base, and promoting responsible economic participation.
+
+This reform not only enhances revenue integrity but also supports long-term transparency, governance efficiency, and economic stability. For individuals and businesses alike, timely TIN registration is no longer just a regulatory formality; it is a key step toward active participation in Sri Lanka’s evolving formal economy.
+
+(The author is a Chartered Accountant)
+

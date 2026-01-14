@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-13 18:23:56**
+Last Updated **2026-01-14 06:26:15**
+
+## 2026-01-14
+
+* [Why the 2005 Tourism Act must be retained and refined, not repealed](data/articles/why-the-2005-tourism-act.3506f34d/README.md) `ft.lk`
+* [Electricity reform must be driven by economics, not outdated assumptions](data/articles/electricity-reform-must.fe157b50/README.md) `ft.lk`
+* [Easter without answers: Why power has still failed the dead](data/articles/easter-without-answers-w.cd5a5b77/README.md) `ft.lk`
+* [The real issue in Sri Lanka’s tax system is administration, not policy](data/articles/the-real-issue-in-sri-la.95277a05/README.md) `ft.lk`
+* [Making TIN mandatory for vehicle registration in Sri Lanka](data/articles/making-tin-mandatory-for.39debb15/README.md) `ft.lk`
 
 ## 2026-01-13
 
