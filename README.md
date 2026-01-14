@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-14 06:26:15**
+Last Updated **2026-01-14 18:23:46**
 
 ## 2026-01-14
 
@@ -25,6 +25,7 @@ Last Updated **2026-01-14 06:26:15**
 
 * [CES showed me why Chinese tech companies feel so optimistic](data/articles/ces-showed-me-why-chines.563c95e5/README.md) `technologyreview.com`
 * [The astronaut training tourists to fly in the world’s first commercial space station](data/articles/the-astronaut-training-t.e26ba6d4/README.md) `technologyreview.com`
+* [How next-generation nuclear reactors break out of the 20th-century blueprint](data/articles/how-next-generation-nucl.a9a39017/README.md) `technologyreview.com`
 * [Embryo scoring: 10 Breakthrough Technologies 2026](data/articles/embryo-scoring-10-breakt.07c4f571/README.md) `technologyreview.com`
 * [Sodium-ion batteries: 10 Breakthrough Technologies 2026](data/articles/sodium-ion-batteries-10.2ee6f0f5/README.md) `technologyreview.com`
 * [Gene resurrection: 10 Breakthrough Technologies 2026](data/articles/gene-resurrection-10-bre.149ab4ff/README.md) `technologyreview.com`
