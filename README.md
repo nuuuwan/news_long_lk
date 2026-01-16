@@ -2,11 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-16 06:26:08**
+Last Updated **2026-01-16 18:23:50**
 
 ## 2026-01-16
 
+* [How India fits into Sri Lanka’s post-crisis growth strategy](data/articles/how-india-fits-into-sri.00463606/README.md) `ft.lk`
+* [Sri Lanka must prepare and act before the next floods](data/articles/sri-lanka-must-prepare-a.a47df426/README.md) `ft.lk`
+* [Rebuilding for resilience: Can impact investing work in Sri Lanka?](data/articles/rebuilding-for-resilienc.cf591218/README.md) `ft.lk`
+* [Good intentions, bad economics](data/articles/good-intentions-bad-econ.cf675021/README.md) `ft.lk`
 * [​National Electricity Policy/Tariff Policy to the benefit of who?](data/articles/national-electricity-po.766fa339/README.md) `ft.lk`
+* [Three technologies that will shape biotech in 2026](data/articles/three-technologies-that.6fc83a4a/README.md) `technologyreview.com`
 
 ## 2026-01-15
 
@@ -36,6 +41,7 @@ Last Updated **2026-01-16 06:26:08**
 ## 2026-01-12
 
 * [CES showed me why Chinese tech companies feel so optimistic](data/articles/ces-showed-me-why-chines.563c95e5/README.md) `technologyreview.com`
+* [Why some “breakthrough” technologies don’t work out](data/articles/why-some-breakthrough-te.d5b4aa85/README.md) `technologyreview.com`
 * [The astronaut training tourists to fly in the world’s first commercial space station](data/articles/the-astronaut-training-t.e26ba6d4/README.md) `technologyreview.com`
 * [Meet the new biologists treating LLMs like aliens](data/articles/meet-the-new-biologists.7073e90a/README.md) `technologyreview.com`
 * [How next-generation nuclear reactors break out of the 20th-century blueprint](data/articles/how-next-generation-nucl.a9a39017/README.md) `technologyreview.com`
