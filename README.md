@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-15 18:23:53**
+Last Updated **2026-01-16 06:26:08**
+
+## 2026-01-16
+
+* [​National Electricity Policy/Tariff Policy to the benefit of who?](data/articles/national-electricity-po.766fa339/README.md) `ft.lk`
 
 ## 2026-01-15
 
