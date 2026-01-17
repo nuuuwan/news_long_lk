@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-17 06:26:05**
+Last Updated **2026-01-17 18:23:13**
 
 ## 2026-01-17
 
@@ -11,6 +11,7 @@ Last Updated **2026-01-17 06:26:05**
 * [Clean Sri Lanka: Can a lofty vision overcome systemic corruption?](data/articles/clean-sri-lanka-can-a-lo.0fd79675/README.md) `ft.lk`
 * [Iqbal Athas spoke truth to power with rare courage, discipline, and integrity](data/articles/iqbal-athas-spoke-truth.a6c8cd09/README.md) `ft.lk`
 * [The legacy Iqbal Athas left behind](data/articles/the-legacy-iqbal-athas-l.805035b1/README.md) `ft.lk`
+* [The legacy Iqbal Athas left behind](data/articles/the-legacy-iqbal-athas-l.ea31a4c4/README.md) `ft.lk`
 
 ## 2026-01-16
 
