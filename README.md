@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-16 18:23:50**
+Last Updated **2026-01-17 06:26:05**
+
+## 2026-01-17
+
+* [The Judicial Service Commission:  A review of the Speaker’s ruling](data/articles/the-judicial-service-com.3d17faaa/README.md) `ft.lk`
+* [President urged to operationalise National Women’s Commission](data/articles/president-urged-to-opera.9d52f8a4/README.md) `ft.lk`
+* [Clean Sri Lanka: Can a lofty vision overcome systemic corruption?](data/articles/clean-sri-lanka-can-a-lo.0fd79675/README.md) `ft.lk`
+* [Iqbal Athas spoke truth to power with rare courage, discipline, and integrity](data/articles/iqbal-athas-spoke-truth.a6c8cd09/README.md) `ft.lk`
+* [The legacy Iqbal Athas left behind](data/articles/the-legacy-iqbal-athas-l.805035b1/README.md) `ft.lk`
 
 ## 2026-01-16
 
+* [Sandya  Ekneligoda Writes to President Disanayake  Stating her Objection to the Promotion of  Military Intelligence Official Lt. Col. Erantha Radeesh Peiris Allegedly Involved in the Abduction of her husband Prageeth Ekneligoda.](data/articles/sandya-ekneligoda-writes.23c26d58/README.md) `dbsjeyaraj.com`
 * [How India fits into Sri Lanka’s post-crisis growth strategy](data/articles/how-india-fits-into-sri.00463606/README.md) `ft.lk`
 * [Sri Lanka must prepare and act before the next floods](data/articles/sri-lanka-must-prepare-a.a47df426/README.md) `ft.lk`
 * [Rebuilding for resilience: Can impact investing work in Sri Lanka?](data/articles/rebuilding-for-resilienc.cf591218/README.md) `ft.lk`
