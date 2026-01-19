@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-19 06:26:22**
+Last Updated **2026-01-19 18:24:00**
 
 ## 2026-01-19
 
@@ -60,6 +60,7 @@ Last Updated **2026-01-19 06:26:22**
 
 * [CES showed me why Chinese tech companies feel so optimistic](data/articles/ces-showed-me-why-chines.563c95e5/README.md) `technologyreview.com`
 * [Why some “breakthrough” technologies don’t work out](data/articles/why-some-breakthrough-te.d5b4aa85/README.md) `technologyreview.com`
+* [10 Breakthrough Technologies 2026](data/articles/10-breakthrough-technolo.9c767a96/README.md) `technologyreview.com`
 * [The astronaut training tourists to fly in the world’s first commercial space station](data/articles/the-astronaut-training-t.e26ba6d4/README.md) `technologyreview.com`
 * [Meet the new biologists treating LLMs like aliens](data/articles/meet-the-new-biologists.7073e90a/README.md) `technologyreview.com`
 * [How next-generation nuclear reactors break out of the 20th-century blueprint](data/articles/how-next-generation-nucl.a9a39017/README.md) `technologyreview.com`
