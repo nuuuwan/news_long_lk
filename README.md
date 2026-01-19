@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-18 18:22:42**
+Last Updated **2026-01-19 06:26:22**
+
+## 2026-01-19
+
+* [Nimal Sanderatne’s thesis on development: Not pure economics, but multidimensional](data/articles/nimal-sanderatne-s-thesi.b0bc1864/README.md) `ft.lk`
+* [Solar power policy teetering at the edge… and a rooftop call for sustainable clarity](data/articles/solar-power-policy-teete.cb3e06b3/README.md) `ft.lk`
+* [New and expensive speed cameras: Old habits must change to be effective](data/articles/new-and-expensive-speed.63d2c073/README.md) `ft.lk`
+* [Trials-at-Bar in Sri Lanka: Use and abuse](data/articles/trials-at-bar-in-sri-lan.fa007618/README.md) `ft.lk`
+* [UN finds systemic sexual violence during civil war](data/articles/un-finds-systemic-sexual.ad3490f5/README.md) `ft.lk`
 
 ## 2026-01-17
 
