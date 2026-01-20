@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-19 18:24:00**
+Last Updated **2026-01-20 06:25:51**
+
+## 2026-01-20
+
+* [Reshaping the future of Haj operations: Beyond the quota framework](data/articles/reshaping-the-future-of.924191c8/README.md) `ft.lk`
+* [The mindful executive: How meditation powers leadership performance](data/articles/the-mindful-executive-ho.2a91e614/README.md) `ft.lk`
+* [The story of Maya and friends: How AI is quietly redefining work](data/articles/the-story-of-maya-and-fr.a7d748f3/README.md) `ft.lk`
+* [How Singapore was built and why it still matters to Sri Lanka](data/articles/how-singapore-was-built.936c49d9/README.md) `ft.lk`
+* [Fix the Tourism Act but don’t break the industry](data/articles/fix-the-tourism-act-but.9cc03584/README.md) `ft.lk`
 
 ## 2026-01-19
 
