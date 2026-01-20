@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-20 06:25:51**
+Last Updated **2026-01-20 18:23:59**
 
 ## 2026-01-20
 
@@ -14,6 +14,7 @@ Last Updated **2026-01-20 06:25:51**
 
 ## 2026-01-19
 
+* [“Neela Vannak Kannaa Vaadaa” – Uplifting Lullaby Sung By Balasaraswathi Devi ♥ ♫](data/articles/neela-vannak-kannaa-vaa.240d6a84/README.md) `dbsjeyaraj.com`
 * [Nimal Sanderatne’s thesis on development: Not pure economics, but multidimensional](data/articles/nimal-sanderatne-s-thesi.b0bc1864/README.md) `ft.lk`
 * [Solar power policy teetering at the edge… and a rooftop call for sustainable clarity](data/articles/solar-power-policy-teete.cb3e06b3/README.md) `ft.lk`
 * [New and expensive speed cameras: Old habits must change to be effective](data/articles/new-and-expensive-speed.63d2c073/README.md) `ft.lk`
