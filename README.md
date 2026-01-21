@@ -2,15 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-21 06:26:21**
+Last Updated **2026-01-21 18:24:10**
 
 ## 2026-01-21
 
+* [Maldives: 52 years of transformation into South Asia’s wealthiest nation per capita](data/articles/maldives-52-years-of-tra.eaba0843/README.md) `ft.lk`
+* [Flood control must begin at source, not at flood plains](data/articles/flood-control-must-begin.fd07f059/README.md) `ft.lk`
 * [2026 Passport Rankings: Positioning Sri Lanka’s Passport as a strategic national asset](data/articles/2026-passport-rankings-p.2a5bf3b9/README.md) `ft.lk`
 * [Need the right institutions and processes to override politics in curricular reforms](data/articles/need-the-right-instituti.889b4bbe/README.md) `ft.lk`
+* [The hasty and inefficient manner in which the NPP/JVP government launched its education reform has given political monks  a new lease of life. Suddenly they are slithering out of the woodworks, mouthing obscenities and birthing new conspiracy theories.](data/articles/the-hasty-and-inefficien.c3cafeb9/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-20
 
+* [The UK government is backing AI that can run its own lab experiments](data/articles/the-uk-government-is-bac.f2497feb/README.md) `technologyreview.com`
 * [Reshaping the future of Haj operations: Beyond the quota framework](data/articles/reshaping-the-future-of.924191c8/README.md) `ft.lk`
 * [The mindful executive: How meditation powers leadership performance](data/articles/the-mindful-executive-ho.2a91e614/README.md) `ft.lk`
 * [The story of Maya and friends: How AI is quietly redefining work](data/articles/the-story-of-maya-and-fr.a7d748f3/README.md) `ft.lk`
