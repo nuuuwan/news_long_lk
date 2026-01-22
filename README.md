@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-22 06:27:05**
+Last Updated **2026-01-22 18:23:56**
 
 ## 2026-01-22
 
+* [Navigating new era of global taxation: Implications of OECD Pillar Two for Sri Lanka’s FDI strategy](data/articles/navigating-new-era-of-gl.62cfb986/README.md) `ft.lk`
+* [UK trade reforms: A transformational opportunity for Sri Lanka’s apparel industry](data/articles/uk-trade-reforms-a-trans.01c291ca/README.md) `ft.lk`
+* [Education reform:  A method to madness](data/articles/education-reform-a-metho.3b87601a/README.md) `ft.lk`
 * [Transformation isn’t a strategy, it’s a brain state](data/articles/transformation-isn-t-a-s.a2d1edf6/README.md) `ft.lk`
+* [Why 2026 is a hot year for lithium](data/articles/why-2026-is-a-hot-year-f.d90b9f21/README.md) `technologyreview.com`
 * [A troubling shift in university governance](data/articles/a-troubling-shift-in-uni.b2e5c5a7/README.md) `ft.lk`
 * [Jaffna discourse and Anura’s unreason; Forming SJB-UNP bloc without prevarication](data/articles/jaffna-discourse-and-anu.43602296/README.md) `ft.lk`
 * [Proposed Counterterrorism Law risks more abuses: Human Rights Watch](data/articles/proposed-counterterroris.e547c781/README.md) `ft.lk`
