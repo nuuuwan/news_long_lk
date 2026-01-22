@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-21 18:24:10**
+Last Updated **2026-01-22 06:27:05**
+
+## 2026-01-22
+
+* [Transformation isn’t a strategy, it’s a brain state](data/articles/transformation-isn-t-a-s.a2d1edf6/README.md) `ft.lk`
+* [A troubling shift in university governance](data/articles/a-troubling-shift-in-uni.b2e5c5a7/README.md) `ft.lk`
+* [Jaffna discourse and Anura’s unreason; Forming SJB-UNP bloc without prevarication](data/articles/jaffna-discourse-and-anu.43602296/README.md) `ft.lk`
+* [Proposed Counterterrorism Law risks more abuses: Human Rights Watch](data/articles/proposed-counterterroris.e547c781/README.md) `ft.lk`
 
 ## 2026-01-21
 
+* [Everyone wants AI sovereignty. No one can truly have it.](data/articles/everyone-wants-ai-sovere.b6feb238/README.md) `technologyreview.com`
 * [Maldives: 52 years of transformation into South Asia’s wealthiest nation per capita](data/articles/maldives-52-years-of-tra.eaba0843/README.md) `ft.lk`
 * [Flood control must begin at source, not at flood plains](data/articles/flood-control-must-begin.fd07f059/README.md) `ft.lk`
 * [2026 Passport Rankings: Positioning Sri Lanka’s Passport as a strategic national asset](data/articles/2026-passport-rankings-p.2a5bf3b9/README.md) `ft.lk`
@@ -60,6 +68,7 @@ Last Updated **2026-01-21 18:24:10**
 
 ## 2026-01-14
 
+* [Data centers are amazing. Everyone hates them.](data/articles/data-centers-are-amazing.bb01371c/README.md) `technologyreview.com`
 * [Why the 2005 Tourism Act must be retained and refined, not repealed](data/articles/why-the-2005-tourism-act.3506f34d/README.md) `ft.lk`
 * [Electricity reform must be driven by economics, not outdated assumptions](data/articles/electricity-reform-must.fe157b50/README.md) `ft.lk`
 * [Easter without answers: Why power has still failed the dead](data/articles/easter-without-answers-w.cd5a5b77/README.md) `ft.lk`
