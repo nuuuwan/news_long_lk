@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-23 06:26:34**
+Last Updated **2026-01-23 18:24:27**
+
+## 2026-01-23
+
+* [Sri Lanka Tourism, go back to basics](data/articles/sri-lanka-tourism-go-bac.7aa2d88c/README.md) `ft.lk`
+* [The real challenge facing Sri Lanka’s tourism sector](data/articles/the-real-challenge-facin.c5e04b57/README.md) `ft.lk`
+* [Improving medical services requires change in attitudes and goals, not mega spending](data/articles/improving-medical-servic.c52b51e2/README.md) `ft.lk`
+* [America’s coming war over AI regulation](data/articles/america-s-coming-war-ove.fd6ec8b9/README.md) `technologyreview.com`
+* [“Dingiri Dingaaley Meenatchi, Dingiri Dingaaley”- Rocking “Baila”-Type Song ♫♥](data/articles/dingiri-dingaaley-meena.3498fa66/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-22
 
@@ -21,6 +29,7 @@ Last Updated **2026-01-23 06:26:34**
 * [Everyone wants AI sovereignty. No one can truly have it.](data/articles/everyone-wants-ai-sovere.b6feb238/README.md) `technologyreview.com`
 * [Maldives: 52 years of transformation into South Asia’s wealthiest nation per capita](data/articles/maldives-52-years-of-tra.eaba0843/README.md) `ft.lk`
 * [Flood control must begin at source, not at flood plains](data/articles/flood-control-must-begin.fd07f059/README.md) `ft.lk`
+* [All anyone wants to talk about at Davos is AI and Donald Trump](data/articles/all-anyone-wants-to-talk.c271374f/README.md) `technologyreview.com`
 * [2026 Passport Rankings: Positioning Sri Lanka’s Passport as a strategic national asset](data/articles/2026-passport-rankings-p.2a5bf3b9/README.md) `ft.lk`
 * [Need the right institutions and processes to override politics in curricular reforms](data/articles/need-the-right-instituti.889b4bbe/README.md) `ft.lk`
 * [The hasty and inefficient manner in which the NPP/JVP government launched its education reform has given political monks  a new lease of life. Suddenly they are slithering out of the woodworks, mouthing obscenities and birthing new conspiracy theories.](data/articles/the-hasty-and-inefficien.c3cafeb9/README.md) `dbsjeyaraj.com`
