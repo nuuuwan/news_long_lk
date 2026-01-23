@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-22 18:23:56**
+Last Updated **2026-01-23 06:26:34**
 
 ## 2026-01-22
 
+* [Dispatch from Davos: hot air, big egos and cold flexes](data/articles/dispatch-from-davos-hot.5e6906da/README.md) `technologyreview.com`
 * [Navigating new era of global taxation: Implications of OECD Pillar Two for Sri Lanka’s FDI strategy](data/articles/navigating-new-era-of-gl.62cfb986/README.md) `ft.lk`
 * [UK trade reforms: A transformational opportunity for Sri Lanka’s apparel industry](data/articles/uk-trade-reforms-a-trans.01c291ca/README.md) `ft.lk`
 * [Education reform:  A method to madness](data/articles/education-reform-a-metho.3b87601a/README.md) `ft.lk`
