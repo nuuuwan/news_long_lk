@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-25 06:26:35**
+Last Updated **2026-01-25 18:25:59**
 
 ## 2026-01-24
 
+* [30  Feet Long Three Dimensional “Axolotl”Kite Designed by  28 year old Yogarasa  Prakash Wins First Prize at the Popular Kite Festival in Valvettithurai](data/articles/30-feet-long-three-dimen.d7340bc6/README.md) `dbsjeyaraj.com`
+* [Attorney -General in the eye of a   “Public Intimidation”Firestorm with Social Media “Warriors” Baying for the A-G’s   “Blood” .](data/articles/attorney-general-in-the.1e0d8472/README.md) `dbsjeyaraj.com`
 * [From Colombo to Canberra: Strengthening economic ties for a shared future](data/articles/from-colombo-to-canberra.b04fc510/README.md) `ft.lk`
 * [Nature-based infrastructure is vital to avert Asia’s looming water crisis](data/articles/nature-based-infrastruct.d999d142/README.md) `ft.lk`
 * [Nature-based infrastructure is vital to avert Asia’s looming water crisis](data/articles/nature-based-infrastruct.de95ec03/README.md) `ft.lk`
