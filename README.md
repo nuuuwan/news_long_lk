@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-26 06:27:08**
+Last Updated **2026-01-26 18:23:54**
 
 ## 2026-01-26
 
@@ -10,6 +10,11 @@ Last Updated **2026-01-26 06:27:08**
 * [Pillar Two of the OECD: Silent death of tax holidays](data/articles/pillar-two-of-the-oecd-s.5129527d/README.md) `ft.lk`
 * [The Separation of Powers and Independence of Judiciary:  Checks and balances in Constitution](data/articles/the-separation-of-powers.c67b2249/README.md) `ft.lk`
 * [India Stack: The Indian approach and experience](data/articles/india-stack-the-indian-a.954766da/README.md) `ft.lk`
+
+## 2026-01-25
+
+* [Iqbal Athas and N.Sathiyamoorthy: Two  veteran journalists with storied careers, a vast network of sources and independent minds](data/articles/iqbal-athas-and-n-sathiy.53ba932f/README.md) `dbsjeyaraj.com`
+* [Sir Mark Tully: Legendary BBC Journalist was known as the “Voice of India”.](data/articles/sir-mark-tully-legendary.f5fc487f/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-24
 
