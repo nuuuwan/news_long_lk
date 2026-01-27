@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-26 18:23:54**
+Last Updated **2026-01-27 06:26:31**
+
+## 2026-01-27
+
+* [Of moods, words and deeds: Being brilliant on basics](data/articles/of-moods-words-and-deeds.466de9af/README.md) `ft.lk`
+* [Surviving and thriving: How Sri Lankan businesses face climate crisis](data/articles/surviving-and-thriving-h.54197ba4/README.md) `ft.lk`
+* [Click first, sue later](data/articles/click-first-sue-later.9590ac39/README.md) `ft.lk`
+* [New tax calculation method for gem imports: A strategic boost for jewellery industry](data/articles/new-tax-calculation-meth.615e08e0/README.md) `ft.lk`
 
 ## 2026-01-26
 
+* [Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah](data/articles/rebuilding-sri-lanka-wit.af9373ed/README.md) `ft.lk`
+* [Why chatbots are starting to check your age](data/articles/why-chatbots-are-startin.01b7674e/README.md) `technologyreview.com`
 * [Unsung Central Bank heroes who braved the 1996 LTTE attack:  Time to appreciate their heroism](data/articles/unsung-central-bank-hero.4cded480/README.md) `ft.lk`
 * [Pillar Two of the OECD: Silent death of tax holidays](data/articles/pillar-two-of-the-oecd-s.5129527d/README.md) `ft.lk`
 * [The Separation of Powers and Independence of Judiciary:  Checks and balances in Constitution](data/articles/the-separation-of-powers.c67b2249/README.md) `ft.lk`
@@ -45,6 +54,7 @@ Last Updated **2026-01-26 18:23:54**
 * [A troubling shift in university governance](data/articles/a-troubling-shift-in-uni.b2e5c5a7/README.md) `ft.lk`
 * [Jaffna discourse and Anura’s unreason; Forming SJB-UNP bloc without prevarication](data/articles/jaffna-discourse-and-anu.43602296/README.md) `ft.lk`
 * [Proposed Counterterrorism Law risks more abuses: Human Rights Watch](data/articles/proposed-counterterroris.e547c781/README.md) `ft.lk`
+* [Yann LeCun’s new venture is a contrarian bet against large language models](data/articles/yann-lecun-s-new-venture.f9214a13/README.md) `technologyreview.com`
 
 ## 2026-01-21
 

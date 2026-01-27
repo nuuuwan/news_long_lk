@@ -1,5 +1,47 @@
 [
   {
+    "title": "Of moods, words and deeds: Being brilliant on basics",
+    "url": "https://www.ft.lk/columns/Of-moods-words-and-deeds-Being-brilliant-on-basics/4-787477",
+    "ut": 1769465471.0,
+    "dir_path_unix": "data/articles/of-moods-words-and-deeds.466de9af",
+    "time_str_formatted": "03:41 AM, Tuesday, January 27, 2026"
+  },
+  {
+    "title": "Surviving and thriving: How Sri Lankan businesses face climate crisis",
+    "url": "https://www.ft.lk/columns/Surviving-and-thriving-How-Sri-Lankan-businesses-face-climate-crisis/4-787476",
+    "ut": 1769465260.0,
+    "dir_path_unix": "data/articles/surviving-and-thriving-h.54197ba4",
+    "time_str_formatted": "03:37 AM, Tuesday, January 27, 2026"
+  },
+  {
+    "title": "Click first, sue later",
+    "url": "https://www.ft.lk/opinion/Click-first-sue-later/14-787444",
+    "ut": 1769460111.0,
+    "dir_path_unix": "data/articles/click-first-sue-later.9590ac39",
+    "time_str_formatted": "02:11 AM, Tuesday, January 27, 2026"
+  },
+  {
+    "title": "New tax calculation method for gem imports: A strategic boost for jewellery industry",
+    "url": "https://www.ft.lk/columns/New-tax-calculation-method-for-gem-imports-A-strategic-boost-for-jewellery-industry/4-787443",
+    "ut": 1769459750.0,
+    "dir_path_unix": "data/articles/new-tax-calculation-meth.615e08e0",
+    "time_str_formatted": "02:05 AM, Tuesday, January 27, 2026"
+  },
+  {
+    "title": "Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah",
+    "url": "https://www.ft.lk/columns/Rebuilding-Sri-Lanka-without-delay-Why-procurement-reform-matters-after-Ditwah/4-787440",
+    "ut": 1769451177.0,
+    "dir_path_unix": "data/articles/rebuilding-sri-lanka-wit.af9373ed",
+    "time_str_formatted": "11:42 PM, Monday, January 26, 2026"
+  },
+  {
+    "title": "Why chatbots are starting to check your age",
+    "url": "https://www.technologyreview.com/2026/01/26/1131726/why-chatbots-are-starting-to-check-your-age/",
+    "ut": 1769409300.0,
+    "dir_path_unix": "data/articles/why-chatbots-are-startin.01b7674e",
+    "time_str_formatted": "12:05 PM, Monday, January 26, 2026"
+  },
+  {
     "title": "Unsung Central Bank heroes who braved the 1996 LTTE attack:  Time to appreciate their heroism",
     "url": "https://www.ft.lk/columns/Unsung-Central-Bank-heroes-who-braved-the-1996-LTTE-attack-Time-to-appreciate-their-heroism/4-787399",
     "ut": 1769380253.0,
@@ -187,6 +229,13 @@
     "ut": 1769038560.0,
     "dir_path_unix": "data/articles/proposed-counterterroris.e547c781",
     "time_str_formatted": "05:06 AM, Thursday, January 22, 2026"
+  },
+  {
+    "title": "Yann LeCun\u2019s new venture is a contrarian bet against large language models",
+    "url": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
+    "ut": 1769038200.0,
+    "dir_path_unix": "data/articles/yann-lecun-s-new-venture.f9214a13",
+    "time_str_formatted": "05:00 AM, Thursday, January 22, 2026"
   },
   {
     "title": "Everyone wants AI sovereignty. No one can truly have it.",
