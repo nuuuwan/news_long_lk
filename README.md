@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-27 06:26:31**
+Last Updated **2026-01-27 18:23:48**
 
 ## 2026-01-27
 
@@ -10,6 +10,7 @@ Last Updated **2026-01-27 06:26:31**
 * [Surviving and thriving: How Sri Lankan businesses face climate crisis](data/articles/surviving-and-thriving-h.54197ba4/README.md) `ft.lk`
 * [Click first, sue later](data/articles/click-first-sue-later.9590ac39/README.md) `ft.lk`
 * [New tax calculation method for gem imports: A strategic boost for jewellery industry](data/articles/new-tax-calculation-meth.615e08e0/README.md) `ft.lk`
+* [♥ “Singara Velanae Deva”- S.Janaki’s Superb Solo in Abheri  Raga with  Karukkuruchi Arunasalam’s Nadaswaram Accompaniment ♫](data/articles/singara-velanae-deva-s.247433b3/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-26
 
