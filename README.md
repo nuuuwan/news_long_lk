@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-27 18:23:48**
+Last Updated **2026-01-28 06:26:35**
+
+## 2026-01-28
+
+* [Moral duty of Govt. to speak to parent-teachers before deciding to close schools](data/articles/moral-duty-of-govt-to-sp.8ae4c714/README.md) `ft.lk`
+* [Sri Lanka’s skills gap: An economic reality we can no longer ignore](data/articles/sri-lanka-s-skills-gap-a.f797fd1b/README.md) `ft.lk`
 
 ## 2026-01-27
 
+* [The first human test of a rejuvenation method will begin “shortly”](data/articles/the-first-human-test-of.445c0ac5/README.md) `technologyreview.com`
 * [Of moods, words and deeds: Being brilliant on basics](data/articles/of-moods-words-and-deeds.466de9af/README.md) `ft.lk`
 * [Surviving and thriving: How Sri Lankan businesses face climate crisis](data/articles/surviving-and-thriving-h.54197ba4/README.md) `ft.lk`
 * [Click first, sue later](data/articles/click-first-sue-later.9590ac39/README.md) `ft.lk`
@@ -41,11 +47,13 @@ Last Updated **2026-01-27 18:23:48**
 * [Sri Lanka Tourism, go back to basics](data/articles/sri-lanka-tourism-go-bac.7aa2d88c/README.md) `ft.lk`
 * [The real challenge facing Sri Lanka’s tourism sector](data/articles/the-real-challenge-facin.c5e04b57/README.md) `ft.lk`
 * [Improving medical services requires change in attitudes and goals, not mega spending](data/articles/improving-medical-servic.c52b51e2/README.md) `ft.lk`
+* [Measles is surging in the US. Wastewater tracking could help.](data/articles/measles-is-surging-in-th.feef9c5d/README.md) `technologyreview.com`
 * [America’s coming war over AI regulation](data/articles/america-s-coming-war-ove.fd6ec8b9/README.md) `technologyreview.com`
 * [“Dingiri Dingaaley Meenatchi, Dingiri Dingaaley”- Rocking “Baila”-Type Song ♫♥](data/articles/dingiri-dingaaley-meena.3498fa66/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-22
 
+* [“Dr. Google” had its issues. Can ChatGPT Health do better?](data/articles/dr-google-had-its-issue.ef11a473/README.md) `technologyreview.com`
 * [Dispatch from Davos: hot air, big egos and cold flexes](data/articles/dispatch-from-davos-hot.5e6906da/README.md) `technologyreview.com`
 * [Navigating new era of global taxation: Implications of OECD Pillar Two for Sri Lanka’s FDI strategy](data/articles/navigating-new-era-of-gl.62cfb986/README.md) `ft.lk`
 * [UK trade reforms: A transformational opportunity for Sri Lanka’s apparel industry](data/articles/uk-trade-reforms-a-trans.01c291ca/README.md) `ft.lk`
