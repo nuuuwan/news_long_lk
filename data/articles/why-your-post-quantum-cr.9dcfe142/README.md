@@ -1,0 +1,48 @@
+# Why Your Post-Quantum Cryptography Strategy Must Start Now
+
+[https://hbr.org/sponsored/2026/01/why-your-post-quantum-cryptography-strategy-must-start-now](https://hbr.org/sponsored/2026/01/why-your-post-quantum-cryptography-strategy-must-start-now)
+
+*06:18 PM, Tuesday, January 27, 2026*
+
+For C-suite leaders, one of the most daunting operational challenges of the next decade will be the migration to post-quantum cryptography: algorithms that can defend against attacks from quantum computers. While the long-term theoretical threat is clear, the immediate top-of-mind concern should be the practical multiyear journey of upgrading potentially thousands of devices, applications, and data stores to be quantum-resistant.
+
+Make no mistake about it: This migration is complex and costly, and it touches every part of the enterprise. Further exacerbating this challenge is the “harvest now, decrypt later” threat, in which nation-state actors siphon and stockpile encrypted data today, waiting for the arrival of quantum computers to retroactively decrypt the data. This threat transforms a future computing problem into an immediate crisis for those with any data with long-term value.
+
+The U.S. government, through the National Institute of Standards and Technology and the Cybersecurity and Infrastructure Security Agency, agreed the threat is real, and it issued several cybersecurity resilience mandates in 2025. Therefore, the industry is aligned on the danger and understands that because the migration takes years, the time to start is now.
+
+For C-suite leaders, this is your clear, actionable path forward.
+
+A Business Risk Disguised as a Technical Problem
+
+Leading customers I speak with have already pivoted past framing quantum computing as a distant technical challenge. They rightly see it as a fundamental business risk to their continuity, their market position, and their customers’ trust. The most vulnerable data is the information with the longest shelf life—pharmaceutical formulas, growth strategies, aerospace designs, and sensitive government intelligence.
+
+This makes the quantum challenge fundamentally different from past IT threats. Unlike the Y2K threat, which had a known fixed deadline, the quantum threat is retroactive. The damage from data stolen today will be realized years from now, making inaction a catastrophic failure of risk management.
+
+The C-Suite’s Quantum-Readiness Framework
+
+A challenge of this magnitude requires a powerful and achievable strategic framework. The journey begins with a candid and comprehensive assessment of your cryptographic landscape.
+
+You cannot protect what you cannot see, making the essential first step to gain foundational visibility into your entire enterprise. This crypto inventory must be comprehensive and must answer several questions: Which applications are using legacy encryption? Which devices, from servers to IoT, need to be upgraded? Which data stores are most at risk? Which third-party software and libraries are in your supply chain? Think of this as an MRI for your organization’s cryptographic health.
+
+Visibility without action is just a well-documented vulnerability. How do we fix it? Unfortunately, a “rip-and-replace” strategy is a fool’s errand for any complex enterprise.
+
+A successful migration requires two distinct capabilities.
+
+The first one is crypto agility, which is the ability to swap or update cryptographic algorithms as new standards emerge or if one is found to be breakable. This is critical for future-proofing your architecture.
+
+But what about the legacy systems you can’t easily replace?
+
+The second and perhaps more immediate capability is leveraging network-level controls, sometimes called “cipher translation.” They can instantly upgrade devices and applications so they appear quantum-ready to the rest of the network, all without reengineering them. This network-based approach enables you to address vulnerabilities in legacy systems without costly disruption, creating a secure foundation for what comes next.
+
+Leadership in the Quantum Era
+
+This transition will create a dividing line between organizations that lead and those that lag. Yet we won’t know who is prepared until quantum computing arrives. That will be a defining moment for security and technology executives, one that will form the basis of digital trust for decades.
+
+A successful quantum-safe strategy is built on a unified security platform, not on a collection of point solutions. It prioritizes crypto agility over disruptive replacement, and it begins with deep enterprise-wide visibility. Beyond being a technical upgrade, it’s a strategic evolution of your security posture.
+
+The quantum era hasn’t arrived with a bang but with the quiet retroactive decryption of today’s secrets. The question, therefore, is no longer if your organization will be ready but how you are leading the journey to get there.
+
+Anand Oswal is the Executive Vice President of Network Security at Palo Alto Networks.
+
+Get your full quantum assessment from Palo Alto Networks, and read Anand Oswal’s other articles on Perspectives.
+

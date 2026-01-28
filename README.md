@@ -2,16 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-28 06:26:35**
+Last Updated **2026-01-28 18:24:14**
 
 ## 2026-01-28
 
+* [Beyond demon or king: Why Ravana still matters in Sri Lanka](data/articles/beyond-demon-or-king-why.bb21fb75/README.md) `ft.lk`
+* [Fortresses and trade agreements](data/articles/fortresses-and-trade-agr.bdb2b5b2/README.md) `ft.lk`
+* [Trump’s colonial phase of Gaza ceasefire](data/articles/trump-s-colonial-phase-o.63f02ace/README.md) `ft.lk`
+* [Chain of Responsibility: Strengthening accountability in public institutions -Part I](data/articles/chain-of-responsibility.478f9ede/README.md) `ft.lk`
+* [Strategies for Sri Lanka to recover post-Ditwah disaster](data/articles/strategies-for-sri-lanka.6d8d663b/README.md) `ft.lk`
 * [Moral duty of Govt. to speak to parent-teachers before deciding to close schools](data/articles/moral-duty-of-govt-to-sp.8ae4c714/README.md) `ft.lk`
 * [Sri Lanka’s skills gap: An economic reality we can no longer ignore](data/articles/sri-lanka-s-skills-gap-a.f797fd1b/README.md) `ft.lk`
 
 ## 2026-01-27
 
+* [Why Your Post-Quantum Cryptography Strategy Must Start Now](data/articles/why-your-post-quantum-cr.9dcfe142/README.md) `hbr.org`
 * [The first human test of a rejuvenation method will begin “shortly”](data/articles/the-first-human-test-of.445c0ac5/README.md) `technologyreview.com`
+* [OpenAI’s latest product lets you vibe code science](data/articles/openai-s-latest-product.bee9e271/README.md) `technologyreview.com`
 * [Of moods, words and deeds: Being brilliant on basics](data/articles/of-moods-words-and-deeds.466de9af/README.md) `ft.lk`
 * [Surviving and thriving: How Sri Lankan businesses face climate crisis](data/articles/surviving-and-thriving-h.54197ba4/README.md) `ft.lk`
 * [Click first, sue later](data/articles/click-first-sue-later.9590ac39/README.md) `ft.lk`
