@@ -1,0 +1,194 @@
+# Chain of Responsibility: Strengthening accountability in Sri Lanka’s public institutions-Part II
+
+[https://www.ft.lk/columns/Chain-of-Responsibility-Strengthening-accountability-in-Sri-Lanka-s-public-institutions-Part-II/4-787600](https://www.ft.lk/columns/Chain-of-Responsibility-Strengthening-accountability-in-Sri-Lanka-s-public-institutions-Part-II/4-787600)
+
+*04:26 AM, Thursday, January 29, 2026*
+
+Recap of Chain of Responsibility
+
+Understanding the Chain of Responsibility (CoR) in a governance context
+
+IN the political structure, Sri Lanka has the Executive President at the apex with the  Prime Minister and Cabinet of Ministers sitting below.
+
+The Chain of Responsibility in national governance and the public sector is the missing piece of governance structure in Sri Lanka. Basically, it is about thinking holistically of the end-to-end process of any task, identifying all internal and external stakeholders, mapping the whole process and making sure all accountable and responsible stakeholders do their individual jobs to the best of their ability.  It also involves periodic checking to ensure tasks are being done as planned. This monitoring and checking goes beyond one’s own accountable and responsible areas and if any stakeholder sees the process is not working anywhere, they have the responsibility of documenting those lapses to alert the relevant parties. Overall process implementation responsibility may rest with a leader at the top and that person could be a Director General of an organisation (if the process is confined to an organisation), a Secretary to a Ministry or a Cabinet Minister. This could even be the Prime Minister or the Executive President of Sri Lanka.  It all depends on the complexity of the process.
+
+The Chain of Responsibility
+
+The CoR is built on a simple but powerful idea: when multiple parties influence an outcome, responsibility must be shared across the entire chain and not pushed onto the last person in the line.
+
+A classic example of the absence of CoR thinking in Sri Lanka is the poor implementation of educational reforms, where failures were often attributed to frontline actors rather than systemic weaknesses in planning, coordination, and oversight.
+
+Although the CoR concept was coined in Australia and implemented for transport safety, its underlying principles translate remarkably well to public governance, policy implementation, and public sector accountability. In fact, applying the CoR thinking to Government operations can strengthen transparency, reduce systemic failures, and improve service delivery.
+
+The following narrative explains how this works.
+
+Why the Chain of Responsibility principles fit public governance
+
+Modern governments are complex systems. Policy outcomes are rarely the result of a single decision-maker.  They could emerge from:
+
+When something goes wrong and corruption, service failure, cost blowouts, safety and incidents occur, traditional governance often blames the frontline worker or the final decision point. The CoR challenges this by recognising that risk is created upstream, through planning, resourcing, leadership, and system design.
+
+Applying CoR to governance means shifting from faultfinding to system accountability.
+
+Translating Chain of Responsibility concepts into public sector governance
+
+Below is a direct mapping of CoR principles to public sector operations.
+
+A. The primary duty: Duty to ensure safe, ethical, and effective public administration
+
+In CoR, every party must ensure safety “so far as is reasonably practicable.”
+
+In Government, this becomes:
+
+Every public sector leader must ensure that their decisions, policies, and systems minimise risks to public trust, service quality, financial integrity, and community wellbeing.
+
+designing realistic policies
+
+ensuring adequate funding and staffing
+
+preventing undue pressure on frontline workers
+
+eliminating incentives that encourage rulebending
+
+identifying risks early and acting on them
+
+This reframes governance as a proactive duty, not a reactive one.
+
+B. Executive due diligence: Ministerial and senior executive accountability
+
+Chain of Responsibility requires executives to:
+
+ensure adequate resources
+
+maintain effective systems
+
+Applied to Government, this means Ministers, Secretaries, and Directors-General must:
+
+understand the real operational risks in their portfolios
+
+ensure agencies have the resources and capability to deliver
+
+maintain strong internal controls
+
+respond quickly to emerging issues
+
+This strengthens leadership accountability and reduces the “I wasn’t aware” defence.
+
+C. Prohibited requests: Preventing unethical or unrealistic directives
+
+Chain of Responsibility in Australia prohibits actions that pressure drivers to break the law.
+
+In Government, this translates to prohibiting:
+
+unrealistic KPIs that encourage cornercutting
+
+political pressure that undermines due process
+
+budget constraints that make compliance impossible
+
+directives that compromise safety, integrity, or fairness
+
+This protects both the public and public servants.
+
+D. Shared responsibility: WholeofGovernment accountability
+
+Chain of Responsibility recognises that multiple parties influence outcomes.
+
+In public governance, this means:
+
+policy designers share responsibility with implementers
+
+regulators share responsibility with regulated entities
+
+ministers share responsibility with departments
+
+contractors share responsibility with Government agencies
+
+This reduces siloed thinking and encourages collaborative risk management.
+
+Practical applications in public sector operations
+
+Here are concrete ways the CoR thinking can improve Government performance.
+
+A. Policy development
+
+Chain of Responsibility approach:
+
+Identify risks early (legal, financial, social, operational)
+
+Assess whether implementation is realistically achievable
+
+Ensure adequate resources and capability
+
+Avoid policies that create perverse incentives
+
+Outcome: Policies that work in practice, not just on paper.
+
+B. Procurement and contract management
+
+Chain of Responsibility approach:
+
+Shared accountability between Government and contractors
+
+Clear risk allocation
+
+Monitoring systems that detect noncompliance early
+
+Avoiding contracts that incentivise unsafe or unethical behaviour
+
+Outcome: Reduced cost blowouts, safer operations, and better value for money.
+
+C. Regulatory oversight
+
+Chain of Responsibility approach:
+
+Regulators must ensure their frameworks do not unintentionally create risks
+
+Duty to monitor, educate, and intervene early
+
+Shared responsibility with regulated industries
+
+Outcome: More effective, fair, and transparent regulation.
+
+D. Public service workforce management
+
+Chain of Responsibility approach:
+
+Avoid unrealistic workloads
+
+Ensure adequate staffing and training
+
+Prevent cultural pressures that encourage rulebending
+
+Promote psychological safety and ethical decisionmaking
+
+Outcome: A healthier, more ethical, more productive public sector.
+
+Benefits of applying CoR to national governance
+
+Adopting the CoR principles across Government leads to:
+
+Stronger accountability
+
+Reduced corruption and misconduct
+
+Better policy outcomes
+
+Improved public trust
+
+More resilient systems
+
+Safer, more ethical public services
+
+It shifts governance from a blame culture to a systemsthinking culture.
+
+Countries succeed when their governance systems are:
+
+The CoR provides a readymade framework for achieving this. It encourages leaders to look beyond individual failures and examine the systemic causes of poor outcomes.
+
+In a world where public expectations are rising and Government complexity is increasing, CoR offers a modern, practical approach to strengthening governance and improving public sector performance.
+
+(The author is an engineer currently working in the Australian NSW Local Government sector. He aims to share his perspectives on various social development issues alongside his professional expertise to inspire others to think critically and differently. He can be reached at [email protected])
+
+Part 1 of this article is available online at https://www.ft.lk/janaka_seneviratne/Chain-of-Responsibility-Strengthening-accountability-in-public-institutions-Part-I/10517-787511
+

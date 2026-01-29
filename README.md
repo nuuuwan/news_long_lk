@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-28 18:24:14**
+Last Updated **2026-01-29 06:26:30**
+
+## 2026-01-29
+
+* [Justice, silence, and the  growing crisis of rape in Sri Lanka](data/articles/justice-silence-and-the.054541b1/README.md) `ft.lk`
+* [Chain of Responsibility: Strengthening accountability in Sri Lanka’s public institutions-Part II](data/articles/chain-of-responsibility.80cb11d6/README.md) `ft.lk`
+* [Protection of the State from Terrorism Bill - The facade of ‘System Change’](data/articles/protection-of-the-state.ac069650/README.md) `ft.lk`
+* [Lessons for Sri Lanka from Mark Carney’s Davos intervention](data/articles/lessons-for-sri-lanka-fr.2e1c1ffb/README.md) `ft.lk`
+* [Indispensable if incomplete:  Prof. G.L. Peiris’ peace process memoir](data/articles/indispensable-if-incompl.4f8d1250/README.md) `ft.lk`
 
 ## 2026-01-28
 
+* [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](data/articles/roundtables-why-ai-compa.66606b8d/README.md) `technologyreview.com`
 * [Beyond demon or king: Why Ravana still matters in Sri Lanka](data/articles/beyond-demon-or-king-why.bb21fb75/README.md) `ft.lk`
 * [Fortresses and trade agreements](data/articles/fortresses-and-trade-agr.bdb2b5b2/README.md) `ft.lk`
 * [Trump’s colonial phase of Gaza ceasefire](data/articles/trump-s-colonial-phase-o.63f02ace/README.md) `ft.lk`
