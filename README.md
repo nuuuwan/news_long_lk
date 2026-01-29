@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-29 06:26:30**
+Last Updated **2026-01-29 18:24:39**
 
 ## 2026-01-29
 
+* [How the grid can ride out winter storms](data/articles/how-the-grid-can-ride-ou.0b754048/README.md) `technologyreview.com`
 * [Justice, silence, and the  growing crisis of rape in Sri Lanka](data/articles/justice-silence-and-the.054541b1/README.md) `ft.lk`
 * [Chain of Responsibility: Strengthening accountability in Sri Lanka’s public institutions-Part II](data/articles/chain-of-responsibility.80cb11d6/README.md) `ft.lk`
 * [Protection of the State from Terrorism Bill - The facade of ‘System Change’](data/articles/protection-of-the-state.ac069650/README.md) `ft.lk`
@@ -28,6 +29,7 @@ Last Updated **2026-01-29 06:26:30**
 * [Why Your Post-Quantum Cryptography Strategy Must Start Now](data/articles/why-your-post-quantum-cr.9dcfe142/README.md) `hbr.org`
 * [The first human test of a rejuvenation method will begin “shortly”](data/articles/the-first-human-test-of.445c0ac5/README.md) `technologyreview.com`
 * [OpenAI’s latest product lets you vibe code science](data/articles/openai-s-latest-product.bee9e271/README.md) `technologyreview.com`
+* [Stratospheric internet could finally start taking off this year](data/articles/stratospheric-internet-c.558f5237/README.md) `technologyreview.com`
 * [Of moods, words and deeds: Being brilliant on basics](data/articles/of-moods-words-and-deeds.466de9af/README.md) `ft.lk`
 * [Surviving and thriving: How Sri Lankan businesses face climate crisis](data/articles/surviving-and-thriving-h.54197ba4/README.md) `ft.lk`
 * [Click first, sue later](data/articles/click-first-sue-later.9590ac39/README.md) `ft.lk`
@@ -37,6 +39,7 @@ Last Updated **2026-01-29 06:26:30**
 ## 2026-01-26
 
 * [Rebuilding Sri Lanka without delay: Why procurement reform matters after Ditwah](data/articles/rebuilding-sri-lanka-wit.af9373ed/README.md) `ft.lk`
+* [Inside OpenAI’s big play for science](data/articles/inside-openai-s-big-play.8d740ca6/README.md) `technologyreview.com`
 * [Why chatbots are starting to check your age](data/articles/why-chatbots-are-startin.01b7674e/README.md) `technologyreview.com`
 * [Unsung Central Bank heroes who braved the 1996 LTTE attack:  Time to appreciate their heroism](data/articles/unsung-central-bank-hero.4cded480/README.md) `ft.lk`
 * [Pillar Two of the OECD: Silent death of tax holidays](data/articles/pillar-two-of-the-oecd-s.5129527d/README.md) `ft.lk`
