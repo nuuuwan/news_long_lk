@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-30 06:26:42**
+Last Updated **2026-01-30 18:25:03**
 
 ## 2026-01-30
 
 * [Proposal to develop Sri Lanka as a retail tourism hub (3.0)](data/articles/proposal-to-develop-sri.1dc883e7/README.md) `ft.lk`
+* [How the sometimes-weird world of lifespan extension is gaining influence](data/articles/how-the-sometimes-weird.efc8277e/README.md) `technologyreview.com`
 * [We do not age with time, we age with accumulation](data/articles/we-do-not-age-with-time.3ff698b2/README.md) `ft.lk`
 * [Drawing more FDI: Strategy or wishful thinking?](data/articles/drawing-more-fdi-strateg.16ee97a1/README.md) `ft.lk`
 * [A tale of two neighbours: The Tiger and the Lion](data/articles/a-tale-of-two-neighbours.ffff7667/README.md) `ft.lk`
+* [Dr. Neelan Tiruchelvam: Foremost Intellectual was the Brightest Star In Tamil Political Firmament.](data/articles/dr-neelan-tiruchelvam-fo.c21a4765/README.md) `dbsjeyaraj.com`
 
 ## 2026-01-29
 
@@ -24,6 +26,7 @@ Last Updated **2026-01-30 06:26:42**
 ## 2026-01-28
 
 * [Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear](data/articles/roundtables-why-ai-compa.66606b8d/README.md) `technologyreview.com`
+* [What AI “remembers” about you is privacy’s next frontier](data/articles/what-ai-remembers-about.fd84872e/README.md) `technologyreview.com`
 * [Beyond demon or king: Why Ravana still matters in Sri Lanka](data/articles/beyond-demon-or-king-why.bb21fb75/README.md) `ft.lk`
 * [Fortresses and trade agreements](data/articles/fortresses-and-trade-agr.bdb2b5b2/README.md) `ft.lk`
 * [Trump’s colonial phase of Gaza ceasefire](data/articles/trump-s-colonial-phase-o.63f02ace/README.md) `ft.lk`
