@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-29 18:24:39**
+Last Updated **2026-01-30 06:26:42**
+
+## 2026-01-30
+
+* [Proposal to develop Sri Lanka as a retail tourism hub (3.0)](data/articles/proposal-to-develop-sri.1dc883e7/README.md) `ft.lk`
+* [We do not age with time, we age with accumulation](data/articles/we-do-not-age-with-time.3ff698b2/README.md) `ft.lk`
+* [Drawing more FDI: Strategy or wishful thinking?](data/articles/drawing-more-fdi-strateg.16ee97a1/README.md) `ft.lk`
+* [A tale of two neighbours: The Tiger and the Lion](data/articles/a-tale-of-two-neighbours.ffff7667/README.md) `ft.lk`
 
 ## 2026-01-29
 
+* [The AI Hype Index: Grok makes porn, and Claude Code nails your job](data/articles/the-ai-hype-index-grok-m.8ff1ee97/README.md) `technologyreview.com`
 * [How the grid can ride out winter storms](data/articles/how-the-grid-can-ride-ou.0b754048/README.md) `technologyreview.com`
 * [Justice, silence, and the  growing crisis of rape in Sri Lanka](data/articles/justice-silence-and-the.054541b1/README.md) `ft.lk`
 * [Chain of Responsibility: Strengthening accountability in Sri Lanka’s public institutions-Part II](data/articles/chain-of-responsibility.80cb11d6/README.md) `ft.lk`
