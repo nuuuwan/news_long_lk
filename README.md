@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-01-30 18:25:03**
+Last Updated **2026-01-31 06:26:20**
+
+## 2026-01-31
+
+* [A state of preventing terrorism and citizens needing protection](data/articles/a-state-of-preventing-te.5f5b0874/README.md) `ft.lk`
 
 ## 2026-01-30
 
+* [A survivor’s memory:  Wednesday, 31 January 1996](data/articles/a-survivor-s-memory-wedn.6d0435ee/README.md) `ft.lk`
+* [Best low-cost alternative to mitigate accidents at railway crossings](data/articles/best-low-cost-alternativ.a59775c4/README.md) `ft.lk`
+* [State university teachers have their say on general educational reforms, show way forward](data/articles/state-university-teacher.eb12779f/README.md) `ft.lk`
 * [Proposal to develop Sri Lanka as a retail tourism hub (3.0)](data/articles/proposal-to-develop-sri.1dc883e7/README.md) `ft.lk`
 * [How the sometimes-weird world of lifespan extension is gaining influence](data/articles/how-the-sometimes-weird.efc8277e/README.md) `technologyreview.com`
 * [We do not age with time, we age with accumulation](data/articles/we-do-not-age-with-time.3ff698b2/README.md) `ft.lk`
