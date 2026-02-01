@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-01 06:33:33**
+Last Updated **2026-02-01 18:23:52**
 
 ## 2026-01-31
 
+* [Prosecuting Ranil Wickremesinghe :When a State fails to distinguish between investigation and spectacle, between jurisdiction and adventurism, and between accountability and vendetta, it is ultimately the State itself that stands trial.](data/articles/prosecuting-ranil-wickre.ef6ae688/README.md) `dbsjeyaraj.com`
+* [Lee Kuan Yew’s Peoples Action Party (PAP) In Singapore and Anura Kumara Dissanayake’s National Peoples Power (NPP) in Sri Lanka.](data/articles/lee-kuan-yew-s-peoples-a.b1bb310b/README.md) `dbsjeyaraj.com`
 * [A state of preventing terrorism and citizens needing protection](data/articles/a-state-of-preventing-te.5f5b0874/README.md) `ft.lk`
 
 ## 2026-01-30
