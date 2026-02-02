@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-01 18:23:52**
+Last Updated **2026-02-02 06:28:00**
+
+## 2026-02-02
+
+* [LNG investment in Sri Lanka:  A risky road ahead](data/articles/lng-investment-in-sri-la.ecb5ee2b/README.md) `ft.lk`
+* [Beyond bailouts: How Sri Lanka can build  a sustainable economy and avoid 2027 IMF cliff](data/articles/beyond-bailouts-how-sri.0b7e47da/README.md) `ft.lk`
+* [Shameless clicks, broken lives: The social, legal, and ethical cost of viral obscene content](data/articles/shameless-clicks-broken.7457167b/README.md) `ft.lk`
+* [Ban social media for children under 16](data/articles/ban-social-media-for-chi.6364c813/README.md) `ft.lk`
 
 ## 2026-01-31
 
