@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-02 06:28:00**
+Last Updated **2026-02-02 18:25:38**
 
 ## 2026-02-02
 
+* [A new world order without US in driving seat?](data/articles/a-new-world-order-withou.7a8738b9/README.md) `ft.lk`
 * [LNG investment in Sri Lanka:  A risky road ahead](data/articles/lng-investment-in-sri-la.ecb5ee2b/README.md) `ft.lk`
 * [Beyond bailouts: How Sri Lanka can build  a sustainable economy and avoid 2027 IMF cliff](data/articles/beyond-bailouts-how-sri.0b7e47da/README.md) `ft.lk`
 * [Shameless clicks, broken lives: The social, legal, and ethical cost of viral obscene content](data/articles/shameless-clicks-broken.7457167b/README.md) `ft.lk`
 * [Ban social media for children under 16](data/articles/ban-social-media-for-chi.6364c813/README.md) `ft.lk`
+* [What’s next for EV batteries in 2026](data/articles/what-s-next-for-ev-batte.93445e73/README.md) `technologyreview.com`
 
 ## 2026-01-31
 
@@ -33,6 +35,7 @@ Last Updated **2026-02-02 06:28:00**
 
 * [The AI Hype Index: Grok makes porn, and Claude Code nails your job](data/articles/the-ai-hype-index-grok-m.8ff1ee97/README.md) `technologyreview.com`
 * [How the grid can ride out winter storms](data/articles/how-the-grid-can-ride-ou.0b754048/README.md) `technologyreview.com`
+* [Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”](data/articles/meet-the-vitalists-the-h.cae1066c/README.md) `technologyreview.com`
 * [Justice, silence, and the  growing crisis of rape in Sri Lanka](data/articles/justice-silence-and-the.054541b1/README.md) `ft.lk`
 * [Chain of Responsibility: Strengthening accountability in Sri Lanka’s public institutions-Part II](data/articles/chain-of-responsibility.80cb11d6/README.md) `ft.lk`
 * [Protection of the State from Terrorism Bill - The facade of ‘System Change’](data/articles/protection-of-the-state.ac069650/README.md) `ft.lk`
