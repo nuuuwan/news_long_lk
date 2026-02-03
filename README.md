@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-03 06:28:17**
+Last Updated **2026-02-03 18:24:48**
 
 ## 2026-02-03
 
@@ -43,6 +43,7 @@ Last Updated **2026-02-03 06:28:17**
 ## 2026-01-29
 
 * [The AI Hype Index: Grok makes porn, and Claude Code nails your job](data/articles/the-ai-hype-index-grok-m.8ff1ee97/README.md) `technologyreview.com`
+* [DHS is using Google and Adobe AI to make videos](data/articles/dhs-is-using-google-and.432c89d0/README.md) `technologyreview.com`
 * [How the grid can ride out winter storms](data/articles/how-the-grid-can-ride-ou.0b754048/README.md) `technologyreview.com`
 * [Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”](data/articles/meet-the-vitalists-the-h.cae1066c/README.md) `technologyreview.com`
 * [Justice, silence, and the  growing crisis of rape in Sri Lanka](data/articles/justice-silence-and-the.054541b1/README.md) `ft.lk`
