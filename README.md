@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-02 18:25:38**
+Last Updated **2026-02-03 06:28:17**
+
+## 2026-02-03
+
+* [Stop donating Sri Lanka’s tax revenue to foreign Governments: Time for a “Two-Basket” FDI strategy](data/articles/stop-donating-sri-lanka.f2c98694/README.md) `ft.lk`
+* [Office of Auditor General and its place in fiscal governance framework](data/articles/office-of-auditor-genera.cc054e74/README.md) `ft.lk`
 
 ## 2026-02-02
 
+* [Harry J : The unforgettable](data/articles/harry-j-the-unforgettabl.695c10f0/README.md) `ft.lk`
+* [Remembering Harry Jayawardena – One year on](data/articles/remembering-harry-jayawa.2c14113e/README.md) `ft.lk`
+* [Goodbye, Boss: Iqbal Athas and the craft he left behind](data/articles/goodbye-boss-iqbal-athas.89708d8f/README.md) `ft.lk`
+* [What we’ve been getting wrong about AI’s truth crisis](data/articles/what-we-ve-been-getting.4dab3d5d/README.md) `technologyreview.com`
 * [A new world order without US in driving seat?](data/articles/a-new-world-order-withou.7a8738b9/README.md) `ft.lk`
 * [LNG investment in Sri Lanka:  A risky road ahead](data/articles/lng-investment-in-sri-la.ecb5ee2b/README.md) `ft.lk`
 * [Beyond bailouts: How Sri Lanka can build  a sustainable economy and avoid 2027 IMF cliff](data/articles/beyond-bailouts-how-sri.0b7e47da/README.md) `ft.lk`
