@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-04 06:26:27**
+Last Updated **2026-02-04 18:24:35**
+
+## 2026-02-04
+
+* [Let’s join the national renaissance to usher in new era for all](data/articles/let-s-join-the-national.61a36916/README.md) `ft.lk`
+* [Independent meditations](data/articles/independent-meditations.1bf4df71/README.md) `ft.lk`
+* [The Attorney General in the hot seat](data/articles/the-attorney-general-in.2090c0b6/README.md) `ft.lk`
+* [78 years after regaining independence: A managerial perspective](data/articles/78-years-after-regaining.a41ff272/README.md) `ft.lk`
+* [Unconditional Muslim support facilitated independence](data/articles/unconditional-muslim-sup.ed15fa78/README.md) `ft.lk`
 
 ## 2026-02-03
 
+* [One Hundred Years After SWRD Bandaranaike’s Clarion Call For Federalism.](data/articles/one-hundred-years-after.da27bcea/README.md) `dbsjeyaraj.com`
+* [Ilankai Thamil Arasuk Katchi Removes Jaffna MP Sivagnanam  shritharan as ITAK Parliamentary Group Leader and Appoints  Young Batticaloa MP Shanakiyan Rasamanickam as new Parliamentary Leader](data/articles/ilankai-thamil-arasuk-ka.465fe8af/README.md) `dbsjeyaraj.com`
+* [Constitutional Council  unanimously approves the appointment of Senior Deputy Auditor General Samudika Jayaratne as the new Auditor General.](data/articles/constitutional-council-u.3ad3066a/README.md) `dbsjeyaraj.com`
+* [Thousands of People Gather   at  Nedunkerny in Vavuniya District to Protest Against JVP Led NPP Government Decision to  Resume the Kivul Oya Reservoir Development Project.](data/articles/thousands-of-people-gath.9dccec8a/README.md) `dbsjeyaraj.com`
+* [Microbes could extract the metal needed for cleantech](data/articles/microbes-could-extract-t.918ade4e/README.md) `technologyreview.com`
 * [Stop donating Sri Lanka’s tax revenue to foreign Governments: Time for a “Two-Basket” FDI strategy](data/articles/stop-donating-sri-lanka.f2c98694/README.md) `ft.lk`
 * [Executive President, Office of the Attorney General and public trust doctrine](data/articles/executive-president-offi.7b75a7a1/README.md) `ft.lk`
 * [Office of Auditor General and its place in fiscal governance framework](data/articles/office-of-auditor-genera.cc054e74/README.md) `ft.lk`
