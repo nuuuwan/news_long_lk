@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-03 18:24:48**
+Last Updated **2026-02-04 06:26:27**
 
 ## 2026-02-03
 
 * [Stop donating Sri Lanka’s tax revenue to foreign Governments: Time for a “Two-Basket” FDI strategy](data/articles/stop-donating-sri-lanka.f2c98694/README.md) `ft.lk`
+* [Executive President, Office of the Attorney General and public trust doctrine](data/articles/executive-president-offi.7b75a7a1/README.md) `ft.lk`
 * [Office of Auditor General and its place in fiscal governance framework](data/articles/office-of-auditor-genera.cc054e74/README.md) `ft.lk`
 
 ## 2026-02-02
