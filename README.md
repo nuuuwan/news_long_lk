@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-04 18:24:35**
+Last Updated **2026-02-05 06:27:07**
+
+## 2026-02-05
+
+* [Tax implications on indirect transfer/sale of shares – the Tiger Global ruling](data/articles/tax-implications-on-indi.70c347dd/README.md) `ft.lk`
+* [Trump’s BOP: Pseudo-legitimacy for illegitimate occupations](data/articles/trump-s-bop-pseudo-legit.cf18ce2c/README.md) `ft.lk`
+* [Excesses, extremism, hypocrisy: Persecuting Ranil, targeting Rajapaksas, seizing State power](data/articles/excesses-extremism-hypoc.2c528c91/README.md) `ft.lk`
 
 ## 2026-02-04
 
