@@ -2,13 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-05 06:27:07**
+Last Updated **2026-02-05 18:24:52**
 
 ## 2026-02-05
 
+* [Three questions about next-generation nuclear power, answered](data/articles/three-questions-about-ne.0a362fe6/README.md) `technologyreview.com`
 * [Tax implications on indirect transfer/sale of shares – the Tiger Global ruling](data/articles/tax-implications-on-indi.70c347dd/README.md) `ft.lk`
+* [The Role of the Jaffna Youth Congress in the Freedom Struggle Against the United Kingdom.](data/articles/the-role-of-the-jaffna-y.57479d2a/README.md) `dbsjeyaraj.com`
 * [Trump’s BOP: Pseudo-legitimacy for illegitimate occupations](data/articles/trump-s-bop-pseudo-legit.cf18ce2c/README.md) `ft.lk`
 * [Excesses, extremism, hypocrisy: Persecuting Ranil, targeting Rajapaksas, seizing State power](data/articles/excesses-extremism-hypoc.2c528c91/README.md) `ft.lk`
+* [If the public education system is not reformed and the tuition industry is not regulated, the call to save tax rupees by de funding public education might grow from a whisper to a shout.](data/articles/if-the-public-education.fd252bf3/README.md) `dbsjeyaraj.com`
+* [தமிழ்த் தேசியவாத அரசியலின் எதிர்காலம்’  நூல்  எழுப்பும்  கேள்விகள்](data/articles/தம-ழ-த-த-ச-யவ-த-அரச-யல-ன.8880b71e/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-04
 
