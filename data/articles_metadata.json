@@ -1,5 +1,12 @@
 [
   {
+    "title": "An experimental surgery is helping cancer survivors give birth",
+    "url": "https://www.technologyreview.com/2026/02/06/1132319/experimental-surgery-colorectal-cancer-survivors-pregnant-birth/",
+    "ut": 1770334200.0,
+    "dir_path_unix": "data/articles/an-experimental-surgery.e2bf63ab",
+    "time_str_formatted": "05:00 AM, Friday, February 06, 2026"
+  },
+  {
     "title": "Protecting tenants without punishing property",
     "url": "https://www.ft.lk/columns/Protecting-tenants-without-punishing-property/4-787968",
     "ut": 1770326453.0,
@@ -278,6 +285,13 @@
     "ut": 1769797466.0,
     "dir_path_unix": "data/articles/state-university-teacher.eb12779f",
     "time_str_formatted": "11:54 PM, Friday, January 30, 2026"
+  },
+  {
+    "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+    "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+    "ut": 1769752951.0,
+    "dir_path_unix": "data/articles/inside-the-marketplace-p.e213f1f0",
+    "time_str_formatted": "11:32 AM, Friday, January 30, 2026"
   },
   {
     "title": "Proposal to develop Sri Lanka as a retail tourism hub (3.0)",

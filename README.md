@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-06 06:26:58**
+Last Updated **2026-02-06 18:24:57**
 
 ## 2026-02-06
 
+* [An experimental surgery is helping cancer survivors give birth](data/articles/an-experimental-surgery.e2bf63ab/README.md) `technologyreview.com`
 * [Protecting tenants without punishing property](data/articles/protecting-tenants-witho.7e854190/README.md) `ft.lk`
 * [Stopover justice: When a layover becomes an indictment](data/articles/stopover-justice-when-a.fa25f856/README.md) `ft.lk`
 * [The unfinished promise:  Sri Lanka’s independence deficit](data/articles/the-unfinished-promise-s.00e2cd6f/README.md) `ft.lk`
@@ -64,6 +65,7 @@ Last Updated **2026-02-06 06:26:58**
 * [A survivor’s memory:  Wednesday, 31 January 1996](data/articles/a-survivor-s-memory-wedn.6d0435ee/README.md) `ft.lk`
 * [Best low-cost alternative to mitigate accidents at railway crossings](data/articles/best-low-cost-alternativ.a59775c4/README.md) `ft.lk`
 * [State university teachers have their say on general educational reforms, show way forward](data/articles/state-university-teacher.eb12779f/README.md) `ft.lk`
+* [Inside the marketplace powering bespoke AI deepfakes of real women](data/articles/inside-the-marketplace-p.e213f1f0/README.md) `technologyreview.com`
 * [Proposal to develop Sri Lanka as a retail tourism hub (3.0)](data/articles/proposal-to-develop-sri.1dc883e7/README.md) `ft.lk`
 * [How the sometimes-weird world of lifespan extension is gaining influence](data/articles/how-the-sometimes-weird.efc8277e/README.md) `technologyreview.com`
 * [We do not age with time, we age with accumulation](data/articles/we-do-not-age-with-time.3ff698b2/README.md) `ft.lk`
