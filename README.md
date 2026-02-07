@@ -2,11 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-07 06:26:44**
+Last Updated **2026-02-07 18:23:48**
 
 ## 2026-02-07
 
+* [Unrepentant Communist “Shan” Sanmugathasan and his Political Perceptions of the LTTE and JVP.](data/articles/unrepentant-communist-sh.ce1e6091/README.md) `dbsjeyaraj.com`
+* [“Justice for All “opposes the PSTA and reiterates its demand for the immediate repeal of the PTA.](data/articles/justice-for-all-opposes.613610f6/README.md) `dbsjeyaraj.com`
 * [A nation without memory is a nation at risk](data/articles/a-nation-without-memory.6eab922f/README.md) `ft.lk`
+* [100 வருடங்களுக்கு முன்னர் பண்டாரநாயக்க விடுத்த சமஷ்டி ஆட்சிமுறைக்கான அறைகூவல்](data/articles/100-வர-டங-கள-க-க-ம-ன-னர.d34776fe/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-06
 
