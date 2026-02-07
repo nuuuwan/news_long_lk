@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-06 18:24:57**
+Last Updated **2026-02-07 06:26:44**
+
+## 2026-02-07
+
+* [A nation without memory is a nation at risk](data/articles/a-nation-without-memory.6eab922f/README.md) `ft.lk`
 
 ## 2026-02-06
 
+* [From parades to ploughshares: has ‘peace’ finally come to us?](data/articles/from-parades-to-ploughsh.85bc5a2f/README.md) `ft.lk`
+* [What is good is good](data/articles/what-is-good-is-good.36b03885/README.md) `ft.lk`
+* [Central Bank’s role in development](data/articles/central-bank-s-role-in-d.26a095c6/README.md) `ft.lk`
+* [Era of weaponised economies and SL’s 78th year of independence](data/articles/era-of-weaponised-econom.14ebeb6e/README.md) `ft.lk`
 * [An experimental surgery is helping cancer survivors give birth](data/articles/an-experimental-surgery.e2bf63ab/README.md) `technologyreview.com`
 * [Protecting tenants without punishing property](data/articles/protecting-tenants-witho.7e854190/README.md) `ft.lk`
 * [Stopover justice: When a layover becomes an indictment](data/articles/stopover-justice-when-a.fa25f856/README.md) `ft.lk`
