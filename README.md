@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-08 18:23:50**
+Last Updated **2026-02-09 06:28:53**
+
+## 2026-02-09
+
+* [When tax enforcement turns tragic](data/articles/when-tax-enforcement-tur.28d248f2/README.md) `ft.lk`
+* [Strengthening Sri Lanka’s GREAT 2025–2030 Renewable Energy Project Development Plan: Bridging Gaps for a Sustainable Future](data/articles/strengthening-sri-lanka.d7e41142/README.md) `ft.lk`
+* [Energy Minister and accountability on subpar coal purchase](data/articles/energy-minister-and-acco.9816a2e4/README.md) `ft.lk`
+* [Creating human capital is wider concept than school education](data/articles/creating-human-capital-i.f881b25b/README.md) `ft.lk`
 
 ## 2026-02-07
 
