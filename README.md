@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-10 06:34:17**
+Last Updated **2026-02-10 18:25:58**
 
 ## 2026-02-10
 
@@ -10,11 +10,13 @@ Last Updated **2026-02-10 06:34:17**
 * [Beyond 4–5% recovery: Why Sri Lanka needs a real growth strategy](data/articles/beyond-4-5-recovery-why.a709a902/README.md) `ft.lk`
 * [Digitalisation without rights protections](data/articles/digitalisation-without-r.ce953702/README.md) `ft.lk`
 * [Is Venture Capital only for the elite?  The financing gap facing small businesses](data/articles/is-venture-capital-only.4c1017be/README.md) `ft.lk`
+* [A balanced tenancy law is essential for Sri Lanka’s housing future](data/articles/a-balanced-tenancy-law-i.036f6f64/README.md) `ft.lk`
 * [A balanced tenancy law is essential for Sri Lanka’s housing future](data/articles/a-balanced-tenancy-law-i.fe54aa1f/README.md) `ft.lk`
 
 ## 2026-02-09
 
 * [Why the Moltbook frenzy was like Pokémon](data/articles/why-the-moltbook-frenzy.e3e028d7/README.md) `technologyreview.com`
+* [Making AI Work, MIT Technology Review’s new AI newsletter, is here](data/articles/making-ai-work-mit-techn.d7ce15dc/README.md) `technologyreview.com`
 * [When tax enforcement turns tragic](data/articles/when-tax-enforcement-tur.28d248f2/README.md) `ft.lk`
 * [Strengthening Sri Lanka’s GREAT 2025–2030 Renewable Energy Project Development Plan: Bridging Gaps for a Sustainable Future](data/articles/strengthening-sri-lanka.d7e41142/README.md) `ft.lk`
 * [Energy Minister and accountability on subpar coal purchase](data/articles/energy-minister-and-acco.9816a2e4/README.md) `ft.lk`
