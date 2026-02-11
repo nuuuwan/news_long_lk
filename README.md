@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-10 18:25:58**
+Last Updated **2026-02-11 06:32:55**
+
+## 2026-02-11
+
+* [Robust progress in China-Sri Lanka relations: Ambassador Qi](data/articles/robust-progress-in-china.4d407ec4/README.md) `ft.lk`
+* [Too close to ignore: India, aid, and Sri Lanka’s search for economic stability](data/articles/too-close-to-ignore-indi.a50f0ddd/README.md) `ft.lk`
 
 ## 2026-02-10
 
@@ -15,6 +20,7 @@ Last Updated **2026-02-10 18:25:58**
 
 ## 2026-02-09
 
+* [“Senthamizh Thaen Mozhiyaal”-Magnificient Singing by T.R.Mahalingam ♫♥](data/articles/senthamizh-thaen-mozhiy.44be89be/README.md) `dbsjeyaraj.com`
 * [Why the Moltbook frenzy was like Pokémon](data/articles/why-the-moltbook-frenzy.e3e028d7/README.md) `technologyreview.com`
 * [Making AI Work, MIT Technology Review’s new AI newsletter, is here](data/articles/making-ai-work-mit-techn.d7ce15dc/README.md) `technologyreview.com`
 * [When tax enforcement turns tragic](data/articles/when-tax-enforcement-tur.28d248f2/README.md) `ft.lk`
