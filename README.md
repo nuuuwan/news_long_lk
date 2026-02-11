@@ -2,12 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-11 06:32:55**
+Last Updated **2026-02-11 18:25:22**
 
 ## 2026-02-11
 
+* [Protection of Occupation Bill impact on real estate market and bank collateral](data/articles/protection-of-occupation.84d48923/README.md) `ft.lk`
 * [Robust progress in China-Sri Lanka relations: Ambassador Qi](data/articles/robust-progress-in-china.4d407ec4/README.md) `ft.lk`
 * [Too close to ignore: India, aid, and Sri Lanka’s search for economic stability](data/articles/too-close-to-ignore-indi.a50f0ddd/README.md) `ft.lk`
+* [EVs could be cheaper to own than gas cars in Africa by 2040](data/articles/evs-could-be-cheaper-to.180dae03/README.md) `technologyreview.com`
 
 ## 2026-02-10
 
