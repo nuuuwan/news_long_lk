@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-11 18:25:22**
+Last Updated **2026-02-12 06:33:12**
+
+## 2026-02-12
+
+* [Tamil Eelam movement revives amidst AKD Presidency](data/articles/tamil-eelam-movement-rev.a6a1288a/README.md) `ft.lk`
+* [Balance Sheet restructuring: What it means, when it makes sense, and lessons from Sri Lanka](data/articles/balance-sheet-restructur.9bc51523/README.md) `ft.lk`
+* [MSME recovery in post-Ditwah Sri Lanka: Turning geographic data into action](data/articles/msme-recovery-in-post-di.24c0bbea/README.md) `ft.lk`
 
 ## 2026-02-11
 
@@ -10,6 +16,8 @@ Last Updated **2026-02-11 18:25:22**
 * [Robust progress in China-Sri Lanka relations: Ambassador Qi](data/articles/robust-progress-in-china.4d407ec4/README.md) `ft.lk`
 * [Too close to ignore: India, aid, and Sri Lanka’s search for economic stability](data/articles/too-close-to-ignore-indi.a50f0ddd/README.md) `ft.lk`
 * [EVs could be cheaper to own than gas cars in Africa by 2040](data/articles/evs-could-be-cheaper-to.180dae03/README.md) `technologyreview.com`
+* [Kivul Oya Reservoir project has dubious economic benefits, serious environmental costs and the potential to reignite ethnic  tensions : JVP led NPP Govt would be wise to pause and reconsider Instead of Falling Into a Political Trap.](data/articles/kivul-oya-reservoir-proj.d109003f/README.md) `dbsjeyaraj.com`
+* [Pakistan Agrees to Play  T-20 World Cup Match  With India  in Colombo After  President Anura Kumara  Dissanayake Speaks to Pakistani PM  Shehbaz Sharif in  30 Minute Telephone Call””It’s Cricket Diplomac’Says Foreign Minister Vijitha Herath](data/articles/pakistan-agrees-to-play.d5ac8347/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-10
 
