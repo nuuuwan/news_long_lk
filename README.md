@@ -2,23 +2,32 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-13 06:30:48**
+Last Updated **2026-02-13 18:25:26**
 
 ## 2026-02-13
 
+* [How to create jobs for the world’s 1.2 b new workers](data/articles/how-to-create-jobs-for-t.8fbc1ee3/README.md) `ft.lk`
+* [Rebuilding farming after Cyclone Ditwah: A reform agenda, not a repair job](data/articles/rebuilding-farming-after.b40896de/README.md) `ft.lk`
+* [Independence: Of nations, institutions and individuals](data/articles/independence-of-nations.a5223f7c/README.md) `ft.lk`
+* [AI, AI, AI, woe is me or, how to save the world from  rogue artificial intelligence](data/articles/ai-ai-ai-woe-is-me-or-ho.e4849bd1/README.md) `ft.lk`
+* [“China shock” or “China opportunity”?](data/articles/china-shock-or-china-op.b48f57ea/README.md) `ft.lk`
 * [Executives: Discover the power of strategic silence](data/articles/executives-discover-the.0ddde73c/README.md) `ft.lk`
+* [The myth of the high-tech heist](data/articles/the-myth-of-the-high-tec.f669d6e7/README.md) `technologyreview.com`
 
 ## 2026-02-12
 
+* [கடந்த காலத்தில் பிர்டிஷாருக்கு எதிரான சுதந்திரப் போராட்டத்தில் தமிழர்களில் கணிசமான ஒரு பிரிவினர் முன்னணிப் படையாக நின்றார்கள் .சுதநாதிரத்துக்கான வேட்கையில் யாழ்ப்பாண இளைஞர் காங்கிரஸ்  வகித்த முன்னணிப் பாத்திரம் இப்போது மறக்கப்பட்டுவிட்டது](data/articles/கடந-த-க-லத-த-ல-ப-ர-ட-ஷ-ர.e02c9134/README.md) `dbsjeyaraj.com`
 * [A Blueprint for Enterprise-Wide Agentic AI Transformation](data/articles/a-blueprint-for-enterpri.da701d3a/README.md) `hbr.org`
 * [AI is already making online crimes easier. It could get much worse.](data/articles/ai-is-already-making-onl.d9060baa/README.md) `technologyreview.com`
 * [Why EVs are gaining ground in Africa](data/articles/why-evs-are-gaining-grou.c605ff7b/README.md) `technologyreview.com`
+* [What’s next for Chinese open-source AI](data/articles/what-s-next-for-chinese.7f27d8de/README.md) `technologyreview.com`
 * [Tamil Eelam movement revives amidst AKD Presidency](data/articles/tamil-eelam-movement-rev.a6a1288a/README.md) `ft.lk`
 * [Balance Sheet restructuring: What it means, when it makes sense, and lessons from Sri Lanka](data/articles/balance-sheet-restructur.9bc51523/README.md) `ft.lk`
 * [MSME recovery in post-Ditwah Sri Lanka: Turning geographic data into action](data/articles/msme-recovery-in-post-di.24c0bbea/README.md) `ft.lk`
 
 ## 2026-02-11
 
+* [Is a secure AI assistant possible?](data/articles/is-a-secure-ai-assistant.26db947a/README.md) `technologyreview.com`
 * [Protection of Occupation Bill impact on real estate market and bank collateral](data/articles/protection-of-occupation.84d48923/README.md) `ft.lk`
 * [Robust progress in China-Sri Lanka relations: Ambassador Qi](data/articles/robust-progress-in-china.4d407ec4/README.md) `ft.lk`
 * [Too close to ignore: India, aid, and Sri Lanka’s search for economic stability](data/articles/too-close-to-ignore-indi.a50f0ddd/README.md) `ft.lk`
