@@ -1,0 +1,60 @@
+# A Blueprint for Enterprise-Wide Agentic AI Transformation
+
+[https://hbr.org/sponsored/2026/02/a-blueprint-for-enterprise-wide-agentic-ai-transformation](https://hbr.org/sponsored/2026/02/a-blueprint-for-enterprise-wide-agentic-ai-transformation)
+
+*05:40 PM, Thursday, February 12, 2026*
+
+By Marcus Oliver and Ryan Faris
+
+The adoption of artificial intelligence in business is nearly universal, yet a troubling paradox is emerging. While leaders rightly see agentic AI as a catalyst for growth, many are finding this powerful technology is increasing operational friction instead of improving productivity by adding pressure to systems and budgets and amplifying underlying flaws rather than resolving them.
+
+This happens when leaders make three critical mistakes: building on a cracked foundation, deploying AI in environments with unresolved technical issues; allowing an uncontrolled proliferation of siloed AI agents in their rush to innovate; and automating the past, using AI for incremental efficiencies instead of orchestrating a fundamentally new, more dynamic future.
+
+For AI to deliver on its transformative promise, organizations need to make a strategic shift. They must move from deploying disconnected tools to building a cohesive ecosystem of intelligence. This requires an enterprise-grade platform, a disciplined strategic framework, and an expert partner to guide the transformation.
+
+Mistake 1: Building on a Cracked Foundation
+
+The most common mistake in adopting agentic AI is introducing this technology into an environment with underlying technical debt.
+
+While AI can boost performance, its adoption is also associated with an increase in software delivery instability, according to the DORA State of AI-Assisted Software Development Report. AI acts as a powerful amplifier. When introduced into a weak or fragmented system, it doesn’t fix the system; it amplifies its flaws.
+
+This is because AI does not overcome foundational hurdles. Leaders surveyed in the report The ROI of AI cite data privacy and security (37%), the difficulty of integrating with legacy systems (28%), and controlling costs (27%) as their top concerns. Without addressing these cracks, AI accelerates chaos instead of accelerating value, leading to a negative return on investment (ROI).
+
+To overcome this, organizations need more than a collection of disparate tools; they require a unified, seamless, vertically integrated AI stack—from custom silicon to foundational models and a governance platform—treated as a product to build a curated internal developer platform. This set of “paved roads” provides development teams with self-service access to powerful, secure, and governed tools.
+
+Mistake 2: Mistaking Proliferation for Innovation
+
+In the pursuit of innovation, leaders are rightly empowering teams to experiment with agentic AI. However, when this decentralized development occurs without a unifying strategy, the result is “agent sprawl”—a costly and uncontrolled proliferation of siloed, insecure, and duplicative AI agents. While individual teams may achieve localized successes, this bottom-up approach paradoxically undermines the enterprise-wide ROI of AI.
+
+Agent sprawl creates immense technical debt, multiplies security vulnerabilities, and wastes resources on redundant development. Most critically, it prevents the organization from building a cohesive, interconnected system of intelligence. Instead of building a powerful, compounding asset, the result is a collection of disconnected point solutions, replacing any initial excitement with the harsh realities of unmanaged complexity.
+
+To combat agent sprawl, companies need a field-tested, repeatable blueprint. A strategic orchestration framework should provide a flexible roadmap to guide organizations from initial strategy to a cohesive ecosystem of intelligent agents. It should employ an agile, iterative methodology that covers the full lifecycle—from reimagining business processes to building and aligning agents—to ensure every agent is built with purpose and contributes to measurable value.
+
+This approach resolves the tension between decentralized innovation and centralized control, allowing organizations to harness the full creative potential of their teams without succumbing to chaos.
+
+Mistake 3: Automating the Past Instead of Orchestrating the Future
+
+Many leaders still view AI through the narrow lens of automating existing, static, linear processes. This strategy frequently manifests as the creation of “persona-based” agents—tools designed to mimic or replace a specific human job—which misses the true value of agentic AI because it digitizes organizational silos rather than removes them.
+
+The aim is not to digitize a role (e.g., the analyst) but to build agents that solve for the ultimate outcome (e.g., the analysis), unifying workflows that previously required coordination across multiple roles. This strategy enables the leap to dynamic orchestration, creating a responsive system in which intelligent agents assemble novel workflows in real time, unconstrained by the rigid handoffs of human org charts.
+
+Viewing agentic AI as a simple technology project is a recipe for failure. Organizations that do not address the deeper need to deconstruct these legacy processes will achieve only incremental speed while losing ground to competitors that have rewired their operations to decouple value creation from head count.
+
+Your First Three Moves
+
+To begin your organization’s agentic AI transformation, a deliberate, phased approach can help build the capabilities that turn AI into a positive amplifier.
+
+1. Anchor in profit and loss, then scale the vision. Launch initial minimum viable products focused on measurable results. More than 74% of executives whose organizations introduce agentic AI see returns on their investment in the first year. And these concrete wins are key to funding a broader vision. One retail pricing analytics company built a multi-agent system that was approved for production in under four months because it was already directly tied to accelerating market response and reducing manual error.
+
+2. Design for collaboration. The goal of introducing agentic AI should be to redesign core workflows around human-agent collaboration. A U.S. mortgage servicer did this by deconstructing a critical business process and designing a multi-agent framework with an “orchestrator” agent coordinating tasks between specialist agents for document analysis and data retrieval and “governance” agents to ensure accuracy. This symbiotic workflow creates value neither humans nor AI could achieve alone.
+
+3. Build a foundation, not just an agent. Avoid the temptation of building disconnected agents. A leading financial services firm developed its autonomous threat detection system not as a single tool but as the first use case in an enterprise-wide framework for deploying multi-agent systems. This foundational approach ensures every new agent makes the entire ecosystem more intelligent and valuable.
+
+AI’s impact depends on the health of the system it enters. So organizations need a co-innovation partner that can help diagnose organizational health, map value streams, and implement the necessary cultural and process changes to make AI a positive amplifier.
+
+With expertise from Google’s own at-scale AI deployments, Google Cloud Consulting acts as an extension of a customer’s team. And because deploying powerful agentic systems introduces risks, these agentic AI platforms have built-in production-grade controls for safety and governance, guided by Google’s public AI principles, to ensure organizations can deploy them responsibly and with confidence.
+
+Marcus Oliver is the Leader of delta, Google Cloud’s specialized strategy and transformation team. Ryan Faris is delta’s Agentic AI Transformation Lead.
+
+Learn more about partnering with Google Cloud Consulting to begin your agentic AI transformation.
+
