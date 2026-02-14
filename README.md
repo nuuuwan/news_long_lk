@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-13 18:25:26**
+Last Updated **2026-02-14 06:26:26**
 
 ## 2026-02-13
 
+* [Is Sri Lanka entering a ‘disaster inequality trap’ after Cyclone Ditwah?](data/articles/is-sri-lanka-entering-a.53352c13/README.md) `ft.lk`
+* [The digital reckoning](data/articles/the-digital-reckoning.0dfcc798/README.md) `ft.lk`
+* [Wuthering heights of Valentine’s Day](data/articles/wuthering-heights-of-val.71a5c3aa/README.md) `ft.lk`
+* [ALS stole this musician’s voice. AI let him sing again.](data/articles/als-stole-this-musician.3675f977/README.md) `technologyreview.com`
 * [How to create jobs for the world’s 1.2 b new workers](data/articles/how-to-create-jobs-for-t.8fbc1ee3/README.md) `ft.lk`
 * [Rebuilding farming after Cyclone Ditwah: A reform agenda, not a repair job](data/articles/rebuilding-farming-after.b40896de/README.md) `ft.lk`
 * [Independence: Of nations, institutions and individuals](data/articles/independence-of-nations.a5223f7c/README.md) `ft.lk`
@@ -27,6 +31,7 @@ Last Updated **2026-02-13 18:25:26**
 
 ## 2026-02-11
 
+* [Building Better Connections with AI-Powered Customer Experience Orchestration](data/articles/building-better-connecti.4065a5f3/README.md) `hbr.org`
 * [Is a secure AI assistant possible?](data/articles/is-a-secure-ai-assistant.26db947a/README.md) `technologyreview.com`
 * [Protection of Occupation Bill impact on real estate market and bank collateral](data/articles/protection-of-occupation.84d48923/README.md) `ft.lk`
 * [Robust progress in China-Sri Lanka relations: Ambassador Qi](data/articles/robust-progress-in-china.4d407ec4/README.md) `ft.lk`
