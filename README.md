@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-14 06:26:26**
+Last Updated **2026-02-14 18:24:19**
+
+## 2026-02-14
+
+* [♥’Kaatriniley Varum Geetham’-Melodiously Sung by M.S. Subbulakshmi in/as “Meera”♫](data/articles/kaatriniley-varum-geeth.db1689c6/README.md) `dbsjeyaraj.com`
+* [Tissa Vitarana, leader of Sri Lanka’s leftist Lanka Sama Samaja Party (LSSP)  and Former Cabinet  Minister Dies In Colombo at the age of 91.](data/articles/tissa-vitarana-leader-of.592c9d7f/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-13
 
