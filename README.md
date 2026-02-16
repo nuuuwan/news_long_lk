@@ -2,7 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-15 18:24:32**
+Last Updated **2026-02-16 06:27:44**
+
+## 2026-02-16
+
+* [India AI Impact Summit: Global South’s AI moment and a shared future with Sri Lanka](data/articles/india-ai-impact-summit-g.976d8994/README.md) `ft.lk`
+* [Digital banking hype: More to be done to make it inclusive](data/articles/digital-banking-hype-mor.6e8384ec/README.md) `ft.lk`
+* [35 years after displacement of Northern Muslims, a new generation takes steps towards reconciliation](data/articles/35-years-after-displacem.bca24481/README.md) `ft.lk`
+* [Legislators’ pensions: Denying a legitimate expectation](data/articles/legislators-pensions-den.6a04c7d9/README.md) `ft.lk`
+
+## 2026-02-15
+
+* [Anura : The Crown Prince of Sri Lankan Politics who was Never Crowned as King](data/articles/anura-the-crown-prince-o.605bba55/README.md) `dbsjeyaraj.com`
+* [Tamil-speaking citizens face systemic exclusion in accessing State Services due to Chronic Shortage of  Profcient Tamil Translators:Trilingual policy exists on paper, but not in practice](data/articles/tamil-speaking-citizens.4f44f167/README.md) `dbsjeyaraj.com`
+* [Senior political figures of the current regime urged  crowds that had already overrun the Presidential Secretariat, President’s House, and Prime Minister’s Office to march on Parliament and “finish the job”.](data/articles/senior-political-figures.04dad34e/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-14
 
