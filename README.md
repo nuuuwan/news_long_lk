@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-16 06:27:44**
+Last Updated **2026-02-16 18:25:03**
 
 ## 2026-02-16
 
+* [The scientist using AI to hunt for antibiotics just about everywhere](data/articles/the-scientist-using-ai-t.6a4e3b2c/README.md) `technologyreview.com`
 * [India AI Impact Summit: Global South’s AI moment and a shared future with Sri Lanka](data/articles/india-ai-impact-summit-g.976d8994/README.md) `ft.lk`
 * [Digital banking hype: More to be done to make it inclusive](data/articles/digital-banking-hype-mor.6e8384ec/README.md) `ft.lk`
 * [35 years after displacement of Northern Muslims, a new generation takes steps towards reconciliation](data/articles/35-years-after-displacem.bca24481/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2026-02-16 06:27:44**
 ## 2026-02-15
 
 * [Anura : The Crown Prince of Sri Lankan Politics who was Never Crowned as King](data/articles/anura-the-crown-prince-o.605bba55/README.md) `dbsjeyaraj.com`
+* [Will  Muruththettuwe  Ananda  Thero”s Plan to Convene a “Sangha Sabha” on Feb 20 Result in a second “Sinha Le”(Lion Blood)Movement?If so who is Grinding the Organ?](data/articles/will-muruththettuwe-anan.24a71afb/README.md) `dbsjeyaraj.com`
 * [Tamil-speaking citizens face systemic exclusion in accessing State Services due to Chronic Shortage of  Profcient Tamil Translators:Trilingual policy exists on paper, but not in practice](data/articles/tamil-speaking-citizens.4f44f167/README.md) `dbsjeyaraj.com`
 * [Senior political figures of the current regime urged  crowds that had already overrun the Presidential Secretariat, President’s House, and Prime Minister’s Office to march on Parliament and “finish the job”.](data/articles/senior-political-figures.04dad34e/README.md) `dbsjeyaraj.com`
 
@@ -35,6 +37,7 @@ Last Updated **2026-02-16 06:27:44**
 * [“China shock” or “China opportunity”?](data/articles/china-shock-or-china-op.b48f57ea/README.md) `ft.lk`
 * [Executives: Discover the power of strategic silence](data/articles/executives-discover-the.0ddde73c/README.md) `ft.lk`
 * [The myth of the high-tech heist](data/articles/the-myth-of-the-high-tec.f669d6e7/README.md) `technologyreview.com`
+* [RFK Jr. follows a carnivore diet. That doesn’t mean you should.](data/articles/rfk-jr-follows-a-carnivo.2f31e78d/README.md) `technologyreview.com`
 
 ## 2026-02-12
 
