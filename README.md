@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-16 18:25:03**
+Last Updated **2026-02-17 06:27:31**
+
+## 2026-02-17
+
+* [Why the IMF agenda in Sri Lanka must be people-centred](data/articles/why-the-imf-agenda-in-sr.3b1bbd2f/README.md) `ft.lk`
+* [Is Sri Lanka a wounded State? A perspective](data/articles/is-sri-lanka-a-wounded-s.f51de0d7/README.md) `ft.lk`
+* [Reforming the reformists and reforms of education](data/articles/reforming-the-reformists.23aaacc6/README.md) `ft.lk`
+* [Financial ghosting: What happens when banks ignore customers after onboarding](data/articles/financial-ghosting-what.3feb59f5/README.md) `ft.lk`
+* [Understanding unit trust “disclaimers”](data/articles/understanding-unit-trust.e1320316/README.md) `ft.lk`
 
 ## 2026-02-16
 
