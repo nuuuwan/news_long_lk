@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-17 06:27:31**
+Last Updated **2026-02-17 18:25:03**
 
 ## 2026-02-17
 
@@ -45,6 +45,7 @@ Last Updated **2026-02-17 06:27:31**
 * [“China shock” or “China opportunity”?](data/articles/china-shock-or-china-op.b48f57ea/README.md) `ft.lk`
 * [Executives: Discover the power of strategic silence](data/articles/executives-discover-the.0ddde73c/README.md) `ft.lk`
 * [The myth of the high-tech heist](data/articles/the-myth-of-the-high-tec.f669d6e7/README.md) `technologyreview.com`
+* [US deputy health secretary: Vaccine guidelines are still subject to change](data/articles/us-deputy-health-secreta.9787cf2c/README.md) `technologyreview.com`
 * [RFK Jr. follows a carnivore diet. That doesn’t mean you should.](data/articles/rfk-jr-follows-a-carnivo.2f31e78d/README.md) `technologyreview.com`
 
 ## 2026-02-12
