@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-17 18:25:03**
+Last Updated **2026-02-18 06:28:17**
+
+## 2026-02-18
+
+* [Why food system resilience matters more than production alone in Sri Lanka](data/articles/why-food-system-resilien.9a3fbbca/README.md) `ft.lk`
+* [Banking vigilance cannot be deferred: Transparency, governance and development in era of reform](data/articles/banking-vigilance-cannot.f86429d3/README.md) `ft.lk`
 
 ## 2026-02-17
 
