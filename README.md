@@ -2,12 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-18 06:28:17**
+Last Updated **2026-02-18 18:25:10**
 
 ## 2026-02-18
 
+* [The rapid advancement of technology](data/articles/the-rapid-advancement-of.53637753/README.md) `ft.lk`
+* [How Sri Lanka can build a $ 8 b tourism industry](data/articles/how-sri-lanka-can-build.27a07150/README.md) `ft.lk`
 * [Why food system resilience matters more than production alone in Sri Lanka](data/articles/why-food-system-resilien.9a3fbbca/README.md) `ft.lk`
 * [Banking vigilance cannot be deferred: Transparency, governance and development in era of reform](data/articles/banking-vigilance-cannot.f86429d3/README.md) `ft.lk`
+* [The robots who predict the future](data/articles/the-robots-who-predict-t.7f5f7455/README.md) `technologyreview.com`
+* [And Fight we must Against the Status Quo for our Existence Because Today we are Choking and we can’t Breathe.](data/articles/and-fight-we-must-agains.051f8fe1/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-17
 
