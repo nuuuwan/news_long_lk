@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-19 06:28:14**
+Last Updated **2026-02-19 18:25:11**
 
 ## 2026-02-19
 
+* [The building legal case for global climate justice](data/articles/the-building-legal-case.391ec417/README.md) `technologyreview.com`
 * [Cuba, Iran, USA and Western subordination of world’s majority](data/articles/cuba-iran-usa-and-wester.5e277271/README.md) `ft.lk`
 * [‘IMF, hands off our future’: YUKTHI collective](data/articles/imf-hands-off-our-futur.f6321720/README.md) `ft.lk`
 
@@ -21,6 +22,7 @@ Last Updated **2026-02-19 06:28:14**
 
 ## 2026-02-17
 
+* [The curious case of the disappearing Lamborghinis](data/articles/the-curious-case-of-the.0713d5fc/README.md) `technologyreview.com`
 * [Why the IMF agenda in Sri Lanka must be people-centred](data/articles/why-the-imf-agenda-in-sr.3b1bbd2f/README.md) `ft.lk`
 * [Is Sri Lanka a wounded State? A perspective](data/articles/is-sri-lanka-a-wounded-s.f51de0d7/README.md) `ft.lk`
 * [Reforming the reformists and reforms of education](data/articles/reforming-the-reformists.23aaacc6/README.md) `ft.lk`
