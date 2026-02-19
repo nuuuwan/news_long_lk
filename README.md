@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-18 18:25:10**
+Last Updated **2026-02-19 06:28:14**
+
+## 2026-02-19
+
+* [Cuba, Iran, USA and Western subordination of world’s majority](data/articles/cuba-iran-usa-and-wester.5e277271/README.md) `ft.lk`
+* [‘IMF, hands off our future’: YUKTHI collective](data/articles/imf-hands-off-our-futur.f6321720/README.md) `ft.lk`
 
 ## 2026-02-18
 
@@ -10,6 +15,7 @@ Last Updated **2026-02-18 18:25:10**
 * [How Sri Lanka can build a $ 8 b tourism industry](data/articles/how-sri-lanka-can-build.27a07150/README.md) `ft.lk`
 * [Why food system resilience matters more than production alone in Sri Lanka](data/articles/why-food-system-resilien.9a3fbbca/README.md) `ft.lk`
 * [Banking vigilance cannot be deferred: Transparency, governance and development in era of reform](data/articles/banking-vigilance-cannot.f86429d3/README.md) `ft.lk`
+* [Welcome to the dark side of crypto’s permissionless dream](data/articles/welcome-to-the-dark-side.3c03bd31/README.md) `technologyreview.com`
 * [The robots who predict the future](data/articles/the-robots-who-predict-t.7f5f7455/README.md) `technologyreview.com`
 * [And Fight we must Against the Status Quo for our Existence Because Today we are Choking and we can’t Breathe.](data/articles/and-fight-we-must-agains.051f8fe1/README.md) `dbsjeyaraj.com`
 
@@ -24,6 +30,7 @@ Last Updated **2026-02-18 18:25:10**
 ## 2026-02-16
 
 * [The scientist using AI to hunt for antibiotics just about everywhere](data/articles/the-scientist-using-ai-t.6a4e3b2c/README.md) `technologyreview.com`
+* [Hackers made death threats against this security researcher. Big mistake.](data/articles/hackers-made-death-threa.457c543f/README.md) `technologyreview.com`
 * [India AI Impact Summit: Global South’s AI moment and a shared future with Sri Lanka](data/articles/india-ai-impact-summit-g.976d8994/README.md) `ft.lk`
 * [Digital banking hype: More to be done to make it inclusive](data/articles/digital-banking-hype-mor.6e8384ec/README.md) `ft.lk`
 * [35 years after displacement of Northern Muslims, a new generation takes steps towards reconciliation](data/articles/35-years-after-displacem.bca24481/README.md) `ft.lk`
