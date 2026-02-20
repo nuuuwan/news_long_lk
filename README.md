@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-20 06:27:04**
+Last Updated **2026-02-20 18:25:37**
 
 ## 2026-02-20
 
+* [Environmental Impact Quotient of pesticides: Catalyst for sustainable agricultural futures](data/articles/environmental-impact-quo.69887be8/README.md) `ft.lk`
+* [The ’’Silent Bottleneck’’ in 2026 education reforms](data/articles/the-silent-bottleneck-in.7c185ef8/README.md) `ft.lk`
 * [Digital economy at the core: Leveraging T20 World Cup for Sri Lanka’s economic transformation](data/articles/digital-economy-at-the-c.8b542d72/README.md) `ft.lk`
+* [Community service](data/articles/community-service.0449ad4b/README.md) `technologyreview.com`
+* [‘Kaanaa Inbam Kaninthathaeno’ – Splendid “Singing in the Rain” Song by TA Moti and Susheela in “Sabash Meena” ♫](data/articles/kaanaa-inbam-kaninthath.c2a5c62d/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-19
 
@@ -17,6 +21,7 @@ Last Updated **2026-02-20 06:27:04**
 
 ## 2026-02-18
 
+* [Google DeepMind wants to know if chatbots are just virtue signaling](data/articles/google-deepmind-wants-to.c646cce3/README.md) `technologyreview.com`
 * [The rapid advancement of technology](data/articles/the-rapid-advancement-of.53637753/README.md) `ft.lk`
 * [How Sri Lanka can build a $ 8 b tourism industry](data/articles/how-sri-lanka-can-build.27a07150/README.md) `ft.lk`
 * [Why food system resilience matters more than production alone in Sri Lanka](data/articles/why-food-system-resilien.9a3fbbca/README.md) `ft.lk`
