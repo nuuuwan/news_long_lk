@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-20 18:25:37**
+Last Updated **2026-02-21 06:27:05**
+
+## 2026-02-21
+
+* [Key insights to “Building Back Better” after Cyclone Ditwah at OPA forum](data/articles/key-insights-to-building.00e174f1/README.md) `ft.lk`
+* [Why does the State threaten people with yet another anti-terror law?](data/articles/why-does-the-state-threa.8f650792/README.md) `ft.lk`
+* [An agonising cultural gap](data/articles/an-agonising-cultural-ga.e87a9ab7/README.md) `ft.lk`
 
 ## 2026-02-20
 
+* [Education reforms: Introduction to religions](data/articles/education-reforms-introd.ac5bcf55/README.md) `ft.lk`
+* [Book Review ‘Made in Nepal:  Lessons in Business Building from the Land of Everest’](data/articles/book-review-made-in-nepa.8d8e9bbb/README.md) `ft.lk`
 * [Environmental Impact Quotient of pesticides: Catalyst for sustainable agricultural futures](data/articles/environmental-impact-quo.69887be8/README.md) `ft.lk`
 * [The ’’Silent Bottleneck’’ in 2026 education reforms](data/articles/the-silent-bottleneck-in.7c185ef8/README.md) `ft.lk`
 * [Digital economy at the core: Leveraging T20 World Cup for Sri Lanka’s economic transformation](data/articles/digital-economy-at-the-c.8b542d72/README.md) `ft.lk`
