@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-21 06:27:05**
+Last Updated **2026-02-21 18:23:41**
 
 ## 2026-02-21
 
 * [Key insights to “Building Back Better” after Cyclone Ditwah at OPA forum](data/articles/key-insights-to-building.00e174f1/README.md) `ft.lk`
+* [Why does the State threaten people with yet another anti-terror law?](data/articles/why-does-the-state-threa.1888c822/README.md) `ft.lk`
 * [Why does the State threaten people with yet another anti-terror law?](data/articles/why-does-the-state-threa.8f650792/README.md) `ft.lk`
 * [An agonising cultural gap](data/articles/an-agonising-cultural-ga.e87a9ab7/README.md) `ft.lk`
 
