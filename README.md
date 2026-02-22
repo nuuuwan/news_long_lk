@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-21 18:23:41**
+Last Updated **2026-02-22 06:27:26**
 
 ## 2026-02-21
 
+* [Hundreds of Buddhist Monks Gather in Colombo to Protest against Alleged Disrespect of their Religion by the Government. 10 Point Appeal to be sent to President Dissanayake calls for Exclusion of Non -Buddhists High Office in Sri Lanka.](data/articles/hundreds-of-buddhist-mon.4870f5ec/README.md) `dbsjeyaraj.com`
+* [The birth of the political monk – of which Muruthethettuwe Ananda thero is an epitome – is a key reason for the degeneration of Lankan Sasana.](data/articles/the-birth-of-the-politic.9e29f7cc/README.md) `dbsjeyaraj.com`
 * [Key insights to “Building Back Better” after Cyclone Ditwah at OPA forum](data/articles/key-insights-to-building.00e174f1/README.md) `ft.lk`
 * [Why does the State threaten people with yet another anti-terror law?](data/articles/why-does-the-state-threa.1888c822/README.md) `ft.lk`
 * [Why does the State threaten people with yet another anti-terror law?](data/articles/why-does-the-state-threa.8f650792/README.md) `ft.lk`
