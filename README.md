@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-23 06:28:30**
+Last Updated **2026-02-23 18:25:34**
 
 ## 2026-02-23
 
+* [Is  JVP   General-Secretary y Tilvin Silva the Real  Power Behind President Dissanayake’s Throne?](data/articles/is-jvp-general-secretary.37469185/README.md) `dbsjeyaraj.com`
 * [Onset of AI revolution: Sri Lanka must join Indian bandwagon](data/articles/onset-of-ai-revolution-s.5906657a/README.md) `ft.lk`
 
 ## 2026-02-22
@@ -35,6 +36,7 @@ Last Updated **2026-02-23 06:28:30**
 
 * [Microsoft has a new plan to prove what’s real and what’s AI online](data/articles/microsoft-has-a-new-plan.ecf2f8ea/README.md) `technologyreview.com`
 * [The building legal case for global climate justice](data/articles/the-building-legal-case.391ec417/README.md) `technologyreview.com`
+* [How uncrewed narco subs could transform the Colombian drug trade](data/articles/how-uncrewed-narco-subs.b635acea/README.md) `technologyreview.com`
 * [Cuba, Iran, USA and Western subordination of world’s majority](data/articles/cuba-iran-usa-and-wester.5e277271/README.md) `ft.lk`
 * [‘IMF, hands off our future’: YUKTHI collective](data/articles/imf-hands-off-our-futur.f6321720/README.md) `ft.lk`
 
