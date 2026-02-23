@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-22 18:24:10**
+Last Updated **2026-02-23 06:28:30**
+
+## 2026-02-23
+
+* [Onset of AI revolution: Sri Lanka must join Indian bandwagon](data/articles/onset-of-ai-revolution-s.5906657a/README.md) `ft.lk`
+
+## 2026-02-22
+
+* [AI Impact Summit 2026: Shaping a human-centric future for AI](data/articles/ai-impact-summit-2026-sh.fbbdf951/README.md) `ft.lk`
 
 ## 2026-02-21
 
