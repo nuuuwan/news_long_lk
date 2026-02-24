@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-24 06:26:48**
+Last Updated **2026-02-24 18:25:28**
 
 ## 2026-02-24
 
+* [We’re putting more stuff into space than ever. Here’s what’s up there.](data/articles/we-re-putting-more-stuff.eb82edeb/README.md) `technologyreview.com`
 * [Is racism dead, dying or alive and kicking?](data/articles/is-racism-dead-dying-or.124e190f/README.md) `ft.lk`
 * [Why data centres?](data/articles/why-data-centres.f1d92215/README.md) `ft.lk`
 * [Agriculture is not Sri Lanka’s past, it is its strategic future](data/articles/agriculture-is-not-sri-l.a635e514/README.md) `ft.lk`
@@ -42,6 +43,7 @@ Last Updated **2026-02-24 06:26:48**
 * [The ’’Silent Bottleneck’’ in 2026 education reforms](data/articles/the-silent-bottleneck-in.7c185ef8/README.md) `ft.lk`
 * [Digital economy at the core: Leveraging T20 World Cup for Sri Lanka’s economic transformation](data/articles/digital-economy-at-the-c.8b542d72/README.md) `ft.lk`
 * [Community service](data/articles/community-service.0449ad4b/README.md) `technologyreview.com`
+* [Job titles of the future: Breast biomechanic](data/articles/job-titles-of-the-future.f9237072/README.md) `technologyreview.com`
 * [Measles cases are rising. Other vaccine-preventable infections could be next.](data/articles/measles-cases-are-rising.d913939e/README.md) `technologyreview.com`
 * [‘Kaanaa Inbam Kaninthathaeno’ – Splendid “Singing in the Rain” Song by TA Moti and Susheela in “Sabash Meena” ♫](data/articles/kaanaa-inbam-kaninthath.c2a5c62d/README.md) `dbsjeyaraj.com`
 
