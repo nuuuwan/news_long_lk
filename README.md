@@ -2,11 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-23 18:25:34**
+Last Updated **2026-02-24 06:26:48**
+
+## 2026-02-24
+
+* [Is racism dead, dying or alive and kicking?](data/articles/is-racism-dead-dying-or.124e190f/README.md) `ft.lk`
+* [Why data centres?](data/articles/why-data-centres.f1d92215/README.md) `ft.lk`
+* [Agriculture is not Sri Lanka’s past, it is its strategic future](data/articles/agriculture-is-not-sri-l.a635e514/README.md) `ft.lk`
+* [Leadership under siege: The meeting culture crisis](data/articles/leadership-under-siege-t.8d707a70/README.md) `ft.lk`
+* [Repeal of Parliamentarians’ Pension: An opportunity  to move forward](data/articles/repeal-of-parliamentaria.1c58a9a6/README.md) `ft.lk`
 
 ## 2026-02-23
 
+* [Peptides are everywhere. Here’s what you need to know.](data/articles/peptides-are-everywhere.8fab7a62/README.md) `technologyreview.com`
 * [Is  JVP   General-Secretary y Tilvin Silva the Real  Power Behind President Dissanayake’s Throne?](data/articles/is-jvp-general-secretary.37469185/README.md) `dbsjeyaraj.com`
+* [The  Naam Thamilar Katchi which Regards LTTE Chief Veluppillai Prabhakaran as its ideological leader to Field 117 Males and 117 Females in  all 234 Electorates  Tamil Nadu State Elections’ Party Coordinator/head Seeman to Contest in Karaikudi Constituency of Sivaganga District](data/articles/the-naam-thamilar-katchi.0ed2d651/README.md) `dbsjeyaraj.com`
+* [Sri Lanka  Launches Outreach  Campaign to Attract Foreign Investment for Colombo Port City Project Offering Full Foreign Ownership and Major Tax Breaks;   Steps up Roadshows from London to Bangkok following High Profile events in Dubai and Singapore.](data/articles/sri-lanka-launches-outre.4a163a42/README.md) `dbsjeyaraj.com`
+* [Ten Point Declaration Proclaimed by Leading Members of the  Buddhist Clergy on Feb 20th  at Maha Sangha Convention in Colombo to be sent to President Dissanayake](data/articles/ten-point-declaration-pr.0d1299d0/README.md) `dbsjeyaraj.com`
 * [Onset of AI revolution: Sri Lanka must join Indian bandwagon](data/articles/onset-of-ai-revolution-s.5906657a/README.md) `ft.lk`
 
 ## 2026-02-22
@@ -30,6 +42,7 @@ Last Updated **2026-02-23 18:25:34**
 * [The ’’Silent Bottleneck’’ in 2026 education reforms](data/articles/the-silent-bottleneck-in.7c185ef8/README.md) `ft.lk`
 * [Digital economy at the core: Leveraging T20 World Cup for Sri Lanka’s economic transformation](data/articles/digital-economy-at-the-c.8b542d72/README.md) `ft.lk`
 * [Community service](data/articles/community-service.0449ad4b/README.md) `technologyreview.com`
+* [Measles cases are rising. Other vaccine-preventable infections could be next.](data/articles/measles-cases-are-rising.d913939e/README.md) `technologyreview.com`
 * [‘Kaanaa Inbam Kaninthathaeno’ – Splendid “Singing in the Rain” Song by TA Moti and Susheela in “Sabash Meena” ♫](data/articles/kaanaa-inbam-kaninthath.c2a5c62d/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-19
