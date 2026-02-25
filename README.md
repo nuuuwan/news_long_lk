@@ -2,24 +2,31 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-25 06:29:23**
+Last Updated **2026-02-25 18:26:24**
 
 ## 2026-02-25
 
+* [Nearly two years of missed inflation targets: why that matters](data/articles/nearly-two-years-of-miss.900800b4/README.md) `ft.lk`
 * [Understanding proposed Rescue, Rehabilitation and Insolvency Law](data/articles/understanding-proposed-r.a5a03aec/README.md) `ft.lk`
+* [Now is a good time for doing crime](data/articles/now-is-a-good-time-for-d.8f1a2cda/README.md) `technologyreview.com`
+* [Former  State Intelligence Services (SIS) Chief Major General (Retd) Suresh Sallay  arrested  by CID at Peliyagoda in connection with ongoing investigations into the 2019 Easter Sunday Bomb Attacks says Police Spokesman ASP Wootler](data/articles/former-state-intelligenc.14d2414d/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-24
 
 * [We’re putting more stuff into space than ever. Here’s what’s up there.](data/articles/we-re-putting-more-stuff.eb82edeb/README.md) `technologyreview.com`
 * [Is racism dead, dying or alive and kicking?](data/articles/is-racism-dead-dying-or.124e190f/README.md) `ft.lk`
 * [Why data centres?](data/articles/why-data-centres.f1d92215/README.md) `ft.lk`
+* [When actress Jayalalithaa reigned as uncrowned Queen of Tamil cinema](data/articles/when-actress-jayalalitha.7e9808f4/README.md) `dbsjeyaraj.com`
 * [Agriculture is not Sri Lanka’s past, it is its strategic future](data/articles/agriculture-is-not-sri-l.a635e514/README.md) `ft.lk`
 * [Leadership under siege: The meeting culture crisis](data/articles/leadership-under-siege-t.8d707a70/README.md) `ft.lk`
+* [Prof.Maithree Wickramesinghe Being Summoned by FCID: Authorities Urged to Ensure that  Due Process is  Followed  and that  Investigators must avoid unwarranted harassment, intimidation or reputational harm to independent academics. “Academic freedom, institutional autonomy, and the protection of scholars from political victimisation are essential pillars of a democratic society,” says statement signed by 85 Persons](data/articles/prof-maithree-wickramesi.d059d6bf/README.md) `dbsjeyaraj.com`
+* [“I would have welcomed the opportunity to engage directly with critics, including those who strongly oppose my views, because meaningful reconciliation and progress can only emerge when differing perspectives meet in open conversation.” says Namal Rajapaksa MP after Cancellation of Oxford and Cambridge University Events](data/articles/i-would-have-welcomed-t.e762ef9a/README.md) `dbsjeyaraj.com`
 * [Repeal of Parliamentarians’ Pension: An opportunity  to move forward](data/articles/repeal-of-parliamentaria.1c58a9a6/README.md) `ft.lk`
 
 ## 2026-02-23
 
 * [Peptides are everywhere. Here’s what you need to know.](data/articles/peptides-are-everywhere.8fab7a62/README.md) `technologyreview.com`
+* [The human work behind humanoid robots is being hidden](data/articles/the-human-work-behind-hu.f10503c4/README.md) `technologyreview.com`
 * [Is  JVP   General-Secretary y Tilvin Silva the Real  Power Behind President Dissanayake’s Throne?](data/articles/is-jvp-general-secretary.37469185/README.md) `dbsjeyaraj.com`
 * [The  Naam Thamilar Katchi which Regards LTTE Chief Veluppillai Prabhakaran as its ideological leader to Field 117 Males and 117 Females in  all 234 Electorates  Tamil Nadu State Elections’ Party Coordinator/head Seeman to Contest in Karaikudi Constituency of Sivaganga District](data/articles/the-naam-thamilar-katchi.0ed2d651/README.md) `dbsjeyaraj.com`
 * [Sri Lanka  Launches Outreach  Campaign to Attract Foreign Investment for Colombo Port City Project Offering Full Foreign Ownership and Major Tax Breaks;   Steps up Roadshows from London to Bangkok following High Profile events in Dubai and Singapore.](data/articles/sri-lanka-launches-outre.4a163a42/README.md) `dbsjeyaraj.com`

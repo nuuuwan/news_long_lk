@@ -1,0 +1,16 @@
+# Former  State Intelligence Services (SIS) Chief Major General (Retd) Suresh Sallay  arrested  by CID at Peliyagoda in connection with ongoing investigations into the 2019 Easter Sunday Bomb Attacks says Police Spokesman ASP Wootler
+
+[https://dbsjeyaraj.com/dbsj/?p=87120](https://dbsjeyaraj.com/dbsj/?p=87120)
+
+*01:11 AM, Wednesday, February 25, 2026*
+
+Darshana Sanjeewa  Balasuriya
+
+Former  State Intelligence Services (SIS) Chief Major General (Retired) Suresh Sallay has been arrested in connection with ongoing investigations into the 2019 Easter Sunday terror attacks, Police Spokesman ASP F.U Wootler said.
+
+He said Sallay was taken into custody early this morning in Peliyagoda by a team of officers from the Criminal Investigation Department (CID).
+
+At the time of the Easter Sunday attacks on 21 April 2019, Sallay held the rank of Brigadier. He later served as Director of Army Intelligence and went on to become the State Intelligence Chief. Most recently, he had been working as an advisor at the Sri Lankan High Commission in Malaysia.
+
+Courtesy:Daily  Mirror
+
