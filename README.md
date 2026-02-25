@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-24 18:25:28**
+Last Updated **2026-02-25 06:29:23**
+
+## 2026-02-25
+
+* [Understanding proposed Rescue, Rehabilitation and Insolvency Law](data/articles/understanding-proposed-r.a5a03aec/README.md) `ft.lk`
 
 ## 2026-02-24
 
