@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-26 06:26:55**
+Last Updated **2026-02-26 18:25:32**
 
 ## 2026-02-26
 
+* [This company claims a battery breakthrough. Now they need to prove it.](data/articles/this-company-claims-a-ba.fac786d1/README.md) `technologyreview.com`
 * [New opportunities  and a new chapter  in UK–Sri Lanka trade](data/articles/new-opportunities-and-a.404d76a7/README.md) `ft.lk`
 * [Importance of AI governance:  A critical imperative for Sri Lanka](data/articles/importance-of-ai-governa.8563e771/README.md) `ft.lk`
 * [The comfort of lies:  Why  we keep voting for miracles](data/articles/the-comfort-of-lies-why.ec98f6d9/README.md) `ft.lk`
@@ -13,12 +14,15 @@ Last Updated **2026-02-26 06:26:55**
 ## 2026-02-25
 
 * [SJB must be more of a guardrail than a roadblock](data/articles/sjb-must-be-more-of-a-gu.7a194514/README.md) `ft.lk`
+* [Sri Lanka’s Criminal Investigation Department(CID) arrests former intelligence chief Major General Suresh Sallay in connection with the deadly Easter Sunday bombings of 2019; the arrest  “a major breakthrough” was made under Sri Lanka’s Prevention of Terrorism Act (PTA), “based on adequate evidence”.](data/articles/sri-lanka-s-criminal-inv.80f91372/README.md) `dbsjeyaraj.com`
+* [ஜனாதிபதி அநுர குமார திசநாயக்கவின் சிம்மாசனத்துக்கு பின்னால் இருக்கும் மெய்யான சக்தி ஜே.வி.பி.யின் பொதுச் செயலாளர் ரில்வின் சில்வாவா?](data/articles/ஜன-த-பத-அந-ர-க-ம-ர-த-சந.df7c9f23/README.md) `dbsjeyaraj.com`
 * [Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries](data/articles/roundtables-why-2026-is.2e6c98e8/README.md) `technologyreview.com`
 * [Close Your Workforce’s AI Skills Gap by Designing an Adaptive Organization](data/articles/close-your-workforce-s-a.fbf6340a/README.md) `hbr.org`
 * [Nearly two years of missed inflation targets: why that matters](data/articles/nearly-two-years-of-miss.900800b4/README.md) `ft.lk`
 * [Understanding proposed Rescue, Rehabilitation and Insolvency Law](data/articles/understanding-proposed-r.a5a03aec/README.md) `ft.lk`
 * [Now is a good time for doing crime](data/articles/now-is-a-good-time-for-d.8f1a2cda/README.md) `technologyreview.com`
 * [Former  State Intelligence Services (SIS) Chief Major General (Retd) Suresh Sallay  arrested  by CID at Peliyagoda in connection with ongoing investigations into the 2019 Easter Sunday Bomb Attacks says Police Spokesman ASP Wootler](data/articles/former-state-intelligenc.14d2414d/README.md) `dbsjeyaraj.com`
+* [Comrade Nallakannu:The CPI leader from Tamil Nadu was an iconic figure whose life was defined by personal sacrifice, ideological conviction, and an enduring commitment to social justice.](data/articles/comrade-nallakannu-the-c.c904f21a/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-24
 
