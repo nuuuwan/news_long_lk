@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-27 06:26:48**
+Last Updated **2026-02-27 18:25:31**
+
+## 2026-02-27
+
+* [A Foucault’s pendulum swings over speaking truth to power in SL today](data/articles/a-foucault-s-pendulum-sw.c8422293/README.md) `ft.lk`
+* [Cricket is beyond skills: It is about thoughts, feelings and beliefs](data/articles/cricket-is-beyond-skills.c4b66c28/README.md) `ft.lk`
+* [Unity without uniformity: A Ramadan reflection on national reconciliation](data/articles/unity-without-uniformity.67e586ab/README.md) `ft.lk`
+* [Portugal signals deeper engagement with Sri Lanka](data/articles/portugal-signals-deeper.c375e3b4/README.md) `ft.lk`
+* [Loose cigarettes a case of loose ends](data/articles/loose-cigarettes-a-case.d9575987/README.md) `ft.lk`
+* [Feb 20th 1961 Launch of Tamil ‘Satyagraha’ Encounters Baptism of fire on First Day](data/articles/feb-20th-1961-launch-of.235f02b3/README.md) `dbsjeyaraj.com`
+* [Commercial and Industrial Workers’ Union (CIWU) President Swasthika Arulingam  in Media Briefing Speaks Out on Plight of Women Garment Industry Workers and Death of  Pushpalatha Sivakumar in Avissawela](data/articles/commercial-and-industria.7c76ad49/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-26
 
@@ -21,6 +31,7 @@ Last Updated **2026-02-27 06:26:48**
 * [Nearly two years of missed inflation targets: why that matters](data/articles/nearly-two-years-of-miss.900800b4/README.md) `ft.lk`
 * [Understanding proposed Rescue, Rehabilitation and Insolvency Law](data/articles/understanding-proposed-r.a5a03aec/README.md) `ft.lk`
 * [Now is a good time for doing crime](data/articles/now-is-a-good-time-for-d.8f1a2cda/README.md) `technologyreview.com`
+* [Listen to Earth’s rumbling, secret soundtrack](data/articles/listen-to-earth-s-rumbli.621b1e3c/README.md) `technologyreview.com`
 * [Former  State Intelligence Services (SIS) Chief Major General (Retd) Suresh Sallay  arrested  by CID at Peliyagoda in connection with ongoing investigations into the 2019 Easter Sunday Bomb Attacks says Police Spokesman ASP Wootler](data/articles/former-state-intelligenc.14d2414d/README.md) `dbsjeyaraj.com`
 * [Comrade Nallakannu:The CPI leader from Tamil Nadu was an iconic figure whose life was defined by personal sacrifice, ideological conviction, and an enduring commitment to social justice.](data/articles/comrade-nallakannu-the-c.c904f21a/README.md) `dbsjeyaraj.com`
 
