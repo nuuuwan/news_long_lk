@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-02-28 06:26:21**
+Last Updated **2026-02-28 18:23:45**
 
 ## 2026-02-28
 
@@ -11,6 +11,7 @@ Last Updated **2026-02-28 06:26:21**
 ## 2026-02-27
 
 * [Is racism dead, dying or alive and kicking? A response](data/articles/is-racism-dead-dying-or.41503203/README.md) `ft.lk`
+* [Leading Tamil Film Actor Vijay’s Sri Lankan Tamil Wife  Sangeetha Files for Divorce; Alleges  Husband Vijay is  Involved in Adulterous Relationship with an Actress](data/articles/leading-tamil-film-actor.136c8062/README.md) `dbsjeyaraj.com`
 * [MIT Technology Review is a 2026 ASME finalist in reporting](data/articles/mit-technology-review-is.0822a687/README.md) `technologyreview.com`
 * [A Foucault’s pendulum swings over speaking truth to power in SL today](data/articles/a-foucault-s-pendulum-sw.c8422293/README.md) `ft.lk`
 * [Cricket is beyond skills: It is about thoughts, feelings and beliefs](data/articles/cricket-is-beyond-skills.c4b66c28/README.md) `ft.lk`
