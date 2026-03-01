@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-01 06:33:10**
+Last Updated **2026-03-01 18:24:11**
+
+## 2026-03-01
+
+* [April 2019 Easter Bombings, Arrest of Maj-Gen Suresh Sallay  and  the   Allegations by Azad Maulana on Channel 4 TV.](data/articles/april-2019-easter-bombin.30e03b51/README.md) `dbsjeyaraj.com`
+* [“Tamil and Tamil Nadu are our life, and it is our duty to save them” states Tamil Nadu Chief Minister MK Stalin Celebrating his 73rd Birthday.](data/articles/tamil-and-tamil-nadu-ar.a384221c/README.md) `dbsjeyaraj.com`
 
 ## 2026-02-28
 
