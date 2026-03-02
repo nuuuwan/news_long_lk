@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-02 06:26:46**
+Last Updated **2026-03-02 18:24:26**
+
+## 2026-03-02
+
+* [Commission to Investigate Allegations of Bribery or Corruption (CIABOC)  directs its officials to prepare  indictment papers to be filed  against Energy Minister Kumara Jayakody for the alleged misappropriation of funds in 2015  while he was working at the Fertiliser Corporation](data/articles/commission-to-investigat.64cafb53/README.md) `dbsjeyaraj.com`
+* [Operational data from Lakvijaya in Norochcholai shows that South African coal imported under the  2025-26 tender does not allow the plant to generate the required amount of energy. Plant  Output Drop from 810 MW  to 750 MW](data/articles/operational-data-from-la.1fc6b0d5/README.md) `dbsjeyaraj.com`
+* [International Cricket Stadium and Sports City Project by Sri Lanka Cricket in Northern Mandaitheevu  Should be Cancelled as it would be an Economic and Environmental Disaster Affecting the Livelihoods of People Living There](data/articles/international-cricket-st.86a618ac/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-01
 
