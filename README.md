@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-03 06:28:38**
+Last Updated **2026-03-03 18:24:40**
 
 ## 2026-03-03
 
@@ -14,6 +14,9 @@ Last Updated **2026-03-03 06:28:38**
 
 ## 2026-03-02
 
+* [The baffling inaction of current President Anura Kumara Dissanayake in not making changes at Sri Lanka Cricket  despite being a vocal critic against the conduct of cricket officials when he was an Opposition MP](data/articles/the-baffling-inaction-of.2de8ddea/README.md) `dbsjeyaraj.com`
+* [President Dissanayake has recognised that Sri Lanka’s long term political stability and economic recovery depend on building trust among communities that once peacefully coexisted and then lived through decades of war.](data/articles/president-dissanayake-ha.76ef5edf/README.md) `dbsjeyaraj.com`
+* [OpenAI’s “compromise” with the Pentagon is what Anthropic feared](data/articles/openai-s-compromise-with.22b739c5/README.md) `technologyreview.com`
 * [I checked out one of the biggest anti-AI protests yet](data/articles/i-checked-out-one-of-the.9e6d2f43/README.md) `technologyreview.com`
 * [Commission to Investigate Allegations of Bribery or Corruption (CIABOC)  directs its officials to prepare  indictment papers to be filed  against Energy Minister Kumara Jayakody for the alleged misappropriation of funds in 2015  while he was working at the Fertiliser Corporation](data/articles/commission-to-investigat.64cafb53/README.md) `dbsjeyaraj.com`
 * [Operational data from Lakvijaya in Norochcholai shows that South African coal imported under the  2025-26 tender does not allow the plant to generate the required amount of energy. Plant  Output Drop from 810 MW  to 750 MW](data/articles/operational-data-from-la.1fc6b0d5/README.md) `dbsjeyaraj.com`
