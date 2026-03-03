@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-02 18:24:26**
+Last Updated **2026-03-03 06:28:38**
+
+## 2026-03-03
+
+* [The war on Iran: A stress test for Sri Lanka’s tourism model](data/articles/the-war-on-iran-a-stress.280a6aa6/README.md) `ft.lk`
+* [Middle East conflict threatens Asia’s commodity importers](data/articles/middle-east-conflict-thr.1c4fb401/README.md) `ft.lk`
+* [Gulf turmoil will stress-test Sri Lanka’s economic resilience – MTI](data/articles/gulf-turmoil-will-stress.ad439a52/README.md) `ft.lk`
+* [OPEC+ hikes oil production by more than expected amid Iran war](data/articles/opec-hikes-oil-productio.774588c3/README.md) `ft.lk`
+* [Sri Lanka after IEEPA: Navigating tariffs in a volatile US trade environment](data/articles/sri-lanka-after-ieepa-na.78592cea/README.md) `ft.lk`
 
 ## 2026-03-02
 
+* [I checked out one of the biggest anti-AI protests yet](data/articles/i-checked-out-one-of-the.9e6d2f43/README.md) `technologyreview.com`
 * [Commission to Investigate Allegations of Bribery or Corruption (CIABOC)  directs its officials to prepare  indictment papers to be filed  against Energy Minister Kumara Jayakody for the alleged misappropriation of funds in 2015  while he was working at the Fertiliser Corporation](data/articles/commission-to-investigat.64cafb53/README.md) `dbsjeyaraj.com`
 * [Operational data from Lakvijaya in Norochcholai shows that South African coal imported under the  2025-26 tender does not allow the plant to generate the required amount of energy. Plant  Output Drop from 810 MW  to 750 MW](data/articles/operational-data-from-la.1fc6b0d5/README.md) `dbsjeyaraj.com`
 * [International Cricket Stadium and Sports City Project by Sri Lanka Cricket in Northern Mandaitheevu  Should be Cancelled as it would be an Economic and Environmental Disaster Affecting the Livelihoods of People Living There](data/articles/international-cricket-st.86a618ac/README.md) `dbsjeyaraj.com`
@@ -35,6 +44,7 @@ Last Updated **2026-03-02 18:24:26**
 ## 2026-02-26
 
 * [This company claims a battery breakthrough. Now they need to prove it.](data/articles/this-company-claims-a-ba.fac786d1/README.md) `technologyreview.com`
+* [America was winning the race to find Martian life. Then China jumped in.](data/articles/america-was-winning-the.0675de03/README.md) `technologyreview.com`
 * [New opportunities  and a new chapter  in UK–Sri Lanka trade](data/articles/new-opportunities-and-a.404d76a7/README.md) `ft.lk`
 * [Importance of AI governance:  A critical imperative for Sri Lanka](data/articles/importance-of-ai-governa.8563e771/README.md) `ft.lk`
 * [The comfort of lies:  Why  we keep voting for miracles](data/articles/the-comfort-of-lies-why.ec98f6d9/README.md) `ft.lk`

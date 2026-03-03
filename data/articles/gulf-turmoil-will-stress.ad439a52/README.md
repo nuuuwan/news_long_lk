@@ -1,0 +1,18 @@
+# Gulf turmoil will stress-test Sri Lanka’s economic resilience – MTI
+
+[https://www.ft.lk/opinion/Gulf-turmoil-will-stress-test-Sri-Lanka-s-economic-resilience-MTI/14-789009](https://www.ft.lk/opinion/Gulf-turmoil-will-stress-test-Sri-Lanka-s-economic-resilience-MTI/14-789009)
+
+*05:45 AM, Tuesday, March 03, 2026*
+
+Impact on tourism, tea, energy, supply chain and remittances
+
+MTI Consulting CEO Hilmy Cader
+
+Commenting from Bahrain, MTI Consulting CEO Hilmy Cader has cautioned that the Sri Lankan economy could be stress-tested as the war in the Gulf escalates.
+
+He said airlines from the 6 Gulf Countries have around 140 scheduled commercial flights a week, which is the main channel for European tourist into Sri Lanka.
+
+This compounded by the closure of Gulf airspaces, will also curtail the European Airlines directly flying into Sri Lanka. Overall, the impact on hotel bookings in the immediate future can be significant. Sri Lankan exports of perishables and time-sensitive exports can also be impacted by disruption to cargo flights.
+
+He further highlighted that almost 50% of Sri Lankan Tea  and about $ 1.5 billion of exports are designated to the Middle East.  With almost 1 million Sri Lankan working in the Gulf, the economic impact to Gulf-based business could impact employment numbers and therefore remittances.  Oil prices in Sri Lanka are likely to rise  as the Gulf turmoil disrupts crude supply routes through the Strait of Hormuz, driving global market volatility and higher import costs.
+
