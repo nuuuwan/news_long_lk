@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-04 06:26:48**
+Last Updated **2026-03-04 18:24:36**
+
+## 2026-03-04
+
+* [The “Northern Gateway” initiative: A multi-year blueprint for regional integration](data/articles/the-northern-gateway-ini.cf699d16/README.md) `ft.lk`
+* [The pattern nobody is talking about: Oil, regime change, and the Indian Ocean](data/articles/the-pattern-nobody-is-ta.60366a33/README.md) `ft.lk`
+* [Axis of criminal idiocy](data/articles/axis-of-criminal-idiocy.c0fe0133/README.md) `ft.lk`
+* [Implications for Sri Lanka and South Asia from the Middle East crisis](data/articles/implications-for-sri-lan.171525f5/README.md) `ft.lk`
+* [G.L. Peiris writes to AKD on Middle East crisis](data/articles/g-l-peiris-writes-to-akd.2b939d10/README.md) `ft.lk`
+* [President Anura Kumara Dissanayake states in Parliament that Sri Lanka has sufficient fuel stocks at present despite the escalating conflict in the Middle East:Diesel cover for 33 days, petrol 28 days (rising to 40 days), and aviation fuel 49 days,Crude oil for 26 days](data/articles/president-anura-kumara-d.c91ebe7b/README.md) `dbsjeyaraj.com`
+* [The “Northern Gateway” Initiative  transforms the Northern Province of Sri Lanka into a strategic economic powerhouse.The Northern Province must be reimagined as a Frontier Province, serving as a living laboratory for Growth-Led Development.By leveraging its proximity to the trillion-dollar economy of Southern India, the North can pioneer a Sub-national Economic Corridor.](data/articles/the-northern-gateway-ini.8386edc5/README.md) `dbsjeyaraj.com`
+* [The Illegal and Unprovoked  war against Iran  makes no sense from a global, American or even Israeli point of view, but it does from the point of view of Binyamin Netanyahu and Donald Trump.](data/articles/the-illegal-and-unprovok.2bd330f6/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-03
 
