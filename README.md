@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-04 18:24:36**
+Last Updated **2026-03-05 06:27:28**
+
+## 2026-03-05
+
+* [When two chokepoints close at once: The commercial impact for shipping, energy, and South Asia](data/articles/when-two-chokepoints-clo.4a63c23b/README.md) `ft.lk`
+* [When sea lanes become uncertain: Maritime security risks in Indian Ocean](data/articles/when-sea-lanes-become-un.a6d40dfc/README.md) `ft.lk`
+* [Great Satan, AKD’s failure, PC roadblock, Easter massacre, and rising Reds](data/articles/great-satan-akd-s-failur.dde156bd/README.md) `ft.lk`
+* [The usual suspects, the usual stupidity](data/articles/the-usual-suspects-the-u.c6cbf55e/README.md) `ft.lk`
+* [From Saddam to Khamenei: Murder and martyrdom](data/articles/from-saddam-to-khamenei.538785cc/README.md) `ft.lk`
 
 ## 2026-03-04
 
