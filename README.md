@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-05 06:27:28**
+Last Updated **2026-03-05 18:24:56**
 
 ## 2026-03-05
 
+* [How much wildfire prevention is too much?](data/articles/how-much-wildfire-preven.df570d5f/README.md) `technologyreview.com`
+* [Blood is on the hands of Donald Trump and Benjamin Netanyahu:   one a mercurial hard nationalist who is turning America into a rogue superpower, and the other, an expansionist ethnonationalist wanted for war crimes by the International Criminal Court.The war machines of the imperial duo have already wrecked the region. Such thuggery cannot be accepted in the international system- “The Hindu”](data/articles/blood-is-on-the-hands-of.ebcd94e9/README.md) `dbsjeyaraj.com`
+* [The U.S. has “perpetrated an atrocity” at sea, 2,000 miles away from Iran’s shores, and will “bitterly regret” the move warns Iranian Foreign Minister Seyed Abbas Araghchi in an Official Response to the sinking of Iranian Warship IRIS Dena by the US off  Sri Lnka’s Southern Coast](data/articles/the-u-s-has-perpetrated.e2f8db6a/README.md) `dbsjeyaraj.com`
+* [Torpedo Attack by US Submarine Sinks Iranian  Frigate “IRIS  Dena” 40 Nautical Miles Off Sri Lanka’s Southern  Coast: Two Lankan Navy  Vessels Respond to Dawn Distress Call and Rescue 32  Iranian Sailors Admitted to Galle Hospital;87 Bodies recovered by SL Navy.](data/articles/torpedo-attack-by-us-sub.f195da2d/README.md) `dbsjeyaraj.com`
 * [When two chokepoints close at once: The commercial impact for shipping, energy, and South Asia](data/articles/when-two-chokepoints-clo.4a63c23b/README.md) `ft.lk`
 * [When sea lanes become uncertain: Maritime security risks in Indian Ocean](data/articles/when-sea-lanes-become-un.a6d40dfc/README.md) `ft.lk`
 * [Great Satan, AKD’s failure, PC roadblock, Easter massacre, and rising Reds](data/articles/great-satan-akd-s-failur.dde156bd/README.md) `ft.lk`
@@ -60,6 +64,7 @@ Last Updated **2026-03-05 06:27:28**
 * [Unity without uniformity: A Ramadan reflection on national reconciliation](data/articles/unity-without-uniformity.67e586ab/README.md) `ft.lk`
 * [Portugal signals deeper engagement with Sri Lanka](data/articles/portugal-signals-deeper.c375e3b4/README.md) `ft.lk`
 * [Loose cigarettes a case of loose ends](data/articles/loose-cigarettes-a-case.d9575987/README.md) `ft.lk`
+* [AI is rewiring how the world’s best Go players think](data/articles/ai-is-rewiring-how-the-w.1c746ce8/README.md) `technologyreview.com`
 * [Feb 20th 1961 Launch of Tamil ‘Satyagraha’ Encounters Baptism of fire on First Day](data/articles/feb-20th-1961-launch-of.235f02b3/README.md) `dbsjeyaraj.com`
 * [Commercial and Industrial Workers’ Union (CIWU) President Swasthika Arulingam  in Media Briefing Speaks Out on Plight of Women Garment Industry Workers and Death of  Pushpalatha Sivakumar in Avissawela](data/articles/commercial-and-industria.7c76ad49/README.md) `dbsjeyaraj.com`
 
