@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-05 18:24:56**
+Last Updated **2026-03-06 06:31:09**
+
+## 2026-03-06
+
+* [A dying imperialism](data/articles/a-dying-imperialism.0392ea8d/README.md) `ft.lk`
+* [Understanding and adjusting to a war that’s both far and near](data/articles/understanding-and-adjust.bf117982/README.md) `ft.lk`
+* [Legal experts decry demolition of STC Dining Hall](data/articles/legal-experts-decry-demo.8d92612b/README.md) `ft.lk`
 
 ## 2026-03-05
 
+* [Video Quick Take: Why Leaders Should Embrace Thinking Mode with AI](data/articles/video-quick-take-why-lea.ff21ed69/README.md) `hbr.org`
 * [How much wildfire prevention is too much?](data/articles/how-much-wildfire-preven.df570d5f/README.md) `technologyreview.com`
 * [Blood is on the hands of Donald Trump and Benjamin Netanyahu:   one a mercurial hard nationalist who is turning America into a rogue superpower, and the other, an expansionist ethnonationalist wanted for war crimes by the International Criminal Court.The war machines of the imperial duo have already wrecked the region. Such thuggery cannot be accepted in the international system- “The Hindu”](data/articles/blood-is-on-the-hands-of.ebcd94e9/README.md) `dbsjeyaraj.com`
 * [The U.S. has “perpetrated an atrocity” at sea, 2,000 miles away from Iran’s shores, and will “bitterly regret” the move warns Iranian Foreign Minister Seyed Abbas Araghchi in an Official Response to the sinking of Iranian Warship IRIS Dena by the US off  Sri Lnka’s Southern Coast](data/articles/the-u-s-has-perpetrated.e2f8db6a/README.md) `dbsjeyaraj.com`
