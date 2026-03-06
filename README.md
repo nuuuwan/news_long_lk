@@ -2,13 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-06 06:31:09**
+Last Updated **2026-03-06 18:24:31**
 
 ## 2026-03-06
 
+* [Enforcement delay: A test of credibility for Sri Lanka’s tourism regulator](data/articles/enforcement-delay-a-test.ba05ac78/README.md) `ft.lk`
+* [The battle for critical minerals: Breaking China’s rare earth grip](data/articles/the-battle-for-critical.810bfbaa/README.md) `ft.lk`
+* [Arab regimes: Vassal states of Greater Israel](data/articles/arab-regimes-vassal-stat.150ab8cf/README.md) `ft.lk`
+* [Those who forget the past are destined to revisit it](data/articles/those-who-forget-the-pas.2fe6a1da/README.md) `ft.lk`
 * [A dying imperialism](data/articles/a-dying-imperialism.0392ea8d/README.md) `ft.lk`
 * [Understanding and adjusting to a war that’s both far and near](data/articles/understanding-and-adjust.bf117982/README.md) `ft.lk`
 * [Legal experts decry demolition of STC Dining Hall](data/articles/legal-experts-decry-demo.8d92612b/README.md) `ft.lk`
+* [ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்கள் : அசாத் மௌலானாவின் குற்றச்சாட்டுகளும் மேஜர் ஜெனரல் சுரேஷ் சாலேயின் கைதும்](data/articles/ஈஸ-டர-ஞ-ய-ற-க-ண-ட-த-த-க.9b8db285/README.md) `dbsjeyaraj.com`
+* [Comparing and Contrasting the Follow Up Action Taken By India and Sri Lanka After the 26 November 2008 Mumbai Attacks and the 21 April 2019 Easter Attacks.](data/articles/comparing-and-contrastin.f9368033/README.md) `dbsjeyaraj.com`
+* [President Anura Kumara Dissanayake Says  Sri Lanka will adhere to a neutral foreign policy position in response to the ongoing regional conflict.:appeals to  all stakeholders to act responsibly and avoid exploiting the situation for political advantage, emphasising the importance of measured conduct during a sensitive period.](data/articles/president-anura-kumara-d.2a7289f5/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-05
 
