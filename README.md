@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-06 18:24:31**
+Last Updated **2026-03-07 06:26:21**
+
+## 2026-03-07
+
+* [Strait of Hormuz closure: An economic Tsunami in the making for Sri Lanka?](data/articles/strait-of-hormuz-closure.5a59c0d6/README.md) `ft.lk`
+* [Sri Lanka: The humanitarian pivot in emerging Indian Ocean crisis](data/articles/sri-lanka-the-humanitari.e8bf18b8/README.md) `ft.lk`
+* [How US sinking of Iranian warship blew hole in Modi’s ‘guardian’ claims](data/articles/how-us-sinking-of-irania.035ab550/README.md) `ft.lk`
+* [The storms not so far from our shore](data/articles/the-storms-not-so-far-fr.6a0a8d46/README.md) `ft.lk`
 
 ## 2026-03-06
 
+* [The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon](data/articles/the-download-10-things-t.0f572dae/README.md) `technologyreview.com`
 * [Enforcement delay: A test of credibility for Sri Lanka’s tourism regulator](data/articles/enforcement-delay-a-test.ba05ac78/README.md) `ft.lk`
 * [The battle for critical minerals: Breaking China’s rare earth grip](data/articles/the-battle-for-critical.810bfbaa/README.md) `ft.lk`
 * [Arab regimes: Vassal states of Greater Israel](data/articles/arab-regimes-vassal-stat.150ab8cf/README.md) `ft.lk`
