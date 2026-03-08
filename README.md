@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-07 18:23:27**
+Last Updated **2026-03-08 06:27:09**
 
 ## 2026-03-07
 
+* [Tamil Actor -Politico Vijay’s estranged wife  Sangeetha files Interim  petition in Chengalpattu court seeking maintenance and residential rights for hersef and their two Children  amid their pending divorce case.](data/articles/tamil-actor-politico-vij.9238064c/README.md) `dbsjeyaraj.com`
 * [The United States is pressing Sri Lanka’s govt not to repatriate the survivors from the Iranian warship it sank this week, as well as the crew of a second Iranian ship that is in Sri Lankan custody, according to an internal ⁠State Department cable  states  News report by Reuters](data/articles/the-united-states-is-pre.1738ed1d/README.md) `dbsjeyaraj.com`
 * [Commission to Investigate Allegations of Bribery or Corruption files  Corruption charges  In Colombo High Court against Power and Energy Minister  Kumara Jayakody under Section 70(a) of the Bribery Act for Offence Allegedly Committed in 2016 while working as Deputy Procurement Manager of  State-owned Lanka Fertilizer Company Ltd](data/articles/commission-to-investigat.a0badeab/README.md) `dbsjeyaraj.com`
 * [Strait of Hormuz closure: An economic Tsunami in the making for Sri Lanka?](data/articles/strait-of-hormuz-closure.5a59c0d6/README.md) `ft.lk`
