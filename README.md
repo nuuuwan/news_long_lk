@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-09 06:32:40**
+Last Updated **2026-03-09 18:25:02**
 
 ## 2026-03-09
 
@@ -11,6 +11,7 @@ Last Updated **2026-03-09 06:32:40**
 * [The hidden cost of substandard coal: Estimating the national impact on Sri Lanka](data/articles/the-hidden-cost-of-subst.4f4c895c/README.md) `ft.lk`
 * [Shielding Sri Lanka from the global energy war](data/articles/shielding-sri-lanka-from.db0664f4/README.md) `ft.lk`
 * [Iranian ships and Sri Lanka’s admirable legacy  of principled neutrality](data/articles/iranian-ships-and-sri-la.d4e9062f/README.md) `ft.lk`
+* [“Neeyay Unakku Endrum Nigaraanavan” ~ Sparkling Song in “Baley Pandiya”film sung  by TM Soundararajan ~ MS Raju ♫](data/articles/neeyay-unakku-endrum-ni.b5d9bfa7/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-07
 
