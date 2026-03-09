@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-08 18:23:34**
+Last Updated **2026-03-09 06:32:40**
+
+## 2026-03-09
+
+* [Mideast war, emerging external shocks and Sri Lanka’s choices](data/articles/mideast-war-emerging-ext.90222861/README.md) `ft.lk`
+* [Renewed trade portal with India can supercharge Sri Lanka’s exports](data/articles/renewed-trade-portal-wit.5996eae9/README.md) `ft.lk`
+* [The hidden cost of substandard coal: Estimating the national impact on Sri Lanka](data/articles/the-hidden-cost-of-subst.4f4c895c/README.md) `ft.lk`
+* [Shielding Sri Lanka from the global energy war](data/articles/shielding-sri-lanka-from.db0664f4/README.md) `ft.lk`
+* [Iranian ships and Sri Lanka’s admirable legacy  of principled neutrality](data/articles/iranian-ships-and-sri-la.d4e9062f/README.md) `ft.lk`
 
 ## 2026-03-07
 
