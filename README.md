@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-10 06:26:22**
+Last Updated **2026-03-10 18:24:52**
+
+## 2026-03-10
+
+* [Rebuilding Sri Lankan cricket: A systems approach to sustainable high performance: Part II](data/articles/rebuilding-sri-lankan-cr.968ef8f2/README.md) `ft.lk`
+* [Iranian vessels: Sri Lanka’s burden of neutrality and admirable legacy: Part 2](data/articles/iranian-vessels-sri-lank.9ae7f871/README.md) `ft.lk`
+* [Humanity before geopolitics: Sri Lanka’s rescue decision and spirit of non-alignment](data/articles/humanity-before-geopolit.0c8dbffc/README.md) `ft.lk`
+* [The evidentiary lock-out: A global outlier and a death knell for Sri Lankan tax justice](data/articles/the-evidentiary-lock-out.61dc9262/README.md) `ft.lk`
+* [Financing the framework, fleeing the fallout: World Bank financing digitalisation in Sri Lanka](data/articles/financing-the-framework.b8ee0498/README.md) `ft.lk`
 
 ## 2026-03-09
 
