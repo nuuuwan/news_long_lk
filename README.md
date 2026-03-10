@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-09 18:25:02**
+Last Updated **2026-03-10 06:26:22**
 
 ## 2026-03-09
 
@@ -25,6 +25,7 @@ Last Updated **2026-03-09 18:25:02**
 
 ## 2026-03-06
 
+* [Is the Pentagon allowed to surveil Americans with AI?](data/articles/is-the-pentagon-allowed.36b89f76/README.md) `technologyreview.com`
 * [The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon](data/articles/the-download-10-things-t.0f572dae/README.md) `technologyreview.com`
 * [Enforcement delay: A test of credibility for Sri Lanka’s tourism regulator](data/articles/enforcement-delay-a-test.ba05ac78/README.md) `ft.lk`
 * [The battle for critical minerals: Breaking China’s rare earth grip](data/articles/the-battle-for-critical.810bfbaa/README.md) `ft.lk`
