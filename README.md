@@ -2,15 +2,30 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-10 18:24:52**
+Last Updated **2026-03-12 06:26:33**
+
+## 2026-03-12
+
+* [American hubris, US-Israel’s unwinnable Iran war, and Anura’s confused neutrality](data/articles/american-hubris-us-israe.90b0d0aa/README.md) `ft.lk`
+* [‘Whatever happens, we have to deliver’: Platform labour  in the age of polycrisis](data/articles/whatever-happens-we-hav.0efb3cbe/README.md) `ft.lk`
+* [Beyond the number: What $ 7 b in foreign reserves means for Sri Lanka](data/articles/beyond-the-number-what-7.1ed69212/README.md) `ft.lk`
+
+## 2026-03-11
+
+* [Hustlers are cashing in on China’s OpenClaw AI craze](data/articles/hustlers-are-cashing-in.1626c715/README.md) `technologyreview.com`
+* [Fear has paralysed decision-making in public sector; biggest barrier to economic recovery](data/articles/fear-has-paralysed-decis.fe5fb595/README.md) `ft.lk`
+* [From sandcastles to survival: Sri Lanka in the age of Trump waves](data/articles/from-sandcastles-to-surv.04decf3c/README.md) `ft.lk`
 
 ## 2026-03-10
 
+* [The Dramatic Tale of Three Iranian Ships,US Belligerence and Sri Lanka’s Humanitarian Approach While Delicately Balancing Neutrality and International Legality.](data/articles/the-dramatic-tale-of-thr.ded15c98/README.md) `dbsjeyaraj.com`
+* [While technology wins battles, it is the human will and a clear “end-state” that win wars. The current US-Israeli campaign against Iran is missing both; In contrast, the Iranian population,views this as a war for national survival.](data/articles/while-technology-wins-ba.71f7419b/README.md) `dbsjeyaraj.com`
 * [Rebuilding Sri Lankan cricket: A systems approach to sustainable high performance: Part II](data/articles/rebuilding-sri-lankan-cr.968ef8f2/README.md) `ft.lk`
 * [Iranian vessels: Sri Lanka’s burden of neutrality and admirable legacy: Part 2](data/articles/iranian-vessels-sri-lank.9ae7f871/README.md) `ft.lk`
 * [Humanity before geopolitics: Sri Lanka’s rescue decision and spirit of non-alignment](data/articles/humanity-before-geopolit.0c8dbffc/README.md) `ft.lk`
 * [The evidentiary lock-out: A global outlier and a death knell for Sri Lankan tax justice](data/articles/the-evidentiary-lock-out.61dc9262/README.md) `ft.lk`
 * [Financing the framework, fleeing the fallout: World Bank financing digitalisation in Sri Lanka](data/articles/financing-the-framework.b8ee0498/README.md) `ft.lk`
+* [Parliament’s Special Oversight Committee wants a third independent accredited lab to test coal samples from the Trident Chemphar shipments “without further delay”](data/articles/parliament-s-special-ove.1627f47e/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-09
 
@@ -50,6 +65,7 @@ Last Updated **2026-03-10 18:24:52**
 
 * [Video Quick Take: Why Leaders Should Embrace Thinking Mode with AI](data/articles/video-quick-take-why-lea.ff21ed69/README.md) `hbr.org`
 * [How much wildfire prevention is too much?](data/articles/how-much-wildfire-preven.df570d5f/README.md) `technologyreview.com`
+* [Online harassment is entering its AI era](data/articles/online-harassment-is-ent.319a07e6/README.md) `technologyreview.com`
 * [Blood is on the hands of Donald Trump and Benjamin Netanyahu:   one a mercurial hard nationalist who is turning America into a rogue superpower, and the other, an expansionist ethnonationalist wanted for war crimes by the International Criminal Court.The war machines of the imperial duo have already wrecked the region. Such thuggery cannot be accepted in the international system- “The Hindu”](data/articles/blood-is-on-the-hands-of.ebcd94e9/README.md) `dbsjeyaraj.com`
 * [The U.S. has “perpetrated an atrocity” at sea, 2,000 miles away from Iran’s shores, and will “bitterly regret” the move warns Iranian Foreign Minister Seyed Abbas Araghchi in an Official Response to the sinking of Iranian Warship IRIS Dena by the US off  Sri Lnka’s Southern Coast](data/articles/the-u-s-has-perpetrated.e2f8db6a/README.md) `dbsjeyaraj.com`
 * [Torpedo Attack by US Submarine Sinks Iranian  Frigate “IRIS  Dena” 40 Nautical Miles Off Sri Lanka’s Southern  Coast: Two Lankan Navy  Vessels Respond to Dawn Distress Call and Rescue 32  Iranian Sailors Admitted to Galle Hospital;87 Bodies recovered by SL Navy.](data/articles/torpedo-attack-by-us-sub.f195da2d/README.md) `dbsjeyaraj.com`
@@ -77,6 +93,7 @@ Last Updated **2026-03-10 18:24:52**
 * [Gulf turmoil will stress-test Sri Lanka’s economic resilience – MTI](data/articles/gulf-turmoil-will-stress.ad439a52/README.md) `ft.lk`
 * [OPEC+ hikes oil production by more than expected amid Iran war](data/articles/opec-hikes-oil-productio.774588c3/README.md) `ft.lk`
 * [Sri Lanka after IEEPA: Navigating tariffs in a volatile US trade environment](data/articles/sri-lanka-after-ieepa-na.78592cea/README.md) `ft.lk`
+* [This startup claims it can stop lightning and prevent catastrophic wildfires](data/articles/this-startup-claims-it-c.9cbfa1a1/README.md) `technologyreview.com`
 
 ## 2026-03-02
 
