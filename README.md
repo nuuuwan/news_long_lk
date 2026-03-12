@@ -2,16 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-12 06:26:33**
+Last Updated **2026-03-12 18:25:13**
 
 ## 2026-03-12
 
+* [Brutal times for the US battery industry](data/articles/brutal-times-for-the-us.b9aad0ec/README.md) `technologyreview.com`
 * [American hubris, US-Israel’s unwinnable Iran war, and Anura’s confused neutrality](data/articles/american-hubris-us-israe.90b0d0aa/README.md) `ft.lk`
 * [‘Whatever happens, we have to deliver’: Platform labour  in the age of polycrisis](data/articles/whatever-happens-we-hav.0efb3cbe/README.md) `ft.lk`
 * [Beyond the number: What $ 7 b in foreign reserves means for Sri Lanka](data/articles/beyond-the-number-what-7.1ed69212/README.md) `ft.lk`
 
 ## 2026-03-11
 
+* [After 147 years, the Royal–Thomian remains one of the most remarkable traditions in Sri Lankan life; a celebration of youth, camaraderie and the enduring bond between Royalists and Thomians.](data/articles/after-147-years-the-roya.e08bb9bc/README.md) `dbsjeyaraj.com`
 * [Hustlers are cashing in on China’s OpenClaw AI craze](data/articles/hustlers-are-cashing-in.1626c715/README.md) `technologyreview.com`
 * [Fear has paralysed decision-making in public sector; biggest barrier to economic recovery](data/articles/fear-has-paralysed-decis.fe5fb595/README.md) `ft.lk`
 * [From sandcastles to survival: Sri Lanka in the age of Trump waves](data/articles/from-sandcastles-to-surv.04decf3c/README.md) `ft.lk`
