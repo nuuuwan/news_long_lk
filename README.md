@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-12 18:25:13**
+Last Updated **2026-03-13 06:26:43**
 
 ## 2026-03-12
 
@@ -13,7 +13,11 @@ Last Updated **2026-03-12 18:25:13**
 
 ## 2026-03-11
 
+* [Despite positive claims by President Dissanayake regarding the Iranian Ships,in reality, the Sri Lankan  government functioned as a compliant intermediary for the diplomatic and strategic objectives of the US and Israel as dictated by their diplomatic envoys.](data/articles/despite-positive-claims.bd335ac2/README.md) `dbsjeyaraj.com`
+* [CID tells Court  that Ex-Intelligence Chief Maj-Gen Suresh Salley  is  Detained Under the PTA  over three Allegations Relating to the Easter Bombings Investigation;Case Fixed for Hearing on March 25th](data/articles/cid-tells-court-that-ex.56dbf963/README.md) `dbsjeyaraj.com`
+* [The Kivul Oya project will inundate an area of 26 square kilometres of thick prime jungle in the Wanni. Preserving this existing forest is essential not only for the Northern Province but for the entire country.](data/articles/the-kivul-oya-project-wi.0e04a703/README.md) `dbsjeyaraj.com`
 * [After 147 years, the Royal–Thomian remains one of the most remarkable traditions in Sri Lankan life; a celebration of youth, camaraderie and the enduring bond between Royalists and Thomians.](data/articles/after-147-years-the-roya.e08bb9bc/README.md) `dbsjeyaraj.com`
+* [Ex- SriLankan Airlines Chief Executive Officer Kapila Chandrasena  arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) over the alleged acceptance of a USD 2 million bribe linked to the Airbus aircraft procurement deal](data/articles/ex-srilankan-airlines-ch.22f0babb/README.md) `dbsjeyaraj.com`
 * [Hustlers are cashing in on China’s OpenClaw AI craze](data/articles/hustlers-are-cashing-in.1626c715/README.md) `technologyreview.com`
 * [Fear has paralysed decision-making in public sector; biggest barrier to economic recovery](data/articles/fear-has-paralysed-decis.fe5fb595/README.md) `ft.lk`
 * [From sandcastles to survival: Sri Lanka in the age of Trump waves](data/articles/from-sandcastles-to-surv.04decf3c/README.md) `ft.lk`
