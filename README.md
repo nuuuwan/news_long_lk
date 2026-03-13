@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-13 06:26:43**
+Last Updated **2026-03-13 18:24:41**
+
+## 2026-03-13
+
+* [The ‘Great Game’ is on and so is our next move](data/articles/the-great-game-is-on-and.cb03c9ab/README.md) `ft.lk`
+* [Sir Mark’s mantra for leaders and attracting FDI](data/articles/sir-mark-s-mantra-for-le.39657cd9/README.md) `ft.lk`
+* [Northern development needs both strategic vision and local enterprise](data/articles/northern-development-nee.e1306971/README.md) `ft.lk`
+* [Future AI chips could be built on glass](data/articles/future-ai-chips-could-be.d57bef48/README.md) `technologyreview.com`
 
 ## 2026-03-12
 
@@ -35,6 +42,7 @@ Last Updated **2026-03-13 06:26:43**
 
 ## 2026-03-09
 
+* [How AI is turning the Iran conflict into theater](data/articles/how-ai-is-turning-the-ir.4ea2ab0d/README.md) `technologyreview.com`
 * [Mideast war, emerging external shocks and Sri Lanka’s choices](data/articles/mideast-war-emerging-ext.90222861/README.md) `ft.lk`
 * [Renewed trade portal with India can supercharge Sri Lanka’s exports](data/articles/renewed-trade-portal-wit.5996eae9/README.md) `ft.lk`
 * [The hidden cost of substandard coal: Estimating the national impact on Sri Lanka](data/articles/the-hidden-cost-of-subst.4f4c895c/README.md) `ft.lk`
