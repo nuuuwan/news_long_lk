@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-13 18:24:41**
+Last Updated **2026-03-14 06:26:27**
 
 ## 2026-03-13
 
+* [Are you ready to face the next power cuts?](data/articles/are-you-ready-to-face-th.801aadd3/README.md) `ft.lk`
+* [Ranking public services with AI: A roadmap to revive institutions like SriLankan Airlines](data/articles/ranking-public-services.a387b5c3/README.md) `ft.lk`
+* [Sri Lanka, humanitarianism,  and the meaning of true development](data/articles/sri-lanka-humanitarianis.31793113/README.md) `ft.lk`
+* [The English trap: Why Sri Lanka mocks its politicians either way](data/articles/the-english-trap-why-sri.b91b662d/README.md) `ft.lk`
+* [Law vs. ethics and Akuregoda incident: Is this a turning point?](data/articles/law-vs-ethics-and-akureg.bae6ce72/README.md) `ft.lk`
 * [The ‘Great Game’ is on and so is our next move](data/articles/the-great-game-is-on-and.cb03c9ab/README.md) `ft.lk`
 * [Sir Mark’s mantra for leaders and attracting FDI](data/articles/sir-mark-s-mantra-for-le.39657cd9/README.md) `ft.lk`
 * [Northern development needs both strategic vision and local enterprise](data/articles/northern-development-nee.e1306971/README.md) `ft.lk`
