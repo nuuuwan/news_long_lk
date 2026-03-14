@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-14 06:26:27**
+Last Updated **2026-03-14 18:23:51**
+
+## 2026-03-14
+
+* [The Middle East resembles today a black and white board where the pieces are moving faster and  unpredictably:Sri Lanka has no pieces in the Middle Eastern theatre, yet its strategic position on the game board itself is increasingly hard to ignore.](data/articles/the-middle-east-resemble.693be76f/README.md) `dbsjeyaraj.com`
+* [Major economic strategies for the Northern Province  should be developed and implemented through collaboration between the Sri Lanka  Govt, Northern Provincial Council, local authorities, and regional economic stakeholders.](data/articles/major-economic-strategie.48ce0ba7/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-13
 
@@ -11,6 +16,7 @@ Last Updated **2026-03-14 06:26:27**
 * [Sri Lanka, humanitarianism,  and the meaning of true development](data/articles/sri-lanka-humanitarianis.31793113/README.md) `ft.lk`
 * [The English trap: Why Sri Lanka mocks its politicians either way](data/articles/the-english-trap-why-sri.b91b662d/README.md) `ft.lk`
 * [Law vs. ethics and Akuregoda incident: Is this a turning point?](data/articles/law-vs-ethics-and-akureg.bae6ce72/README.md) `ft.lk`
+* [” Lanka e News” Website Editor  Sandaruwan Senadheera  who Returned to Sri Lanka from Britain after 16 years arrested at Katunayake Airport:Internet Media Action (IMA expresses Profound Concern.](data/articles/lanka-e-news-website-ed.2ea2ea62/README.md) `dbsjeyaraj.com`
 * [The ‘Great Game’ is on and so is our next move](data/articles/the-great-game-is-on-and.cb03c9ab/README.md) `ft.lk`
 * [Sir Mark’s mantra for leaders and attracting FDI](data/articles/sir-mark-s-mantra-for-le.39657cd9/README.md) `ft.lk`
 * [Northern development needs both strategic vision and local enterprise](data/articles/northern-development-nee.e1306971/README.md) `ft.lk`
