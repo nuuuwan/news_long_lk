@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-15 06:33:30**
+Last Updated **2026-03-15 18:24:17**
+
+## 2026-03-15
+
+* [Maj-Gen Suresh Sallay’s wife  Writes to IGP  Priyantha Weerasooriya on March 7 over the ‘Cruel, Inhuman and Degrading Treatment’ to which her husband is being subjected while under detention.](data/articles/maj-gen-suresh-sallay-s.2a6b1c5b/README.md) `dbsjeyaraj.com`
+* [Ordinary  Sri Lankans Affected by  Shortages and Rising Prices after Middle-Eastern War. Public Anger Over Cost of Living Increase Directed  not just at the NPP Govt but also President Anura Kumara Dissanayake Himself.](data/articles/ordinary-sri-lankans-aff.608aedbb/README.md) `dbsjeyaraj.com`
+* [Tender to Supply 300,000 Metric Tonnes of Emergency Coal for Lakvijaya Power Pl ant unawarded  Despite Competing Bids  Being Examined due to problematic coal supplier Trident Chemphar submitting  Revised schedule at US $112 per MT  to Lanka Coal Company (Pvt) Ltd (LCC).](data/articles/tender-to-supply-300-000.22a8a505/README.md) `dbsjeyaraj.com`
+* [Colombo High Court  issues notice to  Power and Energy Minister Kumara Jayakody ordering him to appear in court on March 27, when indictments in his corruption trial are to be served on him.](data/articles/colombo-high-court-issue.9e61ead9/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-14
 
