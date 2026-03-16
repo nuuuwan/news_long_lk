@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-15 18:24:17**
+Last Updated **2026-03-16 06:33:49**
+
+## 2026-03-16
+
+* [Sri Lanka’s FDI woes: A one-stop shop is the most urgent priority](data/articles/sri-lanka-s-fdi-woes-a-o.bd918945/README.md) `ft.lk`
+* [‘PSTA more draconian than PTA’](data/articles/psta-more-draconian-tha.af4e29b1/README.md) `ft.lk`
+* [The tempest in Middle East will continue to blow ill wind in the Indian Ocean](data/articles/the-tempest-in-middle-ea.34df4021/README.md) `ft.lk`
+* [UNP responds to Daily FT Editorial on ‘Separation of Temple and State a must going forward’](data/articles/unp-responds-to-daily-ft.fa4ce55f/README.md) `ft.lk`
+* [Rethinking the proposed amendment to Thin Capitalisation rule and the fate of SMEs](data/articles/rethinking-the-proposed.e7192ebe/README.md) `ft.lk`
 
 ## 2026-03-15
 
