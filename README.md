@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-16 18:27:26**
+Last Updated **2026-03-17 06:28:12**
+
+## 2026-03-17
+
+* [Privilege, compliance and fiscal trust: Rethinking taxpayer engagement](data/articles/privilege-compliance-and.cfbe102b/README.md) `ft.lk`
+* [From revenue to repression: Tax administration and justice](data/articles/from-revenue-to-repressi.b3a3705a/README.md) `ft.lk`
+* [New study warns of moderate to high AI-driven risks to electoral integrity](data/articles/new-study-warns-of-moder.39fe4f53/README.md) `ft.lk`
+* [Are we failing our youth? The reality behind  Sri Lankan’s job crisis](data/articles/are-we-failing-our-youth.1d065fc9/README.md) `ft.lk`
+* [Shock from the Gulf: Buffers hold for now but reform delays leave SL vulnerable](data/articles/shock-from-the-gulf-buff.24b64582/README.md) `ft.lk`
 
 ## 2026-03-16
 
+* [Where OpenAI’s technology could show up in Iran](data/articles/where-openai-s-technolog.7f98adee/README.md) `technologyreview.com`
+* [Mangaiyarkkarasi’s life was inter-twined with  her husband Amirthalingam’s political career. Like Lord Shiva and his divine consort Paarvathy, Amirthalingam was “Shivam” and Mangaiyarkkarasi his “Shakthi”](data/articles/mangaiyarkkarasi-s-life.6fb279e9/README.md) `dbsjeyaraj.com`
+* [Gotabaya Rajapaksa bankrupted  Sri Lanka  in 2 years and 5 months. Donald Trump is likely to upend the world in a much shorter time. if he doesn’t immediately end the unprovoked and illegal war he began against Iran.](data/articles/gotabaya-rajapaksa-bankr.2e82ac6d/README.md) `dbsjeyaraj.com`
 * [Sri Lanka’s FDI woes: A one-stop shop is the most urgent priority](data/articles/sri-lanka-s-fdi-woes-a-o.bd918945/README.md) `ft.lk`
 * [‘PSTA more draconian than PTA’](data/articles/psta-more-draconian-tha.af4e29b1/README.md) `ft.lk`
 * [The tempest in Middle East will continue to blow ill wind in the Indian Ocean](data/articles/the-tempest-in-middle-ea.34df4021/README.md) `ft.lk`
@@ -59,6 +70,7 @@ Last Updated **2026-03-16 18:27:26**
 
 * [The Dramatic Tale of Three Iranian Ships,US Belligerence and Sri Lanka’s Humanitarian Approach While Delicately Balancing Neutrality and International Legality.](data/articles/the-dramatic-tale-of-thr.ded15c98/README.md) `dbsjeyaraj.com`
 * [While technology wins battles, it is the human will and a clear “end-state” that win wars. The current US-Israeli campaign against Iran is missing both; In contrast, the Iranian population,views this as a war for national survival.](data/articles/while-technology-wins-ba.71f7419b/README.md) `dbsjeyaraj.com`
+* [How Pokémon Go is giving delivery robots an inch-perfect view of the world](data/articles/how-pokémon-go-is-giving.f05bdda0/README.md) `technologyreview.com`
 * [Rebuilding Sri Lankan cricket: A systems approach to sustainable high performance: Part II](data/articles/rebuilding-sri-lankan-cr.968ef8f2/README.md) `ft.lk`
 * [Iranian vessels: Sri Lanka’s burden of neutrality and admirable legacy: Part 2](data/articles/iranian-vessels-sri-lank.9ae7f871/README.md) `ft.lk`
 * [Humanity before geopolitics: Sri Lanka’s rescue decision and spirit of non-alignment](data/articles/humanity-before-geopolit.0c8dbffc/README.md) `ft.lk`
