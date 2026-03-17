@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-17 06:28:12**
+Last Updated **2026-03-17 18:25:14**
 
 ## 2026-03-17
 
@@ -14,6 +14,10 @@ Last Updated **2026-03-17 06:28:12**
 
 ## 2026-03-16
 
+* [The sinking of the Iranian warship ‘IRIS Dena’ that had participated as a guest in an Indian naval exercise has caused  embarrassment to India. This was evident from India maintaining a strategic silence on the sinking.](data/articles/the-sinking-of-the-irani.10db2ce5/README.md) `dbsjeyaraj.com`
+* [Sri Lanka switches to QR code-based system to ration fuel sales as a “precautionary measure”: The weekly quota for cars and motorbikes is limited to 15 litres and 5 litres, respectively](data/articles/sri-lanka-switches-to-qr.4b0d842f/README.md) `dbsjeyaraj.com`
+* [India’s Tamil Nadu State Elections to be held on 23rd April 2025 :  5.67 crore Voyers will elect Representatives to 234 Legislative Assembly Seats.  Counting of Votes  on May 4th.](data/articles/india-s-tamil-nadu-state.b25c8341/README.md) `dbsjeyaraj.com`
+* [Lyricist -Author Vairamuthu becomes Third Literary Figure from Tamil  Nadu after  Akilan and Jayakanthan, to  Receive  India’s Highest Literary Honour the Jnanpith award](data/articles/lyricist-author-vairamut.abcfb7f2/README.md) `dbsjeyaraj.com`
 * [Where OpenAI’s technology could show up in Iran](data/articles/where-openai-s-technolog.7f98adee/README.md) `technologyreview.com`
 * [Mangaiyarkkarasi’s life was inter-twined with  her husband Amirthalingam’s political career. Like Lord Shiva and his divine consort Paarvathy, Amirthalingam was “Shivam” and Mangaiyarkkarasi his “Shakthi”](data/articles/mangaiyarkkarasi-s-life.6fb279e9/README.md) `dbsjeyaraj.com`
 * [Gotabaya Rajapaksa bankrupted  Sri Lanka  in 2 years and 5 months. Donald Trump is likely to upend the world in a much shorter time. if he doesn’t immediately end the unprovoked and illegal war he began against Iran.](data/articles/gotabaya-rajapaksa-bankr.2e82ac6d/README.md) `dbsjeyaraj.com`
