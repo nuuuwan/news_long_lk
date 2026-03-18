@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-17 18:25:14**
+Last Updated **2026-03-18 06:29:23**
+
+## 2026-03-18
+
+* [Converting Middle East crisis into Sri Lanka’s opportunity](data/articles/converting-middle-east-c.e860c19b/README.md) `ft.lk`
+* [Sri Lanka apparel must grow differently to reach $ 8 b exports](data/articles/sri-lanka-apparel-must-g.debc69a3/README.md) `ft.lk`
+* [Securing Sri Lanka’s kitchens: The missing contingency in LPG tenders](data/articles/securing-sri-lanka-s-kit.705aea88/README.md) `ft.lk`
 
 ## 2026-03-17
 
+* [The Pentagon is planning for AI companies to train on classified data, defense official says](data/articles/the-pentagon-is-planning.d45fb380/README.md) `technologyreview.com`
 * [Privilege, compliance and fiscal trust: Rethinking taxpayer engagement](data/articles/privilege-compliance-and.cfbe102b/README.md) `ft.lk`
 * [From revenue to repression: Tax administration and justice](data/articles/from-revenue-to-repressi.b3a3705a/README.md) `ft.lk`
 * [New study warns of moderate to high AI-driven risks to electoral integrity](data/articles/new-study-warns-of-moder.39fe4f53/README.md) `ft.lk`
