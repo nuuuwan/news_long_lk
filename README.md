@@ -2,13 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-18 06:29:23**
+Last Updated **2026-03-18 18:25:18**
 
 ## 2026-03-18
 
+* [The Reckoning: Blackmail, broken alliances and end of Petro-Dollar era](data/articles/the-reckoning-blackmail.24f458da/README.md) `ft.lk`
+* [US-UK-France: Move out of Indian Ocean; time to close military bases, decolonise and stop war](data/articles/us-uk-france-move-out-of.6ebdc7b2/README.md) `ft.lk`
+* [Opening the lid on the genie:  Telltale evidence and terrorism laws](data/articles/opening-the-lid-on-the-g.ad56f51e/README.md) `ft.lk`
+* [Crowd, memory and the 280 dead](data/articles/crowd-memory-and-the-280.d78da0fb/README.md) `ft.lk`
 * [Converting Middle East crisis into Sri Lanka’s opportunity](data/articles/converting-middle-east-c.e860c19b/README.md) `ft.lk`
 * [Sri Lanka apparel must grow differently to reach $ 8 b exports](data/articles/sri-lanka-apparel-must-g.debc69a3/README.md) `ft.lk`
 * [Securing Sri Lanka’s kitchens: The missing contingency in LPG tenders](data/articles/securing-sri-lanka-s-kit.705aea88/README.md) `ft.lk`
+* [What do new nuclear reactors mean for waste?](data/articles/what-do-new-nuclear-reac.5b546065/README.md) `technologyreview.com`
 
 ## 2026-03-17
 
