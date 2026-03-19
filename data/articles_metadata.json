@@ -1,5 +1,12 @@
 [
   {
+    "title": "Why the world doesn\u2019t recycle more nuclear waste",
+    "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+    "ut": 1773880200.0,
+    "dir_path_unix": "data/articles/why-the-world-doesn-t-re.0c9c687e",
+    "time_str_formatted": "06:00 AM, Thursday, March 19, 2026"
+  },
+  {
     "title": "Extra exposure to external shock; Existential war in the Middle-East",
     "url": "https://www.ft.lk/columns/Extra-exposure-to-external-shock-Existential-war-in-the-Middle-East/4-789757",
     "ut": 1773873682.0,
@@ -355,6 +362,13 @@
     "ut": 1773358200.0,
     "dir_path_unix": "data/articles/future-ai-chips-could-be.d57bef48",
     "time_str_formatted": "05:00 AM, Friday, March 13, 2026"
+  },
+  {
+    "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+    "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "ut": 1773320014.0,
+    "dir_path_unix": "data/articles/a-defense-official-revea.aeb248b6",
+    "time_str_formatted": "06:23 PM, Thursday, March 12, 2026"
   },
   {
     "title": "Brutal times for the US battery industry",

@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-19 06:29:29**
+Last Updated **2026-03-19 18:25:07**
 
 ## 2026-03-19
 
+* [Why the world doesn’t recycle more nuclear waste](data/articles/why-the-world-doesn-t-re.0c9c687e/README.md) `technologyreview.com`
 * [Extra exposure to external shock; Existential war in the Middle-East](data/articles/extra-exposure-to-extern.fea5fe56/README.md) `ft.lk`
 * [Wars, rumours of wars, and a game of oil and fire](data/articles/wars-rumours-of-wars-and.b96fdaf8/README.md) `ft.lk`
 * [Naval hostilities off Sri Lanka and the need to preserve Indian Ocean as a zone of peace](data/articles/naval-hostilities-off-sr.2da407d0/README.md) `ft.lk`
@@ -78,6 +79,7 @@ Last Updated **2026-03-19 06:29:29**
 
 ## 2026-03-12
 
+* [A defense official reveals how AI chatbots could be used for targeting decisions](data/articles/a-defense-official-revea.aeb248b6/README.md) `technologyreview.com`
 * [Brutal times for the US battery industry](data/articles/brutal-times-for-the-us.b9aad0ec/README.md) `technologyreview.com`
 * [American hubris, US-Israel’s unwinnable Iran war, and Anura’s confused neutrality](data/articles/american-hubris-us-israe.90b0d0aa/README.md) `ft.lk`
 * [‘Whatever happens, we have to deliver’: Platform labour  in the age of polycrisis](data/articles/whatever-happens-we-hav.0efb3cbe/README.md) `ft.lk`
