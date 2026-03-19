@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-18 18:25:18**
+Last Updated **2026-03-19 06:29:29**
+
+## 2026-03-19
+
+* [Extra exposure to external shock; Existential war in the Middle-East](data/articles/extra-exposure-to-extern.fea5fe56/README.md) `ft.lk`
+* [Wars, rumours of wars, and a game of oil and fire](data/articles/wars-rumours-of-wars-and.b96fdaf8/README.md) `ft.lk`
+* [Naval hostilities off Sri Lanka and the need to preserve Indian Ocean as a zone of peace](data/articles/naval-hostilities-off-sr.2da407d0/README.md) `ft.lk`
+* [UN failure to broker a de-escalation is a tragedy for the world](data/articles/un-failure-to-broker-a-d.03287f37/README.md) `ft.lk`
+* [Does new IR Bill violate Constitution over IFRS 17?](data/articles/does-new-ir-bill-violate.5340d3cb/README.md) `ft.lk`
 
 ## 2026-03-18
 
@@ -14,6 +22,10 @@ Last Updated **2026-03-18 18:25:18**
 * [Sri Lanka apparel must grow differently to reach $ 8 b exports](data/articles/sri-lanka-apparel-must-g.debc69a3/README.md) `ft.lk`
 * [Securing Sri Lanka’s kitchens: The missing contingency in LPG tenders](data/articles/securing-sri-lanka-s-kit.705aea88/README.md) `ft.lk`
 * [What do new nuclear reactors mean for waste?](data/articles/what-do-new-nuclear-reac.5b546065/README.md) `technologyreview.com`
+* [Sri Lanka is ready to receive and support all those forced to flee the country during the civil war and now living as refugees in Tamil Nadu states  Cabinet Minister and Leader of the House Bimal Rathnayake.](data/articles/sri-lanka-is-ready-to-re.d772e910/README.md) `dbsjeyaraj.com`
+* [Tamil Lyricist-Poet Vairamuthu Receiving Prestigious Jnanpith Award Revives  past   Sexual Harassment Controversy : Asked about  sexual misconduct allegations against him, Vairamuthu says, “I am avoiding this question”](data/articles/tamil-lyricist-poet-vair.db5f52cb/README.md) `dbsjeyaraj.com`
+* [Ensuring the Uninterrupted Fonctioning of the country Remains the Primary Objective of the Government Declares President Anura Kumara Dissanayake and  Requests the collective support of the public, private sectors, media and the People  to  Face current challenges](data/articles/ensuring-the-uninterrupt.d65e4dd0/README.md) `dbsjeyaraj.com`
+* [“There is oil and we have the dollars, but there is no shipping vessel to make the delivery due to higher insurance premiums.This is not our war, we are only victims. All we can do is monitor developments daily and adjust our strategy when needed,” States Power and Energy Minister Kumara Jayakody in Parliament.](data/articles/there-is-oil-and-we-hav.108855db/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-17
 
