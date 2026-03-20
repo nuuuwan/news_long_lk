@@ -2,11 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-20 06:27:07**
+Last Updated **2026-03-20 18:24:38**
 
 ## 2026-03-20
 
+* [One year on: Progress, persistent gaps, and absence of governance action plan](data/articles/one-year-on-progress-per.1ee6cc37/README.md) `ft.lk`
+* [Fuel price shock does not have to be passed on fully  to consumers: Why and how?](data/articles/fuel-price-shock-does-no.fd23a2bf/README.md) `ft.lk`
+* [Access, not demand will decide Sri Lanka tourism’s future](data/articles/access-not-demand-will-d.b7854064/README.md) `ft.lk`
+* [Energy is national security: Why Sri Lanka’s future depends on a radical power shift](data/articles/energy-is-national-secur.0f7a93b7/README.md) `ft.lk`
 * [Chemmani mass grave:  Date set for next phase  in excavations as families await answers](data/articles/chemmani-mass-grave-date.5f51666e/README.md) `ft.lk`
+* [Mind-altering substances are (still) falling short in clinical trials](data/articles/mind-altering-substances.503f2cae/README.md) `technologyreview.com`
+* [✿ “Roja Malarae Rajakumari” ♛ ♥ ~ Popular Song by PB Sreenivas – P.Susheela Duo ♫](data/articles/roja-malarae-rajakumari.bb70a1f0/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-19
 
