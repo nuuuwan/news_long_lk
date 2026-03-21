@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-20 18:24:38**
+Last Updated **2026-03-21 06:26:18**
 
 ## 2026-03-20
 
+* [Trump’s un-holy war](data/articles/trump-s-un-holy-war.cae246c7/README.md) `ft.lk`
+* [Lost opportunities and cost of mistakes](data/articles/lost-opportunities-and-c.62d5ca39/README.md) `ft.lk`
+* [Faiszer Musthapha urges Sri Lanka to seize opportunity amid global instability](data/articles/faiszer-musthapha-urges.72c115d6/README.md) `ft.lk`
+* [Ambassador Lambert highlights France’s position on current international developments](data/articles/ambassador-lambert-highl.a762f346/README.md) `ft.lk`
 * [One year on: Progress, persistent gaps, and absence of governance action plan](data/articles/one-year-on-progress-per.1ee6cc37/README.md) `ft.lk`
 * [Fuel price shock does not have to be passed on fully  to consumers: Why and how?](data/articles/fuel-price-shock-does-no.fd23a2bf/README.md) `ft.lk`
 * [Access, not demand will decide Sri Lanka tourism’s future](data/articles/access-not-demand-will-d.b7854064/README.md) `ft.lk`
