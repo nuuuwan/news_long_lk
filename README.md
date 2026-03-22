@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-21 18:23:49**
+Last Updated **2026-03-22 06:30:15**
+
+## 2026-03-21
+
+* [Tamil Actor Vijay’s  TVK Party Faces Tamil Nadu Elections Alone While  Vijay’s  Jaffna –  born Wife  Sangeetha Seeks  Divorce  Alleging  an “Adulterous Relationship:” with an Actress.](data/articles/tamil-actor-vijay-s-tvk.fa9bff1b/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-20
 
