@@ -2,15 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-23 06:30:50**
+Last Updated **2026-03-23 18:25:33**
 
 ## 2026-03-23
 
+* [The Bay Area’s animal welfare movement wants to recruit AI](data/articles/the-bay-area-s-animal-we.1078cf07/README.md) `technologyreview.com`
 * [Fall of Warnomics: SL economy yet to feel heat of ME war, its choices](data/articles/fall-of-warnomics-sl-eco.0a263a1e/README.md) `ft.lk`
 * [Trembling of tranquility in turbulent times: Woes of a weary war](data/articles/trembling-of-tranquility.aa66af97/README.md) `ft.lk`
 * [Why illegal cyber operations demand a national response](data/articles/why-illegal-cyber-operat.b75b9389/README.md) `ft.lk`
 * [Procedural overreach in Inland Revenue 2026 Bill](data/articles/procedural-overreach-in.5d2aca33/README.md) `ft.lk`
 * [Changing tax culture: One taxpayer at a time](data/articles/changing-tax-culture-one.0e6c5c9b/README.md) `ft.lk`
+* [What Sri Lanka calls non-alignment is, in practice, something closer to strategic ambiguity, a refusal to make choices dressed up as a principled refusal to take sides. In a post-Trump world, where great powers weaponise trade, technology and supply chains as instruments of coercion, the President’s posture leaves us exposed.](data/articles/what-sri-lanka-calls-non.88a65edc/README.md) `dbsjeyaraj.com`
+* [Re-developing the Second World War-era oil tank farms in Trincomalee district is the “permanent solution” to the energy crisis says  Foreign Minister Vijitha Herath : Govt  taking steps to expedite the project backed by India and the United Arab Emirates.](data/articles/re-developing-the-second.7bb29c89/README.md) `dbsjeyaraj.com`
+* [Bibi Netanyahu and Donald Trump are unmaking the world, as we have known it for decades. There might be nothing left to rebuild by the time they are through.](data/articles/bibi-netanyahu-and-donal.7be18a5a/README.md) `dbsjeyaraj.com`
+* [“Justice must be rooted in public confidence. A judgment may be correct in law, but if institutions behave in ways that cause right-minded people to doubt fairness, something precious is lost”‘.- Justice S.Thurairajah.](data/articles/justice-must-be-rooted.98abc1a6/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-21
 
