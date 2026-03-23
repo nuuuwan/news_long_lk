@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-22 18:24:17**
+Last Updated **2026-03-23 06:30:50**
+
+## 2026-03-23
+
+* [Fall of Warnomics: SL economy yet to feel heat of ME war, its choices](data/articles/fall-of-warnomics-sl-eco.0a263a1e/README.md) `ft.lk`
+* [Trembling of tranquility in turbulent times: Woes of a weary war](data/articles/trembling-of-tranquility.aa66af97/README.md) `ft.lk`
+* [Why illegal cyber operations demand a national response](data/articles/why-illegal-cyber-operat.b75b9389/README.md) `ft.lk`
+* [Procedural overreach in Inland Revenue 2026 Bill](data/articles/procedural-overreach-in.5d2aca33/README.md) `ft.lk`
+* [Changing tax culture: One taxpayer at a time](data/articles/changing-tax-culture-one.0e6c5c9b/README.md) `ft.lk`
 
 ## 2026-03-21
 
