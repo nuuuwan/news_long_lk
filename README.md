@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-23 18:25:33**
+Last Updated **2026-03-24 06:26:44**
+
+## 2026-03-24
+
+* [Redefining “Reserves” under Inland Revenue Act: Policy evolution or moving goalposts?](data/articles/redefining-reserves-unde.0ca93410/README.md) `ft.lk`
+* [The evolution of Withholding Taxes – a status quo](data/articles/the-evolution-of-withhol.4acae32e/README.md) `ft.lk`
+* [“When America sneezes, Sri Lanka catches a cold!”](data/articles/when-america-sneezes-sr.86ab9093/README.md) `ft.lk`
+* [Powering stability: UK support for Sri Lanka’s electric bus transition](data/articles/powering-stability-uk-su.4c1e383d/README.md) `ft.lk`
+* [E-entrepreneurship and E-business: Driving sustainability in digital economy](data/articles/e-entrepreneurship-and-e.bcb91573/README.md) `ft.lk`
 
 ## 2026-03-23
 
+* [The hardest question to answer about AI-fueled delusions](data/articles/the-hardest-question-to.ec9b34ed/README.md) `technologyreview.com`
 * [The Bay Area’s animal welfare movement wants to recruit AI](data/articles/the-bay-area-s-animal-we.1078cf07/README.md) `technologyreview.com`
 * [Fall of Warnomics: SL economy yet to feel heat of ME war, its choices](data/articles/fall-of-warnomics-sl-eco.0a263a1e/README.md) `ft.lk`
 * [Trembling of tranquility in turbulent times: Woes of a weary war](data/articles/trembling-of-tranquility.aa66af97/README.md) `ft.lk`
