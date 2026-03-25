@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-24 18:25:17**
+Last Updated **2026-03-25 06:28:53**
 
 ## 2026-03-24
 
+* [This scientist rewarmed and studied pieces of his friend’s cryopreserved brain](data/articles/this-scientist-rewarmed.5cf89d15/README.md) `technologyreview.com`
+* [“TMS” :Versatile and vibrant playback singer TM Soundararajan was Hailed as the “Isaich Chakkararthy”(Emperor of Music).](data/articles/tms-versatile-and-vibra.2b464036/README.md) `dbsjeyaraj.com`
 * [Redefining “Reserves” under Inland Revenue Act: Policy evolution or moving goalposts?](data/articles/redefining-reserves-unde.0ca93410/README.md) `ft.lk`
 * [The evolution of Withholding Taxes – a status quo](data/articles/the-evolution-of-withhol.4acae32e/README.md) `ft.lk`
 * [“When America sneezes, Sri Lanka catches a cold!”](data/articles/when-america-sneezes-sr.86ab9093/README.md) `ft.lk`
@@ -46,6 +48,7 @@ Last Updated **2026-03-24 18:25:17**
 
 ## 2026-03-19
 
+* [Can quantum computers now solve health care problems? We’ll soon find out.](data/articles/can-quantum-computers-no.b0121e9e/README.md) `technologyreview.com`
 * [Why the world doesn’t recycle more nuclear waste](data/articles/why-the-world-doesn-t-re.0c9c687e/README.md) `technologyreview.com`
 * [Extra exposure to external shock; Existential war in the Middle-East](data/articles/extra-exposure-to-extern.fea5fe56/README.md) `ft.lk`
 * [Wars, rumours of wars, and a game of oil and fire](data/articles/wars-rumours-of-wars-and.b96fdaf8/README.md) `ft.lk`
