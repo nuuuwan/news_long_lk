@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-25 18:25:21**
+Last Updated **2026-03-26 06:31:58**
+
+## 2026-03-26
+
+* [Preventable global conflict, targeting China, Lanka’s vulnerability and leadership deficit](data/articles/preventable-global-confl.2b94b2aa/README.md) `ft.lk`
+* [Food insecurity is the ‘hidden devil’ of global conflicts: The case of urea](data/articles/food-insecurity-is-the-h.41ed943c/README.md) `ft.lk`
+* [Can Hambantota International Port unlock Mattala’s strategic potential?](data/articles/can-hambantota-internati.6720abe4/README.md) `ft.lk`
+* [Can Sri Lanka’s 5G revolution reach the 80% left behind?](data/articles/can-sri-lanka-s-5g-revol.8ea79b7b/README.md) `ft.lk`
+* [Increasing national productivity is futile when citizenry bucks the system and refuses to save itself](data/articles/increasing-national-prod.7f1001b5/README.md) `ft.lk`
 
 ## 2026-03-25
 
+* [Roundtables: The Next Era of Space Exploration](data/articles/roundtables-the-next-era.a2f0d2ed/README.md) `technologyreview.com`
 * [Geopolitical conflict and national energy security: Role of AI in fuel and LPG crisis management](data/articles/geopolitical-conflict-an.45f831ae/README.md) `ft.lk`
 * [Opposition party leaders write to global organisations on grave situation of security for lawyers and public in SL](data/articles/opposition-party-leaders.718a5c87/README.md) `ft.lk`
 * [When the war drops a  bomb in our backyard](data/articles/when-the-war-drops-a-bom.35223195/README.md) `ft.lk`
