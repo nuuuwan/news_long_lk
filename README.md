@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-27 06:32:06**
+Last Updated **2026-03-27 18:24:53**
 
 ## 2026-03-27
 
@@ -23,6 +23,7 @@ Last Updated **2026-03-27 06:32:06**
 ## 2026-03-25
 
 * [Roundtables: The Next Era of Space Exploration](data/articles/roundtables-the-next-era.a2f0d2ed/README.md) `technologyreview.com`
+* [This startup wants to change how mathematicians do math](data/articles/this-startup-wants-to-ch.84656a83/README.md) `technologyreview.com`
 * [Geopolitical conflict and national energy security: Role of AI in fuel and LPG crisis management](data/articles/geopolitical-conflict-an.45f831ae/README.md) `ft.lk`
 * [Opposition party leaders write to global organisations on grave situation of security for lawyers and public in SL](data/articles/opposition-party-leaders.718a5c87/README.md) `ft.lk`
 * [When the war drops a  bomb in our backyard](data/articles/when-the-war-drops-a-bom.35223195/README.md) `ft.lk`
