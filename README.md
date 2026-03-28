@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-28 06:27:42**
+Last Updated **2026-03-28 18:24:16**
 
 ## 2026-03-28
 
+* [A woman’s uterus has been kept alive outside the body for the first time](data/articles/a-woman-s-uterus-has-bee.37644363/README.md) `technologyreview.com`
 * [How SL can protect economy, tourism and public confidence amidst ME war](data/articles/how-sl-can-protect-econo.6ab0babd/README.md) `ft.lk`
 * [Ageing parents in a world of migration](data/articles/ageing-parents-in-a-worl.fdd459b9/README.md) `ft.lk`
 * [Drug quality conundrum in Sri Lanka, the law and compliance](data/articles/drug-quality-conundrum-i.b9ad4b2d/README.md) `ft.lk`
@@ -30,6 +31,7 @@ Last Updated **2026-03-28 06:27:42**
 ## 2026-03-25
 
 * [Roundtables: The Next Era of Space Exploration](data/articles/roundtables-the-next-era.a2f0d2ed/README.md) `technologyreview.com`
+* [Why this battery company is pivoting to AI](data/articles/why-this-battery-company.f3500499/README.md) `technologyreview.com`
 * [This startup wants to change how mathematicians do math](data/articles/this-startup-wants-to-ch.84656a83/README.md) `technologyreview.com`
 * [Geopolitical conflict and national energy security: Role of AI in fuel and LPG crisis management](data/articles/geopolitical-conflict-an.45f831ae/README.md) `ft.lk`
 * [Opposition party leaders write to global organisations on grave situation of security for lawyers and public in SL](data/articles/opposition-party-leaders.718a5c87/README.md) `ft.lk`
