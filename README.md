@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-27 18:24:53**
+Last Updated **2026-03-28 06:27:42**
+
+## 2026-03-28
+
+* [How SL can protect economy, tourism and public confidence amidst ME war](data/articles/how-sl-can-protect-econo.6ab0babd/README.md) `ft.lk`
+* [Ageing parents in a world of migration](data/articles/ageing-parents-in-a-worl.fdd459b9/README.md) `ft.lk`
+* [Drug quality conundrum in Sri Lanka, the law and compliance](data/articles/drug-quality-conundrum-i.b9ad4b2d/README.md) `ft.lk`
 
 ## 2026-03-27
 
+* [The petrodollar system: Architecture, power, and emerging fault lines of de-dollarisation](data/articles/the-petrodollar-system-a.863bc544/README.md) `ft.lk`
 * [The JR I disliked — A review of courage, candour and historical balance](data/articles/the-jr-i-disliked-a-revi.85ac0a5c/README.md) `ft.lk`
 * [Narratives, security, and social cohesion: Rethinking the discourse on Islamic ideologies in Sri Lanka](data/articles/narratives-security-and.9d5d8e61/README.md) `ft.lk`
 
