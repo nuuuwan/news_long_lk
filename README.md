@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-29 06:35:11**
+Last Updated **2026-03-29 18:24:54**
+
+## 2026-03-29
+
+* [Escalation of US -Iran War:  How  Iran is Strategically Important to the USA and why  President Trump Wants to Gain Control of the Strait of Hormuz.](data/articles/escalation-of-us-iran-wa.1afd91c7/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-28
 
