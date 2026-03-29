@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-28 18:24:16**
+Last Updated **2026-03-29 06:35:11**
 
 ## 2026-03-28
 
@@ -16,6 +16,7 @@ Last Updated **2026-03-28 18:24:16**
 * [The petrodollar system: Architecture, power, and emerging fault lines of de-dollarisation](data/articles/the-petrodollar-system-a.863bc544/README.md) `ft.lk`
 * [The JR I disliked — A review of courage, candour and historical balance](data/articles/the-jr-i-disliked-a-revi.85ac0a5c/README.md) `ft.lk`
 * [Narratives, security, and social cohesion: Rethinking the discourse on Islamic ideologies in Sri Lanka](data/articles/narratives-security-and.9d5d8e61/README.md) `ft.lk`
+* [Here’s why some people choose cryonics to store their bodies and brains after death](data/articles/here-s-why-some-people-c.fdd36f4a/README.md) `technologyreview.com`
 
 ## 2026-03-26
 
