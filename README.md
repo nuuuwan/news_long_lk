@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-30 06:35:34**
+Last Updated **2026-03-30 18:25:33**
 
 ## 2026-03-30
 
@@ -11,9 +11,12 @@ Last Updated **2026-03-30 06:35:34**
 * [Happiness strategy for competitive advantage](data/articles/happiness-strategy-for-c.6cbecc9f/README.md) `ft.lk`
 * [Why Sri Lanka must act now on chemical safety in everyday products](data/articles/why-sri-lanka-must-act-n.cc4706ba/README.md) `ft.lk`
 * [The guardian at the gate: The Supreme Court’s real power over tax laws](data/articles/the-guardian-at-the-gate.be28bd6d/README.md) `ft.lk`
+* [Why didn’t competition bring down fuel prices?](data/articles/why-didn-t-competition-b.618b3195/README.md) `ft.lk`
 
 ## 2026-03-29
 
+* [Kumara  Jayakody Indicted  Over  Alleged  Corruption Charges but Why is President  Anura  Kumara  Dissanayake not taking Action Against his  Energy Minister?](data/articles/kumara-jayakody-indicted.d5d4a2b6/README.md) `dbsjeyaraj.com`
+* [Coal for Norachcholay Plant From Indian Supplier Trident Chemiphar: Questions Raised  in power and energy circles about whose interests the  government is protecting?](data/articles/coal-for-norachcholay-pl.ef3e9bb3/README.md) `dbsjeyaraj.com`
 * [Escalation of US -Iran War:  How  Iran is Strategically Important to the USA and why  President Trump Wants to Gain Control of the Strait of Hormuz.](data/articles/escalation-of-us-iran-wa.1afd91c7/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-28
