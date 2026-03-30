@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-29 18:24:54**
+Last Updated **2026-03-30 06:35:34**
+
+## 2026-03-30
+
+* [Tissa Jayawardena’s newest book on rebirth: Foundation for future research](data/articles/tissa-jayawardena-s-newe.ed22208e/README.md) `ft.lk`
+* [New VAT tax invoice format  mandatory from 1 April 2026](data/articles/new-vat-tax-invoice-form.27a1e9bd/README.md) `ft.lk`
+* [Happiness strategy for competitive advantage](data/articles/happiness-strategy-for-c.6cbecc9f/README.md) `ft.lk`
+* [Why Sri Lanka must act now on chemical safety in everyday products](data/articles/why-sri-lanka-must-act-n.cc4706ba/README.md) `ft.lk`
+* [The guardian at the gate: The Supreme Court’s real power over tax laws](data/articles/the-guardian-at-the-gate.be28bd6d/README.md) `ft.lk`
 
 ## 2026-03-29
 
