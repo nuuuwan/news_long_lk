@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-30 18:25:33**
+Last Updated **2026-03-31 06:33:03**
+
+## 2026-03-31
+
+* [Sri Lanka’s quiet justice revolution](data/articles/sri-lanka-s-quiet-justic.c64be592/README.md) `ft.lk`
+* [Hidden truth of Sri Lanka’s debt story: The untold narrative](data/articles/hidden-truth-of-sri-lank.d6f99ff7/README.md) `ft.lk`
+* [A distant war, a direct shock: What the Middle East crisis means for Sri Lanka](data/articles/a-distant-war-a-direct-s.d066b820/README.md) `ft.lk`
+* [Sri Lanka should be vindicated  for removing LNG from energy mix](data/articles/sri-lanka-should-be-vind.07d27b09/README.md) `ft.lk`
+* [Navigating Sri Lanka’s new VAT refund framework: Key compliance insights](data/articles/navigating-sri-lanka-s-n.73c50679/README.md) `ft.lk`
 
 ## 2026-03-30
 
+* [There are more AI health tools than ever—but how well do they work?](data/articles/there-are-more-ai-health.41029fc7/README.md) `technologyreview.com`
 * [Tissa Jayawardena’s newest book on rebirth: Foundation for future research](data/articles/tissa-jayawardena-s-newe.ed22208e/README.md) `ft.lk`
 * [New VAT tax invoice format  mandatory from 1 April 2026](data/articles/new-vat-tax-invoice-form.27a1e9bd/README.md) `ft.lk`
 * [Happiness strategy for competitive advantage](data/articles/happiness-strategy-for-c.6cbecc9f/README.md) `ft.lk`
@@ -40,6 +49,7 @@ Last Updated **2026-03-30 18:25:33**
 * [Preventable global conflict, targeting China, Lanka’s vulnerability and leadership deficit](data/articles/preventable-global-confl.2b94b2aa/README.md) `ft.lk`
 * [Food insecurity is the ‘hidden devil’ of global conflicts: The case of urea](data/articles/food-insecurity-is-the-h.41ed943c/README.md) `ft.lk`
 * [Are high gas prices good news for EVs? It’s complicated.](data/articles/are-high-gas-prices-good.9de0ac1c/README.md) `technologyreview.com`
+* [The snow gods: How a couple of ski bums built the internet’s best weather app](data/articles/the-snow-gods-how-a-coup.1a67c37c/README.md) `technologyreview.com`
 * [Can Hambantota International Port unlock Mattala’s strategic potential?](data/articles/can-hambantota-internati.6720abe4/README.md) `ft.lk`
 * [Can Sri Lanka’s 5G revolution reach the 80% left behind?](data/articles/can-sri-lanka-s-5g-revol.8ea79b7b/README.md) `ft.lk`
 * [Increasing national productivity is futile when citizenry bucks the system and refuses to save itself](data/articles/increasing-national-prod.7f1001b5/README.md) `ft.lk`
