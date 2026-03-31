@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-31 06:33:03**
+Last Updated **2026-03-31 18:26:00**
 
 ## 2026-03-31
 
+* [AI benchmarks are broken. Here’s what we need instead.](data/articles/ai-benchmarks-are-broken.72ab2e10/README.md) `technologyreview.com`
 * [Sri Lanka’s quiet justice revolution](data/articles/sri-lanka-s-quiet-justic.c64be592/README.md) `ft.lk`
 * [Hidden truth of Sri Lanka’s debt story: The untold narrative](data/articles/hidden-truth-of-sri-lank.d6f99ff7/README.md) `ft.lk`
 * [A distant war, a direct shock: What the Middle East crisis means for Sri Lanka](data/articles/a-distant-war-a-direct-s.d066b820/README.md) `ft.lk`
 * [Sri Lanka should be vindicated  for removing LNG from energy mix](data/articles/sri-lanka-should-be-vind.07d27b09/README.md) `ft.lk`
 * [Navigating Sri Lanka’s new VAT refund framework: Key compliance insights](data/articles/navigating-sri-lanka-s-n.73c50679/README.md) `ft.lk`
+* [விஜயின் யாழ்ப்பாணத்தைச் சேர்ந்த  மனைவி சங்கீதா விவாகரத்து கோரும் நிலையில் விஜய் தலைமையிலான தமிழக வெற்றிக் கழகம் தனியாக தேர்தலுக்கு முகங்கொடுக்கிறது](data/articles/வ-ஜய-ன-ய-ழ-ப-ப-ணத-த-ச-ச.725cf4ca/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-30
 
