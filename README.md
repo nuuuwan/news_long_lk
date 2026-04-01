@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-01 06:39:00**
+Last Updated **2026-04-01 18:25:36**
 
 ## 2026-04-01
 
+* [The gig workers who are training humanoid robots at home](data/articles/the-gig-workers-who-are.afbb3709/README.md) `technologyreview.com`
+* [When culture becomes capital](data/articles/when-culture-becomes-cap.1f258359/README.md) `ft.lk`
+* [Prudence and swiftness, the path forward for Arab countries](data/articles/prudence-and-swiftness-t.db24c967/README.md) `ft.lk`
+* [What is needed to liberate Al Quds](data/articles/what-is-needed-to-libera.ab9ce3ed/README.md) `ft.lk`
 * [When the grass suffers](data/articles/when-the-grass-suffers.e03be915/README.md) `ft.lk`
 * [Energy independence no longer optional; it is foundation of economic stability](data/articles/energy-independence-no-l.1649460d/README.md) `ft.lk`
 
