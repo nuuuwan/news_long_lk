@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-03-31 18:26:00**
+Last Updated **2026-04-01 06:39:00**
+
+## 2026-04-01
+
+* [When the grass suffers](data/articles/when-the-grass-suffers.e03be915/README.md) `ft.lk`
+* [Energy independence no longer optional; it is foundation of economic stability](data/articles/energy-independence-no-l.1649460d/README.md) `ft.lk`
 
 ## 2026-03-31
 
@@ -40,6 +45,7 @@ Last Updated **2026-03-31 18:26:00**
 ## 2026-03-27
 
 * [The petrodollar system: Architecture, power, and emerging fault lines of de-dollarisation](data/articles/the-petrodollar-system-a.863bc544/README.md) `ft.lk`
+* [Four Trends in AI Experimentation, Adoption, and Transformation](data/articles/four-trends-in-ai-experi.db6b18d3/README.md) `hbr.org`
 * [The JR I disliked — A review of courage, candour and historical balance](data/articles/the-jr-i-disliked-a-revi.85ac0a5c/README.md) `ft.lk`
 * [Narratives, security, and social cohesion: Rethinking the discourse on Islamic ideologies in Sri Lanka](data/articles/narratives-security-and.9d5d8e61/README.md) `ft.lk`
 * [Here’s why some people choose cryonics to store their bodies and brains after death](data/articles/here-s-why-some-people-c.fdd36f4a/README.md) `technologyreview.com`

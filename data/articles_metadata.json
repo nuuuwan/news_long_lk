@@ -1,5 +1,19 @@
 [
   {
+    "title": "When the grass suffers",
+    "url": "https://www.ft.lk/columns/When-the-grass-suffers/4-790342",
+    "ut": 1775005201.0,
+    "dir_path_unix": "data/articles/when-the-grass-suffers.e03be915",
+    "time_str_formatted": "06:30 AM, Wednesday, April 01, 2026"
+  },
+  {
+    "title": "Energy independence no longer optional; it is foundation of economic stability",
+    "url": "https://www.ft.lk/columns/Energy-independence-no-longer-optional-it-is-foundation-of-economic-stability/4-790341",
+    "ut": 1775004713.0,
+    "dir_path_unix": "data/articles/energy-independence-no-l.1649460d",
+    "time_str_formatted": "06:21 AM, Wednesday, April 01, 2026"
+  },
+  {
     "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
     "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
     "ut": 1774924268.0,
@@ -152,6 +166,13 @@
     "ut": 1774636028.0,
     "dir_path_unix": "data/articles/the-petrodollar-system-a.863bc544",
     "time_str_formatted": "11:57 PM, Friday, March 27, 2026"
+  },
+  {
+    "title": "Four Trends in AI Experimentation, Adoption, and Transformation",
+    "url": "https://hbr.org/sponsored/2026/03/four-trends-in-ai-experimentation-adoption-and-transformation",
+    "ut": 1774622672.0,
+    "dir_path_unix": "data/articles/four-trends-in-ai-experi.db6b18d3",
+    "time_str_formatted": "08:14 PM, Friday, March 27, 2026"
   },
   {
     "title": "The JR I disliked \u2014 A review of courage, candour and historical balance",
