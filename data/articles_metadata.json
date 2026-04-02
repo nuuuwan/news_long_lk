@@ -1,5 +1,47 @@
 [
   {
+    "title": "Fuel prices are soaring. Plastic could be next.",
+    "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+    "ut": 1775089800.0,
+    "dir_path_unix": "data/articles/fuel-prices-are-soaring.9afab4be",
+    "time_str_formatted": "06:00 AM, Thursday, April 02, 2026"
+  },
+  {
+    "title": "Dismantling devolution, paralysing Provincial Councils: A counter-reform package",
+    "url": "https://www.ft.lk/columns/Dismantling-devolution-paralysing-Provincial-Councils-A-counter-reform-package/4-790375",
+    "ut": 1775077818.0,
+    "dir_path_unix": "data/articles/dismantling-devolution-p.c99b34a7",
+    "time_str_formatted": "02:40 AM, Thursday, April 02, 2026"
+  },
+  {
+    "title": "US\u2013Israel war on Iran: Top dog bites the dust as underdog rises",
+    "url": "https://www.ft.lk/columns/USIsrael-war-on-Iran-Top-dog-bites-the-dust-as-underdog-rises/4-790374",
+    "ut": 1775077214.0,
+    "dir_path_unix": "data/articles/us-israel-war-on-iran-to.c668252e",
+    "time_str_formatted": "02:30 AM, Thursday, April 02, 2026"
+  },
+  {
+    "title": "Education in a time of crisis: Lessons from the 2020-2021 period",
+    "url": "https://www.ft.lk/columns/Education-in-a-time-of-crisis-Lessons-from-the-2020-2021-period/4-790373",
+    "ut": 1775076591.0,
+    "dir_path_unix": "data/articles/education-in-a-time-of-c.1985ca8d",
+    "time_str_formatted": "02:19 AM, Thursday, April 02, 2026"
+  },
+  {
+    "title": "From Gulf to Colombo: Economic ripple effects of Middle East war",
+    "url": "https://www.ft.lk/columns/From-Gulf-to-Colombo-Economic-ripple-effects-of-Middle-East-war/4-790372",
+    "ut": 1775076235.0,
+    "dir_path_unix": "data/articles/from-gulf-to-colombo-eco.1113dddc",
+    "time_str_formatted": "02:13 AM, Thursday, April 02, 2026"
+  },
+  {
+    "title": "Today is International Fact-Checking Day",
+    "url": "https://www.ft.lk/opinion/Today-is-International-Fact-Checking-Day/14-790371",
+    "ut": 1775076110.0,
+    "dir_path_unix": "data/articles/today-is-international-f.60bd95d2",
+    "time_str_formatted": "02:11 AM, Thursday, April 02, 2026"
+  },
+  {
     "title": "The gig workers who are training humanoid robots at home",
     "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
     "ut": 1775007000.0,
@@ -40,6 +82,13 @@
     "ut": 1775004713.0,
     "dir_path_unix": "data/articles/energy-independence-no-l.1649460d",
     "time_str_formatted": "06:21 AM, Wednesday, April 01, 2026"
+  },
+  {
+    "title": "The  spectre of stagflation, that dreaded combination of low growth and high inflation, is clearly visible over the economic horizon.",
+    "url": "https://dbsjeyaraj.com/dbsj/?p=87600",
+    "ut": 1774985070.0,
+    "dir_path_unix": "data/articles/the-spectre-of-stagflati.5d20d517",
+    "time_str_formatted": "12:54 AM, Wednesday, April 01, 2026"
   },
   {
     "title": "AI benchmarks are broken. Here\u2019s what we need instead.",
@@ -96,6 +145,13 @@
     "ut": 1774852200.0,
     "dir_path_unix": "data/articles/there-are-more-ai-health.41029fc7",
     "time_str_formatted": "12:00 PM, Monday, March 30, 2026"
+  },
+  {
+    "title": "Inside the stealthy startup that pitched brainless human clones",
+    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+    "ut": 1774827000.0,
+    "dir_path_unix": "data/articles/inside-the-stealthy-star.c6ab5b9d",
+    "time_str_formatted": "05:00 AM, Monday, March 30, 2026"
   },
   {
     "title": "Tissa Jayawardena\u2019s newest book on rebirth: Foundation for future research",

@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-01 18:25:36**
+Last Updated **2026-04-02 18:26:08**
+
+## 2026-04-02
+
+* [Fuel prices are soaring. Plastic could be next.](data/articles/fuel-prices-are-soaring.9afab4be/README.md) `technologyreview.com`
+* [Dismantling devolution, paralysing Provincial Councils: A counter-reform package](data/articles/dismantling-devolution-p.c99b34a7/README.md) `ft.lk`
+* [US–Israel war on Iran: Top dog bites the dust as underdog rises](data/articles/us-israel-war-on-iran-to.c668252e/README.md) `ft.lk`
+* [Education in a time of crisis: Lessons from the 2020-2021 period](data/articles/education-in-a-time-of-c.1985ca8d/README.md) `ft.lk`
+* [From Gulf to Colombo: Economic ripple effects of Middle East war](data/articles/from-gulf-to-colombo-eco.1113dddc/README.md) `ft.lk`
+* [Today is International Fact-Checking Day](data/articles/today-is-international-f.60bd95d2/README.md) `ft.lk`
 
 ## 2026-04-01
 
@@ -12,6 +21,7 @@ Last Updated **2026-04-01 18:25:36**
 * [What is needed to liberate Al Quds](data/articles/what-is-needed-to-libera.ab9ce3ed/README.md) `ft.lk`
 * [When the grass suffers](data/articles/when-the-grass-suffers.e03be915/README.md) `ft.lk`
 * [Energy independence no longer optional; it is foundation of economic stability](data/articles/energy-independence-no-l.1649460d/README.md) `ft.lk`
+* [The  spectre of stagflation, that dreaded combination of low growth and high inflation, is clearly visible over the economic horizon.](data/articles/the-spectre-of-stagflati.5d20d517/README.md) `dbsjeyaraj.com`
 
 ## 2026-03-31
 
@@ -26,6 +36,7 @@ Last Updated **2026-04-01 18:25:36**
 ## 2026-03-30
 
 * [There are more AI health tools than ever—but how well do they work?](data/articles/there-are-more-ai-health.41029fc7/README.md) `technologyreview.com`
+* [Inside the stealthy startup that pitched brainless human clones](data/articles/inside-the-stealthy-star.c6ab5b9d/README.md) `technologyreview.com`
 * [Tissa Jayawardena’s newest book on rebirth: Foundation for future research](data/articles/tissa-jayawardena-s-newe.ed22208e/README.md) `ft.lk`
 * [New VAT tax invoice format  mandatory from 1 April 2026](data/articles/new-vat-tax-invoice-form.27a1e9bd/README.md) `ft.lk`
 * [Happiness strategy for competitive advantage](data/articles/happiness-strategy-for-c.6cbecc9f/README.md) `ft.lk`
