@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-03 06:32:20**
+Last Updated **2026-04-03 18:25:22**
+
+## 2026-04-03
+
+* [Sri Lanka’s rising heat:  Is El Niño the real cause?](data/articles/sri-lanka-s-rising-heat.47b3fb9b/README.md) `ft.lk`
+* [Facing the four horsemen of a modern ‘Apocalypse’ today](data/articles/facing-the-four-horsemen.89429761/README.md) `ft.lk`
+* [Emperor’s ‘Epic Fury’: The cycle of debt, war, and imperial decline](data/articles/emperor-s-epic-fury-the.d1576793/README.md) `ft.lk`
+* [Sri Lanka’s energy crisis: A culmination of past actions](data/articles/sri-lanka-s-energy-crisi.874fff1d/README.md) `ft.lk`
+* [India as partner, not patron](data/articles/india-as-partner-not-pat.f61b3bd5/README.md) `ft.lk`
 
 ## 2026-04-02
 
