@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-03 18:25:22**
+Last Updated **2026-04-04 06:28:46**
 
 ## 2026-04-03
 
@@ -44,6 +44,7 @@ Last Updated **2026-04-03 18:25:22**
 ## 2026-03-30
 
 * [There are more AI health tools than ever—but how well do they work?](data/articles/there-are-more-ai-health.41029fc7/README.md) `technologyreview.com`
+* [The Pentagon’s culture war tactic against Anthropic has backfired](data/articles/the-pentagon-s-culture-w.093ef951/README.md) `technologyreview.com`
 * [Inside the stealthy startup that pitched brainless human clones](data/articles/inside-the-stealthy-star.c6ab5b9d/README.md) `technologyreview.com`
 * [Tissa Jayawardena’s newest book on rebirth: Foundation for future research](data/articles/tissa-jayawardena-s-newe.ed22208e/README.md) `ft.lk`
 * [New VAT tax invoice format  mandatory from 1 April 2026](data/articles/new-vat-tax-invoice-form.27a1e9bd/README.md) `ft.lk`
