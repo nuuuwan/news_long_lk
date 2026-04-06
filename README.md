@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-05 18:24:18**
+Last Updated **2026-04-06 06:35:07**
+
+## 2026-04-06
+
+* [External economic shocks  and challenge of policymakers](data/articles/external-economic-shocks.a5080704/README.md) `ft.lk`
+* [Post-Easter Sri Lanka: Between memory, narrative, and national security](data/articles/post-easter-sri-lanka-be.01cf6a30/README.md) `ft.lk`
+* [The Ghost in the Gazette](data/articles/the-ghost-in-the-gazette.f7a2b32a/README.md) `ft.lk`
+* [Rethinking SL’s development through happiness, youth wellbeing and resilience](data/articles/rethinking-sl-s-developm.6be2e2e0/README.md) `ft.lk`
+* [The endeavours of enlightened leaders:  Tested in turbulent times](data/articles/the-endeavours-of-enligh.318d3ed6/README.md) `ft.lk`
 
 ## 2026-04-03
 
