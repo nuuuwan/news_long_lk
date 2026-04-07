@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-06 06:35:07**
+Last Updated **2026-04-07 06:33:12**
 
 ## 2026-04-06
 
+* [Inland Revenue Bill 2026 challenge before Supreme Court](data/articles/inland-revenue-bill-2026.404f50db/README.md) `ft.lk`
+* [Fixing Sri Lanka’s innovation problem: Start with the right problems](data/articles/fixing-sri-lanka-s-innov.e84685f8/README.md) `ft.lk`
+* [Rational responses to supply constraints in energy](data/articles/rational-responses-to-su.bfeec565/README.md) `ft.lk`
+* [Burden-sharing or burden-shifting? The Gulf and the cost of war](data/articles/burden-sharing-or-burden.062e44fb/README.md) `ft.lk`
+* [Roads, traffic police and commuters: Is SL heading towards a traffic crisis?](data/articles/roads-traffic-police-and.85c2a4ab/README.md) `ft.lk`
+* [The one piece of data that could actually shed light on your job and AI](data/articles/the-one-piece-of-data-th.a87d10ba/README.md) `technologyreview.com`
 * [External economic shocks  and challenge of policymakers](data/articles/external-economic-shocks.a5080704/README.md) `ft.lk`
 * [Post-Easter Sri Lanka: Between memory, narrative, and national security](data/articles/post-easter-sri-lanka-be.01cf6a30/README.md) `ft.lk`
 * [The Ghost in the Gazette](data/articles/the-ghost-in-the-gazette.f7a2b32a/README.md) `ft.lk`
