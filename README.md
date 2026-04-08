@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-07 18:25:55**
+Last Updated **2026-04-08 18:25:29**
+
+## 2026-04-08
+
+* [Together for health; stand with science](data/articles/together-for-health-stan.f6c9e669/README.md) `ft.lk`
+* [The Meethotamulla judgment and what it really means: community voices from 2018](data/articles/the-meethotamulla-judgme.3f17678e/README.md) `ft.lk`
+* [When ownership isn’t ownership: How special land regimes undermine property rights](data/articles/when-ownership-isn-t-own.6b3e6056/README.md) `ft.lk`
+* [Smoke, sulphur, and squandered opportunity](data/articles/smoke-sulphur-and-squand.4cbe6824/README.md) `ft.lk`
+* [Guardians of financial integrity: The untold misery of audit trainees](data/articles/guardians-of-financial-i.d6c88da2/README.md) `ft.lk`
 
 ## 2026-04-06
 
