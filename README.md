@@ -2,12 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-10 06:33:11**
+Last Updated **2026-04-10 18:26:18**
 
 ## 2026-04-10
 
+* [Notifiable data breaches:  How banks, regulators  and Central Bank all forgot to catch the ball](data/articles/notifiable-data-breaches.2669f918/README.md) `ft.lk`
+* [Future-proofing Sri Lanka’s banking sector: Building resilience against shocks](data/articles/future-proofing-sri-lank.9e643da2/README.md) `ft.lk`
+* [Cracks in the citadel: NDB fraud and banking sector’s crisis of confidence](data/articles/cracks-in-the-citadel-nd.9bb9d594/README.md) `ft.lk`
 * [My ‘Big’ question?](data/articles/my-big-question.9fb1822e/README.md) `ft.lk`
 * [‘IMF remains steadfast partner to help SL achieve lasting prosperity for all’](data/articles/imf-remains-steadfast-p.1410c5c0/README.md) `ft.lk`
+* [Constellations](data/articles/constellations.e3e78db8/README.md) `technologyreview.com`
 
 ## 2026-04-09
 
@@ -175,6 +179,7 @@ Last Updated **2026-04-10 06:33:11**
 * [Lost opportunities and cost of mistakes](data/articles/lost-opportunities-and-c.62d5ca39/README.md) `ft.lk`
 * [Faiszer Musthapha urges Sri Lanka to seize opportunity amid global instability](data/articles/faiszer-musthapha-urges.72c115d6/README.md) `ft.lk`
 * [Ambassador Lambert highlights France’s position on current international developments](data/articles/ambassador-lambert-highl.a762f346/README.md) `ft.lk`
+* [OpenAI is throwing everything into building a fully automated researcher](data/articles/openai-is-throwing-every.c2dfb4a4/README.md) `technologyreview.com`
 * [One year on: Progress, persistent gaps, and absence of governance action plan](data/articles/one-year-on-progress-per.1ee6cc37/README.md) `ft.lk`
 * [Fuel price shock does not have to be passed on fully  to consumers: Why and how?](data/articles/fuel-price-shock-does-no.fd23a2bf/README.md) `ft.lk`
 * [Access, not demand will decide Sri Lanka tourism’s future](data/articles/access-not-demand-will-d.b7854064/README.md) `ft.lk`

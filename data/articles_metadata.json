@@ -1,5 +1,26 @@
 [
   {
+    "title": "Notifiable data breaches:  How banks, regulators  and Central Bank all forgot to catch the ball",
+    "url": "https://www.ft.lk/columns/Notifiable-data-breaches-How-banks-regulators-and-Central-Bank-all-forgot-to-catch-the-ball/4-790724",
+    "ut": 1775786479.0,
+    "dir_path_unix": "data/articles/notifiable-data-breaches.2669f918",
+    "time_str_formatted": "07:31 AM, Friday, April 10, 2026"
+  },
+  {
+    "title": "Future-proofing Sri Lanka\u2019s banking sector: Building resilience against shocks",
+    "url": "https://www.ft.lk/columns/Future-proofing-Sri-Lanka-s-banking-sector-Building-resilience-against-shocks/4-790722",
+    "ut": 1775783064.0,
+    "dir_path_unix": "data/articles/future-proofing-sri-lank.9e643da2",
+    "time_str_formatted": "06:34 AM, Friday, April 10, 2026"
+  },
+  {
+    "title": "Cracks in the citadel: NDB fraud and banking sector\u2019s crisis of confidence",
+    "url": "https://www.ft.lk/columns/Cracks-in-the-citadel-NDB-fraud-and-banking-sector-s-crisis-of-confidence/4-790721",
+    "ut": 1775782862.0,
+    "dir_path_unix": "data/articles/cracks-in-the-citadel-nd.9bb9d594",
+    "time_str_formatted": "06:31 AM, Friday, April 10, 2026"
+  },
+  {
     "title": "My \u2018Big\u2019 question?",
     "url": "https://www.ft.lk/columns/My-Big-question/4-790720",
     "ut": 1775782717.0,
@@ -12,6 +33,13 @@
     "ut": 1775782398.0,
     "dir_path_unix": "data/articles/imf-remains-steadfast-p.1410c5c0",
     "time_str_formatted": "06:23 AM, Friday, April 10, 2026"
+  },
+  {
+    "title": "Constellations",
+    "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+    "ut": 1775781000.0,
+    "dir_path_unix": "data/articles/constellations.e3e78db8",
+    "time_str_formatted": "06:00 AM, Friday, April 10, 2026"
   },
   {
     "title": "Armageddon eclipsed \u2013 Or,  fly me to the moon before the madmen burn it down",
@@ -824,6 +852,13 @@
     "ut": 1774028253.0,
     "dir_path_unix": "data/articles/ambassador-lambert-highl.a762f346",
     "time_str_formatted": "11:07 PM, Friday, March 20, 2026"
+  },
+  {
+    "title": "OpenAI is throwing everything into building a fully automated researcher",
+    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+    "ut": 1773973636.0,
+    "dir_path_unix": "data/articles/openai-is-throwing-every.c2dfb4a4",
+    "time_str_formatted": "07:57 AM, Friday, March 20, 2026"
   },
   {
     "title": "One year on: Progress, persistent gaps, and absence of governance action plan",
