@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-10 18:26:18**
+Last Updated **2026-04-11 06:30:42**
+
+## 2026-04-11
+
+* [US-Israel war and panicking Gulf regimes](data/articles/us-israel-war-and-panick.db3519db/README.md) `ft.lk`
+* [Towards an ‘aluth’ (new) national identity in 2026](data/articles/towards-an-aluth-new-nat.225976ce/README.md) `ft.lk`
+* [Two ceasefires, one crisis: The dangerous gap between Washington and Tehran](data/articles/two-ceasefires-one-crisi.8c33eea7/README.md) `ft.lk`
+* [Oil, power, economy and stability: Strait of Hormuz and did global community neglect vitality](data/articles/oil-power-economy-and-st.91f95452/README.md) `ft.lk`
 
 ## 2026-04-10
 
+* [What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma](data/articles/what-s-in-a-name-moderna.9067ba49/README.md) `technologyreview.com`
 * [Notifiable data breaches:  How banks, regulators  and Central Bank all forgot to catch the ball](data/articles/notifiable-data-breaches.2669f918/README.md) `ft.lk`
 * [Future-proofing Sri Lanka’s banking sector: Building resilience against shocks](data/articles/future-proofing-sri-lank.9e643da2/README.md) `ft.lk`
 * [Cracks in the citadel: NDB fraud and banking sector’s crisis of confidence](data/articles/cracks-in-the-citadel-nd.9bb9d594/README.md) `ft.lk`
@@ -32,6 +40,10 @@ Last Updated **2026-04-10 18:26:18**
 * [When ownership isn’t ownership: How special land regimes undermine property rights](data/articles/when-ownership-isn-t-own.6b3e6056/README.md) `ft.lk`
 * [Smoke, sulphur, and squandered opportunity](data/articles/smoke-sulphur-and-squand.4cbe6824/README.md) `ft.lk`
 * [Guardians of financial integrity: The untold misery of audit trainees](data/articles/guardians-of-financial-i.d6c88da2/README.md) `ft.lk`
+
+## 2026-04-07
+
+* [Desalination plants in the Middle East are increasingly vulnerable](data/articles/desalination-plants-in-t.71bac24d/README.md) `technologyreview.com`
 
 ## 2026-04-06
 
