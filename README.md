@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-13 06:39:04**
+Last Updated **2026-04-13 18:26:14**
+
+## 2026-04-13
+
+* [You have no choice in reading this article—maybe](data/articles/you-have-no-choice-in-re.8646a0bd/README.md) `technologyreview.com`
 
 ## 2026-04-11
 
@@ -30,6 +34,7 @@ Last Updated **2026-04-13 06:39:04**
 * [Beyond recovery: Reassessing flood risk governance in Sri Lanka](data/articles/beyond-recovery-reassess.98348dc1/README.md) `ft.lk`
 * [Epstein, Bank of America, JPMorgan, and Deutsche:](data/articles/epstein-bank-of-america.a0f1033a/README.md) `ft.lk`
 * [Desalination technology, by the numbers](data/articles/desalination-technology.7c3b4f90/README.md) `technologyreview.com`
+* [Is fake grass a bad idea? The AstroTurf wars are far from over.](data/articles/is-fake-grass-a-bad-idea.50a626fa/README.md) `technologyreview.com`
 
 ## 2026-04-08
 
