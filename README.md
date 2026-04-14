@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-13 18:26:14**
+Last Updated **2026-04-14 06:38:09**
 
 ## 2026-04-13
 
+* [Why opinion on AI is so divided](data/articles/why-opinion-on-ai-is-so.444cfbde/README.md) `technologyreview.com`
 * [You have no choice in reading this article—maybe](data/articles/you-have-no-choice-in-re.8646a0bd/README.md) `technologyreview.com`
 
 ## 2026-04-11
