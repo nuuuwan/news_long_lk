@@ -2,11 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-14 06:38:09**
+Last Updated **2026-04-14 18:28:15**
+
+## 2026-04-14
+
+* [Coming soon: 10 Things That Matter in AI Right Now](data/articles/coming-soon-10-things-th.9d31d8ec/README.md) `technologyreview.com`
 
 ## 2026-04-13
 
 * [Why opinion on AI is so divided](data/articles/why-opinion-on-ai-is-so.444cfbde/README.md) `technologyreview.com`
+* [Job titles of the future: Wildlife first responder](data/articles/job-titles-of-the-future.48766101/README.md) `technologyreview.com`
 * [You have no choice in reading this article—maybe](data/articles/you-have-no-choice-in-re.8646a0bd/README.md) `technologyreview.com`
 
 ## 2026-04-11
