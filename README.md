@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-15 06:38:29**
+Last Updated **2026-04-15 18:28:34**
+
+## 2026-04-15
+
+* [Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram](data/articles/cyberscammers-are-bypass.48e8499b/README.md) `technologyreview.com`
 
 ## 2026-04-14
 
@@ -11,6 +15,7 @@ Last Updated **2026-04-15 06:38:29**
 ## 2026-04-13
 
 * [Why opinion on AI is so divided](data/articles/why-opinion-on-ai-is-so.444cfbde/README.md) `technologyreview.com`
+* [Want to understand the current state of AI? Check out these charts.](data/articles/want-to-understand-the-c.384794bf/README.md) `technologyreview.com`
 * [Job titles of the future: Wildlife first responder](data/articles/job-titles-of-the-future.48766101/README.md) `technologyreview.com`
 * [You have no choice in reading this article—maybe](data/articles/you-have-no-choice-in-re.8646a0bd/README.md) `technologyreview.com`
 
