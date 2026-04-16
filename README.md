@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-15 18:28:34**
+Last Updated **2026-04-16 06:40:03**
 
 ## 2026-04-15
 
 * [Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram](data/articles/cyberscammers-are-bypass.48e8499b/README.md) `technologyreview.com`
+* [No one’s sure if synthetic mirror life will kill us all](data/articles/no-one-s-sure-if-synthet.5aee0099/README.md) `technologyreview.com`
 
 ## 2026-04-14
 
+* [Tapping Talent from a Skilled Labor Pool That Supports Global Ambitions](data/articles/tapping-talent-from-a-sk.b693b0b9/README.md) `hbr.org`
 * [Coming soon: 10 Things That Matter in AI Right Now](data/articles/coming-soon-10-things-th.9d31d8ec/README.md) `technologyreview.com`
 
 ## 2026-04-13
