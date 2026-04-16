@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-16 06:40:03**
+Last Updated **2026-04-16 18:26:33**
+
+## 2026-04-16
+
+* [Why having “humans in the loop” in an AI war is an illusion](data/articles/why-having-humans-in-the.2e78f094/README.md) `technologyreview.com`
 
 ## 2026-04-15
 
@@ -12,6 +16,7 @@ Last Updated **2026-04-16 06:40:03**
 ## 2026-04-14
 
 * [Tapping Talent from a Skilled Labor Pool That Supports Global Ambitions](data/articles/tapping-talent-from-a-sk.b693b0b9/README.md) `hbr.org`
+* [NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?](data/articles/nasa-is-building-the-fir.a859eeda/README.md) `technologyreview.com`
 * [Coming soon: 10 Things That Matter in AI Right Now](data/articles/coming-soon-10-things-th.9d31d8ec/README.md) `technologyreview.com`
 
 ## 2026-04-13
