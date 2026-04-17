@@ -1,10 +1,24 @@
 [
   {
+    "title": "The case for fixing everything",
+    "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+    "ut": 1776385800.0,
+    "dir_path_unix": "data/articles/the-case-for-fixing-ever.538b46a4",
+    "time_str_formatted": "06:00 AM, Friday, April 17, 2026"
+  },
+  {
     "title": "Why having \u201chumans in the loop\u201d in an AI war is an illusion",
     "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
     "ut": 1776306600.0,
     "dir_path_unix": "data/articles/why-having-humans-in-the.2e78f094",
     "time_str_formatted": "08:00 AM, Thursday, April 16, 2026"
+  },
+  {
+    "title": "Is carbon removal in trouble?",
+    "url": "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
+    "ut": 1776299400.0,
+    "dir_path_unix": "data/articles/is-carbon-removal-in-tro.a7f1d533",
+    "time_str_formatted": "06:00 AM, Thursday, April 16, 2026"
   },
   {
     "title": "Cyberscammers are bypassing banks\u2019 security with illicit tools sold on Telegram",

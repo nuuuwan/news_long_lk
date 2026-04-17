@@ -2,11 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-17 06:38:23**
+Last Updated **2026-04-17 18:30:15**
+
+## 2026-04-17
+
+* [The case for fixing everything](data/articles/the-case-for-fixing-ever.538b46a4/README.md) `technologyreview.com`
 
 ## 2026-04-16
 
 * [Why having “humans in the loop” in an AI war is an illusion](data/articles/why-having-humans-in-the.2e78f094/README.md) `technologyreview.com`
+* [Is carbon removal in trouble?](data/articles/is-carbon-removal-in-tro.a7f1d533/README.md) `technologyreview.com`
 
 ## 2026-04-15
 
