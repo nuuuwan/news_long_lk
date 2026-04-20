@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-20 06:39:26**
+Last Updated **2026-04-20 18:27:06**
 
 ## 2026-04-20
 
+* [Colossal Biosciences said it cloned red wolves. Is it for real?](data/articles/colossal-biosciences-sai.33700008/README.md) `technologyreview.com`
 * [Philip Gunawardena and his positive mindset: Speeches in the last lap of Parliament](data/articles/philip-gunawardena-and-h.57679d4a/README.md) `ft.lk`
 * [End of corporate shadows: Mandatory Beneficial Ownership disclosure begins](data/articles/end-of-corporate-shadows.4d11b9b2/README.md) `ft.lk`
 * [Sri Lanka’s banking sector: When narrative strength outpaces operational truth](data/articles/sri-lanka-s-banking-sect.467b42a7/README.md) `ft.lk`
@@ -20,6 +21,7 @@ Last Updated **2026-04-20 06:39:26**
 
 * [Why having “humans in the loop” in an AI war is an illusion](data/articles/why-having-humans-in-the.2e78f094/README.md) `technologyreview.com`
 * [Is carbon removal in trouble?](data/articles/is-carbon-removal-in-tro.a7f1d533/README.md) `technologyreview.com`
+* [The quest to measure our relationship with nature](data/articles/the-quest-to-measure-our.7b198a47/README.md) `technologyreview.com`
 
 ## 2026-04-15
 
