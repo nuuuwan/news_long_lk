@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-19 18:25:10**
+Last Updated **2026-04-20 06:39:26**
+
+## 2026-04-20
+
+* [Philip Gunawardena and his positive mindset: Speeches in the last lap of Parliament](data/articles/philip-gunawardena-and-h.57679d4a/README.md) `ft.lk`
+* [End of corporate shadows: Mandatory Beneficial Ownership disclosure begins](data/articles/end-of-corporate-shadows.4d11b9b2/README.md) `ft.lk`
+* [Sri Lanka’s banking sector: When narrative strength outpaces operational truth](data/articles/sri-lanka-s-banking-sect.467b42a7/README.md) `ft.lk`
+* [When systems fail: Data breaches, financial crime, and illusion of regulation](data/articles/when-systems-fail-data-b.e1010e12/README.md) `ft.lk`
+* [Seven deadly sins of Sri Lanka’s dastardly 2019 Easter bombings](data/articles/seven-deadly-sins-of-sri.06512308/README.md) `ft.lk`
 
 ## 2026-04-17
 
