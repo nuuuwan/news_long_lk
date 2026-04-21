@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-20 18:27:06**
+Last Updated **2026-04-21 06:38:36**
+
+## 2026-04-21
+
+* [Preparedness is necessary, opportunism is not](data/articles/preparedness-is-necessar.f9c3d24b/README.md) `ft.lk`
+* [Dr. Mark Mobius: A key figure in history of Sri Lanka’s post-war economic development](data/articles/dr-mark-mobius-a-key-fig.3644b323/README.md) `ft.lk`
+* [Chapter 11: 269 coffins](data/articles/chapter-11-269-coffins.4f319c65/README.md) `ft.lk`
+* [Freedom of navigation in Indian Ocean](data/articles/freedom-of-navigation-in.8bc736f0/README.md) `ft.lk`
+* [American military spending:  A massive investment in the Gulf](data/articles/american-military-spendi.eccf909f/README.md) `ft.lk`
 
 ## 2026-04-20
 
@@ -22,6 +30,7 @@ Last Updated **2026-04-20 18:27:06**
 * [Why having “humans in the loop” in an AI war is an illusion](data/articles/why-having-humans-in-the.2e78f094/README.md) `technologyreview.com`
 * [Is carbon removal in trouble?](data/articles/is-carbon-removal-in-tro.a7f1d533/README.md) `technologyreview.com`
 * [The quest to measure our relationship with nature](data/articles/the-quest-to-measure-our.7b198a47/README.md) `technologyreview.com`
+* [The noise we make is hurting animals. Can we learn to shut up?](data/articles/the-noise-we-make-is-hur.18e2fb7f/README.md) `technologyreview.com`
 
 ## 2026-04-15
 
