@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-21 06:38:36**
+Last Updated **2026-04-21 18:26:19**
 
 ## 2026-04-21
 
+* [Digging for clues about the North Pole’s past](data/articles/digging-for-clues-about.c3606941/README.md) `technologyreview.com`
 * [Preparedness is necessary, opportunism is not](data/articles/preparedness-is-necessar.f9c3d24b/README.md) `ft.lk`
 * [Dr. Mark Mobius: A key figure in history of Sri Lanka’s post-war economic development](data/articles/dr-mark-mobius-a-key-fig.3644b323/README.md) `ft.lk`
 * [Chapter 11: 269 coffins](data/articles/chapter-11-269-coffins.4f319c65/README.md) `ft.lk`
