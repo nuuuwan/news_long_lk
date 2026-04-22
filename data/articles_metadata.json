@@ -49,10 +49,24 @@
     "time_str_formatted": "04:45 PM, Tuesday, April 21, 2026"
   },
   {
+    "title": "Resistance",
+    "url": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
+    "ut": 1776770100.0,
+    "dir_path_unix": "data/articles/resistance.7d46535f",
+    "time_str_formatted": "04:45 PM, Tuesday, April 21, 2026"
+  },
+  {
     "title": "The new war room",
     "url": "https://www.technologyreview.com/2026/04/21/1135667/new-war-room-military-ai-artificial-intelligence/",
     "ut": 1776770100.0,
     "dir_path_unix": "data/articles/the-new-war-room.4ef29c31",
+    "time_str_formatted": "04:45 PM, Tuesday, April 21, 2026"
+  },
+  {
+    "title": "China\u2019s open-source bet",
+    "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
+    "ut": 1776770100.0,
+    "dir_path_unix": "data/articles/china-s-open-source-bet.a555213e",
     "time_str_formatted": "04:45 PM, Tuesday, April 21, 2026"
   },
   {

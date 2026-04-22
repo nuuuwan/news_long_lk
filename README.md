@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-22 06:35:53**
+Last Updated **2026-04-22 18:26:13**
 
 ## 2026-04-22
 
@@ -16,7 +16,9 @@ Last Updated **2026-04-22 06:35:53**
 
 * [Roundtables: Unveiling The 10 Things That Matter in AI Right Now](data/articles/roundtables-unveiling-th.e84c955a/README.md) `technologyreview.com`
 * [Artificial scientists](data/articles/artificial-scientists.a3a48a77/README.md) `technologyreview.com`
+* [Resistance](data/articles/resistance.7d46535f/README.md) `technologyreview.com`
 * [The new war room](data/articles/the-new-war-room.4ef29c31/README.md) `technologyreview.com`
+* [China’s open-source bet](data/articles/china-s-open-source-bet.a555213e/README.md) `technologyreview.com`
 * [Digging for clues about the North Pole’s past](data/articles/digging-for-clues-about.c3606941/README.md) `technologyreview.com`
 * [Preparedness is necessary, opportunism is not](data/articles/preparedness-is-necessar.f9c3d24b/README.md) `ft.lk`
 * [Dr. Mark Mobius: A key figure in history of Sri Lanka’s post-war economic development](data/articles/dr-mark-mobius-a-key-fig.3644b323/README.md) `ft.lk`
