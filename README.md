@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-21 18:26:19**
+Last Updated **2026-04-22 06:35:53**
+
+## 2026-04-22
+
+* [From terrorist iconography to political iconography: Who owns the Easter Sunday narrative?](data/articles/from-terrorist-iconograp.61c35456/README.md) `ft.lk`
+* [Five years have passed, but he’s still remembered](data/articles/five-years-have-passed-b.bae2008d/README.md) `ft.lk`
+* [Symbolic governance and the cost of silence](data/articles/symbolic-governance-and.71e597c5/README.md) `ft.lk`
+* [The financial fraud at NDB Bank](data/articles/the-financial-fraud-at-n.4c5ca185/README.md) `ft.lk`
+* [What ails our sports bodies?](data/articles/what-ails-our-sports-bod.2f8be303/README.md) `ft.lk`
 
 ## 2026-04-21
 
+* [Roundtables: Unveiling The 10 Things That Matter in AI Right Now](data/articles/roundtables-unveiling-th.e84c955a/README.md) `technologyreview.com`
+* [Artificial scientists](data/articles/artificial-scientists.a3a48a77/README.md) `technologyreview.com`
+* [The new war room](data/articles/the-new-war-room.4ef29c31/README.md) `technologyreview.com`
 * [Digging for clues about the North Pole’s past](data/articles/digging-for-clues-about.c3606941/README.md) `technologyreview.com`
 * [Preparedness is necessary, opportunism is not](data/articles/preparedness-is-necessar.f9c3d24b/README.md) `ft.lk`
 * [Dr. Mark Mobius: A key figure in history of Sri Lanka’s post-war economic development](data/articles/dr-mark-mobius-a-key-fig.3644b323/README.md) `ft.lk`
