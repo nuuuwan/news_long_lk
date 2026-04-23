@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-22 18:26:13**
+Last Updated **2026-04-23 06:40:22**
+
+## 2026-04-23
+
+* [Are banks making profits at the cost of the economy?](data/articles/are-banks-making-profits.eec25493/README.md) `ft.lk`
+* [Lessons for financial sector from recent bank fraud](data/articles/lessons-for-financial-se.ee261e5c/README.md) `ft.lk`
+* [Nicotine products: Separating facts from fiction](data/articles/nicotine-products-separa.7b71f481/README.md) `ft.lk`
+* [The ‘Mangala’ signature in my life](data/articles/the-mangala-signature-in.c070242c/README.md) `ft.lk`
+* [Western vortex, Indian incorporation, Anura’s alignment and Sri Lanka’s external relations](data/articles/western-vortex-indian-in.a1b52916/README.md) `ft.lk`
 
 ## 2026-04-22
 
@@ -11,6 +19,7 @@ Last Updated **2026-04-22 18:26:13**
 * [Symbolic governance and the cost of silence](data/articles/symbolic-governance-and.71e597c5/README.md) `ft.lk`
 * [The financial fraud at NDB Bank](data/articles/the-financial-fraud-at-n.4c5ca185/README.md) `ft.lk`
 * [What ails our sports bodies?](data/articles/what-ails-our-sports-bod.2f8be303/README.md) `ft.lk`
+* [Los Angeles is finally going underground](data/articles/los-angeles-is-finally-g.1b8bb1c5/README.md) `technologyreview.com`
 
 ## 2026-04-21
 
