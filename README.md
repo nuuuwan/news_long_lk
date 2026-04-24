@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-24 06:40:43**
+Last Updated **2026-04-24 18:25:55**
 
 ## 2026-04-24
 
+* [Health-care AI is here. We don’t know if it actually helps patients.](data/articles/health-care-ai-is-here-w.e34779fe/README.md) `technologyreview.com`
 * [Why should we protect  Aswasuma and how to improve it ?](data/articles/why-should-we-protect-as.5e346ba8/README.md) `ft.lk`
 * [The good hypocrite!](data/articles/the-good-hypocrite.cad2c52e/README.md) `ft.lk`
 * [Why is it so difficult to invest in Sri Lanka?](data/articles/why-is-it-so-difficult-t.22f1bcfd/README.md) `ft.lk`
