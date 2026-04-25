@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-24 18:25:55**
+Last Updated **2026-04-25 06:34:55**
+
+## 2026-04-25
+
+* [From estates to equity: Reimagining Sri Lanka’s plantation sector](data/articles/from-estates-to-equity-r.3d6083c1/README.md) `ft.lk`
+* [Collapse of the world order and impotence of UN system](data/articles/collapse-of-the-world-or.1330090b/README.md) `ft.lk`
 
 ## 2026-04-24
 
+* [Trumpflation and recession](data/articles/trumpflation-and-recessi.026b72ed/README.md) `ft.lk`
+* [Emerging Asia could face increased food-cost pressures: Fitch](data/articles/emerging-asia-could-face.ae55b818/README.md) `ft.lk`
+* [Three reasons why DeepSeek’s new model matters](data/articles/three-reasons-why-deepse.f01b2e7a/README.md) `technologyreview.com`
 * [Health-care AI is here. We don’t know if it actually helps patients.](data/articles/health-care-ai-is-here-w.e34779fe/README.md) `technologyreview.com`
 * [Why should we protect  Aswasuma and how to improve it ?](data/articles/why-should-we-protect-as.5e346ba8/README.md) `ft.lk`
 * [The good hypocrite!](data/articles/the-good-hypocrite.cad2c52e/README.md) `ft.lk`
@@ -30,6 +38,7 @@ Last Updated **2026-04-24 18:25:55**
 * [Symbolic governance and the cost of silence](data/articles/symbolic-governance-and.71e597c5/README.md) `ft.lk`
 * [The financial fraud at NDB Bank](data/articles/the-financial-fraud-at-n.4c5ca185/README.md) `ft.lk`
 * [What ails our sports bodies?](data/articles/what-ails-our-sports-bod.2f8be303/README.md) `ft.lk`
+* [One town’s scheme to get rid of its geese](data/articles/one-town-s-scheme-to-get.3015e411/README.md) `technologyreview.com`
 * [Los Angeles is finally going underground](data/articles/los-angeles-is-finally-g.1b8bb1c5/README.md) `technologyreview.com`
 
 ## 2026-04-21
