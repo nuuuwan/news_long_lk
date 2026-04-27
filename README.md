@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-26 18:25:05**
+Last Updated **2026-04-27 06:43:27**
+
+## 2026-04-27
+
+* [The World Bank in Sri Lanka: Financing the digital State, ignoring the dangers](data/articles/the-world-bank-in-sri-la.4dba2f8c/README.md) `ft.lk`
+* [Choosing disaster over prevention and mitigation: Wilful blindness or short-sighted idiocy?](data/articles/choosing-disaster-over-p.fc590ab4/README.md) `ft.lk`
+* [Endeavour of humanising technology: Enriching encounters](data/articles/endeavour-of-humanising.7c6aa47b/README.md) `ft.lk`
+* [Beyond automation: Human skills powering finance in the AI era](data/articles/beyond-automation-human.034c1ed3/README.md) `ft.lk`
 
 ## 2026-04-25
 
