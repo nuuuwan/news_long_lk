@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-27 06:43:27**
+Last Updated **2026-04-27 18:37:25**
 
 ## 2026-04-27
 
+* [Mideast war: Can the crisis be turned into an opportunity?](data/articles/mideast-war-can-the-cris.649e4d18/README.md) `ft.lk`
+* [Sri Lanka’s missing Balance Sheet](data/articles/sri-lanka-s-missing-bala.c2077b7f/README.md) `ft.lk`
+* [Energy supplies are crashing: What must Sri Lanka do?](data/articles/energy-supplies-are-cras.e23cd0c3/README.md) `ft.lk`
 * [The World Bank in Sri Lanka: Financing the digital State, ignoring the dangers](data/articles/the-world-bank-in-sri-la.4dba2f8c/README.md) `ft.lk`
 * [Choosing disaster over prevention and mitigation: Wilful blindness or short-sighted idiocy?](data/articles/choosing-disaster-over-p.fc590ab4/README.md) `ft.lk`
 * [Endeavour of humanising technology: Enriching encounters](data/articles/endeavour-of-humanising.7c6aa47b/README.md) `ft.lk`
