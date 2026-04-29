@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-28 18:40:09**
+Last Updated **2026-04-29 06:46:06**
+
+## 2026-04-29
+
+* [The second silent bottleneck](data/articles/the-second-silent-bottle.13480e8d/README.md) `ft.lk`
+* [The peace walk and the dog saint](data/articles/the-peace-walk-and-the-d.cccbf20c/README.md) `ft.lk`
+* [Conclusion of Sama Pada Yathra](data/articles/conclusion-of-sama-pada.445621b4/README.md) `ft.lk`
+* [The mask of State virtue cannot hide the hollow within](data/articles/the-mask-of-state-virtue.564c4afc/README.md) `ft.lk`
+* [Beyond the smokescreen: Integrating transparency into our National Treasury](data/articles/beyond-the-smokescreen-i.e64fde3e/README.md) `ft.lk`
 
 ## 2026-04-28
 
