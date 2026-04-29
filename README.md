@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-29 06:46:06**
+Last Updated **2026-04-29 18:38:46**
 
 ## 2026-04-29
 
@@ -22,6 +22,7 @@ Last Updated **2026-04-29 06:46:06**
 
 ## 2026-04-27
 
+* [Elon Musk and Sam Altman are going to court over OpenAI’s future](data/articles/elon-musk-and-sam-altman.370be149/README.md) `technologyreview.com`
 * [The missing step between hype and profit](data/articles/the-missing-step-between.c4880d92/README.md) `technologyreview.com`
 * [Mideast war: Can the crisis be turned into an opportunity?](data/articles/mideast-war-can-the-cris.649e4d18/README.md) `ft.lk`
 * [Sri Lanka’s missing Balance Sheet](data/articles/sri-lanka-s-missing-bala.c2077b7f/README.md) `ft.lk`
