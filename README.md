@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-29 18:38:46**
+Last Updated **2026-04-30 06:46:08**
+
+## 2026-04-30
+
+* [Open letter to Women and Child Affairs Minister on International Day to End Corporal Punishment](data/articles/open-letter-to-women-and.69ae3012/README.md) `ft.lk`
+* [Revenue leakages at SriLankan Airlines](data/articles/revenue-leakages-at-sril.533251d4/README.md) `ft.lk`
+* [The big risks of being a Bank Non-Executive Chair or Director](data/articles/the-big-risks-of-being-a.b5c811a4/README.md) `ft.lk`
+* [Why do people really pay taxes?](data/articles/why-do-people-really-pay.1f3c0445/README.md) `ft.lk`
+* [Women in Sri Lanka’s Boards: The glass ceiling persists](data/articles/women-in-sri-lanka-s-boa.5c1a627c/README.md) `ft.lk`
 
 ## 2026-04-29
 
