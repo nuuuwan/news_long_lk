@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-30 06:46:08**
+Last Updated **2026-04-30 18:38:01**
 
 ## 2026-04-30
 
+* [May Day mirror 2026: Sajith vs. Anura; SJB vs. JVP-NPP](data/articles/may-day-mirror-2026-saji.1bd1f4d2/README.md) `ft.lk`
 * [Open letter to Women and Child Affairs Minister on International Day to End Corporal Punishment](data/articles/open-letter-to-women-and.69ae3012/README.md) `ft.lk`
 * [Revenue leakages at SriLankan Airlines](data/articles/revenue-leakages-at-sril.533251d4/README.md) `ft.lk`
 * [The big risks of being a Bank Non-Executive Chair or Director](data/articles/the-big-risks-of-being-a.b5c811a4/README.md) `ft.lk`
