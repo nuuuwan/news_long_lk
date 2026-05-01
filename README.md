@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-04-30 18:38:01**
+Last Updated **2026-05-01 06:50:44**
+
+## 2026-05-01
+
+* [Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses](data/articles/joint-opposition-allianc.75ce3491/README.md) `ft.lk`
+* [Cyber-crimes and management weaknesses](data/articles/cyber-crimes-and-managem.41b3a4d5/README.md) `ft.lk`
 
 ## 2026-04-30
 
+* [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](data/articles/exclusive-ebook-inside-t.3d553336/README.md) `technologyreview.com`
 * [May Day mirror 2026: Sajith vs. Anura; SJB vs. JVP-NPP](data/articles/may-day-mirror-2026-saji.1bd1f4d2/README.md) `ft.lk`
 * [Open letter to Women and Child Affairs Minister on International Day to End Corporal Punishment](data/articles/open-letter-to-women-and.69ae3012/README.md) `ft.lk`
 * [Revenue leakages at SriLankan Airlines](data/articles/revenue-leakages-at-sril.533251d4/README.md) `ft.lk`

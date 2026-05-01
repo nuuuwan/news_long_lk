@@ -1,0 +1,10 @@
+# Exclusive eBook: Inside the stealthy startup that pitched brainless human clones
+
+[https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/](https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/)
+
+*02:42 PM, Thursday, April 30, 2026*
+
+This ebook is available only for subscribers.
+
+The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for "brainless clones" to serve the role of backup human bodies. by Antonio Regalado March 20, 2026  ACCESS EBOOK  Related Stories:  Inside the stealthy startup that pitched brainless human clones This researcher wants to replace your brain, little by little Stem-cell therapies that work: 10 Breakthrough Technologies 2025  Access all subscriber-only eBooks:  ACCESS ALL EBOOKS   hide
+
