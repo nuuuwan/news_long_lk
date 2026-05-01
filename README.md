@@ -2,16 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-01 06:50:44**
+Last Updated **2026-05-01 18:25:48**
 
 ## 2026-05-01
 
+* [Sri Lanka - A second bite at the cherry](data/articles/sri-lanka-a-second-bite.ff32eb90/README.md) `ft.lk`
+* [Is it a ‘Mayday!’ for the NPP’s  slow slide into systems failure?](data/articles/is-it-a-mayday-for-the-n.ee195405/README.md) `ft.lk`
+* [Economic vision of Ranasinghe Premadasa: A much felt today](data/articles/economic-vision-of-ranas.c169cd21/README.md) `ft.lk`
+* [Ranasinghe Premadasa: A milestone in turning point of Malayaha Tamils’ lives](data/articles/ranasinghe-premadasa-a-m.e6b59f10/README.md) `ft.lk`
+* [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](data/articles/inexpensive-seafloor-hop.889806c7/README.md) `technologyreview.com`
 * [Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses](data/articles/joint-opposition-allianc.75ce3491/README.md) `ft.lk`
 * [Cyber-crimes and management weaknesses](data/articles/cyber-crimes-and-managem.41b3a4d5/README.md) `ft.lk`
 
 ## 2026-04-30
 
 * [Exclusive eBook: Inside the stealthy startup that pitched brainless human clones](data/articles/exclusive-ebook-inside-t.3d553336/README.md) `technologyreview.com`
+* [This startup’s new mechanistic interpretability tool lets you debug LLMs](data/articles/this-startup-s-new-mecha.9ec0466f/README.md) `technologyreview.com`
 * [May Day mirror 2026: Sajith vs. Anura; SJB vs. JVP-NPP](data/articles/may-day-mirror-2026-saji.1bd1f4d2/README.md) `ft.lk`
 * [Open letter to Women and Child Affairs Minister on International Day to End Corporal Punishment](data/articles/open-letter-to-women-and.69ae3012/README.md) `ft.lk`
 * [Revenue leakages at SriLankan Airlines](data/articles/revenue-leakages-at-sril.533251d4/README.md) `ft.lk`
@@ -26,6 +32,7 @@ Last Updated **2026-05-01 06:50:44**
 * [Conclusion of Sama Pada Yathra](data/articles/conclusion-of-sama-pada.445621b4/README.md) `ft.lk`
 * [The mask of State virtue cannot hide the hollow within](data/articles/the-mask-of-state-virtue.564c4afc/README.md) `ft.lk`
 * [Beyond the smokescreen: Integrating transparency into our National Treasury](data/articles/beyond-the-smokescreen-i.e64fde3e/README.md) `ft.lk`
+* [It’s time to make a plan for nuclear waste](data/articles/it-s-time-to-make-a-plan.60838243/README.md) `technologyreview.com`
 
 ## 2026-04-28
 
