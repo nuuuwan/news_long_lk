@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-03 18:24:58**
+Last Updated **2026-05-04 06:46:36**
+
+## 2026-05-04
+
+* [Cassandra’s curse continues](data/articles/cassandra-s-curse-contin.99b8c61a/README.md) `ft.lk`
+* [Urban water crisis in Greater Colombo](data/articles/urban-water-crisis-in-gr.50aad292/README.md) `ft.lk`
+* [May Day: From workers’ struggle to political spectacle](data/articles/may-day-from-workers-str.212ef34a/README.md) `ft.lk`
+* [When AI breaks the news: Trust cannot be automated](data/articles/when-ai-breaks-the-news.cdd1a7b1/README.md) `ft.lk`
+* [Press freedom worldwide falls to lowest in 25 years](data/articles/press-freedom-worldwide.997a2f7e/README.md) `ft.lk`
 
 ## 2026-05-01
 
