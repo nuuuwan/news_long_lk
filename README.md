@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-04 18:38:31**
+Last Updated **2026-05-05 06:41:06**
+
+## 2026-05-05
+
+* [Rs. 13 b lost —  What the Central Bank’s circular really reveals](data/articles/rs-13-b-lost-what-the-ce.61a547e1/README.md) `ft.lk`
+* [A rare political opportunity to reimagine Sri Lanka](data/articles/a-rare-political-opportu.101ec4c2/README.md) `ft.lk`
+* [Tribute to Late Professor Abeysekara](data/articles/tribute-to-late-professo.d40b5318/README.md) `ft.lk`
+* [The enemy within: The internal fraud at NDB](data/articles/the-enemy-within-the-int.cfb21253/README.md) `ft.lk`
+* [Sri Lanka’s $ 800 m opportunity next door](data/articles/sri-lanka-s-800-m-opport.8b7308e0/README.md) `ft.lk`
 
 ## 2026-05-04
 
+* [How an Organizational Shift Can Unlock Real Value from a Stalled AI Strategy](data/articles/how-an-organizational-sh.877e6587/README.md) `hbr.org`
+* [How AI Is Changing the Needs and Values of Finance Leaders and Their Teams](data/articles/how-ai-is-changing-the-n.60c7a8c6/README.md) `hbr.org`
+* [Week one of the Musk v. Altman trial: What it was like in the room](data/articles/week-one-of-the-musk-v-a.dcf34125/README.md) `technologyreview.com`
 * [Cassandra’s curse continues](data/articles/cassandra-s-curse-contin.99b8c61a/README.md) `ft.lk`
 * [Urban water crisis in Greater Colombo](data/articles/urban-water-crisis-in-gr.50aad292/README.md) `ft.lk`
 * [May Day: From workers’ struggle to political spectacle](data/articles/may-day-from-workers-str.212ef34a/README.md) `ft.lk`
@@ -21,6 +32,7 @@ Last Updated **2026-05-04 18:38:31**
 * [Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining](data/articles/inexpensive-seafloor-hop.889806c7/README.md) `technologyreview.com`
 * [Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses](data/articles/joint-opposition-allianc.75ce3491/README.md) `ft.lk`
 * [Cyber-crimes and management weaknesses](data/articles/cyber-crimes-and-managem.41b3a4d5/README.md) `ft.lk`
+* [Trump’s mass firing just dealt another blow to American science](data/articles/trump-s-mass-firing-just.a8a9c980/README.md) `technologyreview.com`
 
 ## 2026-04-30
 
