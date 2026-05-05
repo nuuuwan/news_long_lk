@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-05 06:41:06**
+Last Updated **2026-05-05 18:29:09**
 
 ## 2026-05-05
 
+* [Fuel, fairness,  and the myth of equality](data/articles/fuel-fairness-and-the-my.a5b02f62/README.md) `ft.lk`
 * [Rs. 13 b lost —  What the Central Bank’s circular really reveals](data/articles/rs-13-b-lost-what-the-ce.61a547e1/README.md) `ft.lk`
 * [A rare political opportunity to reimagine Sri Lanka](data/articles/a-rare-political-opportu.101ec4c2/README.md) `ft.lk`
 * [Tribute to Late Professor Abeysekara](data/articles/tribute-to-late-professo.d40b5318/README.md) `ft.lk`
@@ -33,6 +34,7 @@ Last Updated **2026-05-05 06:41:06**
 * [Joint Opposition Alliance seeks probe into diesel procurement deal, alleges irregularities and losses](data/articles/joint-opposition-allianc.75ce3491/README.md) `ft.lk`
 * [Cyber-crimes and management weaknesses](data/articles/cyber-crimes-and-managem.41b3a4d5/README.md) `ft.lk`
 * [Trump’s mass firing just dealt another blow to American science](data/articles/trump-s-mass-firing-just.a8a9c980/README.md) `technologyreview.com`
+* [A new US phone network for Christians aims to block porn and gender-related content](data/articles/a-new-us-phone-network-f.e1f98a4e/README.md) `technologyreview.com`
 
 ## 2026-04-30
 
