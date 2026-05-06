@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-06 06:41:49**
+Last Updated **2026-05-06 18:40:43**
 
 ## 2026-05-06
 
 * [Enthroning impunity, again?](data/articles/enthroning-impunity-agai.e01eb5e7/README.md) `ft.lk`
 * [AI ambitions need a strong Data Governance foundation](data/articles/ai-ambitions-need-a-stro.c8ddb015/README.md) `ft.lk`
 * [Should digital sense be priority in Sri Lanka’s digital transformation journey?](data/articles/should-digital-sense-be.211db5ec/README.md) `ft.lk`
+* [The Global Walk for Peace:  Sri Lanka’s chance to lead the world away from the scourge of war](data/articles/the-global-walk-for-peac.0de204be/README.md) `ft.lk`
 * [The Global Walk for Peace:  Sri Lanka’s chance to lead the world away from the scourge of war](data/articles/the-global-walk-for-peac.5b4599ed/README.md) `ft.lk`
 * [Merit, Integrity, and the future of Sri Lanka Cricket](data/articles/merit-integrity-and-the.60e73128/README.md) `ft.lk`
+* [Merit, Integrity, and the future of Sri Lanka Cricket](data/articles/merit-integrity-and-the.67bae1bb/README.md) `ft.lk`
 
 ## 2026-05-05
 
@@ -20,6 +22,7 @@ Last Updated **2026-05-06 06:41:49**
 * [Tribute to Late Professor Abeysekara](data/articles/tribute-to-late-professo.d40b5318/README.md) `ft.lk`
 * [The enemy within: The internal fraud at NDB](data/articles/the-enemy-within-the-int.cfb21253/README.md) `ft.lk`
 * [Sri Lanka’s $ 800 m opportunity next door](data/articles/sri-lanka-s-800-m-opport.8b7308e0/README.md) `ft.lk`
+* [A blueprint for using AI to strengthen democracy](data/articles/a-blueprint-for-using-ai.c9dd6bc7/README.md) `technologyreview.com`
 
 ## 2026-05-04
 
