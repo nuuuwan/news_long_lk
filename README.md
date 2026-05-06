@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-05 18:29:09**
+Last Updated **2026-05-06 06:41:49**
+
+## 2026-05-06
+
+* [Enthroning impunity, again?](data/articles/enthroning-impunity-agai.e01eb5e7/README.md) `ft.lk`
+* [AI ambitions need a strong Data Governance foundation](data/articles/ai-ambitions-need-a-stro.c8ddb015/README.md) `ft.lk`
+* [Should digital sense be priority in Sri Lanka’s digital transformation journey?](data/articles/should-digital-sense-be.211db5ec/README.md) `ft.lk`
+* [The Global Walk for Peace:  Sri Lanka’s chance to lead the world away from the scourge of war](data/articles/the-global-walk-for-peac.5b4599ed/README.md) `ft.lk`
+* [Merit, Integrity, and the future of Sri Lanka Cricket](data/articles/merit-integrity-and-the.60e73128/README.md) `ft.lk`
 
 ## 2026-05-05
 
