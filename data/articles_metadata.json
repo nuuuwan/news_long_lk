@@ -1,5 +1,12 @@
 [
   {
+    "title": "The balcony solar boom is coming to the US",
+    "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+    "ut": 1778113800.0,
+    "dir_path_unix": "data/articles/the-balcony-solar-boom-i.393d7ed5",
+    "time_str_formatted": "06:00 AM, Thursday, May 07, 2026"
+  },
+  {
     "title": "Political picture clears: Sajith\u2019s social democratic centrism emerges, SJB impacts",
     "url": "https://www.ft.lk/columns/Political-picture-clears-Sajith-s-social-democratic-centrism-emerges-SJB-impacts/4-791548",
     "ut": 1778110282.0,
@@ -194,6 +201,13 @@
     "ut": 1777834227.0,
     "dir_path_unix": "data/articles/press-freedom-worldwide.997a2f7e",
     "time_str_formatted": "12:20 AM, Monday, May 04, 2026"
+  },
+  {
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "ut": 1777639099.0,
+    "dir_path_unix": "data/articles/musk-v-altman-week-1-elo.572f1821",
+    "time_str_formatted": "06:08 PM, Friday, May 01, 2026"
   },
   {
     "title": "Sri Lanka - A second bite at the cherry",

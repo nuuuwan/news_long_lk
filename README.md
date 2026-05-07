@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-07 06:46:10**
+Last Updated **2026-05-07 18:41:53**
 
 ## 2026-05-07
 
+* [The balcony solar boom is coming to the US](data/articles/the-balcony-solar-boom-i.393d7ed5/README.md) `technologyreview.com`
 * [Political picture clears: Sajith’s social democratic centrism emerges, SJB impacts](data/articles/political-picture-clears.a59222e8/README.md) `ft.lk`
 * [Palm oil is a necessity; the real challenge is making it sustainable](data/articles/palm-oil-is-a-necessity.99c6ecd3/README.md) `ft.lk`
 * [Beyond symbolic governance: The accountability illusion](data/articles/beyond-symbolic-governan.c6171afb/README.md) `ft.lk`
@@ -46,6 +47,7 @@ Last Updated **2026-05-07 06:46:10**
 
 ## 2026-05-01
 
+* [Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models](data/articles/musk-v-altman-week-1-elo.572f1821/README.md) `technologyreview.com`
 * [Sri Lanka - A second bite at the cherry](data/articles/sri-lanka-a-second-bite.ff32eb90/README.md) `ft.lk`
 * [Is it a ‘Mayday!’ for the NPP’s  slow slide into systems failure?](data/articles/is-it-a-mayday-for-the-n.ee195405/README.md) `ft.lk`
 * [Economic vision of Ranasinghe Premadasa: A much felt today](data/articles/economic-vision-of-ranas.c169cd21/README.md) `ft.lk`
