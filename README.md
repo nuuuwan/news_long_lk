@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-06 18:40:43**
+Last Updated **2026-05-07 06:46:10**
+
+## 2026-05-07
+
+* [Political picture clears: Sajith’s social democratic centrism emerges, SJB impacts](data/articles/political-picture-clears.a59222e8/README.md) `ft.lk`
+* [Palm oil is a necessity; the real challenge is making it sustainable](data/articles/palm-oil-is-a-necessity.99c6ecd3/README.md) `ft.lk`
+* [Beyond symbolic governance: The accountability illusion](data/articles/beyond-symbolic-governan.c6171afb/README.md) `ft.lk`
+* [Where banking fraud hides](data/articles/where-banking-fraud-hide.4196b3de/README.md) `ft.lk`
+* [The real enemy is already logged in.  A wake-up call for Sri Lanka’s boardrooms](data/articles/the-real-enemy-is-alread.407d6b1b/README.md) `ft.lk`
 
 ## 2026-05-06
 
@@ -16,6 +24,7 @@ Last Updated **2026-05-06 18:40:43**
 
 ## 2026-05-05
 
+* [Why Professional Services Organizations Keep Solving the Wrong AI Problem](data/articles/why-professional-service.078ad548/README.md) `hbr.org`
 * [Fuel, fairness,  and the myth of equality](data/articles/fuel-fairness-and-the-my.a5b02f62/README.md) `ft.lk`
 * [Rs. 13 b lost —  What the Central Bank’s circular really reveals](data/articles/rs-13-b-lost-what-the-ce.61a547e1/README.md) `ft.lk`
 * [A rare political opportunity to reimagine Sri Lanka](data/articles/a-rare-political-opportu.101ec4c2/README.md) `ft.lk`
