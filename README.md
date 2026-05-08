@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-08 06:46:22**
+Last Updated **2026-05-08 18:30:31**
 
 ## 2026-05-08
 
+* [Here’s how technology transformed babymaking](data/articles/here-s-how-technology-tr.10d8c05f/README.md) `technologyreview.com`
 * [Beyond the label: How independent  is an Independent Director, really?](data/articles/beyond-the-label-how-ind.a4ba428e/README.md) `ft.lk`
+* [Dr. Ganeshan Wignaraja cautions Sri Lanka needs to plan a 18th IMF program](data/articles/dr-ganeshan-wignaraja-ca.7429a296/README.md) `ft.lk`
 * [Vijay’s TVK shatters Tamil Nadu’s Dravidian duopoly: A new era  for India and Sri Lanka](data/articles/vijay-s-tvk-shatters-tam.fd728dfc/README.md) `ft.lk`
 * [The $ 2.5 m disconnect: Systems transition, national confusion, and future of debt management](data/articles/the-2-5-m-disconnect-sys.c40c8c9e/README.md) `ft.lk`
 * [Cybersecurity is a shared responsibility: Lessons for public institutions in a digital era](data/articles/cybersecurity-is-a-share.c175eba8/README.md) `ft.lk`
