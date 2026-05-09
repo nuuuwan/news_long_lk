@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-09 06:45:13**
+Last Updated **2026-05-09 18:25:40**
+
+## 2026-05-09
+
+* [China’s embodied AI and path to a shared future](data/articles/china-s-embodied-ai-and.9a691c72/README.md) `ft.lk`
+* [From oil shocks to green power: China’s strategic edge in an uncertain world](data/articles/from-oil-shocks-to-green.be8f8436/README.md) `ft.lk`
+* [Brown Sahib goes to town](data/articles/brown-sahib-goes-to-town.48eb7962/README.md) `ft.lk`
+* [L board Government” on display](data/articles/l-board-government-on-di.14d4607a/README.md) `ft.lk`
+* [What the Aragalaya might mean to the NPP today](data/articles/what-the-aragalaya-might.66d8c3c2/README.md) `ft.lk`
 
 ## 2026-05-08
 
