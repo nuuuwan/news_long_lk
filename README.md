@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-08 18:30:31**
+Last Updated **2026-05-09 06:45:13**
 
 ## 2026-05-08
 
+* [Here’s what you need to know about the cruise ship hantavirus outbreak](data/articles/here-s-what-you-need-to.2c5dba8e/README.md) `technologyreview.com`
 * [Here’s how technology transformed babymaking](data/articles/here-s-how-technology-tr.10d8c05f/README.md) `technologyreview.com`
 * [Beyond the label: How independent  is an Independent Director, really?](data/articles/beyond-the-label-how-ind.a4ba428e/README.md) `ft.lk`
 * [Dr. Ganeshan Wignaraja cautions Sri Lanka needs to plan a 18th IMF program](data/articles/dr-ganeshan-wignaraja-ca.7429a296/README.md) `ft.lk`
@@ -16,6 +17,7 @@ Last Updated **2026-05-08 18:30:31**
 ## 2026-05-07
 
 * [The balcony solar boom is coming to the US](data/articles/the-balcony-solar-boom-i.393d7ed5/README.md) `technologyreview.com`
+* [What’s next for IVF](data/articles/what-s-next-for-ivf.b04c89e1/README.md) `technologyreview.com`
 * [Political picture clears: Sajith’s social democratic centrism emerges, SJB impacts](data/articles/political-picture-clears.a59222e8/README.md) `ft.lk`
 * [Palm oil is a necessity; the real challenge is making it sustainable](data/articles/palm-oil-is-a-necessity.99c6ecd3/README.md) `ft.lk`
 * [Beyond symbolic governance: The accountability illusion](data/articles/beyond-symbolic-governan.c6171afb/README.md) `ft.lk`
