@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-11 06:53:35**
+Last Updated **2026-05-11 19:03:20**
+
+## 2026-05-11
+
+* [Routine: Boredom to uninitiated, liberation to achiever and deterrent to fraudster](data/articles/routine-boredom-to-unini.bcb71b4a/README.md) `ft.lk`
+* [Cyber criminals are stealing not only your money, but also your brain and heart](data/articles/cyber-criminals-are-stea.01f6c70d/README.md) `ft.lk`
+* [One in ten children affected by sexual abuse facilitated by digital tech](data/articles/one-in-ten-children-affe.aa46cafe/README.md) `ft.lk`
+* [Healthy minds, safe workplaces: A shared responsibility for Sri Lanka’s future of work](data/articles/healthy-minds-safe-workp.1a694ce3/README.md) `ft.lk`
+* [Purposeful organisational leadership: Leading organisations in an unpredictable world](data/articles/purposeful-organisationa.bc46b7c2/README.md) `ft.lk`
 
 ## 2026-05-09
 
