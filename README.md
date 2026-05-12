@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-12 06:45:30**
+Last Updated **2026-05-12 18:46:35**
 
 ## 2026-05-12
 
@@ -30,6 +30,7 @@ Last Updated **2026-05-12 06:45:30**
 
 ## 2026-05-08
 
+* [Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman](data/articles/musk-v-altman-week-2-ope.8e2b2346/README.md) `technologyreview.com`
 * [Here’s what you need to know about the cruise ship hantavirus outbreak](data/articles/here-s-what-you-need-to.2c5dba8e/README.md) `technologyreview.com`
 * [Here’s how technology transformed babymaking](data/articles/here-s-how-technology-tr.10d8c05f/README.md) `technologyreview.com`
 * [Beyond the label: How independent  is an Independent Director, really?](data/articles/beyond-the-label-how-ind.a4ba428e/README.md) `ft.lk`
