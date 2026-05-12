@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-11 19:03:20**
+Last Updated **2026-05-12 06:45:30**
+
+## 2026-05-12
+
+* [Organised hypocrisy: The inevitable fate of anti-establishment politics?](data/articles/organised-hypocrisy-the.ead11972/README.md) `ft.lk`
+* [When auditors join the Boardroom](data/articles/when-auditors-join-the-b.75c51380/README.md) `ft.lk`
+* [What went wrong with Public Debt Management Office?](data/articles/what-went-wrong-with-pub.577f5556/README.md) `ft.lk`
+* [From bunkering hub to water pricing hub](data/articles/from-bunkering-hub-to-wa.ae442b4b/README.md) `ft.lk`
 
 ## 2026-05-11
 
+* [Three things in AI to watch, according to a Nobel-winning economist](data/articles/three-things-in-ai-to-wa.18e29f06/README.md) `technologyreview.com`
 * [Routine: Boredom to uninitiated, liberation to achiever and deterrent to fraudster](data/articles/routine-boredom-to-unini.bcb71b4a/README.md) `ft.lk`
 * [Cyber criminals are stealing not only your money, but also your brain and heart](data/articles/cyber-criminals-are-stea.01f6c70d/README.md) `ft.lk`
 * [One in ten children affected by sexual abuse facilitated by digital tech](data/articles/one-in-ten-children-affe.aa46cafe/README.md) `ft.lk`
