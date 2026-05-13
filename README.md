@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-12 18:46:35**
+Last Updated **2026-05-13 18:52:34**
+
+## 2026-05-13
+
+* [SMEs cannot be an afterthought in tax policy](data/articles/smes-cannot-be-an-aftert.df342481/README.md) `ft.lk`
+* [Chandra J makes appeal to intervene in derivative action filed by NDB shareholder](data/articles/chandra-j-makes-appeal-t.991135dc/README.md) `ft.lk`
+* [Beyond debt restructuring:  Sri Lanka’s narrow window  to execute a real economic reset](data/articles/beyond-debt-restructurin.aaeb346a/README.md) `ft.lk`
+* [Fiscal and monetary restructuring of Sri Lanka: Institutional stability and capital integration](data/articles/fiscal-and-monetary-rest.ef44c047/README.md) `ft.lk`
+* [Winning without fighting](data/articles/winning-without-fighting.0fe3a982/README.md) `ft.lk`
 
 ## 2026-05-12
 
