@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-13 18:52:34**
+Last Updated **2026-05-14 06:52:10**
+
+## 2026-05-14
+
+* [From administration to intelligence: A new paradigm for governance](data/articles/from-administration-to-i.850f5c53/README.md) `ft.lk`
+* [Economic growth hinges on structural reforms and shock resilience](data/articles/economic-growth-hinges-o.c7b9b64b/README.md) `ft.lk`
+* [Lanka-Tamil Nadu-India contiguity turns island into extension, Sinhalese into minority](data/articles/lanka-tamil-nadu-india-c.a674d848/README.md) `ft.lk`
+* [Sri Lanka’s export future lies across the Palk Strait](data/articles/sri-lanka-s-export-futur.9c214f48/README.md) `ft.lk`
+* [Ambassador outlines three key pillars behind Republic of Korea’s success](data/articles/ambassador-outlines-thre.8aa4dcb2/README.md) `ft.lk`
 
 ## 2026-05-13
 
@@ -11,6 +19,7 @@ Last Updated **2026-05-13 18:52:34**
 * [Beyond debt restructuring:  Sri Lanka’s narrow window  to execute a real economic reset](data/articles/beyond-debt-restructurin.aaeb346a/README.md) `ft.lk`
 * [Fiscal and monetary restructuring of Sri Lanka: Institutional stability and capital integration](data/articles/fiscal-and-monetary-rest.ef44c047/README.md) `ft.lk`
 * [Winning without fighting](data/articles/winning-without-fighting.0fe3a982/README.md) `ft.lk`
+* [A plan to make drugs in orbit is going commercial](data/articles/a-plan-to-make-drugs-in.ff9141df/README.md) `technologyreview.com`
 
 ## 2026-05-12
 
