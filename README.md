@@ -2,12 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-14 06:52:10**
+Last Updated **2026-05-14 18:42:18**
 
 ## 2026-05-14
 
+* [From fragility to fortitude: Can Sri Lanka emerge stronger from the Middle East crisis?](data/articles/from-fragility-to-fortit.c5c988e9/README.md) `ft.lk`
 * [From administration to intelligence: A new paradigm for governance](data/articles/from-administration-to-i.850f5c53/README.md) `ft.lk`
 * [Economic growth hinges on structural reforms and shock resilience](data/articles/economic-growth-hinges-o.c7b9b64b/README.md) `ft.lk`
+* [The Tesla Semi could be a big deal for electric trucking](data/articles/the-tesla-semi-could-be.8f6d6ef7/README.md) `technologyreview.com`
 * [Lanka-Tamil Nadu-India contiguity turns island into extension, Sinhalese into minority](data/articles/lanka-tamil-nadu-india-c.a674d848/README.md) `ft.lk`
 * [Sri Lanka’s export future lies across the Palk Strait](data/articles/sri-lanka-s-export-futur.9c214f48/README.md) `ft.lk`
 * [Ambassador outlines three key pillars behind Republic of Korea’s success](data/articles/ambassador-outlines-thre.8aa4dcb2/README.md) `ft.lk`
