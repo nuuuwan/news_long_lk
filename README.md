@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-14 18:42:18**
+Last Updated **2026-05-15 06:50:09**
+
+## 2026-05-15
+
+* [NPP – from oppositional passion to more administrative credibility?](data/articles/npp-from-oppositional-pa.989765a3/README.md) `ft.lk`
+* [SC’s determination on Inland Revenue (Amendment) Bill 2026: What it means for taxpayers](data/articles/sc-s-determination-on-in.2dfc4ca0/README.md) `ft.lk`
+* [Austerity and energy security are not the enemies of stability](data/articles/austerity-and-energy-sec.fdaac3f4/README.md) `ft.lk`
+* [Freed by Palestine](data/articles/freed-by-palestine.b614645e/README.md) `ft.lk`
+* [Stabilising inequality: How Sri Lanka’s recovery is rebuilding same broken system](data/articles/stabilising-inequality-h.1d159cfe/README.md) `ft.lk`
 
 ## 2026-05-14
 
