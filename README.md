@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-15 18:42:12**
+Last Updated **2026-05-16 06:44:59**
+
+## 2026-05-16
+
+* [Sri Lanka’s post-crisis transition: Comparative insights from Greece](data/articles/sri-lanka-s-post-crisis.9b4e8049/README.md) `ft.lk`
 
 ## 2026-05-15
 
+* [Reflections on governance, accountability and the decline of administration in universities](data/articles/reflections-on-governanc.770865d3/README.md) `ft.lk`
+* [SL must act now to capture quality investment in shifting global economy, warn senior officials and economists](data/articles/sl-must-act-now-to-captu.73893048/README.md) `ft.lk`
+* [Economic bridges — not a land bridge with India](data/articles/economic-bridges-not-a-l.4105b329/README.md) `ft.lk`
+* [Italy in the Hormuz crisis: diplomacy, naval missions and food security](data/articles/italy-in-the-hormuz-cris.4e29c930/README.md) `ft.lk`
 * [NPP – from oppositional passion to more administrative credibility?](data/articles/npp-from-oppositional-pa.989765a3/README.md) `ft.lk`
 * [SC’s determination on Inland Revenue (Amendment) Bill 2026: What it means for taxpayers](data/articles/sc-s-determination-on-in.2dfc4ca0/README.md) `ft.lk`
 * [Austerity and energy security are not the enemies of stability](data/articles/austerity-and-energy-sec.fdaac3f4/README.md) `ft.lk`
@@ -25,6 +33,7 @@ Last Updated **2026-05-15 18:42:12**
 
 ## 2026-05-13
 
+* [AI chatbots are giving out people’s real phone numbers](data/articles/ai-chatbots-are-giving-o.110d107a/README.md) `technologyreview.com`
 * [SMEs cannot be an afterthought in tax policy](data/articles/smes-cannot-be-an-aftert.df342481/README.md) `ft.lk`
 * [Chandra J makes appeal to intervene in derivative action filed by NDB shareholder](data/articles/chandra-j-makes-appeal-t.991135dc/README.md) `ft.lk`
 * [Beyond debt restructuring:  Sri Lanka’s narrow window  to execute a real economic reset](data/articles/beyond-debt-restructurin.aaeb346a/README.md) `ft.lk`
