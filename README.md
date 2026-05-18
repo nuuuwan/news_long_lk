@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-18 06:55:34**
+Last Updated **2026-05-18 19:23:43**
 
 ## 2026-05-18
 
+* [Strong economies need strong banks: Building the system  Sri Lanka’s next decade will need](data/articles/strong-economies-need-st.bd6fd32a/README.md) `ft.lk`
+* [Future-proofing digital trust in quantum era](data/articles/future-proofing-digital.2cf82b27/README.md) `ft.lk`
+* [The Thucydides Trap: Why the world must embrace multipolarity](data/articles/the-thucydides-trap-why.d8e0ab9d/README.md) `ft.lk`
 * [Revisiting Central Bank’s growth role: With its nominal policy powers, it cannot promote growth even if it wants to do so](data/articles/revisiting-central-bank.6a145862/README.md) `ft.lk`
 * [VAT on digital services: Sri Lanka’s entry into the global digital tax regime](data/articles/vat-on-digital-services.b6c0125d/README.md) `ft.lk`
 * [Economists chart Sri Lanka’s next steps as global shocks test reform path](data/articles/economists-chart-sri-lan.10de2d83/README.md) `ft.lk`
