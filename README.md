@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-17 18:29:08**
+Last Updated **2026-05-18 06:55:34**
+
+## 2026-05-18
+
+* [Revisiting Central Bank’s growth role: With its nominal policy powers, it cannot promote growth even if it wants to do so](data/articles/revisiting-central-bank.6a145862/README.md) `ft.lk`
+* [VAT on digital services: Sri Lanka’s entry into the global digital tax regime](data/articles/vat-on-digital-services.b6c0125d/README.md) `ft.lk`
+* [Economists chart Sri Lanka’s next steps as global shocks test reform path](data/articles/economists-chart-sri-lan.10de2d83/README.md) `ft.lk`
 
 ## 2026-05-16
 
