@@ -1,0 +1,250 @@
+# Sri Lanka needs education transformation, not incremental reform
+
+[https://www.ft.lk/columns/Sri-Lanka-needs-education-transformation-not-incremental-reform/4-792130](https://www.ft.lk/columns/Sri-Lanka-needs-education-transformation-not-incremental-reform/4-792130)
+
+*02:54 AM, Tuesday, May 19, 2026*
+
+A policy warning to national decision-makers
+
+Sri Lanka stands at a critical inflection point in its development trajectory. As the global economy rapidly transitions through the Fourth and Fifth Industrial Revolutions, the country’s education system remains largely anchored in a Third Industrial Revolution paradigm.
+
+This mismatch is no longer a technical issue. It is a strategic national risk.
+
+What Sri Lanka requires today is not incremental reform, but a fundamental Education Transformation grounded in a new way of thinking about human capital, learning systems, and decision-making paradigms.
+
+Industrial revolutions and the education lag problem
+
+Each Industrial Revolution has fundamentally reshaped what societies require from education systems.
+
+First Industrial Revolution
+
+Mechanisation and steam power created demand for basic literacy, discipline, and manual labor-oriented schooling.
+
+Second Industrial Revolution
+
+Electricity and mass production led to standardised schooling systems designed to produce factory workers, clerks, and administrators.
+
+Third Industrial Revolution
+
+Digital computers and early automation shaped modern schooling systems, including Sri Lanka’s current model. This system is characterised by:
+
+examination dominance
+
+memorisation-based learning
+
+teacher-centered instruction
+
+qualification-based progression
+
+This model was effective when global change was slow, predictable, and linear.
+
+However, that world no longer exists.
+
+The Fourth and Fifth Industrial Revolutions: A speed disruption era
+
+The Fourth and Fifth Industrial Revolutions are defined by non-linear acceleration of change, driven by:
+
+n Artificial Intelligence and Generative AI
+
+Robotics and automation
+
+Biotechnology and genetic engineering
+
+Quantum computing (emerging)
+
+Digital ecosystems and platform economies
+
+Human–AI collaborative systems
+
+Unlike previous eras, change is now:
+
+continuous rather than episodic
+
+exponential rather than linear
+
+disruptive rather than incremental
+
+In such an environment, education systems built for stability become structurally obsolete.
+
+The consequence is clear:
+
+We are educating students for a world that no longer exists.
+
+The hidden structural problem: KSA without M&P
+
+Most education systems, including Sri Lanka’s, are built on the traditional KSA model:
+
+However, this model is incomplete for the 21st century.
+
+It ignores a critical determinant of all educational and policy outcomes:
+
+Mindset and Paradigm (M&P)
+
+Mindset and Paradigm can be defined as:
+
+“The cognitive lens through which individuals and institutions interpret reality and make decisions.”
+
+This is not a soft concept. It is a strategic operating layer that determines how knowledge, skills, and attitudes are applied.
+
+correct data produces wrong decisions
+
+modern tools are used in outdated ways
+
+reforms become symbolic rather than transformational
+
+Outdated mindset leads to correct actions applied to the wrong world.
+
+This is one of the most underestimated failure points in education reform globally.
+
+The critical policy risk: Decision-maker paradigm obsolescence
+
+In many developing and third-world contexts, including Sri Lanka, the most dangerous constraint is not lack of resources.
+
+It is outdated Mindset & Paradigm at leadership level.
+
+If top decision-makers interpret education through a Third Industrial Revolution lens, they will inevitably:
+
+design outdated curricula
+
+misinterpret digital transformation
+
+underestimate AI disruption
+
+over-invest in obsolete systems
+
+under-invest in future capabilities
+
+This creates a structural paradox:
+
+Reform becomes the reproduction of the old system in new packaging.
+
+This is why many education reforms fail despite significant investment.
+
+From KSA to KSA–M&P: A required paradigm shift
+
+To address this structural gap, the education framework must evolve from:
+
+KSA (Knowledge–Skills–Attitudes)
+
+To Modern Strategic Model
+
+KSA–M&P (Knowledge–Skills–Attitudes + Mindset and Paradigm)
+
+This shift is not cosmetic. It is foundational.
+
+Without this addition, education systems:
+
+cannot interpret the Fourth and Fifth Industrial Revolutions correctly
+
+cannot redesign curricula effectively
+
+cannot produce future-ready human capital
+
+Global evidence: Paradigm-driven education transformation
+
+Countries that have successfully transitioned their education systems share one common factor: a deliberate shift in Mindset and Paradigm before structural reform.
+
+Examples include Finland, Singapore, Estonia, and South Korea.
+
+Their success was not achieved merely through curriculum changes, but through a redefinition of:
+
+what human capital means
+
+what future readiness means
+
+What Sri Lanka must transform: Three core pillars
+
+Education transformation must occur simultaneously across three dimensions:
+
+(1) Curriculum transformation
+
+From content-heavy memorisation to future capability development:
+
+creativity and innovation
+
+AI and digital literacy
+
+(2) Teaching and learning transformation
+
+The system must move beyond “student-centered learning” to:
+
+Learner and  Learning-Centered Education
+
+This represents a deeper paradigm shift where:
+
+learning processes are designed, not just delivered
+
+learners are adaptive agents, not passive recipients
+
+teachers become facilitators and learning architects
+
+(3) Assessment transformation
+
+Examinations must evolve from memory testing to capability assessment:
+
+real-world application
+
+The 21st Century human capital framework
+
+To operationalise transformation, Sri Lanka requires a unified human capital architecture:
+
+This model emphasises that Mindset and Paradigm is the multiplier of all educational outcomes.
+
+3R (Foundational Literacy)
+
+Arithmetic + theoretical/practical knowledge
+
+3L (Future Learning Capabilities)
+
+Literacy skills (digital, media, financial, AI, etc.)
+
+Life skills (adaptability, leadership, emotional intelligence)
+
+2C (Human Development Core)
+
+Character (ethics, integrity, responsibility)
+
+Citizenship (national and global responsibility)
+
+SDL (Self-Directed Learning)
+
+unlearning and relearning
+
+adaptive capability development
+
+Sri Lanka’s education challenge is not primarily technical. It is paradigmatic.
+
+A nation cannot build a 21st-century economy using a 20th-century education mindset.
+
+If Mindset and Paradigm remains unchanged:
+
+reforms will remain superficial
+
+investments will underperform
+
+graduates will remain misaligned with global demand
+
+If Mindset and Paradigm is transformed:
+
+the entire system becomes adaptive
+
+curriculum reforms become meaningful
+
+human capital becomes globally competitive
+
+Final message to national leadership
+
+To the President, Prime Minister, Education Minister, and Education Secretary:
+
+The central question is not whether Sri Lanka needs education reform.
+
+The real question is:
+
+Are we redesigning education for the future—or refining it for a past that no longer exists?
+
+Education transformation is no longer a policy option.
+
+It is a national survival imperative.
+
+(The author is a Former Secretary, Ministry of Higher Education and former Director General National Institute of Education)
+

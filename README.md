@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-18 19:23:43**
+Last Updated **2026-05-19 06:55:40**
+
+## 2026-05-19
+
+* [Sri Lanka needs education transformation, not incremental reform](data/articles/sri-lanka-needs-educatio.bece13d6/README.md) `ft.lk`
+* [Fuel crisis, global conflict and market abuse: Why Govt. must control unreasonable construction material prices](data/articles/fuel-crisis-global-confl.30c53d1c/README.md) `ft.lk`
+* [Sri Lanka’s path forward: Sovereignty, reconciliation and a shared future](data/articles/sri-lanka-s-path-forward.54924c0d/README.md) `ft.lk`
+* [Preventing the next financial scandal: Towards an AI-driven national financial intelligence framework](data/articles/preventing-the-next-fina.903ea37a/README.md) `ft.lk`
+* [What Singapore’s economic blueprint means for Sri Lanka — and how to get there](data/articles/what-singapore-s-economi.f03cc61f/README.md) `ft.lk`
 
 ## 2026-05-18
 
+* [Here’s why Elon Musk lost his suit against OpenAI](data/articles/here-s-why-elon-musk-los.9b154231/README.md) `technologyreview.com`
 * [Strong economies need strong banks: Building the system  Sri Lanka’s next decade will need](data/articles/strong-economies-need-st.bd6fd32a/README.md) `ft.lk`
 * [Future-proofing digital trust in quantum era](data/articles/future-proofing-digital.2cf82b27/README.md) `ft.lk`
 * [The Thucydides Trap: Why the world must embrace multipolarity](data/articles/the-thucydides-trap-why.d8e0ab9d/README.md) `ft.lk`
@@ -29,6 +38,7 @@ Last Updated **2026-05-18 19:23:43**
 * [Freed by Palestine](data/articles/freed-by-palestine.b614645e/README.md) `ft.lk`
 * [Stabilising inequality: How Sri Lanka’s recovery is rebuilding same broken system](data/articles/stabilising-inequality-h.1d159cfe/README.md) `ft.lk`
 * [The world is on track to miss its health targets](data/articles/the-world-is-on-track-to.a46eb54a/README.md) `technologyreview.com`
+* [How Chinese short dramas became AI content machines](data/articles/how-chinese-short-dramas.03022e48/README.md) `technologyreview.com`
 
 ## 2026-05-14
 
@@ -36,6 +46,7 @@ Last Updated **2026-05-18 19:23:43**
 * [From administration to intelligence: A new paradigm for governance](data/articles/from-administration-to-i.850f5c53/README.md) `ft.lk`
 * [Economic growth hinges on structural reforms and shock resilience](data/articles/economic-growth-hinges-o.c7b9b64b/README.md) `ft.lk`
 * [The Tesla Semi could be a big deal for electric trucking](data/articles/the-tesla-semi-could-be.8f6d6ef7/README.md) `technologyreview.com`
+* [The shock of seeing your body used in deepfake porn](data/articles/the-shock-of-seeing-your.7ca2e146/README.md) `technologyreview.com`
 * [Lanka-Tamil Nadu-India contiguity turns island into extension, Sinhalese into minority](data/articles/lanka-tamil-nadu-india-c.a674d848/README.md) `ft.lk`
 * [Sri Lanka’s export future lies across the Palk Strait](data/articles/sri-lanka-s-export-futur.9c214f48/README.md) `ft.lk`
 * [Ambassador outlines three key pillars behind Republic of Korea’s success](data/articles/ambassador-outlines-thre.8aa4dcb2/README.md) `ft.lk`
