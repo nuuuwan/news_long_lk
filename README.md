@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-19 06:55:40**
+Last Updated **2026-05-19 19:10:11**
 
 ## 2026-05-19
 
+* [Colossal Biosciences is growing chickens in a 3D-printed container](data/articles/colossal-biosciences-is.84f3f341/README.md) `technologyreview.com`
 * [Sri Lanka needs education transformation, not incremental reform](data/articles/sri-lanka-needs-educatio.bece13d6/README.md) `ft.lk`
 * [Fuel crisis, global conflict and market abuse: Why Govt. must control unreasonable construction material prices](data/articles/fuel-crisis-global-confl.30c53d1c/README.md) `ft.lk`
 * [Sri Lanka’s path forward: Sovereignty, reconciliation and a shared future](data/articles/sri-lanka-s-path-forward.54924c0d/README.md) `ft.lk`
