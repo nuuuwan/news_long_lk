@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-20 06:56:47**
+Last Updated **2026-05-20 18:58:12**
 
 ## 2026-05-20
 
+* [Boston Metal gets a $75 million lifeline to produce critical metals](data/articles/boston-metal-gets-a-75-m.a835a1c1/README.md) `technologyreview.com`
 * [Sri Lanka’s fraud prism: A structural and behavioural overview](data/articles/sri-lanka-s-fraud-prism.f49a93c0/README.md) `ft.lk`
 * [New laws continue to erode Sri Lankans’ civil liberties](data/articles/new-laws-continue-to-ero.fa2e1d50/README.md) `ft.lk`
 * [Beyond banks: The weak links in Sri Lanka’s financial system](data/articles/beyond-banks-the-weak-li.3e0cb196/README.md) `ft.lk`
@@ -25,6 +26,7 @@ Last Updated **2026-05-20 06:56:47**
 ## 2026-05-18
 
 * [Here’s why Elon Musk lost his suit against OpenAI](data/articles/here-s-why-elon-musk-los.9b154231/README.md) `technologyreview.com`
+* [Inside Anduril and Meta’s quest to make smart glasses for warfare](data/articles/inside-anduril-and-meta.981e2ce3/README.md) `technologyreview.com`
 * [Strong economies need strong banks: Building the system  Sri Lanka’s next decade will need](data/articles/strong-economies-need-st.bd6fd32a/README.md) `ft.lk`
 * [Future-proofing digital trust in quantum era](data/articles/future-proofing-digital.2cf82b27/README.md) `ft.lk`
 * [The Thucydides Trap: Why the world must embrace multipolarity](data/articles/the-thucydides-trap-why.d8e0ab9d/README.md) `ft.lk`
