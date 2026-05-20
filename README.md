@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-19 19:10:11**
+Last Updated **2026-05-20 06:56:47**
+
+## 2026-05-20
+
+* [Sri Lanka’s fraud prism: A structural and behavioural overview](data/articles/sri-lanka-s-fraud-prism.f49a93c0/README.md) `ft.lk`
+* [New laws continue to erode Sri Lankans’ civil liberties](data/articles/new-laws-continue-to-ero.fa2e1d50/README.md) `ft.lk`
+* [Beyond banks: The weak links in Sri Lanka’s financial system](data/articles/beyond-banks-the-weak-li.3e0cb196/README.md) `ft.lk`
+* [Is the accounting fraternity falling apart?](data/articles/is-the-accounting-frater.1a5b8a12/README.md) `ft.lk`
+* [Sri Lankan universities and global health partners unite to advance tobacco smoking cessation strategies](data/articles/sri-lankan-universities.02c08c0a/README.md) `ft.lk`
 
 ## 2026-05-19
 
+* [Roundtables: Inside the Musk v. Altman Trial](data/articles/roundtables-inside-the-m.25e68804/README.md) `technologyreview.com`
 * [Colossal Biosciences is growing chickens in a 3D-printed container](data/articles/colossal-biosciences-is.84f3f341/README.md) `technologyreview.com`
 * [Sri Lanka needs education transformation, not incremental reform](data/articles/sri-lanka-needs-educatio.bece13d6/README.md) `ft.lk`
 * [Fuel crisis, global conflict and market abuse: Why Govt. must control unreasonable construction material prices](data/articles/fuel-crisis-global-confl.30c53d1c/README.md) `ft.lk`
@@ -33,6 +42,7 @@ Last Updated **2026-05-19 19:10:11**
 * [SL must act now to capture quality investment in shifting global economy, warn senior officials and economists](data/articles/sl-must-act-now-to-captu.73893048/README.md) `ft.lk`
 * [Economic bridges — not a land bridge with India](data/articles/economic-bridges-not-a-l.4105b329/README.md) `ft.lk`
 * [Italy in the Hormuz crisis: diplomacy, naval missions and food security](data/articles/italy-in-the-hormuz-cris.4e29c930/README.md) `ft.lk`
+* [Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.](data/articles/musk-v-altman-week-3-elo.9c8aa558/README.md) `technologyreview.com`
 * [NPP – from oppositional passion to more administrative credibility?](data/articles/npp-from-oppositional-pa.989765a3/README.md) `ft.lk`
 * [SC’s determination on Inland Revenue (Amendment) Bill 2026: What it means for taxpayers](data/articles/sc-s-determination-on-in.2dfc4ca0/README.md) `ft.lk`
 * [Austerity and energy security are not the enemies of stability](data/articles/austerity-and-energy-sec.fdaac3f4/README.md) `ft.lk`
