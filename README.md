@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-20 18:58:12**
+Last Updated **2026-05-21 06:57:56**
+
+## 2026-05-21
+
+* [Beyond the Exchange Rate: Import dependency hurts exporters](data/articles/beyond-the-exchange-rate.d137234e/README.md) `ft.lk`
+* [Governing better amidst crises](data/articles/governing-better-amidst.523f5f80/README.md) `ft.lk`
+* [The federalist fantasy: Tamil political tragedy, Lankan political history](data/articles/the-federalist-fantasy-t.84d9ee62/README.md) `ft.lk`
+* [From insularity to integration: Sri Lanka’s regional future](data/articles/from-insularity-to-integ.e974729d/README.md) `ft.lk`
+* [When welfare outruns growth: Lessons from Sri Lanka and Kerala](data/articles/when-welfare-outruns-gro.48a5dd80/README.md) `ft.lk`
 
 ## 2026-05-20
 
