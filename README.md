@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-21 06:57:56**
+Last Updated **2026-05-21 19:11:38**
 
 ## 2026-05-21
 
+* [Climate tech companies are pivoting to critical minerals](data/articles/climate-tech-companies-a.cb183364/README.md) `technologyreview.com`
 * [Beyond the Exchange Rate: Import dependency hurts exporters](data/articles/beyond-the-exchange-rate.d137234e/README.md) `ft.lk`
+* [Governing better amidst crises](data/articles/governing-better-amidst.deffc895/README.md) `ft.lk`
 * [Governing better amidst crises](data/articles/governing-better-amidst.523f5f80/README.md) `ft.lk`
 * [The federalist fantasy: Tamil political tragedy, Lankan political history](data/articles/the-federalist-fantasy-t.84d9ee62/README.md) `ft.lk`
 * [From insularity to integration: Sri Lanka’s regional future](data/articles/from-insularity-to-integ.e974729d/README.md) `ft.lk`
@@ -34,6 +36,7 @@ Last Updated **2026-05-21 06:57:56**
 ## 2026-05-18
 
 * [Here’s why Elon Musk lost his suit against OpenAI](data/articles/here-s-why-elon-musk-los.9b154231/README.md) `technologyreview.com`
+* [What to expect from Google this week](data/articles/what-to-expect-from-goog.824e77ca/README.md) `technologyreview.com`
 * [Inside Anduril and Meta’s quest to make smart glasses for warfare](data/articles/inside-anduril-and-meta.981e2ce3/README.md) `technologyreview.com`
 * [Strong economies need strong banks: Building the system  Sri Lanka’s next decade will need](data/articles/strong-economies-need-st.bd6fd32a/README.md) `ft.lk`
 * [Future-proofing digital trust in quantum era](data/articles/future-proofing-digital.2cf82b27/README.md) `ft.lk`

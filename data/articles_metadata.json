@@ -1,10 +1,24 @@
 [
   {
+    "title": "Climate tech companies are pivoting to critical minerals",
+    "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+    "ut": 1779323400.0,
+    "dir_path_unix": "data/articles/climate-tech-companies-a.cb183364",
+    "time_str_formatted": "06:00 AM, Thursday, May 21, 2026"
+  },
+  {
     "title": "Beyond the Exchange Rate: Import dependency hurts exporters",
     "url": "https://www.ft.lk/columns/Beyond-the-Exchange-Rate-Import-dependency-hurts-exporters/4-792196",
     "ut": 1779320791.0,
     "dir_path_unix": "data/articles/beyond-the-exchange-rate.d137234e",
     "time_str_formatted": "05:16 AM, Thursday, May 21, 2026"
+  },
+  {
+    "title": "Governing better amidst crises",
+    "url": "https://www.ft.lk/columns/Governing-better-amidst-crises/4-792195",
+    "ut": 1779320324.0,
+    "dir_path_unix": "data/articles/governing-better-amidst.deffc895",
+    "time_str_formatted": "05:08 AM, Thursday, May 21, 2026"
   },
   {
     "title": "Governing better amidst crises",
@@ -131,6 +145,13 @@
     "ut": 1779117790.0,
     "dir_path_unix": "data/articles/here-s-why-elon-musk-los.9b154231",
     "time_str_formatted": "08:53 PM, Monday, May 18, 2026"
+  },
+  {
+    "title": "What to expect from Google this week",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "ut": 1779091543.0,
+    "dir_path_unix": "data/articles/what-to-expect-from-goog.824e77ca",
+    "time_str_formatted": "01:35 PM, Monday, May 18, 2026"
   },
   {
     "title": "Inside Anduril and Meta\u2019s quest to make smart glasses for warfare",
