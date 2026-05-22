@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-22 06:56:13**
+Last Updated **2026-05-22 18:56:09**
 
 ## 2026-05-22
 
@@ -11,6 +11,7 @@ Last Updated **2026-05-22 06:56:13**
 * [Decolonising liberation: Seeing beyond the Vaddukoddai Resolution](data/articles/decolonising-liberation.6cdc1c07/README.md) `ft.lk`
 * [Banks, frauds and stakeholders](data/articles/banks-frauds-and-stakeho.fc038fe2/README.md) `ft.lk`
 * [Expressway tolls to congestion pricing](data/articles/expressway-tolls-to-cong.a1e3c779/README.md) `ft.lk`
+* [The Enhanced Games fit right in with the rest of 2026’s longevity vibes](data/articles/the-enhanced-games-fit-r.49d5d24e/README.md) `technologyreview.com`
 
 ## 2026-05-21
 
@@ -19,12 +20,14 @@ Last Updated **2026-05-22 06:56:13**
 * [Beyond the Exchange Rate: Import dependency hurts exporters](data/articles/beyond-the-exchange-rate.d137234e/README.md) `ft.lk`
 * [Governing better amidst crises](data/articles/governing-better-amidst.deffc895/README.md) `ft.lk`
 * [Governing better amidst crises](data/articles/governing-better-amidst.523f5f80/README.md) `ft.lk`
+* [Tech researchers are suing the Trump administration over the future of online safety](data/articles/tech-researchers-are-sui.d754d150/README.md) `technologyreview.com`
 * [The federalist fantasy: Tamil political tragedy, Lankan political history](data/articles/the-federalist-fantasy-t.84d9ee62/README.md) `ft.lk`
 * [From insularity to integration: Sri Lanka’s regional future](data/articles/from-insularity-to-integ.e974729d/README.md) `ft.lk`
 * [When welfare outruns growth: Lessons from Sri Lanka and Kerala](data/articles/when-welfare-outruns-gro.48a5dd80/README.md) `ft.lk`
 
 ## 2026-05-20
 
+* [Green steel startup Boston Metal is doubling down on critical metals](data/articles/green-steel-startup-bost.a835a1c1/README.md) `technologyreview.com`
 * [Boston Metal gets a $75 million lifeline to produce critical metals](data/articles/boston-metal-gets-a-75-m.a835a1c1/README.md) `technologyreview.com`
 * [Sri Lanka’s fraud prism: A structural and behavioural overview](data/articles/sri-lanka-s-fraud-prism.f49a93c0/README.md) `ft.lk`
 * [New laws continue to erode Sri Lankans’ civil liberties](data/articles/new-laws-continue-to-ero.fa2e1d50/README.md) `ft.lk`
