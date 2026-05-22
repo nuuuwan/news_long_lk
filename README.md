@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-21 19:11:38**
+Last Updated **2026-05-22 06:56:13**
+
+## 2026-05-22
+
+* [The Republic is 54:  Towards a third,  “system-changing” Republican Constitution](data/articles/the-republic-is-54-towar.910b8b03/README.md) `ft.lk`
+* [Sri Lanka’s Constitutional crossroads: Rethinking the Executive Presidency](data/articles/sri-lanka-s-constitution.cf715929/README.md) `ft.lk`
+* [Decolonising liberation: Seeing beyond the Vaddukoddai Resolution](data/articles/decolonising-liberation.6cdc1c07/README.md) `ft.lk`
+* [Banks, frauds and stakeholders](data/articles/banks-frauds-and-stakeho.fc038fe2/README.md) `ft.lk`
+* [Expressway tolls to congestion pricing](data/articles/expressway-tolls-to-cong.a1e3c779/README.md) `ft.lk`
 
 ## 2026-05-21
 
+* [Roundtables: Can AI Learn to Understand the World?](data/articles/roundtables-can-ai-learn.bf40a95d/README.md) `technologyreview.com`
 * [Climate tech companies are pivoting to critical minerals](data/articles/climate-tech-companies-a.cb183364/README.md) `technologyreview.com`
 * [Beyond the Exchange Rate: Import dependency hurts exporters](data/articles/beyond-the-exchange-rate.d137234e/README.md) `ft.lk`
 * [Governing better amidst crises](data/articles/governing-better-amidst.deffc895/README.md) `ft.lk`
