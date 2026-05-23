@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-22 18:56:09**
+Last Updated **2026-05-23 06:51:02**
+
+## 2026-05-23
+
+* [Depreciation of the Rupee:  A warning sign of deep economic crisis](data/articles/depreciation-of-the-rupe.0ab174c6/README.md) `ft.lk`
+* [Escaping the two ‘Balance-Sheet Trap’: The blueprint for $1 = SLR 300](data/articles/escaping-the-two-balance.83d4f27e/README.md) `ft.lk`
+* [Is the NPP Government pro-predator?](data/articles/is-the-npp-government-pr.91725010/README.md) `ft.lk`
+* [True leaders are never forgotten](data/articles/true-leaders-are-never-f.a3ee68dc/README.md) `ft.lk`
+* [Antizionism, new Antisemitism and Islamophobia](data/articles/antizionism-new-antisemi.eda6f77e/README.md) `ft.lk`
 
 ## 2026-05-22
 
@@ -12,6 +20,9 @@ Last Updated **2026-05-22 18:56:09**
 * [Banks, frauds and stakeholders](data/articles/banks-frauds-and-stakeho.fc038fe2/README.md) `ft.lk`
 * [Expressway tolls to congestion pricing](data/articles/expressway-tolls-to-cong.a1e3c779/README.md) `ft.lk`
 * [The Enhanced Games fit right in with the rest of 2026’s longevity vibes](data/articles/the-enhanced-games-fit-r.49d5d24e/README.md) `technologyreview.com`
+* [IRAN WAR: PEACE HANGS BY A FRAGILE THREAD; THE POOR SUFFER CONSEQUENCES](data/articles/iran-war-peace-hangs-by.c4693498/README.md) `dailymirror.lk`
+* [Sri Lanka’s uphill task to maintain economic stability](data/articles/sri-lanka-s-uphill-task.e9239183/README.md) `dailymirror.lk`
+* [A call to prevent drowning deaths](data/articles/a-call-to-prevent-drowni.56e003e2/README.md) `dailymirror.lk`
 
 ## 2026-05-21
 
@@ -27,6 +38,8 @@ Last Updated **2026-05-22 18:56:09**
 
 ## 2026-05-20
 
+* [Women should be more active in  governance and decision making](data/articles/women-should-be-more-act.3f18e54b/README.md) `dailymirror.lk`
+* [Commemorations and the widening ethnic gap](data/articles/commemorations-and-the-w.c9808c35/README.md) `dailymirror.lk`
 * [Green steel startup Boston Metal is doubling down on critical metals](data/articles/green-steel-startup-bost.a835a1c1/README.md) `technologyreview.com`
 * [Boston Metal gets a $75 million lifeline to produce critical metals](data/articles/boston-metal-gets-a-75-m.a835a1c1/README.md) `technologyreview.com`
 * [Sri Lanka’s fraud prism: A structural and behavioural overview](data/articles/sri-lanka-s-fraud-prism.f49a93c0/README.md) `ft.lk`
