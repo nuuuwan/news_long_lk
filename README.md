@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-24 06:57:16**
+Last Updated **2026-05-24 18:26:16**
+
+## 2026-05-24
+
+* [The Pocket Watch, the Footpath and the Politics of Looking Tall](data/articles/the-pocket-watch-the-foo.d981c24e/README.md) `dailymirror.lk`
 
 ## 2026-05-23
 
