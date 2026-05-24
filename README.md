@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-23 18:26:12**
+Last Updated **2026-05-24 06:57:16**
 
 ## 2026-05-23
 
@@ -14,6 +14,11 @@ Last Updated **2026-05-23 18:26:12**
 
 ## 2026-05-22
 
+* [University students at the orientation session, HelpAge conducts orientation session on elders](data/articles/university-students-at-t.19f5bf06/README.md) `dailymirror.lk`
+* [Sri Lanka’s IMF-led Debt  Restructuring and Lessons for Senegal](data/articles/sri-lanka-s-imf-led-debt.f7d84788/README.md) `dailymirror.lk`
+* [Legacy of Malini -  Tribute to the Queen of Lankan cinema](data/articles/legacy-of-malini-tribute.14b284fe/README.md) `dailymirror.lk`
+* [Lack of planning leading  to shortages and bankruptcy](data/articles/lack-of-planning-leading.3f36cf46/README.md) `dailymirror.lk`
+* [Sri Lanka deposit insurance scheme](data/articles/sri-lanka-deposit-insura.612fb7d9/README.md) `dailymirror.lk`
 * [The Republic is 54:  Towards a third,  “system-changing” Republican Constitution](data/articles/the-republic-is-54-towar.910b8b03/README.md) `ft.lk`
 * [Sri Lanka’s Constitutional crossroads: Rethinking the Executive Presidency](data/articles/sri-lanka-s-constitution.cf715929/README.md) `ft.lk`
 * [Decolonising liberation: Seeing beyond the Vaddukoddai Resolution](data/articles/decolonising-liberation.6cdc1c07/README.md) `ft.lk`
