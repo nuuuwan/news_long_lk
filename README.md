@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-24 18:26:16**
+Last Updated **2026-05-25 06:58:30**
+
+## 2026-05-25
+
+* [Sri Lanka’s exchange rate dilemma: Don’t blame toothless Central Bank](data/articles/sri-lanka-s-exchange-rat.b9094660/README.md) `ft.lk`
+* [CEB reform in question:  Strategic shift or structural shuffle?](data/articles/ceb-reform-in-question-s.f4f6f3f4/README.md) `ft.lk`
+* [Few suggestions to manage the current crisis](data/articles/few-suggestions-to-manag.68112408/README.md) `ft.lk`
+* [The real cost of unregulated tourism in Sri Lanka](data/articles/the-real-cost-of-unregul.f86c5fe3/README.md) `ft.lk`
+* [Building a rich and acceptable national culture for Sri Lanka](data/articles/building-a-rich-and-acce.a4e66fb8/README.md) `ft.lk`
+* [Sri Lanka’s Two-Faced Policy Climate Justice at the UN,  Deforestation at Home](data/articles/sri-lanka-s-two-faced-po.abfe6408/README.md) `dailymirror.lk`
+* [Dollar strain returns amid global shocks](data/articles/dollar-strain-returns-am.95321ec7/README.md) `dailymirror.lk`
+* [Let’s try and make a difference](data/articles/let-s-try-and-make-a-dif.0cd2f4d0/README.md) `dailymirror.lk`
 
 ## 2026-05-24
 
