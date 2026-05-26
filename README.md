@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-25 19:14:31**
+Last Updated **2026-05-26 06:53:32**
+
+## 2026-05-26
+
+* [The rupee at 331: Relief rally or the calm before the next move?](data/articles/the-rupee-at-331-relief.bee71f97/README.md) `ft.lk`
+* [Sri Lanka’s digital decade: The role Port City Colombo must play](data/articles/sri-lanka-s-digital-deca.0df803ab/README.md) `ft.lk`
+* [How Middle East instability will shape Government finances post-2026](data/articles/how-middle-east-instabil.2c72911a/README.md) `ft.lk`
+* [VAT Invoice Reform 2026: A necessary step forward but are SMEs ready?](data/articles/vat-invoice-reform-2026.1b46ef64/README.md) `ft.lk`
+* [Beyond banks: The case for smarter consolidation](data/articles/beyond-banks-the-case-fo.235372df/README.md) `ft.lk`
 
 ## 2026-05-25
 
+* [Defying Power Politics: Chinese Ambassador hails the  ‘Rubber-Rice’ spirit](data/articles/defying-power-politics-c.759cfc59/README.md) `dailymirror.lk`
+* [National Commission on Women  responds regarding protecting abused child](data/articles/national-commission-on-w.94fddfa1/README.md) `dailymirror.lk`
+* [Growth of Buddhism in China and its challenges past and present](data/articles/growth-of-buddhism-in-ch.87eb596c/README.md) `dailymirror.lk`
+* [An open Letter to the Consumer Affairs Authority](data/articles/an-open-letter-to-the-co.e843b929/README.md) `dailymirror.lk`
+* [Imagine a situation without the IMF](data/articles/imagine-a-situation-with.122b40c2/README.md) `dailymirror.lk`
 * [Sri Lanka’s exchange rate dilemma: Don’t blame toothless Central Bank](data/articles/sri-lanka-s-exchange-rat.b9094660/README.md) `ft.lk`
 * [CEB reform in question:  Strategic shift or structural shuffle?](data/articles/ceb-reform-in-question-s.f4f6f3f4/README.md) `ft.lk`
 * [Few suggestions to manage the current crisis](data/articles/few-suggestions-to-manag.68112408/README.md) `ft.lk`
