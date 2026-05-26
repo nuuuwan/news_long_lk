@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-26 06:53:32**
+Last Updated **2026-05-26 19:06:28**
 
 ## 2026-05-26
 
@@ -11,6 +11,7 @@ Last Updated **2026-05-26 06:53:32**
 * [How Middle East instability will shape Government finances post-2026](data/articles/how-middle-east-instabil.2c72911a/README.md) `ft.lk`
 * [VAT Invoice Reform 2026: A necessary step forward but are SMEs ready?](data/articles/vat-invoice-reform-2026.1b46ef64/README.md) `ft.lk`
 * [Beyond banks: The case for smarter consolidation](data/articles/beyond-banks-the-case-fo.235372df/README.md) `ft.lk`
+* [It’s time to address the looming crisis in entry-level work.](data/articles/it-s-time-to-address-the.e49dc2a6/README.md) `technologyreview.com`
 
 ## 2026-05-25
 
@@ -60,6 +61,7 @@ Last Updated **2026-05-26 06:53:32**
 ## 2026-05-21
 
 * [Roundtables: Can AI Learn to Understand the World?](data/articles/roundtables-can-ai-learn.bf40a95d/README.md) `technologyreview.com`
+* [Anthropic’s Code with Claude showed off coding’s future—whether you like it or not](data/articles/anthropic-s-code-with-cl.e46b93e1/README.md) `technologyreview.com`
 * [Climate tech companies are pivoting to critical minerals](data/articles/climate-tech-companies-a.cb183364/README.md) `technologyreview.com`
 * [Beyond the Exchange Rate: Import dependency hurts exporters](data/articles/beyond-the-exchange-rate.d137234e/README.md) `ft.lk`
 * [Governing better amidst crises](data/articles/governing-better-amidst.deffc895/README.md) `ft.lk`
