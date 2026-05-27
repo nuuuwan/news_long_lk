@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-26 19:06:28**
+Last Updated **2026-05-27 06:58:23**
+
+## 2026-05-27
+
+* [Lights out, growth out](data/articles/lights-out-growth-out.3d403b92/README.md) `ft.lk`
+* [A comment on Dayan Jayatilleka’s “The Federalist fantasy: Tamil political tragedy, Lankan political history”](data/articles/a-comment-on-dayan-jayat.d3fe169a/README.md) `ft.lk`
+* [Will Sri Lanka need an 18th IMF Program?](data/articles/will-sri-lanka-need-an-1.6dafba3b/README.md) `ft.lk`
+* [A single policy action could destabilise the Rupee](data/articles/a-single-policy-action-c.c3ca17ac/README.md) `ft.lk`
+* [Late realisation and price the nation pays](data/articles/late-realisation-and-pri.fb8fa323/README.md) `ft.lk`
+* [The Cost of Mobility:  Sri Lanka’s Vehicle Import  Dilemma,  Fiscal Realities, and Compromises](data/articles/the-cost-of-mobility-sri.3073201b/README.md) `dailymirror.lk`
+* [Buddhism disgraced: These disturbing allegations are a symptom of a larger  decay](data/articles/buddhism-disgraced-these.caafd599/README.md) `dailymirror.lk`
+* [Let children grow offline](data/articles/let-children-grow-offlin.05770fbf/README.md) `dailymirror.lk`
+* [Foreigners Arrested for Cyber Crimes](data/articles/foreigners-arrested-for.e891e573/README.md) `dailymirror.lk`
 
 ## 2026-05-26
 
