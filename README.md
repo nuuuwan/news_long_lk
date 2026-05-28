@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-28 06:50:17**
+Last Updated **2026-05-28 19:24:02**
 
 ## 2026-05-28
 
+* [The AI Hype Index: AI gets booed in graduation season](data/articles/the-ai-hype-index-ai-get.2c6e5bbc/README.md) `technologyreview.com`
 * [Economic architecture: Titans, tech, and fight for economic recovery](data/articles/economic-architecture-ti.9ec269a3/README.md) `ft.lk`
 * [Crisis, fuel, and future of work: The role of organisations and HR leaders in building resilience](data/articles/crisis-fuel-and-future-o.e586eb5b/README.md) `ft.lk`
 * [Decoding Trump - Xi Jinping summit: Global and regional impact and consequences on Sri Lanka](data/articles/decoding-trump-xi-jinpin.f9cd17f9/README.md) `ft.lk`
@@ -14,6 +15,10 @@ Last Updated **2026-05-28 06:50:17**
 
 ## 2026-05-27
 
+* [Conserving greenery  in Asia’s Garden City](data/articles/conserving-greenery-in-a.4ce34349/README.md) `dailymirror.lk`
+* [PC polls haunt  the NPP](data/articles/pc-polls-haunt-the-npp.e4d25e27/README.md) `dailymirror.lk`
+* [Playing the cards right with social media](data/articles/playing-the-cards-right.71d7ae78/README.md) `dailymirror.lk`
+* [A Humble Plea for Compassion and Humanity](data/articles/a-humble-plea-for-compas.4dd8893d/README.md) `dailymirror.lk`
 * [Competitive Business Leaders Need Clear AI Vision to Break the Ceiling of Innovation](data/articles/competitive-business-lea.4159ae11/README.md) `hbr.org`
 * [Lights out, growth out](data/articles/lights-out-growth-out.3d403b92/README.md) `ft.lk`
 * [A comment on Dayan Jayatilleka’s “The Federalist fantasy: Tamil political tragedy, Lankan political history”](data/articles/a-comment-on-dayan-jayat.d3fe169a/README.md) `ft.lk`
