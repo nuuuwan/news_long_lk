@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-29 06:57:41**
+Last Updated **2026-05-29 19:17:24**
 
 ## 2026-05-29
 
+* [The deadly Ebola outbreak is proving difficult to control](data/articles/the-deadly-ebola-outbrea.80a1eb6b/README.md) `technologyreview.com`
 * [ENGLAND: FROM A TWO-PARTY SYSTEM TO A FIVE-PARTY ONE](data/articles/england-from-a-two-party.5d9b4892/README.md) `dailymirror.lk`
 * [Dialog Powers National Vesak Zone 2026 as Official Digital Partner](data/articles/dialog-powers-national-v.d22c0af3/README.md) `dailymirror.lk`
 * [CHILD SEXUAL ABUSE WITHIN RELIGIOUS INSTITUTIONS](data/articles/child-sexual-abuse-withi.c4db9a90/README.md) `dailymirror.lk`
@@ -15,6 +16,7 @@ Last Updated **2026-05-29 06:57:41**
 * [Beyond Efficiency: Reimagining public institutions for a complex world](data/articles/beyond-efficiency-reimag.b45a6011/README.md) `ft.lk`
 * [Predicting and stabilising Exchange Rate movements](data/articles/predicting-and-stabilisi.d9314a60/README.md) `ft.lk`
 * [DBS Jeyaraj: The journalist, the human being, and the friend](data/articles/dbs-jeyaraj-the-journali.c50c2e22/README.md) `ft.lk`
+* [The need for transparency and consistency at CIABOC](data/articles/the-need-for-transparenc.c3ee267d/README.md) `ft.lk`
 * [The need for transparency and consistency at CIABOC](data/articles/the-need-for-transparenc.a53a0f16/README.md) `ft.lk`
 
 ## 2026-05-28
@@ -934,6 +936,7 @@ Last Updated **2026-05-29 06:57:41**
 * [Is Sri Lanka entering a ‘disaster inequality trap’ after Cyclone Ditwah?](data/articles/is-sri-lanka-entering-a.53352c13/README.md) `ft.lk`
 * [The digital reckoning](data/articles/the-digital-reckoning.0dfcc798/README.md) `ft.lk`
 * [Wuthering heights of Valentine’s Day](data/articles/wuthering-heights-of-val.71a5c3aa/README.md) `ft.lk`
+* [A cup of tea or coffee a day and the risk of dementia: What Sri Lankans need to know](data/articles/a-cup-of-tea-or-coffee-a.ea14e96b/README.md) `dailymirror.lk`
 * [ALS stole this musician’s voice. AI let him sing again.](data/articles/als-stole-this-musician.3675f977/README.md) `technologyreview.com`
 * [How to create jobs for the world’s 1.2 b new workers](data/articles/how-to-create-jobs-for-t.8fbc1ee3/README.md) `ft.lk`
 * [Rebuilding farming after Cyclone Ditwah: A reform agenda, not a repair job](data/articles/rebuilding-farming-after.b40896de/README.md) `ft.lk`
