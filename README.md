@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-28 19:24:02**
+Last Updated **2026-05-29 06:57:41**
+
+## 2026-05-29
+
+* [ENGLAND: FROM A TWO-PARTY SYSTEM TO A FIVE-PARTY ONE](data/articles/england-from-a-two-party.5d9b4892/README.md) `dailymirror.lk`
+* [Dialog Powers National Vesak Zone 2026 as Official Digital Partner](data/articles/dialog-powers-national-v.d22c0af3/README.md) `dailymirror.lk`
+* [CHILD SEXUAL ABUSE WITHIN RELIGIOUS INSTITUTIONS](data/articles/child-sexual-abuse-withi.c4db9a90/README.md) `dailymirror.lk`
+* [Time to build climate - economy nexus](data/articles/time-to-build-climate-ec.b4efee8b/README.md) `dailymirror.lk`
+* [TRUMP’S DEVIL IN THE IRAN PEACE DEAL](data/articles/trump-s-devil-in-the-ira.be0f1fb4/README.md) `dailymirror.lk`
+* [Sri Lanka’s energy crisis is not  a shortage of resources](data/articles/sri-lanka-s-energy-crisi.4ef4727f/README.md) `ft.lk`
+* [Beyond Efficiency: Reimagining public institutions for a complex world](data/articles/beyond-efficiency-reimag.b45a6011/README.md) `ft.lk`
+* [Predicting and stabilising Exchange Rate movements](data/articles/predicting-and-stabilisi.d9314a60/README.md) `ft.lk`
+* [DBS Jeyaraj: The journalist, the human being, and the friend](data/articles/dbs-jeyaraj-the-journali.c50c2e22/README.md) `ft.lk`
+* [The need for transparency and consistency at CIABOC](data/articles/the-need-for-transparenc.a53a0f16/README.md) `ft.lk`
 
 ## 2026-05-28
 
+* [How a new extraction process could unlock the world’s lithium](data/articles/how-a-new-extraction-pro.5549a01e/README.md) `technologyreview.com`
 * [The AI Hype Index: AI gets booed in graduation season](data/articles/the-ai-hype-index-ai-get.2c6e5bbc/README.md) `technologyreview.com`
 * [Economic architecture: Titans, tech, and fight for economic recovery](data/articles/economic-architecture-ti.9ec269a3/README.md) `ft.lk`
 * [Crisis, fuel, and future of work: The role of organisations and HR leaders in building resilience](data/articles/crisis-fuel-and-future-o.e586eb5b/README.md) `ft.lk`
@@ -75,6 +89,7 @@ Last Updated **2026-05-28 19:24:02**
 * [Legacy of Malini -  Tribute to the Queen of Lankan cinema](data/articles/legacy-of-malini-tribute.14b284fe/README.md) `dailymirror.lk`
 * [Lack of planning leading  to shortages and bankruptcy](data/articles/lack-of-planning-leading.3f36cf46/README.md) `dailymirror.lk`
 * [Sri Lanka deposit insurance scheme](data/articles/sri-lanka-deposit-insura.612fb7d9/README.md) `dailymirror.lk`
+* [Google I/O showed how the path for AI-driven science is shifting](data/articles/google-i-o-showed-how-th.81495904/README.md) `technologyreview.com`
 * [The Republic is 54:  Towards a third,  “system-changing” Republican Constitution](data/articles/the-republic-is-54-towar.910b8b03/README.md) `ft.lk`
 * [Sri Lanka’s Constitutional crossroads: Rethinking the Executive Presidency](data/articles/sri-lanka-s-constitution.cf715929/README.md) `ft.lk`
 * [Decolonising liberation: Seeing beyond the Vaddukoddai Resolution](data/articles/decolonising-liberation.6cdc1c07/README.md) `ft.lk`
