@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-01 07:09:11**
+Last Updated **2026-06-01 20:08:32**
 
 ## 2026-06-01
 
+* [WHAT LEADERS SAY WHEN NO ONE IS SUPPOSED TO BE LISTENING](data/articles/what-leaders-say-when-no.3d38a73f/README.md) `dailymirror.lk`
 * [Revered rituals for revival: A post-Vesak pondering](data/articles/revered-rituals-for-revi.14ba00ae/README.md) `ft.lk`
 * [Unsung heroes of the Central Bank:  Dr. Wimal Hettiarachchi](data/articles/unsung-heroes-of-the-cen.432f9379/README.md) `ft.lk`
 * [The cigarette that got a tax cut](data/articles/the-cigarette-that-got-a.a06a5348/README.md) `ft.lk`
