@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-05-31 18:33:28**
+Last Updated **2026-06-01 07:09:11**
+
+## 2026-06-01
+
+* [Revered rituals for revival: A post-Vesak pondering](data/articles/revered-rituals-for-revi.14ba00ae/README.md) `ft.lk`
+* [Unsung heroes of the Central Bank:  Dr. Wimal Hettiarachchi](data/articles/unsung-heroes-of-the-cen.432f9379/README.md) `ft.lk`
+* [The cigarette that got a tax cut](data/articles/the-cigarette-that-got-a.a06a5348/README.md) `ft.lk`
+* [Realities of gig work:  Six reasons why Sri Lanka must shape a fairer deal](data/articles/realities-of-gig-work-si.e2f9fac5/README.md) `ft.lk`
+* [Concert economy: Reimagining  Sri Lanka tourism’s next growth engine](data/articles/concert-economy-reimagin.c270d43d/README.md) `ft.lk`
+* [The Scalloped Hammerhead:  The shark with the strange head and the missing labels](data/articles/the-scalloped-hammerhead.f88f2729/README.md) `dailymirror.lk`
+* [Vesak: Beyond Celebration, A Return to the Dhamma](data/articles/vesak-beyond-celebration.411892e9/README.md) `dailymirror.lk`
+* [The high cost of a weak rupee](data/articles/the-high-cost-of-a-weak.da35155c/README.md) `dailymirror.lk`
+* [Towards a more constructive Dansal culture](data/articles/towards-a-more-construct.0aa71e4d/README.md) `dailymirror.lk`
 
 ## 2026-05-29
 
