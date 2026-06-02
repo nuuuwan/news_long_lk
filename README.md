@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-01 20:08:32**
+Last Updated **2026-06-02 07:05:15**
 
 ## 2026-06-01
 
+* [System change: Promises, performance and prospects](data/articles/system-change-promises-p.4b46fcaa/README.md) `ft.lk`
+* [Borrowed credibility is a bridge, not a destination](data/articles/borrowed-credibility-is.94b95caa/README.md) `ft.lk`
+* [The hidden side of cybersecurity](data/articles/the-hidden-side-of-cyber.8239fa90/README.md) `ft.lk`
+* [Work on a vaccine for latest Ebola variant is in progress](data/articles/work-on-a-vaccine-for-la.978efa4b/README.md) `dailymirror.lk`
+* [Time for honest appraisal of religion](data/articles/time-for-honest-appraisa.91544af9/README.md) `dailymirror.lk`
+* [An intellectual discourse is needed on religious issues](data/articles/an-intellectual-discours.50a22ee5/README.md) `dailymirror.lk`
+* [Why AI Works Best When It Works with Humans](data/articles/why-ai-works-best-when-i.3510f8ae/README.md) `hbr.org`
 * [WHAT LEADERS SAY WHEN NO ONE IS SUPPOSED TO BE LISTENING](data/articles/what-leaders-say-when-no.3d38a73f/README.md) `dailymirror.lk`
 * [Revered rituals for revival: A post-Vesak pondering](data/articles/revered-rituals-for-revi.14ba00ae/README.md) `ft.lk`
 * [Unsung heroes of the Central Bank:  Dr. Wimal Hettiarachchi](data/articles/unsung-heroes-of-the-cen.432f9379/README.md) `ft.lk`
