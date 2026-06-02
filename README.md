@@ -2,18 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-02 07:05:15**
+Last Updated **2026-06-02 19:28:31**
 
 ## 2026-06-01
 
 * [System change: Promises, performance and prospects](data/articles/system-change-promises-p.4b46fcaa/README.md) `ft.lk`
 * [Borrowed credibility is a bridge, not a destination](data/articles/borrowed-credibility-is.94b95caa/README.md) `ft.lk`
 * [The hidden side of cybersecurity](data/articles/the-hidden-side-of-cyber.8239fa90/README.md) `ft.lk`
+* [Cybercrime  Safe Havens  in Colombo:  A National Security Failure](data/articles/cybercrime-safe-havens-i.c85f914c/README.md) `dailymirror.lk`
 * [Work on a vaccine for latest Ebola variant is in progress](data/articles/work-on-a-vaccine-for-la.978efa4b/README.md) `dailymirror.lk`
 * [Time for honest appraisal of religion](data/articles/time-for-honest-appraisa.91544af9/README.md) `dailymirror.lk`
 * [An intellectual discourse is needed on religious issues](data/articles/an-intellectual-discours.50a22ee5/README.md) `dailymirror.lk`
 * [Why AI Works Best When It Works with Humans](data/articles/why-ai-works-best-when-i.3510f8ae/README.md) `hbr.org`
 * [WHAT LEADERS SAY WHEN NO ONE IS SUPPOSED TO BE LISTENING](data/articles/what-leaders-say-when-no.3d38a73f/README.md) `dailymirror.lk`
+* [China has approved the world’s first invasive brain-computer chip—here’s what’s next](data/articles/china-has-approved-the-w.dc7c3c38/README.md) `technologyreview.com`
 * [Revered rituals for revival: A post-Vesak pondering](data/articles/revered-rituals-for-revi.14ba00ae/README.md) `ft.lk`
 * [Unsung heroes of the Central Bank:  Dr. Wimal Hettiarachchi](data/articles/unsung-heroes-of-the-cen.432f9379/README.md) `ft.lk`
 * [The cigarette that got a tax cut](data/articles/the-cigarette-that-got-a.a06a5348/README.md) `ft.lk`
@@ -42,6 +44,7 @@ Last Updated **2026-06-02 07:05:15**
 ## 2026-05-28
 
 * [How a new extraction process could unlock the world’s lithium](data/articles/how-a-new-extraction-pro.5549a01e/README.md) `technologyreview.com`
+* [Climate tech companies are going public. What’s next?](data/articles/climate-tech-companies-a.7ed1b16d/README.md) `technologyreview.com`
 * [The AI Hype Index: AI gets booed in graduation season](data/articles/the-ai-hype-index-ai-get.2c6e5bbc/README.md) `technologyreview.com`
 * [Economic architecture: Titans, tech, and fight for economic recovery](data/articles/economic-architecture-ti.9ec269a3/README.md) `ft.lk`
 * [Crisis, fuel, and future of work: The role of organisations and HR leaders in building resilience](data/articles/crisis-fuel-and-future-o.e586eb5b/README.md) `ft.lk`
