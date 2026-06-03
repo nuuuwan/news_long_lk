@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-02 19:28:31**
+Last Updated **2026-06-03 19:41:47**
+
+## 2026-06-03
+
+* [Tax: Four stories, one nation](data/articles/tax-four-stories-one-nat.cde3b5c3/README.md) `ft.lk`
+* [REVIEW – Made in Nepal by Binod Chaudhary](data/articles/review-made-in-nepal-by.ff4c5f11/README.md) `ft.lk`
+* [Why Sri Lanka’s SME apparel sector needs a national sustainable industries policy framework](data/articles/why-sri-lanka-s-sme-appa.3db29130/README.md) `ft.lk`
+* [When a child stands, who stands with them?](data/articles/when-a-child-stands-who.22be8ab8/README.md) `ft.lk`
+* [govt. is not heading towards a Gotabaya style economic free-fall but a Yahapalanaya-themed stagnation](data/articles/govt-is-not-heading-towa.14ba79a5/README.md) `dailymirror.lk`
+* [The promise that never comes true](data/articles/the-promise-that-never-c.e12e74fc/README.md) `dailymirror.lk`
+* [Another tragedy due to drunk driving](data/articles/another-tragedy-due-to-d.9bcc28a5/README.md) `dailymirror.lk`
 
 ## 2026-06-01
 
