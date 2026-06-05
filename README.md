@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-05 07:04:02**
+Last Updated **2026-06-05 19:07:55**
 
 ## 2026-06-05
 
+* [Are AI chatbots making us lose control of our brains?](data/articles/are-ai-chatbots-making-u.5ecdba61/README.md) `technologyreview.com`
 * [Beyond IMF dependence](data/articles/beyond-imf-dependence.7e342d28/README.md) `dailymirror.lk`
 * [Lebanon factor piles pressure on  Trump, F-word  tirade at Netanyahu](data/articles/lebanon-factor-piles-pre.04268849/README.md) `dailymirror.lk`
 * [A call to ensure safety of  elders’ homes](data/articles/a-call-to-ensure-safety.ba1390a2/README.md) `dailymirror.lk`
