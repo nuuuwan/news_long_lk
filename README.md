@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-04 19:09:45**
+Last Updated **2026-06-05 07:04:02**
+
+## 2026-06-05
+
+* [Beyond IMF dependence](data/articles/beyond-imf-dependence.7e342d28/README.md) `dailymirror.lk`
+* [Lebanon factor piles pressure on  Trump, F-word  tirade at Netanyahu](data/articles/lebanon-factor-piles-pre.04268849/README.md) `dailymirror.lk`
+* [A call to ensure safety of  elders’ homes](data/articles/a-call-to-ensure-safety.ba1390a2/README.md) `dailymirror.lk`
+* [Monkeying with the judiciary](data/articles/monkeying-with-the-judic.34df2215/README.md) `ft.lk`
+* [Social justice needs to accompany plantation sector reform](data/articles/social-justice-needs-to.580ba1f4/README.md) `ft.lk`
+* [Beyond debt restructuring: Sri Lanka’s narrow window to execute a real economic reset](data/articles/beyond-debt-restructurin.1e38ee99/README.md) `ft.lk`
+* [Sri Lanka cannot protect what it cannot measure](data/articles/sri-lanka-cannot-protect.1fe6ec35/README.md) `ft.lk`
 
 ## 2026-06-04
 
