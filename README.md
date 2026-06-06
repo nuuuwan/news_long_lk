@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-05 19:07:55**
+Last Updated **2026-06-06 06:54:20**
+
+## 2026-06-06
+
+* [Cybercrime safe havens in Colombo](data/articles/cybercrime-safe-havens-i.03ffbe22/README.md) `ft.lk`
+* [Contain private credit growth to save the Rupee](data/articles/contain-private-credit-g.a8ca8f92/README.md) `ft.lk`
+* [“Image Trap”: Least discussed but critically seminal issue for nations to elevate to the next level](data/articles/image-trap-least-discus.db6e713c/README.md) `ft.lk`
+* [From Vesak dansalas and Poson lights to Sri Lanka tourism’s depleted coffers](data/articles/from-vesak-dansalas-and.e0a9d717/README.md) `ft.lk`
+* [The drought we can already see coming — and the  90 days that decide its cost](data/articles/the-drought-we-can-alrea.b2c46604/README.md) `ft.lk`
 
 ## 2026-06-05
 
