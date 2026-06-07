@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-06 06:54:20**
+Last Updated **2026-06-07 07:03:04**
 
 ## 2026-06-06
 
@@ -14,6 +14,11 @@ Last Updated **2026-06-06 06:54:20**
 
 ## 2026-06-05
 
+* [AFD marks 20 years of lasting partnership with Sri Lanka](data/articles/afd-marks-20-years-of-la.fd7a9a7c/README.md) `dailymirror.lk`
+* [HelpAge receives new collection tills from Seylan Bank](data/articles/helpage-receives-new-col.8b9ceb7f/README.md) `dailymirror.lk`
+* [Hellfire  in Horana](data/articles/hellfire-in-horana.c7b71c75/README.md) `dailymirror.lk`
+* [What is more reprehensible; drug abuse or sexual abuse?](data/articles/what-is-more-reprehensib.e26bb6db/README.md) `dailymirror.lk`
+* [The Gods have not been kind to our rulers](data/articles/the-gods-have-not-been-k.d47d7084/README.md) `dailymirror.lk`
 * [Are AI chatbots making us lose control of our brains?](data/articles/are-ai-chatbots-making-u.5ecdba61/README.md) `technologyreview.com`
 * [Beyond IMF dependence](data/articles/beyond-imf-dependence.7e342d28/README.md) `dailymirror.lk`
 * [Lebanon factor piles pressure on  Trump, F-word  tirade at Netanyahu](data/articles/lebanon-factor-piles-pre.04268849/README.md) `dailymirror.lk`
