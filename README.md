@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-07 18:37:25**
+Last Updated **2026-06-08 07:03:27**
+
+## 2026-06-08
+
+* [The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict](data/articles/the-us-israel-war-on-ira.3b305fa7/README.md) `dailymirror.lk`
+* [Equality Before the Law:  A Call for Unity, Not Division](data/articles/equality-before-the-law.fbf50d8a/README.md) `dailymirror.lk`
+* [Crossover Ban:  Democracy, Discipline or Political Survival?](data/articles/crossover-ban-democracy.8a593b8d/README.md) `dailymirror.lk`
+* [Time to fix our international airport](data/articles/time-to-fix-our-internat.e16bc2bf/README.md) `dailymirror.lk`
+* [Inconveniences at  supermarkets](data/articles/inconveniences-at-superm.d511a4d7/README.md) `dailymirror.lk`
 
 ## 2026-06-06
 
