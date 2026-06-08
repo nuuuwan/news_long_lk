@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-08 07:03:27**
+Last Updated **2026-06-08 19:26:29**
 
 ## 2026-06-08
 
+* [Sri Lanka failing to utilise returns  on women’s education boom: ADB study](data/articles/sri-lanka-failing-to-uti.dc4678e4/README.md) `ft.lk`
+* [Unlocking Sri Lanka’s full economic potential by leveraging human capital](data/articles/unlocking-sri-lanka-s-fu.4c7ec75c/README.md) `ft.lk`
+* [Cost accounting standards for Sri Lanka:  A timely measure taken by CMA Sri Lanka](data/articles/cost-accounting-standard.21dea211/README.md) `ft.lk`
+* [Integrated Capital Approach to sustainable community development](data/articles/integrated-capital-appro.7012d3e2/README.md) `ft.lk`
+* [Governing in an age of uncertainty](data/articles/governing-in-an-age-of-u.d16c135f/README.md) `ft.lk`
 * [The US-Israel war on Iran:Crimes against Humanity  and roots of the Middle East conflict](data/articles/the-us-israel-war-on-ira.3b305fa7/README.md) `dailymirror.lk`
 * [Equality Before the Law:  A Call for Unity, Not Division](data/articles/equality-before-the-law.fbf50d8a/README.md) `dailymirror.lk`
 * [Crossover Ban:  Democracy, Discipline or Political Survival?](data/articles/crossover-ban-democracy.8a593b8d/README.md) `dailymirror.lk`
@@ -27,6 +32,7 @@ Last Updated **2026-06-08 07:03:27**
 * [Hellfire  in Horana](data/articles/hellfire-in-horana.c7b71c75/README.md) `dailymirror.lk`
 * [What is more reprehensible; drug abuse or sexual abuse?](data/articles/what-is-more-reprehensib.e26bb6db/README.md) `dailymirror.lk`
 * [The Gods have not been kind to our rulers](data/articles/the-gods-have-not-been-k.d47d7084/README.md) `dailymirror.lk`
+* [The Meta hack shows there’s more to AI security than Mythos](data/articles/the-meta-hack-shows-ther.94d4f7da/README.md) `technologyreview.com`
 * [Are AI chatbots making us lose control of our brains?](data/articles/are-ai-chatbots-making-u.5ecdba61/README.md) `technologyreview.com`
 * [Beyond IMF dependence](data/articles/beyond-imf-dependence.7e342d28/README.md) `dailymirror.lk`
 * [Lebanon factor piles pressure on  Trump, F-word  tirade at Netanyahu](data/articles/lebanon-factor-piles-pre.04268849/README.md) `dailymirror.lk`
