@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-08 19:26:29**
+Last Updated **2026-06-09 06:54:33**
+
+## 2026-06-09
+
+* [Stop hiding behind a weak rupee](data/articles/stop-hiding-behind-a-wea.f7bd0ee6/README.md) `ft.lk`
+* [Financial consumer complaint landscape of Sri Lanka:  A regulator’s perspective](data/articles/financial-consumer-compl.9f55f25a/README.md) `ft.lk`
+* [One-and-a-half years on: Where is the economic vision?](data/articles/one-and-a-half-years-on.8de433c4/README.md) `ft.lk`
+* [Sri Lanka’s moment of choice: Reform or relapse](data/articles/sri-lanka-s-moment-of-ch.932ba9cc/README.md) `ft.lk`
+* [Breaking the corrupt bureaucratic chain and the 323 container clearance saga](data/articles/breaking-the-corrupt-bur.6ca77592/README.md) `ft.lk`
 
 ## 2026-06-08
 
