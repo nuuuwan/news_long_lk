@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-09 06:54:33**
+Last Updated **2026-06-09 19:03:28**
 
 ## 2026-06-09
 
+* [Five things you need to know about AI](data/articles/five-things-you-need-to.5a0f8f20/README.md) `technologyreview.com`
 * [Stop hiding behind a weak rupee](data/articles/stop-hiding-behind-a-wea.f7bd0ee6/README.md) `ft.lk`
 * [Financial consumer complaint landscape of Sri Lanka:  A regulator’s perspective](data/articles/financial-consumer-compl.9f55f25a/README.md) `ft.lk`
 * [One-and-a-half years on: Where is the economic vision?](data/articles/one-and-a-half-years-on.8de433c4/README.md) `ft.lk`
@@ -14,6 +15,9 @@ Last Updated **2026-06-09 06:54:33**
 
 ## 2026-06-08
 
+* [Twilight in the Shadows: The Silent Crisis of Elderly Safety in Sri Lanka](data/articles/twilight-in-the-shadows.bc2d687a/README.md) `dailymirror.lk`
+* [Do heart patients get genuine free health care?](data/articles/do-heart-patients-get-ge.c535fe24/README.md) `dailymirror.lk`
+* [Senior citizens must have a decent life and a peaceful passing](data/articles/senior-citizens-must-hav.ed1b1019/README.md) `dailymirror.lk`
 * [Sri Lanka failing to utilise returns  on women’s education boom: ADB study](data/articles/sri-lanka-failing-to-uti.dc4678e4/README.md) `ft.lk`
 * [Unlocking Sri Lanka’s full economic potential by leveraging human capital](data/articles/unlocking-sri-lanka-s-fu.4c7ec75c/README.md) `ft.lk`
 * [Cost accounting standards for Sri Lanka:  A timely measure taken by CMA Sri Lanka](data/articles/cost-accounting-standard.21dea211/README.md) `ft.lk`
@@ -52,6 +56,7 @@ Last Updated **2026-06-09 06:54:33**
 
 ## 2026-06-04
 
+* [How courts are coping with a flood of AI-generated lawsuits](data/articles/how-courts-are-coping-wi.ce50fb25/README.md) `technologyreview.com`
 * [AKD-JVP-NPP’s philosophy of failure is a philosophy for failure](data/articles/akd-jvp-npp-s-philosophy.5e3fbed4/README.md) `ft.lk`
 * [The burden of power](data/articles/the-burden-of-power.6a7539fb/README.md) `ft.lk`
 * [Sri Lanka’s economic recovery at crossroads: External pressures test recovery](data/articles/sri-lanka-s-economic-rec.dd6b856f/README.md) `ft.lk`
