@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-10 06:59:32**
+Last Updated **2026-06-10 19:18:45**
 
 ## 2026-06-10
 
+* [What Do Sri Lankan Fans Think? Ranking the Top Contenders for the FIFA World Cup 2026](data/articles/what-do-sri-lankan-fans.fb68a57f/README.md) `dailymirror.lk`
 * [Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform](data/articles/inland-revenue-amendment.9ad0c324/README.md) `ft.lk`
 * [QR payments in Sri Lanka: How to break the ‘chicken and egg’ situation?](data/articles/qr-payments-in-sri-lanka.d9a25648/README.md) `ft.lk`
 * [Navigating the intelligent tide:  How AI and Generative AI are reshaping maritime mobility in South Asia](data/articles/navigating-the-intellige.8e91f0b8/README.md) `ft.lk`
@@ -13,6 +14,7 @@ Last Updated **2026-06-10 06:59:32**
 
 ## 2026-06-09
 
+* [David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition](data/articles/david-sinclair-plans-to.135288a6/README.md) `technologyreview.com`
 * [Five things you need to know about AI](data/articles/five-things-you-need-to.5a0f8f20/README.md) `technologyreview.com`
 * [Stop hiding behind a weak rupee](data/articles/stop-hiding-behind-a-wea.f7bd0ee6/README.md) `ft.lk`
 * [Financial consumer complaint landscape of Sri Lanka:  A regulator’s perspective](data/articles/financial-consumer-compl.9f55f25a/README.md) `ft.lk`
