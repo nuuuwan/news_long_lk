@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-09 19:03:28**
+Last Updated **2026-06-10 06:59:32**
+
+## 2026-06-10
+
+* [Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform](data/articles/inland-revenue-amendment.9ad0c324/README.md) `ft.lk`
+* [QR payments in Sri Lanka: How to break the ‘chicken and egg’ situation?](data/articles/qr-payments-in-sri-lanka.d9a25648/README.md) `ft.lk`
+* [Navigating the intelligent tide:  How AI and Generative AI are reshaping maritime mobility in South Asia](data/articles/navigating-the-intellige.8e91f0b8/README.md) `ft.lk`
+* [Can the Sri Lankan public sector be revived?](data/articles/can-the-sri-lankan-publi.dc8dd66b/README.md) `dailymirror.lk`
 
 ## 2026-06-09
 
