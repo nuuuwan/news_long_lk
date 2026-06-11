@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-11 07:02:52**
+Last Updated **2026-06-11 19:25:30**
+
+## 2026-06-11
+
+* [Transforming a developing  nation into a developed one -Part I](data/articles/transforming-a-developin.7888b5ca/README.md) `ft.lk`
+* [Suresh Sallay’s circumstances; ‘Sajith’s body, Ranil’s head’ absurdity damages SJB-UNP](data/articles/suresh-sallay-s-circumst.9d8e3d1e/README.md) `ft.lk`
+* [Flaws in the Law: Electoral reform and democratic accountability](data/articles/flaws-in-the-law-elector.b8113c17/README.md) `ft.lk`
+* [Budget records a surplus: Will it prevail?](data/articles/budget-records-a-surplus.63a25ec9/README.md) `ft.lk`
+* [The EPF under CBSL custody: Fixing the principal-agent problem](data/articles/the-epf-under-cbsl-custo.608afcd5/README.md) `ft.lk`
+* [Job titles of the future: Nature’s drug designer](data/articles/job-titles-of-the-future.869cad82/README.md) `technologyreview.com`
 
 ## 2026-06-10
 
+* [Walk the Talk:  Japan urges Sri Lanka to act on export corridor plan](data/articles/walk-the-talk-japan-urge.4592c02d/README.md) `dailymirror.lk`
+* [Torture is  illegal,  but a norm in every country](data/articles/torture-is-illegal-but-a.2f226e89/README.md) `dailymirror.lk`
+* [Private Sector Must Follow the Government’s Lead on Single-Use Plastic Bottles](data/articles/private-sector-must-foll.a6d026c6/README.md) `dailymirror.lk`
+* [Fading standards and the deteriorating quality of goods  and services](data/articles/fading-standards-and-the.18d0bb42/README.md) `dailymirror.lk`
 * [What Do Sri Lankan Fans Think? Ranking the Top Contenders for the FIFA World Cup 2026](data/articles/what-do-sri-lankan-fans.fb68a57f/README.md) `dailymirror.lk`
 * [Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform](data/articles/inland-revenue-amendment.9ad0c324/README.md) `ft.lk`
 * [QR payments in Sri Lanka: How to break the ‘chicken and egg’ situation?](data/articles/qr-payments-in-sri-lanka.d9a25648/README.md) `ft.lk`
@@ -27,6 +40,7 @@ Last Updated **2026-06-11 07:02:52**
 * [Twilight in the Shadows: The Silent Crisis of Elderly Safety in Sri Lanka](data/articles/twilight-in-the-shadows.bc2d687a/README.md) `dailymirror.lk`
 * [Do heart patients get genuine free health care?](data/articles/do-heart-patients-get-ge.c535fe24/README.md) `dailymirror.lk`
 * [Senior citizens must have a decent life and a peaceful passing](data/articles/senior-citizens-must-hav.ed1b1019/README.md) `dailymirror.lk`
+* [Why this year’s World Cup ball may not fly as far](data/articles/why-this-year-s-world-cu.1b9b9c10/README.md) `technologyreview.com`
 * [Sri Lanka failing to utilise returns  on women’s education boom: ADB study](data/articles/sri-lanka-failing-to-uti.dc4678e4/README.md) `ft.lk`
 * [Unlocking Sri Lanka’s full economic potential by leveraging human capital](data/articles/unlocking-sri-lanka-s-fu.4c7ec75c/README.md) `ft.lk`
 * [Cost accounting standards for Sri Lanka:  A timely measure taken by CMA Sri Lanka](data/articles/cost-accounting-standard.21dea211/README.md) `ft.lk`
