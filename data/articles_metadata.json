@@ -35,6 +35,20 @@
     "time_str_formatted": "06:11 AM, Friday, June 12, 2026"
   },
   {
+    "title": "You do your own time",
+    "url": "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+    "ut": 1781224200.0,
+    "dir_path_unix": "data/articles/you-do-your-own-time.64620bfb",
+    "time_str_formatted": "06:00 AM, Friday, June 12, 2026"
+  },
+  {
+    "title": "Controversy over continuing retiring age of Superior court judges \u201cSerious Disunity and Division over govt. move to increase top judges\u2019 retirement AGe \u201d  \u2013 Prof. G. L. Peiris",
+    "url": "https://www.dailymirror.lk/news-features/Controversy-over-continuing-retiring-age-of-Superior-court-judges-Serious-Disunity-and-Division-over-govt-move-to-increase-top-judges-retirement-AGe-Prof-G-L-Peiris/131-342689",
+    "ut": 1781217767.0,
+    "dir_path_unix": "data/articles/controversy-over-continu.226c6297",
+    "time_str_formatted": "04:12 AM, Friday, June 12, 2026"
+  },
+  {
     "title": "Easter attack: Who is telling the truth?",
     "url": "https://www.dailymirror.lk/opinion/Easter-attack-Who-is-telling-the-truth/172-342688",
     "ut": 1781217002.0,
@@ -91,10 +105,24 @@
     "time_str_formatted": "06:02 AM, Thursday, June 11, 2026"
   },
   {
+    "title": "Inside soccer\u2019s data renaissance",
+    "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+    "ut": 1781137800.0,
+    "dir_path_unix": "data/articles/inside-soccer-s-data-ren.d64a6f7d",
+    "time_str_formatted": "06:00 AM, Thursday, June 11, 2026"
+  },
+  {
     "title": "Job titles of the future: Nature\u2019s drug designer",
     "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
     "ut": 1781137800.0,
     "dir_path_unix": "data/articles/job-titles-of-the-future.869cad82",
+    "time_str_formatted": "06:00 AM, Thursday, June 11, 2026"
+  },
+  {
+    "title": "Why China is betting on big nuclear reactors",
+    "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+    "ut": 1781137800.0,
+    "dir_path_unix": "data/articles/why-china-is-betting-on.d853c3a3",
     "time_str_formatted": "06:00 AM, Thursday, June 11, 2026"
   },
   {
@@ -152,6 +180,13 @@
     "ut": 1781049921.0,
     "dir_path_unix": "data/articles/navigating-the-intellige.8e91f0b8",
     "time_str_formatted": "05:35 AM, Wednesday, June 10, 2026"
+  },
+  {
+    "title": "The \u201csteroid olympics\u201d were a circus\u2014and a window into our culture",
+    "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+    "ut": 1781047800.0,
+    "dir_path_unix": "data/articles/the-steroid-olympics-wer.ea2ec57e",
+    "time_str_formatted": "05:00 AM, Wednesday, June 10, 2026"
   },
   {
     "title": "Can the Sri Lankan public sector be revived?",

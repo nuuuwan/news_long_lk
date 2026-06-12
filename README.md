@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-12 07:05:55**
+Last Updated **2026-06-12 19:17:38**
 
 ## 2026-06-12
 
@@ -11,6 +11,8 @@ Last Updated **2026-06-12 07:05:55**
 * [How much is a wild Sri Lankan elephant worth?](data/articles/how-much-is-a-wild-sri-l.489945c7/README.md) `ft.lk`
 * [Clean Sri Lanka: From slogan to a modern waste management system](data/articles/clean-sri-lanka-from-slo.a99a5277/README.md) `ft.lk`
 * [Mannar Basin: South Asia’s overlooked energy play](data/articles/mannar-basin-south-asia.55aa5243/README.md) `ft.lk`
+* [You do your own time](data/articles/you-do-your-own-time.64620bfb/README.md) `technologyreview.com`
+* [Controversy over continuing retiring age of Superior court judges “Serious Disunity and Division over govt. move to increase top judges’ retirement AGe ”  – Prof. G. L. Peiris](data/articles/controversy-over-continu.226c6297/README.md) `dailymirror.lk`
 * [Easter attack: Who is telling the truth?](data/articles/easter-attack-who-is-tel.fa15f75a/README.md) `dailymirror.lk`
 * [Whither peace efforts as Iran war escalates?](data/articles/whither-peace-efforts-as.699bf254/README.md) `dailymirror.lk`
 * [Is the country ready for extreme weather effects?](data/articles/is-the-country-ready-for.c898c6ca/README.md) `dailymirror.lk`
@@ -22,7 +24,9 @@ Last Updated **2026-06-12 07:05:55**
 * [Flaws in the Law: Electoral reform and democratic accountability](data/articles/flaws-in-the-law-elector.b8113c17/README.md) `ft.lk`
 * [Budget records a surplus: Will it prevail?](data/articles/budget-records-a-surplus.63a25ec9/README.md) `ft.lk`
 * [The EPF under CBSL custody: Fixing the principal-agent problem](data/articles/the-epf-under-cbsl-custo.608afcd5/README.md) `ft.lk`
+* [Inside soccer’s data renaissance](data/articles/inside-soccer-s-data-ren.d64a6f7d/README.md) `technologyreview.com`
 * [Job titles of the future: Nature’s drug designer](data/articles/job-titles-of-the-future.869cad82/README.md) `technologyreview.com`
+* [Why China is betting on big nuclear reactors](data/articles/why-china-is-betting-on.d853c3a3/README.md) `technologyreview.com`
 
 ## 2026-06-10
 
@@ -34,6 +38,7 @@ Last Updated **2026-06-12 07:05:55**
 * [Inland Revenue (Amendment) Act No. 11 of 2026: A comprehensive income tax reform](data/articles/inland-revenue-amendment.9ad0c324/README.md) `ft.lk`
 * [QR payments in Sri Lanka: How to break the ‘chicken and egg’ situation?](data/articles/qr-payments-in-sri-lanka.d9a25648/README.md) `ft.lk`
 * [Navigating the intelligent tide:  How AI and Generative AI are reshaping maritime mobility in South Asia](data/articles/navigating-the-intellige.8e91f0b8/README.md) `ft.lk`
+* [The “steroid olympics” were a circus—and a window into our culture](data/articles/the-steroid-olympics-wer.ea2ec57e/README.md) `technologyreview.com`
 * [Can the Sri Lankan public sector be revived?](data/articles/can-the-sri-lankan-publi.dc8dd66b/README.md) `dailymirror.lk`
 
 ## 2026-06-09
