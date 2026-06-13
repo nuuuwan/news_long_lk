@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-13 07:04:16**
+Last Updated **2026-06-13 18:37:34**
+
+## 2026-06-13
+
+* [Terror’s autopsy and a tale of two citizenries](data/articles/terror-s-autopsy-and-a-t.19b18829/README.md) `ft.lk`
+* [Coal power fraud](data/articles/coal-power-fraud.94551daf/README.md) `ft.lk`
+* [Hilton Colombo: Why tie the bride’s hands before the auction?](data/articles/hilton-colombo-why-tie-t.20b42afc/README.md) `ft.lk`
+* [Talent: New currency of Board governance and institutional survival](data/articles/talent-new-currency-of-b.84acb9ea/README.md) `ft.lk`
+* [Engineering the heart in Houston, supporting our pulse too from afar](data/articles/engineering-the-heart-in.9b1230cc/README.md) `ft.lk`
 
 ## 2026-06-12
 
+* [I don’t really feel the  U.S. has clear strategy on Iran - Yale Professor David C. Engerman](data/articles/i-don-t-really-feel-the.1afbeaec/README.md) `dailymirror.lk`
+* [Sri Lanka’s joining the RCEP - opportunities and challenges](data/articles/sri-lanka-s-joining-the.824ee837/README.md) `dailymirror.lk`
+* [Dubai: The golden boy of make believe is in  crisis](data/articles/dubai-the-golden-boy-of.9f21373d/README.md) `dailymirror.lk`
+* [The Silent Crisis of Elderly Safety in Sri Lanka](data/articles/the-silent-crisis-of-eld.4eee00f1/README.md) `dailymirror.lk`
+* [Facing the El Nino phenomenon and proclivities of the West](data/articles/facing-the-el-nino-pheno.adf4b789/README.md) `dailymirror.lk`
 * [Sri Lanka Resilience and Accountability Framework 2026: A legislated KPI Charter with mandatory legal consequences](data/articles/sri-lanka-resilience-and.445bb4c2/README.md) `ft.lk`
 * [Political leadership in times of chaos and war](data/articles/political-leadership-in.90fba773/README.md) `ft.lk`
 * [How much is a wild Sri Lankan elephant worth?](data/articles/how-much-is-a-wild-sri-l.489945c7/README.md) `ft.lk`
