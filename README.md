@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-14 07:06:09**
+Last Updated **2026-06-14 18:40:56**
 
 ## 2026-06-13
 
@@ -2069,6 +2069,7 @@ Last Updated **2026-06-14 07:06:09**
 
 * [The close of that strangest of ages:  is the era and ethos of strongman  governments gone for good? (4/4)](data/articles/the-close-of-that-strang.5b420039/README.md) `ft.lk`
 * [“Black October” 35th Anniversary: Why did the LTTE Expel Northern Muslims  En Masse in 1990?](data/articles/black-october-35th-anni.99423abf/README.md) `dbsjeyaraj.com`
+* [Monsoon Lessons: What the rains teach Sri Lanka about resilience](data/articles/monsoon-lessons-what-the.4e2d2e3c/README.md) `dailymirror.lk`
 * [What’s next for carbon removal?](data/articles/what-s-next-for-carbon-r.09221c72/README.md) `technologyreview.com`
 * [Budget 2026: Interest or investment?](data/articles/budget-2026-interest-or.d3d24130/README.md) `ft.lk`
 * [Betrayal of trust](data/articles/betrayal-of-trust.d8f92a9b/README.md) `ft.lk`
