@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-15 07:09:03**
+Last Updated **2026-06-15 20:11:20**
 
 ## 2026-06-15
 
+* [When Honesty Becomes a Strategy](data/articles/when-honesty-becomes-a-s.aead42bb/README.md) `dailymirror.lk`
 * [ABC of errors and omissions: Compilation governance issues, yes, but no loss in CB](data/articles/abc-of-errors-and-omissi.8a2b5ca6/README.md) `ft.lk`
 * [Tax evasion as a criminal offence:  A blessing for taxpayers  and burden on tax officials](data/articles/tax-evasion-as-a-crimina.d5b28cb0/README.md) `ft.lk`
 * [Primary dealers not subject to VAT on Financial Services](data/articles/primary-dealers-not-subj.d9e44d9e/README.md) `ft.lk`
@@ -14,6 +15,7 @@ Last Updated **2026-06-15 07:09:03**
 * [Transparency, predictability key  to encouraging more  Australian investment - High Commissioner](data/articles/transparency-predictabil.de0c78d8/README.md) `dailymirror.lk`
 * [Easter Sunday Debacle: Not by Default,  But by Design  - The Damning 3-P Nexus](data/articles/easter-sunday-debacle-no.4d82fc2b/README.md) `dailymirror.lk`
 * [Rights in Custody: A Comparative Look at 1962 Coup Accused and Sallay](data/articles/rights-in-custody-a-comp.faaa5add/README.md) `dailymirror.lk`
+* [Justice, or pleasing  the crowd?](data/articles/justice-or-pleasing-the.e431fd3d/README.md) `dailymirror.lk`
 * [Justice, or pleasing  pleasing the crowd?](data/articles/justice-or-pleasing-plea.8997ee6d/README.md) `dailymirror.lk`
 
 ## 2026-06-13
