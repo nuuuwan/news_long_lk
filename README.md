@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-16 07:09:35**
+Last Updated **2026-06-16 19:53:05**
 
 ## 2026-06-16
 
@@ -48,6 +48,7 @@ Last Updated **2026-06-16 07:09:35**
 * [Mannar Basin: South Asia’s overlooked energy play](data/articles/mannar-basin-south-asia.55aa5243/README.md) `ft.lk`
 * [You do your own time](data/articles/you-do-your-own-time.64620bfb/README.md) `technologyreview.com`
 * [Inside interoception: The hidden sense of how you feel inside](data/articles/inside-interoception-the.1930a634/README.md) `technologyreview.com`
+* [Why “reprogramming” is the buzziest approach to reversing aging right now](data/articles/why-reprogramming-is-the.3553f6a4/README.md) `technologyreview.com`
 * [Controversy over continuing retiring age of Superior court judges “Serious Disunity and Division over govt. move to increase top judges’ retirement AGe ”  – Prof. G. L. Peiris](data/articles/controversy-over-continu.226c6297/README.md) `dailymirror.lk`
 * [Easter attack: Who is telling the truth?](data/articles/easter-attack-who-is-tel.fa15f75a/README.md) `dailymirror.lk`
 * [Whither peace efforts as Iran war escalates?](data/articles/whither-peace-efforts-as.699bf254/README.md) `dailymirror.lk`
