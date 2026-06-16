@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-15 20:11:20**
+Last Updated **2026-06-16 07:09:35**
+
+## 2026-06-16
+
+* [Can Indian Ocean Dipole cushion  Sri Lanka from a strong El Niño?](data/articles/can-indian-ocean-dipole.d937dca8/README.md) `ft.lk`
+* [Sri Lanka’s economic recovery requires more than stability](data/articles/sri-lanka-s-economic-rec.c8ee873c/README.md) `ft.lk`
+* [Debunking Economic Myths # 1: Central Bank has no role in exchange rate management](data/articles/debunking-economic-myths.79a55130/README.md) `ft.lk`
 
 ## 2026-06-15
 
+* [What really happens when Rupee falls – and why Sri Lanka is asking the wrong question](data/articles/what-really-happens-when.0e8e3f58/README.md) `ft.lk`
+* [Why do South Koreans love AI so much?](data/articles/why-do-south-koreans-lov.2e6677ef/README.md) `technologyreview.com`
 * [When Honesty Becomes a Strategy](data/articles/when-honesty-becomes-a-s.aead42bb/README.md) `dailymirror.lk`
 * [ABC of errors and omissions: Compilation governance issues, yes, but no loss in CB](data/articles/abc-of-errors-and-omissi.8a2b5ca6/README.md) `ft.lk`
 * [Tax evasion as a criminal offence:  A blessing for taxpayers  and burden on tax officials](data/articles/tax-evasion-as-a-crimina.d5b28cb0/README.md) `ft.lk`
@@ -39,6 +47,7 @@ Last Updated **2026-06-15 20:11:20**
 * [Clean Sri Lanka: From slogan to a modern waste management system](data/articles/clean-sri-lanka-from-slo.a99a5277/README.md) `ft.lk`
 * [Mannar Basin: South Asia’s overlooked energy play](data/articles/mannar-basin-south-asia.55aa5243/README.md) `ft.lk`
 * [You do your own time](data/articles/you-do-your-own-time.64620bfb/README.md) `technologyreview.com`
+* [Inside interoception: The hidden sense of how you feel inside](data/articles/inside-interoception-the.1930a634/README.md) `technologyreview.com`
 * [Controversy over continuing retiring age of Superior court judges “Serious Disunity and Division over govt. move to increase top judges’ retirement AGe ”  – Prof. G. L. Peiris](data/articles/controversy-over-continu.226c6297/README.md) `dailymirror.lk`
 * [Easter attack: Who is telling the truth?](data/articles/easter-attack-who-is-tel.fa15f75a/README.md) `dailymirror.lk`
 * [Whither peace efforts as Iran war escalates?](data/articles/whither-peace-efforts-as.699bf254/README.md) `dailymirror.lk`
@@ -46,6 +55,7 @@ Last Updated **2026-06-15 20:11:20**
 
 ## 2026-06-11
 
+* [Google DeepMind is worried about what happens when millions of agents start to interact](data/articles/google-deepmind-is-worri.5fa34051/README.md) `technologyreview.com`
 * [Transforming a developing  nation into a developed one -Part I](data/articles/transforming-a-developin.7888b5ca/README.md) `ft.lk`
 * [Suresh Sallay’s circumstances; ‘Sajith’s body, Ranil’s head’ absurdity damages SJB-UNP](data/articles/suresh-sallay-s-circumst.9d8e3d1e/README.md) `ft.lk`
 * [Flaws in the Law: Electoral reform and democratic accountability](data/articles/flaws-in-the-law-elector.b8113c17/README.md) `ft.lk`
