@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-16 19:53:05**
+Last Updated **2026-06-17 07:07:51**
+
+## 2026-06-17
+
+* [The AI decision Sri Lankan schools are taking in silence](data/articles/the-ai-decision-sri-lank.c2a18c90/README.md) `ft.lk`
+* [Tax by choice, not force:  Can Sri Lanka make the shift?](data/articles/tax-by-choice-not-force.c6f8f0c4/README.md) `ft.lk`
+* [Way forward for SME borrowers](data/articles/way-forward-for-sme-borr.7e9e7af9/README.md) `ft.lk`
+* [Sri Lanka won’t change until YOU change](data/articles/sri-lanka-won-t-change-u.73e21863/README.md) `ft.lk`
+* [Sri Lanka’s uneven growth: Why Colombo thrives while the rest of the country struggles](data/articles/sri-lanka-s-uneven-growt.a214e579/README.md) `ft.lk`
 
 ## 2026-06-16
 
+* [Video Quick Take: The Challenge of Building High-Performance Cybersecurity Teams](data/articles/video-quick-take-the-cha.c4d7cc37/README.md) `hbr.org`
 * [Can Indian Ocean Dipole cushion  Sri Lanka from a strong El Niño?](data/articles/can-indian-ocean-dipole.d937dca8/README.md) `ft.lk`
 * [Sri Lanka’s economic recovery requires more than stability](data/articles/sri-lanka-s-economic-rec.c8ee873c/README.md) `ft.lk`
 * [Debunking Economic Myths # 1: Central Bank has no role in exchange rate management](data/articles/debunking-economic-myths.79a55130/README.md) `ft.lk`
