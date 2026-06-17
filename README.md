@@ -2,18 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-17 07:07:51**
+Last Updated **2026-06-17 19:22:41**
 
 ## 2026-06-17
 
+* [From fragmented environmental law to One Planet Law](data/articles/from-fragmented-environm.3e7722bd/README.md) `ft.lk`
 * [The AI decision Sri Lankan schools are taking in silence](data/articles/the-ai-decision-sri-lank.c2a18c90/README.md) `ft.lk`
 * [Tax by choice, not force:  Can Sri Lanka make the shift?](data/articles/tax-by-choice-not-force.c6f8f0c4/README.md) `ft.lk`
 * [Way forward for SME borrowers](data/articles/way-forward-for-sme-borr.7e9e7af9/README.md) `ft.lk`
 * [Sri Lanka won’t change until YOU change](data/articles/sri-lanka-won-t-change-u.73e21863/README.md) `ft.lk`
 * [Sri Lanka’s uneven growth: Why Colombo thrives while the rest of the country struggles](data/articles/sri-lanka-s-uneven-growt.a214e579/README.md) `ft.lk`
+* [Entrepreneurs in Nairobi make the case for going solar](data/articles/entrepreneurs-in-nairobi.db992211/README.md) `technologyreview.com`
 
 ## 2026-06-16
 
+* [More questions than answers in  Suresh Sallay’s  detention](data/articles/more-questions-than-answ.74a28c03/README.md) `dailymirror.lk`
+* [Banks are facing serious challenges](data/articles/banks-are-facing-serious.1b6058c2/README.md) `dailymirror.lk`
+* [The US-Iran MoU and the fly in the ointment](data/articles/the-us-iran-mou-and-the.27230020/README.md) `dailymirror.lk`
 * [Video Quick Take: The Challenge of Building High-Performance Cybersecurity Teams](data/articles/video-quick-take-the-cha.c4d7cc37/README.md) `hbr.org`
 * [Can Indian Ocean Dipole cushion  Sri Lanka from a strong El Niño?](data/articles/can-indian-ocean-dipole.d937dca8/README.md) `ft.lk`
 * [Sri Lanka’s economic recovery requires more than stability](data/articles/sri-lanka-s-economic-rec.c8ee873c/README.md) `ft.lk`
@@ -24,6 +29,7 @@ Last Updated **2026-06-17 07:07:51**
 * [What really happens when Rupee falls – and why Sri Lanka is asking the wrong question](data/articles/what-really-happens-when.0e8e3f58/README.md) `ft.lk`
 * [Why do South Koreans love AI so much?](data/articles/why-do-south-koreans-lov.2e6677ef/README.md) `technologyreview.com`
 * [When Honesty Becomes a Strategy](data/articles/when-honesty-becomes-a-s.aead42bb/README.md) `dailymirror.lk`
+* [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](data/articles/these-new-solid-state-ac.2860d43c/README.md) `technologyreview.com`
 * [ABC of errors and omissions: Compilation governance issues, yes, but no loss in CB](data/articles/abc-of-errors-and-omissi.8a2b5ca6/README.md) `ft.lk`
 * [Tax evasion as a criminal offence:  A blessing for taxpayers  and burden on tax officials](data/articles/tax-evasion-as-a-crimina.d5b28cb0/README.md) `ft.lk`
 * [Primary dealers not subject to VAT on Financial Services](data/articles/primary-dealers-not-subj.d9e44d9e/README.md) `ft.lk`
