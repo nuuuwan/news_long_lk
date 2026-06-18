@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-17 19:22:41**
+Last Updated **2026-06-18 07:06:51**
 
 ## 2026-06-17
 
+* [Video Quick Take: Implementing Zero Trust in an AI-Driven Threat Landscape](data/articles/video-quick-take-impleme.64739506/README.md) `hbr.org`
 * [From fragmented environmental law to One Planet Law](data/articles/from-fragmented-environm.3e7722bd/README.md) `ft.lk`
 * [The AI decision Sri Lankan schools are taking in silence](data/articles/the-ai-decision-sri-lank.c2a18c90/README.md) `ft.lk`
 * [Tax by choice, not force:  Can Sri Lanka make the shift?](data/articles/tax-by-choice-not-force.c6f8f0c4/README.md) `ft.lk`
