@@ -1,5 +1,82 @@
 [
   {
+    "title": "Trump\u2019s new forced-labor tariffs strike Sri Lanka\u2019s fragile export recovery",
+    "url": "https://www.dailymirror.lk/news-features/Trumps-new-forced-labor-tariffs-strike-Sri-Lankas-fragile-export-recovery/131-343282",
+    "ut": 1781767013.0,
+    "dir_path_unix": "data/articles/trump-s-new-forced-labor.952b166e",
+    "time_str_formatted": "12:46 PM, Thursday, June 18, 2026"
+  },
+  {
+    "title": "Dark shadows: Prime Minister Harini Amarasuriya\u2019s declaration on PC elections",
+    "url": "https://www.ft.lk/columns/Dark-shadows-Prime-Minister-Harini-Amarasuriya-s-declaration-on-PC-elections/4-793455",
+    "ut": 1781747410.0,
+    "dir_path_unix": "data/articles/dark-shadows-prime-minis.810a2b9f",
+    "time_str_formatted": "07:20 AM, Thursday, June 18, 2026"
+  },
+  {
+    "title": "Have we lost the ability to draft good laws?",
+    "url": "https://www.ft.lk/columns/Have-we-lost-the-ability-to-draft-good-laws/4-793453",
+    "ut": 1781746997.0,
+    "dir_path_unix": "data/articles/have-we-lost-the-ability.9ba15134",
+    "time_str_formatted": "07:13 AM, Thursday, June 18, 2026"
+  },
+  {
+    "title": "Prajeeth\u2019s blueprint: The long game",
+    "url": "https://www.ft.lk/columns/Prajeeth-s-blueprint-The-long-game/4-793450",
+    "ut": 1781744858.0,
+    "dir_path_unix": "data/articles/prajeeth-s-blueprint-the.59c60633",
+    "time_str_formatted": "06:37 AM, Thursday, June 18, 2026"
+  },
+  {
+    "title": "Viet Nam\u2019s journey to economic and industrial powerhouse in Asia \u2014 A strategic reflection for Sri Lanka",
+    "url": "https://www.ft.lk/columns/Viet-Nam-s-journey-to-economic-and-industrial-powerhouse-in-Asia-A-strategic-reflection-for-Sri-Lanka/4-793449",
+    "ut": 1781744414.0,
+    "dir_path_unix": "data/articles/viet-nam-s-journey-to-ec.8db1f7ca",
+    "time_str_formatted": "06:30 AM, Thursday, June 18, 2026"
+  },
+  {
+    "title": "Paucity of demanding home consumers and world-class suppliers stymying SL\u2019s global competitiveness",
+    "url": "https://www.ft.lk/columns/Paucity-of-demanding-home-consumers-and-world-class-suppliers-stymying-SL-s-global-competitiveness/4-793447",
+    "ut": 1781743844.0,
+    "dir_path_unix": "data/articles/paucity-of-demanding-hom.2dacd07b",
+    "time_str_formatted": "06:20 AM, Thursday, June 18, 2026"
+  },
+  {
+    "title": "Geoengineering still faces major practical challenges",
+    "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+    "ut": 1781742600.0,
+    "dir_path_unix": "data/articles/geoengineering-still-fac.a8281218",
+    "time_str_formatted": "06:00 AM, Thursday, June 18, 2026"
+  },
+  {
+    "title": "\u201cSuresh is an innocent man suffering for no reason\u201d  \u2013 Manori Sallay",
+    "url": "https://www.dailymirror.lk/hard-talk/Suresh-is-an-innocent-man-suffering-for-no-reason-Manori-Sallay/334-343241",
+    "ut": 1781720968.0,
+    "dir_path_unix": "data/articles/suresh-is-an-innocent-m.8e8b0d09",
+    "time_str_formatted": "11:59 PM, Wednesday, June 17, 2026"
+  },
+  {
+    "title": "Easter Sunday attacks through political party prisms",
+    "url": "https://www.dailymirror.lk/opinion/Easter-Sunday-attacks-through-political-party-prisms/172-343240",
+    "ut": 1781720335.0,
+    "dir_path_unix": "data/articles/easter-sunday-attacks-th.0e0499ca",
+    "time_str_formatted": "11:48 PM, Wednesday, June 17, 2026"
+  },
+  {
+    "title": "Banning social media for children",
+    "url": "https://www.dailymirror.lk/opinion/Banning-social-media-for-children/172-343239",
+    "ut": 1781720204.0,
+    "dir_path_unix": "data/articles/banning-social-media-for.b30d3852",
+    "time_str_formatted": "11:46 PM, Wednesday, June 17, 2026"
+  },
+  {
+    "title": "Development \u2013 not at the cost of people or the environment",
+    "url": "https://www.dailymirror.lk/opinion/Development-not-at-the-cost-of-people-or-the-environment/172-343238",
+    "ut": 1781720091.0,
+    "dir_path_unix": "data/articles/development-not-at-the-c.89ddf06d",
+    "time_str_formatted": "11:44 PM, Wednesday, June 17, 2026"
+  },
+  {
     "title": "Video Quick Take: Implementing Zero Trust in an AI-Driven Threat Landscape",
     "url": "https://hbr.org/sponsored/2026/06/video-quick-take-implementing-zero-trust-in-an-ai-driven-threat-landscape",
     "ut": 1781704264.0,
@@ -124,6 +201,13 @@
     "ut": 1781503336.0,
     "dir_path_unix": "data/articles/when-honesty-becomes-a-s.aead42bb",
     "time_str_formatted": "11:32 AM, Monday, June 15, 2026"
+  },
+  {
+    "title": "This man with ALS is \u201cthe first power user\u201d of a brain implant that lets him speak",
+    "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+    "ut": 1781502148.0,
+    "dir_path_unix": "data/articles/this-man-with-als-is-the.5e6df513",
+    "time_str_formatted": "11:12 AM, Monday, June 15, 2026"
   },
   {
     "title": "These new solid-state ACs promise a cool future. Scientists aren\u2019t so sure.",

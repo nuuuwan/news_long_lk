@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-18 07:06:51**
+Last Updated **2026-06-18 19:15:00**
+
+## 2026-06-18
+
+* [Trump’s new forced-labor tariffs strike Sri Lanka’s fragile export recovery](data/articles/trump-s-new-forced-labor.952b166e/README.md) `dailymirror.lk`
+* [Dark shadows: Prime Minister Harini Amarasuriya’s declaration on PC elections](data/articles/dark-shadows-prime-minis.810a2b9f/README.md) `ft.lk`
+* [Have we lost the ability to draft good laws?](data/articles/have-we-lost-the-ability.9ba15134/README.md) `ft.lk`
+* [Prajeeth’s blueprint: The long game](data/articles/prajeeth-s-blueprint-the.59c60633/README.md) `ft.lk`
+* [Viet Nam’s journey to economic and industrial powerhouse in Asia — A strategic reflection for Sri Lanka](data/articles/viet-nam-s-journey-to-ec.8db1f7ca/README.md) `ft.lk`
+* [Paucity of demanding home consumers and world-class suppliers stymying SL’s global competitiveness](data/articles/paucity-of-demanding-hom.2dacd07b/README.md) `ft.lk`
+* [Geoengineering still faces major practical challenges](data/articles/geoengineering-still-fac.a8281218/README.md) `technologyreview.com`
 
 ## 2026-06-17
 
+* [“Suresh is an innocent man suffering for no reason”  – Manori Sallay](data/articles/suresh-is-an-innocent-m.8e8b0d09/README.md) `dailymirror.lk`
+* [Easter Sunday attacks through political party prisms](data/articles/easter-sunday-attacks-th.0e0499ca/README.md) `dailymirror.lk`
+* [Banning social media for children](data/articles/banning-social-media-for.b30d3852/README.md) `dailymirror.lk`
+* [Development – not at the cost of people or the environment](data/articles/development-not-at-the-c.89ddf06d/README.md) `dailymirror.lk`
 * [Video Quick Take: Implementing Zero Trust in an AI-Driven Threat Landscape](data/articles/video-quick-take-impleme.64739506/README.md) `hbr.org`
 * [From fragmented environmental law to One Planet Law](data/articles/from-fragmented-environm.3e7722bd/README.md) `ft.lk`
 * [The AI decision Sri Lankan schools are taking in silence](data/articles/the-ai-decision-sri-lank.c2a18c90/README.md) `ft.lk`
@@ -30,6 +44,7 @@ Last Updated **2026-06-18 07:06:51**
 * [What really happens when Rupee falls – and why Sri Lanka is asking the wrong question](data/articles/what-really-happens-when.0e8e3f58/README.md) `ft.lk`
 * [Why do South Koreans love AI so much?](data/articles/why-do-south-koreans-lov.2e6677ef/README.md) `technologyreview.com`
 * [When Honesty Becomes a Strategy](data/articles/when-honesty-becomes-a-s.aead42bb/README.md) `dailymirror.lk`
+* [This man with ALS is “the first power user” of a brain implant that lets him speak](data/articles/this-man-with-als-is-the.5e6df513/README.md) `technologyreview.com`
 * [These new solid-state ACs promise a cool future. Scientists aren’t so sure.](data/articles/these-new-solid-state-ac.2860d43c/README.md) `technologyreview.com`
 * [ABC of errors and omissions: Compilation governance issues, yes, but no loss in CB](data/articles/abc-of-errors-and-omissi.8a2b5ca6/README.md) `ft.lk`
 * [Tax evasion as a criminal offence:  A blessing for taxpayers  and burden on tax officials](data/articles/tax-evasion-as-a-crimina.d5b28cb0/README.md) `ft.lk`
