@@ -1,0 +1,27 @@
+{
+  "url": "https://hbr.org/sponsored/2026/06/video-quick-take-how-small-pieces-of-code-can-defend-an-entire-operating-system",
+  "title": "Video Quick Take: How Small Pieces of Code Can Defend an Entire Operating System",
+  "ut": 1781789913.0,
+  "body_paragraphs": [
+    "Hello, my name is Julie Devoll, editor of special projects and webinars at Harvard Business Review. I recently had the pleasure of attending Zero Trust World and sitting down with ThreatLocker senior software engineer Farid Mustafayev. Farid explained how carefully designed Windows components can influence and protect operating system behavior and why defensive architecture begins with disciplined code.",
+    "Farid, thank you so much for joining us today.",
+    "Farid Mustafayev, Threatlocker",
+    "Thank you for having me here.",
+    "So, from an engineer\u2019s perspective, how can a relatively small application influence and protect behavior across an entire operating system?",
+    "Farid Mustafayev, Threatlocker",
+    "The point is the operating system is centralized enforcement end points. And if [an] attacker put his code on that level, in that case, he can change the behavior of the application. Just think about that.",
+    "First of all, kit process\u2014that\u2019s the level of the kernel. And if someone intercepts that level, in that case, he can change the behavior. For example, filter drivers that we are putting there as well\u2014so ThreatLocker [is] using [a] filter driver for that. And that way we can handle every single application [that] goes through the system on that level.",
+    "So what are the biggest technical challenges, then, when building security controls that operate at the system level rather than at the application level?",
+    "Farid Mustafayev, Threatlocker",
+    "The biggest technical challenges here can be multiple. First of all, it is safety, safety of the running application, because every single small developer issue on [the] system level can crash the whole system. And the point is, when [a] developer implements that, it is not obvious for every single system, because every single system, depending on the patch version that it has, depending on the operating system version, can behave differently.",
+    "\\And that way, a developer should be really careful about every single small change. And also the performance\u2014the performance itself is very important. Usually, we are spending a lot of hours trying to make performance better and better, because every time, when every single file application\u2014for example, let\u2019s say by the filter driver intercepted, even [a] milliseconds delay can have very big consequences.",
+    "Just imagine, like, during one hour, [a] system handles more than 1,000 or 10,000 applications. And if we have [a] filter driver [that] intercepts all of them, in that case, it takes a lot of time to handle every single one. That way, developers are trying to find some good approaches with caching and on different levels to not block operations and just let them go through.",
+    "So in a world where attackers are constantly evolving their techniques, how do engineers design controls that remain effective without [being in] constant reactive mode?",
+    "Farid Mustafayev, Threatlocker",
+    "Yeah, the point is, in [the] modern world, there is no reason to try to find every single application [that] can be malicious. That signature approach, which usually [an] antivirus is using, is not really good for [the] modern world, because everything changes so fast.",
+    "And I would say the modern security companies trying to go either with [a] behavior-based approach or going to with allow listing, default deny, as we say in [the] ThreatLocker approach. And that way, it doesn\u2019t matter what kind of techniques are going to find attackers. We are going to intercept it. We are going to find\u2014we are going to block the application. And that way, technique doesn\u2019t really matter to us.",
+    "Well, Farid, thank you so much for sharing your insights with us today.",
+    "Farid Mustafayev, Threatlocker",
+    "Click here to learn more about Threatlocker."
+  ]
+}

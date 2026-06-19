@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-18 19:15:00**
+Last Updated **2026-06-19 07:13:34**
+
+## 2026-06-19
+
+* [“Finger on Trigger:” US-Iran peace deal is Fragile](data/articles/finger-on-trigger-us-ir.97810799/README.md) `dailymirror.lk`
 
 ## 2026-06-18
 
+* [Video Quick Take: How Small Pieces of Code Can Defend an Entire Operating System](data/articles/video-quick-take-how-sma.c82b3ed0/README.md) `hbr.org`
 * [Trump’s new forced-labor tariffs strike Sri Lanka’s fragile export recovery](data/articles/trump-s-new-forced-labor.952b166e/README.md) `dailymirror.lk`
 * [Dark shadows: Prime Minister Harini Amarasuriya’s declaration on PC elections](data/articles/dark-shadows-prime-minis.810a2b9f/README.md) `ft.lk`
 * [Have we lost the ability to draft good laws?](data/articles/have-we-lost-the-ability.9ba15134/README.md) `ft.lk`
