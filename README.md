@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-19 07:13:34**
+Last Updated **2026-06-19 19:19:01**
 
 ## 2026-06-19
 
+* [Do higher taxes mean less work? What Sri Lanka’s 2022 tax reform tells us](data/articles/do-higher-taxes-mean-les.b18fbee2/README.md) `ft.lk`
+* [A startup claims it broke through a bottleneck that’s holding back LLMs](data/articles/a-startup-claims-it-brok.8add01e4/README.md) `technologyreview.com`
+* [Solvency is for the State, prosperity is for the people](data/articles/solvency-is-for-the-stat.31c7ecab/README.md) `ft.lk`
+* [Transformational climate adaptation in Sri Lanka needs better governance](data/articles/transformational-climate.86f9331b/README.md) `ft.lk`
+* [Beyond the IMF: Why Sri Lanka needs a national vision, strong institutions and effective economic diplomacy](data/articles/beyond-the-imf-why-sri-l.db21fe2d/README.md) `ft.lk`
+* [Stop producing Master Plans:  Sri Lanka needs only a ‘Friction-free ecosystem’ for economic growth](data/articles/stop-producing-master-pl.471e1c41/README.md) `ft.lk`
 * [“Finger on Trigger:” US-Iran peace deal is Fragile](data/articles/finger-on-trigger-us-ir.97810799/README.md) `dailymirror.lk`
 
 ## 2026-06-18
@@ -33,6 +39,7 @@ Last Updated **2026-06-19 07:13:34**
 * [Sri Lanka won’t change until YOU change](data/articles/sri-lanka-won-t-change-u.73e21863/README.md) `ft.lk`
 * [Sri Lanka’s uneven growth: Why Colombo thrives while the rest of the country struggles](data/articles/sri-lanka-s-uneven-growt.a214e579/README.md) `ft.lk`
 * [Entrepreneurs in Nairobi make the case for going solar](data/articles/entrepreneurs-in-nairobi.db992211/README.md) `technologyreview.com`
+* [Hacking the atmosphere: Geoengineering gets a reality check](data/articles/hacking-the-atmosphere-g.8ee7ec35/README.md) `technologyreview.com`
 
 ## 2026-06-16
 
@@ -40,6 +47,7 @@ Last Updated **2026-06-19 07:13:34**
 * [Banks are facing serious challenges](data/articles/banks-are-facing-serious.1b6058c2/README.md) `dailymirror.lk`
 * [The US-Iran MoU and the fly in the ointment](data/articles/the-us-iran-mou-and-the.27230020/README.md) `dailymirror.lk`
 * [Video Quick Take: The Challenge of Building High-Performance Cybersecurity Teams](data/articles/video-quick-take-the-cha.c4d7cc37/README.md) `hbr.org`
+* [Want to get a data center online quickly? Give it some flex.](data/articles/want-to-get-a-data-cente.a0c826c4/README.md) `technologyreview.com`
 * [Can Indian Ocean Dipole cushion  Sri Lanka from a strong El Niño?](data/articles/can-indian-ocean-dipole.d937dca8/README.md) `ft.lk`
 * [Sri Lanka’s economic recovery requires more than stability](data/articles/sri-lanka-s-economic-rec.c8ee873c/README.md) `ft.lk`
 * [Debunking Economic Myths # 1: Central Bank has no role in exchange rate management](data/articles/debunking-economic-myths.79a55130/README.md) `ft.lk`
