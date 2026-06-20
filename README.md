@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-19 19:19:01**
+Last Updated **2026-06-20 06:58:15**
+
+## 2026-06-20
+
+* [From protestation to pragmatism: NPP’s economic coming of age?](data/articles/from-protestation-to-pra.d6843bd9/README.md) `ft.lk`
+* [Frauds at SriLankan Airlines](data/articles/frauds-at-srilankan-airl.ecee359c/README.md) `ft.lk`
+* [A great pillar of the business community bids farewell](data/articles/a-great-pillar-of-the-bu.c7d4fed0/README.md) `ft.lk`
+* [Forged in vision, bound by service: KDA Intake 1 at 45 years](data/articles/forged-in-vision-bound-b.bc87c6ed/README.md) `ft.lk`
 
 ## 2026-06-19
 
