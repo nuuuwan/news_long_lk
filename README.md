@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-22 07:08:46**
+Last Updated **2026-06-22 19:57:09**
 
 ## 2026-06-22
 
@@ -45,6 +45,7 @@ Last Updated **2026-06-22 07:08:46**
 * [Viet Nam’s journey to economic and industrial powerhouse in Asia — A strategic reflection for Sri Lanka](data/articles/viet-nam-s-journey-to-ec.8db1f7ca/README.md) `ft.lk`
 * [Paucity of demanding home consumers and world-class suppliers stymying SL’s global competitiveness](data/articles/paucity-of-demanding-hom.2dacd07b/README.md) `ft.lk`
 * [Geoengineering still faces major practical challenges](data/articles/geoengineering-still-fac.a8281218/README.md) `technologyreview.com`
+* [The search for dark matter has been blown wide open](data/articles/the-search-for-dark-matt.125b40f2/README.md) `technologyreview.com`
 
 ## 2026-06-17
 
