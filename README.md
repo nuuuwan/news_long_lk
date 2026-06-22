@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-21 18:48:37**
+Last Updated **2026-06-22 07:08:46**
+
+## 2026-06-22
+
+* [A new Mediation Law for smarter dispute resolution of civil and commercial disputes](data/articles/a-new-mediation-law-for.0003ddfb/README.md) `ft.lk`
+* [How Sri Lanka can transform education, according to Prof. Gunapala Nanayakkara](data/articles/how-sri-lanka-can-transf.9efbc8e1/README.md) `ft.lk`
+* [No turning back despite setbacks](data/articles/no-turning-back-despite.79f68d31/README.md) `ft.lk`
+* [Entrepreneurship: The Spinal Cord of Economic Resurgence and the Solution to Unemployment](data/articles/entrepreneurship-the-spi.10ccca73/README.md) `dailymirror.lk`
+* [Sacrificing Autonomy- Penny Wise, Pound Foolish: Maritime Security Cooperation with India](data/articles/sacrificing-autonomy-pen.2382521b/README.md) `dailymirror.lk`
+* [The two faces of Dubai:  Glitzy high-rises, low-paid workers](data/articles/the-two-faces-of-dubai-g.635e1e62/README.md) `dailymirror.lk`
+* [Restoring the Uva Railway as alternative to shutting it down](data/articles/restoring-the-uva-railwa.5840939f/README.md) `dailymirror.lk`
+* [Father’s Day, and the fate of many Lankan fathers](data/articles/father-s-day-and-the-fat.95639341/README.md) `dailymirror.lk`
 
 ## 2026-06-20
 
