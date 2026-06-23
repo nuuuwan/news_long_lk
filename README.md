@@ -2,16 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-23 06:53:32**
+Last Updated **2026-06-23 19:02:46**
 
 ## 2026-06-23
 
+* [Debunking economic myths # 2: High 1Q GDP growth indicates sustained progress](data/articles/debunking-economic-myths.0c3b6dc2/README.md) `ft.lk`
 * [Financial frauds: Why crypto tax enforcement is Sri Lanka’s strongest weapon](data/articles/financial-frauds-why-cry.d6d19cf1/README.md) `ft.lk`
+* [Elephant alert! AI warning systems aim to avoid deadly clashes](data/articles/elephant-alert-ai-warnin.ec7786d6/README.md) `technologyreview.com`
 
 ## 2026-06-22
 
 * [Mandatory TIN registration for all individuals above 18: A legal requirement or public misconception?](data/articles/mandatory-tin-registrati.a91c9fe9/README.md) `ft.lk`
 * [Sri Lanka’s export test: Can the NEDP deliver by 2030?](data/articles/sri-lanka-s-export-test.0f684d45/README.md) `ft.lk`
+* [Forest cover and tribal groups affected: India gives up  critical naval airbase  under environmentalists’ pressure](data/articles/forest-cover-and-tribal.5a97f752/README.md) `dailymirror.lk`
+* [Parents’ Eye-sore: School Uniforms Love Telesdramas](data/articles/parents-eye-sore-school.f52b409b/README.md) `dailymirror.lk`
+* [Dengue is an attitudinal crisis](data/articles/dengue-is-an-attitudinal.5c710b41/README.md) `dailymirror.lk`
 * [Three things to watch amid Anthropic’s latest feud with the government](data/articles/three-things-to-watch-am.e5321e5c/README.md) `technologyreview.com`
 * [A new Mediation Law for smarter dispute resolution of civil and commercial disputes](data/articles/a-new-mediation-law-for.0003ddfb/README.md) `ft.lk`
 * [How Sri Lanka can transform education, according to Prof. Gunapala Nanayakkara](data/articles/how-sri-lanka-can-transf.9efbc8e1/README.md) `ft.lk`
@@ -40,6 +45,8 @@ Last Updated **2026-06-23 06:53:32**
 * [Transformational climate adaptation in Sri Lanka needs better governance](data/articles/transformational-climate.86f9331b/README.md) `ft.lk`
 * [Beyond the IMF: Why Sri Lanka needs a national vision, strong institutions and effective economic diplomacy](data/articles/beyond-the-imf-why-sri-l.db21fe2d/README.md) `ft.lk`
 * [Stop producing Master Plans:  Sri Lanka needs only a ‘Friction-free ecosystem’ for economic growth](data/articles/stop-producing-master-pl.471e1c41/README.md) `ft.lk`
+* [The inevitable weakness of metrics](data/articles/the-inevitable-weakness.3a1b3208/README.md) `technologyreview.com`
+* [Brain-computer interface trials are taking off](data/articles/brain-computer-interface.183efb0f/README.md) `technologyreview.com`
 * [“Finger on Trigger:” US-Iran peace deal is Fragile](data/articles/finger-on-trigger-us-ir.97810799/README.md) `dailymirror.lk`
 
 ## 2026-06-18
