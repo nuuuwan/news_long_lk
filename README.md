@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-22 19:57:09**
+Last Updated **2026-06-23 06:53:32**
+
+## 2026-06-23
+
+* [Financial frauds: Why crypto tax enforcement is Sri Lanka’s strongest weapon](data/articles/financial-frauds-why-cry.d6d19cf1/README.md) `ft.lk`
 
 ## 2026-06-22
 
+* [Mandatory TIN registration for all individuals above 18: A legal requirement or public misconception?](data/articles/mandatory-tin-registrati.a91c9fe9/README.md) `ft.lk`
+* [Sri Lanka’s export test: Can the NEDP deliver by 2030?](data/articles/sri-lanka-s-export-test.0f684d45/README.md) `ft.lk`
+* [Three things to watch amid Anthropic’s latest feud with the government](data/articles/three-things-to-watch-am.e5321e5c/README.md) `technologyreview.com`
 * [A new Mediation Law for smarter dispute resolution of civil and commercial disputes](data/articles/a-new-mediation-law-for.0003ddfb/README.md) `ft.lk`
 * [How Sri Lanka can transform education, according to Prof. Gunapala Nanayakkara](data/articles/how-sri-lanka-can-transf.9efbc8e1/README.md) `ft.lk`
 * [No turning back despite setbacks](data/articles/no-turning-back-despite.79f68d31/README.md) `ft.lk`
