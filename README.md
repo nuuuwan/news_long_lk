@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-24 06:51:46**
+Last Updated **2026-06-24 18:53:50**
 
 ## 2026-06-24
 
+* [Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections](data/articles/stripe-anthropic-and-ope.63a3868f/README.md) `technologyreview.com`
 * [Pyramid schemes explained: How ordinary people are trapped by false promises](data/articles/pyramid-schemes-explaine.5cf4ce22/README.md) `ft.lk`
 * [Can trade policy create better jobs?](data/articles/can-trade-policy-create.8f81f18b/README.md) `ft.lk`
 * [Next wave of currency depreciation](data/articles/next-wave-of-currency-de.0e97c4ce/README.md) `ft.lk`
@@ -34,6 +35,7 @@ Last Updated **2026-06-24 06:51:46**
 * [A new Mediation Law for smarter dispute resolution of civil and commercial disputes](data/articles/a-new-mediation-law-for.0003ddfb/README.md) `ft.lk`
 * [How Sri Lanka can transform education, according to Prof. Gunapala Nanayakkara](data/articles/how-sri-lanka-can-transf.9efbc8e1/README.md) `ft.lk`
 * [No turning back despite setbacks](data/articles/no-turning-back-despite.79f68d31/README.md) `ft.lk`
+* [Inside the world’s deepest and longest subsea road tunnel](data/articles/inside-the-world-s-deepe.15e05676/README.md) `technologyreview.com`
 * [Entrepreneurship: The Spinal Cord of Economic Resurgence and the Solution to Unemployment](data/articles/entrepreneurship-the-spi.10ccca73/README.md) `dailymirror.lk`
 * [Sacrificing Autonomy- Penny Wise, Pound Foolish: Maritime Security Cooperation with India](data/articles/sacrificing-autonomy-pen.2382521b/README.md) `dailymirror.lk`
 * [The two faces of Dubai:  Glitzy high-rises, low-paid workers](data/articles/the-two-faces-of-dubai-g.635e1e62/README.md) `dailymirror.lk`
