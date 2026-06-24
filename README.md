@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-23 19:02:46**
+Last Updated **2026-06-24 06:51:46**
+
+## 2026-06-24
+
+* [Pyramid schemes explained: How ordinary people are trapped by false promises](data/articles/pyramid-schemes-explaine.5cf4ce22/README.md) `ft.lk`
+* [Can trade policy create better jobs?](data/articles/can-trade-policy-create.8f81f18b/README.md) `ft.lk`
+* [Next wave of currency depreciation](data/articles/next-wave-of-currency-de.0e97c4ce/README.md) `ft.lk`
+* [Will lower oil prices become a lasting economic gain?](data/articles/will-lower-oil-prices-be.9b1da44c/README.md) `ft.lk`
+* [From vouchers to verification: Understanding new risk-based VAT refund system](data/articles/from-vouchers-to-verific.214ae910/README.md) `ft.lk`
+* [Cybercrime incident  had direct bearing  on EFF program - IMF Resident Representative](data/articles/cybercrime-incident-had.6884513c/README.md) `dailymirror.lk`
+* [British Prime Minister’s resignation Sri Lanka’s choice:  One-party rule,  or Internal Party democracy of political opposition](data/articles/british-prime-minister-s.385e24bd/README.md) `dailymirror.lk`
+* [Cruelty to women/children, sale of workers, and Lanka’s shame](data/articles/cruelty-to-women-childre.6eb02a92/README.md) `dailymirror.lk`
+* [Not at the  public’s inconvenience](data/articles/not-at-the-public-s-inco.6a4e6437/README.md) `dailymirror.lk`
 
 ## 2026-06-23
 
+* [When Power Tries to Write Its Own Legacy](data/articles/when-power-tries-to-writ.c6547028/README.md) `dailymirror.lk`
 * [Debunking economic myths # 2: High 1Q GDP growth indicates sustained progress](data/articles/debunking-economic-myths.0c3b6dc2/README.md) `ft.lk`
 * [Financial frauds: Why crypto tax enforcement is Sri Lanka’s strongest weapon](data/articles/financial-frauds-why-cry.d6d19cf1/README.md) `ft.lk`
 * [Elephant alert! AI warning systems aim to avoid deadly clashes](data/articles/elephant-alert-ai-warnin.ec7786d6/README.md) `technologyreview.com`
