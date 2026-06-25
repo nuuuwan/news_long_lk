@@ -21,6 +21,13 @@
     "time_str_formatted": "06:09 AM, Thursday, June 25, 2026"
   },
   {
+    "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
+    "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+    "ut": 1782347400.0,
+    "dir_path_unix": "data/articles/ibm-has-unveiled-chip-te.6a7b51be",
+    "time_str_formatted": "06:00 AM, Thursday, June 25, 2026"
+  },
+  {
     "title": "Digital civil space and freedom of expression under threat",
     "url": "https://www.ft.lk/opinion/Digital-civil-space-and-freedom-of-expression-under-threat/14-793754",
     "ut": 1782345191.0,
@@ -33,6 +40,34 @@
     "ut": 1782344094.0,
     "dir_path_unix": "data/articles/lucerne-lessons-for-lank.ae0dad1e",
     "time_str_formatted": "05:04 AM, Thursday, June 25, 2026"
+  },
+  {
+    "title": "Sri Lanka\u2019s public transportation needs urgent revolution",
+    "url": "https://www.dailymirror.lk/opinion/Sri-Lankas-public-transportation-needs-urgent-revolution/172-343834",
+    "ut": 1782324821.0,
+    "dir_path_unix": "data/articles/sri-lanka-s-public-trans.04ee5538",
+    "time_str_formatted": "11:43 PM, Wednesday, June 24, 2026"
+  },
+  {
+    "title": "Chemmani still holds our attention",
+    "url": "https://www.dailymirror.lk/opinion/Chemmani-still-holds-our-attention/172-343833",
+    "ut": 1782324658.0,
+    "dir_path_unix": "data/articles/chemmani-still-holds-our.7c8d7441",
+    "time_str_formatted": "11:40 PM, Wednesday, June 24, 2026"
+  },
+  {
+    "title": "Fire Exit Audit Needed for Old High-Rise Apartments",
+    "url": "https://www.dailymirror.lk/opinion/Fire-Exit-Audit-Needed-for-Old-High-Rise-Apartments/172-343832",
+    "ut": 1782324550.0,
+    "dir_path_unix": "data/articles/fire-exit-audit-needed-f.ff5f2fa7",
+    "time_str_formatted": "11:39 PM, Wednesday, June 24, 2026"
+  },
+  {
+    "title": "The fear of becoming the victim\u2026",
+    "url": "https://www.dailymirror.lk/opinion/The-fear-of-becoming-the-victim/172-343831",
+    "ut": 1782324507.0,
+    "dir_path_unix": "data/articles/the-fear-of-becoming-the.84ff65bc",
+    "time_str_formatted": "11:38 PM, Wednesday, June 24, 2026"
   },
   {
     "title": "Europe\u2019s extreme heat is shutting down power plants",
@@ -137,6 +172,13 @@
     "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
     "ut": 1782171000.0,
     "dir_path_unix": "data/articles/elephant-alert-ai-warnin.ec7786d6",
+    "time_str_formatted": "05:00 AM, Tuesday, June 23, 2026"
+  },
+  {
+    "title": "The $400 million machine powering the future of chipmaking",
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "ut": 1782171000.0,
+    "dir_path_unix": "data/articles/the-400-million-machine.3dba77af",
     "time_str_formatted": "05:00 AM, Tuesday, June 23, 2026"
   },
   {
