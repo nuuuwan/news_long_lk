@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-24 18:53:50**
+Last Updated **2026-06-25 06:56:26**
+
+## 2026-06-25
+
+* [Beneficial Ownership rules should  strengthen governance, not burden business](data/articles/beneficial-ownership-rul.4bf3937d/README.md) `ft.lk`
+* [Market access, not aid is the foreign currency for Sri Lanka](data/articles/market-access-not-aid-is.4415102d/README.md) `ft.lk`
+* [Repatriation of export proceeds into Sri Lanka and conversion – A practical perspective](data/articles/repatriation-of-export-p.822c48d8/README.md) `ft.lk`
+* [Digital civil space and freedom of expression under threat](data/articles/digital-civil-space-and.138b1797/README.md) `ft.lk`
+* [Lucerne lessons for Lanka, Lebanon war; Easter massacre mastermind scenarios](data/articles/lucerne-lessons-for-lank.ae0dad1e/README.md) `ft.lk`
 
 ## 2026-06-24
 
+* [Europe’s extreme heat is shutting down power plants](data/articles/europe-s-extreme-heat-is.4bfd31e8/README.md) `technologyreview.com`
 * [Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections](data/articles/stripe-anthropic-and-ope.63a3868f/README.md) `technologyreview.com`
 * [Pyramid schemes explained: How ordinary people are trapped by false promises](data/articles/pyramid-schemes-explaine.5cf4ce22/README.md) `ft.lk`
 * [Can trade policy create better jobs?](data/articles/can-trade-policy-create.8f81f18b/README.md) `ft.lk`
