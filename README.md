@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-25 18:53:31**
+Last Updated **2026-06-26 06:58:53**
+
+## 2026-06-26
+
+* [Will Elon Musk’s trillion-dollar leadership playbook survive the future?](data/articles/will-elon-musk-s-trillio.2b2eb60b/README.md) `ft.lk`
+* [Peasants in revolt: A step towards a new mode of agriculture](data/articles/peasants-in-revolt-a-ste.801e6f89/README.md) `ft.lk`
+* [Entrepreneurship for a greener future: Tackling environmental challenges and sustainability](data/articles/entrepreneurship-for-a-g.b051ab60/README.md) `ft.lk`
 
 ## 2026-06-25
 
+* [What is needed is economic growth, not publicity stunts](data/articles/what-is-needed-is-econom.10ec8893/README.md) `dailymirror.lk`
+* [Iran’s high‑octane goalkeeping at Hormuz: How real is US-Israel rift](data/articles/iran-s-high-octane-goalk.d686309d/README.md) `dailymirror.lk`
+* [Sri Lanka’s Sports Sector is in Free Fall](data/articles/sri-lanka-s-sports-secto.e88199fd/README.md) `dailymirror.lk`
 * [Beneficial Ownership rules should  strengthen governance, not burden business](data/articles/beneficial-ownership-rul.4bf3937d/README.md) `ft.lk`
 * [Market access, not aid is the foreign currency for Sri Lanka](data/articles/market-access-not-aid-is.4415102d/README.md) `ft.lk`
 * [Repatriation of export proceeds into Sri Lanka and conversion – A practical perspective](data/articles/repatriation-of-export-p.822c48d8/README.md) `ft.lk`
