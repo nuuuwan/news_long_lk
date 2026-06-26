@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-26 06:58:53**
+Last Updated **2026-06-26 18:50:52**
 
 ## 2026-06-26
 
@@ -35,6 +35,7 @@ Last Updated **2026-06-26 06:58:53**
 * [Next wave of currency depreciation](data/articles/next-wave-of-currency-de.0e97c4ce/README.md) `ft.lk`
 * [Will lower oil prices become a lasting economic gain?](data/articles/will-lower-oil-prices-be.9b1da44c/README.md) `ft.lk`
 * [From vouchers to verification: Understanding new risk-based VAT refund system](data/articles/from-vouchers-to-verific.214ae910/README.md) `ft.lk`
+* [This flying solar-powered platform could deliver better internet from the air](data/articles/this-flying-solar-powere.b8d25285/README.md) `technologyreview.com`
 * [Cybercrime incident  had direct bearing  on EFF program - IMF Resident Representative](data/articles/cybercrime-incident-had.6884513c/README.md) `dailymirror.lk`
 * [British Prime Minister’s resignation Sri Lanka’s choice:  One-party rule,  or Internal Party democracy of political opposition](data/articles/british-prime-minister-s.385e24bd/README.md) `dailymirror.lk`
 * [Cruelty to women/children, sale of workers, and Lanka’s shame](data/articles/cruelty-to-women-childre.6eb02a92/README.md) `dailymirror.lk`
