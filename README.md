@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-26 18:50:52**
+Last Updated **2026-06-27 06:55:46**
+
+## 2026-06-27
+
+* [The slow train to the more sustainable fast track is back](data/articles/the-slow-train-to-the-mo.285f9e2c/README.md) `ft.lk`
+* [Iran-US-Israel conflict: A Masterclass in modern geopolitics and geoeconomics](data/articles/iran-us-israel-conflict.2ab2a51c/README.md) `ft.lk`
+* [Has Iran emerged stronger after the war? Assessing its regional power status](data/articles/has-iran-emerged-stronge.9b505e75/README.md) `ft.lk`
+* [Iran prevails, Trump concedes and Israel fumes](data/articles/iran-prevails-trump-conc.3903a201/README.md) `ft.lk`
+* [Suresh Sallay’s wife responds to Open Letter of Rev. Asiri Perera](data/articles/suresh-sallay-s-wife-res.4e097cfd/README.md) `ft.lk`
 
 ## 2026-06-26
 
+* [How Leaders Engineer Margin Resilience](data/articles/how-leaders-engineer-mar.4693fec0/README.md) `hbr.org`
 * [Will Elon Musk’s trillion-dollar leadership playbook survive the future?](data/articles/will-elon-musk-s-trillio.2b2eb60b/README.md) `ft.lk`
 * [Peasants in revolt: A step towards a new mode of agriculture](data/articles/peasants-in-revolt-a-ste.801e6f89/README.md) `ft.lk`
 * [Entrepreneurship for a greener future: Tackling environmental challenges and sustainability](data/articles/entrepreneurship-for-a-g.b051ab60/README.md) `ft.lk`
@@ -28,6 +37,7 @@ Last Updated **2026-06-26 18:50:52**
 * [Chemmani still holds our attention](data/articles/chemmani-still-holds-our.7c8d7441/README.md) `dailymirror.lk`
 * [Fire Exit Audit Needed for Old High-Rise Apartments](data/articles/fire-exit-audit-needed-f.ff5f2fa7/README.md) `dailymirror.lk`
 * [The fear of becoming the victim…](data/articles/the-fear-of-becoming-the.84ff65bc/README.md) `dailymirror.lk`
+* [The Time Horizon Growth Model Is Dead. Here’s What Should Replace It.](data/articles/the-time-horizon-growth.6e4edde6/README.md) `hbr.org`
 * [Europe’s extreme heat is shutting down power plants](data/articles/europe-s-extreme-heat-is.4bfd31e8/README.md) `technologyreview.com`
 * [Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections](data/articles/stripe-anthropic-and-ope.63a3868f/README.md) `technologyreview.com`
 * [Pyramid schemes explained: How ordinary people are trapped by false promises](data/articles/pyramid-schemes-explaine.5cf4ce22/README.md) `ft.lk`
