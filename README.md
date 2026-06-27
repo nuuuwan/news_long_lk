@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-27 06:55:46**
+Last Updated **2026-06-27 18:32:07**
 
 ## 2026-06-27
 
@@ -14,6 +14,10 @@ Last Updated **2026-06-27 06:55:46**
 
 ## 2026-06-26
 
+* [Constitutional-inconsistencies-relating-to-franchise: A response](data/articles/constitutional-inconsist.f7ac02bb/README.md) `dailymirror.lk`
+* [Bridging Independence And Harmony: The Case For An MPCC](data/articles/bridging-independence-an.8af8643d/README.md) `dailymirror.lk`
+* [A Zebra Crossing At Last --  Thank You, CMC](data/articles/a-zebra-crossing-at-last.b8707039/README.md) `dailymirror.lk`
+* [Economic growth is not the only measure of human development](data/articles/economic-growth-is-not-t.d72a5b33/README.md) `dailymirror.lk`
 * [How Leaders Engineer Margin Resilience](data/articles/how-leaders-engineer-mar.4693fec0/README.md) `hbr.org`
 * [Will Elon Musk’s trillion-dollar leadership playbook survive the future?](data/articles/will-elon-musk-s-trillio.2b2eb60b/README.md) `ft.lk`
 * [Peasants in revolt: A step towards a new mode of agriculture](data/articles/peasants-in-revolt-a-ste.801e6f89/README.md) `ft.lk`
