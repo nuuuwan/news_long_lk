@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-28 18:34:01**
+Last Updated **2026-06-29 07:02:06**
+
+## 2026-06-29
+
+* [Detention Rights: Sri Lanka and the United States](data/articles/detention-rights-sri-lan.9d99be29/README.md) `dailymirror.lk`
+
+## 2026-06-28
+
+* [Are our political parties really interested in fighting corruption?](data/articles/are-our-political-partie.37922214/README.md) `dailymirror.lk`
+* [Clean the Blocked Canal Near Bandaranayakepura immediately!](data/articles/clean-the-blocked-canal.b68971b9/README.md) `dailymirror.lk`
 
 ## 2026-06-27
 
