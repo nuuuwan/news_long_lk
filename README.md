@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-29 07:02:06**
+Last Updated **2026-06-29 19:26:49**
 
 ## 2026-06-29
 
@@ -28,6 +28,7 @@ Last Updated **2026-06-29 07:02:06**
 * [A Zebra Crossing At Last --  Thank You, CMC](data/articles/a-zebra-crossing-at-last.b8707039/README.md) `dailymirror.lk`
 * [Economic growth is not the only measure of human development](data/articles/economic-growth-is-not-t.d72a5b33/README.md) `dailymirror.lk`
 * [How Leaders Engineer Margin Resilience](data/articles/how-leaders-engineer-mar.4693fec0/README.md) `hbr.org`
+* [Heat waves mess with your brain. Scientists are trying to figure out why.](data/articles/heat-waves-mess-with-you.e24e3fb0/README.md) `technologyreview.com`
 * [Will Elon Musk’s trillion-dollar leadership playbook survive the future?](data/articles/will-elon-musk-s-trillio.2b2eb60b/README.md) `ft.lk`
 * [Peasants in revolt: A step towards a new mode of agriculture](data/articles/peasants-in-revolt-a-ste.801e6f89/README.md) `ft.lk`
 * [Entrepreneurship for a greener future: Tackling environmental challenges and sustainability](data/articles/entrepreneurship-for-a-g.b051ab60/README.md) `ft.lk`
