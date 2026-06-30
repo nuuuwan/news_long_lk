@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-29 19:26:49**
+Last Updated **2026-06-30 06:58:05**
 
 ## 2026-06-29
 
+* [AI agents are not your “coworkers”](data/articles/ai-agents-are-not-your-c.70b9fae8/README.md) `technologyreview.com`
 * [Detention Rights: Sri Lanka and the United States](data/articles/detention-rights-sri-lan.9d99be29/README.md) `dailymirror.lk`
 
 ## 2026-06-28
@@ -23,6 +24,7 @@ Last Updated **2026-06-29 19:26:49**
 
 ## 2026-06-26
 
+* [Should Children Be Banned from Social Media? A Global Shift That Is Now Sri Lanka’s Question Too](data/articles/should-children-be-banne.945c8097/README.md) `dailymirror.lk`
 * [Constitutional-inconsistencies-relating-to-franchise: A response](data/articles/constitutional-inconsist.f7ac02bb/README.md) `dailymirror.lk`
 * [Bridging Independence And Harmony: The Case For An MPCC](data/articles/bridging-independence-an.8af8643d/README.md) `dailymirror.lk`
 * [A Zebra Crossing At Last --  Thank You, CMC](data/articles/a-zebra-crossing-at-last.b8707039/README.md) `dailymirror.lk`
