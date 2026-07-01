@@ -1,5 +1,89 @@
 [
   {
+    "title": "State capture, then\u2026and now?",
+    "url": "https://www.ft.lk/columns/State-capture-thenand-now/4-794011",
+    "ut": 1782868328.0,
+    "dir_path_unix": "data/articles/state-capture-then-and-n.2bc84ed1",
+    "time_str_formatted": "06:42 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "We had a plan to reduce fuel dependence. We cancelled it",
+    "url": "https://www.ft.lk/columns/We-had-a-plan-to-reduce-fuel-dependence-We-cancelled-it/4-794009",
+    "ut": 1782867932.0,
+    "dir_path_unix": "data/articles/we-had-a-plan-to-reduce.8a42d40a",
+    "time_str_formatted": "06:35 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "Balancing import liberalisation and external stability: Why economic policy must put people first",
+    "url": "https://www.ft.lk/columns/Balancing-import-liberalisation-and-external-stability-Why-economic-policy-must-put-people-first/4-794007",
+    "ut": 1782867473.0,
+    "dir_path_unix": "data/articles/balancing-import-liberal.35eaf0c2",
+    "time_str_formatted": "06:27 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "Lowering CBSL\u2019s inflation target from 5% to 2% is desirable for economic stability",
+    "url": "https://www.ft.lk/columns/Lowering-CBSL-s-inflation-target-from-5-to-2-is-desirable-for-economic-stability/4-794005",
+    "ut": 1782866697.0,
+    "dir_path_unix": "data/articles/lowering-cbsl-s-inflatio.be882c30",
+    "time_str_formatted": "06:14 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "IMF fiscal management: Barbs wrapped in velvet",
+    "url": "https://www.ft.lk/columns/IMF-fiscal-management-Barbs-wrapped-in-velvet/4-794004",
+    "ut": 1782866375.0,
+    "dir_path_unix": "data/articles/imf-fiscal-management-ba.724cb5e4",
+    "time_str_formatted": "06:09 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "The narrowing window:  Small-state agency in an age of multipolar scenario",
+    "url": "https://www.dailymirror.lk/opinion/The-narrowing-window-Small-state-agency-in-an-age-of-multipolar-scenario/172-344308",
+    "ut": 1782852760.0,
+    "dir_path_unix": "data/articles/the-narrowing-window-sma.0a89d019",
+    "time_str_formatted": "02:22 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "How far does the political-underworld nexus extend in Sri Lanka?",
+    "url": "https://www.dailymirror.lk/opinion/How-far-does-the-political-underworld-nexus-extend-in-Sri-Lanka/172-344307",
+    "ut": 1782852093.0,
+    "dir_path_unix": "data/articles/how-far-does-the-politic.ee86e0cf",
+    "time_str_formatted": "02:11 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "Politicians and the media - A love- hate relationship",
+    "url": "https://www.dailymirror.lk/opinion/Politicians-and-the-media-A-love-hate-relationship/172-344305",
+    "ut": 1782850999.0,
+    "dir_path_unix": "data/articles/politicians-and-the-medi.591227b6",
+    "time_str_formatted": "01:53 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "Dengue:  Prevention Cannot Be an  Afterthought",
+    "url": "https://www.dailymirror.lk/opinion/Dengue-Prevention-Cannot-Be-an-Afterthought/172-344304",
+    "ut": 1782850698.0,
+    "dir_path_unix": "data/articles/dengue-prevention-cannot.38ea4041",
+    "time_str_formatted": "01:48 AM, Wednesday, July 01, 2026"
+  },
+  {
+    "title": "The Four Business Outcomes That Break When Enterprises Stop Validating Their Defenses",
+    "url": "https://hbr.org/sponsored/2026/06/the-four-business-outcomes-that-break-when-enterprises-stop-validating-their-defenses",
+    "ut": 1782826874.0,
+    "dir_path_unix": "data/articles/the-four-business-outcom.e99b83c0",
+    "time_str_formatted": "07:11 PM, Tuesday, June 30, 2026"
+  },
+  {
+    "title": "When the Story Gets Away From You",
+    "url": "https://www.dailymirror.lk/opinion/When-the-Story-Gets-Away-From-You/231-344255",
+    "ut": 1782814853.0,
+    "dir_path_unix": "data/articles/when-the-story-gets-away.cbb712ee",
+    "time_str_formatted": "03:50 PM, Tuesday, June 30, 2026"
+  },
+  {
+    "title": "Roundtables: Longevity\u2019s Next Frontier: \u201cReprogramming\u201d Your Body",
+    "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+    "ut": 1782806808.0,
+    "dir_path_unix": "data/articles/roundtables-longevity-s.790e3857",
+    "time_str_formatted": "01:36 PM, Tuesday, June 30, 2026"
+  },
+  {
     "title": "AI agents are not your \u201ccoworkers\u201d",
     "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
     "ut": 1782721800.0,
@@ -173,6 +257,13 @@
     "ut": 1782347989.0,
     "dir_path_unix": "data/articles/repatriation-of-export-p.822c48d8",
     "time_str_formatted": "06:09 AM, Thursday, June 25, 2026"
+  },
+  {
+    "title": "What Europe\u2019s heat wave means for the power grid",
+    "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+    "ut": 1782347400.0,
+    "dir_path_unix": "data/articles/what-europe-s-heat-wave.6367bd9b",
+    "time_str_formatted": "06:00 AM, Thursday, June 25, 2026"
   },
   {
     "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",

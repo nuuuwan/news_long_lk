@@ -2,7 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-06-30 06:58:05**
+Last Updated **2026-07-01 07:04:59**
+
+## 2026-07-01
+
+* [State capture, then…and now?](data/articles/state-capture-then-and-n.2bc84ed1/README.md) `ft.lk`
+* [We had a plan to reduce fuel dependence. We cancelled it](data/articles/we-had-a-plan-to-reduce.8a42d40a/README.md) `ft.lk`
+* [Balancing import liberalisation and external stability: Why economic policy must put people first](data/articles/balancing-import-liberal.35eaf0c2/README.md) `ft.lk`
+* [Lowering CBSL’s inflation target from 5% to 2% is desirable for economic stability](data/articles/lowering-cbsl-s-inflatio.be882c30/README.md) `ft.lk`
+* [IMF fiscal management: Barbs wrapped in velvet](data/articles/imf-fiscal-management-ba.724cb5e4/README.md) `ft.lk`
+* [The narrowing window:  Small-state agency in an age of multipolar scenario](data/articles/the-narrowing-window-sma.0a89d019/README.md) `dailymirror.lk`
+* [How far does the political-underworld nexus extend in Sri Lanka?](data/articles/how-far-does-the-politic.ee86e0cf/README.md) `dailymirror.lk`
+* [Politicians and the media - A love- hate relationship](data/articles/politicians-and-the-medi.591227b6/README.md) `dailymirror.lk`
+* [Dengue:  Prevention Cannot Be an  Afterthought](data/articles/dengue-prevention-cannot.38ea4041/README.md) `dailymirror.lk`
+
+## 2026-06-30
+
+* [The Four Business Outcomes That Break When Enterprises Stop Validating Their Defenses](data/articles/the-four-business-outcom.e99b83c0/README.md) `hbr.org`
+* [When the Story Gets Away From You](data/articles/when-the-story-gets-away.cbb712ee/README.md) `dailymirror.lk`
+* [Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body](data/articles/roundtables-longevity-s.790e3857/README.md) `technologyreview.com`
 
 ## 2026-06-29
 
@@ -43,6 +61,7 @@ Last Updated **2026-06-30 06:58:05**
 * [Beneficial Ownership rules should  strengthen governance, not burden business](data/articles/beneficial-ownership-rul.4bf3937d/README.md) `ft.lk`
 * [Market access, not aid is the foreign currency for Sri Lanka](data/articles/market-access-not-aid-is.4415102d/README.md) `ft.lk`
 * [Repatriation of export proceeds into Sri Lanka and conversion – A practical perspective](data/articles/repatriation-of-export-p.822c48d8/README.md) `ft.lk`
+* [What Europe’s heat wave means for the power grid](data/articles/what-europe-s-heat-wave.6367bd9b/README.md) `technologyreview.com`
 * [IBM has unveiled chip technology that could help extend Moore’s Law another decade](data/articles/ibm-has-unveiled-chip-te.6a7b51be/README.md) `technologyreview.com`
 * [Digital civil space and freedom of expression under threat](data/articles/digital-civil-space-and.138b1797/README.md) `ft.lk`
 * [Lucerne lessons for Lanka, Lebanon war; Easter massacre mastermind scenarios](data/articles/lucerne-lessons-for-lank.ae0dad1e/README.md) `ft.lk`
