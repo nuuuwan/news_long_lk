@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-02 06:59:15**
+Last Updated **2026-07-02 18:43:50**
 
 ## 2026-07-02
 
+* [“This government  is following RW’s economic  agenda” -Ravi Karunanayake  New Democratic Front MP](data/articles/this-government-is-foll.f2d4b1cd/README.md) `dailymirror.lk`
+* [More arrests would lead to do-or-die elections](data/articles/more-arrests-would-lead.d7312074/README.md) `dailymirror.lk`
+* [Do Not Extend the Retirement Age  Beyond 60](data/articles/do-not-extend-the-retire.db6d3a32/README.md) `dailymirror.lk`
+* [Using social media at your own risk](data/articles/using-social-media-at-yo.4613a14f/README.md) `dailymirror.lk`
+* [Why California’s carbon manure math doesn’t add up](data/articles/why-california-s-carbon.bc904098/README.md) `technologyreview.com`
 * [The lawyer they need, not the lawyer they want](data/articles/the-lawyer-they-need-not.953a33f5/README.md) `ft.lk`
 * [The search for the next hostel warden at Royal College](data/articles/the-search-for-the-next.a4bef67a/README.md) `ft.lk`
 * [A “less is more” policy framework for education in uncertain times](data/articles/a-less-is-more-policy-fr.02a45a8f/README.md) `ft.lk`
