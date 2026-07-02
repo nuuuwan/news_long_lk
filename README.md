@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-01 18:58:04**
+Last Updated **2026-07-02 06:59:15**
+
+## 2026-07-02
+
+* [The lawyer they need, not the lawyer they want](data/articles/the-lawyer-they-need-not.953a33f5/README.md) `ft.lk`
+* [The search for the next hostel warden at Royal College](data/articles/the-search-for-the-next.a4bef67a/README.md) `ft.lk`
+* [A “less is more” policy framework for education in uncertain times](data/articles/a-less-is-more-policy-fr.02a45a8f/README.md) `ft.lk`
+* [Beyond fighting corruption: What Sri Lanka can learn from Singapore’s nation-building model](data/articles/beyond-fighting-corrupti.3794ca3e/README.md) `ft.lk`
+* [Backward Britain, advanced Sri Lanka, and the American Revolution](data/articles/backward-britain-advance.f8bb766c/README.md) `ft.lk`
 
 ## 2026-07-01
 
@@ -19,6 +27,7 @@ Last Updated **2026-07-01 18:58:04**
 ## 2026-06-30
 
 * [The Four Business Outcomes That Break When Enterprises Stop Validating Their Defenses](data/articles/the-four-business-outcom.e99b83c0/README.md) `hbr.org`
+* [Claude Science is Anthropic’s newest flagship product](data/articles/claude-science-is-anthro.78c50124/README.md) `technologyreview.com`
 * [When the Story Gets Away From You](data/articles/when-the-story-gets-away.cbb712ee/README.md) `dailymirror.lk`
 * [Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body](data/articles/roundtables-longevity-s.790e3857/README.md) `technologyreview.com`
 
