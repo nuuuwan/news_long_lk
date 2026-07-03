@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-02 18:43:50**
+Last Updated **2026-07-03 06:44:02**
+
+## 2026-07-03
+
+* [Ethics cannot be selective;  Sri Lanka needs moral courage](data/articles/ethics-cannot-be-selecti.3cc70943/README.md) `ft.lk`
+* [A monetary policy shift is in the offing](data/articles/a-monetary-policy-shift.7d4471f8/README.md) `ft.lk`
+* [Uncle Sam at 250: The enduring land of opportunity](data/articles/uncle-sam-at-250-the-end.534bc656/README.md) `ft.lk`
+* [Decline of Pax Americana: Empire, republic and the lessons of Rome – Part I](data/articles/decline-of-pax-americana.7125267e/README.md) `ft.lk`
+* [Could El Niño become an FX risk for Sri Lanka?](data/articles/could-el-niño-become-an.962f60d9/README.md) `ft.lk`
+* [UN fails Palestinian children  despite  strong  reports](data/articles/un-fails-palestinian-chi.22cee195/README.md) `dailymirror.lk`
 
 ## 2026-07-02
 
