@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-04 06:39:06**
+Last Updated **2026-07-04 18:26:08**
 
 ## 2026-07-04
 
+* [From Village Tanks to Modern Crises](data/articles/from-village-tanks-to-mo.9300f8a4/README.md) `dailymirror.lk`
+* [A book, a warning, and the world’s unkept promises](data/articles/a-book-a-warning-and-the.64a97b8f/README.md) `dailymirror.lk`
+* [Lessons in governance from the Chinese  Communist Party](data/articles/lessons-in-governance-fr.4b079d8e/README.md) `dailymirror.lk`
+* [Rising from the ashes of war](data/articles/rising-from-the-ashes-of.0d873880/README.md) `dailymirror.lk`
+* [Honouring the War Heroes  of Prince of Wales](data/articles/honouring-the-war-heroes.790055df/README.md) `dailymirror.lk`
 * [The hidden social crisis  of a middle-income country](data/articles/the-hidden-social-crisis.91c0fc31/README.md) `ft.lk`
 * [Decline of Pax Americana: Empire, republic and the lessons of Rome – Part II](data/articles/decline-of-pax-americana.c6c2f8ab/README.md) `ft.lk`
 * [250th semiquincentennial celebration of the American Independence](data/articles/250th-semiquincentennial.9d050916/README.md) `ft.lk`
