@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-03 18:44:17**
+Last Updated **2026-07-04 06:39:06**
+
+## 2026-07-04
+
+* [The hidden social crisis  of a middle-income country](data/articles/the-hidden-social-crisis.91c0fc31/README.md) `ft.lk`
+* [Decline of Pax Americana: Empire, republic and the lessons of Rome – Part II](data/articles/decline-of-pax-americana.c6c2f8ab/README.md) `ft.lk`
+* [250th semiquincentennial celebration of the American Independence](data/articles/250th-semiquincentennial.9d050916/README.md) `ft.lk`
+* [KC and the Sunshine Band](data/articles/kc-and-the-sunshine-band.b1b3175e/README.md) `ft.lk`
+* [Phoenix of South Asia: Sri Lanka’s stunning return to upper-middle-income status under AKD](data/articles/phoenix-of-south-asia-sr.d5d47f4f/README.md) `ft.lk`
 
 ## 2026-07-03
 
@@ -11,6 +19,7 @@ Last Updated **2026-07-03 18:44:17**
 * [Uncle Sam at 250: The enduring land of opportunity](data/articles/uncle-sam-at-250-the-end.534bc656/README.md) `ft.lk`
 * [Decline of Pax Americana: Empire, republic and the lessons of Rome – Part I](data/articles/decline-of-pax-americana.7125267e/README.md) `ft.lk`
 * [Could El Niño become an FX risk for Sri Lanka?](data/articles/could-el-niño-become-an.962f60d9/README.md) `ft.lk`
+* [The UK’s generational tobacco ban might not work. I’m supporting it anyway.](data/articles/the-uk-s-generational-to.21fa08f8/README.md) `technologyreview.com`
 * [UN fails Palestinian children  despite  strong  reports](data/articles/un-fails-palestinian-chi.22cee195/README.md) `dailymirror.lk`
 
 ## 2026-07-02
