@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-05 18:28:11**
+Last Updated **2026-07-06 06:48:25**
+
+## 2026-07-06
+
+* [ABC of becoming an upper middle-income country: Risks outweigh benefits](data/articles/abc-of-becoming-an-upper.47e562d2/README.md) `ft.lk`
+* [Is Sri Lanka in a state of quagmire politically and financially?](data/articles/is-sri-lanka-in-a-state.b70de26c/README.md) `ft.lk`
+* [Mahaweli Doctrine: Water as foreign policy in Sri Lanka’s national renaissance](data/articles/mahaweli-doctrine-water.1e4a3a3d/README.md) `ft.lk`
+* [China says stands ready to continue working alongside Sri Lanka, strengthen synergy of development strategies](data/articles/china-says-stands-ready.3ea795ca/README.md) `ft.lk`
+* [Colours That Remember --  A Brief Respite for Wounded Minds](data/articles/colours-that-remember-a.695011dc/README.md) `dailymirror.lk`
+* [Fighting corruption requires more than investigations and  prosecutions  -Bangladeshi State Minister for Social Welfare](data/articles/fighting-corruption-requ.592aac8d/README.md) `dailymirror.lk`
 
 ## 2026-07-04
 
