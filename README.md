@@ -2,16 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-06 06:48:25**
+Last Updated **2026-07-06 19:25:48**
 
 ## 2026-07-06
 
+* [When the Question Becomes the Story](data/articles/when-the-question-become.4cb8aa73/README.md) `dailymirror.lk`
 * [ABC of becoming an upper middle-income country: Risks outweigh benefits](data/articles/abc-of-becoming-an-upper.47e562d2/README.md) `ft.lk`
 * [Is Sri Lanka in a state of quagmire politically and financially?](data/articles/is-sri-lanka-in-a-state.b70de26c/README.md) `ft.lk`
 * [Mahaweli Doctrine: Water as foreign policy in Sri Lanka’s national renaissance](data/articles/mahaweli-doctrine-water.1e4a3a3d/README.md) `ft.lk`
 * [China says stands ready to continue working alongside Sri Lanka, strengthen synergy of development strategies](data/articles/china-says-stands-ready.3ea795ca/README.md) `ft.lk`
+* [The Digital Menace: Safeguarding Sri Lanka’s Future Generations](data/articles/the-digital-menace-safeg.1a6529f9/README.md) `dailymirror.lk`
 * [Colours That Remember --  A Brief Respite for Wounded Minds](data/articles/colours-that-remember-a.695011dc/README.md) `dailymirror.lk`
 * [Fighting corruption requires more than investigations and  prosecutions  -Bangladeshi State Minister for Social Welfare](data/articles/fighting-corruption-requ.592aac8d/README.md) `dailymirror.lk`
+* [39th Anniversary of Indo-Lanka accord:  Rajiv and JRJ’s Miraculous Escape  During the Indo-Lanka Accord](data/articles/39th-anniversary-of-indo.e9e733ca/README.md) `dailymirror.lk`
 
 ## 2026-07-04
 
