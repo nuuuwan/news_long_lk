@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-07 06:42:54**
+Last Updated **2026-07-07 18:53:12**
 
 ## 2026-07-07
 
+* [National Archaeological Conference to begin in Colombo today](data/articles/national-archaeological.d0d80226/README.md) `dailymirror.lk`
+* [Moral injury in Sri Lankan Combatants who participated in Eelam War](data/articles/moral-injury-in-sri-lank.0327d117/README.md) `dailymirror.lk`
+* [Good tourists, bad tourists – We’ve been lucky so far](data/articles/good-tourists-bad-touris.3b5e784e/README.md) `dailymirror.lk`
+* [Increasing retirement age would help sustain pension funds](data/articles/increasing-retirement-ag.d2348cb7/README.md) `dailymirror.lk`
+* [Upper-middle income label is a myth in reality](data/articles/upper-middle-income-labe.c4005bd5/README.md) `dailymirror.lk`
 * [Right of Reply CPC responds to Verité Research opinion column on pricing](data/articles/right-of-reply-cpc-respo.3874702c/README.md) `ft.lk`
 * [Debunking Economic Myths # 4 Why flexible inflation targeting at 5% suits Sri Lanka better than 2%? (Part II)](data/articles/debunking-economic-myths.62e886ff/README.md) `ft.lk`
 * [Biodigesters: A farm-gate answer to  Sri Lanka’s food, energy and climate dilemma](data/articles/biodigesters-a-farm-gate.3a2f579d/README.md) `ft.lk`
