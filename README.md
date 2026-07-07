@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-06 19:25:48**
+Last Updated **2026-07-07 06:42:54**
+
+## 2026-07-07
+
+* [Right of Reply CPC responds to Verité Research opinion column on pricing](data/articles/right-of-reply-cpc-respo.3874702c/README.md) `ft.lk`
+* [Debunking Economic Myths # 4 Why flexible inflation targeting at 5% suits Sri Lanka better than 2%? (Part II)](data/articles/debunking-economic-myths.62e886ff/README.md) `ft.lk`
+* [Biodigesters: A farm-gate answer to  Sri Lanka’s food, energy and climate dilemma](data/articles/biodigesters-a-farm-gate.3a2f579d/README.md) `ft.lk`
+* [Disciplining the judiciary](data/articles/disciplining-the-judicia.e9b2eec6/README.md) `ft.lk`
 
 ## 2026-07-06
 
+* [Entrepreneurship: Nine provinces, one engine - The “PraLe” triangulation model](data/articles/entrepreneurship-nine-pr.4435f51d/README.md) `ft.lk`
+* [Your family’s $300 stake in OpenAI](data/articles/your-family-s-300-stake.e930f63d/README.md) `technologyreview.com`
 * [When the Question Becomes the Story](data/articles/when-the-question-become.4cb8aa73/README.md) `dailymirror.lk`
 * [ABC of becoming an upper middle-income country: Risks outweigh benefits](data/articles/abc-of-becoming-an-upper.47e562d2/README.md) `ft.lk`
 * [Is Sri Lanka in a state of quagmire politically and financially?](data/articles/is-sri-lanka-in-a-state.b70de26c/README.md) `ft.lk`
@@ -54,6 +63,7 @@ Last Updated **2026-07-06 19:25:48**
 
 ## 2026-07-01
 
+* [LLMs are stuck in a groupthink groove. This startup is trying to get them out.](data/articles/llms-are-stuck-in-a-grou.b7a1a19f/README.md) `technologyreview.com`
 * [State capture, then…and now?](data/articles/state-capture-then-and-n.2bc84ed1/README.md) `ft.lk`
 * [We had a plan to reduce fuel dependence. We cancelled it](data/articles/we-had-a-plan-to-reduce.8a42d40a/README.md) `ft.lk`
 * [Balancing import liberalisation and external stability: Why economic policy must put people first](data/articles/balancing-import-liberal.35eaf0c2/README.md) `ft.lk`
