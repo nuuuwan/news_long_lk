@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-07 18:53:12**
+Last Updated **2026-07-08 06:35:53**
+
+## 2026-07-08
+
+* [A lifeline for small businesses](data/articles/a-lifeline-for-small-bus.89fc0198/README.md) `ft.lk`
+* [$100 m forex loss due to 1-year delay in decision on 50,000 tons of imported salt](data/articles/100-m-forex-loss-due-to.54f49024/README.md) `ft.lk`
 
 ## 2026-07-07
 
+* [Why the Next Wave of Enterprise Strategy is Industry Clouds](data/articles/why-the-next-wave-of-ent.7a0a4844/README.md) `hbr.org`
 * [National Archaeological Conference to begin in Colombo today](data/articles/national-archaeological.d0d80226/README.md) `dailymirror.lk`
 * [Moral injury in Sri Lankan Combatants who participated in Eelam War](data/articles/moral-injury-in-sri-lank.0327d117/README.md) `dailymirror.lk`
 * [Good tourists, bad tourists – We’ve been lucky so far](data/articles/good-tourists-bad-touris.3b5e784e/README.md) `dailymirror.lk`
