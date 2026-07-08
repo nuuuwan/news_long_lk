@@ -2,12 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-08 06:35:53**
+Last Updated **2026-07-08 18:38:29**
 
 ## 2026-07-08
 
+* [EcoBonus: Turning Sri Lanka’s plastic waste crisis into a Circular Economy opportunity](data/articles/ecobonus-turning-sri-lan.161c9327/README.md) `ft.lk`
+* [The great Ceylon Tea paradox: Why do we grow a crop that ’’doesn’t make money’’?](data/articles/the-great-ceylon-tea-par.c063eebc/README.md) `ft.lk`
+* [Transforming a developing nation into a developed one -Part II](data/articles/transforming-a-developin.3f8d9815/README.md) `ft.lk`
 * [A lifeline for small businesses](data/articles/a-lifeline-for-small-bus.89fc0198/README.md) `ft.lk`
 * [$100 m forex loss due to 1-year delay in decision on 50,000 tons of imported salt](data/articles/100-m-forex-loss-due-to.54f49024/README.md) `ft.lk`
+* [Aftermath of Negombo Prison riots: Loved ones of inmates dismayed by tales of  shock, grief and uncertainty!](data/articles/aftermath-of-negombo-pri.edcada98/README.md) `dailymirror.lk`
 
 ## 2026-07-07
 
