@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-09 06:40:10**
+Last Updated **2026-07-09 19:06:25**
 
 ## 2026-07-09
 
+* [Anatomy of the Negombo prison riot: Government should fix the prison system without delay](data/articles/anatomy-of-the-negombo-p.ec354e6a/README.md) `dailymirror.lk`
+* [‘Prisoners are human beings:’   The reality inside and outside the prison walls](data/articles/prisoners-are-human-bei.4d0c2c19/README.md) `dailymirror.lk`
+* [Held to Ransom: How policy failure is poisoning  Sri Lanka’s poultry  industry, consumers](data/articles/held-to-ransom-how-polic.d557356d/README.md) `dailymirror.lk`
+* [Anatomy of the Negombo prison riot: Government should fix the prison system without delay](data/articles/anatomy-of-the-negombo-p.a6aeb8bc/README.md) `dailymirror.lk`
 * [Sri Lanka’s grossly confusing foreign reserve numbers – Explained](data/articles/sri-lanka-s-grossly-conf.859783bb/README.md) `ft.lk`
 * [Challenges in preventing tax crimes: From theory to practice](data/articles/challenges-in-preventing.881a4bf9/README.md) `ft.lk`
 * [Aragalaya 4th Anniversary: ‘Colour Revolution’ or third post-Independence civic uprising?](data/articles/aragalaya-4th-anniversar.a38e3d70/README.md) `ft.lk`
@@ -30,6 +34,7 @@ Last Updated **2026-07-09 06:40:10**
 * [Good tourists, bad tourists – We’ve been lucky so far](data/articles/good-tourists-bad-touris.3b5e784e/README.md) `dailymirror.lk`
 * [Increasing retirement age would help sustain pension funds](data/articles/increasing-retirement-ag.d2348cb7/README.md) `dailymirror.lk`
 * [Upper-middle income label is a myth in reality](data/articles/upper-middle-income-labe.c4005bd5/README.md) `dailymirror.lk`
+* [Why worms (and microbes) are catching on as a manure pollution solution](data/articles/why-worms-and-microbes-a.b11b6e4d/README.md) `technologyreview.com`
 * [Right of Reply CPC responds to Verité Research opinion column on pricing](data/articles/right-of-reply-cpc-respo.3874702c/README.md) `ft.lk`
 * [Debunking Economic Myths # 4 Why flexible inflation targeting at 5% suits Sri Lanka better than 2%? (Part II)](data/articles/debunking-economic-myths.62e886ff/README.md) `ft.lk`
 * [Biodigesters: A farm-gate answer to  Sri Lanka’s food, energy and climate dilemma](data/articles/biodigesters-a-farm-gate.3a2f579d/README.md) `ft.lk`
