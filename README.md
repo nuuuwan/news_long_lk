@@ -2,15 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-10 06:39:30**
+Last Updated **2026-07-10 18:49:26**
 
 ## 2026-07-10
 
+* [Litmus test for  effective enforcement  of laws and regulations](data/articles/litmus-test-for-effectiv.826c35b9/README.md) `ft.lk`
+* [How football became the field where global powers perform](data/articles/how-football-became-the.145804ca/README.md) `ft.lk`
 * [Creating dynamic SME entrepreneur ecosystem for Sri Lanka is not rocket science](data/articles/creating-dynamic-sme-ent.a22167bb/README.md) `ft.lk`
 * [Sri Lanka looks stable, that is exactly the danger](data/articles/sri-lanka-looks-stable-t.7606e04c/README.md) `ft.lk`
 * [An oasis for learning, discovery and innovation – Rice is sure to rise](data/articles/an-oasis-for-learning-di.a0ef7540/README.md) `ft.lk`
 * [Entrepreneur decoding body’s hidden language](data/articles/entrepreneur-decoding-bo.c4d9b32c/README.md) `ft.lk`
 * [Import dependence and food security](data/articles/import-dependence-and-fo.7df9c3d5/README.md) `ft.lk`
+* [Sperm donors need limits, says a European fertility group](data/articles/sperm-donors-need-limits.c41b81cc/README.md) `technologyreview.com`
 * [US-Iran war:  Stop second round, save the MoU](data/articles/us-iran-war-stop-second.f22f7edb/README.md) `dailymirror.lk`
 * [From Vulnerability to Opportunity: AI and the Future of Work in Sri Lanka](data/articles/from-vulnerability-to-op.92b11963/README.md) `dailymirror.lk`
 
@@ -56,6 +59,7 @@ Last Updated **2026-07-10 06:39:30**
 * [Entrepreneurship: Nine provinces, one engine - The “PraLe” triangulation model](data/articles/entrepreneurship-nine-pr.4435f51d/README.md) `ft.lk`
 * [Your family’s $300 stake in OpenAI](data/articles/your-family-s-300-stake.e930f63d/README.md) `technologyreview.com`
 * [When the Question Becomes the Story](data/articles/when-the-question-become.4cb8aa73/README.md) `dailymirror.lk`
+* [South Korea’s hottest new bachelors are chip workers](data/articles/south-korea-s-hottest-ne.166d1efe/README.md) `technologyreview.com`
 * [ABC of becoming an upper middle-income country: Risks outweigh benefits](data/articles/abc-of-becoming-an-upper.47e562d2/README.md) `ft.lk`
 * [Is Sri Lanka in a state of quagmire politically and financially?](data/articles/is-sri-lanka-in-a-state.b70de26c/README.md) `ft.lk`
 * [Mahaweli Doctrine: Water as foreign policy in Sri Lanka’s national renaissance](data/articles/mahaweli-doctrine-water.1e4a3a3d/README.md) `ft.lk`
