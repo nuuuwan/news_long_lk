@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-09 19:06:25**
+Last Updated **2026-07-10 06:39:30**
+
+## 2026-07-10
+
+* [Creating dynamic SME entrepreneur ecosystem for Sri Lanka is not rocket science](data/articles/creating-dynamic-sme-ent.a22167bb/README.md) `ft.lk`
+* [Sri Lanka looks stable, that is exactly the danger](data/articles/sri-lanka-looks-stable-t.7606e04c/README.md) `ft.lk`
+* [An oasis for learning, discovery and innovation – Rice is sure to rise](data/articles/an-oasis-for-learning-di.a0ef7540/README.md) `ft.lk`
+* [Entrepreneur decoding body’s hidden language](data/articles/entrepreneur-decoding-bo.c4d9b32c/README.md) `ft.lk`
+* [Import dependence and food security](data/articles/import-dependence-and-fo.7df9c3d5/README.md) `ft.lk`
+* [US-Iran war:  Stop second round, save the MoU](data/articles/us-iran-war-stop-second.f22f7edb/README.md) `dailymirror.lk`
+* [From Vulnerability to Opportunity: AI and the Future of Work in Sri Lanka](data/articles/from-vulnerability-to-op.92b11963/README.md) `dailymirror.lk`
 
 ## 2026-07-09
 
+* [Anthropic found a hidden space where Claude puzzles over concepts](data/articles/anthropic-found-a-hidden.a90a0d3e/README.md) `technologyreview.com`
 * [Anatomy of the Negombo prison riot: Government should fix the prison system without delay](data/articles/anatomy-of-the-negombo-p.ec354e6a/README.md) `dailymirror.lk`
 * [‘Prisoners are human beings:’   The reality inside and outside the prison walls](data/articles/prisoners-are-human-bei.4d0c2c19/README.md) `dailymirror.lk`
 * [Held to Ransom: How policy failure is poisoning  Sri Lanka’s poultry  industry, consumers](data/articles/held-to-ransom-how-polic.d557356d/README.md) `dailymirror.lk`
@@ -69,6 +80,7 @@ Last Updated **2026-07-09 19:06:25**
 
 ## 2026-07-03
 
+* [A device that revives eyeballs from dead donors could make eye transplants possible](data/articles/a-device-that-revives-ey.3869c17f/README.md) `technologyreview.com`
 * [Ethics cannot be selective;  Sri Lanka needs moral courage](data/articles/ethics-cannot-be-selecti.3cc70943/README.md) `ft.lk`
 * [A monetary policy shift is in the offing](data/articles/a-monetary-policy-shift.7d4471f8/README.md) `ft.lk`
 * [Uncle Sam at 250: The enduring land of opportunity](data/articles/uncle-sam-at-250-the-end.534bc656/README.md) `ft.lk`
