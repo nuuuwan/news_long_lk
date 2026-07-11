@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-10 18:49:26**
+Last Updated **2026-07-11 06:35:08**
+
+## 2026-07-11
+
+* [Shanakiyan takes up status quo  of Colombo Port City in Parliament](data/articles/shanakiyan-takes-up-stat.921c055e/README.md) `ft.lk`
+* [Future of Asia and the Pacific depends on whether young people have reason to hope](data/articles/future-of-asia-and-the-p.f90798a6/README.md) `ft.lk`
+* [Strategic foresight of our Kings:  Why is it eluding our modern leaders?](data/articles/strategic-foresight-of-o.8fbf7555/README.md) `ft.lk`
+* [Our prisons are in need  of urgent reforms and funding](data/articles/our-prisons-are-in-need.3f558d52/README.md) `dailymirror.lk`
+* [Political chaos, mayhem in sports and the war in West Asia](data/articles/political-chaos-mayhem-i.8b04507d/README.md) `dailymirror.lk`
+* [Is murder more foul when committed by a woman?](data/articles/is-murder-more-foul-when.96bcc0e0/README.md) `dailymirror.lk`
+* [Why Does  Sri Lanka Continue to Require Mandatory Overseas Training for Specialist Certification?](data/articles/why-does-sri-lanka-conti.71572c06/README.md) `dailymirror.lk`
 
 ## 2026-07-10
 
