@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-11 06:35:08**
+Last Updated **2026-07-11 18:26:42**
 
 ## 2026-07-11
 
@@ -26,6 +26,7 @@ Last Updated **2026-07-11 06:35:08**
 * [Sperm donors need limits, says a European fertility group](data/articles/sperm-donors-need-limits.c41b81cc/README.md) `technologyreview.com`
 * [US-Iran war:  Stop second round, save the MoU](data/articles/us-iran-war-stop-second.f22f7edb/README.md) `dailymirror.lk`
 * [From Vulnerability to Opportunity: AI and the Future of Work in Sri Lanka](data/articles/from-vulnerability-to-op.92b11963/README.md) `dailymirror.lk`
+* [An Average Sri Lankan’s Entire Day of Electricity Usage Barely Runs an AC for 39 Minutes, Data Shows](data/articles/an-average-sri-lankan-s.1162e619/README.md) `dailymirror.lk`
 
 ## 2026-07-09
 
