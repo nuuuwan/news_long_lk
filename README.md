@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-12 18:26:02**
+Last Updated **2026-07-13 06:42:25**
+
+## 2026-07-13
+
+* [The SSCL Vs VAT threshold revision – The logic of indirect tax reform](data/articles/the-sscl-vs-vat-threshol.683a24cb/README.md) `ft.lk`
+* [The invisible tax in our minds](data/articles/the-invisible-tax-in-our.3e98be52/README.md) `ft.lk`
+* [Effective trade  agreements: Why and how?](data/articles/effective-trade-agreemen.07139d19/README.md) `ft.lk`
 
 ## 2026-07-11
 
