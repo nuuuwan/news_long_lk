@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-14 06:33:24**
+Last Updated **2026-07-14 18:27:18**
 
 ## 2026-07-14
 
+* [ME AGAINST THE WORLD](data/articles/me-against-the-world.409ba71a/README.md) `dailymirror.lk`
+* [Planned Capture of the  Judiciary  by the Executive](data/articles/planned-capture-of-the-j.ff4535a0/README.md) `dailymirror.lk`
 * [Treating symptoms instead of causes: Why importing 7,500 workers will not solve construction industry crisis](data/articles/treating-symptoms-instea.6e6b0cfa/README.md) `ft.lk`
 * [Sri Lanka’s inflation target: Should it be cut from 5% to 2%?](data/articles/sri-lanka-s-inflation-ta.5bd74e07/README.md) `ft.lk`
 * [France at half-time – a republic that’s still playing the long game](data/articles/france-at-half-time-a-re.577b3b5b/README.md) `ft.lk`
