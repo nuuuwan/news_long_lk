@@ -2,10 +2,23 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-13 06:42:25**
+Last Updated **2026-07-14 06:33:24**
+
+## 2026-07-14
+
+* [Treating symptoms instead of causes: Why importing 7,500 workers will not solve construction industry crisis](data/articles/treating-symptoms-instea.6e6b0cfa/README.md) `ft.lk`
+* [Sri Lanka’s inflation target: Should it be cut from 5% to 2%?](data/articles/sri-lanka-s-inflation-ta.5bd74e07/README.md) `ft.lk`
+* [France at half-time – a republic that’s still playing the long game](data/articles/france-at-half-time-a-re.577b3b5b/README.md) `ft.lk`
+* [Columnist Dhanusha Gihan Pathirana responds to EFC rebuttal](data/articles/columnist-dhanusha-gihan.c5b6b7e8/README.md) `ft.lk`
+* [Strategy alone is worthless, execution is everything: NPP a mixed bag](data/articles/strategy-alone-is-worthl.732b03fb/README.md) `ft.lk`
 
 ## 2026-07-13
 
+* [What Anthropic’s latest AI discovery does—and doesn’t—show](data/articles/what-anthropic-s-latest.50ee0b46/README.md) `technologyreview.com`
+* [“Sri Lanka is fast getting notorious for being the  scam capital  of the world” - Samagi Janabalawegaya  MP Harsha de Silva](data/articles/sri-lanka-is-fast-getti.53832650/README.md) `dailymirror.lk`
+* [Measure Justice System by Prisons, not Courts Alone](data/articles/measure-justice-system-b.5e4aadc5/README.md) `dailymirror.lk`
+* [It’s time to break traditional penal systems through restorative justice](data/articles/it-s-time-to-break-tradi.c134ba47/README.md) `dailymirror.lk`
+* [What’s the government doing to control dengue?](data/articles/what-s-the-government-do.84aec505/README.md) `dailymirror.lk`
 * [The SSCL Vs VAT threshold revision – The logic of indirect tax reform](data/articles/the-sscl-vs-vat-threshol.683a24cb/README.md) `ft.lk`
 * [The invisible tax in our minds](data/articles/the-invisible-tax-in-our.3e98be52/README.md) `ft.lk`
 * [Effective trade  agreements: Why and how?](data/articles/effective-trade-agreemen.07139d19/README.md) `ft.lk`
