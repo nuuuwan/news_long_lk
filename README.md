@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-14 18:27:18**
+Last Updated **2026-07-15 06:31:25**
+
+## 2026-07-15
+
+* [Sri Lanka has educated women,  now it must make work possible](data/articles/sri-lanka-has-educated-w.f35f2624/README.md) `ft.lk`
+* [Rise of the “Playpen Man”: The missing half of gender equity](data/articles/rise-of-the-playpen-man.5693f01b/README.md) `ft.lk`
+* [Negombo Prison Tragedy:  INTELLIGENCE LAPSES,  systemic failures and urgent imperative for reform](data/articles/negombo-prison-tragedy-i.cecdf69f/README.md) `dailymirror.lk`
+* [Derisking food security by thinking intelligently](data/articles/derisking-food-security.4673c2f3/README.md) `dailymirror.lk`
+* [Third in the world and first in Asia  in traffic congestion](data/articles/third-in-the-world-and-f.44bba7a4/README.md) `dailymirror.lk`
+* [No toilet facilities during the glorious Kandy Perahera season](data/articles/no-toilet-facilities-dur.7a9306fc/README.md) `dailymirror.lk`
 
 ## 2026-07-14
 
