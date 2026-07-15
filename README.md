@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-15 06:31:25**
+Last Updated **2026-07-15 18:31:58**
 
 ## 2026-07-15
 
@@ -15,6 +15,7 @@ Last Updated **2026-07-15 06:31:25**
 
 ## 2026-07-14
 
+* [Dengue Quiz Sri Lanka: How Much Do You Really Know?](data/articles/dengue-quiz-sri-lanka-ho.8e71f46d/README.md) `dailymirror.lk`
 * [ME AGAINST THE WORLD](data/articles/me-against-the-world.409ba71a/README.md) `dailymirror.lk`
 * [Planned Capture of the  Judiciary  by the Executive](data/articles/planned-capture-of-the-j.ff4535a0/README.md) `dailymirror.lk`
 * [Treating symptoms instead of causes: Why importing 7,500 workers will not solve construction industry crisis](data/articles/treating-symptoms-instea.6e6b0cfa/README.md) `ft.lk`
