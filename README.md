@@ -2,13 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-15 18:31:58**
+Last Updated **2026-07-16 06:34:55**
+
+## 2026-07-16
+
+* [Why men’s mental health deserves our attention](data/articles/why-men-s-mental-health.ba2182df/README.md) `ft.lk`
+* [NGO Bill: Slouching toward totalitarianism?](data/articles/ngo-bill-slouching-towar.dc22c3c0/README.md) `ft.lk`
+* [American socialism, US-Iran conflict, Ayatollah Khamenei’s funeral, and NATO-Russia-China](data/articles/american-socialism-us-ir.e148b408/README.md) `ft.lk`
 
 ## 2026-07-15
 
+* [Road drains driving dengue: Study reveals 70% of risk](data/articles/road-drains-driving-deng.3d5ebb3b/README.md) `ft.lk`
+* [Beyond handouts: Why Sri Lanka needs more economic leadership](data/articles/beyond-handouts-why-sri.e56e35a5/README.md) `ft.lk`
 * [Sri Lanka has educated women,  now it must make work possible](data/articles/sri-lanka-has-educated-w.f35f2624/README.md) `ft.lk`
 * [Rise of the “Playpen Man”: The missing half of gender equity](data/articles/rise-of-the-playpen-man.5693f01b/README.md) `ft.lk`
 * [Negombo Prison Tragedy:  INTELLIGENCE LAPSES,  systemic failures and urgent imperative for reform](data/articles/negombo-prison-tragedy-i.cecdf69f/README.md) `dailymirror.lk`
+* [India-Sri Lanka Media Fest Nuance journalism versus clickbait](data/articles/india-sri-lanka-media-fe.282c8da5/README.md) `dailymirror.lk`
 * [Derisking food security by thinking intelligently](data/articles/derisking-food-security.4673c2f3/README.md) `dailymirror.lk`
 * [Third in the world and first in Asia  in traffic congestion](data/articles/third-in-the-world-and-f.44bba7a4/README.md) `dailymirror.lk`
 * [No toilet facilities during the glorious Kandy Perahera season](data/articles/no-toilet-facilities-dur.7a9306fc/README.md) `dailymirror.lk`
@@ -23,6 +32,7 @@ Last Updated **2026-07-15 18:31:58**
 * [France at half-time – a republic that’s still playing the long game](data/articles/france-at-half-time-a-re.577b3b5b/README.md) `ft.lk`
 * [Columnist Dhanusha Gihan Pathirana responds to EFC rebuttal](data/articles/columnist-dhanusha-gihan.c5b6b7e8/README.md) `ft.lk`
 * [Strategy alone is worthless, execution is everything: NPP a mixed bag](data/articles/strategy-alone-is-worthl.732b03fb/README.md) `ft.lk`
+* [PsiQuantum has a plan to make a massive quantum computer out of light](data/articles/psiquantum-has-a-plan-to.b5aa16b3/README.md) `technologyreview.com`
 
 ## 2026-07-13
 
@@ -69,6 +79,7 @@ Last Updated **2026-07-15 18:31:58**
 * [Sri Lanka’s grossly confusing foreign reserve numbers – Explained](data/articles/sri-lanka-s-grossly-conf.859783bb/README.md) `ft.lk`
 * [Challenges in preventing tax crimes: From theory to practice](data/articles/challenges-in-preventing.881a4bf9/README.md) `ft.lk`
 * [Aragalaya 4th Anniversary: ‘Colour Revolution’ or third post-Independence civic uprising?](data/articles/aragalaya-4th-anniversar.a38e3d70/README.md) `ft.lk`
+* [Four nuclear reactors hit a big milestone in the US](data/articles/four-nuclear-reactors-hi.178dc986/README.md) `technologyreview.com`
 * [The crime was not the end: How Social Media can harm child abuse victims again](data/articles/the-crime-was-not-the-en.529a1918/README.md) `ft.lk`
 * [Understanding child sexual abuse and those who commit it](data/articles/understanding-child-sexu.43122376/README.md) `ft.lk`
 
