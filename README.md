@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-17 06:37:00**
+Last Updated **2026-07-17 18:26:15**
 
 ## 2026-07-17
 
@@ -11,6 +11,7 @@ Last Updated **2026-07-17 06:37:00**
 * [From ICU to Stock Exchange: Why an AI-tech bubble could decide Sri Lanka’s next crisis](data/articles/from-icu-to-stock-exchan.97377d77/README.md) `ft.lk`
 * [The price of promotion: Why Sri Lanka’s reclassified wealth is a macroeconomic mirage](data/articles/the-price-of-promotion-w.895504c1/README.md) `ft.lk`
 * [Sri Lanka’s real recovery begins at household, not the headline](data/articles/sri-lanka-s-real-recover.a02a4ef0/README.md) `ft.lk`
+* [There’s a lot of hype around perimenopause. Don’t buy it.](data/articles/there-s-a-lot-of-hype-ar.60f1cf5a/README.md) `technologyreview.com`
 * [Sri Lanka needs fourth economic revolution  -Santosh Menon](data/articles/sri-lanka-needs-fourth-e.d9eedc59/README.md) `dailymirror.lk`
 * [Government Must Listen to the Legal Fraternity](data/articles/government-must-listen-t.29798687/README.md) `dailymirror.lk`
 * [Trump’s war on ICC: Let there be war crimes](data/articles/trump-s-war-on-icc-let-t.22ab9679/README.md) `dailymirror.lk`
