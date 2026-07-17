@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-16 18:35:39**
+Last Updated **2026-07-17 06:37:00**
+
+## 2026-07-17
+
+* [Intermittence or contretemps: Once again on peasants’ agitation](data/articles/intermittence-or-contret.928906c9/README.md) `ft.lk`
+* [Sri Lanka’s greatest strategic asset is its civilisational heritage](data/articles/sri-lanka-s-greatest-str.4d2142c9/README.md) `ft.lk`
+* [From ICU to Stock Exchange: Why an AI-tech bubble could decide Sri Lanka’s next crisis](data/articles/from-icu-to-stock-exchan.97377d77/README.md) `ft.lk`
+* [The price of promotion: Why Sri Lanka’s reclassified wealth is a macroeconomic mirage](data/articles/the-price-of-promotion-w.895504c1/README.md) `ft.lk`
+* [Sri Lanka’s real recovery begins at household, not the headline](data/articles/sri-lanka-s-real-recover.a02a4ef0/README.md) `ft.lk`
+* [Sri Lanka needs fourth economic revolution  -Santosh Menon](data/articles/sri-lanka-needs-fourth-e.d9eedc59/README.md) `dailymirror.lk`
+* [Government Must Listen to the Legal Fraternity](data/articles/government-must-listen-t.29798687/README.md) `dailymirror.lk`
+* [Trump’s war on ICC: Let there be war crimes](data/articles/trump-s-war-on-icc-let-t.22ab9679/README.md) `dailymirror.lk`
+* [Sri Lanka’s Return to Upper Middle-Income Status: Progress with Perspective](data/articles/sri-lanka-s-return-to-up.46a8d3b4/README.md) `dailymirror.lk`
 
 ## 2026-07-16
 
