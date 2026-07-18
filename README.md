@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-18 06:34:38**
+Last Updated **2026-07-18 18:26:57**
 
 ## 2026-07-18
 
@@ -13,6 +13,10 @@ Last Updated **2026-07-18 06:34:38**
 
 ## 2026-07-17
 
+* [The Impact of Killing;  Collision of Conscience; Case Vignettes from the Eelam War](data/articles/the-impact-of-killing-co.92532059/README.md) `dailymirror.lk`
+* [Motivation of public sector employees and enhancement of their productivity](data/articles/motivation-of-public-sec.66aff658/README.md) `dailymirror.lk`
+* [the French Parliament  passes  historic  Assisted Death Bill](data/articles/the-french-parliament-pa.421f9b6a/README.md) `dailymirror.lk`
+* [Opportunists using ethno-religious prejudice for political advantage](data/articles/opportunists-using-ethno.0deaed68/README.md) `dailymirror.lk`
 * [Intermittence or contretemps: Once again on peasants’ agitation](data/articles/intermittence-or-contret.928906c9/README.md) `ft.lk`
 * [Sri Lanka’s greatest strategic asset is its civilisational heritage](data/articles/sri-lanka-s-greatest-str.4d2142c9/README.md) `ft.lk`
 * [From ICU to Stock Exchange: Why an AI-tech bubble could decide Sri Lanka’s next crisis](data/articles/from-icu-to-stock-exchan.97377d77/README.md) `ft.lk`
