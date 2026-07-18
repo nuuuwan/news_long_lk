@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-17 18:26:15**
+Last Updated **2026-07-18 06:34:38**
+
+## 2026-07-18
+
+* [The Asian century is here: Sri Lanka must decide and define its course – Ranil](data/articles/the-asian-century-is-her.2646a5cd/README.md) `ft.lk`
+* [Historical legacy and the roots of strategic caution](data/articles/historical-legacy-and-th.aa0f5824/README.md) `ft.lk`
+* [Unprecedented ascendency of US: World operates on Washington’s time](data/articles/unprecedented-ascendency.2014dd69/README.md) `ft.lk`
+* [China’s military modernisation in focus as PLA celebrates 99th anniversary](data/articles/china-s-military-moderni.77f25961/README.md) `ft.lk`
 
 ## 2026-07-17
 
