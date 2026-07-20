@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-19 18:25:18**
+Last Updated **2026-07-20 06:37:46**
+
+## 2026-07-20
+
+* [The Sahodarayas We No Longer Have](data/articles/the-sahodarayas-we-no-lo.6615ba0c/README.md) `dailymirror.lk`
+* [Mr. President, popularity must now bring results!](data/articles/mr-president-popularity.91533a00/README.md) `dailymirror.lk`
+* [Worrying observations during Kataragama Pada Yatra](data/articles/worrying-observations-du.98610da2/README.md) `dailymirror.lk`
+* [Call to resolve shortage of JPs](data/articles/call-to-resolve-shortage.b80138b1/README.md) `dailymirror.lk`
 
 ## 2026-07-18
 
