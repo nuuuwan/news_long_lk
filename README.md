@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-20 06:37:46**
+Last Updated **2026-07-20 18:51:23**
 
 ## 2026-07-20
 
+* [Creating a cognitive gym: Taming the AI monster in our classrooms](data/articles/creating-a-cognitive-gym.3fc233d9/README.md) `ft.lk`
 * [The Sahodarayas We No Longer Have](data/articles/the-sahodarayas-we-no-lo.6615ba0c/README.md) `dailymirror.lk`
 * [Mr. President, popularity must now bring results!](data/articles/mr-president-popularity.91533a00/README.md) `dailymirror.lk`
 * [Worrying observations during Kataragama Pada Yatra](data/articles/worrying-observations-du.98610da2/README.md) `dailymirror.lk`
