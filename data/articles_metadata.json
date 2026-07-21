@@ -1,10 +1,52 @@
 [
   {
+    "title": "Institutional reshuffles in Govt.: What do they reveal about Sri Lanka\u2019s democratic politics?",
+    "url": "https://www.ft.lk/columns/Institutional-reshuffles-in-Govt-What-do-they-reveal-about-Sri-Lanka-s-democratic-politics/4-794894",
+    "ut": 1784595649.0,
+    "dir_path_unix": "data/articles/institutional-reshuffles.3fc67be5",
+    "time_str_formatted": "06:30 AM, Tuesday, July 21, 2026"
+  },
+  {
+    "title": "Beyond blame games: Exposing the rot in prisons and drug policies",
+    "url": "https://www.ft.lk/columns/Beyond-blame-games-Exposing-the-rot-in-prisons-and-drug-policies/4-794893",
+    "ut": 1784595109.0,
+    "dir_path_unix": "data/articles/beyond-blame-games-expos.78edd245",
+    "time_str_formatted": "06:21 AM, Tuesday, July 21, 2026"
+  },
+  {
+    "title": "Growing into the storm",
+    "url": "https://www.ft.lk/columns/Growing-into-the-storm/4-794892",
+    "ut": 1784594562.0,
+    "dir_path_unix": "data/articles/growing-into-the-storm.d6fde41c",
+    "time_str_formatted": "06:12 AM, Tuesday, July 21, 2026"
+  },
+  {
+    "title": "The Hidden Storage Tax on Every AI Conversation",
+    "url": "https://hbr.org/sponsored/2026/07/the-hidden-storage-tax-on-every-ai-conversation",
+    "ut": 1784545380.0,
+    "dir_path_unix": "data/articles/the-hidden-storage-tax-o.c9737c91",
+    "time_str_formatted": "04:33 PM, Monday, July 20, 2026"
+  },
+  {
+    "title": "China\u2019s AI models have Trump\u2019s AI world at war with itself",
+    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "ut": 1784536200.0,
+    "dir_path_unix": "data/articles/china-s-ai-models-have-t.61d13d19",
+    "time_str_formatted": "02:00 PM, Monday, July 20, 2026"
+  },
+  {
     "title": "Creating a cognitive gym: Taming the AI monster in our classrooms",
     "url": "https://www.ft.lk/columns/Creating-a-cognitive-gym-Taming-the-AI-monster-in-our-classrooms/4-794840",
     "ut": 1784499903.0,
     "dir_path_unix": "data/articles/creating-a-cognitive-gym.3fc233d9",
     "time_str_formatted": "03:55 AM, Monday, July 20, 2026"
+  },
+  {
+    "title": "Tintin to Tranquility Base: New race for the moon",
+    "url": "https://www.ft.lk/columns/Tintin-to-Tranquility-Base-New-race-for-the-moon/4-794839",
+    "ut": 1784499594.0,
+    "dir_path_unix": "data/articles/tintin-to-tranquility-ba.a0914b46",
+    "time_str_formatted": "03:49 AM, Monday, July 20, 2026"
   },
   {
     "title": "The Sahodarayas We No Longer Have",
@@ -208,6 +250,13 @@
     "ut": 1784144464.0,
     "dir_path_unix": "data/articles/american-socialism-us-ir.e148b408",
     "time_str_formatted": "01:11 AM, Thursday, July 16, 2026"
+  },
+  {
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "ut": 1784101177.0,
+    "dir_path_unix": "data/articles/meet-gpt-red-an-llm-supe.0081d2e6",
+    "time_str_formatted": "01:09 PM, Wednesday, July 15, 2026"
   },
   {
     "title": "Road drains driving dengue: Study reveals 70% of risk",

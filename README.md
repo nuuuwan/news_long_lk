@@ -2,11 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-20 18:51:23**
+Last Updated **2026-07-21 06:34:26**
+
+## 2026-07-21
+
+* [Institutional reshuffles in Govt.: What do they reveal about Sri Lanka’s democratic politics?](data/articles/institutional-reshuffles.3fc67be5/README.md) `ft.lk`
+* [Beyond blame games: Exposing the rot in prisons and drug policies](data/articles/beyond-blame-games-expos.78edd245/README.md) `ft.lk`
+* [Growing into the storm](data/articles/growing-into-the-storm.d6fde41c/README.md) `ft.lk`
 
 ## 2026-07-20
 
+* [The Hidden Storage Tax on Every AI Conversation](data/articles/the-hidden-storage-tax-o.c9737c91/README.md) `hbr.org`
+* [China’s AI models have Trump’s AI world at war with itself](data/articles/china-s-ai-models-have-t.61d13d19/README.md) `technologyreview.com`
 * [Creating a cognitive gym: Taming the AI monster in our classrooms](data/articles/creating-a-cognitive-gym.3fc233d9/README.md) `ft.lk`
+* [Tintin to Tranquility Base: New race for the moon](data/articles/tintin-to-tranquility-ba.a0914b46/README.md) `ft.lk`
 * [The Sahodarayas We No Longer Have](data/articles/the-sahodarayas-we-no-lo.6615ba0c/README.md) `dailymirror.lk`
 * [Mr. President, popularity must now bring results!](data/articles/mr-president-popularity.91533a00/README.md) `dailymirror.lk`
 * [Worrying observations during Kataragama Pada Yatra](data/articles/worrying-observations-du.98610da2/README.md) `dailymirror.lk`
@@ -48,6 +57,7 @@ Last Updated **2026-07-20 18:51:23**
 
 ## 2026-07-15
 
+* [Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer](data/articles/meet-gpt-red-an-llm-supe.0081d2e6/README.md) `technologyreview.com`
 * [Road drains driving dengue: Study reveals 70% of risk](data/articles/road-drains-driving-deng.3d5ebb3b/README.md) `ft.lk`
 * [Beyond handouts: Why Sri Lanka needs more economic leadership](data/articles/beyond-handouts-why-sri.e56e35a5/README.md) `ft.lk`
 * [Sri Lanka has educated women,  now it must make work possible](data/articles/sri-lanka-has-educated-w.f35f2624/README.md) `ft.lk`
