@@ -2,18 +2,27 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-21 06:34:26**
+Last Updated **2026-07-21 18:34:08**
 
 ## 2026-07-21
 
+* [What the Nuns of Canterbury Can Teach You About PR](data/articles/what-the-nuns-of-canterb.2905be57/README.md) `dailymirror.lk`
+* [The greatest governance risk: When Boards think they know it all](data/articles/the-greatest-governance.be3e1b6b/README.md) `ft.lk`
+* [Resilience is the real flex](data/articles/resilience-is-the-real-f.af3cccd7/README.md) `ft.lk`
+* [The flip side of achieving Primary Surplus](data/articles/the-flip-side-of-achievi.194a3052/README.md) `ft.lk`
 * [Institutional reshuffles in Govt.: What do they reveal about Sri Lanka’s democratic politics?](data/articles/institutional-reshuffles.3fc67be5/README.md) `ft.lk`
 * [Beyond blame games: Exposing the rot in prisons and drug policies](data/articles/beyond-blame-games-expos.78edd245/README.md) `ft.lk`
 * [Growing into the storm](data/articles/growing-into-the-storm.d6fde41c/README.md) `ft.lk`
 
 ## 2026-07-20
 
+* [Supreme Court and Court of Appeal Judges: Age should not dictate termination of service](data/articles/supreme-court-and-court.950a423c/README.md) `dailymirror.lk`
+* [China’s global popularity rises as US stumbles](data/articles/china-s-global-popularit.a38da0ca/README.md) `dailymirror.lk`
+* [Cybercrime: Selective action won’t help](data/articles/cybercrime-selective-act.26adb74b/README.md) `dailymirror.lk`
+* [The 2026 World Cup Final descended into hooliganism](data/articles/the-2026-world-cup-final.69af99d0/README.md) `dailymirror.lk`
 * [The Hidden Storage Tax on Every AI Conversation](data/articles/the-hidden-storage-tax-o.c9737c91/README.md) `hbr.org`
 * [China’s AI models have Trump’s AI world at war with itself](data/articles/china-s-ai-models-have-t.61d13d19/README.md) `technologyreview.com`
+* [AI is more likely than humans to form biases when hiring](data/articles/ai-is-more-likely-than-h.d213c30d/README.md) `technologyreview.com`
 * [Creating a cognitive gym: Taming the AI monster in our classrooms](data/articles/creating-a-cognitive-gym.3fc233d9/README.md) `ft.lk`
 * [Tintin to Tranquility Base: New race for the moon](data/articles/tintin-to-tranquility-ba.a0914b46/README.md) `ft.lk`
 * [The Sahodarayas We No Longer Have](data/articles/the-sahodarayas-we-no-lo.6615ba0c/README.md) `dailymirror.lk`
