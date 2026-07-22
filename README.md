@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-22 06:34:45**
+Last Updated **2026-07-22 18:36:42**
 
 ## 2026-07-22
 
+* [When ports become pawns: How the US is reanchoring its maritime strategy in South Asia](data/articles/when-ports-become-pawns.31c57a27/README.md) `dailymirror.lk`
 * [Sri Lankan brands don’t have a sponsorship problem: They have an imagination problem](data/articles/sri-lankan-brands-don-t.3fc786b5/README.md) `ft.lk`
 * [The SMEs left behind by  Sri Lanka’s economic model](data/articles/the-smes-left-behind-by.66f1044b/README.md) `ft.lk`
 * [SC ruling on Seagull Property Developers:  A landmark judgment that reaffirms rule of law](data/articles/sc-ruling-on-seagull-pro.d3a99049/README.md) `ft.lk`
