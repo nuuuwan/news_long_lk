@@ -2,11 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-21 18:34:08**
+Last Updated **2026-07-22 06:34:45**
+
+## 2026-07-22
+
+* [Sri Lankan brands don’t have a sponsorship problem: They have an imagination problem](data/articles/sri-lankan-brands-don-t.3fc786b5/README.md) `ft.lk`
+* [The SMEs left behind by  Sri Lanka’s economic model](data/articles/the-smes-left-behind-by.66f1044b/README.md) `ft.lk`
+* [SC ruling on Seagull Property Developers:  A landmark judgment that reaffirms rule of law](data/articles/sc-ruling-on-seagull-pro.d3a99049/README.md) `ft.lk`
+* [Bringing Sri Lanka’s diaspora home: A policy brief](data/articles/bringing-sri-lanka-s-dia.5559d6c6/README.md) `ft.lk`
+* [Renewing a living commitment: Whither constitutional reform?](data/articles/renewing-a-living-commit.271f151e/README.md) `ft.lk`
+* [Exposing the rot in Sri Lanka’s prisons, drug policies and demanding intelligence  - led prevention](data/articles/exposing-the-rot-in-sri.b778db92/README.md) `dailymirror.lk`
+* [Despite ‘Clean Sri Lanka’, our cities are becoming dirtier and messier](data/articles/despite-clean-sri-lanka.8807b406/README.md) `dailymirror.lk`
+* [Cleanliness is a public responsibility too!](data/articles/cleanliness-is-a-public.99d3d7f3/README.md) `dailymirror.lk`
+* [Stop openly displaying alcohol for sale in supermarkets](data/articles/stop-openly-displaying-a.382fb9ae/README.md) `dailymirror.lk`
 
 ## 2026-07-21
 
 * [What the Nuns of Canterbury Can Teach You About PR](data/articles/what-the-nuns-of-canterb.2905be57/README.md) `dailymirror.lk`
+* [Everyone Is Talking About Context for AI. Here’s What Most Companies Still Miss.](data/articles/everyone-is-talking-abou.d3442eec/README.md) `hbr.org`
 * [The greatest governance risk: When Boards think they know it all](data/articles/the-greatest-governance.be3e1b6b/README.md) `ft.lk`
 * [Resilience is the real flex](data/articles/resilience-is-the-real-f.af3cccd7/README.md) `ft.lk`
 * [The flip side of achieving Primary Surplus](data/articles/the-flip-side-of-achievi.194a3052/README.md) `ft.lk`
