@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-22 18:36:42**
+Last Updated **2026-07-23 06:36:26**
+
+## 2026-07-23
+
+* [Minority caucus, PC elections,  SJB and the new Constitution noose](data/articles/minority-caucus-pc-elect.3f91ffea/README.md) `ft.lk`
+* [The Commonwealth’s greatest prize lies beyond the Games](data/articles/the-commonwealth-s-great.5a6146ce/README.md) `ft.lk`
+* [Who really pays for digital banking?](data/articles/who-really-pays-for-digi.fdb79df4/README.md) `ft.lk`
+* [Finance Commission of Sri Lanka: Time to rise to the challenge](data/articles/finance-commission-of-sr.65a9f332/README.md) `ft.lk`
+* [Black July  that gave birth to two  political  bloodbaths](data/articles/black-july-that-gave-bir.5f663f3b/README.md) `dailymirror.lk`
+* [Call to upgrade facilities of urban housing complexes](data/articles/call-to-upgrade-faciliti.c7d4b247/README.md) `dailymirror.lk`
+* [How leaderless youth movements are reshaping politics in South Asia](data/articles/how-leaderless-youth-mov.c4b9de0a/README.md) `dailymirror.lk`
 
 ## 2026-07-22
 
+* [How Banking Can Develop an AI Adoption Strategy to Build a Bold Future](data/articles/how-banking-can-develop.a8a53e23/README.md) `hbr.org`
 * [When ports become pawns: How the US is reanchoring its maritime strategy in South Asia](data/articles/when-ports-become-pawns.31c57a27/README.md) `dailymirror.lk`
 * [Sri Lankan brands don’t have a sponsorship problem: They have an imagination problem](data/articles/sri-lankan-brands-don-t.3fc786b5/README.md) `ft.lk`
 * [The SMEs left behind by  Sri Lanka’s economic model](data/articles/the-smes-left-behind-by.66f1044b/README.md) `ft.lk`
