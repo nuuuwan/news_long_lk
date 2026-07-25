@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-25 06:36:06**
+Last Updated **2026-07-25 18:26:03**
 
 ## 2026-07-25
 
@@ -13,6 +13,9 @@ Last Updated **2026-07-25 06:36:06**
 
 ## 2026-07-24
 
+* [Public servants should be made answerable to  the public](data/articles/public-servants-should-b.4dd44163/README.md) `dailymirror.lk`
+* [The Hidden Nutrition Crisis:  How Climate Change Is Changingthe Food We Eat](data/articles/the-hidden-nutrition-cri.5a17fd6e/README.md) `dailymirror.lk`
+* [Black July   survivors/victims still await justice](data/articles/black-july-survivors-vic.64b263df/README.md) `dailymirror.lk`
 * [The quest to keep organs alive outside the body](data/articles/the-quest-to-keep-organs.0ad2f376/README.md) `technologyreview.com`
 * [Budget 2027: From stabilisation to transformation](data/articles/budget-2027-from-stabili.c6dae7c4/README.md) `ft.lk`
 * [India calling](data/articles/india-calling.a4772bf5/README.md) `ft.lk`
