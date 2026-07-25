@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-24 18:35:16**
+Last Updated **2026-07-25 06:36:06**
+
+## 2026-07-25
+
+* [“Farewell, Ceylon: Together we continue the story across mountains and seas”](data/articles/farewell-ceylon-togethe.088b301d/README.md) `ft.lk`
+* [Killi Rajamahendran: Custodian of trust](data/articles/killi-rajamahendran-cust.687f429c/README.md) `ft.lk`
+* [Beyond strategic location: A unified strategy to reconnect Sri Lanka with the world](data/articles/beyond-strategic-locatio.1620035b/README.md) `ft.lk`
+* [China pledges deeper defence ties with Sri Lanka as Beijing marks PLA anniversary](data/articles/china-pledges-deeper-def.33ec763e/README.md) `ft.lk`
 
 ## 2026-07-24
 
+* [The quest to keep organs alive outside the body](data/articles/the-quest-to-keep-organs.0ad2f376/README.md) `technologyreview.com`
 * [Budget 2027: From stabilisation to transformation](data/articles/budget-2027-from-stabili.c6dae7c4/README.md) `ft.lk`
 * [India calling](data/articles/india-calling.a4772bf5/README.md) `ft.lk`
 * [US$715 Million Gone: Another financial black hole](data/articles/us-715-million-gone-anot.23e0efe6/README.md) `dailymirror.lk`
