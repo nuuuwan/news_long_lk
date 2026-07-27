@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-26 18:28:00**
+Last Updated **2026-07-27 06:38:58**
+
+## 2026-07-27
+
+* [H.M.R. Ellepola: A true unsung hero of the Central Bank](data/articles/h-m-r-ellepola-a-true-un.da4344be/README.md) `ft.lk`
+* [Can Sri Lanka become  South Asia’s next  FinTech innovation hub?](data/articles/can-sri-lanka-become-sou.b750eff0/README.md) `ft.lk`
+* [Sri Lanka’s Personal Income Tax squeeze](data/articles/sri-lanka-s-personal-inc.1b87f660/README.md) `ft.lk`
+* [Online casinos: Sri Lanka’s offline tax net is missing the online jackpot](data/articles/online-casinos-sri-lanka.f6d0e16b/README.md) `ft.lk`
+* [Nalin as a novel navigator: Reflections in retrospect](data/articles/nalin-as-a-novel-navigat.4ed7d4f0/README.md) `ft.lk`
+* [Integrity Begins Within:  Internal Affairs Units,  the Keystone of a  New Public Service Culture](data/articles/integrity-begins-within.e340257e/README.md) `dailymirror.lk`
+* [The Constitution as Conversation, Not Conclusion](data/articles/the-constitution-as-conv.099a4512/README.md) `dailymirror.lk`
 
 ## 2026-07-25
 
