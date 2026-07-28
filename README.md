@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-28 06:33:04**
+Last Updated **2026-07-28 18:39:56**
 
 ## 2026-07-28
 
@@ -14,6 +14,9 @@ Last Updated **2026-07-28 06:33:04**
 
 ## 2026-07-27
 
+* [To Solve Street Dog Issue; Government must work with animal welfare groups](data/articles/to-solve-street-dog-issu.4ff376ce/README.md) `dailymirror.lk`
+* [Roadside Garbage Dumping by Car Owners](data/articles/roadside-garbage-dumping.3a1f21b6/README.md) `dailymirror.lk`
+* [Findings of COPE, COPA, COPF – are they media shows?](data/articles/findings-of-cope-copa-co.eddac0f6/README.md) `dailymirror.lk`
 * [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](data/articles/openai-called-the-huggin.bd9265e4/README.md) `technologyreview.com`
 * [H.M.R. Ellepola: A true unsung hero of the Central Bank](data/articles/h-m-r-ellepola-a-true-un.da4344be/README.md) `ft.lk`
 * [Can Sri Lanka become  South Asia’s next  FinTech innovation hub?](data/articles/can-sri-lanka-become-sou.b750eff0/README.md) `ft.lk`
