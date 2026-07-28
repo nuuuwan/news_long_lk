@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-27 19:00:27**
+Last Updated **2026-07-28 06:33:04**
+
+## 2026-07-28
+
+* [The draft NGO law casts a wide net to build an architecture of oppression](data/articles/the-draft-ngo-law-casts.0f39dae3/README.md) `ft.lk`
+* [Sri Lanka cannot live on location alone: Time to win the global race for FDIs](data/articles/sri-lanka-cannot-live-on.86aff008/README.md) `ft.lk`
+* [Balancing the ledger: Rebuilding reserves without triggering currency shocks](data/articles/balancing-the-ledger-reb.5440ad03/README.md) `ft.lk`
+* [GSP+ reapplication looms: What  Sri Lanka’s apparel sector must fix now](data/articles/gsp-reapplication-looms.dfa72683/README.md) `ft.lk`
+* [RCEP and Sri Lanka: A new chapter in regional trade](data/articles/rcep-and-sri-lanka-a-new.37302cb3/README.md) `ft.lk`
 
 ## 2026-07-27
 
+* [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](data/articles/openai-called-the-huggin.bd9265e4/README.md) `technologyreview.com`
 * [H.M.R. Ellepola: A true unsung hero of the Central Bank](data/articles/h-m-r-ellepola-a-true-un.da4344be/README.md) `ft.lk`
 * [Can Sri Lanka become  South Asia’s next  FinTech innovation hub?](data/articles/can-sri-lanka-become-sou.b750eff0/README.md) `ft.lk`
 * [Sri Lanka’s Personal Income Tax squeeze](data/articles/sri-lanka-s-personal-inc.1b87f660/README.md) `ft.lk`
