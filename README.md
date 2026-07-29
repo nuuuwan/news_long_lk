@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-28 18:39:56**
+Last Updated **2026-07-29 06:35:40**
+
+## 2026-07-29
+
+* [Judicial independence is not about judges—it is about every citizen](data/articles/judicial-independence-is.1695f0fb/README.md) `ft.lk`
+* [Confronting Sri Lankan drug mafia](data/articles/confronting-sri-lankan-d.26402fad/README.md) `ft.lk`
+* [Has Sri Lanka failed because of flawed data? A proposal for independent national data intelligence unit](data/articles/has-sri-lanka-failed-bec.ebe4b80f/README.md) `ft.lk`
+* [Quiet diplomacy of Ambassador Qi Zhenhong: Through crisis and recovery](data/articles/quiet-diplomacy-of-ambas.238c8f23/README.md) `ft.lk`
+* [Mine the leverage?](data/articles/mine-the-leverage.43dad3b0/README.md) `ft.lk`
+* [Sri Lanka’s drug eradication campaign:  From rhetoric to real outcomes](data/articles/sri-lanka-s-drug-eradica.1bb8ad2b/README.md) `dailymirror.lk`
+* [Prison overcrowding:  Revision of remand prisoners key to solution](data/articles/prison-overcrowding-revi.dcd4e825/README.md) `dailymirror.lk`
+* [Are we governing for the next election,  or the next generation?](data/articles/are-we-governing-for-the.408394da/README.md) `dailymirror.lk`
+* [Manipulation by self-appointed brokers](data/articles/manipulation-by-self-app.b909d338/README.md) `dailymirror.lk`
 
 ## 2026-07-28
 
