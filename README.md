@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-29 06:35:40**
+Last Updated **2026-07-29 18:42:19**
 
 ## 2026-07-29
 
+* [The AI Hype Index: Unsexy AI](data/articles/the-ai-hype-index-unsexy.b4d3a90f/README.md) `technologyreview.com`
 * [Judicial independence is not about judges—it is about every citizen](data/articles/judicial-independence-is.1695f0fb/README.md) `ft.lk`
 * [Confronting Sri Lankan drug mafia](data/articles/confronting-sri-lankan-d.26402fad/README.md) `ft.lk`
 * [Has Sri Lanka failed because of flawed data? A proposal for independent national data intelligence unit](data/articles/has-sri-lanka-failed-bec.ebe4b80f/README.md) `ft.lk`
