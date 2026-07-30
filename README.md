@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-30 06:33:03**
+Last Updated **2026-07-30 18:38:10**
 
 ## 2026-07-30
 
@@ -13,6 +13,10 @@ Last Updated **2026-07-30 06:33:03**
 
 ## 2026-07-29
 
+* [Saving Seconds, Saving Lives:  The Sri Lankan Doctor Behind a Life-Saving Invention](data/articles/saving-seconds-saving-li.a880483d/README.md) `dailymirror.lk`
+* [Is retirement age extension issue aimed at a particular judge?](data/articles/is-retirement-age-extens.881d1e74/README.md) `dailymirror.lk`
+* [Why is there no Electronic Toll Collection at Kadawatha highway exit?](data/articles/why-is-there-no-electron.724668de/README.md) `dailymirror.lk`
+* [Reviving Sri Lanka’s chequered trilingual literary heritage](data/articles/reviving-sri-lanka-s-che.4b64dbc9/README.md) `dailymirror.lk`
 * [How an overlooked geothermal plant got a second chance](data/articles/how-an-overlooked-geothe.2ef3d49a/README.md) `technologyreview.com`
 * [The AI Hype Index: Unsexy AI](data/articles/the-ai-hype-index-unsexy.b4d3a90f/README.md) `technologyreview.com`
 * [Judicial independence is not about judges—it is about every citizen](data/articles/judicial-independence-is.1695f0fb/README.md) `ft.lk`
@@ -39,6 +43,7 @@ Last Updated **2026-07-30 06:33:03**
 * [Roadside Garbage Dumping by Car Owners](data/articles/roadside-garbage-dumping.3a1f21b6/README.md) `dailymirror.lk`
 * [Findings of COPE, COPA, COPF – are they media shows?](data/articles/findings-of-cope-copa-co.eddac0f6/README.md) `dailymirror.lk`
 * [OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.](data/articles/openai-called-the-huggin.bd9265e4/README.md) `technologyreview.com`
+* [How lasers could help provide fuel for nuclear reactors](data/articles/how-lasers-could-help-pr.aa693ec6/README.md) `technologyreview.com`
 * [H.M.R. Ellepola: A true unsung hero of the Central Bank](data/articles/h-m-r-ellepola-a-true-un.da4344be/README.md) `ft.lk`
 * [Can Sri Lanka become  South Asia’s next  FinTech innovation hub?](data/articles/can-sri-lanka-become-sou.b750eff0/README.md) `ft.lk`
 * [Sri Lanka’s Personal Income Tax squeeze](data/articles/sri-lanka-s-personal-inc.1b87f660/README.md) `ft.lk`
