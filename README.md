@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-29 18:42:19**
+Last Updated **2026-07-30 06:33:03**
+
+## 2026-07-30
+
+* [Historic moment of Opposition convergence: Strategy for consolidation](data/articles/historic-moment-of-oppos.789365cb/README.md) `ft.lk`
+* [Sri Lanka’s innovation gap is no longer about ideas; it is about execution](data/articles/sri-lanka-s-innovation-g.83632a66/README.md) `ft.lk`
+* [Sri Lanka’s direct–indirect tax imbalance:  Is revenue success coming at expense of tax equity?](data/articles/sri-lanka-s-direct-indir.66f46506/README.md) `ft.lk`
+* [Judicial independence under threat](data/articles/judicial-independence-un.456c5d9a/README.md) `ft.lk`
 
 ## 2026-07-29
 
+* [How an overlooked geothermal plant got a second chance](data/articles/how-an-overlooked-geothe.2ef3d49a/README.md) `technologyreview.com`
 * [The AI Hype Index: Unsexy AI](data/articles/the-ai-hype-index-unsexy.b4d3a90f/README.md) `technologyreview.com`
 * [Judicial independence is not about judges—it is about every citizen](data/articles/judicial-independence-is.1695f0fb/README.md) `ft.lk`
 * [Confronting Sri Lankan drug mafia](data/articles/confronting-sri-lankan-d.26402fad/README.md) `ft.lk`
