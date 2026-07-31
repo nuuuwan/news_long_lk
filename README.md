@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-30 18:38:10**
+Last Updated **2026-07-31 06:38:20**
+
+## 2026-07-31
+
+* [Between Bar, Bench and State](data/articles/between-bar-bench-and-st.36054bff/README.md) `ft.lk`
+* [Too many under lock-and -key? How an empowered Legal Aid Commission can resolve Prison crisis](data/articles/too-many-under-lock-and.9eed332b/README.md) `ft.lk`
+* [Who protects MSMEs from the misuse of power?](data/articles/who-protects-msmes-from.ada274ab/README.md) `ft.lk`
+* [Mr. President, what if Sri Lanka’s next economic breakthrough has nowhere to go?](data/articles/mr-president-what-if-sri.a509d2c0/README.md) `ft.lk`
+* [Building digital trust in Sri Lanka: Practical lessons from Switzerland](data/articles/building-digital-trust-i.d5a7c088/README.md) `ft.lk`
+* [Judges’ retirement age extension Lal Kantha asked me to keep silent:  Lal Wijenayake](data/articles/judges-retirement-age-ex.1f8796ba/README.md) `dailymirror.lk`
+* [Judicial independence under threat!](data/articles/judicial-independence-un.e39bffac/README.md) `dailymirror.lk`
+* [Judicial reforms do not mean retirement age extension](data/articles/judicial-reforms-do-not.b6f21121/README.md) `dailymirror.lk`
+* [Iran war and China’s Global Governance Initiative](data/articles/iran-war-and-china-s-glo.e82c3eeb/README.md) `dailymirror.lk`
+* [Dengue:  Why Must We Wait for Deaths Before Acting?](data/articles/dengue-why-must-we-wait.365e7bcc/README.md) `dailymirror.lk`
 
 ## 2026-07-30
 
+* [Montana’s plan to become an experimental medical hub just pushed forward](data/articles/montana-s-plan-to-become.3c7c2d3e/README.md) `technologyreview.com`
 * [Historic moment of Opposition convergence: Strategy for consolidation](data/articles/historic-moment-of-oppos.789365cb/README.md) `ft.lk`
 * [Sri Lanka’s innovation gap is no longer about ideas; it is about execution](data/articles/sri-lanka-s-innovation-g.83632a66/README.md) `ft.lk`
 * [Sri Lanka’s direct–indirect tax imbalance:  Is revenue success coming at expense of tax equity?](data/articles/sri-lanka-s-direct-indir.66f46506/README.md) `ft.lk`
