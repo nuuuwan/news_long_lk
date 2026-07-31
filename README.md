@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-31 06:38:20**
+Last Updated **2026-07-31 18:41:41**
 
 ## 2026-07-31
 
+* [Managing Yala for a better experience by thinking beyond Leopards](data/articles/managing-yala-for-a-bett.8efc4270/README.md) `ft.lk`
 * [Between Bar, Bench and State](data/articles/between-bar-bench-and-st.36054bff/README.md) `ft.lk`
 * [Too many under lock-and -key? How an empowered Legal Aid Commission can resolve Prison crisis](data/articles/too-many-under-lock-and.9eed332b/README.md) `ft.lk`
 * [Who protects MSMEs from the misuse of power?](data/articles/who-protects-msmes-from.ada274ab/README.md) `ft.lk`
 * [Mr. President, what if Sri Lanka’s next economic breakthrough has nowhere to go?](data/articles/mr-president-what-if-sri.a509d2c0/README.md) `ft.lk`
 * [Building digital trust in Sri Lanka: Practical lessons from Switzerland](data/articles/building-digital-trust-i.d5a7c088/README.md) `ft.lk`
+* [Montana’s new “right to try” law can’t come soon enough for some](data/articles/montana-s-new-right-to-t.f3afcd69/README.md) `technologyreview.com`
 * [Judges’ retirement age extension Lal Kantha asked me to keep silent:  Lal Wijenayake](data/articles/judges-retirement-age-ex.1f8796ba/README.md) `dailymirror.lk`
 * [Judicial independence under threat!](data/articles/judicial-independence-un.e39bffac/README.md) `dailymirror.lk`
 * [Judicial reforms do not mean retirement age extension](data/articles/judicial-reforms-do-not.b6f21121/README.md) `dailymirror.lk`
@@ -48,6 +50,7 @@ Last Updated **2026-07-31 06:38:20**
 * [The draft NGO law casts a wide net to build an architecture of oppression](data/articles/the-draft-ngo-law-casts.0f39dae3/README.md) `ft.lk`
 * [Sri Lanka cannot live on location alone: Time to win the global race for FDIs](data/articles/sri-lanka-cannot-live-on.86aff008/README.md) `ft.lk`
 * [Balancing the ledger: Rebuilding reserves without triggering currency shocks](data/articles/balancing-the-ledger-reb.5440ad03/README.md) `ft.lk`
+* [Samsung’s chip workers are jumping ship to rival SK Hynix](data/articles/samsung-s-chip-workers-a.e9c7d242/README.md) `technologyreview.com`
 * [GSP+ reapplication looms: What  Sri Lanka’s apparel sector must fix now](data/articles/gsp-reapplication-looms.dfa72683/README.md) `ft.lk`
 * [RCEP and Sri Lanka: A new chapter in regional trade](data/articles/rcep-and-sri-lanka-a-new.37302cb3/README.md) `ft.lk`
 
