@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-07-31 18:41:41**
+Last Updated **2026-08-01 06:38:34**
+
+## 2026-08-01
+
+* [India’s Cockroach movement: Lessons for South Asia](data/articles/india-s-cockroach-moveme.9937e86d/README.md) `ft.lk`
+* [Great countries need great schools](data/articles/great-countries-need-gre.431c8e64/README.md) `ft.lk`
+* [The rise of irregular transfers/loss of forex resources](data/articles/the-rise-of-irregular-tr.c07f6a2f/README.md) `ft.lk`
+* [Legacy of Podi Hamuduruwo continues](data/articles/legacy-of-podi-hamuduruw.76ae3c89/README.md) `ft.lk`
+* [Is Sri Lanka’s moral and ethical degradation redeemable?](data/articles/is-sri-lanka-s-moral-and.75f9aef9/README.md) `ft.lk`
 
 ## 2026-07-31
 
+* [Advancing Digital inclusion in Sri Lanka From Digital Divide to Digital Opportunity](data/articles/advancing-digital-inclus.b491695c/README.md) `dailymirror.lk`
+* [Betel Chew Ban Raises Serious Questions](data/articles/betel-chew-ban-raises-se.0c602206/README.md) `dailymirror.lk`
+* [What’s  brewing at the Bar?](data/articles/what-s-brewing-at-the-ba.e6020c19/README.md) `dailymirror.lk`
 * [Managing Yala for a better experience by thinking beyond Leopards](data/articles/managing-yala-for-a-bett.8efc4270/README.md) `ft.lk`
 * [Between Bar, Bench and State](data/articles/between-bar-bench-and-st.36054bff/README.md) `ft.lk`
 * [Too many under lock-and -key? How an empowered Legal Aid Commission can resolve Prison crisis](data/articles/too-many-under-lock-and.9eed332b/README.md) `ft.lk`
