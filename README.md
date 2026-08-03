@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-03 06:41:22**
+Last Updated **2026-08-03 19:02:50**
 
 ## 2026-08-03
 
+* [Less nodding and more prodding essential to making Boards more effective](data/articles/less-nodding-and-more-pr.9b09cb9b/README.md) `ft.lk`
 * [Dr Raja de Silva: Archaeologist who dared to be different](data/articles/dr-raja-de-silva-archaeo.6263cf08/README.md) `ft.lk`
 * [Interests of justice in extending retirement age of judges: Conflict between public interest and self-interest](data/articles/interests-of-justice-in.5e03fa27/README.md) `ft.lk`
 * [Binod Chaudhary’s recipe for realising your dreams](data/articles/binod-chaudhary-s-recipe.b5317e62/README.md) `ft.lk`
