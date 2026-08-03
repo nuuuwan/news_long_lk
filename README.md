@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-02 18:25:31**
+Last Updated **2026-08-03 06:41:22**
+
+## 2026-08-03
+
+* [Dr Raja de Silva: Archaeologist who dared to be different](data/articles/dr-raja-de-silva-archaeo.6263cf08/README.md) `ft.lk`
+* [Interests of justice in extending retirement age of judges: Conflict between public interest and self-interest](data/articles/interests-of-justice-in.5e03fa27/README.md) `ft.lk`
+* [Binod Chaudhary’s recipe for realising your dreams](data/articles/binod-chaudhary-s-recipe.b5317e62/README.md) `ft.lk`
+* [Chalinda Abeykoon: The art of building without permission](data/articles/chalinda-abeykoon-the-ar.dc9e0e2e/README.md) `ft.lk`
+* [Post-IMF Road Ahead](data/articles/post-imf-road-ahead.bd7cd367/README.md) `dailymirror.lk`
+* [Vision Beyond Sight: A Day of Fellowship at the School for  the Blind, Ratmalana](data/articles/vision-beyond-sight-a-da.97262561/README.md) `dailymirror.lk`
+* [PC Elections Phobia?  Only Cure, Face It](data/articles/pc-elections-phobia-only.4c03cd30/README.md) `dailymirror.lk`
+* [Prisons of neglect!](data/articles/prisons-of-neglect.8e824331/README.md) `dailymirror.lk`
+* [Another prison riot](data/articles/another-prison-riot.1aadf8fd/README.md) `dailymirror.lk`
 
 ## 2026-08-01
 
