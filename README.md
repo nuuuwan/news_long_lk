@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-03 19:02:50**
+Last Updated **2026-08-04 06:37:04**
+
+## 2026-08-04
+
+* [Beyond stabilisation: Sri Lanka’s path to inclusive growth](data/articles/beyond-stabilisation-sri.b7293b0a/README.md) `ft.lk`
+* [Construction costs continue  to rise as market conditions shift](data/articles/construction-costs-conti.448cca36/README.md) `ft.lk`
+* [Can Sri Lanka overcome past mistakes and craft a path of development?](data/articles/can-sri-lanka-overcome-p.46b1a7e6/README.md) `ft.lk`
 
 ## 2026-08-03
 
+* [Trump’s AI protectionism has come for robotics](data/articles/trump-s-ai-protectionism.dc0d90ec/README.md) `technologyreview.com`
 * [Less nodding and more prodding essential to making Boards more effective](data/articles/less-nodding-and-more-pr.9b09cb9b/README.md) `ft.lk`
 * [Dr Raja de Silva: Archaeologist who dared to be different](data/articles/dr-raja-de-silva-archaeo.6263cf08/README.md) `ft.lk`
 * [Interests of justice in extending retirement age of judges: Conflict between public interest and self-interest](data/articles/interests-of-justice-in.5e03fa27/README.md) `ft.lk`
