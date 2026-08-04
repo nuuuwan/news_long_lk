@@ -2,22 +2,29 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-04 06:37:04**
+Last Updated **2026-08-04 18:45:49**
 
 ## 2026-08-04
 
 * [Beyond stabilisation: Sri Lanka’s path to inclusive growth](data/articles/beyond-stabilisation-sri.b7293b0a/README.md) `ft.lk`
 * [Construction costs continue  to rise as market conditions shift](data/articles/construction-costs-conti.448cca36/README.md) `ft.lk`
+* [What Sri Lanka can learn from India’s youth uprising](data/articles/what-sri-lanka-can-learn.7f755a6f/README.md) `ft.lk`
 * [Can Sri Lanka overcome past mistakes and craft a path of development?](data/articles/can-sri-lanka-overcome-p.46b1a7e6/README.md) `ft.lk`
+* [Our intention is to increase the tenure of most of the Professions   -Chathuranga Abeysinghe, Deputy Minister of Industry and Entrepreneurship Development](data/articles/our-intention-is-to-incr.3a9430f3/README.md) `dailymirror.lk`
 
 ## 2026-08-03
 
+* [Overreacting to student anger during India’s ‘Cockroach’ Protests](data/articles/overreacting-to-student.3ec910c5/README.md) `dailymirror.lk`
+* [Controversy over extension of judges’ retirement age: Rage Over Age: the Need for Comprehensive Reform](data/articles/controversy-over-extensi.cc7ea1e7/README.md) `dailymirror.lk`
+* [Bottlenecks and  Inconsistencies in the Application of  Government Policies](data/articles/bottlenecks-and-inconsis.e1a3597d/README.md) `dailymirror.lk`
+* [Prison riots not isolated from systemic issues](data/articles/prison-riots-not-isolate.2a943c8e/README.md) `dailymirror.lk`
 * [Trump’s AI protectionism has come for robotics](data/articles/trump-s-ai-protectionism.dc0d90ec/README.md) `technologyreview.com`
 * [Less nodding and more prodding essential to making Boards more effective](data/articles/less-nodding-and-more-pr.9b09cb9b/README.md) `ft.lk`
 * [Dr Raja de Silva: Archaeologist who dared to be different](data/articles/dr-raja-de-silva-archaeo.6263cf08/README.md) `ft.lk`
 * [Interests of justice in extending retirement age of judges: Conflict between public interest and self-interest](data/articles/interests-of-justice-in.5e03fa27/README.md) `ft.lk`
 * [Binod Chaudhary’s recipe for realising your dreams](data/articles/binod-chaudhary-s-recipe.b5317e62/README.md) `ft.lk`
 * [Chalinda Abeykoon: The art of building without permission](data/articles/chalinda-abeykoon-the-ar.dc9e0e2e/README.md) `ft.lk`
+* [Here’s why AI agents lie and cheat to reach their goals](data/articles/here-s-why-ai-agents-lie.e4b3c3d5/README.md) `technologyreview.com`
 * [Post-IMF Road Ahead](data/articles/post-imf-road-ahead.bd7cd367/README.md) `dailymirror.lk`
 * [Vision Beyond Sight: A Day of Fellowship at the School for  the Blind, Ratmalana](data/articles/vision-beyond-sight-a-da.97262561/README.md) `dailymirror.lk`
 * [PC Elections Phobia?  Only Cure, Face It](data/articles/pc-elections-phobia-only.4c03cd30/README.md) `dailymirror.lk`
