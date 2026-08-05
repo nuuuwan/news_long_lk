@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-05 06:35:26**
+Last Updated **2026-08-05 18:39:53**
 
 ## 2026-08-05
 
@@ -71,6 +71,7 @@ Last Updated **2026-08-05 06:35:26**
 ## 2026-07-30
 
 * [Montana’s plan to become an experimental medical hub just pushed forward](data/articles/montana-s-plan-to-become.3c7c2d3e/README.md) `technologyreview.com`
+* [A fundamental flaw leaves LLMs strikingly vulnerable to attack](data/articles/a-fundamental-flaw-leave.d3ef4a34/README.md) `technologyreview.com`
 * [Historic moment of Opposition convergence: Strategy for consolidation](data/articles/historic-moment-of-oppos.789365cb/README.md) `ft.lk`
 * [Sri Lanka’s innovation gap is no longer about ideas; it is about execution](data/articles/sri-lanka-s-innovation-g.83632a66/README.md) `ft.lk`
 * [Sri Lanka’s direct–indirect tax imbalance:  Is revenue success coming at expense of tax equity?](data/articles/sri-lanka-s-direct-indir.66f46506/README.md) `ft.lk`
