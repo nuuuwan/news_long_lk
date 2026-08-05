@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-04 18:45:49**
+Last Updated **2026-08-05 06:35:26**
+
+## 2026-08-05
+
+* [Beyond GDP: What taxes tell us about a country](data/articles/beyond-gdp-what-taxes-te.b2c8f245/README.md) `ft.lk`
+* [Preventing any possibility of another July 1983](data/articles/preventing-any-possibili.9bdd8b77/README.md) `ft.lk`
+* [Not a Government - or an Opposition  - for ordinary people](data/articles/not-a-government-or-an-o.a087513f/README.md) `ft.lk`
+* [A National Security Imperative:  When intelligence exists, but communication fails](data/articles/a-national-security-impe.cfe92740/README.md) `dailymirror.lk`
+* [Decision to extend the retirement age of judges: A well-meaning policy implemented in Gotabaya style](data/articles/decision-to-extend-the-r.d203eb4a/README.md) `dailymirror.lk`
+* [When will South Asia wake up to climate reality?](data/articles/when-will-south-asia-wak.ff10d1a3/README.md) `dailymirror.lk`
+* [Has the Consumer Affairs Authority Gone into Hibernation?](data/articles/has-the-consumer-affairs.df696630/README.md) `dailymirror.lk`
 
 ## 2026-08-04
 
+* [Why the AI-Powered Enterprise Urgently Needs a New Leadership Mindset](data/articles/why-the-ai-powered-enter.09b17b37/README.md) `hbr.org`
 * [Beyond stabilisation: Sri Lanka’s path to inclusive growth](data/articles/beyond-stabilisation-sri.b7293b0a/README.md) `ft.lk`
 * [Construction costs continue  to rise as market conditions shift](data/articles/construction-costs-conti.448cca36/README.md) `ft.lk`
 * [What Sri Lanka can learn from India’s youth uprising](data/articles/what-sri-lanka-can-learn.7f755a6f/README.md) `ft.lk`
