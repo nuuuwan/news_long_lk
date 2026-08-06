@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-06 06:33:09**
+Last Updated **2026-08-06 18:40:41**
 
 ## 2026-08-06
 
+* [Mirror Missions: Can You Stop the Next Dengue Surge in Sri Lanka?](data/articles/mirror-missions-can-you.140d41f7/README.md) `dailymirror.lk`
 * [Fake left matrix: Five false doctrines misleading Sri Lanka](data/articles/fake-left-matrix-five-fa.cda18e0b/README.md) `ft.lk`
 * [Hidden luxury brand: Why Ceylon Gems must become a pillar of brand Sri Lanka](data/articles/hidden-luxury-brand-why.d076b860/README.md) `ft.lk`
 * [Closing loopholes: Why Sri Lanka must reform IRA to capture offshore indirect share transfers](data/articles/closing-loopholes-why-sr.999200fc/README.md) `ft.lk`
@@ -13,6 +14,10 @@ Last Updated **2026-08-06 06:33:09**
 
 ## 2026-08-05
 
+* [Sri Lankan by passport: Foreigner at uni gate: Betrayal behind Sri Lanka’s expatriate  higher  education crisis](data/articles/sri-lankan-by-passport-f.ae4fc632/README.md) `dailymirror.lk`
+* [Are Easter Sunday victims happy with the death sentences?](data/articles/are-easter-sunday-victim.37280241/README.md) `dailymirror.lk`
+* [Customer-friendly hotlines a must!](data/articles/customer-friendly-hotlin.6f2d199e/README.md) `dailymirror.lk`
+* [Animal Welfare Bill : A new ray of hope for voiceless beings](data/articles/animal-welfare-bill-a-ne.8d66ec6d/README.md) `dailymirror.lk`
 * [Beyond GDP: What taxes tell us about a country](data/articles/beyond-gdp-what-taxes-te.b2c8f245/README.md) `ft.lk`
 * [Preventing any possibility of another July 1983](data/articles/preventing-any-possibili.9bdd8b77/README.md) `ft.lk`
 * [Not a Government - or an Opposition  - for ordinary people](data/articles/not-a-government-or-an-o.a087513f/README.md) `ft.lk`
