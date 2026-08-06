@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-05 18:39:53**
+Last Updated **2026-08-06 06:33:09**
+
+## 2026-08-06
+
+* [Fake left matrix: Five false doctrines misleading Sri Lanka](data/articles/fake-left-matrix-five-fa.cda18e0b/README.md) `ft.lk`
+* [Hidden luxury brand: Why Ceylon Gems must become a pillar of brand Sri Lanka](data/articles/hidden-luxury-brand-why.d076b860/README.md) `ft.lk`
+* [Closing loopholes: Why Sri Lanka must reform IRA to capture offshore indirect share transfers](data/articles/closing-loopholes-why-sr.999200fc/README.md) `ft.lk`
+* [What if Sri Lanka’s next economic breakthrough comes from you?](data/articles/what-if-sri-lanka-s-next.48d4a98a/README.md) `ft.lk`
 
 ## 2026-08-05
 
