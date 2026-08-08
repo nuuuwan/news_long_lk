@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-07 18:27:48**
+Last Updated **2026-08-08 06:28:45**
+
+## 2026-08-08
+
+* [Is there method to madness at Magazine+?](data/articles/is-there-method-to-madne.7b201bc8/README.md) `ft.lk`
+* [India at 80: From Nehru’s ‘Tryst with Destiny’ to Viksit Bharat 2047—A view from Sri Lanka](data/articles/india-at-80-from-nehru-s.eb29c5f4/README.md) `ft.lk`
+* [The new NGO Bill: Regulating civil society or restricting democratic space?](data/articles/the-new-ngo-bill-regulat.80b5e1d5/README.md) `ft.lk`
+* [Robert Knox, revisited](data/articles/robert-knox-revisited.a374b24b/README.md) `ft.lk`
+* [China pledges more support as GDI marks fifth year](data/articles/china-pledges-more-suppo.2911de54/README.md) `ft.lk`
 
 ## 2026-08-07
 
@@ -25,6 +33,7 @@ Last Updated **2026-08-07 18:27:48**
 
 ## 2026-08-05
 
+* [More Sri Lankans Are Turning to AI for Answers, But Can Every Answer Be Trusted?](data/articles/more-sri-lankans-are-tur.59fb9f34/README.md) `dailymirror.lk`
 * [Sri Lankan by passport: Foreigner at uni gate: Betrayal behind Sri Lanka’s expatriate  higher  education crisis](data/articles/sri-lankan-by-passport-f.ae4fc632/README.md) `dailymirror.lk`
 * [Are Easter Sunday victims happy with the death sentences?](data/articles/are-easter-sunday-victim.37280241/README.md) `dailymirror.lk`
 * [Customer-friendly hotlines a must!](data/articles/customer-friendly-hotlin.6f2d199e/README.md) `dailymirror.lk`
@@ -32,6 +41,7 @@ Last Updated **2026-08-07 18:27:48**
 * [Beyond GDP: What taxes tell us about a country](data/articles/beyond-gdp-what-taxes-te.b2c8f245/README.md) `ft.lk`
 * [Preventing any possibility of another July 1983](data/articles/preventing-any-possibili.9bdd8b77/README.md) `ft.lk`
 * [Not a Government - or an Opposition  - for ordinary people](data/articles/not-a-government-or-an-o.a087513f/README.md) `ft.lk`
+* [NASA’s new dark-energy space telescope can also detect killer asteroids](data/articles/nasa-s-new-dark-energy-s.ec86245c/README.md) `technologyreview.com`
 * [A National Security Imperative:  When intelligence exists, but communication fails](data/articles/a-national-security-impe.cfe92740/README.md) `dailymirror.lk`
 * [Decision to extend the retirement age of judges: A well-meaning policy implemented in Gotabaya style](data/articles/decision-to-extend-the-r.d203eb4a/README.md) `dailymirror.lk`
 * [When will South Asia wake up to climate reality?](data/articles/when-will-south-asia-wak.ff10d1a3/README.md) `dailymirror.lk`

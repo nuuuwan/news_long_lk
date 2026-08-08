@@ -1,5 +1,40 @@
 [
   {
+    "title": "Is there method to madness at Magazine+?",
+    "url": "https://www.ft.lk/columns/Is-there-method-to-madness-at-Magazine/4-795740",
+    "ut": 1786132222.0,
+    "dir_path_unix": "data/articles/is-there-method-to-madne.7b201bc8",
+    "time_str_formatted": "01:20 AM, Saturday, August 08, 2026"
+  },
+  {
+    "title": "India at 80: From Nehru\u2019s \u2018Tryst with Destiny\u2019 to Viksit Bharat 2047\u2014A view from Sri Lanka",
+    "url": "https://www.ft.lk/columns/India-at-80-From-Nehru-s-Tryst-with-Destiny-to-Viksit-Bharat-2047A-view-from-Sri-Lanka/4-795736",
+    "ut": 1786130513.0,
+    "dir_path_unix": "data/articles/india-at-80-from-nehru-s.eb29c5f4",
+    "time_str_formatted": "12:51 AM, Saturday, August 08, 2026"
+  },
+  {
+    "title": "The new NGO Bill: Regulating civil society or restricting democratic space?",
+    "url": "https://www.ft.lk/columns/The-new-NGO-Bill-Regulating-civil-society-or-restricting-democratic-space/4-795735",
+    "ut": 1786129853.0,
+    "dir_path_unix": "data/articles/the-new-ngo-bill-regulat.80b5e1d5",
+    "time_str_formatted": "12:40 AM, Saturday, August 08, 2026"
+  },
+  {
+    "title": "Robert Knox, revisited",
+    "url": "https://www.ft.lk/columns/Robert-Knox-revisited/4-795734",
+    "ut": 1786129328.0,
+    "dir_path_unix": "data/articles/robert-knox-revisited.a374b24b",
+    "time_str_formatted": "12:32 AM, Saturday, August 08, 2026"
+  },
+  {
+    "title": "China pledges more support as GDI marks fifth year",
+    "url": "https://www.ft.lk/opinion/China-pledges-more-support-as-GDI-marks-fifth-year/14-795733",
+    "ut": 1786128869.0,
+    "dir_path_unix": "data/articles/china-pledges-more-suppo.2911de54",
+    "time_str_formatted": "12:24 AM, Saturday, August 08, 2026"
+  },
+  {
     "title": "AKD\u2019s Budget optimism against relentless pessimism",
     "url": "https://www.ft.lk/columns/AKD-s-Budget-optimism-against-relentless-pessimism/4-795714",
     "ut": 1786062852.0,
@@ -91,6 +126,13 @@
     "time_str_formatted": "05:11 AM, Thursday, August 06, 2026"
   },
   {
+    "title": "More Sri Lankans Are Turning to AI for Answers, But Can Every Answer Be Trusted?",
+    "url": "https://www.dailymirror.lk/opinion/More-Sri-Lankans-Are-Turning-to-AI-for-Answers-But-Can-Every-Answer-Be-Trusted/231-347522",
+    "ut": 1785954016.0,
+    "dir_path_unix": "data/articles/more-sri-lankans-are-tur.59fb9f34",
+    "time_str_formatted": "11:50 PM, Wednesday, August 05, 2026"
+  },
+  {
     "title": "Sri Lankan by passport: Foreigner at uni gate: Betrayal behind Sri Lanka\u2019s expatriate  higher  education crisis",
     "url": "https://www.dailymirror.lk/opinion/Sri-Lankan-by-passport-Foreigner-at-uni-gate-Betrayal-behind-Sri-Lankas-expatriate-higher-education-crisis/172-347521",
     "ut": 1785953789.0,
@@ -138,6 +180,13 @@
     "ut": 1785885149.0,
     "dir_path_unix": "data/articles/not-a-government-or-an-o.a087513f",
     "time_str_formatted": "04:42 AM, Wednesday, August 05, 2026"
+  },
+  {
+    "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+    "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "ut": 1785883000.0,
+    "dir_path_unix": "data/articles/nasa-s-new-dark-energy-s.ec86245c",
+    "time_str_formatted": "04:06 AM, Wednesday, August 05, 2026"
   },
   {
     "title": "A National Security Imperative:  When intelligence exists, but communication fails",
