@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-08 18:24:05**
+Last Updated **2026-08-09 06:25:45**
 
 ## 2026-08-08
 
@@ -33,6 +33,7 @@ Last Updated **2026-08-08 18:24:05**
 
 ## 2026-08-05
 
+* [81% of Sri Lankans Now Use AI Instead of Google — Is That Safe?](data/articles/81-of-sri-lankans-now-us.d8763cc2/README.md) `dailymirror.lk`
 * [More Sri Lankans Are Turning to AI for Answers, But Can Every Answer Be Trusted?](data/articles/more-sri-lankans-are-tur.59fb9f34/README.md) `dailymirror.lk`
 * [Sri Lankan by passport: Foreigner at uni gate: Betrayal behind Sri Lanka’s expatriate  higher  education crisis](data/articles/sri-lankan-by-passport-f.ae4fc632/README.md) `dailymirror.lk`
 * [Are Easter Sunday victims happy with the death sentences?](data/articles/are-easter-sunday-victim.37280241/README.md) `dailymirror.lk`
