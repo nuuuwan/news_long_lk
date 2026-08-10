@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-09 18:24:33**
+Last Updated **2026-08-10 06:26:44**
+
+## 2026-08-10
+
+* [Getting the new Quarterly Tax Instalment formula right](data/articles/getting-the-new-quarterl.aee3b33d/README.md) `ft.lk`
 
 ## 2026-08-08
 
