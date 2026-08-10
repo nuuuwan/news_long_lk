@@ -2,11 +2,25 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-10 06:26:44**
+Last Updated **2026-08-10 18:28:30**
 
 ## 2026-08-10
 
+* [Memories of mentoring: Celebrating two special lives](data/articles/memories-of-mentoring-ce.460531c3/README.md) `ft.lk`
+* [AI’s next big promise: Tackle inequity issues before using it](data/articles/ai-s-next-big-promise-ta.fc8b45c7/README.md) `ft.lk`
+* [Proposed 22nd Amendment: Potential implications and personal reflections](data/articles/proposed-22nd-amendment.41c999a9/README.md) `ft.lk`
+* [Clock ticking on GSP+: Why Sri Lanka must act now](data/articles/clock-ticking-on-gsp-why.6a286b80/README.md) `ft.lk`
+* [Safeguarding Sri Lanka’s trade integrity](data/articles/safeguarding-sri-lanka-s.d304383e/README.md) `ft.lk`
 * [Getting the new Quarterly Tax Instalment formula right](data/articles/getting-the-new-quarterl.aee3b33d/README.md) `ft.lk`
+* [These startups are chasing the next big thing in LLMs](data/articles/these-startups-are-chasi.6859719f/README.md) `technologyreview.com`
+
+## 2026-08-09
+
+* [Sri Lanka’s elephant problem  is really a  fence-placement issue](data/articles/sri-lanka-s-elephant-pro.51d4ddda/README.md) `dailymirror.lk`
+* [Ranil’s 2023 Law Exposed Political Wealth](data/articles/ranil-s-2023-law-exposed.2ea66e8c/README.md) `dailymirror.lk`
+* [Import tariffs inconveniencing customers](data/articles/import-tariffs-inconveni.4cf1cc25/README.md) `dailymirror.lk`
+* [Promoting Online Transactions](data/articles/promoting-online-transac.a8ea5314/README.md) `dailymirror.lk`
+* [Stop letting the rain go to waste](data/articles/stop-letting-the-rain-go.bb5711f0/README.md) `dailymirror.lk`
 
 ## 2026-08-08
 
