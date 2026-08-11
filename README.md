@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-10 18:28:30**
+Last Updated **2026-08-11 06:27:45**
 
 ## 2026-08-10
 
+* [‘Ukraine and Iran wars call for a new military training and operational module’-Australian Expert](data/articles/ukraine-and-iran-wars-c.4f5dd2cf/README.md) `dailymirror.lk`
+* [Beyond the Bench and the Ward:  The Medical Aspects of Retiring at 67](data/articles/beyond-the-bench-and-the.cdde7f37/README.md) `dailymirror.lk`
+* [Overcrowded prisons: Prisoners’ living  conditions need urgent attention](data/articles/overcrowded-prisons-pris.aae4a12f/README.md) `dailymirror.lk`
+* [How significant are the provincial councils today?](data/articles/how-significant-are-the.35c85df8/README.md) `dailymirror.lk`
+* [AI professors are negotiating the new realities of academic research](data/articles/ai-professors-are-negoti.1281650c/README.md) `technologyreview.com`
+* [When Every Company Has AI, What Creates Advantage?](data/articles/when-every-company-has-a.43870a63/README.md) `hbr.org`
 * [Memories of mentoring: Celebrating two special lives](data/articles/memories-of-mentoring-ce.460531c3/README.md) `ft.lk`
 * [AI’s next big promise: Tackle inequity issues before using it](data/articles/ai-s-next-big-promise-ta.fc8b45c7/README.md) `ft.lk`
 * [Proposed 22nd Amendment: Potential implications and personal reflections](data/articles/proposed-22nd-amendment.41c999a9/README.md) `ft.lk`
