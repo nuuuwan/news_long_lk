@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-12 06:30:03**
+Last Updated **2026-08-12 18:25:29**
 
 ## 2026-08-12
 
 * [Japan- Sri Lanka Economic Corridor: Let’s not miss this opportunity too](data/articles/japan-sri-lanka-economic.ce44fcb9/README.md) `ft.lk`
+* [How we picked 35 of the world’s top young scientists and engineers](data/articles/how-we-picked-35-of-the.2c99e5ba/README.md) `technologyreview.com`
 * [Rethinking retirement age: A win-win solution for Sri Lanka’s ageing workforce](data/articles/rethinking-retirement-ag.5dea587a/README.md) `ft.lk`
 * [Independence of judiciary and retirement age](data/articles/independence-of-judiciar.85968bce/README.md) `ft.lk`
 * [International Youth Day 2026 - Turning shared aspirations into AI-powered future](data/articles/international-youth-day.366c24b3/README.md) `ft.lk`
@@ -50,6 +51,7 @@ Last Updated **2026-08-12 06:30:03**
 
 ## 2026-08-07
 
+* [How ideas of a vast censorship network moved from the online fringe to Trump policy](data/articles/how-ideas-of-a-vast-cens.ad57289b/README.md) `technologyreview.com`
 * [AKD’s Budget optimism against relentless pessimism](data/articles/akd-s-budget-optimism-ag.2ba6e636/README.md) `ft.lk`
 * [Adaptive policy frameworks: Building resilient governance for an uncertain future](data/articles/adaptive-policy-framewor.9a35b678/README.md) `ft.lk`
 * [Delay is not denial](data/articles/delay-is-not-denial.2e194463/README.md) `ft.lk`
