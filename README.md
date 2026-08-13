@@ -2,11 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-13 06:28:37**
+Last Updated **2026-08-13 18:32:57**
 
 ## 2026-08-13
 
+* [Wish children always remain children](data/articles/wish-children-always-rem.ad2bee3b/README.md) `ft.lk`
 * [Who is protecting the child?](data/articles/who-is-protecting-the-ch.5471a258/README.md) `ft.lk`
+* [What’s behind this summer’s heat, and why 2027 could be worse](data/articles/what-s-behind-this-summe.f3f772b8/README.md) `technologyreview.com`
 * [“NPP which came with many promises is dragging country towards a dictatorship”  MP Ranjith Madduma Bandara](data/articles/npp-which-came-with-man.aa4ca479/README.md) `dailymirror.lk`
 * [The iconic MiG-21:  Interceptor which gave third world air forces a fighting chance](data/articles/the-iconic-mig-21-interc.25124e3e/README.md) `dailymirror.lk`
 * [Can the NPP implement  the death  penalty  again?](data/articles/can-the-npp-implement-th.761585e5/README.md) `dailymirror.lk`
