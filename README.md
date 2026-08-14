@@ -2,10 +2,24 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-13 18:32:57**
+Last Updated **2026-08-14 06:27:24**
+
+## 2026-08-14
+
+* [Urgent need to fill diplomatic vacancies in key capitals](data/articles/urgent-need-to-fill-dipl.3667375a/README.md) `ft.lk`
+* [Entrepreneurs who left lasting footprints on Sri Lanka](data/articles/entrepreneurs-who-left-l.479dbbf4/README.md) `ft.lk`
+* [When mosquitoes bite in Sri Lanka - A post-traumatic mosquito disorder](data/articles/when-mosquitoes-bite-in.a7bd2838/README.md) `ft.lk`
+* [Lessons from global experience for Sri Lanka’s inflation target](data/articles/lessons-from-global-expe.4b92a14f/README.md) `ft.lk`
 
 ## 2026-08-13
 
+* [A Pyrrhic Triumph on the Bench](data/articles/a-pyrrhic-triumph-on-the.6736aea7/README.md) `dailymirror.lk`
+* [The holy and not‑so‑holy sides of the Mecca pact](data/articles/the-holy-and-not-so-holy.0b5b69fb/README.md) `dailymirror.lk`
+* [It’s time to fix the street lights](data/articles/it-s-time-to-fix-the-str.5541af01/README.md) `dailymirror.lk`
+* [Re-evaluating Abortion Laws in Sri Lanka:  A Call for Change Towards Women’s Health and Rights](data/articles/re-evaluating-abortion-l.b6915e0a/README.md) `dailymirror.lk`
+* [Remembering Gunapala Malalasekera:  Great Intellectual who brought Sinhala and English together](data/articles/remembering-gunapala-mal.d356bc8f/README.md) `dailymirror.lk`
+* [Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy](data/articles/roundtables-inside-the-c.a5a20f62/README.md) `technologyreview.com`
+* [Fidel Castro centenary: Last Homeric hero](data/articles/fidel-castro-centenary-l.793eb272/README.md) `ft.lk`
 * [Wish children always remain children](data/articles/wish-children-always-rem.ad2bee3b/README.md) `ft.lk`
 * [Who is protecting the child?](data/articles/who-is-protecting-the-ch.5471a258/README.md) `ft.lk`
 * [What’s behind this summer’s heat, and why 2027 could be worse](data/articles/what-s-behind-this-summe.f3f772b8/README.md) `technologyreview.com`
