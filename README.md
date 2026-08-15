@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-14 18:28:05**
+Last Updated **2026-08-15 06:27:05**
+
+## 2026-08-15
+
+* [A solution to the drug-fuelled prison system How the rehabilitation of 12,000 LTTE cadres can show the way](data/articles/a-solution-to-the-drug-f.3e43587d/README.md) `dailymirror.lk`
+* [Decriminalising LGBTIQ, death penalty etc. as means to secure GSP+](data/articles/decriminalising-lgbtiq-d.9eace96b/README.md) `dailymirror.lk`
+* [NPP at a Constitutional Crossroads: Pragmatism, Provincial Democracy and the Price of Public Trust](data/articles/npp-at-a-constitutional.5c0a77c6/README.md) `dailymirror.lk`
 
 ## 2026-08-14
 
+* [Land mines story, a grave  affair and as plain as pikestaff](data/articles/land-mines-story-a-grave.1d46f4fc/README.md) `ft.lk`
+* [Sri Lanka: A judicial system in disarray due to years of neglect](data/articles/sri-lanka-a-judicial-sys.069c4693/README.md) `ft.lk`
+* [Sri Lanka’s realpolitik: Why India must come first](data/articles/sri-lanka-s-realpolitik.e801bf59/README.md) `ft.lk`
+* [Justice, shadow and substance](data/articles/justice-shadow-and-subst.59c78c84/README.md) `ft.lk`
+* [President defends judicial reforms as systemic change, rejects  claims of political influence](data/articles/president-defends-judici.8e6764bc/README.md) `ft.lk`
 * [Cloning could be used to save species—or make human “organ sacks”](data/articles/cloning-could-be-used-to.1cc51220/README.md) `technologyreview.com`
 * [Urgent need to fill diplomatic vacancies in key capitals](data/articles/urgent-need-to-fill-dipl.3667375a/README.md) `ft.lk`
 * [Entrepreneurs who left lasting footprints on Sri Lanka](data/articles/entrepreneurs-who-left-l.479dbbf4/README.md) `ft.lk`
