@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-15 06:27:05**
+Last Updated **2026-08-15 18:22:34**
 
 ## 2026-08-15
 
+* [CHARTING THE NEXT WATCH](data/articles/charting-the-next-watch.996d27c4/README.md) `dailymirror.lk`
 * [A solution to the drug-fuelled prison system How the rehabilitation of 12,000 LTTE cadres can show the way](data/articles/a-solution-to-the-drug-f.3e43587d/README.md) `dailymirror.lk`
 * [Decriminalising LGBTIQ, death penalty etc. as means to secure GSP+](data/articles/decriminalising-lgbtiq-d.9eace96b/README.md) `dailymirror.lk`
 * [NPP at a Constitutional Crossroads: Pragmatism, Provincial Democracy and the Price of Public Trust](data/articles/npp-at-a-constitutional.5c0a77c6/README.md) `dailymirror.lk`
