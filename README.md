@@ -2,7 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-16 18:22:33**
+Last Updated **2026-08-17 06:29:12**
+
+## 2026-08-17
+
+* [Consequences of instalment defaults under Sri Lanka’s IRA 2017](data/articles/consequences-of-instalme.4ec5e5e7/README.md) `ft.lk`
+* [A deep dive into market manipulation: Part 1](data/articles/a-deep-dive-into-market.1a0219a4/README.md) `ft.lk`
+* [Real relief, not a headline rate cut: Fixing the personal income tax regime](data/articles/real-relief-not-a-headli.43299b5f/README.md) `ft.lk`
+* [Another unsung hero: Darshana Narampanawa’s initiative that took central banking to ordinary people](data/articles/another-unsung-hero-dars.a2f1353d/README.md) `ft.lk`
+* [Kethesh Loganathan and the Lost Generation](data/articles/kethesh-loganathan-and-t.3e31bd5a/README.md) `dailymirror.lk`
+* [Why is Sri Lanka importing its fish?](data/articles/why-is-sri-lanka-importi.12b99a50/README.md) `dailymirror.lk`
+* [Leave the iconic tusker Kavantissa alone!](data/articles/leave-the-iconic-tusker.d6b23237/README.md) `dailymirror.lk`
 
 ## 2026-08-15
 
