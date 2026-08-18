@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-18 06:25:53**
+Last Updated **2026-08-18 18:23:25**
+
+## 2026-08-18
+
+* [“Cyclone Ditwah exposed critical structural gaps in  Sri Lanka’s early warning  architecture” - Prof. Amaratunga -](data/articles/cyclone-ditwah-exposed.d405c1f5/README.md) `dailymirror.lk`
+* [Two Borrowers, Two Different Stories](data/articles/two-borrowers-two-differ.2cae07e6/README.md) `dailymirror.lk`
+* [‘Between the Lamp and the Pot:’ A referendum remembered, and a warning for today](data/articles/between-the-lamp-and-th.d1a12457/README.md) `dailymirror.lk`
+* [The NPP and economic democracy](data/articles/the-npp-and-economic-dem.21393fbb/README.md) `dailymirror.lk`
+* [We still don’t know how people are really using AI](data/articles/we-still-don-t-know-how.77666583/README.md) `technologyreview.com`
 
 ## 2026-08-17
 
@@ -10,6 +18,7 @@ Last Updated **2026-08-18 06:25:53**
 * [What Flock’s defenders are missing](data/articles/what-flock-s-defenders-a.dc51f568/README.md) `technologyreview.com`
 * [Does the Public Have Any Say in Sri Lanka's Budget? The Score Is 9 Out of 100](data/articles/does-the-public-have-any.6ae35768/README.md) `dailymirror.lk`
 * [How much hydrogen awaits us underground?](data/articles/how-much-hydrogen-awaits.b1e5b7bc/README.md) `technologyreview.com`
+* [What happens when a kid’s robot best friend dies?](data/articles/what-happens-when-a-kid.0c3e7b3f/README.md) `technologyreview.com`
 * [Consequences of instalment defaults under Sri Lanka’s IRA 2017](data/articles/consequences-of-instalme.4ec5e5e7/README.md) `ft.lk`
 * [A deep dive into market manipulation: Part 1](data/articles/a-deep-dive-into-market.1a0219a4/README.md) `ft.lk`
 * [Real relief, not a headline rate cut: Fixing the personal income tax regime](data/articles/real-relief-not-a-headli.43299b5f/README.md) `ft.lk`
@@ -35,6 +44,7 @@ Last Updated **2026-08-18 06:25:53**
 * [President defends judicial reforms as systemic change, rejects  claims of political influence](data/articles/president-defends-judici.8e6764bc/README.md) `ft.lk`
 * [Job titles of the future: Space travel agent](data/articles/job-titles-of-the-future.19bcbe11/README.md) `technologyreview.com`
 * [Cloning could be used to save species—or make human “organ sacks”](data/articles/cloning-could-be-used-to.1cc51220/README.md) `technologyreview.com`
+* [This scientist is helping build a missing map of childhood](data/articles/this-scientist-is-helpin.809a6cee/README.md) `technologyreview.com`
 * [Urgent need to fill diplomatic vacancies in key capitals](data/articles/urgent-need-to-fill-dipl.3667375a/README.md) `ft.lk`
 * [Entrepreneurs who left lasting footprints on Sri Lanka](data/articles/entrepreneurs-who-left-l.479dbbf4/README.md) `ft.lk`
 * [When mosquitoes bite in Sri Lanka - A post-traumatic mosquito disorder](data/articles/when-mosquitoes-bite-in.a7bd2838/README.md) `ft.lk`
