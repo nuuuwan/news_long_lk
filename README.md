@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-17 18:28:22**
+Last Updated **2026-08-18 06:25:53**
 
 ## 2026-08-17
 
 * [Colombo port under threat? Galathea is the warning shot](data/articles/colombo-port-under-threa.3cbfe5e5/README.md) `dailymirror.lk`
+* [What Flock’s defenders are missing](data/articles/what-flock-s-defenders-a.dc51f568/README.md) `technologyreview.com`
 * [Does the Public Have Any Say in Sri Lanka's Budget? The Score Is 9 Out of 100](data/articles/does-the-public-have-any.6ae35768/README.md) `dailymirror.lk`
 * [How much hydrogen awaits us underground?](data/articles/how-much-hydrogen-awaits.b1e5b7bc/README.md) `technologyreview.com`
 * [Consequences of instalment defaults under Sri Lanka’s IRA 2017](data/articles/consequences-of-instalme.4ec5e5e7/README.md) `ft.lk`
@@ -32,6 +33,7 @@ Last Updated **2026-08-17 18:28:22**
 * [Sri Lanka’s realpolitik: Why India must come first](data/articles/sri-lanka-s-realpolitik.e801bf59/README.md) `ft.lk`
 * [Justice, shadow and substance](data/articles/justice-shadow-and-subst.59c78c84/README.md) `ft.lk`
 * [President defends judicial reforms as systemic change, rejects  claims of political influence](data/articles/president-defends-judici.8e6764bc/README.md) `ft.lk`
+* [Job titles of the future: Space travel agent](data/articles/job-titles-of-the-future.19bcbe11/README.md) `technologyreview.com`
 * [Cloning could be used to save species—or make human “organ sacks”](data/articles/cloning-could-be-used-to.1cc51220/README.md) `technologyreview.com`
 * [Urgent need to fill diplomatic vacancies in key capitals](data/articles/urgent-need-to-fill-dipl.3667375a/README.md) `ft.lk`
 * [Entrepreneurs who left lasting footprints on Sri Lanka](data/articles/entrepreneurs-who-left-l.479dbbf4/README.md) `ft.lk`
