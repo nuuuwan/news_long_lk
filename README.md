@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-19 06:25:15**
+Last Updated **2026-08-19 18:23:52**
+
+## 2026-08-19
+
+* [Why Sri Lanka should decriminalise homosexuality — irrespective of GSP+](data/articles/why-sri-lanka-should-dec.eba76a7f/README.md) `dailymirror.lk`
+* [Govt. finally breaking the drug mafia](data/articles/govt-finally-breaking-th.0b142d5e/README.md) `dailymirror.lk`
+* [Lethargic institutions vs. Right to Information letters](data/articles/lethargic-institutions-v.517a0b2a/README.md) `dailymirror.lk`
 
 ## 2026-08-18
 
