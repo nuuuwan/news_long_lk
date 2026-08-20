@@ -2,13 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-19 18:23:52**
+Last Updated **2026-08-20 06:27:00**
 
 ## 2026-08-19
 
 * [Why Sri Lanka should decriminalise homosexuality — irrespective of GSP+](data/articles/why-sri-lanka-should-dec.eba76a7f/README.md) `dailymirror.lk`
 * [Govt. finally breaking the drug mafia](data/articles/govt-finally-breaking-th.0b142d5e/README.md) `dailymirror.lk`
 * [Lethargic institutions vs. Right to Information letters](data/articles/lethargic-institutions-v.517a0b2a/README.md) `dailymirror.lk`
+* [Rails are built: So why are we still queuing?](data/articles/rails-are-built-so-why-a.14dc2fb0/README.md) `ft.lk`
+* [Who really pays for digital banking?](data/articles/who-really-pays-for-digi.ee393cfb/README.md) `ft.lk`
+* [Beyond tax collection: Can Sri Lanka use tax policy to build a solar-powered economy?](data/articles/beyond-tax-collection-ca.e3ced80b/README.md) `ft.lk`
 
 ## 2026-08-18
 
