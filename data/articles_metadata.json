@@ -1,5 +1,68 @@
 [
   {
+    "title": "\u201dAKD lost his revolutionary conscience long ago\u201c Kumar Gunaratnam",
+    "url": "https://www.dailymirror.lk/hard-talk/AKD-lost-his-revolutionary-conscience-long-ago-Kumar-Gunaratnam/334-348502",
+    "ut": 1787207511.0,
+    "dir_path_unix": "data/articles/akd-lost-his-revolution.121561de",
+    "time_str_formatted": "12:01 PM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "22A in place of the new Constitution promised",
+    "url": "https://www.dailymirror.lk/opinion/22A-in-place-of-the-new-Constitution-promised/172-348496",
+    "ut": 1787206760.0,
+    "dir_path_unix": "data/articles/22a-in-place-of-the-new.c70d0703",
+    "time_str_formatted": "11:49 AM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "Judicial Retirement Age: Let the Judges\u2019 Wishes Guide the Way",
+    "url": "https://www.dailymirror.lk/opinion/Judicial-Retirement-Age-Let-the-Judges-Wishes-Guide-the-Way/172-348495",
+    "ut": 1787206639.0,
+    "dir_path_unix": "data/articles/judicial-retirement-age.17567875",
+    "time_str_formatted": "11:47 AM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "Is human thinking at the brink of extinction?",
+    "url": "https://www.dailymirror.lk/opinion/Is-human-thinking-at-the-brink-of-extinction/172-348494",
+    "ut": 1787206542.0,
+    "dir_path_unix": "data/articles/is-human-thinking-at-the.df2b69ce",
+    "time_str_formatted": "11:45 AM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "AKD\u2019s risk-taking: Losing legitimacy, de-stabilising democracy",
+    "url": "https://www.ft.lk/columns/AKD-s-risk-taking-Losing-legitimacy-de-stabilising-democracy/4-796254",
+    "ut": 1787190795.0,
+    "dir_path_unix": "data/articles/akd-s-risk-taking-losing.5d0097bf",
+    "time_str_formatted": "07:23 AM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "Abaya and Muslim identity politics",
+    "url": "https://www.ft.lk/columns/Abaya-and-Muslim-identity-politics/4-796253",
+    "ut": 1787189995.0,
+    "dir_path_unix": "data/articles/abaya-and-muslim-identit.613bcacb",
+    "time_str_formatted": "07:09 AM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "One rate, and the SMEs who absorbed the difference",
+    "url": "https://www.ft.lk/columns/One-rate-and-the-SMEs-who-absorbed-the-difference/4-796250",
+    "ut": 1787189576.0,
+    "dir_path_unix": "data/articles/one-rate-and-the-smes-wh.d5fc4d41",
+    "time_str_formatted": "07:02 AM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "Sri Lanka\u2019s $ 5 b IT Industry Strategic Roadmap and the English Language blindspot",
+    "url": "https://www.ft.lk/columns/Sri-Lanka-s-5-b-IT-Industry-Strategic-Roadmap-and-the-English-Language-blindspot/4-796249",
+    "ut": 1787189207.0,
+    "dir_path_unix": "data/articles/sri-lanka-s-5-b-it-indus.fde2dc9d",
+    "time_str_formatted": "06:56 AM, Thursday, August 20, 2026"
+  },
+  {
+    "title": "The next big thing in hydrogen could be underground",
+    "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "ut": 1787185800.0,
+    "dir_path_unix": "data/articles/the-next-big-thing-in-hy.20d0e9fe",
+    "time_str_formatted": "06:00 AM, Thursday, August 20, 2026"
+  },
+  {
     "title": "Why Sri Lanka should decriminalise homosexuality \u2014 irrespective of GSP+",
     "url": "https://www.dailymirror.lk/opinion/Why-Sri-Lanka-should-decriminalise-homosexuality-irrespective-of-GSP/172-348436",
     "ut": 1787125433.0,
@@ -19,6 +82,13 @@
     "ut": 1787124266.0,
     "dir_path_unix": "data/articles/lethargic-institutions-v.517a0b2a",
     "time_str_formatted": "12:54 PM, Wednesday, August 19, 2026"
+  },
+  {
+    "title": "Are we making loan sharks bigger and richer at expense of poor?",
+    "url": "https://www.ft.lk/columns/Are-we-making-loan-sharks-bigger-and-richer-at-expense-of-poor/4-796217",
+    "ut": 1787095226.0,
+    "dir_path_unix": "data/articles/are-we-making-loan-shark.a586e56b",
+    "time_str_formatted": "04:50 AM, Wednesday, August 19, 2026"
   },
   {
     "title": "Rails are built: So why are we still queuing?",
@@ -75,6 +145,13 @@
     "ut": 1787013403.0,
     "dir_path_unix": "data/articles/we-still-don-t-know-how.77666583",
     "time_str_formatted": "06:06 AM, Tuesday, August 18, 2026"
+  },
+  {
+    "title": "AI\u2019s recursive self-improvement might not come so quickly after all",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "ut": 1787009400.0,
+    "dir_path_unix": "data/articles/ai-s-recursive-self-impr.89f9a699",
+    "time_str_formatted": "05:00 AM, Tuesday, August 18, 2026"
   },
   {
     "title": "Colombo port under threat? Galathea is the warning shot",

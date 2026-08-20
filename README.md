@@ -2,13 +2,26 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-20 06:27:00**
+Last Updated **2026-08-20 18:26:00**
+
+## 2026-08-20
+
+* [”AKD lost his revolutionary conscience long ago“ Kumar Gunaratnam](data/articles/akd-lost-his-revolution.121561de/README.md) `dailymirror.lk`
+* [22A in place of the new Constitution promised](data/articles/22a-in-place-of-the-new.c70d0703/README.md) `dailymirror.lk`
+* [Judicial Retirement Age: Let the Judges’ Wishes Guide the Way](data/articles/judicial-retirement-age.17567875/README.md) `dailymirror.lk`
+* [Is human thinking at the brink of extinction?](data/articles/is-human-thinking-at-the.df2b69ce/README.md) `dailymirror.lk`
+* [AKD’s risk-taking: Losing legitimacy, de-stabilising democracy](data/articles/akd-s-risk-taking-losing.5d0097bf/README.md) `ft.lk`
+* [Abaya and Muslim identity politics](data/articles/abaya-and-muslim-identit.613bcacb/README.md) `ft.lk`
+* [One rate, and the SMEs who absorbed the difference](data/articles/one-rate-and-the-smes-wh.d5fc4d41/README.md) `ft.lk`
+* [Sri Lanka’s $ 5 b IT Industry Strategic Roadmap and the English Language blindspot](data/articles/sri-lanka-s-5-b-it-indus.fde2dc9d/README.md) `ft.lk`
+* [The next big thing in hydrogen could be underground](data/articles/the-next-big-thing-in-hy.20d0e9fe/README.md) `technologyreview.com`
 
 ## 2026-08-19
 
 * [Why Sri Lanka should decriminalise homosexuality — irrespective of GSP+](data/articles/why-sri-lanka-should-dec.eba76a7f/README.md) `dailymirror.lk`
 * [Govt. finally breaking the drug mafia](data/articles/govt-finally-breaking-th.0b142d5e/README.md) `dailymirror.lk`
 * [Lethargic institutions vs. Right to Information letters](data/articles/lethargic-institutions-v.517a0b2a/README.md) `dailymirror.lk`
+* [Are we making loan sharks bigger and richer at expense of poor?](data/articles/are-we-making-loan-shark.a586e56b/README.md) `ft.lk`
 * [Rails are built: So why are we still queuing?](data/articles/rails-are-built-so-why-a.14dc2fb0/README.md) `ft.lk`
 * [Who really pays for digital banking?](data/articles/who-really-pays-for-digi.ee393cfb/README.md) `ft.lk`
 * [Beyond tax collection: Can Sri Lanka use tax policy to build a solar-powered economy?](data/articles/beyond-tax-collection-ca.e3ced80b/README.md) `ft.lk`
@@ -20,6 +33,7 @@ Last Updated **2026-08-20 06:27:00**
 * [‘Between the Lamp and the Pot:’ A referendum remembered, and a warning for today](data/articles/between-the-lamp-and-th.d1a12457/README.md) `dailymirror.lk`
 * [The NPP and economic democracy](data/articles/the-npp-and-economic-dem.21393fbb/README.md) `dailymirror.lk`
 * [We still don’t know how people are really using AI](data/articles/we-still-don-t-know-how.77666583/README.md) `technologyreview.com`
+* [AI’s recursive self-improvement might not come so quickly after all](data/articles/ai-s-recursive-self-impr.89f9a699/README.md) `technologyreview.com`
 
 ## 2026-08-17
 
