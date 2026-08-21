@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-21 06:26:43**
+Last Updated **2026-08-21 18:27:09**
+
+## 2026-08-21
+
+* [Uniformity without discrimination: Revisiting the health workers’ dress code](data/articles/uniformity-without-discr.1ab6ff42/README.md) `ft.lk`
+* [Sri Lanka’s reform Government is testing judicial independence](data/articles/sri-lanka-s-reform-gover.2ebc851d/README.md) `ft.lk`
+* [Stability was the first step; Sri Lanka now needs development](data/articles/stability-was-the-first.c6e534f1/README.md) `ft.lk`
+* [Institutional insights for Sri Lanka from Dubai International Financial Centre](data/articles/institutional-insights-f.1fce2b28/README.md) `ft.lk`
+* [Sri Lanka’s platform for next generation of global businesses](data/articles/sri-lanka-s-platform-for.156a5398/README.md) `ft.lk`
+* [El Nino: a call for climate resilient agriculture](data/articles/el-nino-a-call-for-clima.71263807/README.md) `dailymirror.lk`
+* [Give war a chance:  Iran faces Trump’s  economic  D‑Day](data/articles/give-war-a-chance-iran-f.fc6c1c0c/README.md) `dailymirror.lk`
+* [Let Our Roadsides Breathe](data/articles/let-our-roadsides-breath.52bda5ad/README.md) `dailymirror.lk`
+* [Mother tongue](data/articles/mother-tongue.2be7e5f3/README.md) `technologyreview.com`
 
 ## 2026-08-20
 
@@ -17,12 +29,14 @@ Last Updated **2026-08-21 06:26:43**
 * [One rate, and the SMEs who absorbed the difference](data/articles/one-rate-and-the-smes-wh.d5fc4d41/README.md) `ft.lk`
 * [Sri Lanka’s $ 5 b IT Industry Strategic Roadmap and the English Language blindspot](data/articles/sri-lanka-s-5-b-it-indus.fde2dc9d/README.md) `ft.lk`
 * [The next big thing in hydrogen could be underground](data/articles/the-next-big-thing-in-hy.20d0e9fe/README.md) `technologyreview.com`
+* [Support networks aim to help kids through the polycrisis](data/articles/support-networks-aim-to.f13376a8/README.md) `technologyreview.com`
 
 ## 2026-08-19
 
 * [Why Sri Lanka should decriminalise homosexuality — irrespective of GSP+](data/articles/why-sri-lanka-should-dec.eba76a7f/README.md) `dailymirror.lk`
 * [Govt. finally breaking the drug mafia](data/articles/govt-finally-breaking-th.0b142d5e/README.md) `dailymirror.lk`
 * [Lethargic institutions vs. Right to Information letters](data/articles/lethargic-institutions-v.517a0b2a/README.md) `dailymirror.lk`
+* [Child-monitoring apps might need a reboot](data/articles/child-monitoring-apps-mi.2fd4207b/README.md) `technologyreview.com`
 * [Are we making loan sharks bigger and richer at expense of poor?](data/articles/are-we-making-loan-shark.a586e56b/README.md) `ft.lk`
 * [Rails are built: So why are we still queuing?](data/articles/rails-are-built-so-why-a.14dc2fb0/README.md) `ft.lk`
 * [Who really pays for digital banking?](data/articles/who-really-pays-for-digi.ee393cfb/README.md) `ft.lk`
