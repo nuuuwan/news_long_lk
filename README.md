@@ -2,14 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-20 18:26:00**
+Last Updated **2026-08-21 06:26:43**
 
 ## 2026-08-20
 
 * [”AKD lost his revolutionary conscience long ago“ Kumar Gunaratnam](data/articles/akd-lost-his-revolution.121561de/README.md) `dailymirror.lk`
+* [How Fiserv Turned Payment Data into a Growth Engine](data/articles/how-fiserv-turned-paymen.f7a824c8/README.md) `hbr.org`
 * [22A in place of the new Constitution promised](data/articles/22a-in-place-of-the-new.c70d0703/README.md) `dailymirror.lk`
 * [Judicial Retirement Age: Let the Judges’ Wishes Guide the Way](data/articles/judicial-retirement-age.17567875/README.md) `dailymirror.lk`
 * [Is human thinking at the brink of extinction?](data/articles/is-human-thinking-at-the.df2b69ce/README.md) `dailymirror.lk`
+* [Debates over AI consciousness are a trap](data/articles/debates-over-ai-consciou.5e86b723/README.md) `technologyreview.com`
 * [AKD’s risk-taking: Losing legitimacy, de-stabilising democracy](data/articles/akd-s-risk-taking-losing.5d0097bf/README.md) `ft.lk`
 * [Abaya and Muslim identity politics](data/articles/abaya-and-muslim-identit.613bcacb/README.md) `ft.lk`
 * [One rate, and the SMEs who absorbed the difference](data/articles/one-rate-and-the-smes-wh.d5fc4d41/README.md) `ft.lk`
@@ -34,6 +36,7 @@ Last Updated **2026-08-20 18:26:00**
 * [The NPP and economic democracy](data/articles/the-npp-and-economic-dem.21393fbb/README.md) `dailymirror.lk`
 * [We still don’t know how people are really using AI](data/articles/we-still-don-t-know-how.77666583/README.md) `technologyreview.com`
 * [AI’s recursive self-improvement might not come so quickly after all](data/articles/ai-s-recursive-self-impr.89f9a699/README.md) `technologyreview.com`
+* [The role of the astronaut is in flux](data/articles/the-role-of-the-astronau.34ce57c1/README.md) `technologyreview.com`
 
 ## 2026-08-17
 

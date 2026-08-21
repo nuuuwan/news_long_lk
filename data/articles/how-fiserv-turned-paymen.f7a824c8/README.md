@@ -1,0 +1,60 @@
+# How Fiserv Turned Payment Data into a Growth Engine
+
+[https://hbr.org/sponsored/2026/08/how-fiserv-turned-payment-data-into-a-growth-engine](https://hbr.org/sponsored/2026/08/how-fiserv-turned-payment-data-into-a-growth-engine)
+
+*12:00 PM, Thursday, August 20, 2026*
+
+By Prasanna Dhore and Praveen Arivazhagan
+
+Companies looking to grow revenue and profits can overlook opportunities they are already sitting on. They may pursue extensions of business as usual rather than trying to develop new business lines with the assets they already have. They may also focus on their core market rather than looking to entirely different products, markets, or industries.
+
+Fiserv was sitting on a deep pool of real-time spending data. To unlock its untapped value, it needed to explore markets beyond its core financial services customers and work with a partner that has forged deep relationships in those new markets.
+
+The resulting corporate venture empowered the financial services company to turn its data into an intelligence platform that helps consumer product and retail (CP&R) businesses get ahead of their competition by understanding how their consumers are spending and where new opportunities lie based on that behavior. This approach became a solution that can help retailers, restaurants, and consumer products companies better meet their customers’ desires.
+
+Attacking Information Asymmetry
+
+Fiserv already had real-time transaction data with a broad geographic footprint based on the trillions of dollars in payments it processes through its systems annually and the millions of small businesses running on its point-of-sale systems. Incorporating AI helped synthesize the data at scale so the company could use it to develop signals for future consumer spending while maintaining the privacy and anonymity of customers and consumers.
+
+Lacking key relationships in the CP&R industry, Fiserv collaborated with EY-Parthenon to access insights on what these customers needed from its data. The Corporate Venture Building team found a gap between the information consumer companies have and what they need to know to make optimal decisions about pricing, location strategy, product innovation, mergers and acquisitions, and marketing.
+
+Building Together with Customers
+
+The team had the deep sector experience to understand how the financial data could fill gaps for CP&R companies. It also had relationships with key decision makers such as strategy, marketing, consumer insights, and data analytics leaders in the industry. These factors helped identify the drawbacks CP&R companies saw in other data sources, such as long latency, relatively small panel sizes, and the lack of coverage of customer behavior at small businesses, including convenience stores and mom-and-pop restaurants.
+
+After developing prototypes and conducting testing with industry users, the team worked with a few proof-of-concept customers to join in product development and provide their input on market willingness to pay.
+
+The team conducted benchmarking against data sources that were already in the market to help determine both the pricing and the commercial model. It also built the business case and three-year venture-based financial model.
+
+Working closely with Fiserv data scientists to design the technical architecture, the team built AI into the offering to aggregate and turn the data into decision-grade insights in a more actionable way than typical informational dashboards. AI helped connect data pools and allowed users to ask questions about consumer behavior using conversational language. EY-Parthenon also embedded an AI-powered pricing workflow, supported by EY professionals’ commercial excellence methodologies and experiences.
+
+The resulting data products help Fiserv customers track granular market share movements, make better pricing decisions, identify and monitor new brand introductions, and assess early-stage companies as potential acquisition targets.
+
+By turning its data into intelligence on how consumers are spending, Fiserv developed a potential revenue stream outside its core business that it’s now testing and scaling with customers in the retail and consumer packaged goods (CPG) industries.
+
+The corporate venture-building approach is a method CEOs and other growth leaders can adopt to quickly achieve meaningful revenue growth. To make it work, companies need to:
+
+Look at assets and their potential customer base in a different way. Languishing intellectual property, customer relationships, supply chains, and technology can all be the building blocks of a new business.
+
+Use AI to compress the capacity, capabilities, and capital required to build, launch, and scale.
+
+Treat the new venture as a startup outside the regular profit and loss statement to help give the venture time to develop without the pressures of the quarterly reporting cycle.
+
+Conduct small experiments and set specific success metrics for additional funding. Don’t be afraid of failure. To the contrary, companies can build compensation metrics around the willingness to experiment.
+
+Communicate, communicate, communicate. Starting from the top, spread the message throughout the organization that employees have the freedom to create new ventures within the company. Celebrate successes, break down silos, and allow more people to think like venture builders.
+
+Find the right partners. The company may not have all the expertise or relationships it needs internally to make the connections it needs and fill in any capability gaps.
+
+This story shows how to turn underutilized assets into a new revenue stream that can support company growth for years. The next growth engine may already exist inside your business, waiting for forward-thinking leaders to see it and then team with an experienced partner to help test it, scale it, and bring the venture to life.
+
+Prasanna Dhore is President and Chief Data Officer of Data Commerce Solutions at Fiserv.
+
+Praveen Arivazhagan is the EY-Parthenon Americas Corporate Venture Building Leader, Ernst & Young LLP.
+
+Lauren Schmeer, EY-Parthenon, Executive Director and Venture Builder, Ernst & Young LLP, also contributed to this article.
+
+Learn more about how the EY-Parthenon Corporate Venture Building team helps companies originate, build, and scale new businesses and reimagine their core business for growth.
+
+The views reflected in this article are the views of the authors and do not necessarily reflect the views of Ernst & Young LLP or other members of the global EY organization.
+
