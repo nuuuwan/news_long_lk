@@ -1,0 +1,30 @@
+{
+  "url": "https://hbr.org/sponsored/2026/08/what-separates-ai-agents-that-ship-to-production-from-those-that-dont",
+  "title": "What Separates AI Agents That Ship to Production from Those That Don\u2019t",
+  "ut": 1787298860.0,
+  "body_paragraphs": [
+    "The enterprise AI conversation has quietly shifted. Two years ago, executives asked whether their organization could build an AI agent. Today they are asking whether their organization can trust an AI agent.",
+    "The question of trust runs on two fronts: the agents they have built that now run in production and the coding agents their developers rely on daily to build software. Most organizations can\u2019t trust their agents in either case.",
+    "Working demos of AI agents are common, but agents customers depend on day after day that improve over time and hold up to real-world edge cases are rare.",
+    "Closing the gap is not a modeling problem. It is a verification problem. Organizations can build software at agent speed, but they cannot yet verify software at agent speed.",
+    "Traditional software testing is a solved problem: Engineers write unit tests, continuous integration blocks regressions, and deployments are gated. But AI agents break every assumption behind that playbook. They are nondeterministic. The same input can produce different outputs. Small changes to a system prompt or tool description can cascade into failures that only appear in multi-step workflows. A model upgrade meant to improve performance can introduce silent regressions no one notices until customers report them.",
+    "Five Components of the Feedback Loop",
+    "Many engineering teams still operate their agents the way they first tested them: manually, in a spreadsheet, iterating on prompts, and hoping a fix does not quietly break three other workflows.",
+    "The business consequences add up quickly. Projects that reach a working demo stall for months, sometimes indefinitely, because the team cannot demonstrate the agent is safe to release at scale. Engineering time drains into whack-a-mole debugging. Release cycles slow down. Anticipated return on investment (ROI) does not materialize because the agent never reaches the customer-facing scale the business case required.",
+    "Cost visibility becomes its own problem, as fleets of agents, including the coding agents that developers are running on their laptops all day, can quietly drive up spend that no finance team can attribute. The gap between organizations that have institutionalized this discipline and those still improvising compounds every week.",
+    "The teams closing the gap treat AI agents like a software product, with a real feedback loop built on observability. Five components define the foundation:",
+    "Production traces flow continuously into an observability layer using open standards, so every agent decision, model call, tool invocation, retrieval, and response is inspectable.",
+    "Evaluation moves from brittle string matching to layered evaluators, including large language model (LLM) judges scoped narrowly to specific behavioral checks and deterministic code-based tests where they apply.",
+    "Real production traces, including failures, become the golden data sets teams evaluate against, not synthetic happy-path examples.",
+    "Experiments compare prompt, model, and configuration changes against those data sets before anything ships.",
+    "Continuous integration pipelines gate merges on evaluation pass rates.",
+    "Because the underlying instrumentation follows OpenTelemetry-based open standards, the same discipline works across cloud-native runtimes without locking teams into any single vendor\u2019s stack.",
+    "What is new, and where the industry is heading, is that the loop itself is starting to run without humans driving every step. Long-running agents now surface what to investigate, propose fixes as pull requests, and grade their own work with engineers supervising and approving rather than executing every task.",
+    "An Advanced Testing Framework",
+    "One AI-native engineering team has spent more than two years building and operating a production agent that helps developers debug and improve other agents.",
+    "The team\u2019s earliest testing framework was a spreadsheet. What changed everything was the shift to treating real production traces, measured in trillions of spans and evaluated across tens of millions of evaluation runs, as the foundation of engineering.",
+    "Today the team runs continuous evaluations in production, gates every prompt and tool change behind continuous integration (CI-integrated) evaluation suites, and increasingly uses long-running agents to triage, categorize, and prioritize the team\u2019s own production failures. What used to take hours of engineer debugging now takes minutes. The team ships faster, catches regressions before customers do, and continues to improve the agent even as usage scales.",
+    "The durable advantage in agentic AI will not come from the underlying model. Foundation models will keep getting better and cheaper for everyone. Code is being commoditized by coding agents. Models are being commoditized by the menu of foundation models available on every hyperscaler. What is left and what compounds is context: the observability, the evaluations, the release discipline, and the feedback loop that makes every deployment safer than the last.",
+    "Enterprises accelerating agentic AI on AWS are increasingly relying on partners that have already built this discipline into their own platforms. To see how AWS and Arize are helping teams operationalize agentic AI in production (agents running in your applications and the coding agents building them), visit Arize on AWS Marketplace or explore the resources at arize.com/partners/aws."
+  ]
+}

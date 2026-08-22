@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-21 18:27:09**
+Last Updated **2026-08-22 06:25:57**
 
 ## 2026-08-21
 
+* [What Separates AI Agents That Ship to Production from Those That Don’t](data/articles/what-separates-ai-agents.24bb7e48/README.md) `hbr.org`
 * [Uniformity without discrimination: Revisiting the health workers’ dress code](data/articles/uniformity-without-discr.1ab6ff42/README.md) `ft.lk`
 * [Sri Lanka’s reform Government is testing judicial independence](data/articles/sri-lanka-s-reform-gover.2ebc851d/README.md) `ft.lk`
 * [Stability was the first step; Sri Lanka now needs development](data/articles/stability-was-the-first.c6e534f1/README.md) `ft.lk`
