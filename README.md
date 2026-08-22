@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-22 06:25:57**
+Last Updated **2026-08-22 18:24:23**
+
+## 2026-08-22
+
+* [The rationale for the Mecca Pact and its spinoffs](data/articles/the-rationale-for-the-me.ad655e75/README.md) `dailymirror.lk`
 
 ## 2026-08-21
 
