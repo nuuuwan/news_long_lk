@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-24 06:26:48**
+Last Updated **2026-08-24 18:23:24**
+
+## 2026-08-24
+
+* [JR, Judiciary and Political Elimination of Sirimavo](data/articles/jr-judiciary-and-politic.52b2eac9/README.md) `dailymirror.lk`
+* [The controversial 22nd Amendment to the Constitution](data/articles/the-controversial-22nd-a.8dfaa151/README.md) `dailymirror.lk`
+* [“Cashback at Till” System in  Supermarkets](data/articles/cashback-at-till-system.5101f357/README.md) `dailymirror.lk`
 
 ## 2026-08-22
 
