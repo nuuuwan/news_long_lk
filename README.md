@@ -2,12 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-25 06:24:59**
+Last Updated **2026-08-25 18:23:27**
 
 ## 2026-08-25
 
+* [Roundtable with Women’s Parliamentary Caucus in Sri Lanka advances talks on financing care economy](data/articles/roundtable-with-women-s.c9828b2f/README.md) `ft.lk`
+* [Ministerial ‘Musical Chairs’ fell by nearly 75% under AKD Presidency compared to his two predecessors](data/articles/ministerial-musical-chai.9d12e3f8/README.md) `ft.lk`
+* [Leaky bucket: Why widening  Sri Lanka’s tax base is only half the battle](data/articles/leaky-bucket-why-widenin.36e98670/README.md) `ft.lk`
+* [When cigarette taxes go too far](data/articles/when-cigarette-taxes-go.93ffec96/README.md) `ft.lk`
+* [Broader base, thinner yield: A compliance gap which requires a fix — what Sri Lanka’s VAT statistics reveal](data/articles/broader-base-thinner-yie.2b0aeaa0/README.md) `ft.lk`
 * [Is modernisation without ETA adequate to avert Sri Lanka’s next forex calamity?](data/articles/is-modernisation-without.1d2b6f07/README.md) `ft.lk`
 * [After 47 deficit years: Sri Lanka must move from managing FX to creating it](data/articles/after-47-deficit-years-s.2e95c835/README.md) `ft.lk`
+* [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](data/articles/i-spent-a-day-at-a-robot.dac3a9d1/README.md) `technologyreview.com`
 
 ## 2026-08-24
 
@@ -34,6 +40,8 @@ Last Updated **2026-08-25 06:24:59**
 * [El Nino: a call for climate resilient agriculture](data/articles/el-nino-a-call-for-clima.71263807/README.md) `dailymirror.lk`
 * [Give war a chance:  Iran faces Trump’s  economic  D‑Day](data/articles/give-war-a-chance-iran-f.fc6c1c0c/README.md) `dailymirror.lk`
 * [Let Our Roadsides Breathe](data/articles/let-our-roadsides-breath.52bda5ad/README.md) `dailymirror.lk`
+* [This company’s plans to deploy space mirrors could jeopardize the night sky for many](data/articles/this-company-s-plans-to.b0b66b95/README.md) `technologyreview.com`
+* [When AI designs a drug, who gets the credit?](data/articles/when-ai-designs-a-drug-w.66806890/README.md) `technologyreview.com`
 * [Mother tongue](data/articles/mother-tongue.2be7e5f3/README.md) `technologyreview.com`
 
 ## 2026-08-20
