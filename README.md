@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-24 18:23:24**
+Last Updated **2026-08-25 06:24:59**
+
+## 2026-08-25
+
+* [Is modernisation without ETA adequate to avert Sri Lanka’s next forex calamity?](data/articles/is-modernisation-without.1d2b6f07/README.md) `ft.lk`
+* [After 47 deficit years: Sri Lanka must move from managing FX to creating it](data/articles/after-47-deficit-years-s.2e95c835/README.md) `ft.lk`
 
 ## 2026-08-24
 
+* [How to encourage smarter AI use in the classroom](data/articles/how-to-encourage-smarter.b11795f5/README.md) `technologyreview.com`
+* [Sri Lanka must push back on Washington’s ‘Transhipment Scam Report’](data/articles/sri-lanka-must-push-back.d6e3c373/README.md) `ft.lk`
+* [Mangala: a man time has not taught us to forget](data/articles/mangala-a-man-time-has-n.e3ebea5a/README.md) `ft.lk`
+* [Fixing digital stethoscope’s blind spot](data/articles/fixing-digital-stethosco.826306f5/README.md) `ft.lk`
 * [JR, Judiciary and Political Elimination of Sirimavo](data/articles/jr-judiciary-and-politic.52b2eac9/README.md) `dailymirror.lk`
 * [The controversial 22nd Amendment to the Constitution](data/articles/the-controversial-22nd-a.8dfaa151/README.md) `dailymirror.lk`
 * [“Cashback at Till” System in  Supermarkets](data/articles/cashback-at-till-system.5101f357/README.md) `dailymirror.lk`
