@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-25 18:23:27**
+Last Updated **2026-08-26 06:25:08**
+
+## 2026-08-26
+
+* [Amendments and judges: Random thoughts](data/articles/amendments-and-judges-ra.456e7d67/README.md) `ft.lk`
+* [Sri Lanka’s inflation target review: Case for caution](data/articles/sri-lanka-s-inflation-ta.f2ee7f1f/README.md) `ft.lk`
+* [Existential realism: Rethinking Sri Lanka’s international relations in a de-globalising world](data/articles/existential-realism-reth.d4b63227/README.md) `ft.lk`
+* [Governance and technology – Focus on AI](data/articles/governance-and-technolog.1346ef32/README.md) `ft.lk`
 
 ## 2026-08-25
 
