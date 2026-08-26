@@ -2,14 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-26 06:25:08**
+Last Updated **2026-08-26 18:32:05**
 
 ## 2026-08-26
 
 * [Amendments and judges: Random thoughts](data/articles/amendments-and-judges-ra.456e7d67/README.md) `ft.lk`
 * [Sri Lanka’s inflation target review: Case for caution](data/articles/sri-lanka-s-inflation-ta.f2ee7f1f/README.md) `ft.lk`
+* [AI models flub these intelligence tests. Can you fare any better?](data/articles/ai-models-flub-these-int.8e8985de/README.md) `technologyreview.com`
 * [Existential realism: Rethinking Sri Lanka’s international relations in a de-globalising world](data/articles/existential-realism-reth.d4b63227/README.md) `ft.lk`
 * [Governance and technology – Focus on AI](data/articles/governance-and-technolog.1346ef32/README.md) `ft.lk`
+* [Let’s Not Bring Back The Death Penalty By  Any Means](data/articles/let-s-not-bring-back-the.ccd64e9d/README.md) `dailymirror.lk`
+* [When economic warnings become political weapons](data/articles/when-economic-warnings-b.f0dc1448/README.md) `dailymirror.lk`
+* [Closing the Stable Door After the Horse Has Bolted](data/articles/closing-the-stable-door.ffd00c22/README.md) `dailymirror.lk`
 
 ## 2026-08-25
 
@@ -20,11 +24,13 @@ Last Updated **2026-08-26 06:25:08**
 * [Broader base, thinner yield: A compliance gap which requires a fix — what Sri Lanka’s VAT statistics reveal](data/articles/broader-base-thinner-yie.2b0aeaa0/README.md) `ft.lk`
 * [Is modernisation without ETA adequate to avert Sri Lanka’s next forex calamity?](data/articles/is-modernisation-without.1d2b6f07/README.md) `ft.lk`
 * [After 47 deficit years: Sri Lanka must move from managing FX to creating it](data/articles/after-47-deficit-years-s.2e95c835/README.md) `ft.lk`
+* [Welcome to the spiderverse, a world measured through webs](data/articles/welcome-to-the-spiderver.e94a9064/README.md) `technologyreview.com`
 * [I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.](data/articles/i-spent-a-day-at-a-robot.dac3a9d1/README.md) `technologyreview.com`
 
 ## 2026-08-24
 
 * [How to encourage smarter AI use in the classroom](data/articles/how-to-encourage-smarter.b11795f5/README.md) `technologyreview.com`
+* [Kids outlearn AI—and we still don’t know why](data/articles/kids-outlearn-ai-and-we.b781f4c4/README.md) `technologyreview.com`
 * [Sri Lanka must push back on Washington’s ‘Transhipment Scam Report’](data/articles/sri-lanka-must-push-back.d6e3c373/README.md) `ft.lk`
 * [Mangala: a man time has not taught us to forget](data/articles/mangala-a-man-time-has-n.e3ebea5a/README.md) `ft.lk`
 * [Fixing digital stethoscope’s blind spot](data/articles/fixing-digital-stethosco.826306f5/README.md) `ft.lk`
