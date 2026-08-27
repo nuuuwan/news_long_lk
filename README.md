@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-27 07:40:54**
+Last Updated **2026-08-27 21:53:22**
+
+## 2026-08-27
+
+* [Is Nanda Malini to blame for the 1988-89 bloodbath?](data/articles/is-nanda-malini-to-blame.078a8a1b/README.md) `dailymirror.lk`
+* [El Niño preparedness: Don’t leave out  the poor](data/articles/el-niño-preparedness-don.b479f79a/README.md) `dailymirror.lk`
+* [Returning refugees and challenges ahead for the govt.](data/articles/returning-refugees-and-c.2e844e16/README.md) `dailymirror.lk`
+* [Squabbling over judges amid starvation and indebtedness](data/articles/squabbling-over-judges-a.99c181ae/README.md) `dailymirror.lk`
+* [Is Slate Auto’s new electric truck the EV Americans need?](data/articles/is-slate-auto-s-new-elec.6aeb2012/README.md) `technologyreview.com`
 
 ## 2026-08-26
 
