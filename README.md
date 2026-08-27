@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-26 18:32:05**
+Last Updated **2026-08-27 07:40:54**
 
 ## 2026-08-26
 
+* [The inside story on why OpenAI agents hacked Hugging Face](data/articles/the-inside-story-on-why.db5b8f42/README.md) `technologyreview.com`
 * [Amendments and judges: Random thoughts](data/articles/amendments-and-judges-ra.456e7d67/README.md) `ft.lk`
 * [Sri Lanka’s inflation target review: Case for caution](data/articles/sri-lanka-s-inflation-ta.f2ee7f1f/README.md) `ft.lk`
 * [AI models flub these intelligence tests. Can you fare any better?](data/articles/ai-models-flub-these-int.8e8985de/README.md) `technologyreview.com`
