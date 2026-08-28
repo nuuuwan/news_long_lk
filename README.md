@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-27 21:53:22**
+Last Updated **2026-08-28 09:02:27**
 
 ## 2026-08-27
 
+* [A startup claims it’s found a drug to make your blood young](data/articles/a-startup-claims-it-s-fo.2074ade1/README.md) `technologyreview.com`
 * [Is Nanda Malini to blame for the 1988-89 bloodbath?](data/articles/is-nanda-malini-to-blame.078a8a1b/README.md) `dailymirror.lk`
 * [El Niño preparedness: Don’t leave out  the poor](data/articles/el-niño-preparedness-don.b479f79a/README.md) `dailymirror.lk`
 * [Returning refugees and challenges ahead for the govt.](data/articles/returning-refugees-and-c.2e844e16/README.md) `dailymirror.lk`
@@ -23,6 +24,7 @@ Last Updated **2026-08-27 21:53:22**
 * [Let’s Not Bring Back The Death Penalty By  Any Means](data/articles/let-s-not-bring-back-the.ccd64e9d/README.md) `dailymirror.lk`
 * [When economic warnings become political weapons](data/articles/when-economic-warnings-b.f0dc1448/README.md) `dailymirror.lk`
 * [Closing the Stable Door After the Horse Has Bolted](data/articles/closing-the-stable-door.ffd00c22/README.md) `dailymirror.lk`
+* [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](data/articles/bill-gates-says-we-ve-pa.a1de5e17/README.md) `technologyreview.com`
 
 ## 2026-08-25
 
