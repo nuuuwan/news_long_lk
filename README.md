@@ -2,7 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-28 09:02:27**
+Last Updated **2026-08-28 22:16:14**
+
+## 2026-08-28
+
+* [Mirror Missions: El Niño in Sri Lanka, Can You Protect Your Community?](data/articles/mirror-missions-el-niño.31794c2c/README.md) `dailymirror.lk`
+* [How to sign up for a virtual power plant—and decide whether you should](data/articles/how-to-sign-up-for-a-vir.5cb4d68d/README.md) `technologyreview.com`
+* [Development focus should not be lost](data/articles/development-focus-should.9b6d5f1a/README.md) `dailymirror.lk`
+* [Iran war: Intensified diplomacy raises hope for peace](data/articles/iran-war-intensified-dip.fd4078e2/README.md) `dailymirror.lk`
+* [Are elephants truly essential to preserve the Perahera tradition?](data/articles/are-elephants-truly-esse.da00cdb8/README.md) `dailymirror.lk`
+* [Enforced disappearances in Sri Lanka : Grieving families  of missing persons still  await closure](data/articles/enforced-disappearances.5f833533/README.md) `dailymirror.lk`
 
 ## 2026-08-27
 
