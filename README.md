@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-29 06:32:30**
+Last Updated **2026-08-29 18:13:55**
 
 ## 2026-08-28
 
+* [The AI debate we are not having](data/articles/the-ai-debate-we-are-not.4276f226/README.md) `dailymirror.lk`
+* [A minimum age limit for trishaw drivers](data/articles/a-minimum-age-limit-for.6edb305c/README.md) `dailymirror.lk`
+* [Cashback at Till: Convenience at What Cost?](data/articles/cashback-at-till-conveni.f14ed78e/README.md) `dailymirror.lk`
 * [Mirror Missions: El Niño in Sri Lanka, Can You Protect Your Community?](data/articles/mirror-missions-el-niño.31794c2c/README.md) `dailymirror.lk`
 * [How to sign up for a virtual power plant—and decide whether you should](data/articles/how-to-sign-up-for-a-vir.5cb4d68d/README.md) `technologyreview.com`
 * [Development focus should not be lost](data/articles/development-focus-should.9b6d5f1a/README.md) `dailymirror.lk`
