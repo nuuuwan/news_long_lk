@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-31 06:44:24**
+Last Updated **2026-08-31 18:19:00**
+
+## 2026-08-31
+
+* [Central Bank’s dilemma: 5% or 2%?](data/articles/central-bank-s-dilemma-5.63b598de/README.md) `ft.lk`
+* [When the mountain moved](data/articles/when-the-mountain-moved.32db4ab4/README.md) `ft.lk`
+* [Maha 2026/2027: Why delaying cultivation until December may be safer choice](data/articles/maha-2026-2027-why-delay.5527ba90/README.md) `ft.lk`
+* [Sri Lanka’s next farm crisis could begin with drought - and end with too much rain](data/articles/sri-lanka-s-next-farm-cr.00796254/README.md) `ft.lk`
+* [Restoring housing loan interest relief is essential](data/articles/restoring-housing-loan-i.aa97c817/README.md) `ft.lk`
+* [Constitution: How Much Longer Can We Wait?](data/articles/constitution-how-much-lo.8ae2bb36/README.md) `dailymirror.lk`
+* [We cannot afford to import our health security](data/articles/we-cannot-afford-to-impo.56324a2e/README.md) `dailymirror.lk`
+* [Three-Wheeler Fares in  Nuwara Eliya](data/articles/three-wheeler-fares-in-n.f9e88abd/README.md) `dailymirror.lk`
 
 ## 2026-08-28
 
