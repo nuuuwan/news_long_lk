@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-08-31 18:19:00**
+Last Updated **2026-09-01 06:50:01**
+
+## 2026-09-01
+
+* [Why Sri Lanka should not rush to change inflation target](data/articles/why-sri-lanka-should-not.28450661/README.md) `ft.lk`
+* [Sri Lanka among ‘Elevated Concern’ countries for El Nino and Middle East crisis snapshot](data/articles/sri-lanka-among-elevated.a3b11b80/README.md) `ft.lk`
+* [Climate has changed: Has our agriculture?](data/articles/climate-has-changed-has.2e0b9bb7/README.md) `ft.lk`
+* [The 22nd Amendment to Constitution: Pandora’s box or a horn of plenty](data/articles/the-22nd-amendment-to-co.e51130cb/README.md) `ft.lk`
+* [An economy for more than 1,000 people](data/articles/an-economy-for-more-than.63e18475/README.md) `ft.lk`
 
 ## 2026-08-31
 
+* [Building an Elastic Enterprise for Human-Agent Collaboration](data/articles/building-an-elastic-ente.db432b90/README.md) `hbr.org`
+* [The Hugging Face hack could indicate cultural issues at OpenAI](data/articles/the-hugging-face-hack-co.e985a8c1/README.md) `technologyreview.com`
 * [Central Bank’s dilemma: 5% or 2%?](data/articles/central-bank-s-dilemma-5.63b598de/README.md) `ft.lk`
 * [When the mountain moved](data/articles/when-the-mountain-moved.32db4ab4/README.md) `ft.lk`
 * [Maha 2026/2027: Why delaying cultivation until December may be safer choice](data/articles/maha-2026-2027-why-delay.5527ba90/README.md) `ft.lk`
