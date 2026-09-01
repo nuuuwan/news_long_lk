@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-01 06:50:01**
+Last Updated **2026-09-01 18:18:45**
 
 ## 2026-09-01
 
+* [Digital Era Global South should unite on common platform to bargain with Big Tech companies – Ranga Kalansooriya](data/articles/digital-era-global-south.e81a9a17/README.md) `dailymirror.lk`
+* [Japan, pacifist since 1947, is now vigorously militarising](data/articles/japan-pacifist-since-194.a8d02b81/README.md) `dailymirror.lk`
+* [Quality of life:  Is it the state’s responsibility?](data/articles/quality-of-life-is-it-th.31a43ea2/README.md) `dailymirror.lk`
+* [Promises alone would not defeat racism](data/articles/promises-alone-would-not.3148eb5d/README.md) `dailymirror.lk`
 * [Why Sri Lanka should not rush to change inflation target](data/articles/why-sri-lanka-should-not.28450661/README.md) `ft.lk`
 * [Sri Lanka among ‘Elevated Concern’ countries for El Nino and Middle East crisis snapshot](data/articles/sri-lanka-among-elevated.a3b11b80/README.md) `ft.lk`
 * [Climate has changed: Has our agriculture?](data/articles/climate-has-changed-has.2e0b9bb7/README.md) `ft.lk`
