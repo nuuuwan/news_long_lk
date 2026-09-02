@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-01 18:18:45**
+Last Updated **2026-09-02 06:40:13**
+
+## 2026-09-02
+
+* [Sri Lanka, beyond 22](data/articles/sri-lanka-beyond-22.63e2f225/README.md) `ft.lk`
+* [Lineage of elite power](data/articles/lineage-of-elite-power.40fb857c/README.md) `ft.lk`
+* [Can Mannar’s Gas Basin change Sri Lanka’s story?](data/articles/can-mannar-s-gas-basin-c.09d0bcc9/README.md) `ft.lk`
+* [The terms of control: Territorial gatekeeping and stagnation of Sri Lankan creative capital](data/articles/the-terms-of-control-ter.1e9c578e/README.md) `ft.lk`
 
 ## 2026-09-01
 
+* [How AI plotted an interstellar journey to Alpha Centauri](data/articles/how-ai-plotted-an-inters.1945d1d3/README.md) `technologyreview.com`
 * [Digital Era Global South should unite on common platform to bargain with Big Tech companies – Ranga Kalansooriya](data/articles/digital-era-global-south.e81a9a17/README.md) `dailymirror.lk`
 * [Japan, pacifist since 1947, is now vigorously militarising](data/articles/japan-pacifist-since-194.a8d02b81/README.md) `dailymirror.lk`
 * [Quality of life:  Is it the state’s responsibility?](data/articles/quality-of-life-is-it-th.31a43ea2/README.md) `dailymirror.lk`
