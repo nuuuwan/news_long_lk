@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-03 18:25:08**
+Last Updated **2026-09-04 06:37:43**
+
+## 2026-09-04
+
+* [Sri Lanka at $ 200 b: Big dream, broken foundations and private sector to blame?](data/articles/sri-lanka-at-200-b-big-d.c7c03bde/README.md) `ft.lk`
 
 ## 2026-09-03
 
