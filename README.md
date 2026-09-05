@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-05 06:37:10**
+Last Updated **2026-09-05 18:15:27**
 
 ## 2026-09-05
 
+* [Their letter which was never meant for us](data/articles/their-letter-which-was-n.085c3ddb/README.md) `dailymirror.lk`
+* [Is climate change responsible for Nepal’s disaster?](data/articles/is-climate-change-respon.01d7ea39/README.md) `dailymirror.lk`
 * [From NIMBY to PIMFY: South Korea’s community-based approach to climate change mitigation](data/articles/from-nimby-to-pimfy-sout.ea5fb4a3/README.md) `ft.lk`
 * [Pro-LTTE diaspora promotes SL ‘unsafe for Tamils’ to sustain asylum business](data/articles/pro-ltte-diaspora-promot.7453306c/README.md) `ft.lk`
 
