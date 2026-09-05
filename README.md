@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-04 18:20:01**
+Last Updated **2026-09-05 06:37:10**
+
+## 2026-09-05
+
+* [From NIMBY to PIMFY: South Korea’s community-based approach to climate change mitigation](data/articles/from-nimby-to-pimfy-sout.ea5fb4a3/README.md) `ft.lk`
+* [Pro-LTTE diaspora promotes SL ‘unsafe for Tamils’ to sustain asylum business](data/articles/pro-ltte-diaspora-promot.7453306c/README.md) `ft.lk`
 
 ## 2026-09-04
 
+* [Are we watching Economic Transformation Act closely enough?](data/articles/are-we-watching-economic.6ba4ab8e/README.md) `ft.lk`
+* [The Rajarata roots of Prof. Patrick Mendis: The quintessential son of our motherland](data/articles/the-rajarata-roots-of-pr.fcb0ae7f/README.md) `ft.lk`
+* [A neighbour’s view of India’s strategic strengths](data/articles/a-neighbour-s-view-of-in.6df3edbf/README.md) `ft.lk`
 * [El Niño 2026: From climate risk to economic risk](data/articles/el-niño-2026-from-climat.8c85fdcf/README.md) `ft.lk`
 * [Minimum wage rankings can create the wrong picture](data/articles/minimum-wage-rankings-ca.2b8571b5/README.md) `ft.lk`
 * [Why Sri Lanka’s National Business Facilitation Centre must rewrite rules of FX generation](data/articles/why-sri-lanka-s-national.54b2603e/README.md) `ft.lk`
@@ -29,6 +37,7 @@ Last Updated **2026-09-04 18:20:01**
 * [Sri Lanka’s Constitutional test: Judicial independence beyond immediate political moment](data/articles/sri-lanka-s-constitution.58213e13/README.md) `ft.lk`
 * [After IMF?](data/articles/after-imf.fbb23581/README.md) `ft.lk`
 * [Sri Lanka’s real test is not its Debt-to-GDP ratio](data/articles/sri-lanka-s-real-test-is.e3ec5d06/README.md) `ft.lk`
+* [Agriculture relies on fossil fuels. It’s costing us.](data/articles/agriculture-relies-on-fo.e9a223db/README.md) `technologyreview.com`
 
 ## 2026-09-02
 
