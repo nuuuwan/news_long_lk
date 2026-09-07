@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-07 06:43:46**
+Last Updated **2026-09-07 18:19:25**
 
 ## 2026-09-07
 
@@ -11,6 +11,9 @@ Last Updated **2026-09-07 06:43:46**
 * [Emerging El Niño effect on Sri Lanka: Be ready for catastrophe](data/articles/emerging-el-niño-effect.70d5bb35/README.md) `ft.lk`
 * [Financing Sri Lanka’s post-IMF development](data/articles/financing-sri-lanka-s-po.a533521a/README.md) `ft.lk`
 * [Beyond beaches and heritage: Why Sri Lanka must embrace Muslim-friendly tourism](data/articles/beyond-beaches-and-herit.8a45b7df/README.md) `ft.lk`
+* [School Meals to Nourish Free Education](data/articles/school-meals-to-nourish.a68d234b/README.md) `dailymirror.lk`
+* [New police uniform, but what about public safety?](data/articles/new-police-uniform-but-w.823df76f/README.md) `dailymirror.lk`
+* [ESSENTIAL ENFORCEMENT TO STOP NOISE POLLUTERS](data/articles/essential-enforcement-to.cddaa59f/README.md) `dailymirror.lk`
 
 ## 2026-09-05
 
