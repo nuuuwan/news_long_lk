@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-06 18:15:01**
+Last Updated **2026-09-07 06:43:46**
+
+## 2026-09-07
+
+* [Is the request to remand Namal Rajapaksa for 14 days justified?](data/articles/is-the-request-to-remand.40945b82/README.md) `ft.lk`
+* [Personal Income Taxation – A growing burden for Sri Lankans and economy](data/articles/personal-income-taxation.32c07b6e/README.md) `ft.lk`
+* [Emerging El Niño effect on Sri Lanka: Be ready for catastrophe](data/articles/emerging-el-niño-effect.70d5bb35/README.md) `ft.lk`
+* [Financing Sri Lanka’s post-IMF development](data/articles/financing-sri-lanka-s-po.a533521a/README.md) `ft.lk`
+* [Beyond beaches and heritage: Why Sri Lanka must embrace Muslim-friendly tourism](data/articles/beyond-beaches-and-herit.8a45b7df/README.md) `ft.lk`
 
 ## 2026-09-05
 
