@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-07 18:19:25**
+Last Updated **2026-09-08 06:40:17**
+
+## 2026-09-08
+
+* [SLEIS 2026 to examine how Sri Lanka can build more resilient economy for future](data/articles/sleis-2026-to-examine-ho.eaf00fd2/README.md) `ft.lk`
+* [Sri Lanka Expo 2027 takes flight with specially branded SriLankan aircraft](data/articles/sri-lanka-expo-2027-take.96cb51f8/README.md) `ft.lk`
+* [From an environmental  crisis to an economic one?](data/articles/from-an-environmental-cr.2cb30d89/README.md) `ft.lk`
+* [From bottlenecks to breakthroughs: the Centre that could change the destination of Sri Lanka’s economy](data/articles/from-bottlenecks-to-brea.ec854b64/README.md) `ft.lk`
+* [Death by debt](data/articles/death-by-debt.52973fb7/README.md) `ft.lk`
 
 ## 2026-09-07
 
