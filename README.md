@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-08 06:40:17**
+Last Updated **2026-09-08 18:29:36**
 
 ## 2026-09-08
 
+* [Enhancing Colombo port’s status as a maritime hub](data/articles/enhancing-colombo-port-s.02eda225/README.md) `dailymirror.lk`
+* [Beyond Who Wins: Judicial Reform, and the Future of Judiciary](data/articles/beyond-who-wins-judicial.f2dd0e70/README.md) `dailymirror.lk`
+* [Why not use drones to catch poachers?](data/articles/why-not-use-drones-to-ca.b04846e9/README.md) `dailymirror.lk`
+* [UNHRC: A sword of Damocles](data/articles/unhrc-a-sword-of-damocle.0e653d7d/README.md) `dailymirror.lk`
+* [This founder is teaching chips how to recycle (their energy)](data/articles/this-founder-is-teaching.176099a4/README.md) `technologyreview.com`
+* [This AI entrepreneur is developing agents that can plan ahead for the unexpected](data/articles/this-ai-entrepreneur-is.f4a18652/README.md) `technologyreview.com`
+* [This founder is making cheaper, cleaner steel](data/articles/this-founder-is-making-c.62c6010b/README.md) `technologyreview.com`
+* [This geneticist’s age-reversal tech could help restore sight](data/articles/this-geneticist-s-age-re.59d03304/README.md) `technologyreview.com`
 * [SLEIS 2026 to examine how Sri Lanka can build more resilient economy for future](data/articles/sleis-2026-to-examine-ho.eaf00fd2/README.md) `ft.lk`
 * [Sri Lanka Expo 2027 takes flight with specially branded SriLankan aircraft](data/articles/sri-lanka-expo-2027-take.96cb51f8/README.md) `ft.lk`
 * [From an environmental  crisis to an economic one?](data/articles/from-an-environmental-cr.2cb30d89/README.md) `ft.lk`
@@ -19,6 +27,7 @@ Last Updated **2026-09-08 06:40:17**
 * [Emerging El Niño effect on Sri Lanka: Be ready for catastrophe](data/articles/emerging-el-niño-effect.70d5bb35/README.md) `ft.lk`
 * [Financing Sri Lanka’s post-IMF development](data/articles/financing-sri-lanka-s-po.a533521a/README.md) `ft.lk`
 * [Beyond beaches and heritage: Why Sri Lanka must embrace Muslim-friendly tourism](data/articles/beyond-beaches-and-herit.8a45b7df/README.md) `ft.lk`
+* [Could Sri Lanka face climate catastrophes similar to Nepal ?](data/articles/could-sri-lanka-face-cli.c78903e8/README.md) `dailymirror.lk`
 * [School Meals to Nourish Free Education](data/articles/school-meals-to-nourish.a68d234b/README.md) `dailymirror.lk`
 * [New police uniform, but what about public safety?](data/articles/new-police-uniform-but-w.823df76f/README.md) `dailymirror.lk`
 * [ESSENTIAL ENFORCEMENT TO STOP NOISE POLLUTERS](data/articles/essential-enforcement-to.cddaa59f/README.md) `dailymirror.lk`
