@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-08 18:29:36**
+Last Updated **2026-09-09 06:39:54**
+
+## 2026-09-09
+
+* [Port of Colombo among Global Top 20: What comes next?](data/articles/port-of-colombo-among-gl.b366f5e2/README.md) `ft.lk`
+* [A reply to “Budget 2027: From stabilisation to transformation”](data/articles/a-reply-to-budget-2027-f.7a63a8fd/README.md) `ft.lk`
+* [Before drought comes landslide: Sri Lanka’s watershed was already broken](data/articles/before-drought-comes-lan.6ed510be/README.md) `ft.lk`
 
 ## 2026-09-08
 
