@@ -2,13 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-09 06:39:54**
+Last Updated **2026-09-10 06:39:12**
+
+## 2026-09-10
+
+* [An Indian Defence Minister after 38 years: Partnership without capture](data/articles/an-indian-defence-minist.fe50b639/README.md) `ft.lk`
+* [Caging Namal, soliciting NATO, pauperising people, suffocating democracy](data/articles/caging-namal-soliciting.37efc703/README.md) `ft.lk`
 
 ## 2026-09-09
 
 * [Port of Colombo among Global Top 20: What comes next?](data/articles/port-of-colombo-among-gl.b366f5e2/README.md) `ft.lk`
 * [A reply to “Budget 2027: From stabilisation to transformation”](data/articles/a-reply-to-budget-2027-f.7a63a8fd/README.md) `ft.lk`
 * [Before drought comes landslide: Sri Lanka’s watershed was already broken](data/articles/before-drought-comes-lan.6ed510be/README.md) `ft.lk`
+* [Afghanistan as a prism of regional stability](data/articles/afghanistan-as-a-prism-o.1baf53c6/README.md) `dailymirror.lk`
 
 ## 2026-09-08
 
@@ -142,6 +148,7 @@ Last Updated **2026-09-09 06:39:54**
 * [When economic warnings become political weapons](data/articles/when-economic-warnings-b.f0dc1448/README.md) `dailymirror.lk`
 * [Closing the Stable Door After the Horse Has Bolted](data/articles/closing-the-stable-door.ffd00c22/README.md) `dailymirror.lk`
 * [Bill Gates says we’ve passed AI’s danger thresholds. Now what?](data/articles/bill-gates-says-we-ve-pa.a1de5e17/README.md) `technologyreview.com`
+* [the billionaire philanthropist](data/articles/the-billionaire-philanth.a1de5e17/README.md) `technologyreview.com`
 
 ## 2026-08-25
 
@@ -385,6 +392,7 @@ Last Updated **2026-09-09 06:39:54**
 * [Binod Chaudhary’s recipe for realising your dreams](data/articles/binod-chaudhary-s-recipe.b5317e62/README.md) `ft.lk`
 * [Chalinda Abeykoon: The art of building without permission](data/articles/chalinda-abeykoon-the-ar.dc9e0e2e/README.md) `ft.lk`
 * [Here’s why AI agents lie and cheat to reach their goals](data/articles/here-s-why-ai-agents-lie.e4b3c3d5/README.md) `technologyreview.com`
+* [The misbehavior is called reward hacking. This is what you need to know.](data/articles/the-misbehavior-is-calle.e4b3c3d5/README.md) `technologyreview.com`
 * [Post-IMF Road Ahead](data/articles/post-imf-road-ahead.bd7cd367/README.md) `dailymirror.lk`
 * [Vision Beyond Sight: A Day of Fellowship at the School for  the Blind, Ratmalana](data/articles/vision-beyond-sight-a-da.97262561/README.md) `dailymirror.lk`
 * [PC Elections Phobia?  Only Cure, Face It](data/articles/pc-elections-phobia-only.4c03cd30/README.md) `dailymirror.lk`
@@ -420,6 +428,7 @@ Last Updated **2026-09-09 06:39:54**
 ## 2026-07-30
 
 * [Montana’s plan to become an experimental medical hub just pushed forward](data/articles/montana-s-plan-to-become.3c7c2d3e/README.md) `technologyreview.com`
+* [Artificial intelligence](data/articles/artificial-intelligence.d3ef4a34/README.md) `technologyreview.com`
 * [A fundamental flaw leaves LLMs strikingly vulnerable to attack](data/articles/a-fundamental-flaw-leave.d3ef4a34/README.md) `technologyreview.com`
 * [Historic moment of Opposition convergence: Strategy for consolidation](data/articles/historic-moment-of-oppos.789365cb/README.md) `ft.lk`
 * [Sri Lanka’s innovation gap is no longer about ideas; it is about execution](data/articles/sri-lanka-s-innovation-g.83632a66/README.md) `ft.lk`
@@ -534,6 +543,7 @@ Last Updated **2026-09-09 06:39:54**
 * [The Hidden Storage Tax on Every AI Conversation](data/articles/the-hidden-storage-tax-o.c9737c91/README.md) `hbr.org`
 * [China’s AI models have Trump’s AI world at war with itself](data/articles/china-s-ai-models-have-t.61d13d19/README.md) `technologyreview.com`
 * [AI is more likely than humans to form biases when hiring](data/articles/ai-is-more-likely-than-h.d213c30d/README.md) `technologyreview.com`
+* [Artificial intelligence](data/articles/artificial-intelligence.d213c30d/README.md) `technologyreview.com`
 * [Creating a cognitive gym: Taming the AI monster in our classrooms](data/articles/creating-a-cognitive-gym.3fc233d9/README.md) `ft.lk`
 * [Tintin to Tranquility Base: New race for the moon](data/articles/tintin-to-tranquility-ba.a0914b46/README.md) `ft.lk`
 * [The Sahodarayas We No Longer Have](data/articles/the-sahodarayas-we-no-lo.6615ba0c/README.md) `dailymirror.lk`
@@ -631,6 +641,7 @@ Last Updated **2026-09-09 06:39:54**
 * [An oasis for learning, discovery and innovation – Rice is sure to rise](data/articles/an-oasis-for-learning-di.a0ef7540/README.md) `ft.lk`
 * [Entrepreneur decoding body’s hidden language](data/articles/entrepreneur-decoding-bo.c4d9b32c/README.md) `ft.lk`
 * [Import dependence and food security](data/articles/import-dependence-and-fo.7df9c3d5/README.md) `ft.lk`
+* [Biotechnology and health](data/articles/biotechnology-and-health.c41b81cc/README.md) `technologyreview.com`
 * [Sperm donors need limits, says a European fertility group](data/articles/sperm-donors-need-limits.c41b81cc/README.md) `technologyreview.com`
 * [US-Iran war:  Stop second round, save the MoU](data/articles/us-iran-war-stop-second.f22f7edb/README.md) `dailymirror.lk`
 * [From Vulnerability to Opportunity: AI and the Future of Work in Sri Lanka](data/articles/from-vulnerability-to-op.92b11963/README.md) `dailymirror.lk`

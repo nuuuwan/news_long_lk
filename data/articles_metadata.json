@@ -1,5 +1,19 @@
 [
   {
+    "title": "An Indian Defence Minister after 38 years: Partnership without capture",
+    "url": "https://www.ft.lk/columns/An-Indian-Defence-Minister-after-38-years-Partnership-without-capture/4-797037",
+    "ut": 1788994819.0,
+    "dir_path_unix": "data/articles/an-indian-defence-minist.fe50b639",
+    "time_str_formatted": "04:30 AM, Thursday, September 10, 2026"
+  },
+  {
+    "title": "Caging Namal, soliciting NATO, pauperising people, suffocating democracy",
+    "url": "https://www.ft.lk/columns/Caging-Namal-soliciting-NATO-pauperising-people-suffocating-democracy/4-797035",
+    "ut": 1788994197.0,
+    "dir_path_unix": "data/articles/caging-namal-soliciting.37efc703",
+    "time_str_formatted": "04:19 AM, Thursday, September 10, 2026"
+  },
+  {
     "title": "Port of Colombo among Global Top 20: What comes next?",
     "url": "https://www.ft.lk/columns/Port-of-Colombo-among-Global-Top-20-What-comes-next/4-797001",
     "ut": 1788913425.0,
@@ -19,6 +33,13 @@
     "ut": 1788912260.0,
     "dir_path_unix": "data/articles/before-drought-comes-lan.6ed510be",
     "time_str_formatted": "05:34 AM, Wednesday, September 09, 2026"
+  },
+  {
+    "title": "Afghanistan as a prism of regional stability",
+    "url": "https://www.dailymirror.lk/opinion/Afghanistan-as-a-prism-of-regional-stability/172-349805",
+    "ut": 1788903228.0,
+    "dir_path_unix": "data/articles/afghanistan-as-a-prism-o.1baf53c6",
+    "time_str_formatted": "03:03 AM, Wednesday, September 09, 2026"
   },
   {
     "title": "Enhancing Colombo port\u2019s status as a maritime hub",
@@ -718,6 +739,13 @@
     "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
     "ut": 1787693460.0,
     "dir_path_unix": "data/articles/bill-gates-says-we-ve-pa.a1de5e17",
+    "time_str_formatted": "03:01 AM, Wednesday, August 26, 2026"
+  },
+  {
+    "title": "the billionaire philanthropist",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "ut": 1787693460.0,
+    "dir_path_unix": "data/articles/the-billionaire-philanth.a1de5e17",
     "time_str_formatted": "03:01 AM, Wednesday, August 26, 2026"
   },
   {
@@ -1981,6 +2009,13 @@
     "time_str_formatted": "04:30 AM, Monday, August 03, 2026"
   },
   {
+    "title": "The misbehavior is called reward hacking. This is what you need to know.",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "ut": 1785711605.0,
+    "dir_path_unix": "data/articles/the-misbehavior-is-calle.e4b3c3d5",
+    "time_str_formatted": "04:30 AM, Monday, August 03, 2026"
+  },
+  {
     "title": "Post-IMF Road Ahead",
     "url": "https://www.dailymirror.lk/opinion/Post-IMF-Road-Ahead/172-347215",
     "ut": 1785701797.0,
@@ -2161,6 +2196,13 @@
     "ut": 1785397200.0,
     "dir_path_unix": "data/articles/montana-s-plan-to-become.3c7c2d3e",
     "time_str_formatted": "01:10 PM, Thursday, July 30, 2026"
+  },
+  {
+    "title": "Artificial intelligence",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "ut": 1785372319.0,
+    "dir_path_unix": "data/articles/artificial-intelligence.d3ef4a34",
+    "time_str_formatted": "06:15 AM, Thursday, July 30, 2026"
   },
   {
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -2772,6 +2814,13 @@
     "time_str_formatted": "04:39 AM, Monday, July 20, 2026"
   },
   {
+    "title": "Artificial intelligence",
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "ut": 1784502541.0,
+    "dir_path_unix": "data/articles/artificial-intelligence.d213c30d",
+    "time_str_formatted": "04:39 AM, Monday, July 20, 2026"
+  },
+  {
     "title": "Creating a cognitive gym: Taming the AI monster in our classrooms",
     "url": "https://www.ft.lk/columns/Creating-a-cognitive-gym-Taming-the-AI-monster-in-our-classrooms/4-794840",
     "ut": 1784499903.0,
@@ -3281,6 +3330,13 @@
     "ut": 1783643702.0,
     "dir_path_unix": "data/articles/import-dependence-and-fo.7df9c3d5",
     "time_str_formatted": "06:05 AM, Friday, July 10, 2026"
+  },
+  {
+    "title": "Biotechnology and health",
+    "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "ut": 1783639800.0,
+    "dir_path_unix": "data/articles/biotechnology-and-health.c41b81cc",
+    "time_str_formatted": "05:00 AM, Friday, July 10, 2026"
   },
   {
     "title": "Sperm donors need limits, says a European fertility group",
