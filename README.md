@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-10 06:39:12**
+Last Updated **2026-09-10 18:20:25**
 
 ## 2026-09-10
 
+* [Power struggles that ruined the UNP](data/articles/power-struggles-that-rui.c9ca715a/README.md) `dailymirror.lk`
+* [Let the Courts Decide, not social media](data/articles/let-the-courts-decide-no.2970e324/README.md) `dailymirror.lk`
+* [Sri Lanka’s uphill battle to combat wildlife crimes](data/articles/sri-lanka-s-uphill-battl.b2f08064/README.md) `dailymirror.lk`
 * [An Indian Defence Minister after 38 years: Partnership without capture](data/articles/an-indian-defence-minist.fe50b639/README.md) `ft.lk`
 * [Caging Namal, soliciting NATO, pauperising people, suffocating democracy](data/articles/caging-namal-soliciting.37efc703/README.md) `ft.lk`
 
@@ -227,6 +230,7 @@ Last Updated **2026-09-10 06:39:12**
 * [We still don’t know how people are really using AI](data/articles/we-still-don-t-know-how.77666583/README.md) `technologyreview.com`
 * [AI’s recursive self-improvement might not come so quickly after all](data/articles/ai-s-recursive-self-impr.89f9a699/README.md) `technologyreview.com`
 * [The role of the astronaut is in flux](data/articles/the-role-of-the-astronau.34ce57c1/README.md) `technologyreview.com`
+* [Artificial intelligence](data/articles/artificial-intelligence.89f9a699/README.md) `technologyreview.com`
 
 ## 2026-08-17
 
