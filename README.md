@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-10 18:20:25**
+Last Updated **2026-09-11 06:37:59**
+
+## 2026-09-11
+
+* [From by-product to eco-powerhouse: Why  Sri Lanka’s coir industry matters more than ever](data/articles/from-by-product-to-eco-p.7cb2a5aa/README.md) `ft.lk`
+* [Breakthrough or expensive bottleneck?](data/articles/breakthrough-or-expensiv.edfe9fa9/README.md) `ft.lk`
+* [Justice delayed is justice denied](data/articles/justice-delayed-is-justi.53651b3d/README.md) `ft.lk`
+* [Sri Lanka at UNHRC: From numbers to healing](data/articles/sri-lanka-at-unhrc-from.222a5c50/README.md) `ft.lk`
+* [IPE invites Sri Lanka to support launch of Inequality (IPI) at United Nations General Assembly](data/articles/ipe-invites-sri-lanka-to.4d424f61/README.md) `ft.lk`
 
 ## 2026-09-10
 
