@@ -2,15 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-11 06:37:59**
+Last Updated **2026-09-11 18:18:54**
 
 ## 2026-09-11
 
+* [NATO ties: A gain with one, a loss  with others](data/articles/nato-ties-a-gain-with-on.812c4fee/README.md) `dailymirror.lk`
+* [Iran war, a sidelined UN and 9/11 at 25](data/articles/iran-war-a-sidelined-un.ec76e7a2/README.md) `dailymirror.lk`
+* [Lighter school bags in future?](data/articles/lighter-school-bags-in-f.0a81b391/README.md) `dailymirror.lk`
 * [From by-product to eco-powerhouse: Why  Sri Lanka’s coir industry matters more than ever](data/articles/from-by-product-to-eco-p.7cb2a5aa/README.md) `ft.lk`
 * [Breakthrough or expensive bottleneck?](data/articles/breakthrough-or-expensiv.edfe9fa9/README.md) `ft.lk`
 * [Justice delayed is justice denied](data/articles/justice-delayed-is-justi.53651b3d/README.md) `ft.lk`
 * [Sri Lanka at UNHRC: From numbers to healing](data/articles/sri-lanka-at-unhrc-from.222a5c50/README.md) `ft.lk`
 * [IPE invites Sri Lanka to support launch of Inequality (IPI) at United Nations General Assembly](data/articles/ipe-invites-sri-lanka-to.4d424f61/README.md) `ft.lk`
+* [IPE invites Sri Lanka to support launch of International Panel for Inequality at UN General Assembly](data/articles/ipe-invites-sri-lanka-to.b4b8db92/README.md) `ft.lk`
 
 ## 2026-09-10
 
