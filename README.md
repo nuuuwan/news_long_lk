@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-12 06:36:50**
+Last Updated **2026-09-12 18:15:37**
+
+## 2026-09-12
+
+* [How do American  sanctions on  Iran affect  Sri Lanka?](data/articles/how-do-american-sanction.dafe3321/README.md) `dailymirror.lk`
+* [The Indian Defence Minister’s visit -- what happened  in-between](data/articles/the-indian-defence-minis.4067327a/README.md) `dailymirror.lk`
+* [Police Must Follow Their Own Instructions](data/articles/police-must-follow-their.79815794/README.md) `dailymirror.lk`
 
 ## 2026-09-11
 
