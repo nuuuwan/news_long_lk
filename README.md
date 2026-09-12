@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-11 18:18:54**
+Last Updated **2026-09-12 06:36:50**
 
 ## 2026-09-11
 
+* [Centre-right: Wrong about everything](data/articles/centre-right-wrong-about.2e5d6861/README.md) `ft.lk`
+* [Accelerating global warming: After Nepal where is next?](data/articles/accelerating-global-warm.5d319e52/README.md) `ft.lk`
+* [From canoe to blue economy: What history teaches us about future](data/articles/from-canoe-to-blue-econo.71b8aca9/README.md) `ft.lk`
+* [AGI: From Excel assistance to new world of human capability](data/articles/agi-from-excel-assistanc.a872be40/README.md) `ft.lk`
+* [Industrial policy for Sri Lanka: New legitimacy, old debates](data/articles/industrial-policy-for-sr.03d18b34/README.md) `ft.lk`
 * [NATO ties: A gain with one, a loss  with others](data/articles/nato-ties-a-gain-with-on.812c4fee/README.md) `dailymirror.lk`
 * [Iran war, a sidelined UN and 9/11 at 25](data/articles/iran-war-a-sidelined-un.ec76e7a2/README.md) `dailymirror.lk`
 * [Lighter school bags in future?](data/articles/lighter-school-bags-in-f.0a81b391/README.md) `dailymirror.lk`
