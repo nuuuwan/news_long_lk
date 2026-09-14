@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-13 18:15:50**
+Last Updated **2026-09-14 06:45:31**
+
+## 2026-09-14
+
+* [Riza Yehiya: Make family sustainable to arrest worrisome climate change](data/articles/riza-yehiya-make-family.abf56c4f/README.md) `ft.lk`
+* [Can a campaign build a culture of tax compliance?](data/articles/can-a-campaign-build-a-c.ae57cd37/README.md) `ft.lk`
+* [Securing the American cargo corridor: Why Sri Lanka’s maritime window demands radical structural reform](data/articles/securing-the-american-ca.09503cea/README.md) `ft.lk`
+* [BIMSTEC, maritime Sri Lanka and the missing link in policy thinking](data/articles/bimstec-maritime-sri-lan.ab22970a/README.md) `ft.lk`
 
 ## 2026-09-12
 
