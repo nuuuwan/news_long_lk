@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-14 06:45:31**
+Last Updated **2026-09-14 18:21:13**
 
 ## 2026-09-14
 
+* [“We don’t believe in becoming a power broker”-Dilith Jayaweera, Leader of Sarvajana Balaya](data/articles/we-don-t-believe-in-bec.e12009a8/README.md) `dailymirror.lk`
+* [Political revenge or long overdue justice?](data/articles/political-revenge-or-lon.0e422d3d/README.md) `dailymirror.lk`
+* [Beyond the Mugshots: The Real Scandal of SriLankan Airlines](data/articles/beyond-the-mugshots-the.27939b0b/README.md) `dailymirror.lk`
+* [Private Sector Must Follow  Government Lead on Single-Use Plastic Bottles](data/articles/private-sector-must-foll.54a13e24/README.md) `dailymirror.lk`
+* [The Power of Good Vibes](data/articles/the-power-of-good-vibes.3de872d4/README.md) `dailymirror.lk`
 * [Riza Yehiya: Make family sustainable to arrest worrisome climate change](data/articles/riza-yehiya-make-family.abf56c4f/README.md) `ft.lk`
 * [Can a campaign build a culture of tax compliance?](data/articles/can-a-campaign-build-a-c.ae57cd37/README.md) `ft.lk`
 * [Securing the American cargo corridor: Why Sri Lanka’s maritime window demands radical structural reform](data/articles/securing-the-american-ca.09503cea/README.md) `ft.lk`
