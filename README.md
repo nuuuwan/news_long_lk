@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-14 18:21:13**
+Last Updated **2026-09-15 06:40:55**
+
+## 2026-09-15
+
+* [Let’s not forget the Ditwah displaced](data/articles/let-s-not-forget-the-dit.1a69501a/README.md) `ft.lk`
+* [Beyond judicial tenure: Retaining experience while reforming the justice system](data/articles/beyond-judicial-tenure-r.faf1ac99/README.md) `ft.lk`
+* [Customs Paperless Declaration from 1 October 2026 Opportunity for genuine Customs modernisation and revenue protection](data/articles/customs-paperless-declar.9b5e1a13/README.md) `ft.lk`
+* [Taxing away our advantage: You cannot tax what you cannot see](data/articles/taxing-away-our-advantag.910bdeec/README.md) `ft.lk`
 
 ## 2026-09-14
 
