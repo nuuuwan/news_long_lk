@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-15 06:40:55**
+Last Updated **2026-09-15 18:19:11**
 
 ## 2026-09-15
 
+* [The international audience doesn’t understand the scale, brutality and complexity of Sri Lanka’s armed conflict - Gen. Shavendra Silva](data/articles/the-international-audien.c208e069/README.md) `dailymirror.lk`
+* [The Delhi BRICS’ summit: Discussing key Global South issues while managing contradictions](data/articles/the-delhi-brics-summit-d.753f8fd9/README.md) `dailymirror.lk`
 * [Let’s not forget the Ditwah displaced](data/articles/let-s-not-forget-the-dit.1a69501a/README.md) `ft.lk`
 * [Beyond judicial tenure: Retaining experience while reforming the justice system](data/articles/beyond-judicial-tenure-r.faf1ac99/README.md) `ft.lk`
 * [Customs Paperless Declaration from 1 October 2026 Opportunity for genuine Customs modernisation and revenue protection](data/articles/customs-paperless-declar.9b5e1a13/README.md) `ft.lk`
