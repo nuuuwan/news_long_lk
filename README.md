@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-16 06:40:27**
+Last Updated **2026-09-16 18:20:54**
+
+## 2026-09-16
+
+* [Geneva double standard: Why Sri Lanka remains in UNHRC crosshairs](data/articles/geneva-double-standard-w.dd07415e/README.md) `ft.lk`
+* [Sri Lanka defeated terrorism. It must not let impunity survive the peace](data/articles/sri-lanka-defeated-terro.2b843a11/README.md) `ft.lk`
+* [Getting Ambulatory Curative Primary Care system right in Sri Lanka](data/articles/getting-ambulatory-curat.67c94e29/README.md) `ft.lk`
+* [Beyond the IMF: The jigsaw puzzle of a production-based economy](data/articles/beyond-the-imf-the-jigsa.21dcd8fe/README.md) `ft.lk`
+* [Colombo  Port City  positive  over thaw between Indian PM Modi and Chinese President  at BRICS summit -  Thulci Aluwihare, Deputy Managing Director,  CHEC Port City Colombo](data/articles/colombo-port-city-positi.eaed4f60/README.md) `dailymirror.lk`
+* [Namal Rajapaksa’s Airbus scandal:  SRI LANKAN  POLITICAL SCRIPT  OF MAKING  A HERO  OUT OF A  CROOK](data/articles/namal-rajapaksa-s-airbus.bf235b12/README.md) `dailymirror.lk`
+* [Why is system change  so tricky and elusive?](data/articles/why-is-system-change-so.87b9ccfd/README.md) `dailymirror.lk`
+* [Children’s Homes & Donations:  - The Wall Between Donors and Children](data/articles/children-s-homes-donatio.b27c55dd/README.md) `dailymirror.lk`
 
 ## 2026-09-15
 
