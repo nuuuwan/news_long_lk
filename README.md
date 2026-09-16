@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-15 18:19:11**
+Last Updated **2026-09-16 06:40:27**
 
 ## 2026-09-15
 
+* [Execution-Led Adaptability Is the New Supply Chain Advantage](data/articles/execution-led-adaptabili.03278a89/README.md) `hbr.org`
 * [The international audience doesn’t understand the scale, brutality and complexity of Sri Lanka’s armed conflict - Gen. Shavendra Silva](data/articles/the-international-audien.c208e069/README.md) `dailymirror.lk`
 * [The Delhi BRICS’ summit: Discussing key Global South issues while managing contradictions](data/articles/the-delhi-brics-summit-d.753f8fd9/README.md) `dailymirror.lk`
 * [Let’s not forget the Ditwah displaced](data/articles/let-s-not-forget-the-dit.1a69501a/README.md) `ft.lk`
