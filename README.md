@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-16 18:20:54**
+Last Updated **2026-09-17 06:40:24**
+
+## 2026-09-17
+
+* [Country of origin is a reorder gate, not a static product field](data/articles/country-of-origin-is-a-r.aa7f5aa7/README.md) `ft.lk`
+* [FCCISL hails National Business Facilitation Centre](data/articles/fccisl-hails-national-bu.2bd53264/README.md) `ft.lk`
+* [Chasing the next $3b: What it will take for Sri Lanka’s apparel sector to get there](data/articles/chasing-the-next-3b-what.986c25eb/README.md) `ft.lk`
+* [US commitment to Sri Lanka at its highest level](data/articles/us-commitment-to-sri-lan.bc069361/README.md) `ft.lk`
+* [China’s development philosophy resonates across Global South at BRICS Summit](data/articles/china-s-development-phil.2d2b34aa/README.md) `ft.lk`
 
 ## 2026-09-16
 
