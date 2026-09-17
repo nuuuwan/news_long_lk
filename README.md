@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-17 06:40:24**
+Last Updated **2026-09-17 18:20:30**
 
 ## 2026-09-17
 
+* [The Opposition:  NPP’s greatest asset](data/articles/the-opposition-npp-s-gre.e9b1a80e/README.md) `dailymirror.lk`
+* [Dr. Hans, where is the “People’s Digital Forum?”](data/articles/dr-hans-where-is-the-peo.4392d7b0/README.md) `dailymirror.lk`
+* [Lethal Autonomous Weapons, an increasing threat to humans](data/articles/lethal-autonomous-weapon.326e5c8b/README.md) `dailymirror.lk`
 * [Country of origin is a reorder gate, not a static product field](data/articles/country-of-origin-is-a-r.aa7f5aa7/README.md) `ft.lk`
 * [FCCISL hails National Business Facilitation Centre](data/articles/fccisl-hails-national-bu.2bd53264/README.md) `ft.lk`
 * [Chasing the next $3b: What it will take for Sri Lanka’s apparel sector to get there](data/articles/chasing-the-next-3b-what.986c25eb/README.md) `ft.lk`
