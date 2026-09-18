@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-17 18:20:30**
+Last Updated **2026-09-18 06:40:44**
+
+## 2026-09-18
+
+* [When farmers become poor and poor households turn to farming](data/articles/when-farmers-become-poor.886fafd5/README.md) `ft.lk`
+* [Beyond the dollar: BRICS and the architecture of the next global economy](data/articles/beyond-the-dollar-brics.6e3b2ba3/README.md) `ft.lk`
+* [Sri Lanka can become an energy-security hub — if it stops thinking like a supply-chain endpoint](data/articles/sri-lanka-can-become-an.12605560/README.md) `ft.lk`
+* [Oil market disruptions: Is formula-based pricing the solution?](data/articles/oil-market-disruptions-i.93b5f9eb/README.md) `ft.lk`
+* [7 sad AI-conomic truths you may not want to know](data/articles/7-sad-ai-conomic-truths.f3dcbdbc/README.md) `ft.lk`
 
 ## 2026-09-17
 
+* [MasterChef Sri Lanka Judges Clarify the Context Behind the Challenge](data/articles/masterchef-sri-lanka-jud.b4c319f0/README.md) `dailymirror.lk`
 * [The Opposition:  NPP’s greatest asset](data/articles/the-opposition-npp-s-gre.e9b1a80e/README.md) `dailymirror.lk`
 * [Dr. Hans, where is the “People’s Digital Forum?”](data/articles/dr-hans-where-is-the-peo.4392d7b0/README.md) `dailymirror.lk`
 * [Lethal Autonomous Weapons, an increasing threat to humans](data/articles/lethal-autonomous-weapon.326e5c8b/README.md) `dailymirror.lk`
