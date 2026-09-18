@@ -2,15 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-18 06:40:44**
+Last Updated **2026-09-18 18:19:56**
 
 ## 2026-09-18
 
 * [When farmers become poor and poor households turn to farming](data/articles/when-farmers-become-poor.886fafd5/README.md) `ft.lk`
 * [Beyond the dollar: BRICS and the architecture of the next global economy](data/articles/beyond-the-dollar-brics.6e3b2ba3/README.md) `ft.lk`
+* [“Sri Lanka is experiencing heavy weather in Geneva as a result of govt.’s broken promises”  Prof. G. L Peiris, Former Minister](data/articles/sri-lanka-is-experienci.508c0b86/README.md) `dailymirror.lk`
 * [Sri Lanka can become an energy-security hub — if it stops thinking like a supply-chain endpoint](data/articles/sri-lanka-can-become-an.12605560/README.md) `ft.lk`
 * [Oil market disruptions: Is formula-based pricing the solution?](data/articles/oil-market-disruptions-i.93b5f9eb/README.md) `ft.lk`
 * [7 sad AI-conomic truths you may not want to know](data/articles/7-sad-ai-conomic-truths.f3dcbdbc/README.md) `ft.lk`
+* [A nation powered by nature: Sri Lanka’s first battery energy storage system commissioning turns new chapter in energy journey](data/articles/a-nation-powered-by-natu.e7cd15eb/README.md) `dailymirror.lk`
 
 ## 2026-09-17
 
