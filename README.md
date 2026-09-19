@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-19 06:38:06**
+Last Updated **2026-09-19 18:16:51**
+
+## 2026-09-19
+
+* [Climate change, food security and need for  communication](data/articles/climate-change-food-secu.ed54612e/README.md) `dailymirror.lk`
+* [Robert Knox: Chronicler par excellence](data/articles/robert-knox-chronicler-p.5d16e017/README.md) `dailymirror.lk`
+* [Houthis at wailing gate:  Iran war’s turning point](data/articles/houthis-at-wailing-gate.266b23f1/README.md) `dailymirror.lk`
+* [Cricket lies dying as politics and cash rule the roost](data/articles/cricket-lies-dying-as-po.2c134b21/README.md) `dailymirror.lk`
+* [Prosecuting a social activist for stating what WHO said?](data/articles/prosecuting-a-social-act.61e9f153/README.md) `dailymirror.lk`
 
 ## 2026-09-18
 
