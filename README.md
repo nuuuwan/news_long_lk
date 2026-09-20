@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-20 06:48:01**
+Last Updated **2026-09-20 18:16:15**
 
 ## 2026-09-19
 
@@ -405,6 +405,7 @@ Last Updated **2026-09-20 06:48:01**
 * [Safeguarding Sri Lanka’s trade integrity](data/articles/safeguarding-sri-lanka-s.d304383e/README.md) `ft.lk`
 * [Getting the new Quarterly Tax Instalment formula right](data/articles/getting-the-new-quarterl.aee3b33d/README.md) `ft.lk`
 * [These startups are chasing the next big thing in LLMs](data/articles/these-startups-are-chasi.6859719f/README.md) `technologyreview.com`
+* [Artificial intelligence](data/articles/artificial-intelligence.6859719f/README.md) `technologyreview.com`
 * [AI for science needs reasoning, not just data](data/articles/ai-for-science-needs-rea.20c95f3f/README.md) `technologyreview.com`
 
 ## 2026-08-09
