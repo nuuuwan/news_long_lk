@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-21 06:44:55**
+Last Updated **2026-09-21 18:18:22**
+
+## 2026-09-21
+
+* [Dangerous,  shifting world](data/articles/dangerous-shifting-world.7b58ed82/README.md) `dailymirror.lk`
+* [When common sense crosses a border](data/articles/when-common-sense-crosse.1177e8e6/README.md) `dailymirror.lk`
+* [Extreme weather alerts:Are we ready?](data/articles/extreme-weather-alerts-a.af8cca12/README.md) `dailymirror.lk`
 
 ## 2026-09-19
 
