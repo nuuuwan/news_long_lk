@@ -2,11 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-22 06:39:43**
+Last Updated **2026-09-22 18:19:55**
 
 ## 2026-09-21
 
 * [How Kontoor’s Helly Hansen Acquisition Strategy Set the Stage for Success](data/articles/how-kontoor-s-helly-hans.6a639b8c/README.md) `hbr.org`
+* [Sri Lanka navigates path to implement  out-of-country voting](data/articles/sri-lanka-navigates-path.cc57e0e1/README.md) `dailymirror.lk`
 * [Dangerous,  shifting world](data/articles/dangerous-shifting-world.7b58ed82/README.md) `dailymirror.lk`
 * [When common sense crosses a border](data/articles/when-common-sense-crosse.1177e8e6/README.md) `dailymirror.lk`
 * [Extreme weather alerts:Are we ready?](data/articles/extreme-weather-alerts-a.af8cca12/README.md) `dailymirror.lk`
