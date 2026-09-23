@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-22 18:19:55**
+Last Updated **2026-09-23 06:40:02**
+
+## 2026-09-22
+
+* [The Intelligent Travel Program](data/articles/the-intelligent-travel-p.218eeb81/README.md) `hbr.org`
 
 ## 2026-09-21
 
