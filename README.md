@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-23 06:40:02**
+Last Updated **2026-09-23 18:21:04**
+
+## 2026-09-23
+
+* [Is Nature Finally Striking Back at Us?](data/articles/is-nature-finally-striki.8b0ce897/README.md) `dailymirror.lk`
+* [Easter Sunday Attack Verdict:  More a moment of reckoning than a closure](data/articles/easter-sunday-attack-ver.063dbca4/README.md) `dailymirror.lk`
+* [AKD’s two years and beyond](data/articles/akd-s-two-years-and-beyo.b69c9793/README.md) `dailymirror.lk`
+* [Easter Sunday attacks: People need to  know the truth](data/articles/easter-sunday-attacks-pe.5c224b93/README.md) `dailymirror.lk`
 
 ## 2026-09-22
 
