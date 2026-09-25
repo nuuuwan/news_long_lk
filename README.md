@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-25 06:40:26**
+Last Updated **2026-09-25 18:21:29**
+
+## 2026-09-25
+
+* [WHEN SILENCE STOPS BEING SAFE](data/articles/when-silence-stops-being.e9dfe8e9/README.md) `dailymirror.lk`
 
 ## 2026-09-24
 
