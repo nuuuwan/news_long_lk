@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-26 06:39:09**
+Last Updated **2026-09-26 18:17:32**
+
+## 2026-09-26
+
+* [Whither UN  sanctity when Trump and Netanyahu take the podium?](data/articles/whither-un-sanctity-when.40fe0f7d/README.md) `dailymirror.lk`
+* [Easter massacre – after seven years, the mystery continues](data/articles/easter-massacre-after-se.52c5df79/README.md) `dailymirror.lk`
+* [The pros and cons of mandatory seat belt law](data/articles/the-pros-and-cons-of-man.840ea5e8/README.md) `dailymirror.lk`
 
 ## 2026-09-25
 
