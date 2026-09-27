@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-27 06:50:03**
+Last Updated **2026-09-27 18:18:55**
 
 ## 2026-09-26
 
@@ -13,6 +13,7 @@ Last Updated **2026-09-27 06:50:03**
 ## 2026-09-25
 
 * [WHEN SILENCE STOPS BEING SAFE](data/articles/when-silence-stops-being.e9dfe8e9/README.md) `dailymirror.lk`
+* [Rainwater harvesting in Sri Lanka: How to start at home before the dry months](data/articles/rainwater-harvesting-in.35d590ea/README.md) `dailymirror.lk`
 
 ## 2026-09-24
 
