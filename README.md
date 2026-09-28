@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-28 06:49:33**
+Last Updated **2026-09-28 18:26:09**
+
+## 2026-09-28
+
+* [DS’s Astuteness, Delivered in JR’s Oratory: J. R. Spoke for Ceylon,  But Who Sent Him There?](data/articles/ds-s-astuteness-delivere.dafc11a1/README.md) `dailymirror.lk`
 
 ## 2026-09-26
 
