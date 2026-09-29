@@ -2,7 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-29 06:46:29**
+Last Updated **2026-09-29 18:25:37**
+
+## 2026-09-29
+
+* [Without internal  unity, Sri Lanka cannot navigate external turbulence-  former Singapore Foreign Minister](data/articles/without-internal-unity-s.0988ad1b/README.md) `dailymirror.lk`
+* [SC Determination on 22A:  A Law and Policy Critique](data/articles/sc-determination-on-22a.14ca2d88/README.md) `dailymirror.lk`
+* [Why Are Our Politicians So Corrupt?](data/articles/why-are-our-politicians.5eb9e9ed/README.md) `dailymirror.lk`
+* [Exhibition highlights surgeon’s good work](data/articles/exhibition-highlights-su.cabedb7d/README.md) `dailymirror.lk`
+* [Do not politicise the Anojan issue](data/articles/do-not-politicise-the-an.f832f5a7/README.md) `dailymirror.lk`
+* [Breaking Sri Lanka’s capital market ‘Chicken-and-Egg’ cycle: Why the time has come to act](data/articles/breaking-sri-lanka-s-cap.ce07b184/README.md) `ft.lk`
+* [The Maldives has a $ 20b question for Sri Lanka](data/articles/the-maldives-has-a-20b-q.4c676529/README.md) `ft.lk`
+* [Less generous, more credible? Rethinking Port City Colombo’s investment proposition](data/articles/less-generous-more-credi.5b4db42f/README.md) `ft.lk`
+* [SC determination on 22A: A law and policy critique](data/articles/sc-determination-on-22a.ea5a29f6/README.md) `ft.lk`
+* [Two years in office: Promises and performance](data/articles/two-years-in-office-prom.bd85d236/README.md) `ft.lk`
 
 ## 2026-09-28
 
