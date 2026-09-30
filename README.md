@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-30 06:48:44**
+Last Updated **2026-09-30 18:27:43**
 
 ## 2026-09-30
 
+* [The Overstretch Doctrine: The price of being everywhere](data/articles/the-overstretch-doctrine.9363e6d9/README.md) `dailymirror.lk`
+* [Sophistry, lineage, and class war](data/articles/sophistry-lineage-and-cl.dc2669a5/README.md) `ft.lk`
 * [Sri Lanka’s Budget process gives public too few opportunities to participate: Verité Research](data/articles/sri-lanka-s-budget-proce.1da44498/README.md) `ft.lk`
 * [Budget 2027: Time to review tax-free threshold for salaried taxpayers?](data/articles/budget-2027-time-to-revi.ac5541df/README.md) `ft.lk`
 * [IMF Staff statement: What counts as sustainable recovery?](data/articles/imf-staff-statement-what.ad099cab/README.md) `ft.lk`
