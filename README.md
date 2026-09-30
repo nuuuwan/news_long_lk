@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-29 18:25:37**
+Last Updated **2026-09-30 06:48:44**
+
+## 2026-09-30
+
+* [Sri Lanka’s Budget process gives public too few opportunities to participate: Verité Research](data/articles/sri-lanka-s-budget-proce.1da44498/README.md) `ft.lk`
+* [Budget 2027: Time to review tax-free threshold for salaried taxpayers?](data/articles/budget-2027-time-to-revi.ac5541df/README.md) `ft.lk`
+* [IMF Staff statement: What counts as sustainable recovery?](data/articles/imf-staff-statement-what.ad099cab/README.md) `ft.lk`
+* [Karu Jayasuriya at 86: Lesson of life in service](data/articles/karu-jayasuriya-at-86-le.438adb32/README.md) `ft.lk`
+* [Smarter solar planning: Why Sri Lanka must protect its hydraulic heritage before floating on agricultural waters](data/articles/smarter-solar-planning-w.427ad865/README.md) `ft.lk`
 
 ## 2026-09-29
 
@@ -47,6 +55,7 @@ Last Updated **2026-09-29 18:25:37**
 
 ## 2026-09-22
 
+* [Breathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.](data/articles/breathless-claims-about.d185f661/README.md) `technologyreview.com`
 * [The Intelligent Travel Program](data/articles/the-intelligent-travel-p.218eeb81/README.md) `hbr.org`
 
 ## 2026-09-21
