@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-01 06:55:53**
+Last Updated **2026-10-01 18:25:21**
 
 ## 2026-10-01
 
+* [SLFUW Celebrates  85th Anniversary](data/articles/slfuw-celebrates-85th-an.567f9ea5/README.md) `dailymirror.lk`
+* [Children’s rights: My day, my rights, my future](data/articles/children-s-rights-my-day.24554efc/README.md) `dailymirror.lk`
+* [Will any leader undo the 22A in future?](data/articles/will-any-leader-undo-the.dee0820f/README.md) `dailymirror.lk`
+* [Please Maintain Our Street Lights](data/articles/please-maintain-our-stre.c16662df/README.md) `dailymirror.lk`
+* [Quest for accountability should no longer lead to dead-ends](data/articles/quest-for-accountability.cacbe355/README.md) `dailymirror.lk`
+* [81.25% of workers reported heat stress: Sri Lanka is still treating heat as weather](data/articles/81-25-of-workers-reporte.2c55e47b/README.md) `ft.lk`
 * [From relief to recovery: Rebuilding lives after Ditwah](data/articles/from-relief-to-recovery.07abb893/README.md) `ft.lk`
 * [Opposition’s strategic dilemmas, Easter massacre matrix](data/articles/opposition-s-strategic-d.ca1aac2c/README.md) `ft.lk`
 * [The expert shortage we are building](data/articles/the-expert-shortage-we-a.9e3fb54e/README.md) `ft.lk`
