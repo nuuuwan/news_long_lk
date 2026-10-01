@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-09-30 18:27:43**
+Last Updated **2026-10-01 06:55:53**
+
+## 2026-10-01
+
+* [From relief to recovery: Rebuilding lives after Ditwah](data/articles/from-relief-to-recovery.07abb893/README.md) `ft.lk`
+* [Opposition’s strategic dilemmas, Easter massacre matrix](data/articles/opposition-s-strategic-d.ca1aac2c/README.md) `ft.lk`
+* [The expert shortage we are building](data/articles/the-expert-shortage-we-a.9e3fb54e/README.md) `ft.lk`
+* [Rowing without a compass: Why Sri Lanka’s industries need a shared bearing](data/articles/rowing-without-a-compass.540a3ffc/README.md) `ft.lk`
 
 ## 2026-09-30
 
