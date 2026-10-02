@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-01 18:25:21**
+Last Updated **2026-10-02 06:45:49**
+
+## 2026-10-02
+
+* [World Children’s Day: We cannot say we didn’t know](data/articles/world-children-s-day-we.4e736de8/README.md) `ft.lk`
+* [Who controls the door? Who controls the narrative?](data/articles/who-controls-the-door-wh.1817cceb/README.md) `ft.lk`
+* [Sri Lanka’s economy is recovering, but its households are not](data/articles/sri-lanka-s-economy-is-r.a1d16c89/README.md) `ft.lk`
+* [Economic recovery, growth and challenge](data/articles/economic-recovery-growth.68b632aa/README.md) `ft.lk`
+* [Judging and judges](data/articles/judging-and-judges.18aa2390/README.md) `ft.lk`
 
 ## 2026-10-01
 
+* [Accelerating Agentic AI in Production to Drive Measurable Outcomes](data/articles/accelerating-agentic-ai.eb06128b/README.md) `hbr.org`
 * [SLFUW Celebrates  85th Anniversary](data/articles/slfuw-celebrates-85th-an.567f9ea5/README.md) `dailymirror.lk`
 * [Children’s rights: My day, my rights, my future](data/articles/children-s-rights-my-day.24554efc/README.md) `dailymirror.lk`
 * [Will any leader undo the 22A in future?](data/articles/will-any-leader-undo-the.dee0820f/README.md) `dailymirror.lk`
