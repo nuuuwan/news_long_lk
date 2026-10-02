@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-02 06:45:49**
+Last Updated **2026-10-02 18:24:01**
 
 ## 2026-10-02
 
+* [The Billionaire Distortion Field](data/articles/the-billionaire-distorti.f87211a8/README.md) `dailymirror.lk`
+* [A call to serve justice to children](data/articles/a-call-to-serve-justice.7e67c5b4/README.md) `dailymirror.lk`
 * [World Children’s Day: We cannot say we didn’t know](data/articles/world-children-s-day-we.4e736de8/README.md) `ft.lk`
 * [Who controls the door? Who controls the narrative?](data/articles/who-controls-the-door-wh.1817cceb/README.md) `ft.lk`
 * [Sri Lanka’s economy is recovering, but its households are not](data/articles/sri-lanka-s-economy-is-r.a1d16c89/README.md) `ft.lk`
