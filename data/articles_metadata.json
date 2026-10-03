@@ -1,5 +1,26 @@
 [
   {
+    "title": "Rethinking Adequate Housing  for All",
+    "url": "https://www.dailymirror.lk/opinion/Rethinking-Adequate-Housing-for-All/172-351689",
+    "ut": 1791008267.0,
+    "dir_path_unix": "data/articles/rethinking-adequate-hous.c6d30822",
+    "time_str_formatted": "11:47 AM, Saturday, October 03, 2026"
+  },
+  {
+    "title": "Is the JVP drifting away from non-alignment and supporting Palestine?",
+    "url": "https://www.dailymirror.lk/opinion/Is-the-JVP-drifting-away-from-non-alignment-and-supporting-Palestine/172-351688",
+    "ut": 1791006879.0,
+    "dir_path_unix": "data/articles/is-the-jvp-drifting-away.c58a78e4",
+    "time_str_formatted": "11:24 AM, Saturday, October 03, 2026"
+  },
+  {
+    "title": "Request to Extend the UBO Declaration Submission Deadline",
+    "url": "https://www.dailymirror.lk/opinion/Request-to-Extend-the-UBO-Declaration-Submission-Deadline/172-351687",
+    "ut": 1791006606.0,
+    "dir_path_unix": "data/articles/request-to-extend-the-ub.70c01b47",
+    "time_str_formatted": "11:20 AM, Saturday, October 03, 2026"
+  },
+  {
     "title": "Human Rights Commission has its say on Protection of the State from Terrorism Bill",
     "url": "https://www.ft.lk/opinion/Human-Rights-Commission-has-its-say-on-Protection-of-the-State-from-Terrorism-Bill/14-798137",
     "ut": 1790967271.0,
@@ -1566,6 +1587,13 @@
     "ut": 1787790600.0,
     "dir_path_unix": "data/articles/is-slate-auto-s-new-elec.6aeb2012",
     "time_str_formatted": "06:00 AM, Thursday, August 27, 2026"
+  },
+  {
+    "title": "The underlying models had been rewarded for cheating and communicating with each other, a new OpenAI report finds.",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "ut": 1787736600.0,
+    "dir_path_unix": "data/articles/the-underlying-models-ha.db5b8f42",
+    "time_str_formatted": "03:00 PM, Wednesday, August 26, 2026"
   },
   {
     "title": "The inside story on why OpenAI agents hacked Hugging Face",

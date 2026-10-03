@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-03 06:42:29**
+Last Updated **2026-10-03 19:49:18**
 
 ## 2026-10-03
 
+* [Rethinking Adequate Housing  for All](data/articles/rethinking-adequate-hous.c6d30822/README.md) `dailymirror.lk`
+* [Is the JVP drifting away from non-alignment and supporting Palestine?](data/articles/is-the-jvp-drifting-away.c58a78e4/README.md) `dailymirror.lk`
+* [Request to Extend the UBO Declaration Submission Deadline](data/articles/request-to-extend-the-ub.70c01b47/README.md) `dailymirror.lk`
 * [Human Rights Commission has its say on Protection of the State from Terrorism Bill](data/articles/human-rights-commission.94307357/README.md) `ft.lk`
 * [Dhamma and expansion of human realm: A reflection on modern science, demographics, and Samsaric liberation](data/articles/dhamma-and-expansion-of.ad400dbc/README.md) `ft.lk`
 * [Opposition record: Commentary vs. reality](data/articles/opposition-record-commen.ea29342d/README.md) `ft.lk`
@@ -326,6 +329,7 @@ Last Updated **2026-10-03 06:42:29**
 
 ## 2026-08-26
 
+* [The underlying models had been rewarded for cheating and communicating with each other, a new OpenAI report finds.](data/articles/the-underlying-models-ha.db5b8f42/README.md) `technologyreview.com`
 * [The inside story on why OpenAI agents hacked Hugging Face](data/articles/the-inside-story-on-why.db5b8f42/README.md) `technologyreview.com`
 * [Amendments and judges: Random thoughts](data/articles/amendments-and-judges-ra.456e7d67/README.md) `ft.lk`
 * [Sri Lanka’s inflation target review: Case for caution](data/articles/sri-lanka-s-inflation-ta.f2ee7f1f/README.md) `ft.lk`
