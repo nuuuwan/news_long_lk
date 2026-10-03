@@ -2,11 +2,22 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-02 18:24:01**
+Last Updated **2026-10-03 06:42:29**
+
+## 2026-10-03
+
+* [Human Rights Commission has its say on Protection of the State from Terrorism Bill](data/articles/human-rights-commission.94307357/README.md) `ft.lk`
+* [Dhamma and expansion of human realm: A reflection on modern science, demographics, and Samsaric liberation](data/articles/dhamma-and-expansion-of.ad400dbc/README.md) `ft.lk`
+* [Opposition record: Commentary vs. reality](data/articles/opposition-record-commen.ea29342d/README.md) `ft.lk`
+* [Wealth, not treasure. Rethinking wealth creation, from indifference to collaboration](data/articles/wealth-not-treasure-reth.11b2f728/README.md) `ft.lk`
+* [Sri Lanka’s next test: Balancing recovery with democratic integrity](data/articles/sri-lanka-s-next-test-ba.afa1e784/README.md) `ft.lk`
 
 ## 2026-10-02
 
+* [Your Workforce Isn’t Fighting AI. It’s Drawing the Blueprint for It.](data/articles/your-workforce-isn-t-fig.97c00a14/README.md) `hbr.org`
 * [The Billionaire Distortion Field](data/articles/the-billionaire-distorti.f87211a8/README.md) `dailymirror.lk`
+* [Investment climate: Sri Lanka cannot afford mixed signals](data/articles/investment-climate-sri-l.1df00f7a/README.md) `dailymirror.lk`
+* [US troops leave Iraq: A sovereignty party without sovereignty](data/articles/us-troops-leave-iraq-a-s.37666402/README.md) `dailymirror.lk`
 * [A call to serve justice to children](data/articles/a-call-to-serve-justice.7e67c5b4/README.md) `dailymirror.lk`
 * [World Children’s Day: We cannot say we didn’t know](data/articles/world-children-s-day-we.4e736de8/README.md) `ft.lk`
 * [Who controls the door? Who controls the narrative?](data/articles/who-controls-the-door-wh.1817cceb/README.md) `ft.lk`
