@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-05 06:52:01**
+Last Updated **2026-10-05 18:26:55**
 
 ## 2026-10-05
 
+* [A Peacebuilding Response to the Anojan Case and  Thileepan Memorial](data/articles/a-peacebuilding-response.dd9c3bf4/README.md) `dailymirror.lk`
+* [Laws that Shackle our Economy](data/articles/laws-that-shackle-our-ec.5426a8e6/README.md) `dailymirror.lk`
+* [New buses, old habits](data/articles/new-buses-old-habits.d7620188/README.md) `dailymirror.lk`
+* [Colombo Book fair, a book lovers’ paradise](data/articles/colombo-book-fair-a-book.da5739cb/README.md) `dailymirror.lk`
 * [From geography to talent: What will make nations great in the new world order?](data/articles/from-geography-to-talent.116eddbd/README.md) `ft.lk`
 * [Human edge in the age of AI: How purposeful leadership can strengthen our humanness](data/articles/human-edge-in-the-age-of.35d5d426/README.md) `ft.lk`
 * [Budget 2027 must go looking for earnings,  not lenders: FTZMA’s thoughts for Budget 2027](data/articles/budget-2027-must-go-look.36cbe84d/README.md) `ft.lk`
