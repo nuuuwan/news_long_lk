@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-04 19:56:52**
+Last Updated **2026-10-05 06:52:01**
+
+## 2026-10-05
+
+* [From geography to talent: What will make nations great in the new world order?](data/articles/from-geography-to-talent.116eddbd/README.md) `ft.lk`
+* [Human edge in the age of AI: How purposeful leadership can strengthen our humanness](data/articles/human-edge-in-the-age-of.35d5d426/README.md) `ft.lk`
+* [Budget 2027 must go looking for earnings,  not lenders: FTZMA’s thoughts for Budget 2027](data/articles/budget-2027-must-go-look.36cbe84d/README.md) `ft.lk`
+* [Solar industry at risk: New policy undermines progress on energy security](data/articles/solar-industry-at-risk-n.3e853b68/README.md) `ft.lk`
+* [Major General Milinda Peiris and KDU saga: Setting up university as task “Beyond Rank”](data/articles/major-general-milinda-pe.45fbb48d/README.md) `ft.lk`
 
 ## 2026-10-03
 
