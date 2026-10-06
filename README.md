@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-06 06:45:56**
+Last Updated **2026-10-06 18:23:12**
 
 ## 2026-10-06
 
+* [If the Sri Lankan  government is willing to open the door  they will know the wisdom I am carrying - Jerome Fernando](data/articles/if-the-sri-lankan-govern.8e082aa7/README.md) `dailymirror.lk`
+* [What flight  FZ1073  means for the  Abraham Accords  and for Sri Lanka](data/articles/what-flight-fz1073-means.de625fcf/README.md) `dailymirror.lk`
+* [Gen Z reshapes political change across the world](data/articles/gen-z-reshapes-political.3f85702d/README.md) `dailymirror.lk`
+* [Generic vs. brand name prescriptions: Who benefits?](data/articles/generic-vs-brand-name-pr.71ca4815/README.md) `dailymirror.lk`
+* [NPP’s dilemma over the PTA](data/articles/npp-s-dilemma-over-the-p.26dd9cde/README.md) `dailymirror.lk`
 * [‘India Calling’: Sri Lanka businesses sees new opportunities, sharper challenges in India](data/articles/india-calling-sri-lanka.2c7f6a26/README.md) `ft.lk`
 * [Deal of strategic necessity: What EU’s trade agreement with Delhi reveals about its new approach to India](data/articles/deal-of-strategic-necess.276087b4/README.md) `ft.lk`
 * [Sri Lankan consumers expect to spend more, but becoming more deliberate about choices: Boston Consulting Group](data/articles/sri-lankan-consumers-exp.93fc6dbc/README.md) `ft.lk`
@@ -47,6 +52,7 @@ Last Updated **2026-10-06 06:45:56**
 * [Sri Lanka’s economy is recovering, but its households are not](data/articles/sri-lanka-s-economy-is-r.a1d16c89/README.md) `ft.lk`
 * [Economic recovery, growth and challenge](data/articles/economic-recovery-growth.68b632aa/README.md) `ft.lk`
 * [Judging and judges](data/articles/judging-and-judges.18aa2390/README.md) `ft.lk`
+* [Artificial intelligence](data/articles/artificial-intelligence.67142250/README.md) `technologyreview.com`
 
 ## 2026-10-01
 
