@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-05 18:26:55**
+Last Updated **2026-10-06 06:45:56**
+
+## 2026-10-06
+
+* [‘India Calling’: Sri Lanka businesses sees new opportunities, sharper challenges in India](data/articles/india-calling-sri-lanka.2c7f6a26/README.md) `ft.lk`
+* [Deal of strategic necessity: What EU’s trade agreement with Delhi reveals about its new approach to India](data/articles/deal-of-strategic-necess.276087b4/README.md) `ft.lk`
+* [Sri Lankan consumers expect to spend more, but becoming more deliberate about choices: Boston Consulting Group](data/articles/sri-lankan-consumers-exp.93fc6dbc/README.md) `ft.lk`
+* [Be responsive](data/articles/be-responsive.780e4637/README.md) `ft.lk`
+* [PR Wire Sri Lanka ranked among ‘Global Top 300’ PR Consultancies by PRovoke Media](data/articles/pr-wire-sri-lanka-ranked.88146686/README.md) `ft.lk`
 
 ## 2026-10-05
 
