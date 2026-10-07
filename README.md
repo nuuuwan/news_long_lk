@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-06 18:23:12**
+Last Updated **2026-10-07 06:49:53**
+
+## 2026-10-07
+
+* [Sri Lanka’s Counterterrorism Bill retains abusive powers](data/articles/sri-lanka-s-counterterro.bd280e52/README.md) `ft.lk`
+* [RCSS Report calls for stronger integration of technology into Sri Lanka’s maritime security framework](data/articles/rcss-report-calls-for-st.b67f35fd/README.md) `ft.lk`
+* [The turn of the Compass](data/articles/the-turn-of-the-compass.78ffdcb7/README.md) `ft.lk`
 
 ## 2026-10-06
 
