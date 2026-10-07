@@ -2,11 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-07 06:49:53**
+Last Updated **2026-10-07 18:26:47**
 
 ## 2026-10-07
 
+* [Statues of radicalisation and Statues of dynastism](data/articles/statues-of-radicalisatio.20c4cc01/README.md) `dailymirror.lk`
+* [A cancer patient’s struggle](data/articles/a-cancer-patient-s-strug.19b0a6d1/README.md) `dailymirror.lk`
+* [Are we compelled to buy accessories with a gas cylinder?](data/articles/are-we-compelled-to-buy.8ec10e15/README.md) `dailymirror.lk`
 * [Sri Lanka’s Counterterrorism Bill retains abusive powers](data/articles/sri-lanka-s-counterterro.bd280e52/README.md) `ft.lk`
+* [Sri Lanka's Counter terrorism Bill retains abusive powers says Human Rights Watch Asia](data/articles/sri-lanka-s-counter-terr.3fd58ffb/README.md) `ft.lk`
 * [RCSS Report calls for stronger integration of technology into Sri Lanka’s maritime security framework](data/articles/rcss-report-calls-for-st.b67f35fd/README.md) `ft.lk`
 * [The turn of the Compass](data/articles/the-turn-of-the-compass.78ffdcb7/README.md) `ft.lk`
 
