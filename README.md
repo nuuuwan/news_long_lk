@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-08 06:49:34**
+Last Updated **2026-10-08 18:26:33**
 
 ## 2026-10-08
 
+* [Current  global crisis a testing time for Sri Lanka –Dr. Saman Weerasinghe](data/articles/current-global-crisis-a.c55e2b97/README.md) `dailymirror.lk`
+* [Mild punishments may not break the cycle of sadistic university ragging](data/articles/mild-punishments-may-not.2ac41948/README.md) `dailymirror.lk`
+* [Is the Govt. trapped within its anti-corruption drive?](data/articles/is-the-govt-trapped-with.68d8046c/README.md) `dailymirror.lk`
+* [Urgent call to curb aggravating wildlife crimes](data/articles/urgent-call-to-curb-aggr.7b7091f6/README.md) `dailymirror.lk`
 * [Redesigning Sri Lanka’s tax incentives for the Pillar Two era](data/articles/redesigning-sri-lanka-s.8e63b8ba/README.md) `ft.lk`
 * [Hong Kong retains leading position as world’s freest economy](data/articles/hong-kong-retains-leadin.6b72336b/README.md) `ft.lk`
 * [Beyond access to information: How Sri Lanka’s RTI Commission became an access-to-justice forum](data/articles/beyond-access-to-informa.cff0c20e/README.md) `ft.lk`
