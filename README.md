@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-07 18:26:47**
+Last Updated **2026-10-08 06:49:34**
+
+## 2026-10-08
+
+* [Redesigning Sri Lanka’s tax incentives for the Pillar Two era](data/articles/redesigning-sri-lanka-s.8e63b8ba/README.md) `ft.lk`
+* [Hong Kong retains leading position as world’s freest economy](data/articles/hong-kong-retains-leadin.6b72336b/README.md) `ft.lk`
+* [Beyond access to information: How Sri Lanka’s RTI Commission became an access-to-justice forum](data/articles/beyond-access-to-informa.cff0c20e/README.md) `ft.lk`
+* [Ghost of Gnanasara haunts our republic](data/articles/ghost-of-gnanasara-haunt.2cb95099/README.md) `ft.lk`
+* [Govt. rejects Accord-13A-PCs, FSP-PSA launches resistance, AKD attempts black Bill](data/articles/govt-rejects-accord-13a.2cb25b02/README.md) `ft.lk`
 
 ## 2026-10-07
 
