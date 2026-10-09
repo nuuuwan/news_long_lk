@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-09 06:51:22**
+Last Updated **2026-10-09 18:25:05**
 
 ## 2026-10-09
 
+* [WHEN BIG TECH COMES TO TOWN](data/articles/when-big-tech-comes-to-t.e64d63bc/README.md) `dailymirror.lk`
 * [Rabies-free Sri Lanka: One health and vital role of veterinarians](data/articles/rabies-free-sri-lanka-on.343a3759/README.md) `ft.lk`
 * [Independence of Independent Director,  a key differentiator in Board effectiveness](data/articles/independence-of-independ.6c0149cc/README.md) `ft.lk`
 * [Over 30 trade unions oppose proposed tripartite management of EPF](data/articles/over-30-trade-unions-opp.5d77013f/README.md) `ft.lk`
@@ -14,6 +15,8 @@ Last Updated **2026-10-09 06:51:22**
 
 ## 2026-10-08
 
+* [October 7:  Lies and the licence for the genocide of Palestinians](data/articles/october-7-lies-and-the-l.ab48e417/README.md) `dailymirror.lk`
+* [Anti-Corruption  drive needs a bottoms-up approach as well](data/articles/anti-corruption-drive-ne.201eb3b0/README.md) `dailymirror.lk`
 * [Current  global crisis a testing time for Sri Lanka –Dr. Saman Weerasinghe](data/articles/current-global-crisis-a.c55e2b97/README.md) `dailymirror.lk`
 * [Mild punishments may not break the cycle of sadistic university ragging](data/articles/mild-punishments-may-not.2ac41948/README.md) `dailymirror.lk`
 * [Is the Govt. trapped within its anti-corruption drive?](data/articles/is-the-govt-trapped-with.68d8046c/README.md) `dailymirror.lk`
