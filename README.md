@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-08 18:26:33**
+Last Updated **2026-10-09 06:51:22**
+
+## 2026-10-09
+
+* [Rabies-free Sri Lanka: One health and vital role of veterinarians](data/articles/rabies-free-sri-lanka-on.343a3759/README.md) `ft.lk`
+* [Independence of Independent Director,  a key differentiator in Board effectiveness](data/articles/independence-of-independ.6c0149cc/README.md) `ft.lk`
+* [Over 30 trade unions oppose proposed tripartite management of EPF](data/articles/over-30-trade-unions-opp.5d77013f/README.md) `ft.lk`
+* [Sri Lanka voted for ‘system change’. Two years on, the harder question is whether power itself has changed](data/articles/sri-lanka-voted-for-syst.8ffbd5b4/README.md) `ft.lk`
+* [Killing the golden goose –  Sri Lanka’s solar energy fiasco](data/articles/killing-the-golden-goose.6207eb74/README.md) `ft.lk`
 
 ## 2026-10-08
 
