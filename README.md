@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-09 18:25:05**
+Last Updated **2026-10-10 06:48:33**
 
 ## 2026-10-09
 
+* [Beyond coalition arithmetic:  Rethinking Opposition strategy after Aragalaya](data/articles/beyond-coalition-arithme.1dcbeab7/README.md) `ft.lk`
+* [Who owns new security laws?](data/articles/who-owns-new-security-la.069d1f00/README.md) `ft.lk`
+* [PTSA: Realistic options](data/articles/ptsa-realistic-options.0ccafd3a/README.md) `ft.lk`
+* [Decryption, disclosure and detention: What the Prevention of Organised Crimes Bill brings back](data/articles/decryption-disclosure-an.bd8a1839/README.md) `ft.lk`
+* [Health and Humanity Summit 2026: Humans to humans](data/articles/health-and-humanity-summ.c5b493b3/README.md) `ft.lk`
 * [WHEN BIG TECH COMES TO TOWN](data/articles/when-big-tech-comes-to-t.e64d63bc/README.md) `dailymirror.lk`
 * [Rabies-free Sri Lanka: One health and vital role of veterinarians](data/articles/rabies-free-sri-lanka-on.343a3759/README.md) `ft.lk`
 * [Independence of Independent Director,  a key differentiator in Board effectiveness](data/articles/independence-of-independ.6c0149cc/README.md) `ft.lk`
