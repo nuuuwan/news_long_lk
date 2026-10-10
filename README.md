@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-10 06:48:33**
+Last Updated **2026-10-10 18:22:08**
+
+## 2026-10-10
+
+* [2028: Sri Lanka’s 80th Year of Independence](data/articles/2028-sri-lanka-s-80th-ye.f8b1491c/README.md) `dailymirror.lk`
+* [Justice and controversy over monks’ attire in prison](data/articles/justice-and-controversy.8757d3af/README.md) `dailymirror.lk`
+* [Ragging in universities: Make students accountable from day one](data/articles/ragging-in-universities.e709e2ad/README.md) `dailymirror.lk`
 
 ## 2026-10-09
 
@@ -165,6 +171,7 @@ Last Updated **2026-10-10 06:48:33**
 ## 2026-09-21
 
 * [How Kontoor’s Helly Hansen Acquisition Strategy Set the Stage for Success](data/articles/how-kontoor-s-helly-hans.6a639b8c/README.md) `hbr.org`
+* [Artificial intelligence](data/articles/artificial-intelligence.aec46d55/README.md) `technologyreview.com`
 * [Sri Lanka navigates path to implement  out-of-country voting](data/articles/sri-lanka-navigates-path.cc57e0e1/README.md) `dailymirror.lk`
 * [Dangerous,  shifting world](data/articles/dangerous-shifting-world.7b58ed82/README.md) `dailymirror.lk`
 * [When common sense crosses a border](data/articles/when-common-sense-crosse.1177e8e6/README.md) `dailymirror.lk`

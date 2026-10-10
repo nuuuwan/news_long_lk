@@ -1,5 +1,26 @@
 [
   {
+    "title": "2028: Sri Lanka\u2019s 80th Year of Independence",
+    "url": "https://www.dailymirror.lk/opinion/2028-Sri-Lankas-80th-Year-of-Independence/172-352201",
+    "ut": 1791596628.0,
+    "dir_path_unix": "data/articles/2028-sri-lanka-s-80th-ye.f8b1491c",
+    "time_str_formatted": "07:13 AM, Saturday, October 10, 2026"
+  },
+  {
+    "title": "Justice and controversy over monks\u2019 attire in prison",
+    "url": "https://www.dailymirror.lk/opinion/Justice-and-controversy-over-monks-attire-in-prison/172-352199",
+    "ut": 1791596191.0,
+    "dir_path_unix": "data/articles/justice-and-controversy.8757d3af",
+    "time_str_formatted": "07:06 AM, Saturday, October 10, 2026"
+  },
+  {
+    "title": "Ragging in universities: Make students accountable from day one",
+    "url": "https://www.dailymirror.lk/opinion/Ragging-in-universities-Make-students-accountable-from-day-one/172-352198",
+    "ut": 1791595864.0,
+    "dir_path_unix": "data/articles/ragging-in-universities.e709e2ad",
+    "time_str_formatted": "07:01 AM, Saturday, October 10, 2026"
+  },
+  {
     "title": "Beyond coalition arithmetic:  Rethinking Opposition strategy after Aragalaya",
     "url": "https://www.ft.lk/columns/Beyond-coalition-arithmetic-Rethinking-Opposition-strategy-after-Aragalaya/4-798481",
     "ut": 1791568796.0,
@@ -775,6 +796,13 @@
     "ut": 1789995942.0,
     "dir_path_unix": "data/articles/how-kontoor-s-helly-hans.6a639b8c",
     "time_str_formatted": "06:35 PM, Monday, September 21, 2026"
+  },
+  {
+    "title": "Artificial intelligence",
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "ut": 1789957800.0,
+    "dir_path_unix": "data/articles/artificial-intelligence.aec46d55",
+    "time_str_formatted": "08:00 AM, Monday, September 21, 2026"
   },
   {
     "title": "Sri Lanka navigates path to implement  out-of-country voting",
