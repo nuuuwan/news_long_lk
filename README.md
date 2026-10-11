@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-11 06:53:53**
+Last Updated **2026-10-11 18:23:18**
 
 ## 2026-10-10
 
@@ -26,6 +26,7 @@ Last Updated **2026-10-11 06:53:53**
 
 ## 2026-10-08
 
+* [BRICS: the bridge for Sri Lanka to engage Global South widely](data/articles/brics-the-bridge-for-sri.56525296/README.md) `dailymirror.lk`
 * [October 7:  Lies and the licence for the genocide of Palestinians](data/articles/october-7-lies-and-the-l.ab48e417/README.md) `dailymirror.lk`
 * [Anti-Corruption  drive needs a bottoms-up approach as well](data/articles/anti-corruption-drive-ne.201eb3b0/README.md) `dailymirror.lk`
 * [Current  global crisis a testing time for Sri Lanka –Dr. Saman Weerasinghe](data/articles/current-global-crisis-a.c55e2b97/README.md) `dailymirror.lk`
