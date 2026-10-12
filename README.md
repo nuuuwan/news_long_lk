@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-11 18:23:18**
+Last Updated **2026-10-12 06:57:48**
+
+## 2026-10-12
+
+* [Alarming case of financial illiteracy amidst drive for financial inclusiveness and literacy](data/articles/alarming-case-of-financi.fc11c952/README.md) `ft.lk`
+* [Beyond transhipment: How Sri Lanka can monetise geopolitical disruption](data/articles/beyond-transhipment-how.6a003a26/README.md) `ft.lk`
+* [Sri Lanka, sanctioned tankers and international law](data/articles/sri-lanka-sanctioned-tan.bd71ae69/README.md) `ft.lk`
+* [President AKD urged to uphold humanitarian principle that ‘territorial sea is a boundary for exercising sovereignty and not for limiting humanitarian help’](data/articles/president-akd-urged-to-u.36ae0351/README.md) `ft.lk`
+* [Sri Lanka’s democracy and JVP’s ultimate test](data/articles/sri-lanka-s-democracy-an.161f3d83/README.md) `ft.lk`
 
 ## 2026-10-10
 
