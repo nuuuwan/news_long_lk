@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-12 18:44:39**
+Last Updated **2026-10-13 06:52:32**
+
+## 2026-10-13
+
+* [When responsible organisations remain silent](data/articles/when-responsible-organis.072bd128/README.md) `ft.lk`
+* [Nobel Peace Prize to Navanethem Pillay:  Reminder to Sri Lanka of unfinished commitments](data/articles/nobel-peace-prize-to-nav.adf96c70/README.md) `ft.lk`
+* [Stabilisation must lead to transformation;  A sovereign development fund as a way forward?](data/articles/stabilisation-must-lead.a2e97fa0/README.md) `ft.lk`
+* [The accountability gap: Global contrasts and responses to political corruption and crime](data/articles/the-accountability-gap-g.acc6d4e6/README.md) `ft.lk`
+* [Beyond better buses: Future of public transport in Sri Lanka](data/articles/beyond-better-buses-futu.897e5448/README.md) `ft.lk`
 
 ## 2026-10-12
 
