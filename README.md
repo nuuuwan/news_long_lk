@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-13 06:52:32**
+Last Updated **2026-10-13 18:28:56**
 
 ## 2026-10-13
 
+* [Will the PSC on ‘Black July’ be just another fruitless probe?](data/articles/will-the-psc-on-black-ju.a0f44a7c/README.md) `dailymirror.lk`
+* [Pakistan becomes more Middle Eastern than South Asian](data/articles/pakistan-becomes-more-mi.6c34c634/README.md) `dailymirror.lk`
+* [Polythene Abuse by Big Pharmacies!](data/articles/polythene-abuse-by-big-p.b800a0c0/README.md) `dailymirror.lk`
 * [When responsible organisations remain silent](data/articles/when-responsible-organis.072bd128/README.md) `ft.lk`
 * [Nobel Peace Prize to Navanethem Pillay:  Reminder to Sri Lanka of unfinished commitments](data/articles/nobel-peace-prize-to-nav.adf96c70/README.md) `ft.lk`
 * [Stabilisation must lead to transformation;  A sovereign development fund as a way forward?](data/articles/stabilisation-must-lead.a2e97fa0/README.md) `ft.lk`
@@ -133,6 +136,7 @@ Last Updated **2026-10-13 06:52:32**
 * [81.25% of workers reported heat stress: Sri Lanka is still treating heat as weather](data/articles/81-25-of-workers-reporte.2c55e47b/README.md) `ft.lk`
 * [From relief to recovery: Rebuilding lives after Ditwah](data/articles/from-relief-to-recovery.07abb893/README.md) `ft.lk`
 * [Opposition’s strategic dilemmas, Easter massacre matrix](data/articles/opposition-s-strategic-d.ca1aac2c/README.md) `ft.lk`
+* [Scientists hope it could be used to reconstruct a person’s inner thoughts, mental images, or even dreams.](data/articles/scientists-hope-it-could.e49f8e25/README.md) `technologyreview.com`
 * [The expert shortage we are building](data/articles/the-expert-shortage-we-a.9e3fb54e/README.md) `ft.lk`
 * [Rowing without a compass: Why Sri Lanka’s industries need a shared bearing](data/articles/rowing-without-a-compass.540a3ffc/README.md) `ft.lk`
 
