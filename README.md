@@ -2,10 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-14 06:38:21**
+Last Updated **2026-10-14 18:20:36**
 
 ## 2026-10-14
 
+* [“If we can enter into new IMF agreement for Economic Growth , we are ready to go” – President](data/articles/if-we-can-enter-into-ne.6be026bd/README.md) `dailymirror.lk`
 * [From remitters to investors: Sri Lanka needs an  investment engine](data/articles/from-remitters-to-invest.66012274/README.md) `ft.lk`
 * [IMF Seventh Review and moving forward](data/articles/imf-seventh-review-and-m.163dc7d1/README.md) `ft.lk`
 * [Sri Lanka tourism’s billion dollar problem: Record arrivals, shrinking value](data/articles/sri-lanka-tourism-s-bill.fb48f432/README.md) `ft.lk`
