@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-13 18:28:56**
+Last Updated **2026-10-14 06:38:21**
+
+## 2026-10-14
+
+* [From remitters to investors: Sri Lanka needs an  investment engine](data/articles/from-remitters-to-invest.66012274/README.md) `ft.lk`
+* [IMF Seventh Review and moving forward](data/articles/imf-seventh-review-and-m.163dc7d1/README.md) `ft.lk`
+* [Sri Lanka tourism’s billion dollar problem: Record arrivals, shrinking value](data/articles/sri-lanka-tourism-s-bill.fb48f432/README.md) `ft.lk`
+* [Digital skills development of South Asian women entrepreneurs: Opportunities and challenges for Sri Lanka](data/articles/digital-skills-developme.733b72e8/README.md) `ft.lk`
 
 ## 2026-10-13
 
+* [AI Takes the Call: The Experience Consumers Haven’t Seen Yet](data/articles/ai-takes-the-call-the-ex.b1c84adf/README.md) `hbr.org`
 * [Will the PSC on ‘Black July’ be just another fruitless probe?](data/articles/will-the-psc-on-black-ju.a0f44a7c/README.md) `dailymirror.lk`
 * [Pakistan becomes more Middle Eastern than South Asian](data/articles/pakistan-becomes-more-mi.6c34c634/README.md) `dailymirror.lk`
 * [Polythene Abuse by Big Pharmacies!](data/articles/polythene-abuse-by-big-p.b800a0c0/README.md) `dailymirror.lk`
