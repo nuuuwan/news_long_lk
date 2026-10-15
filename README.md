@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-15 06:37:12**
+Last Updated **2026-10-15 18:23:38**
 
 ## 2026-10-15
 
+* [Sri Lanka needs to gradually shift towards green transition](data/articles/sri-lanka-needs-to-gradu.a2404185/README.md) `dailymirror.lk`
+* [Does Navi Pillay deserve the Nobel Peace Prize?](data/articles/does-navi-pillay-deserve.d7664809/README.md) `dailymirror.lk`
+* [Eradicate ragging in universities](data/articles/eradicate-ragging-in-uni.e458f5da/README.md) `dailymirror.lk`
 * [From stability to prosperity: Building on President’s agenda](data/articles/from-stability-to-prospe.7f618a52/README.md) `ft.lk`
 * [Corruption: Promises and Results](data/articles/corruption-promises-and.ec299f03/README.md) `ft.lk`
 * [When hospital measurements go wrong, patient safety is at stake!](data/articles/when-hospital-measuremen.999d85bf/README.md) `ft.lk`
