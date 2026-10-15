@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-14 18:20:36**
+Last Updated **2026-10-15 06:37:12**
+
+## 2026-10-15
+
+* [From stability to prosperity: Building on President’s agenda](data/articles/from-stability-to-prospe.7f618a52/README.md) `ft.lk`
+* [Corruption: Promises and Results](data/articles/corruption-promises-and.ec299f03/README.md) `ft.lk`
+* [When hospital measurements go wrong, patient safety is at stake!](data/articles/when-hospital-measuremen.999d85bf/README.md) `ft.lk`
+* [Besieging Mahinda Rajapaksa,  Sri Lanka’s ethos, and SJB priorities](data/articles/besieging-mahinda-rajapa.adcf88ce/README.md) `ft.lk`
 
 ## 2026-10-14
 
+* [From Bedrock to Business: The Last Mile of Agentic AI](data/articles/from-bedrock-to-business.8d1d26e4/README.md) `hbr.org`
 * [“If we can enter into new IMF agreement for Economic Growth , we are ready to go” – President](data/articles/if-we-can-enter-into-ne.6be026bd/README.md) `dailymirror.lk`
 * [From remitters to investors: Sri Lanka needs an  investment engine](data/articles/from-remitters-to-invest.66012274/README.md) `ft.lk`
 * [IMF Seventh Review and moving forward](data/articles/imf-seventh-review-and-m.163dc7d1/README.md) `ft.lk`
