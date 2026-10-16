@@ -2,13 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-16 06:35:40**
+Last Updated **2026-10-16 18:22:13**
 
 ## 2026-10-16
 
+* [WHO HAS THE POWER TO DAMAGE A REPUTATION?](data/articles/who-has-the-power-to-dam.2b3a415f/README.md) `dailymirror.lk`
+* [Growth paradox – Numbers vs. benefits: Part I – Reforming public sector](data/articles/growth-paradox-numbers-v.57ebed98/README.md) `ft.lk`
+* [Labour reform: Key link to Sri Lanka’s next wave of FDI](data/articles/labour-reform-key-link-t.2d87d695/README.md) `ft.lk`
+* [Lanka’s renewable energy future: Are we solving real problems or undermining our own success?](data/articles/lanka-s-renewable-energy.2c8a0425/README.md) `ft.lk`
 * [Government must heed cry for fairer taxes and quell storm](data/articles/government-must-heed-cry.113568eb/README.md) `ft.lk`
 * [Key income tax deadlines before December ends](data/articles/key-income-tax-deadlines.6740c1ea/README.md) `ft.lk`
 * [Sri Lanka’s essential oil industry: Opportunities, challenges, and future directions in the global fragrance and flavour value chain](data/articles/sri-lanka-s-essential-oi.70dbdc67/README.md) `ft.lk`
+* [Another IMF Programme: What Is Missing in Sri Lanka’s Growth Story?](data/articles/another-imf-programme-wh.74a8ab85/README.md) `dailymirror.lk`
+* [Sanctions on ICC: Trump’s new world order is nasty, brutish, and dystopian](data/articles/sanctions-on-icc-trump-s.1fe4eb8f/README.md) `dailymirror.lk`
+* [Save Kavantissa the tusker!](data/articles/save-kavantissa-the-tusk.1de85a14/README.md) `dailymirror.lk`
+* [Katchatheevu Balancing Sovereignty, Livelihoods and Diplomacy](data/articles/katchatheevu-balancing-s.cdaa6374/README.md) `dailymirror.lk`
 
 ## 2026-10-15
 
