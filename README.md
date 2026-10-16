@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-15 18:23:38**
+Last Updated **2026-10-16 06:35:40**
+
+## 2026-10-16
+
+* [Government must heed cry for fairer taxes and quell storm](data/articles/government-must-heed-cry.113568eb/README.md) `ft.lk`
+* [Key income tax deadlines before December ends](data/articles/key-income-tax-deadlines.6740c1ea/README.md) `ft.lk`
+* [Sri Lanka’s essential oil industry: Opportunities, challenges, and future directions in the global fragrance and flavour value chain](data/articles/sri-lanka-s-essential-oi.70dbdc67/README.md) `ft.lk`
 
 ## 2026-10-15
 
