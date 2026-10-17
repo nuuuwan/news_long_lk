@@ -2,7 +2,11 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-17 06:37:32**
+Last Updated **2026-10-17 18:17:41**
+
+## 2026-10-17
+
+* [It Is Time to Unite the Sri Lankan  Sańgha](data/articles/it-is-time-to-unite-the.42c2ada4/README.md) `dailymirror.lk`
 
 ## 2026-10-16
 
