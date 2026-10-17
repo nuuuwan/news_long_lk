@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-16 18:22:13**
+Last Updated **2026-10-17 06:37:32**
 
 ## 2026-10-16
 
+* [Rooftop solar with battery storage: Significant growth potential not recognised](data/articles/rooftop-solar-with-batte.11b20b7f/README.md) `ft.lk`
+* [Mahaweli Doctrine 2.0: Sri Lanka in  an age of fragmented interdependence](data/articles/mahaweli-doctrine-2-0-sr.6f4d7ae5/README.md) `ft.lk`
+* [The German connection:  Why Sri Lanka needs it – and vice versa](data/articles/the-german-connection-wh.4be337c8/README.md) `ft.lk`
+* [Beyond grievance: Building avenues for coexistence](data/articles/beyond-grievance-buildin.4bae10fc/README.md) `ft.lk`
+* [Shadow economy, 5km blind spot, and unseen cost of inclusion](data/articles/shadow-economy-5km-blind.ae8c80f4/README.md) `ft.lk`
 * [WHO HAS THE POWER TO DAMAGE A REPUTATION?](data/articles/who-has-the-power-to-dam.2b3a415f/README.md) `dailymirror.lk`
 * [Growth paradox – Numbers vs. benefits: Part I – Reforming public sector](data/articles/growth-paradox-numbers-v.57ebed98/README.md) `ft.lk`
 * [Labour reform: Key link to Sri Lanka’s next wave of FDI](data/articles/labour-reform-key-link-t.2d87d695/README.md) `ft.lk`
@@ -13,6 +18,7 @@ Last Updated **2026-10-16 18:22:13**
 * [Government must heed cry for fairer taxes and quell storm](data/articles/government-must-heed-cry.113568eb/README.md) `ft.lk`
 * [Key income tax deadlines before December ends](data/articles/key-income-tax-deadlines.6740c1ea/README.md) `ft.lk`
 * [Sri Lanka’s essential oil industry: Opportunities, challenges, and future directions in the global fragrance and flavour value chain](data/articles/sri-lanka-s-essential-oi.70dbdc67/README.md) `ft.lk`
+* [From Factory Data to Trusted Action: Putting Agentic AI to Work in Manufacturing](data/articles/from-factory-data-to-tru.8728172f/README.md) `hbr.org`
 * [Another IMF Programme: What Is Missing in Sri Lanka’s Growth Story?](data/articles/another-imf-programme-wh.74a8ab85/README.md) `dailymirror.lk`
 * [Sanctions on ICC: Trump’s new world order is nasty, brutish, and dystopian](data/articles/sanctions-on-icc-trump-s.1fe4eb8f/README.md) `dailymirror.lk`
 * [Save Kavantissa the tusker!](data/articles/save-kavantissa-the-tusk.1de85a14/README.md) `dailymirror.lk`
