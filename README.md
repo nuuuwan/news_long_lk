@@ -2,7 +2,7 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-18 06:42:28**
+Last Updated **2026-10-18 18:17:46**
 
 ## 2026-10-17
 
@@ -93,6 +93,7 @@ Last Updated **2026-10-18 06:42:28**
 * [Over 30 trade unions oppose proposed tripartite management of EPF](data/articles/over-30-trade-unions-opp.5d77013f/README.md) `ft.lk`
 * [Sri Lanka voted for ‘system change’. Two years on, the harder question is whether power itself has changed](data/articles/sri-lanka-voted-for-syst.8ffbd5b4/README.md) `ft.lk`
 * [Killing the golden goose –  Sri Lanka’s solar energy fiasco](data/articles/killing-the-golden-goose.6207eb74/README.md) `ft.lk`
+* [Biotechnology and health](data/articles/biotechnology-and-health.18eaf7d0/README.md) `technologyreview.com`
 
 ## 2026-10-08
 
