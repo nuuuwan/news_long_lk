@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-18 18:17:46**
+Last Updated **2026-10-19 06:43:26**
+
+## 2026-10-19
+
+* [Prevention of Organised Crime Bill: Flooding the zone?](data/articles/prevention-of-organised.084b9922/README.md) `ft.lk`
+* [Sri Lanka’s terror law could cost it a trade lifeline](data/articles/sri-lanka-s-terror-law-c.6488349d/README.md) `ft.lk`
+* [Ajantha Dharmasiri’s Management Musings: Building bridge from reality to results](data/articles/ajantha-dharmasiri-s-man.5ac2cee9/README.md) `ft.lk`
+* [Countrywide power failure:  A national security wake-up call](data/articles/countrywide-power-failur.9c5b0f40/README.md) `ft.lk`
+* [The balance of power](data/articles/the-balance-of-power.d4c1a9ca/README.md) `ft.lk`
 
 ## 2026-10-17
 
