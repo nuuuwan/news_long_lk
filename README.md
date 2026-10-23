@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-22 18:23:40**
+Last Updated **2026-10-23 06:41:02**
+
+## 2026-10-23
+
+* [The new currency of leadership](data/articles/the-new-currency-of-lead.e3a018ad/README.md) `ft.lk`
+* [Sri Lanka’s HIV wake-up call: Lessons from Asia’s HIV experience](data/articles/sri-lanka-s-hiv-wake-up.26e78718/README.md) `ft.lk`
+* [Could pragmatism prevail over politics?](data/articles/could-pragmatism-prevail.0d89f111/README.md) `ft.lk`
+* [Gnanasara’s pardon and re-imprisonment: Who is accountable when the State gets justice wrong?](data/articles/gnanasara-s-pardon-and-r.d29b58db/README.md) `ft.lk`
+* [Climate economics and Sri Lanka: From managing disasters to protecting national economy](data/articles/climate-economics-and-sr.0ec32c6c/README.md) `ft.lk`
 
 ## 2026-10-22
 
