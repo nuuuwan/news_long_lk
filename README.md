@@ -2,12 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-23 06:41:02**
+Last Updated **2026-10-23 18:22:12**
 
 ## 2026-10-23
 
 * [The new currency of leadership](data/articles/the-new-currency-of-lead.e3a018ad/README.md) `ft.lk`
+* [A missed opportunity to strengthen ties with Thailand](data/articles/a-missed-opportunity-to.8f6c6e43/README.md) `dailymirror.lk`
+* [The next phase of the West Asian conflict: A world war in the making](data/articles/the-next-phase-of-the-we.5c004532/README.md) `dailymirror.lk`
 * [Sri Lanka’s HIV wake-up call: Lessons from Asia’s HIV experience](data/articles/sri-lanka-s-hiv-wake-up.26e78718/README.md) `ft.lk`
+* [Deploying security forces to the rescue of elephants](data/articles/deploying-security-force.8a1f5c30/README.md) `dailymirror.lk`
+* [Preventive Strategies and Consular Protection: Learning Lessons](data/articles/preventive-strategies-an.c4d86997/README.md) `dailymirror.lk`
+* [The Burning of Europe How Three Strategic Blunders Ignited a Continent’s Crisis](data/articles/the-burning-of-europe-ho.b411c3dc/README.md) `dailymirror.lk`
 * [Could pragmatism prevail over politics?](data/articles/could-pragmatism-prevail.0d89f111/README.md) `ft.lk`
 * [Gnanasara’s pardon and re-imprisonment: Who is accountable when the State gets justice wrong?](data/articles/gnanasara-s-pardon-and-r.d29b58db/README.md) `ft.lk`
 * [Climate economics and Sri Lanka: From managing disasters to protecting national economy](data/articles/climate-economics-and-sr.0ec32c6c/README.md) `ft.lk`
