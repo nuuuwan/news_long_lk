@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-24 06:37:16**
+Last Updated **2026-10-24 18:18:40**
+
+## 2026-10-24
+
+* [Thilina Weerasinghe and the Dark Side  of Sri Lanka’s Smiling Face](data/articles/thilina-weerasinghe-and.171eb5e6/README.md) `dailymirror.lk`
+* [The Gnanasara affair, ethno-religious divisions and political opportunism](data/articles/the-gnanasara-affair-eth.aeb0d024/README.md) `dailymirror.lk`
+* [Are Our Awards About Music or Marketing?](data/articles/are-our-awards-about-mus.67886167/README.md) `dailymirror.lk`
 
 ## 2026-10-23
 
