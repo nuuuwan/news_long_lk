@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-23 18:22:12**
+Last Updated **2026-10-24 06:37:16**
 
 ## 2026-10-23
 
+* [Beyond the robe: Sangha, rule of law and monastic accountability](data/articles/beyond-the-robe-sangha-r.65a51669/README.md) `ft.lk`
+* [The Gnanasara Thera pardon](data/articles/the-gnanasara-thera-pard.296c1e89/README.md) `ft.lk`
+* [Proposed laws risk entrenching State power and enabling repression](data/articles/proposed-laws-risk-entre.688cf463/README.md) `ft.lk`
+* [Democracy, monkhood and economy](data/articles/democracy-monkhood-and-e.dedb122f/README.md) `ft.lk`
+* [Monkish Black Magic](data/articles/monkish-black-magic.e40ae8a7/README.md) `ft.lk`
 * [The new currency of leadership](data/articles/the-new-currency-of-lead.e3a018ad/README.md) `ft.lk`
 * [A missed opportunity to strengthen ties with Thailand](data/articles/a-missed-opportunity-to.8f6c6e43/README.md) `dailymirror.lk`
 * [The next phase of the West Asian conflict: A world war in the making](data/articles/the-next-phase-of-the-we.5c004532/README.md) `dailymirror.lk`
