@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-26 06:43:11**
+Last Updated **2026-10-26 19:49:05**
 
 ## 2026-10-26
 
+* [What Panamure  Ath Raja Teaches Us About Kawantissa](data/articles/what-panamure-ath-raja-t.fa35fcc9/README.md) `dailymirror.lk`
+* [Searching for Leadership: Can We Bring Back the Qualities of Our Golden Years?](data/articles/searching-for-leadership.5dd1132e/README.md) `dailymirror.lk`
+* [When would railway accidents come to an end?](data/articles/when-would-railway-accid.d20bce26/README.md) `dailymirror.lk`
+* [Social Harmony as a subject in school](data/articles/social-harmony-as-a-subj.62ebd902/README.md) `dailymirror.lk`
 * [Reflections from IMF and World Bank Annuals in Bangkok](data/articles/reflections-from-imf-and.98e7d83f/README.md) `ft.lk`
 * [Agentic AI: People and organisations at the crossroads](data/articles/agentic-ai-people-and-or.cf52ee4e/README.md) `ft.lk`
 * [Economic transformation in Asian countries and lessons for  Sri Lanka on new ways of earning](data/articles/economic-transformation.ea6c8397/README.md) `ft.lk`
@@ -296,6 +300,7 @@ Last Updated **2026-10-26 06:43:11**
 
 * [WHEN SILENCE STOPS BEING SAFE](data/articles/when-silence-stops-being.e9dfe8e9/README.md) `dailymirror.lk`
 * [Rainwater harvesting in Sri Lanka: How to start at home before the dry months](data/articles/rainwater-harvesting-in.35d590ea/README.md) `dailymirror.lk`
+* [Biotechnology and health](data/articles/biotechnology-and-health.b02f7376/README.md) `technologyreview.com`
 
 ## 2026-09-24
 
