@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-25 18:18:53**
+Last Updated **2026-10-26 06:43:11**
+
+## 2026-10-26
+
+* [Reflections from IMF and World Bank Annuals in Bangkok](data/articles/reflections-from-imf-and.98e7d83f/README.md) `ft.lk`
+* [Agentic AI: People and organisations at the crossroads](data/articles/agentic-ai-people-and-or.cf52ee4e/README.md) `ft.lk`
+* [Economic transformation in Asian countries and lessons for  Sri Lanka on new ways of earning](data/articles/economic-transformation.ea6c8397/README.md) `ft.lk`
+* [Vas Kavi menace in world of screenagers and sodcasters](data/articles/vas-kavi-menace-in-world.050f5984/README.md) `ft.lk`
+* [Cleaner, but not yet cheaper to invest in: Sri Lanka’s anti-corruption gains and investment question](data/articles/cleaner-but-not-yet-chea.bd440118/README.md) `ft.lk`
 
 ## 2026-10-24
 
