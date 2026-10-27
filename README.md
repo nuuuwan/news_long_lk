@@ -2,10 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-26 19:49:05**
+Last Updated **2026-10-27 06:42:58**
+
+## 2026-10-27
+
+* [Digital VAT in Sri Lanka: Why platform liability and reverse charge are essential to avoid costing households and Treasury](data/articles/digital-vat-in-sri-lanka.61ccb1bd/README.md) `ft.lk`
+* [Mango Tree test of Arahat Mahinda](data/articles/mango-tree-test-of-araha.1f5feaa2/README.md) `ft.lk`
 
 ## 2026-10-26
 
+* [Mercy, robes and the rule of law in Sri Lanka](data/articles/mercy-robes-and-the-rule.aab79680/README.md) `ft.lk`
+* [Is tourism gentrification a useful lens to understand impacts of tourism on cities?](data/articles/is-tourism-gentrificatio.813cbdd8/README.md) `ft.lk`
+* [How can public sector become more customer-centric?](data/articles/how-can-public-sector-be.faef22ff/README.md) `ft.lk`
+* [The Real Competitive Advantage in AI Is Knowing Your Business](data/articles/the-real-competitive-adv.a0d99732/README.md) `hbr.org`
 * [What Panamure  Ath Raja Teaches Us About Kawantissa](data/articles/what-panamure-ath-raja-t.fa35fcc9/README.md) `dailymirror.lk`
 * [Searching for Leadership: Can We Bring Back the Qualities of Our Golden Years?](data/articles/searching-for-leadership.5dd1132e/README.md) `dailymirror.lk`
 * [When would railway accidents come to an end?](data/articles/when-would-railway-accid.d20bce26/README.md) `dailymirror.lk`
