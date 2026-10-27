@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-27 06:42:58**
+Last Updated **2026-10-27 18:25:28**
 
 ## 2026-10-27
 
+* [The politics of anti-terrorism laws](data/articles/the-politics-of-anti-ter.5768892e/README.md) `dailymirror.lk`
+* [Trump backs Netanyahu: Israel’s Likud party trails Eisenkot’s Yashar in  pre-poll surveys](data/articles/trump-backs-netanyahu-is.4257f07c/README.md) `dailymirror.lk`
+* [Compassion is the Essence of Buddhism -- A Reply to ‘Citizen’](data/articles/compassion-is-the-essenc.82e3d7d0/README.md) `dailymirror.lk`
 * [Digital VAT in Sri Lanka: Why platform liability and reverse charge are essential to avoid costing households and Treasury](data/articles/digital-vat-in-sri-lanka.61ccb1bd/README.md) `ft.lk`
 * [Mango Tree test of Arahat Mahinda](data/articles/mango-tree-test-of-araha.1f5feaa2/README.md) `ft.lk`
 
