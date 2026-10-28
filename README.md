@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-27 18:25:28**
+Last Updated **2026-10-28 06:25:47**
+
+## 2026-10-28
+
+* [From street Bhandiwalla to $ 624 b Circular Economy: How South Asian tradition can power sustainable growth](data/articles/from-street-bhandiwalla.bc526c3b/README.md) `ft.lk`
+* [Skyscrapers on a quagmire](data/articles/skyscrapers-on-a-quagmir.56370b5c/README.md) `ft.lk`
 
 ## 2026-10-27
 
