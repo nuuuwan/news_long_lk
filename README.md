@@ -2,15 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-28 06:25:47**
+Last Updated **2026-10-28 18:13:16**
 
 ## 2026-10-28
 
+* [Sri Lanka’s Toxic Car Battery Crisis:  A Million Tonnes of Lead Waste Threaten Lives](data/articles/sri-lanka-s-toxic-car-ba.5fdd0af4/README.md) `dailymirror.lk`
+* [Sri Lanka Open for Business-Turning Turbulence into Advantage](data/articles/sri-lanka-open-for-busin.94797fcc/README.md) `dailymirror.lk`
+* [From consumption to capacity: Taxing those who can pay](data/articles/from-consumption-to-capa.3bd5ea81/README.md) `ft.lk`
+* [Beyond promises on paper: Sri Lanka must deliver on investments it wins](data/articles/beyond-promises-on-paper.52dec41d/README.md) `ft.lk`
+* [Why Sri Lanka needs Singapore Temasek-style holding model for SOEs](data/articles/why-sri-lanka-needs-sing.0b49aecb/README.md) `ft.lk`
 * [From street Bhandiwalla to $ 624 b Circular Economy: How South Asian tradition can power sustainable growth](data/articles/from-street-bhandiwalla.bc526c3b/README.md) `ft.lk`
 * [Skyscrapers on a quagmire](data/articles/skyscrapers-on-a-quagmir.56370b5c/README.md) `ft.lk`
 
 ## 2026-10-27
 
+* [Why Colombo’s East Container Terminal Still Isn’t Working](data/articles/why-colombo-s-east-conta.d9ab7c4f/README.md) `dailymirror.lk`
 * [The politics of anti-terrorism laws](data/articles/the-politics-of-anti-ter.5768892e/README.md) `dailymirror.lk`
 * [Trump backs Netanyahu: Israel’s Likud party trails Eisenkot’s Yashar in  pre-poll surveys](data/articles/trump-backs-netanyahu-is.4257f07c/README.md) `dailymirror.lk`
 * [Compassion is the Essence of Buddhism -- A Reply to ‘Citizen’](data/articles/compassion-is-the-essenc.82e3d7d0/README.md) `dailymirror.lk`
