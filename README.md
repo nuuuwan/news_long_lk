@@ -2,10 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-29 06:25:37**
+Last Updated **2026-10-29 18:14:31**
 
 ## 2026-10-29
 
+* [JVP and Presidential Pardons - A Chequered History](data/articles/jvp-and-presidential-par.4dc37236/README.md) `dailymirror.lk`
+* [Today is the International Day of Care and Support Who Cares? Why  Sri Lanka Cannot Leave Care to Families Alone](data/articles/today-is-the-internation.56201dc6/README.md) `dailymirror.lk`
 * [Sri Lanka wants to fight organised crime. Will it weaken justice in the process?](data/articles/sri-lanka-wants-to-fight.377a8ceb/README.md) `ft.lk`
 * [Future of Sri Lanka’s transport: 3 priorities for national progress](data/articles/future-of-sri-lanka-s-tr.a0248787/README.md) `ft.lk`
 * [Buddy Racketeers: A response](data/articles/buddy-racketeers-a-respo.8f45ac7f/README.md) `ft.lk`
