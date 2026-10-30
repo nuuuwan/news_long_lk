@@ -2,10 +2,20 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-30 06:26:58**
+Last Updated **2026-10-30 18:14:50**
+
+## 2026-10-30
+
+* [Regenerating Colombo: Is adequate housing really for all?](data/articles/regenerating-colombo-is.02dddd97/README.md) `ft.lk`
+* [A Buddhist perspective on environmental law](data/articles/a-buddhist-perspective-o.8a03a083/README.md) `ft.lk`
+* [Should Sri Lanka raise income tax-free threshold again?](data/articles/should-sri-lanka-raise-i.c3589467/README.md) `ft.lk`
+* [Protecting the State, or empowering the State? Sri Lanka’s counter-terrorism test](data/articles/protecting-the-state-or.518d954a/README.md) `ft.lk`
 
 ## 2026-10-29
 
+* [Is it time to do away with autocratic rule?](data/articles/is-it-time-to-do-away-wi.784d0cd5/README.md) `dailymirror.lk`
+* [Israeli poll deals blow to world peace](data/articles/israeli-poll-deals-blow.4b9bb5dd/README.md) `dailymirror.lk`
+* [Overcrowded Prisons and  Unpaid Fines](data/articles/overcrowded-prisons-and.85de76d8/README.md) `dailymirror.lk`
 * [Insurers’ AI Ambitions Are Outpacing Their Data](data/articles/insurers-ai-ambitions-ar.f1076ef9/README.md) `hbr.org`
 * [Operating AI in Production: Building Trust, Visibility, and Accountability at Scale](data/articles/operating-ai-in-producti.f37cf781/README.md) `hbr.org`
 * [JVP and Presidential Pardons - A Chequered History](data/articles/jvp-and-presidential-par.4dc37236/README.md) `dailymirror.lk`
