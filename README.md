@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-31 06:16:56**
+Last Updated **2026-10-31 18:08:12**
+
+## 2026-10-31
+
+* [Sri Lanka needs men and women of spirituality](data/articles/sri-lanka-needs-men-and.d743499d/README.md) `dailymirror.lk`
+* [The Vihara Maha Devi Park drama  -- good sense prevailed](data/articles/the-vihara-maha-devi-par.7a14a167/README.md) `dailymirror.lk`
 
 ## 2026-10-30
 
