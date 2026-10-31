@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-10-30 18:14:50**
+Last Updated **2026-10-31 06:16:56**
 
 ## 2026-10-30
 
+* [Sri Lanka could turn Maldives’ dollar dilemma into investment opportunity](data/articles/sri-lanka-could-turn-mal.40da2603/README.md) `ft.lk`
+* [Sri Lanka needs to get more value from its trade relationships](data/articles/sri-lanka-needs-to-get-m.8bc7e7a3/README.md) `ft.lk`
+* [Beyond the killing of Kawanthissa: Political economy and institutional accountability of wildlife conservation](data/articles/beyond-the-killing-of-ka.ec34bb71/README.md) `ft.lk`
+* [Palihakkara calls for trust-based connectivity and variable geometry in regional cooperation](data/articles/palihakkara-calls-for-tr.c7f231c8/README.md) `ft.lk`
+* [Israel’s electoral post-mortem: Caretaker’s paradox and rigid coalition matrix](data/articles/israel-s-electoral-post.1d2bd004/README.md) `ft.lk`
 * [Regenerating Colombo: Is adequate housing really for all?](data/articles/regenerating-colombo-is.02dddd97/README.md) `ft.lk`
 * [A Buddhist perspective on environmental law](data/articles/a-buddhist-perspective-o.8a03a083/README.md) `ft.lk`
 * [Should Sri Lanka raise income tax-free threshold again?](data/articles/should-sri-lanka-raise-i.c3589467/README.md) `ft.lk`
