@@ -2,7 +2,12 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-01 18:08:07**
+Last Updated **2026-11-02 06:20:11**
+
+## 2026-11-02
+
+* [Organised Crime Bill violates rights standards: HRW](data/articles/organised-crime-bill-vio.60ff633b/README.md) `ft.lk`
+* [Bird’s-eye view: Economy stable and growing. Worm’s-eye view: Not so rosy](data/articles/bird-s-eye-view-economy.f14f7151/README.md) `ft.lk`
 
 ## 2026-10-31
 
