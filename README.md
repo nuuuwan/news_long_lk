@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-02 06:20:11**
+Last Updated **2026-11-02 18:09:05**
 
 ## 2026-11-02
 
+* [Saudi  execution of Bangladeshi couple sparks global outrage](data/articles/saudi-execution-of-bangl.e9890ddf/README.md) `dailymirror.lk`
+* [Caste Oppression and Struggles in Jaffna](data/articles/caste-oppression-and-str.3c66fd4c/README.md) `dailymirror.lk`
+* [Democracy: Bridge to power or commitment to values?](data/articles/democracy-bridge-to-powe.9baf3f80/README.md) `dailymirror.lk`
+* [Independent probes on police brutality a must!](data/articles/independent-probes-on-po.3b31b7d9/README.md) `dailymirror.lk`
+* [WHEN A CRISIS WON’T GO AWAY](data/articles/when-a-crisis-won-t-go-a.eece2154/README.md) `dailymirror.lk`
 * [Organised Crime Bill violates rights standards: HRW](data/articles/organised-crime-bill-vio.60ff633b/README.md) `ft.lk`
 * [Bird’s-eye view: Economy stable and growing. Worm’s-eye view: Not so rosy](data/articles/bird-s-eye-view-economy.f14f7151/README.md) `ft.lk`
 
