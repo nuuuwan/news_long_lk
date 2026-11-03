@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-02 18:09:05**
+Last Updated **2026-11-03 06:17:27**
+
+## 2026-11-03
+
+* [Are Sri Lanka’s corporates ready  to meet rising shareholder activism?](data/articles/are-sri-lanka-s-corporat.965ce5d5/README.md) `ft.lk`
+* [Real relief is engineered, not announced](data/articles/real-relief-is-engineere.94aa2957/README.md) `ft.lk`
+* [Experienced graduates,  yes — but never at the cost of rigour](data/articles/experienced-graduates-ye.3e734625/README.md) `ft.lk`
+* [Tourism must focus on value, not volume](data/articles/tourism-must-focus-on-va.94865fe3/README.md) `ft.lk`
+* [Surplus that starves](data/articles/surplus-that-starves.85554a57/README.md) `ft.lk`
 
 ## 2026-11-02
 
