@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-03 06:17:27**
+Last Updated **2026-11-03 18:09:21**
 
 ## 2026-11-03
 
+* [‘Please allow us to tell our stories’:  Theepachelvan on the struggles of Tamil writers](data/articles/please-allow-us-to-tell.98e49d53/README.md) `dailymirror.lk`
+* [Israel and its little empire in turmoil: Deadlocked elections  leave Israel facing  possible civil strife](data/articles/israel-and-its-little-em.c46c5c0f/README.md) `dailymirror.lk`
+* [Ex-Presidency: A Promise We Keep Postponing](data/articles/ex-presidency-a-promise.83957fe7/README.md) `dailymirror.lk`
+* [Should Chief Prelates Intervene to Secure Gnanasara Thera’s Release?](data/articles/should-chief-prelates-in.d672f2f4/README.md) `dailymirror.lk`
+* [Custodial deaths are inimical to national interests](data/articles/custodial-deaths-are-ini.4ed63b96/README.md) `dailymirror.lk`
 * [Are Sri Lanka’s corporates ready  to meet rising shareholder activism?](data/articles/are-sri-lanka-s-corporat.965ce5d5/README.md) `ft.lk`
 * [Real relief is engineered, not announced](data/articles/real-relief-is-engineere.94aa2957/README.md) `ft.lk`
 * [Experienced graduates,  yes — but never at the cost of rigour](data/articles/experienced-graduates-ye.3e734625/README.md) `ft.lk`
