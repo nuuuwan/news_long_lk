@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-03 18:09:21**
+Last Updated **2026-11-04 06:17:23**
+
+## 2026-11-04
+
+* [Cost of living crisis: The system destroyer?](data/articles/cost-of-living-crisis-th.3f45ad58/README.md) `ft.lk`
+* [South Asia’s demographic shift is an opportunity—but only if the region acts now](data/articles/south-asia-s-demographic.d9e32f9e/README.md) `ft.lk`
+* [The State must keep time, too](data/articles/the-state-must-keep-time.4df6836b/README.md) `ft.lk`
+* [Why Sri Lanka needs serious reset of its tourism strategy](data/articles/why-sri-lanka-needs-seri.ea6ff1d4/README.md) `ft.lk`
+* [Sri Lanka’s service crisis: When poor service becomes an economic problem](data/articles/sri-lanka-s-service-cris.69d592de/README.md) `ft.lk`
 
 ## 2026-11-03
 
