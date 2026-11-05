@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-05 06:20:31**
+Last Updated **2026-11-05 18:09:22**
 
 ## 2026-11-05
 
+* [UN reports no accountability in 90% of journalist deaths](data/articles/un-reports-no-accountabi.1dcfe949/README.md) `dailymirror.lk`
+* [From discovery to the patient Role of a Pharmacist in the journey of a medicine](data/articles/from-discovery-to-the-pa.7be8a794/README.md) `dailymirror.lk`
+* [UNP-SJB coalition efforts – going nowhere?](data/articles/unp-sjb-coalition-effort.bd449b01/README.md) `dailymirror.lk`
+* [ECT delay - a textbook case of stranded capital](data/articles/ect-delay-a-textbook-cas.020f9b5b/README.md) `dailymirror.lk`
+* [US Midterm Polls: From historic firsts to meaningful governance](data/articles/us-midterm-polls-from-hi.e653e009/README.md) `dailymirror.lk`
+* [Sri Lanka’s THC dispute: Regulating charges or regulating contracts?](data/articles/sri-lanka-s-thc-dispute.8ac360c3/README.md) `ft.lk`
 * [Sri Lanka’s THC dispute: Regulating charges or regulating contracts?](data/articles/sri-lanka-s-thc-dispute.5be654de/README.md) `ft.lk`
 * [Sri Lanka’s Rs. 2.1 trillion tax arrears: Collect, resolve or remove](data/articles/sri-lanka-s-rs-2-1-trill.fe244e51/README.md) `ft.lk`
 * [Proletarian, virtuous Bonapartism](data/articles/proletarian-virtuous-bon.bd13735a/README.md) `ft.lk`
