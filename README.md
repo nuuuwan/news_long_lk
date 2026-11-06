@@ -2,7 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-06 06:16:57**
+Last Updated **2026-11-06 18:08:54**
+
+## 2026-11-06
+
+* [The anti-establishment paradox: What America’s midterm revolt reveals about Sri Lanka’s NPP](data/articles/the-anti-establishment-p.b4324421/README.md) `ft.lk`
+* [Audits, research, and economic progress – Our audited nemesis](data/articles/audits-research-and-econ.5a39f86f/README.md) `ft.lk`
+* [Why should people have to adapt to technology?](data/articles/why-should-people-have-t.469ea6c8/README.md) `ft.lk`
+* [2027 Budget should strengthen external sector capacity](data/articles/2027-budget-should-stren.70e1cee5/README.md) `ft.lk`
+* [The capital order and the political economy of PSTA and POCA](data/articles/the-capital-order-and-th.0953b647/README.md) `ft.lk`
+* [Trump’s midterm rout: A lesson in the limits of a superpower](data/articles/trump-s-midterm-rout-a-l.401da83e/README.md) `dailymirror.lk`
+* [Midterms deliver  wake-up call to America’s two major parties](data/articles/midterms-deliver-wake-up.6c1636ab/README.md) `dailymirror.lk`
+* [TIN numbers : What ails the government?](data/articles/tin-numbers-what-ails-th.7f8c30b8/README.md) `dailymirror.lk`
 
 ## 2026-11-05
 
