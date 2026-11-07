@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-07 06:16:14**
+Last Updated **2026-11-07 18:08:01**
+
+## 2026-11-07
+
+* [Education is the epicentre of Albania’s student protests](data/articles/education-is-the-epicent.d1f8ea86/README.md) `dailymirror.lk`
+* [Investigation into July 1983 -- eye wash or whitewash?](data/articles/investigation-into-july.285e3c0b/README.md) `dailymirror.lk`
+* [A question  is part of  the care](data/articles/a-question-is-part-of-th.8c9c5c35/README.md) `dailymirror.lk`
 
 ## 2026-11-06
 
