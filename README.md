@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-06 18:08:54**
+Last Updated **2026-11-07 06:16:14**
 
 ## 2026-11-06
 
+* [Taxation, fairness and the public purse](data/articles/taxation-fairness-and-th.880a58ec/README.md) `ft.lk`
+* [President pledges to crush narco ’shadow State’ and safeguard democracy and fundamental rights](data/articles/president-pledges-to-cru.5e0e7ff5/README.md) `ft.lk`
+* [The Monk, UNP and Eightfold Path](data/articles/the-monk-unp-and-eightfo.e991f700/README.md) `ft.lk`
+* [The new age of ecologically empathetic design](data/articles/the-new-age-of-ecologica.84eb0f06/README.md) `ft.lk`
+* [Is AKD running faster than the winds that buffet him?](data/articles/is-akd-running-faster-th.77c897d2/README.md) `ft.lk`
 * [The anti-establishment paradox: What America’s midterm revolt reveals about Sri Lanka’s NPP](data/articles/the-anti-establishment-p.b4324421/README.md) `ft.lk`
 * [Audits, research, and economic progress – Our audited nemesis](data/articles/audits-research-and-econ.5a39f86f/README.md) `ft.lk`
 * [Why should people have to adapt to technology?](data/articles/why-should-people-have-t.469ea6c8/README.md) `ft.lk`
