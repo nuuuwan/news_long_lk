@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-09 06:21:50**
+Last Updated **2026-11-09 18:10:09**
 
 ## 2026-11-09
 
+* [Stray animals are innocent souls that deserve love understanding and compassion : Dr. Janey Lowes](data/articles/stray-animals-are-innoce.7a67125e/README.md) `dailymirror.lk`
+* [What America’s Midterms Can Teach Us](data/articles/what-america-s-midterms.563ba1be/README.md) `dailymirror.lk`
+* [Crisis Monitoring Is Not a Back Office Function](data/articles/crisis-monitoring-is-not.ffa4e7db/README.md) `dailymirror.lk`
 * [Are tax concessions really best way to attract investment to Sri Lanka?](data/articles/are-tax-concessions-real.10954699/README.md) `ft.lk`
 * [State and your hard-earned money: Moral contract  AKD cannot afford to ignore](data/articles/state-and-your-hard-earn.a497137d/README.md) `ft.lk`
 * [Rooftop solar: A national asset or a burden on national electricity grid?](data/articles/rooftop-solar-a-national.e3218081/README.md) `ft.lk`
@@ -14,6 +17,7 @@ Last Updated **2026-11-09 06:21:50**
 
 ## 2026-11-07
 
+* [Elephants carry kilos of bullets in their bodies in Sri Lanka](data/articles/elephants-carry-kilos-of.0ec47ab2/README.md) `dailymirror.lk`
 * [Education is the epicentre of Albania’s student protests](data/articles/education-is-the-epicent.d1f8ea86/README.md) `dailymirror.lk`
 * [Investigation into July 1983 -- eye wash or whitewash?](data/articles/investigation-into-july.285e3c0b/README.md) `dailymirror.lk`
 * [A question  is part of  the care](data/articles/a-question-is-part-of-th.8c9c5c35/README.md) `dailymirror.lk`
