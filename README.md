@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-08 18:07:58**
+Last Updated **2026-11-09 06:21:50**
+
+## 2026-11-09
+
+* [Are tax concessions really best way to attract investment to Sri Lanka?](data/articles/are-tax-concessions-real.10954699/README.md) `ft.lk`
+* [State and your hard-earned money: Moral contract  AKD cannot afford to ignore](data/articles/state-and-your-hard-earn.a497137d/README.md) `ft.lk`
+* [Rooftop solar: A national asset or a burden on national electricity grid?](data/articles/rooftop-solar-a-national.e3218081/README.md) `ft.lk`
+* [Sri Lankan University Rankings: The free fall (Part 1)](data/articles/sri-lankan-university-ra.c27f9804/README.md) `ft.lk`
+* [One voice, million hearts: Myriad reflections  of a maestro](data/articles/one-voice-million-hearts.4e36eb5b/README.md) `ft.lk`
 
 ## 2026-11-07
 
@@ -71,6 +79,7 @@ Last Updated **2026-11-08 18:07:58**
 * [Democracy: Bridge to power or commitment to values?](data/articles/democracy-bridge-to-powe.9baf3f80/README.md) `dailymirror.lk`
 * [Independent probes on police brutality a must!](data/articles/independent-probes-on-po.3b31b7d9/README.md) `dailymirror.lk`
 * [WHEN A CRISIS WON’T GO AWAY](data/articles/when-a-crisis-won-t-go-a.eece2154/README.md) `dailymirror.lk`
+* [Artificial intelligence](data/articles/artificial-intelligence.c1a08380/README.md) `technologyreview.com`
 * [Organised Crime Bill violates rights standards: HRW](data/articles/organised-crime-bill-vio.60ff633b/README.md) `ft.lk`
 * [Bird’s-eye view: Economy stable and growing. Worm’s-eye view: Not so rosy](data/articles/bird-s-eye-view-economy.f14f7151/README.md) `ft.lk`
 
