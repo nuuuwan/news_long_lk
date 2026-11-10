@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-10 06:17:16**
+Last Updated **2026-11-10 18:09:14**
 
 ## 2026-11-10
 
+* [Let’s learn from past disasters](data/articles/let-s-learn-from-past-di.d7f680e6/README.md) `dailymirror.lk`
+* [Formation of Israeli government held up by thorny political issues](data/articles/formation-of-israeli-gov.87df6e95/README.md) `dailymirror.lk`
+* [Parliament is Debating the Wrong Emergency](data/articles/parliament-is-debating-t.c12f12b2/README.md) `dailymirror.lk`
 * [Budget 2027: Beyond promises to real progress](data/articles/budget-2027-beyond-promi.5ccb5afd/README.md) `ft.lk`
 * [Budget 2027: Will Sri Lanka remain a tea plantation economy or become global capital of tea?](data/articles/budget-2027-will-sri-lan.8bc0fbc3/README.md) `ft.lk`
 
