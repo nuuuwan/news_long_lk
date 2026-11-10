@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-09 18:10:09**
+Last Updated **2026-11-10 06:17:16**
+
+## 2026-11-10
+
+* [Budget 2027: Beyond promises to real progress](data/articles/budget-2027-beyond-promi.5ccb5afd/README.md) `ft.lk`
+* [Budget 2027: Will Sri Lanka remain a tea plantation economy or become global capital of tea?](data/articles/budget-2027-will-sri-lan.8bc0fbc3/README.md) `ft.lk`
 
 ## 2026-11-09
 
+* [Beyond Budget surpluses: Making public expenditure work for Sri Lanka’s external sector](data/articles/beyond-budget-surpluses.c0885cb7/README.md) `ft.lk`
+* [Sri Lankan University Rankings: The free fall (Part 2)](data/articles/sri-lankan-university-ra.47d81c93/README.md) `ft.lk`
+* [THE $6.3 BILLION REPUTATION TEST](data/articles/the-6-3-billion-reputati.241b0e97/README.md) `dailymirror.lk`
 * [Stray animals are innocent souls that deserve love understanding and compassion : Dr. Janey Lowes](data/articles/stray-animals-are-innoce.7a67125e/README.md) `dailymirror.lk`
 * [What America’s Midterms Can Teach Us](data/articles/what-america-s-midterms.563ba1be/README.md) `dailymirror.lk`
 * [Crisis Monitoring Is Not a Back Office Function](data/articles/crisis-monitoring-is-not.ffa4e7db/README.md) `dailymirror.lk`
