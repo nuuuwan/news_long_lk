@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-10 18:09:14**
+Last Updated **2026-11-11 06:18:37**
+
+## 2026-11-11
+
+* [Taxed at the till: why the Government must keep its word](data/articles/taxed-at-the-till-why-th.1ffb9750/README.md) `ft.lk`
+* [Colombo under water: Is drainage system ready for challenges of a changing climate?](data/articles/colombo-under-water-is-d.9372dacc/README.md) `ft.lk`
+* [Budgeting for a better Sri Lanka](data/articles/budgeting-for-a-better-s.814ef690/README.md) `ft.lk`
 
 ## 2026-11-10
 
+* [Where did your 100rs go? Budget 2026 explained](data/articles/where-did-your-100rs-go.76f410d1/README.md) `dailymirror.lk`
 * [Let’s learn from past disasters](data/articles/let-s-learn-from-past-di.d7f680e6/README.md) `dailymirror.lk`
 * [Formation of Israeli government held up by thorny political issues](data/articles/formation-of-israeli-gov.87df6e95/README.md) `dailymirror.lk`
 * [Parliament is Debating the Wrong Emergency](data/articles/parliament-is-debating-t.c12f12b2/README.md) `dailymirror.lk`
