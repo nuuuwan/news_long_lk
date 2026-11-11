@@ -2,10 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-11 06:18:37**
+Last Updated **2026-11-11 18:09:58**
 
 ## 2026-11-11
 
+* [Good data required  when modelling  forecasts into the future - Dr. Thomas Adams -](data/articles/good-data-required-when.cf056a36/README.md) `dailymirror.lk`
+* [Budget 2027 must turn fiscal discipline into long term growth path](data/articles/budget-2027-must-turn-fi.ee49e927/README.md) `ft.lk`
+* [The money goes around: Does the Budget bring it back to the people?](data/articles/the-money-goes-around-do.c5ece28a/README.md) `ft.lk`
+* [Sri Lanka’s lost decade: A decade of diverging household incomes](data/articles/sri-lanka-s-lost-decade.ef99c8fc/README.md) `ft.lk`
 * [Taxed at the till: why the Government must keep its word](data/articles/taxed-at-the-till-why-th.1ffb9750/README.md) `ft.lk`
 * [Colombo under water: Is drainage system ready for challenges of a changing climate?](data/articles/colombo-under-water-is-d.9372dacc/README.md) `ft.lk`
 * [Budgeting for a better Sri Lanka](data/articles/budgeting-for-a-better-s.814ef690/README.md) `ft.lk`
