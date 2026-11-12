@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-12 06:19:56**
+Last Updated **2026-11-12 18:10:32**
 
 ## 2026-11-12
 
+* [Streamline road safety and save people’s lives](data/articles/streamline-road-safety-a.2791e76b/README.md) `dailymirror.lk`
+* [The fall  of a giant:  How the SLFP lost its recognition](data/articles/the-fall-of-a-giant-how.3436cef9/README.md) `dailymirror.lk`
+* [Colombo’s Deluge:  Will We Ever Learn?](data/articles/colombo-s-deluge-will-we.1e3b88de/README.md) `dailymirror.lk`
+* [Lights, Camera, Legal Action: What Every Filmmaker Should Know When Making a Celebrity Biopic](data/articles/lights-camera-legal-acti.67de44a5/README.md) `dailymirror.lk`
+* [NCCSL urges govt. to overhaul proposed anti-terror, NGO bills](data/articles/nccsl-urges-govt-to-over.f84fef77/README.md) `dailymirror.lk`
 * [Blue tsunami: American reformist revolution and new progressivism](data/articles/blue-tsunami-american-re.baabc696/README.md) `ft.lk`
 * [The unethical Customs rewards system](data/articles/the-unethical-customs-re.c0d4e864/README.md) `ft.lk`
 * [Twice promised, never delivered: Tax Ombudsman Sri Lanka still needs](data/articles/twice-promised-never-del.ad9c27b5/README.md) `ft.lk`
