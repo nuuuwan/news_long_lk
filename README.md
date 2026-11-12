@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-11 18:09:58**
+Last Updated **2026-11-12 06:19:56**
+
+## 2026-11-12
+
+* [Blue tsunami: American reformist revolution and new progressivism](data/articles/blue-tsunami-american-re.baabc696/README.md) `ft.lk`
+* [The unethical Customs rewards system](data/articles/the-unethical-customs-re.c0d4e864/README.md) `ft.lk`
+* [Twice promised, never delivered: Tax Ombudsman Sri Lanka still needs](data/articles/twice-promised-never-del.ad9c27b5/README.md) `ft.lk`
+* [Budget 2027: Prayer for better life from nation that has endured much](data/articles/budget-2027-prayer-for-b.d166a8c0/README.md) `ft.lk`
+* [2027 Budget: Need to revisit APIT](data/articles/2027-budget-need-to-revi.7547be2e/README.md) `ft.lk`
 
 ## 2026-11-11
 
