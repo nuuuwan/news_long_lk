@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-12 18:10:32**
+Last Updated **2026-11-13 06:19:03**
+
+## 2026-11-13
+
+* [Solutions to youth problems: The case of IT qualifications](data/articles/solutions-to-youth-probl.7e01c0b1/README.md) `ft.lk`
+* [What social media can, and cannot shape or predict around elections](data/articles/what-social-media-can-an.5e5ad64a/README.md) `ft.lk`
+* [BIMSTEC offers more trade, investment and regional cooperation opportunities for SL](data/articles/bimstec-offers-more-trad.b19bcb93/README.md) `ft.lk`
+* [The IMF, World Bank and ADB must reinvent themselves for a new world order](data/articles/the-imf-world-bank-and-a.09274992/README.md) `ft.lk`
 
 ## 2026-11-12
 
