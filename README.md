@@ -2,10 +2,18 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-13 18:09:50**
+Last Updated **2026-11-14 06:16:17**
+
+## 2026-11-14
+
+* [Enduring resistance](data/articles/enduring-resistance.7a429c7a/README.md) `ft.lk`
 
 ## 2026-11-13
 
+* [Building economy our grandchildren can depend on](data/articles/building-economy-our-gra.786d61e0/README.md) `ft.lk`
+* [Sri Lanka’s foreign policy paradoxes: Geo-politics, development and human rights](data/articles/sri-lanka-s-foreign-poli.bb1a59e9/README.md) `ft.lk`
+* [From monsoon to management: Colombo’s heavy weather and building a flood-resilient Sri Lanka – Part I](data/articles/from-monsoon-to-manageme.dfa35262/README.md) `ft.lk`
+* [Republic and robe](data/articles/republic-and-robe.38febc2f/README.md) `ft.lk`
 * [Personal tax relief in Budget 2027](data/articles/personal-tax-relief-in-b.9681ecec/README.md) `ft.lk`
 * [A Budget of billions, but where is Sri Lanka heading?](data/articles/a-budget-of-billions-but.c46c9ddc/README.md) `ft.lk`
 * [Solutions to youth problems: The case of IT qualifications](data/articles/solutions-to-youth-probl.7e01c0b1/README.md) `ft.lk`
