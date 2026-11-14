@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-14 06:16:17**
+Last Updated **2026-11-14 18:08:04**
 
 ## 2026-11-14
 
+* [Balfour’s shadow hangs over Gaza’s biting winter](data/articles/balfour-s-shadow-hangs-o.07f256bd/README.md) `dailymirror.lk`
+* [Draconian Bills meet the test of democracy](data/articles/draconian-bills-meet-the.1a89360f/README.md) `dailymirror.lk`
+* [Another bag full of promises unveiled](data/articles/another-bag-full-of-prom.70968b70/README.md) `dailymirror.lk`
 * [Enduring resistance](data/articles/enduring-resistance.7a429c7a/README.md) `ft.lk`
 
 ## 2026-11-13
