@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-15 18:08:36**
+Last Updated **2026-11-16 06:26:37**
+
+## 2026-11-16
+
+* [Water must move to the centre of climate action](data/articles/water-must-move-to-the-c.dd65c3a1/README.md) `ft.lk`
+* [Sri Lanka prepares to celebrate Global Entrepreneurship Week 2026](data/articles/sri-lanka-prepares-to-ce.a10c56e4/README.md) `ft.lk`
+* [Investing in Sri Lanka’s resilience: The case for patient capital](data/articles/investing-in-sri-lanka-s.5710febd/README.md) `ft.lk`
+* [Athukorala’s Asian global production experiences: Lessons for Sri Lanka](data/articles/athukorala-s-asian-globa.192e6d60/README.md) `ft.lk`
+* [Sri Lanka’s energy policy  and the democratic dilemma](data/articles/sri-lanka-s-energy-polic.2e44930d/README.md) `ft.lk`
 
 ## 2026-11-14
 
