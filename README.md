@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-16 18:23:22**
+Last Updated **2026-11-17 06:19:00**
+
+## 2026-11-17
+
+* [2027 Budget: AI audit that audited itself](data/articles/2027-budget-ai-audit-tha.09e373e5/README.md) `ft.lk`
+* [PSTA: Still in violation of international norms](data/articles/psta-still-in-violation.0fdec5e2/README.md) `ft.lk`
+* [Seven decades of Budgets, one unbroken economic failure: Can Sri Lanka finally escape its past?](data/articles/seven-decades-of-budgets.5bcb865e/README.md) `ft.lk`
 
 ## 2026-11-16
 
+* [Interpreting Budget 2027: Focus on priorities in an increasingly volatile world](data/articles/interpreting-budget-2027.7f501510/README.md) `dailymirror.lk`
 * [Political violence and the shaming of the yellow robe](data/articles/political-violence-and-t.7f26ec6e/README.md) `dailymirror.lk`
 * [Senior citizens inconvenienced following Maharagama Post Office relocation](data/articles/senior-citizens-inconven.1d32929d/README.md) `dailymirror.lk`
 * [Water must move to the centre of climate action](data/articles/water-must-move-to-the-c.dd65c3a1/README.md) `ft.lk`
