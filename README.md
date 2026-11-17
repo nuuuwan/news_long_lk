@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-17 06:19:00**
+Last Updated **2026-11-17 18:09:54**
 
 ## 2026-11-17
 
+* [Are we going for the 18th IMF programme?](data/articles/are-we-going-for-the-18t.14d0b5f3/README.md) `dailymirror.lk`
+* [Budget 2027:  Political Promises Vs People’s  Everyday Realities](data/articles/budget-2027-political-pr.3f5c5403/README.md) `dailymirror.lk`
+* [Public Roads and Private ‘No Parking’ Boards](data/articles/public-roads-and-private.e30490f3/README.md) `dailymirror.lk`
 * [2027 Budget: AI audit that audited itself](data/articles/2027-budget-ai-audit-tha.09e373e5/README.md) `ft.lk`
 * [PSTA: Still in violation of international norms](data/articles/psta-still-in-violation.0fdec5e2/README.md) `ft.lk`
 * [Seven decades of Budgets, one unbroken economic failure: Can Sri Lanka finally escape its past?](data/articles/seven-decades-of-budgets.5bcb865e/README.md) `ft.lk`
