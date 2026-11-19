@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-19 06:19:21**
+Last Updated **2026-11-19 18:10:48**
 
 ## 2026-11-19
 
+* [Statutory rape is not a love story!](data/articles/statutory-rape-is-not-a.6578c886/README.md) `dailymirror.lk`
+* [Who is not afraid of the US?](data/articles/who-is-not-afraid-of-the.286e1a20/README.md) `dailymirror.lk`
+* [Are we prepared for a Digital Disaster?](data/articles/are-we-prepared-for-a-di.ee3877de/README.md) `dailymirror.lk`
+* [Budget 2027: Can Sri Lanka turn ambition into growth?](data/articles/budget-2027-can-sri-lank.d903a88a/README.md) `ft.lk`
+* [Consistency and reform focus good; people, institutions and action need fixing](data/articles/consistency-and-reform-f.78b95dae/README.md) `ft.lk`
 * [2027 Budget: Red herring to neutralise public and relink Sri Lanka with new financial colonialism](data/articles/2027-budget-red-herring.2b32947f/README.md) `ft.lk`
 * [Greater tax powers need greater taxpayer safeguards](data/articles/greater-tax-powers-need.f217301b/README.md) `ft.lk`
 * [Debate behind Budget debate](data/articles/debate-behind-budget-deb.e67c9bea/README.md) `ft.lk`
@@ -13,6 +18,7 @@ Last Updated **2026-11-19 06:19:21**
 
 ## 2026-11-18
 
+* [South Asian students studying abroad  face tough challenges](data/articles/south-asian-students-stu.63938dd1/README.md) `dailymirror.lk`
 * [The biggest lacuna in the Budget 2027](data/articles/the-biggest-lacuna-in-th.c0408af6/README.md) `dailymirror.lk`
 * [When politicians leave, who answers for the past?](data/articles/when-politicians-leave-w.31bdbe1e/README.md) `dailymirror.lk`
 * [WHEN THE CEO BECOMES THE CRISIS](data/articles/when-the-ceo-becomes-the.00cc2b39/README.md) `dailymirror.lk`
