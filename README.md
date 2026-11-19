@@ -2,7 +2,14 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-18 18:10:30**
+Last Updated **2026-11-19 06:19:21**
+
+## 2026-11-19
+
+* [2027 Budget: Red herring to neutralise public and relink Sri Lanka with new financial colonialism](data/articles/2027-budget-red-herring.2b32947f/README.md) `ft.lk`
+* [Greater tax powers need greater taxpayer safeguards](data/articles/greater-tax-powers-need.f217301b/README.md) `ft.lk`
+* [Debate behind Budget debate](data/articles/debate-behind-budget-deb.e67c9bea/README.md) `ft.lk`
+* [$ 500 m epic gambit: Can Ramayana globalise Indian cinema and redefine its most ancient story?](data/articles/500-m-epic-gambit-can-r.3fb57cde/README.md) `ft.lk`
 
 ## 2026-11-18
 
