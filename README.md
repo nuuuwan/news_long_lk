@@ -2,7 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-19 18:10:48**
+Last Updated **2026-11-20 06:18:54**
+
+## 2026-11-20
+
+* [Beyond the cheque: What Sri Lanka’s children need from business](data/articles/beyond-the-cheque-what-s.2274d93a/README.md) `ft.lk`
+* [A financially unsavvy CEO is like Columbus sailing without a compass](data/articles/a-financially-unsavvy-ce.6eba4257/README.md) `ft.lk`
+* [Risk of currency fragmentation in Sri Lanka](data/articles/risk-of-currency-fragmen.c0fbdc57/README.md) `ft.lk`
 
 ## 2026-11-19
 
