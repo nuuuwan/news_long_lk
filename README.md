@@ -2,10 +2,16 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-20 06:18:54**
+Last Updated **2026-11-20 18:10:12**
 
 ## 2026-11-20
 
+* [Lessons from   Shenzhen summit  for Sri Lanka](data/articles/lessons-from-shenzhen-su.bf4699a7/README.md) `dailymirror.lk`
+* [Historic Shenzhen summit as world teeters between  war and peace](data/articles/historic-shenzhen-summit.6708d02a/README.md) `dailymirror.lk`
+* [A call to regulate small scale food outlets](data/articles/a-call-to-regulate-small.dbfd1d7c/README.md) `dailymirror.lk`
+* [El Niño and food inflation in  Sri Lanka: What history tells us](data/articles/el-niño-and-food-inflati.aa3fd55e/README.md) `ft.lk`
+* [Budget 2027: Lacklustre Budget for decisive year](data/articles/budget-2027-lacklustre-b.3bee1d0e/README.md) `ft.lk`
+* [Budget 2027: Saint abroad, devil at home](data/articles/budget-2027-saint-abroad.af9e2d94/README.md) `ft.lk`
 * [Beyond the cheque: What Sri Lanka’s children need from business](data/articles/beyond-the-cheque-what-s.2274d93a/README.md) `ft.lk`
 * [A financially unsavvy CEO is like Columbus sailing without a compass](data/articles/a-financially-unsavvy-ce.6eba4257/README.md) `ft.lk`
 * [Risk of currency fragmentation in Sri Lanka](data/articles/risk-of-currency-fragmen.c0fbdc57/README.md) `ft.lk`
