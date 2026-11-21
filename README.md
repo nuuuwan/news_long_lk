@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-20 18:10:12**
+Last Updated **2026-11-21 06:18:30**
 
 ## 2026-11-20
 
+* [Is Sri Lanka clean? Plastics and plastic waste growth says otherwise](data/articles/is-sri-lanka-clean-plast.0386171f/README.md) `ft.lk`
+* [Phantom synagogues and tall tribe tales: Myths of Sri Lanka’s Jewish past](data/articles/phantom-synagogues-and-t.6ce64cad/README.md) `ft.lk`
+* [The Vrindavan: The land of love](data/articles/the-vrindavan-the-land-o.9409a8b7/README.md) `ft.lk`
+* [Give citizens and regions chance, and Sri Lanka grows richer](data/articles/give-citizens-and-region.7a92d90b/README.md) `ft.lk`
+* [2027 Budget: Opportunities, challenges, and way forward](data/articles/2027-budget-opportunitie.0ccce279/README.md) `ft.lk`
 * [Lessons from   Shenzhen summit  for Sri Lanka](data/articles/lessons-from-shenzhen-su.bf4699a7/README.md) `dailymirror.lk`
 * [Historic Shenzhen summit as world teeters between  war and peace](data/articles/historic-shenzhen-summit.6708d02a/README.md) `dailymirror.lk`
 * [A call to regulate small scale food outlets](data/articles/a-call-to-regulate-small.dbfd1d7c/README.md) `dailymirror.lk`
