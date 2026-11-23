@@ -2,7 +2,19 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-23 06:23:07**
+Last Updated **2026-11-23 18:11:24**
+
+## 2026-11-23
+
+* [Balancing Security and Rights:  The Evolution of Sri Lanka’s Anti-Terrorism Framework](data/articles/balancing-security-and-r.0a6e1884/README.md) `dailymirror.lk`
+* [Price of Looking Powerful: Trump’s Uneasy Summit in Shenzhen](data/articles/price-of-looking-powerfu.c6d0cc98/README.md) `dailymirror.lk`
+* [Sri Lanka must learn to save its rain](data/articles/sri-lanka-must-learn-to.c6d24279/README.md) `dailymirror.lk`
+* [Attractive Offers, But Beware of What You Get!](data/articles/attractive-offers-but-be.eab87f78/README.md) `dailymirror.lk`
+* [Why Galle and not Kandy: A golden opportunity we must not lose](data/articles/why-galle-and-not-kandy.d308b484/README.md) `ft.lk`
+* [Why revenue dip amidst rising tourist arrivals is not necessarily a bad thing](data/articles/why-revenue-dip-amidst-r.342387f3/README.md) `ft.lk`
+* [Proposals for development of tourism infrastructure and facilities in Eastern coastal region](data/articles/proposals-for-developmen.90322c58/README.md) `ft.lk`
+* [IPS’s State of the Economy 2026: More worm’s eye analysis than bird’s eye analysis](data/articles/ips-s-state-of-the-econo.a0f6d835/README.md) `ft.lk`
+* [A decade after Paris Agreement: Financing farms and natural capital](data/articles/a-decade-after-paris-agr.127394ed/README.md) `ft.lk`
 
 ## 2026-11-21
 
