@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-24 06:17:03**
+Last Updated **2026-11-24 18:10:56**
 
 ## 2026-11-24
 
+* [A Buddhist Perspective on the Death Penalty](data/articles/a-buddhist-perspective-o.bf0a7913/README.md) `dailymirror.lk`
+* [From monsoon to management: Colombo’s heavy weather and building a flood-resilient Sri Lanka – Part II](data/articles/from-monsoon-to-manageme.50b66148/README.md) `ft.lk`
+* [From Colombo’s floods to climate finance: Wake-up call for Sri Lanka](data/articles/from-colombo-s-floods-to.ef4852b9/README.md) `ft.lk`
 * [Sri Lanka’s 2027 Budget: From economic stabilisation to economic transformation](data/articles/sri-lanka-s-2027-budget.906d3ae0/README.md) `ft.lk`
 
 ## 2026-11-23
