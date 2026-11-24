@@ -2,10 +2,17 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-23 18:11:24**
+Last Updated **2026-11-24 06:17:03**
+
+## 2026-11-24
+
+* [Sri Lanka’s 2027 Budget: From economic stabilisation to economic transformation](data/articles/sri-lanka-s-2027-budget.906d3ae0/README.md) `ft.lk`
 
 ## 2026-11-23
 
+* [Sri Lanka’s trade and diplomatic ties under fresh scrutiny post US midterm election](data/articles/sri-lanka-s-trade-and-di.4b4664fd/README.md) `ft.lk`
+* [Friends with all, subservient to none: Why Sri Lanka must guard its national interest](data/articles/friends-with-all-subserv.ff19c85d/README.md) `ft.lk`
+* [AKD, take that first step — The journey from which  there is no return](data/articles/akd-take-that-first-step.3d8d8a85/README.md) `ft.lk`
 * [Balancing Security and Rights:  The Evolution of Sri Lanka’s Anti-Terrorism Framework](data/articles/balancing-security-and-r.0a6e1884/README.md) `dailymirror.lk`
 * [Price of Looking Powerful: Trump’s Uneasy Summit in Shenzhen](data/articles/price-of-looking-powerfu.c6d0cc98/README.md) `dailymirror.lk`
 * [Sri Lanka must learn to save its rain](data/articles/sri-lanka-must-learn-to.c6d24279/README.md) `dailymirror.lk`
