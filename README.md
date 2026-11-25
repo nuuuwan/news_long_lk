@@ -2,10 +2,13 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-25 06:21:03**
+Last Updated **2026-11-25 18:11:59**
 
 ## 2026-11-25
 
+* [Orange the World Dutch ambassador urges  men  to join  fight on violence against women](data/articles/orange-the-world-dutch-a.8fd39101/README.md) `dailymirror.lk`
+* [Anuradhapura: Protecting our ancient water civilisation,  archaeological heritage and national land](data/articles/anuradhapura-protecting.473e2c90/README.md) `dailymirror.lk`
+* [‘Destructors’ take different forms in different countries](data/articles/destructors-take-differ.40434cbe/README.md) `dailymirror.lk`
 * [Sri Lanka’s Budget 2027: From economic recovery to better livelihoods](data/articles/sri-lanka-s-budget-2027.c6ccbcd4/README.md) `ft.lk`
 * [Stop financial bleeding before expanding SriLankan Airlines](data/articles/stop-financial-bleeding.121cf543/README.md) `ft.lk`
 * [Seizing new opportunities in China’s development, writing a new chapter in China-Sri Lanka cooperation](data/articles/seizing-new-opportunitie.8ea1801c/README.md) `ft.lk`
@@ -14,6 +17,7 @@ Last Updated **2026-11-25 06:21:03**
 
 ## 2026-11-24
 
+* [The Elephant  Doesn’t Need Us…  We Need the Elephant](data/articles/the-elephant-doesn-t-nee.bf7351a7/README.md) `dailymirror.lk`
 * [A Buddhist Perspective on the Death Penalty](data/articles/a-buddhist-perspective-o.bf0a7913/README.md) `dailymirror.lk`
 * [From monsoon to management: Colombo’s heavy weather and building a flood-resilient Sri Lanka – Part II](data/articles/from-monsoon-to-manageme.50b66148/README.md) `ft.lk`
 * [From Colombo’s floods to climate finance: Wake-up call for Sri Lanka](data/articles/from-colombo-s-floods-to.ef4852b9/README.md) `ft.lk`
