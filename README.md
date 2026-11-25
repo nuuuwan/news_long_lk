@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-24 18:10:56**
+Last Updated **2026-11-25 06:21:03**
+
+## 2026-11-25
+
+* [Sri Lanka’s Budget 2027: From economic recovery to better livelihoods](data/articles/sri-lanka-s-budget-2027.c6ccbcd4/README.md) `ft.lk`
+* [Stop financial bleeding before expanding SriLankan Airlines](data/articles/stop-financial-bleeding.121cf543/README.md) `ft.lk`
+* [Seizing new opportunities in China’s development, writing a new chapter in China-Sri Lanka cooperation](data/articles/seizing-new-opportunitie.8ea1801c/README.md) `ft.lk`
+* [Making aspiration affordable again: Notes from alternative Budget](data/articles/making-aspiration-afford.266e8494/README.md) `ft.lk`
+* [Anuradhapura: Protecting our ancient water civilisation, archaeological heritage and national land](data/articles/anuradhapura-protecting.3308256d/README.md) `ft.lk`
 
 ## 2026-11-24
 
