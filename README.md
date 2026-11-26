@@ -2,7 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-25 18:11:59**
+Last Updated **2026-11-26 06:20:07**
+
+## 2026-11-26
+
+* [Less goods, not just more money: Why tighter credit alone could make our inflation worse](data/articles/less-goods-not-just-more.e7f4016b/README.md) `ft.lk`
+* [Third perspective reveals awful truth of Budget 2027, Govt. strategy](data/articles/third-perspective-reveal.2dac3b9b/README.md) `ft.lk`
+* [From policy to protection: Why justice must be a right, not a privilege](data/articles/from-policy-to-protectio.f8148492/README.md) `ft.lk`
+* [Dengue: A persistent national  threat demanding year-round action](data/articles/dengue-a-persistent-nati.bb6d20cc/README.md) `ft.lk`
+* [Men’s mental health: Battles we never see](data/articles/men-s-mental-health-batt.4207b7f1/README.md) `ft.lk`
 
 ## 2026-11-25
 
