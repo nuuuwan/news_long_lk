@@ -2,10 +2,21 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-27 06:20:11**
+Last Updated **2026-11-27 18:11:29**
+
+## 2026-11-27
+
+* [India is region’s economic giant. Will Sri Lanka remain a neighbour or become a partner?](data/articles/india-is-region-s-econom.d45ac8f9/README.md) `ft.lk`
+* [Beneficial Ownership registration:  When compliance becomes a burden on businesses](data/articles/beneficial-ownership-reg.8e3806e1/README.md) `ft.lk`
+* [Budget blues](data/articles/budget-blues.c1d03d3b/README.md) `ft.lk`
+* [Five reasons Sri Lanka should go for another IMF program](data/articles/five-reasons-sri-lanka-s.fe640e10/README.md) `ft.lk`
+* [Budget 2027: Sri Lanka is running out of time. Trade agreements alone won’t save the economy](data/articles/budget-2027-sri-lanka-is.54bc9f78/README.md) `ft.lk`
 
 ## 2026-11-26
 
+* [What happens when  agitators become  administrators?](data/articles/what-happens-when-agitat.87731923/README.md) `dailymirror.lk`
+* [Whither justice as UN marks solidarity day with Palestinians?](data/articles/whither-justice-as-un-ma.2ea84758/README.md) `dailymirror.lk`
+* [A Cost-Free Solution to Railway Level-Crossing Accidents](data/articles/a-cost-free-solution-to.31ee65af/README.md) `dailymirror.lk`
 * [Budgetary shortfalls, strike actions leave governance at a crossroads](data/articles/budgetary-shortfalls-str.861f39d6/README.md) `dailymirror.lk`
 * [An uncertain ruling party and a confused opposition](data/articles/an-uncertain-ruling-part.93a85ac5/README.md) `dailymirror.lk`
 * [Expose the Names of cheating rogue shops](data/articles/expose-the-names-of-chea.d48d3045/README.md) `dailymirror.lk`
