@@ -2,10 +2,15 @@
 
 *Long-Form Articles & Opinions*
 
-Last Updated **2026-11-27 18:11:29**
+Last Updated **2026-11-28 06:18:41**
 
 ## 2026-11-27
 
+* [Sri Lanka opens doors to 1.4 b Chinese, but Sri Lankan traders still face a visa wall to China](data/articles/sri-lanka-opens-doors-to.06d23619/README.md) `ft.lk`
+* [A response to “Friends with all, subservient to none”](data/articles/a-response-to-friends-wi.90c6303f/README.md) `ft.lk`
+* [Why ethics must shape research training of degree students](data/articles/why-ethics-must-shape-re.e33c16be/README.md) `ft.lk`
+* [Attacks on humanitarian  assistance in Sri Lanka: 20  years on](data/articles/attacks-on-humanitarian.7670b2df/README.md) `ft.lk`
+* [Temporary ETA waiver needs proof travellers can show at check-in](data/articles/temporary-eta-waiver-nee.96284d2a/README.md) `ft.lk`
 * [India is region’s economic giant. Will Sri Lanka remain a neighbour or become a partner?](data/articles/india-is-region-s-econom.d45ac8f9/README.md) `ft.lk`
 * [Beneficial Ownership registration:  When compliance becomes a burden on businesses](data/articles/beneficial-ownership-reg.8e3806e1/README.md) `ft.lk`
 * [Budget blues](data/articles/budget-blues.c1d03d3b/README.md) `ft.lk`
